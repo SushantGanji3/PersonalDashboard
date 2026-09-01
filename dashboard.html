@@ -93,19 +93,19 @@
     grid-template-columns: 1.55fr 1fr 1fr;
     grid-template-areas:
       "schedule upnext   upnext"
-      "schedule assign   assign"
+      "schedule upnext   upnext"
       "inbox    inbox    inbox"
       "links    links    links";
     gap:16px;
   }
   .inbox-row{
-    grid-area:inbox; display:grid; grid-template-columns:repeat(3,1fr); gap:16px;
+    grid-area:inbox; display:grid; grid-template-columns:repeat(2,1fr); gap:16px;
     align-items:stretch;
   }
   .inbox-row .card{ height:100%; }
   @media (max-width: 900px){
     .grid{ grid-template-columns: 1fr; grid-template-areas:
-      "upnext" "schedule" "assign" "inbox" "links"; }
+      "upnext" "schedule" "inbox" "links"; }
     .inbox-row{ grid-template-columns: 1fr; }
   }
   .card{
@@ -150,9 +150,8 @@
   .class-block.is-now{ outline:2px solid var(--c); outline-offset:1px; }
   .day-empty{ font-size:11px; color:var(--ink-faint); padding:8px 0; }
 
-  /* ---------- up next / assignments ---------- */
+  /* ---------- up next ---------- */
   #card-upnext{ grid-area:upnext; }
-  #card-assign{ grid-area:assign; }
   .upnext-row{ display:flex; align-items:center; gap:12px; padding:10px 0; border-bottom:1px solid var(--line-soft); }
   .upnext-row:last-child{ border-bottom:none; }
   .upnext-swatch{ width:8px; height:36px; border-radius:4px; background:var(--c); flex:none; }
@@ -240,21 +239,6 @@
       <div id="upnext-list"></div>
     </section>
 
-    <section class="card" id="card-assign">
-      <div class="card-head">
-        <div><h2>Assignments</h2><div class="card-sub">Canvas · due dates &amp; upcoming work</div></div>
-        <span class="chip pending"><span class="dot"></span>Not connected</span>
-      </div>
-      <div class="empty-state">
-        <div>No Canvas token on file yet, so due dates can't be pulled in.</div>
-        <ol class="steps">
-          <li>Canvas → Account → Settings</li>
-          <li>Under Approved Integrations, click <strong>New Access Token</strong></li>
-          <li>Paste the generated token into chat</li>
-        </ol>
-      </div>
-    </section>
-
     <div class="inbox-row">
       <section class="card" id="card-gmail">
         <div class="card-head">
@@ -263,16 +247,6 @@
         </div>
         <div class="mail-list" id="gmail-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
-        </div>
-      </section>
-
-      <section class="card" id="card-outlook">
-        <div class="card-head">
-          <div><h2>Outlook</h2><div class="card-sub mono">sxg220252@utdallas.edu</div></div>
-          <span class="chip off"><span class="dot"></span>Not connected</span>
-        </div>
-        <div class="empty-state">
-          <div>Connect the Microsoft 365 tool in claude.ai → Settings → Connectors to bring UTD email in here. University tenants sometimes block this — worth trying anyway.</div>
         </div>
       </section>
 
@@ -289,9 +263,7 @@
 
     <section class="card" id="card-links">
       <span class="links-label">Quick links</span>
-      <a class="link-chip" href="https://coursebook.utdallas.edu/myclasses" target="_blank" rel="noopener">Coursebook</a>
       <a class="link-chip" href="https://elearning.utdallas.edu" target="_blank" rel="noopener">Canvas</a>
-      <a class="link-chip" href="https://www.utdallas.edu/academics/calendar/" target="_blank" rel="noopener">Academic Calendar</a>
       <a class="link-chip" href="https://mail.google.com" target="_blank" rel="noopener">Gmail</a>
       <a class="link-chip" href="https://outlook.office.com" target="_blank" rel="noopener">Outlook</a>
     </section>
