@@ -173,6 +173,8 @@
   .mail-dot.read{ background:transparent; }
   .mail-body{ min-width:0; flex:1; }
   .mail-subject{ font-size:12.5px; font-weight:600; line-height:1.3; }
+  .mail-subject a{ color:inherit; text-decoration:none; }
+  .mail-subject a:hover{ color:var(--forest); text-decoration:underline; }
   .mail-sender{ font-size:11px; color:var(--ink-faint); margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   .mail-time{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); flex:none; white-space:nowrap; }
   .skel{ background:linear-gradient(90deg,var(--surface-2),var(--line-soft),var(--surface-2)); background-size:200% 100%; animation:shimmer 1.4s infinite; border-radius:6px; }
@@ -465,11 +467,12 @@
       const senderRaw = msg.sender || 'Unknown sender';
       // Prefer the display name ("Jane Doe <jane@x.com>" -> "Jane Doe"); fall back to the bare address.
       const senderName = senderRaw.split('<')[0].trim().replace(/"/g,'') || senderRaw;
+      const threadUrl = `https://mail.google.com/mail/u/0/#inbox/${encodeURIComponent(t.id)}`;
       const row = document.createElement('div');
       row.className='mail-row';
       row.innerHTML = `<div class="mail-dot ${unread?'':'read'}"></div>
         <div class="mail-body">
-          <div class="mail-subject">${escapeHtml(msg.subject || '(no subject)')}</div>
+          <div class="mail-subject"><a href="${escapeHtml(threadUrl)}" target="_blank" rel="noopener">${escapeHtml(msg.subject || '(no subject)')}</a></div>
           <div class="mail-sender">${escapeHtml(senderName)}</div>
         </div>
         <div class="mail-time">${msg.date ? timeAgo(msg.date) : ''}</div>`;
