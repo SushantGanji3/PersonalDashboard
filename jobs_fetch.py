@@ -131,7 +131,9 @@ def collapse(postings):
     return out
 
 
-def main():
+def fetch_and_filter():
+    """Fetch + filter current open postings. Returns a list of dicts with
+    id/company/title/url/location/date_posted, newest-first, uncapped."""
     cfg = http_json(SOURCES_URL)
     filt = cfg["filters"]
     level_re = compile_kw(filt["level_keywords"])
@@ -187,7 +189,12 @@ def main():
         p.pop("degrees", None)
         p.pop("level_implied", None)
 
+    return postings
+
+
+def main():
     import datetime
+    postings = fetch_and_filter()
     out = {
         "generatedAt": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "count": len(postings),
