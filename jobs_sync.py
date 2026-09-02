@@ -11,8 +11,14 @@ live in one public GitHub Gist (GIST_ID below) instead of a git commit,
 since a gist gives a stable public raw URL the dashboard can fetch from
 client-side without exposing the rest of this (private) repo:
 
-  - jobs.json  -- the doc the dashboard's jobs card reads and renders
-  - seen.json  -- rolling id list (cap 1500) used to compute "isNew"
+  - jobs.json    -- the doc the dashboard's jobs card reads and renders (top 60)
+  - seen.json    -- rolling id list (cap 1500) used to compute "isNew"
+  - archive.json -- every unique posting seen in the last ARCHIVE_WINDOW_DAYS,
+                     read by the separate "All Jobs" page linked from the
+                     dashboard's jobs card. A posting ages out once its
+                     datePosted (or, if that's missing, the run that first
+                     saw it) is older than the window -- there's no other cap,
+                     so this is a true rolling 30-day history, not a top-N cut.
 
 Auth: needs a GitHub token with the "gist" scope in the GIST_TOKEN env var
 (set as a repo secret for the GitHub Actions run; for local testing you can
@@ -34,6 +40,8 @@ UA = "Mozilla/5.0 (dashboard-jobs-sync; personal use)"
 TIMEOUT = 25
 SEEN_CAP = 1500
 ITEMS_CAP = 60
+ARCHIVE_WINDOW_DAYS = 30
+ARCHIVE_SAFETY_CAP = 5000  # guards against pathological growth; the 30-day window is the real limit
 
 
 def gh_request(method, url, token, body=None):
@@ -49,6 +57,8 @@ def gh_request(method, url, token, body=None):
 
 def read_gist_file(token, filename, default):
     gist = gh_request("GET", GIST_API, token)
+    if filename not in gist["files"]:
+        return default
     raw_url = gist["files"][filename]["raw_url"]
     req = urllib.request.Request(raw_url, headers={"User-Agent": UA})
     try:
@@ -108,11 +118,36 @@ def main():
         union_ids = run_ids + keep_old
     seen_doc = {"ids": union_ids, "updatedAt": now}
 
+    now_epoch = int(datetime.datetime.utcnow().timestamp())
+    cutoff = now_epoch - ARCHIVE_WINDOW_DAYS * 86400
+    archive = read_gist_file(token, "archive.json", {"items": []})
+    archive_by_id = {a["id"]: a for a in archive.get("items") or []}
+    for p in postings:  # uncapped -- archive everything this run matched, not just the top 60
+        if p["id"] not in archive_by_id:
+            archive_by_id[p["id"]] = {
+                "id": p["id"],
+                "company": p["company"],
+                "title": p["title"],
+                "url": p["url"],
+                "location": p.get("location", ""),
+                "datePosted": p.get("date_posted"),
+                "firstSeenAt": now_epoch,
+            }
+
+    def effective_date(a):
+        return a.get("datePosted") or a.get("firstSeenAt") or 0
+
+    archive_items = [a for a in archive_by_id.values() if effective_date(a) >= cutoff]
+    archive_items.sort(key=effective_date, reverse=True)
+    archive_items = archive_items[:ARCHIVE_SAFETY_CAP]
+    archive_doc = {"generatedAt": now, "windowDays": ARCHIVE_WINDOW_DAYS, "items": archive_items}
+
     write_gist_files(token, {
         "jobs.json": json.dumps(jobs_doc, indent=2),
         "seen.json": json.dumps(seen_doc, indent=2),
+        "archive.json": json.dumps(archive_doc, indent=2),
     })
-    print(f"synced {len(items)} items ({sum(1 for i in items if i['isNew'])} new), seen list now {len(union_ids)} ids")
+    print(f"synced {len(items)} items ({sum(1 for i in items if i['isNew'])} new), seen list now {len(union_ids)} ids, archive now {len(archive_items)} items")
 
 
 if __name__ == "__main__":

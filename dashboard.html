@@ -189,6 +189,11 @@
   .job-title:hover{ color:var(--forest); }
   .job-loc{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); margin-top:3px; }
   .jobs-footer{ font-size:10.5px; color:var(--ink-faint); margin-top:10px; padding-top:8px; border-top:1px solid var(--line-soft); }
+  .view-all-link{
+    display:block; text-align:center; font-size:11.5px; font-weight:600; color:var(--forest);
+    text-decoration:none; margin-top:10px; padding-top:10px; border-top:1px solid var(--line-soft);
+  }
+  .view-all-link:hover{ text-decoration:underline; }
 
   /* ---------- links footer ---------- */
   #card-links{ grid-area:links; flex-direction:row; flex-wrap:wrap; align-items:center; gap:10px; padding:14px 20px; }
@@ -256,6 +261,7 @@
         <div class="job-list" id="job-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
         </div>
+        <a class="view-all-link" href="https://claude.ai/code/artifact/daae0bab-7a71-46e8-8767-8e11dd713bce" target="_blank" rel="noopener">View all jobs from the last 30 days →</a>
       </section>
     </div>
 
@@ -424,14 +430,26 @@
     return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   }
 
+  // Calendar-day string in America/Chicago (e.g. "2026-09-02"), used to keep
+  // only today's mail and to have that set reset itself at CST/CDT midnight
+  // on the next 5-minute refetch, with no separate timer needed.
+  function chicagoDateStr(date){
+    return new Intl.DateTimeFormat('en-CA', { timeZone:'America/Chicago', year:'numeric', month:'2-digit', day:'2-digit' }).format(date);
+  }
+
   function renderGmailThreads(threads){
     const list = document.getElementById('gmail-list');
-    if(!threads || threads.length===0){
-      list.innerHTML = '<div class="empty-state">Inbox is quiet — nothing in the last few days.</div>';
+    const today = chicagoDateStr(new Date());
+    const todaysThreads = (threads || []).filter(t=>{
+      const msg = (t.messages && t.messages[t.messages.length-1]) || {};
+      return msg.date && chicagoDateStr(new Date(msg.date)) === today;
+    });
+    if(todaysThreads.length===0){
+      list.innerHTML = '<div class="empty-state">Nothing in the inbox yet today.</div>';
       return;
     }
     list.innerHTML='';
-    threads.slice(0,7).forEach(t=>{
+    todaysThreads.forEach(t=>{
       const msg = (t.messages && t.messages[t.messages.length-1]) || {};
       const unread = (msg.labelIds||[]).includes('UNREAD');
       const senderRaw = msg.sender || 'Unknown sender';
@@ -465,7 +483,7 @@
     }
     setGmailChip('pending','Loading');
     mcp.watchTool('Gmail','search_threads',
-      { query:'newer_than:3d in:inbox', pageSize:8, view:'THREAD_VIEW_MINIMAL' },
+      { query:'newer_than:2d in:inbox', pageSize:50, view:'THREAD_VIEW_MINIMAL' },
       (ev)=>{
         if(ev.type==='data'){
           setGmailChip('live','Live');
