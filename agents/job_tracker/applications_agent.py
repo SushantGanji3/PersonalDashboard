@@ -197,11 +197,19 @@ def _extract_body(payload):
 # ---------------------------------------------------------------------------
 
 def classify_with_gemini(email_data):
-    """Send email to Gemini Flash and return structured classification."""
+    """Send email to Gemini and return structured classification using the SDK."""
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         print("ERROR: GEMINI_API_KEY environment variable not set", file=sys.stderr)
         sys.exit(1)
+
+    try:
+        import google.generativeai as genai
+    except ImportError:
+        print("ERROR: google-generativeai not installed. Run: pip install google-generativeai", file=sys.stderr)
+        sys.exit(1)
+
+    genai.configure(api_key=api_key)
 
     user_prompt = f"""From: {email_data['sender']}
 Subject: {email_data['subject']}
@@ -210,35 +218,33 @@ Date: {email_data['date']}
 Body:
 {email_data['body']}"""
 
-    payload = json.dumps({
-        "contents": [
-            {"role": "user", "parts": [{"text": SYSTEM_PROMPT + "\n\n---\n\n" + user_prompt}]}
-        ],
-        "generationConfig": {
-            "temperature": 0.1,
-            "maxOutputTokens": 512,
-        }
-    }).encode("utf-8")
+    full_prompt = SYSTEM_PROMPT + "\n\n---\n\n" + user_prompt
 
-    url = f"{GEMINI_API_URL}?key={api_key}"
-    req = Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
+    # Try models in order of preference
+    for model_name in ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b"]:
+        try:
+            model = genai.GenerativeModel(
+                model_name,
+                generation_config={"temperature": 0.1, "max_output_tokens": 512}
+            )
+            response = model.generate_content(full_prompt)
+            text = response.text.strip()
+            # Strip markdown code fences if present
+            text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
+            return json.loads(text)
+        except json.JSONDecodeError as e:
+            print(f"  Failed to parse Gemini JSON ({model_name}): {e}", file=sys.stderr)
+            return None
+        except Exception as e:
+            err_str = str(e)
+            if "404" in err_str or "not found" in err_str.lower():
+                print(f"  Model {model_name} not available, trying next...", file=sys.stderr)
+                continue
+            print(f"  Gemini error ({model_name}): {e}", file=sys.stderr)
+            return None
 
-    try:
-        with urlopen(req, timeout=30) as resp:
-            result = json.loads(resp.read().decode("utf-8"))
-    except URLError as e:
-        print(f"  Gemini API error: {e}", file=sys.stderr)
-        return None
-
-    # Extract text from response
-    try:
-        text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
-        # Strip markdown code fences if present
-        text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-        return json.loads(text)
-    except (KeyError, IndexError, json.JSONDecodeError) as e:
-        print(f"  Failed to parse Gemini response: {e} | Raw: {result}", file=sys.stderr)
-        return None
+    print("  All Gemini models failed.", file=sys.stderr)
+    return None
 
 
 # ---------------------------------------------------------------------------
