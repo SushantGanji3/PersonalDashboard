@@ -21,6 +21,7 @@ import os
 import re
 import sys
 import tempfile
+import time
 from datetime import datetime, timedelta, timezone
 from email import message_from_bytes
 from urllib.request import Request, urlopen
@@ -45,7 +46,7 @@ GMAIL_QUERY = (
 # Status priority — higher index = higher priority, never downgrade
 STATUS_PRIORITY = ["Applied", "OA", "Interview", "Offer", "Rejected"]
 
-GEMINI_MODEL = "gemini-1.5-flash-latest"
+GEMINI_MODEL = "gemini-2.0-flash"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 SYSTEM_PROMPT = """You analyze job application emails. Given an email's subject, sender, and body, return ONLY valid JSON (no markdown, no explanation):
@@ -404,38 +405,81 @@ def main():
     service = build_gmail_service()
     messages = gmail_search(service, GMAIL_QUERY, after_date_str)
 
+    # Job-related keywords for subject pre-filter — avoids fetching full body
+    # of obvious non-job emails (flight deals, rent, etc.)
+    JOB_SUBJECT_KEYWORDS = [
+        "application", "applied", "applying", "internship", "intern",
+        "interview", "assessment", "hackerrank", "codesignal", "codility",
+        "hirevue", "offer", "rejected", "unfortunately", "not selected",
+        "not moving forward", "position", "role", "engineer", "developer",
+        "software", "careers", "recruiting", "talent", "hiring",
+        "opportunity", "referral", "referred",
+    ]
+
+    def subject_looks_like_job(subject):
+        s = subject.lower()
+        return any(kw in s for kw in JOB_SUBJECT_KEYWORDS)
+
     if not messages:
-        print("No emails matched the search query. Check that GMAIL_TOKEN has the correct account.")
+        print("No emails matched the search query.")
     else:
-        # Debug: print first 5 subjects to verify search is working
-        print(f"\nSample of matched emails (first 5):")
-        for msg in messages[:5]:
+        print(f"\nStep 1: Fetching subjects for {len(messages)} candidate emails...")
+
+        # 3a. Fetch just metadata (subject + from) for all emails — cheap API call
+        #     Then pre-filter by subject before fetching full body
+        job_candidates = []
+        skipped = 0
+        for i, msg in enumerate(messages):
             try:
-                m = service.users().messages().get(userId="me", id=msg["id"], format="metadata",
-                    metadataHeaders=["Subject","From"]).execute()
-                hdrs = {h["name"]: h["value"] for h in m.get("payload",{}).get("headers",[])}
-                print(f"  Subject: {hdrs.get('Subject','(none)')[:80]}")
-                print(f"  From:    {hdrs.get('From','(none)')[:60]}")
+                m = service.users().messages().get(
+                    userId="me", id=msg["id"], format="metadata",
+                    metadataHeaders=["Subject", "From", "Date"]
+                ).execute()
+                hdrs = {h["name"].lower(): h["value"]
+                        for h in m.get("payload", {}).get("headers", [])}
+                subject = hdrs.get("subject", "")
+                sender = hdrs.get("from", "")
+
+                if subject_looks_like_job(subject):
+                    job_candidates.append({
+                        "id": msg["id"],
+                        "subject": subject,
+                        "sender": sender,
+                    })
+                else:
+                    skipped += 1
+
+                # Rate limit: pause every 10 fetches to avoid quota errors
+                if (i + 1) % 10 == 0:
+                    time.sleep(0.5)
+                else:
+                    time.sleep(0.1)
+
             except Exception as e:
-                print(f"  (could not fetch subject: {e})")
-        print()
-        print("No new emails to process.")
-    else:
-        # 3. Classify each email with Gemini
+                print(f"  Warning: could not fetch metadata for {msg['id']}: {e}", file=sys.stderr)
+                time.sleep(1)  # back off on error
+                continue
+
+        print(f"Pre-filter: {len(job_candidates)} job-related subjects, {skipped} skipped")
+
+        # 3b. For each job candidate, fetch full body and classify with Gemini
         processed = 0
         added_or_updated = 0
 
-        for msg in messages:
+        for i, candidate in enumerate(job_candidates):
             try:
-                email_data = fetch_email_content(service, msg["id"])
-                print(f"\nProcessing: {email_data['subject'][:80]}")
+                print(f"\n[{i+1}/{len(job_candidates)}] {candidate['subject'][:80]}")
+
+                email_data = fetch_email_content(service, candidate["id"])
+                time.sleep(0.3)  # rate limit Gmail full-body fetches
 
                 classification = classify_with_gemini(email_data)
+                time.sleep(0.5)  # rate limit Gemini calls
+
                 if classification is None:
                     continue
 
                 if classification.get("isJobEmail"):
-                    before_count = len(apps_list)
                     upsert_application(
                         apps_list,
                         classification,
@@ -449,10 +493,11 @@ def main():
                 processed += 1
 
             except Exception as e:
-                print(f"  ERROR processing message {msg['id']}: {e}", file=sys.stderr)
+                print(f"  ERROR: {e}", file=sys.stderr)
+                time.sleep(2)  # back off on error
                 continue
 
-        print(f"\nProcessed {processed}/{len(messages)} emails, {added_or_updated} job emails found")
+        print(f"\nProcessed {processed}/{len(job_candidates)} job candidates, {added_or_updated} applications added/updated")
 
     # 4. Sort applications: most recently updated first
     apps_list.sort(key=lambda a: a.get("lastUpdated", ""), reverse=True)
