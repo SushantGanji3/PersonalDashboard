@@ -46,9 +46,6 @@ GMAIL_QUERY = (
 # Status priority — higher index = higher priority, never downgrade
 STATUS_PRIORITY = ["Applied", "OA", "Interview", "Offer", "Rejected"]
 
-GEMINI_MODEL = "gemini-2.0-flash"
-GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-
 SYSTEM_PROMPT = """You analyze job application emails. Given an email's subject, sender, and body, return ONLY valid JSON (no markdown, no explanation):
 
 {
@@ -196,8 +193,11 @@ def _extract_body(payload):
 # Gemini classification
 # ---------------------------------------------------------------------------
 
+WORKING_MODEL = None
+
 def classify_with_gemini(email_data):
     """Send email to Gemini and return structured classification using the SDK."""
+    global WORKING_MODEL
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         print("ERROR: GEMINI_API_KEY environment variable not set", file=sys.stderr)
@@ -220,8 +220,12 @@ Body:
 
     full_prompt = SYSTEM_PROMPT + "\n\n---\n\n" + user_prompt
 
-    # Try models in order of preference
-    for model_name in ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b"]:
+    candidate_models = ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b", "gemini-1.5-pro"]
+    if WORKING_MODEL and WORKING_MODEL in candidate_models:
+        candidate_models.remove(WORKING_MODEL)
+        candidate_models.insert(0, WORKING_MODEL)
+
+    for model_name in candidate_models:
         try:
             model = genai.GenerativeModel(
                 model_name,
@@ -231,7 +235,11 @@ Body:
             text = response.text.strip()
             # Strip markdown code fences if present
             text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-            return json.loads(text)
+            result = json.loads(text)
+            if WORKING_MODEL != model_name:
+                WORKING_MODEL = model_name
+                print(f"  [Using Gemini model: {WORKING_MODEL}]")
+            return result
         except json.JSONDecodeError as e:
             print(f"  Failed to parse Gemini JSON ({model_name}): {e}", file=sys.stderr)
             return None
@@ -245,6 +253,7 @@ Body:
 
     print("  All Gemini models failed.", file=sys.stderr)
     return None
+
 
 
 # ---------------------------------------------------------------------------
