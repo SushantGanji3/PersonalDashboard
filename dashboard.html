@@ -559,11 +559,40 @@
     });
   }
 
+  // Fallback for when this page is opened outside the Claude Artifact runtime
+  // (local file, localhost, self-hosted): window.claude.use('mcp') doesn't
+  // exist there, so poll the Gist that .github/workflows/gmail-inbox-sync.yml
+  // updates every 15 min instead. See gmail_inbox_sync.py for how it's written
+  // — the payload is shaped to match the live MCP path so renderGmailThreads()
+  // needs no branching.
+  const GMAIL_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/gmail_inbox.json';
+  const GMAIL_GIST_POLL_MS = 300000;
+
+  async function initGmailFromGist(){
+    async function poll(){
+      try{
+        const res = await fetch(GMAIL_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        const doc = await res.json();
+        if(!doc.generatedAt){
+          setGmailChip('pending','Not synced yet');
+          document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Waiting on the first sync from gmail_inbox_sync.py.</div>';
+          return;
+        }
+        setGmailChip('live','Live');
+        renderGmailThreads(doc.threads || []);
+      }catch(e){
+        setGmailChip('error','Sync issue');
+      }
+    }
+    poll();
+    setInterval(poll, GMAIL_GIST_POLL_MS);
+  }
+
   async function initGmail(){
     const claudeObj = window.claude;
     if(!claudeObj || !claudeObj.use){
-      setGmailChip('off','No runtime');
-      document.getElementById('gmail-list').innerHTML = '<div class="empty-state">This preview surface can not run live connectors. Open the published page to see live Gmail.</div>';
+      initGmailFromGist();
       return;
     }
     const mcp = await claudeObj.use('mcp');
