@@ -6,12 +6,24 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Source behind a single published Claude Artifact — a personal dashboard ("Command Deck") at
 <https://claude.ai/code/artifact/b663355b-744d-40fa-b1f8-9516411cfaf7> — plus a real GitHub
-Actions automation that keeps a *self-hosted* copy of the same page fed with live jobs data.
-There is no build system or package manager: `dashboard.html` is the entire artifact (inline
-`<style>` and `<script>`, no external JS deps), and `jobs_fetch.py` / `jobs_sync.py` are
-standalone stdlib-only Python scripts. The live claude.ai Artifact page does **not** depend on
-anything in this repo running — see "New Grad SWE Jobs" below for why a self-hosted copy needs
-the GitHub Actions workflow but the Artifact copy doesn't.
+Actions automation that keeps a *self-hosted* copy of the same page fed with live jobs data. The
+self-hosted copy is deployed as a static site on Vercel at
+<https://personal-dashboard-blush-sigma.vercel.app/> (this repo stays private; only the built
+static files are public). There is no build system or package manager: `dashboard.html` is the
+entire artifact (inline `<style>` and `<script>`, no external JS deps), and `jobs_fetch.py` /
+`jobs_sync.py` are standalone stdlib-only Python scripts. The live claude.ai Artifact page does
+**not** depend on anything in this repo running — see "New Grad SWE Jobs" below for why a
+self-hosted copy needs the GitHub Actions workflow but the Artifact copy doesn't.
+
+The two copies exist because the claude.ai Artifact has a hard limitation the self-hosted copy
+doesn't: a published Artifact's CSP blocks all `fetch`/`XHR` to external hosts, and the only
+in-Artifact way to get live data past that (`write_db`, called by an AI agent) requires an
+interactive approval prompt every time with no way to pre-approve it for an unattended/scheduled
+run (confirmed via the stuck Cowork trigger below). The self-hosted copy sidesteps both problems
+by being a plain static file polling a public gist via `fetch()` — no AI or approval step
+anywhere in that path. This is a structural gap in the Artifact runtime, not a bug in this repo;
+if a future Artifact runtime version allows pre-approved/unattended `write_db` calls, the
+Cowork-task path becomes viable and this two-copy setup could be collapsed.
 
 ## Commands
 
@@ -86,3 +98,18 @@ excluded-grad-year exclusion → optional US-only location filter → dedupe by 
 Editing `dashboard.html` in this repo has no effect on its own — after making changes, ask
 Claude to republish it to the existing Artifact URL (not a new one) so the live page picks up
 the edit.
+
+## Updating the self-hosted page
+
+The self-hosted copy is a static deploy on Vercel (project `personal-dashboard`, account
+`sushantganji3`), configured by `vercel.json` (a single rewrite so `/` serves `dashboard.html`).
+It is **not** wired to auto-deploy on push — the GitHub repo connection failed on first deploy
+and wasn't retried, and isn't actually needed: job postings refresh live in the browser via
+`initJobsFromGist()`, independent of any redeploy. A redeploy is only needed when
+`dashboard.html` (or another served file) itself changes:
+
+```bash
+npx vercel --prod --yes
+```
+
+run from the repo root, after `npx vercel login` once per machine.
