@@ -148,6 +148,9 @@
   .class-block .title{ font-size:11.5px; margin-top:2px; color:var(--ink); line-height:1.3; }
   .class-block .meta{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-soft); margin-top:5px; }
   .class-block.is-now{ outline:2px solid var(--c); outline-offset:1px; }
+  .class-block.gcal-event{ border-left-style:dashed; }
+  .gcal-title{ font-size:12px; font-weight:600; color:var(--ink); line-height:1.3; }
+  .gcal-tag{ font-family:"IBM Plex Mono"; font-size:9.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--warn); margin-top:5px; }
   .day-empty{ font-size:11px; color:var(--ink-faint); padding:8px 0; }
 
   /* ---------- up next ---------- */
@@ -228,9 +231,9 @@
       <div class="card-head">
         <div>
           <h2>This Week</h2>
-          <div class="card-sub">Fall 2026 · pulled from Coursebook, room numbers included</div>
+          <div class="card-sub">Fall 2026 · Coursebook (static) + Google Calendar (live)</div>
         </div>
-        <span class="chip live"><span class="dot"></span>Static</span>
+        <span class="chip off" id="schedule-chip"><span class="dot"></span>Static</span>
       </div>
       <div class="week-cols" id="week-cols"></div>
     </section>
@@ -274,7 +277,7 @@
 
   </div>
 
-  <footer class="note">Schedule is a fixed Fall 2026 snapshot from Coursebook · Gmail refreshes live when this page is open · Job matches sync periodically from job-alerts</footer>
+  <footer class="note">Schedule combines a fixed Fall 2026 Coursebook snapshot with live Google Calendar events when this page is open · Gmail refreshes live when this page is open · Job matches sync periodically from job-alerts</footer>
 </div>
 
 <script>
@@ -291,105 +294,158 @@
   ];
   const DAY_NAMES = {1:'Mon',2:'Tue',3:'Wed',4:'Thu',5:'Fri'};
 
+  // Live Google Calendar events (everything that isn't a recurring class),
+  // populated by initCalendar(). Empty until the mcp connector resolves.
+  let CALENDAR_EVENTS = [];
+
   function toMinutes(hhmm){ const [h,m]=hhmm.split(':').map(Number); return h*60+m; }
   function fmtTime(hhmm){
     const [h,m]=hhmm.split(':').map(Number);
     const ap = h>=12?'pm':'am'; let h12=h%12; if(h12===0) h12=12;
     return h12+(m? ':'+String(m).padStart(2,'0'):'')+ap;
   }
+  function hhmmFromDate(d){ return String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0'); }
+
+  function mondayOfWeek(date){
+    const d = new Date(date);
+    const day = d.getDay(); // 0 sun .. 6 sat
+    d.setDate(d.getDate() + (day===0 ? -6 : 1-day));
+    d.setHours(0,0,0,0);
+    return d;
+  }
+
+  // Expands the static weekly COURSES pattern into concrete dated occurrences
+  // over [rangeStart, rangeStart+days), so it can be merged/sorted with
+  // actual-dated Google Calendar events.
+  function courseOccurrencesInRange(rangeStart, days){
+    const out=[];
+    for(let offset=0; offset<days; offset++){
+      const date = new Date(rangeStart); date.setDate(rangeStart.getDate()+offset);
+      const dow = date.getDay();
+      if(dow<1 || dow>5) continue;
+      COURSES.filter(c=>c.day===dow).forEach(c=>{
+        const [sh,sm]=c.start.split(':').map(Number);
+        const [eh,em]=c.end.split(':').map(Number);
+        const start=new Date(date); start.setHours(sh,sm,0,0);
+        const end=new Date(date); end.setHours(eh,em,0,0);
+        out.push({ kind:'course', code:c.code, title:c.title, subtitle:c.room+' · '+c.instructor, start, end, colorVar:c.c });
+      });
+    }
+    return out;
+  }
+
+  function calendarOccurrencesInRange(rangeStart, rangeEndExclusive){
+    return CALENDAR_EVENTS
+      .filter(e=>e.start>=rangeStart && e.start<rangeEndExclusive)
+      .map(e=>({ kind:'gcal', title:e.title, subtitle:e.location, start:e.start, end:e.end, allDay:e.allDay, url:e.url }));
+  }
 
   function renderSchedule(){
     const wrap = document.getElementById('week-cols');
     const now = new Date();
-    const todayDay = now.getDay(); // 0 sun .. 6 sat
-    const nowMin = now.getHours()*60+now.getMinutes();
+    const todayStr = chicagoDateStr(now);
+    const monday = mondayOfWeek(now);
+    const weekEnd = new Date(monday); weekEnd.setDate(monday.getDate()+5);
+    const allItems = courseOccurrencesInRange(monday,5).concat(calendarOccurrencesInRange(monday, weekEnd));
     wrap.innerHTML='';
     for(let d=1; d<=5; d++){
+      const dayDate = new Date(monday); dayDate.setDate(monday.getDate()+(d-1));
+      const dayStr = chicagoDateStr(dayDate);
+      const isToday = dayStr === todayStr;
       const col = document.createElement('div');
-      col.className = 'day-col' + (d===todayDay ? ' is-today':'');
+      col.className = 'day-col' + (isToday ? ' is-today':'');
       const head = document.createElement('div');
       head.className='day-head';
-      head.innerHTML = `<span>${DAY_NAMES[d]}</span>` + (d===todayDay?'<span class="today-dot"></span>':'');
+      head.innerHTML = `<span>${DAY_NAMES[d]}</span>` + (isToday?'<span class="today-dot"></span>':'');
       col.appendChild(head);
-      const entries = COURSES.filter(c=>c.day===d).sort((a,b)=>toMinutes(a.start)-toMinutes(b.start));
+      const entries = allItems.filter(it=>chicagoDateStr(it.start)===dayStr).sort((a,b)=>a.start-b.start);
       if(entries.length===0){
-        const e = document.createElement('div'); e.className='day-empty'; e.textContent='No classes';
+        const e = document.createElement('div'); e.className='day-empty'; e.textContent='Nothing scheduled';
         col.appendChild(e);
       }
       entries.forEach(entry=>{
-        const isNow = d===todayDay && nowMin>=toMinutes(entry.start) && nowMin<toMinutes(entry.end);
+        const isNow = isToday && now>=entry.start && now<entry.end;
         const b = document.createElement('div');
-        b.className = 'class-block' + (isNow?' is-now':'');
-        b.style.setProperty('--c', `var(${entry.c})`);
-        b.style.setProperty('--c-soft', `var(${entry.c}-soft)`);
-        b.innerHTML = `<div class="code">${entry.code}</div>
-          <div class="title">${entry.title}</div>
-          <div class="meta">${fmtTime(entry.start)}–${fmtTime(entry.end)} · ${entry.room}</div>`;
+        if(entry.kind==='course'){
+          b.className = 'class-block' + (isNow?' is-now':'');
+          b.style.setProperty('--c', `var(${entry.colorVar})`);
+          b.style.setProperty('--c-soft', `var(${entry.colorVar}-soft)`);
+          b.innerHTML = `<div class="code">${entry.code}</div>
+            <div class="title">${entry.title}</div>
+            <div class="meta">${fmtTime(hhmmFromDate(entry.start))}–${fmtTime(hhmmFromDate(entry.end))} · ${entry.subtitle}</div>`;
+        } else {
+          b.className = 'class-block gcal-event' + (isNow?' is-now':'');
+          b.style.setProperty('--c', 'var(--warn)');
+          b.style.setProperty('--c-soft', 'var(--warn-soft)');
+          const timeLabel = entry.allDay ? 'All day' : `${fmtTime(hhmmFromDate(entry.start))}–${fmtTime(hhmmFromDate(entry.end))}`;
+          b.innerHTML = `<div class="gcal-title">${escapeHtml(entry.title)}</div>
+            <div class="meta">${timeLabel}${entry.subtitle ? ' · '+escapeHtml(entry.subtitle) : ''}</div>
+            <div class="gcal-tag">Google Calendar</div>`;
+        }
         col.appendChild(b);
       });
       wrap.appendChild(col);
     }
   }
 
-  function computeNextClass(now){
-    const todayDay = now.getDay();
-    const nowMin = now.getHours()*60+now.getMinutes();
-    // in-progress today?
-    const inProgress = COURSES.find(c=>c.day===todayDay && nowMin>=toMinutes(c.start) && nowMin<toMinutes(c.end));
+  function computeNextItem(now){
+    const rangeStart = new Date(now); rangeStart.setHours(0,0,0,0);
+    const rangeEnd = new Date(rangeStart); rangeEnd.setDate(rangeStart.getDate()+8);
+    const items = courseOccurrencesInRange(rangeStart,8).concat(calendarOccurrencesInRange(rangeStart, rangeEnd));
+    const inProgress = items.find(it=> now>=it.start && now<it.end);
     if(inProgress) return {status:'now', entry:inProgress};
-    // look forward up to 7 days
-    for(let offset=0; offset<=7; offset++){
-      const d = ((todayDay - 1 + offset) % 7 + 7) % 7 + 1; // map into 1..7 space relative, keep simple below
-    }
-    // simpler: search days 1..5 in order starting today
-    let best=null, bestDelta=Infinity;
-    for(let offset=0; offset<8; offset++){
-      const checkDay = (todayDay + offset) % 7;
-      if(checkDay<1 || checkDay>5) continue;
-      const dayEntries = COURSES.filter(c=>c.day===checkDay).sort((a,b)=>toMinutes(a.start)-toMinutes(b.start));
-      for(const entry of dayEntries){
-        const entryMinFromNow = offset*1440 + toMinutes(entry.start) - nowMin;
-        if(entryMinFromNow>0 && entryMinFromNow<bestDelta){ bestDelta=entryMinFromNow; best={entry, offset}; }
-      }
-      if(best) break;
-    }
-    return best ? {status:'upcoming', entry:best.entry, minutesAway:bestDelta, offset:best.offset} : {status:'none'};
+    const upcoming = items.filter(it=>it.start>now).sort((a,b)=>a.start-b.start);
+    if(upcoming.length===0) return {status:'none'};
+    const entry = upcoming[0];
+    return {status:'upcoming', entry, minutesAway: Math.round((entry.start-now)/60000)};
   }
 
   function renderUpNext(){
     const now = new Date();
-    const res = computeNextClass(now);
+    const res = computeNextItem(now);
     const chip = document.getElementById('nextup-text');
     const list = document.getElementById('upnext-list');
     list.innerHTML='';
     if(res.status==='none'){
-      chip.textContent = 'No more classes scheduled this week';
-      list.innerHTML = '<div class="empty-state">Nothing left on the class calendar for this week.</div>';
+      chip.textContent = 'Nothing else scheduled this week';
+      list.innerHTML = '<div class="empty-state">Nothing left on the calendar for this week.</div>';
       return;
     }
+    const label = res.entry.kind==='course' ? res.entry.code : res.entry.title;
     if(res.status==='now'){
-      chip.textContent = `In class now — ${res.entry.code} ends ${fmtTime(res.entry.end)}`;
+      chip.textContent = `${res.entry.kind==='course' ? 'In class now' : 'In progress'} — ${label} ends ${fmtTime(hhmmFromDate(res.entry.end))}`;
     } else {
       const h = Math.floor(res.minutesAway/60), m = res.minutesAway%60;
-      const dayLabel = res.offset===0 ? 'today' : (res.offset===1 ? 'tomorrow' : DAY_NAMES[( (now.getDay()+res.offset-1)%7)+1] || '');
-      chip.textContent = `${res.entry.code} in ${h>0?h+'h ':''}${m}m (${dayLabel} ${fmtTime(res.entry.start)})`;
+      const entryDayStr = chicagoDateStr(res.entry.start);
+      const tomorrowStr = chicagoDateStr(new Date(now.getTime()+86400000));
+      const dayLabel = entryDayStr===chicagoDateStr(now) ? 'today' : (entryDayStr===tomorrowStr ? 'tomorrow' : res.entry.start.toLocaleDateString('en-US',{weekday:'short'}));
+      chip.textContent = `${label} in ${h>0?h+'h ':''}${m}m (${dayLabel} ${fmtTime(hhmmFromDate(res.entry.start))})`;
     }
-    // build today's remaining list
-    const todayDay = now.getDay();
-    const nowMin = now.getHours()*60+now.getMinutes();
-    const remaining = COURSES.filter(c=>c.day===todayDay && toMinutes(c.end)>nowMin).sort((a,b)=>toMinutes(a.start)-toMinutes(b.start));
-    if(remaining.length===0){
-      list.innerHTML = '<div class="empty-state">No more classes today.</div>';
+    const rangeStart = new Date(now); rangeStart.setHours(0,0,0,0);
+    const rangeEnd = new Date(rangeStart); rangeEnd.setDate(rangeStart.getDate()+1);
+    const todays = courseOccurrencesInRange(rangeStart,1).concat(calendarOccurrencesInRange(rangeStart, rangeEnd))
+      .filter(it=>it.end>now).sort((a,b)=>a.start-b.start);
+    if(todays.length===0){
+      list.innerHTML = '<div class="empty-state">Nothing else today.</div>';
       return;
     }
-    remaining.forEach(entry=>{
+    todays.forEach(entry=>{
       const row = document.createElement('div');
       row.className='upnext-row';
-      row.innerHTML = `<div class="upnext-swatch" style="--c:var(${entry.c})"></div>
-        <div>
-          <div class="upnext-title">${entry.code} · ${fmtTime(entry.start)}–${fmtTime(entry.end)}</div>
-          <div class="upnext-meta">${entry.room} · ${entry.instructor}</div>
-        </div>`;
+      if(entry.kind==='course'){
+        row.innerHTML = `<div class="upnext-swatch" style="--c:var(${entry.colorVar})"></div>
+          <div>
+            <div class="upnext-title">${entry.code} · ${fmtTime(hhmmFromDate(entry.start))}–${fmtTime(hhmmFromDate(entry.end))}</div>
+            <div class="upnext-meta">${entry.subtitle}</div>
+          </div>`;
+      } else {
+        const timeLabel = entry.allDay ? 'All day' : `${fmtTime(hhmmFromDate(entry.start))}–${fmtTime(hhmmFromDate(entry.end))}`;
+        row.innerHTML = `<div class="upnext-swatch" style="--c:var(--warn)"></div>
+          <div>
+            <div class="upnext-title">${escapeHtml(entry.title)} · ${timeLabel}</div>
+            <div class="upnext-meta">${entry.subtitle ? escapeHtml(entry.subtitle) : 'Google Calendar'}</div>
+          </div>`;
+      }
       list.appendChild(row);
     });
   }
@@ -513,6 +569,75 @@
     );
   }
   initGmail();
+
+  // ---------------- Google Calendar: live via mcp capability ----------------
+  // Merged into the Schedule/Up Next views alongside the static COURSES
+  // pattern, so anything on the user's calendar (not just class meetings)
+  // shows up there too.
+  function setScheduleChip(kind, text){
+    const chip = document.getElementById('schedule-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  function normalizeGCalEvent(ev){
+    const startRaw = ev.start || {};
+    const endRaw = ev.end || {};
+    const allDay = !!startRaw.date && !startRaw.dateTime;
+    return {
+      id: ev.id,
+      title: ev.summary || '(untitled event)',
+      start: new Date(startRaw.dateTime || startRaw.date),
+      end: new Date(endRaw.dateTime || endRaw.date || startRaw.dateTime || startRaw.date),
+      allDay,
+      location: ev.location || '',
+      url: ev.htmlLink || ''
+    };
+  }
+
+  async function initCalendar(){
+    const claudeObj = window.claude;
+    if(!claudeObj || !claudeObj.use){
+      setScheduleChip('off','Static only');
+      return;
+    }
+    const mcp = await claudeObj.use('mcp');
+    if(!mcp){
+      setScheduleChip('off','Static only');
+      return;
+    }
+    setScheduleChip('pending','Connecting');
+    const startTime = new Date();
+    const endTime = new Date(startTime.getTime() + 8*86400000);
+    mcp.watchTool('Google Calendar','list_events',
+      { startTime: startTime.toISOString(), endTime: endTime.toISOString(), orderBy:'startTime', pageSize:100, timeZone:'America/Chicago' },
+      (ev)=>{
+        if(ev.type==='data'){
+          const payload = ev.result.payload || {};
+          CALENDAR_EVENTS = (payload.events || [])
+            .filter(e=>e.status!=='cancelled')
+            .map(normalizeGCalEvent)
+            .filter(e=>!isNaN(e.start.getTime()));
+          setScheduleChip('live','Static + Live');
+          renderSchedule();
+          renderUpNext();
+        } else if(ev.type==='error'){
+          const code = ev.error && ev.error.code;
+          if(code==='needs_reauth'){
+            setScheduleChip('error','Reconnect Calendar');
+          } else if(code==='server_not_connected' || code==='not_granted' || code==='capability_disabled'){
+            setScheduleChip('off','Static only');
+          } else if(code==='selection_required'){
+            setScheduleChip('error','Pick an account');
+          } else {
+            setScheduleChip('error','Calendar issue');
+          }
+        }
+      },
+      { refetchInterval: 300000 }
+    );
+  }
+  initCalendar();
 
   // ---------------- Jobs: shared db doc, updated by a scheduled fetch ----------------
   function setJobsChip(kind, text){
