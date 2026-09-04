@@ -1,4 +1,4 @@
-name: Gmail Inbox Sync
+name: Gmail Sync
 
 on:
   schedule:
@@ -26,4 +26,4 @@ jobs:
         env:
           GMAIL_TOKEN: ${{ secrets.GMAIL_TOKEN }}
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-        run: python3 agents/job_tracker/gmail_inbox_sync.py
+        run: python3 agents/gmail_sync/gmail_sync.py

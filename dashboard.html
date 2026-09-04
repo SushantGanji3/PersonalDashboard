@@ -561,10 +561,10 @@
 
   // Fallback for when this page is opened outside the Claude Artifact runtime
   // (local file, localhost, self-hosted): window.claude.use('mcp') doesn't
-  // exist there, so poll the Gist that .github/workflows/gmail-inbox-sync.yml
-  // updates every 15 min instead. See gmail_inbox_sync.py for how it's written
-  // — the payload is shaped to match the live MCP path so renderGmailThreads()
-  // needs no branching.
+  // exist there, so poll the Gist that .github/workflows/gmail-sync.yml
+  // updates every 15 min instead. See agents/gmail_sync/gmail_sync.py for how
+  // it's written — the payload is shaped to match the live MCP path so
+  // renderGmailThreads() needs no branching.
   const GMAIL_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/gmail_inbox.json';
   const GMAIL_GIST_POLL_MS = 300000;
 
@@ -576,7 +576,7 @@
         const doc = await res.json();
         if(!doc.generatedAt){
           setGmailChip('pending','Not synced yet');
-          document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Waiting on the first sync from gmail_inbox_sync.py.</div>';
+          document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Waiting on the first sync from gmail_sync.py.</div>';
           return;
         }
         setGmailChip('live','Live');
@@ -678,10 +678,49 @@
     { key:'utd', calendarId: 'rlpdnru9cc7045oebe02017r0il7k9b0@import.calendar.google.com' }
   ];
 
+  // Fallback for when this page is opened outside the Claude Artifact runtime
+  // (local file, localhost, self-hosted): window.claude.use('mcp') doesn't
+  // exist there, so poll the Gist that .github/workflows/calendar-sync.yml
+  // updates every 15 min instead. See agents/calendar_sync/calendar_sync.py
+  // for how it's written
+  // — each source's events are shaped exactly like the live MCP payload's
+  // `events` array, so normalizeGCalEvent()/rebuildCalendarEvents() need no
+  // branching between the live and gist paths.
+  const CALENDAR_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/calendar_sync.json';
+  const CALENDAR_GIST_POLL_MS = 300000;
+
+  async function initCalendarFromGist(){
+    async function poll(){
+      try{
+        const res = await fetch(CALENDAR_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        const doc = await res.json();
+        if(!doc.generatedAt){
+          setScheduleChip('pending','Not synced yet');
+          return;
+        }
+        const sources = doc.sources || {};
+        Object.keys(sources).forEach(key=>{
+          CALENDAR_SOURCES[key] = (sources[key] || [])
+            .filter(e=>e.status!=='cancelled')
+            .map(normalizeGCalEvent)
+            .filter(e=>!isNaN(e.start.getTime()))
+            .map(e=>({ ...e, source:key }));
+        });
+        setScheduleChip('live','Static + Live');
+        rebuildCalendarEvents();
+      }catch(e){
+        setScheduleChip('error','Sync issue');
+      }
+    }
+    poll();
+    setInterval(poll, CALENDAR_GIST_POLL_MS);
+  }
+
   async function initCalendar(){
     const claudeObj = window.claude;
     if(!claudeObj || !claudeObj.use){
-      setScheduleChip('off','Static only');
+      initCalendarFromGist();
       return;
     }
     const mcp = await claudeObj.use('mcp');

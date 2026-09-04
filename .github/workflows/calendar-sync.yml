@@ -1,0 +1,29 @@
+name: Calendar Sync
+
+on:
+  schedule:
+    # Every 15 minutes — matches the live Artifact's Calendar refetch cadence
+    # closely enough for the self-hosted dashboard's schedule card.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          pip install \
+            google-auth \
+            google-auth-oauthlib \
+            google-auth-httplib2 \
+            google-api-python-client
+      - name: Run Calendar sync
+        env:
+          GMAIL_TOKEN: ${{ secrets.GMAIL_TOKEN }}
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: python3 agents/calendar_sync/calendar_sync.py

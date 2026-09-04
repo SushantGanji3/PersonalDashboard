@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
-gmail_inbox_sync.py — Inbox digest sync for the self-hosted dashboard.
+gmail_sync.py — Inbox digest sync for the self-hosted dashboard.
 
-Runs every 15 minutes via GitHub Actions. Reads the last two days of inbox
-mail via the Gmail API and writes it to a Gist in the same shape the live
-Artifact's `window.claude.use('mcp')` -> Gmail `search_threads` payload
+A standalone agent, separate from agents/job_tracker (which tracks job
+application status) and agents/calendar_sync — this one only mirrors the
+inbox. Runs every 15 minutes via GitHub Actions. Reads the last two days of
+inbox mail via the Gmail API and writes it to a Gist in the same shape the
+live Artifact's `window.claude.use('mcp')` -> Gmail `search_threads` payload
 already has, so dashboard.html's renderGmailThreads() can render either
 source unchanged.
 
@@ -13,8 +15,9 @@ the in-Artifact MCP connector. This exists only so the self-hosted static
 copy (which has no such connector) can show something too.
 
 Required environment variables:
-  GMAIL_TOKEN — base64-encoded token.json from gmail_auth.py (same token
-                already used by applications_agent.py)
+  GMAIL_TOKEN — base64-encoded token.json from agents/job_tracker/gmail_auth.py
+                (same shared Google OAuth token used by applications_agent.py
+                and agents/calendar_sync/calendar_sync.py)
   GIST_TOKEN  — GitHub token with gist scope (reused from jobs-sync)
 """
 

@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
 """
-gmail_auth.py — One-time Gmail OAuth2 authorization helper.
+gmail_auth.py — One-time Google OAuth2 authorization helper (Gmail + Calendar).
 
 Run this script ONCE locally to generate token.json.
 After running:
   1. base64 -i token.json | tr -d '\\n'   (copy the output)
-  2. Add it as a GitHub secret: GMAIL_TOKEN
+  2. Update the GitHub secret: GMAIL_TOKEN (gh secret set GMAIL_TOKEN)
+
+If token.json already exists but was authorized for a narrower scope list
+(e.g. Gmail only, before Calendar was added), this re-runs the consent flow
+rather than silently refreshing a token that Google never actually granted
+Calendar access to.
 
 Usage:
   python3 agents/job_tracker/gmail_auth.py
 """
 
+import json
 import os
 import sys
 from pathlib import Path
@@ -19,7 +25,10 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 CLIENT_SECRET_PATH = SCRIPT_DIR / "client_secret.json"
 TOKEN_PATH = SCRIPT_DIR / "token.json"
 
-SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
+SCOPES = [
+    "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/calendar.readonly",
+]
 
 
 def main():
@@ -43,17 +52,23 @@ def main():
 
     creds = None
 
-    # Check if token.json already exists and is still valid
+    # Check if token.json already exists, is still valid, AND actually
+    # covers every scope we need — a stale token authorized for a narrower
+    # scope list (e.g. Gmail only) must be re-consented, not just refreshed.
     if TOKEN_PATH.exists():
-        creds = Credentials.from_authorized_user_file(str(TOKEN_PATH), SCOPES)
+        granted = set(json.loads(TOKEN_PATH.read_text()).get("scopes", []))
+        if set(SCOPES).issubset(granted):
+            creds = Credentials.from_authorized_user_file(str(TOKEN_PATH), SCOPES)
+        else:
+            print("Existing token.json doesn't cover all required scopes — re-authorizing.")
 
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             print("Refreshing existing token...")
             creds.refresh(Request())
         else:
-            print("Opening browser for Gmail authorization...")
-            print("Sign in with sushantganji17@gmail.com and approve read access.")
+            print("Opening browser for Google authorization...")
+            print("Sign in with sushantganji17@gmail.com and approve read access to Gmail and Calendar.")
             flow = InstalledAppFlow.from_client_secrets_file(str(CLIENT_SECRET_PATH), SCOPES)
             creds = flow.run_local_server(port=0)
 
