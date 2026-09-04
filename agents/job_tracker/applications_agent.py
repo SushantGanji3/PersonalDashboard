@@ -33,21 +33,13 @@ from urllib.error import URLError
 SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
 BACKFILL_DAYS = 90
 
-# Gmail search query — broad full-text search, Gemini filters false positives
-# No subject: prefix — searches entire email body + subject
+# Gmail search query — intentionally very broad; Gemini filters false positives.
+# Searches full email text (body + subject). The OR terms cover the most common
+# phrases found in job application confirmation, OA, interview, and rejection emails.
 GMAIL_QUERY = (
-    '('
-    '"application received" OR "thank you for applying" OR '
-    '"we received your application" OR "your application" OR '
-    '"you\'ve applied" OR "applied to" OR "application submitted" OR '
-    '"application confirmation" OR "application for" OR '
-    '"online assessment" OR "complete your application" OR '
-    '"hackerrank" OR "codesignal" OR "codility" OR "hireVue" OR '
-    '"karat" OR "pymetrics" OR '
-    '"interview" OR "offer of employment" OR "offer letter" OR '
-    '"unfortunately" OR "not moving forward" OR "other direction" OR '
-    '"we will not" OR "decided to move" OR "position has been filled"'
-    ')'
+    '"application" OR "internship" OR "interview" OR '
+    '"hackerrank" OR "codesignal" OR "assessment" OR '
+    '"offer" OR "rejected" OR "not selected"'
 )
 
 # Status priority — higher index = higher priority, never downgrade
@@ -413,6 +405,20 @@ def main():
     messages = gmail_search(service, GMAIL_QUERY, after_date_str)
 
     if not messages:
+        print("No emails matched the search query. Check that GMAIL_TOKEN has the correct account.")
+    else:
+        # Debug: print first 5 subjects to verify search is working
+        print(f"\nSample of matched emails (first 5):")
+        for msg in messages[:5]:
+            try:
+                m = service.users().messages().get(userId="me", id=msg["id"], format="metadata",
+                    metadataHeaders=["Subject","From"]).execute()
+                hdrs = {h["name"]: h["value"] for h in m.get("payload",{}).get("headers",[])}
+                print(f"  Subject: {hdrs.get('Subject','(none)')[:80]}")
+                print(f"  From:    {hdrs.get('From','(none)')[:60]}")
+            except Exception as e:
+                print(f"  (could not fetch subject: {e})")
+        print()
         print("No new emails to process.")
     else:
         # 3. Classify each email with Gemini
