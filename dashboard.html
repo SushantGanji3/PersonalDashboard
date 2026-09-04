@@ -187,6 +187,39 @@
   .link-chip:hover{ background:var(--forest-soft); color:var(--forest); }
 
   footer.note{ margin-top:18px; font-size:11px; color:var(--ink-faint); text-align:center; }
+
+  /* ---------- applications card ---------- */
+  .apps-status-bar{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
+  .apps-status-pill{
+    font-size:11px; font-weight:600; padding:3px 10px; border-radius:100px; display:inline-flex; align-items:center; gap:5px;
+  }
+  .apps-status-pill.Applied{ background:var(--surface-2); color:var(--ink-soft); }
+  .apps-status-pill.OA{ background:var(--warn-soft); color:var(--warn); }
+  .apps-status-pill.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .apps-status-pill.Offer{ background:var(--good-soft); color:var(--good); }
+  .apps-status-pill.Rejected{ background:var(--danger-soft); color:var(--danger); }
+  .apps-row{ padding:8px 0; border-bottom:1px solid var(--line-soft); display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
+  .apps-row:last-child{ border-bottom:none; }
+  .apps-company{ font-size:12.5px; font-weight:600; }
+  .apps-role{ font-size:11.5px; color:var(--ink-soft); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .apps-badge{
+    font-size:10.5px; font-weight:600; padding:2px 8px; border-radius:100px; flex:none;
+    display:inline-flex; align-items:center; gap:4px;
+  }
+  .apps-badge .dot{ width:5px; height:5px; border-radius:50%; }
+  .apps-badge.Applied{ background:var(--surface-2); color:var(--ink-soft); }
+  .apps-badge.Applied .dot{ background:var(--ink-faint); }
+  .apps-badge.OA{ background:var(--warn-soft); color:var(--warn); }
+  .apps-badge.OA .dot{ background:var(--warn); }
+  .apps-badge.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .apps-badge.Interview .dot{ background:var(--forest); }
+  .apps-badge.Offer{ background:var(--good-soft); color:var(--good); }
+  .apps-badge.Offer .dot{ background:var(--good); }
+  .apps-badge.Rejected{ background:var(--danger-soft); color:var(--danger); }
+  .apps-badge.Rejected .dot{ background:var(--danger); }
+  .apps-deadline{ font-size:10px; color:var(--warn); font-weight:600; margin-top:2px; }
+  .apps-deadline.urgent{ color:var(--danger); }
+  .apps-list-inner{ display:flex; flex-direction:column; gap:2px; max-height:280px; overflow-y:auto; }
 </style>
 
 <div class="wrap">
@@ -238,6 +271,21 @@
         <a class="view-all-link" href="https://claude.ai/code/artifact/daae0bab-7a71-46e8-8767-8e11dd713bce" target="_blank" rel="noopener">View all jobs from the last 30 days →</a>
       </section>
     </div>
+
+    <section class="card" id="card-applications">
+      <div class="card-head">
+        <div>
+          <h2>My Applications</h2>
+          <div class="card-sub" id="apps-sub">Loading…</div>
+        </div>
+        <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
+      </div>
+      <div class="apps-status-bar" id="apps-status-bar"></div>
+      <div class="apps-list-inner" id="apps-list-inner">
+        <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+      </div>
+      <a class="view-all-link" href="applications.html">View all applications →</a>
+    </section>
 
     <section class="card" id="card-links">
       <span class="links-label">Quick links</span>
@@ -758,4 +806,93 @@
     );
   }
   initJobs();
+
+  // ---------------- Applications: agent-synced via Gist ----------------
+  const APPS_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/applications.json';
+
+  function setAppsChip(kind, text){
+    const chip = document.getElementById('apps-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  function renderApplicationsCard(data){
+    if(!data || !data.generatedAt){
+      setAppsChip('pending','Not synced yet');
+      document.getElementById('apps-sub').textContent = 'Waiting on first agent run';
+      document.getElementById('apps-list-inner').innerHTML = '<div class="empty-state">No applications tracked yet.</div>';
+      return;
+    }
+
+    const apps = data.applications || [];
+    const sc = data.statusCounts || {};
+    const total = apps.length;
+
+    setAppsChip('live','Live');
+    document.getElementById('apps-sub').textContent = `${total} application${total !== 1 ? 's' : ''} tracked · synced ${jobsAgo(data.generatedAt)}`;
+
+    // Status bar
+    const bar = document.getElementById('apps-status-bar');
+    bar.innerHTML = '';
+    ['Applied','OA','Interview','Offer','Rejected'].forEach(s => {
+      if(!sc[s]) return;
+      const pill = document.createElement('span');
+      pill.className = 'apps-status-pill ' + s;
+      pill.textContent = `${s}: ${sc[s]}`;
+      bar.appendChild(pill);
+    });
+
+    // Recent applications list (top 5, sorted by lastUpdated)
+    const list = document.getElementById('apps-list-inner');
+    if(apps.length === 0){
+      list.innerHTML = '<div class="empty-state">No applications yet.</div>';
+      return;
+    }
+    list.innerHTML = '';
+    apps.slice(0, 5).forEach(app => {
+      const row = document.createElement('div');
+      row.className = 'apps-row';
+      const deadlineDays = app.deadline
+        ? Math.round((new Date(app.deadline).getTime() - Date.now()) / 86400000)
+        : null;
+      const deadlineHtml = (deadlineDays !== null && deadlineDays >= 0)
+        ? `<div class="apps-deadline ${deadlineDays <= 3 ? 'urgent' : ''}">⏰ Due in ${deadlineDays}d</div>`
+        : '';
+      row.innerHTML = `
+        <div style="min-width:0;flex:1;">
+          <div class="apps-company">${escapeHtml(app.company)}</div>
+          <div class="apps-role">${escapeHtml(app.role)}</div>
+          ${deadlineHtml}
+        </div>
+        <span class="apps-badge ${escapeHtml(app.status)}"><span class="dot"></span>${escapeHtml(app.status)}</span>`;
+      list.appendChild(row);
+    });
+  }
+
+  async function initApplications(){
+    const claudeObj = window.claude;
+    if(claudeObj && claudeObj.use){
+      const db = await claudeObj.use('db');
+      if(db){
+        db.doc('dashboard/applications').onSnapshot(
+          (snap) => renderApplicationsCard(snap.exists ? snap.data() : null),
+          () => setAppsChip('error','Sync issue')
+        );
+        return;
+      }
+    }
+    // Gist fallback
+    async function poll(){
+      try{
+        const res = await fetch(APPS_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        renderApplicationsCard(await res.json());
+      }catch(e){
+        setAppsChip('error','Sync issue');
+      }
+    }
+    poll();
+    setInterval(poll, 300000);
+  }
+  initApplications();
 </script>

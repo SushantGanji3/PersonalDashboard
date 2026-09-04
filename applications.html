@@ -1,0 +1,430 @@
+<title>My Applications — Command Deck</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,680&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root{
+    --ink:#14201a; --ink-soft:#4b5850; --ink-faint:#7c877f;
+    --paper:#f2f4f0; --surface:#ffffff; --surface-2:#eaeee6;
+    --line:#d7ddd0; --line-soft:#e6e9e0;
+    --forest:#1c4d33; --forest-soft:#e3ede6;
+    --ember:#c85a28; --ember-soft:#f7e6da;
+    --good:#2f8f5b; --good-soft:#e3f1e9;
+    --warn:#b8811f; --warn-soft:#f6ecd8;
+    --danger:#c1442c; --danger-soft:#f7e2dd;
+    --shadow: 0 1px 2px rgba(20,32,26,0.04), 0 8px 24px -12px rgba(20,32,26,0.12);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
+      --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
+      --line:#2b322a; --line-soft:#242a22;
+      --forest:#6fc498; --forest-soft:#1b2a21;
+      --ember:#f0925a; --ember-soft:#2c1f16;
+      --good:#5cbf8c; --good-soft:#16261d;
+      --warn:#e0ac4f; --warn-soft:#2a2213;
+      --danger:#e2705a; --danger-soft:#2b1a15;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
+    --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
+    --line:#2b322a; --line-soft:#242a22;
+    --forest:#6fc498; --forest-soft:#1b2a21;
+    --ember:#f0925a; --ember-soft:#2c1f16;
+    --good:#5cbf8c; --good-soft:#16261d;
+    --warn:#e0ac4f; --warn-soft:#2a2213;
+    --danger:#e2705a; --danger-soft:#2b1a15;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    color-scheme: dark;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size:14px; line-height:1.45; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{ max-width:960px; margin:0 auto; padding:28px 24px 56px; }
+  h1{ font-family:"Fraunces", Georgia, serif; margin:0; font-size:26px; font-weight:680; }
+  a{ color:inherit; }
+
+  /* Header */
+  header.top{ margin-bottom:18px; padding-bottom:16px; border-bottom:1px solid var(--line); }
+  .back-link{ display:inline-block; margin-bottom:10px; font-size:12.5px; color:var(--forest); text-decoration:none; font-weight:600; }
+  .back-link:hover{ text-decoration:underline; }
+  .header-row{ display:flex; align-items:flex-start; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  .sub{ color:var(--ink-faint); font-size:12.5px; margin-top:6px; }
+
+  /* Chip */
+  .chip{
+    font-size:11px; font-weight:600; letter-spacing:.02em; padding:4px 10px; border-radius:100px;
+    white-space:nowrap; display:inline-flex; align-items:center; gap:6px;
+    background:var(--surface-2); color:var(--ink-faint); margin-top:8px;
+  }
+  .chip .dot{ width:6px; height:6px; border-radius:50%; background:var(--ink-faint); }
+  .chip.live{ background:var(--forest-soft); color:var(--forest); }
+  .chip.live .dot{ background:var(--forest); }
+  .chip.error{ background:var(--danger-soft); color:var(--danger); }
+  .chip.error .dot{ background:var(--danger); }
+  .chip.pending{ background:var(--warn-soft); color:var(--warn); }
+  .chip.pending .dot{ background:var(--warn); }
+
+  /* Status summary bar */
+  .status-bar{ display:flex; gap:8px; flex-wrap:wrap; margin-bottom:18px; }
+  .status-pill{
+    font-size:12px; font-weight:600; padding:5px 12px; border-radius:100px;
+    cursor:pointer; transition:opacity .15s; border:2px solid transparent;
+    display:inline-flex; align-items:center; gap:6px;
+  }
+  .status-pill:hover{ opacity:.8; }
+  .status-pill.active{ border-color:currentColor; }
+  .status-pill.all{ background:var(--surface-2); color:var(--ink-soft); }
+  .status-pill.Applied{ background:var(--surface-2); color:var(--ink-soft); }
+  .status-pill.OA{ background:var(--warn-soft); color:var(--warn); }
+  .status-pill.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .status-pill.Offer{ background:var(--good-soft); color:var(--good); }
+  .status-pill.Rejected{ background:var(--danger-soft); color:var(--danger); }
+  .status-count{ font-size:11px; opacity:.75; }
+
+  /* Toolbar */
+  .toolbar{ display:flex; gap:10px; align-items:center; margin-bottom:16px; flex-wrap:wrap; }
+  #search{
+    flex:1; min-width:200px; font:inherit; padding:8px 12px; border-radius:10px;
+    border:1px solid var(--line); background:var(--surface); color:var(--ink);
+    font-size:13px;
+  }
+  #search:focus{ outline:none; border-color:var(--forest); }
+  .toolbar-right{ display:flex; gap:8px; align-items:center; }
+  select{
+    font:inherit; font-size:12.5px; padding:7px 10px; border-radius:10px;
+    border:1px solid var(--line); background:var(--surface); color:var(--ink); cursor:pointer;
+  }
+  #count{ font-size:12px; color:var(--ink-faint); white-space:nowrap; }
+
+  /* Application rows */
+  .app-row{
+    background:var(--surface); border:1px solid var(--line); border-radius:14px;
+    padding:14px 18px; margin-bottom:10px; box-shadow:var(--shadow);
+    transition:border-color .15s;
+  }
+  .app-row:hover{ border-color:var(--forest); }
+  .app-top{ display:flex; align-items:flex-start; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  .app-company{ font-size:15px; font-weight:600; }
+  .app-role{ font-size:13px; color:var(--ink-soft); margin-top:3px; }
+  .app-right{ display:flex; flex-direction:column; align-items:flex-end; gap:6px; flex-shrink:0; }
+  .app-meta{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-top:10px; }
+  .app-date{ font-family:"IBM Plex Mono"; font-size:11px; color:var(--ink-faint); }
+
+  /* Status badge */
+  .status-badge{
+    font-size:11px; font-weight:600; padding:3px 10px; border-radius:100px;
+    display:inline-flex; align-items:center; gap:5px;
+  }
+  .status-badge .dot{ width:5px; height:5px; border-radius:50%; }
+  .status-badge.Applied{ background:var(--surface-2); color:var(--ink-soft); }
+  .status-badge.Applied .dot{ background:var(--ink-faint); }
+  .status-badge.OA{ background:var(--warn-soft); color:var(--warn); }
+  .status-badge.OA .dot{ background:var(--warn); }
+  .status-badge.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .status-badge.Interview .dot{ background:var(--forest); }
+  .status-badge.Offer{ background:var(--good-soft); color:var(--good); }
+  .status-badge.Offer .dot{ background:var(--good); }
+  .status-badge.Rejected{ background:var(--danger-soft); color:var(--danger); }
+  .status-badge.Rejected .dot{ background:var(--danger); }
+
+  /* Type badge */
+  .type-badge{
+    font-size:10.5px; font-weight:600; padding:2px 8px; border-radius:100px;
+    background:var(--ember-soft); color:var(--ember);
+  }
+  .type-badge.NewGrad{ background:var(--forest-soft); color:var(--forest); }
+
+  /* Deadline chip */
+  .deadline-chip{
+    font-size:11px; font-weight:600; padding:3px 9px; border-radius:100px;
+    background:var(--warn-soft); color:var(--warn);
+    display:inline-flex; align-items:center; gap:4px;
+  }
+  .deadline-chip.urgent{ background:var(--danger-soft); color:var(--danger); }
+
+  /* Booking link */
+  .booking-btn{
+    font-size:12px; font-weight:600; padding:5px 12px; border-radius:8px;
+    background:var(--forest-soft); color:var(--forest); text-decoration:none;
+    display:inline-flex; align-items:center; gap:5px;
+  }
+  .booking-btn:hover{ background:var(--forest); color:var(--paper); }
+
+  /* Notes */
+  .app-notes{ font-size:12px; color:var(--ink-faint); margin-top:6px; font-style:italic; }
+
+  /* Apply link */
+  .apply-link{ font-size:12px; color:var(--forest); text-decoration:none; font-weight:600; }
+  .apply-link:hover{ text-decoration:underline; }
+
+  .empty-state{ color:var(--ink-soft); font-size:13px; padding:32px 4px; text-align:center; }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <a class="back-link" href="https://claude.ai/code/artifact/b663355b-744d-40fa-b1f8-9516411cfaf7">← Back to Command Deck</a>
+    <div class="header-row">
+      <div>
+        <h1>My Applications</h1>
+        <div class="sub" id="sub-text">Loading…</div>
+      </div>
+      <span class="chip pending" id="status-chip"><span class="dot"></span>Loading</span>
+    </div>
+  </header>
+
+  <!-- Status summary pills -->
+  <div class="status-bar" id="status-bar"></div>
+
+  <!-- Toolbar -->
+  <div class="toolbar">
+    <input id="search" type="text" placeholder="Filter by company or role…">
+    <div class="toolbar-right">
+      <select id="sort-select">
+        <option value="lastUpdated">Sort: Last Updated</option>
+        <option value="dateApplied">Sort: Date Applied</option>
+        <option value="company">Sort: Company (A–Z)</option>
+        <option value="status">Sort: Status</option>
+      </select>
+      <span id="count"></span>
+    </div>
+  </div>
+
+  <div id="app-list"><div class="empty-state">Loading…</div></div>
+</div>
+
+<script>
+  // ---------------------------------------------------------------------------
+  // Config — replace with your Gist ID
+  // ---------------------------------------------------------------------------
+  const APPS_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/applications.json';
+  const POLL_MS = 300000; // 5 min
+
+  // ---------------------------------------------------------------------------
+  // State
+  // ---------------------------------------------------------------------------
+  let allApps = [];
+  let activeStatus = 'all';
+
+  // ---------------------------------------------------------------------------
+  // Helpers
+  // ---------------------------------------------------------------------------
+  function escapeHtml(s){
+    return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function timeAgo(iso){
+    if(!iso) return '';
+    const diff = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+    if(diff < 1) return 'just now';
+    if(diff < 60) return diff + 'm ago';
+    const h = Math.round(diff / 60);
+    if(h < 48) return h + 'h ago';
+    return Math.round(h / 24) + 'd ago';
+  }
+
+  function fmtDate(iso){
+    if(!iso) return '';
+    return new Date(iso).toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+  }
+
+  function deadlineUrgency(iso){
+    if(!iso) return 'normal';
+    const days = (new Date(iso).getTime() - Date.now()) / 86400000;
+    return days <= 3 ? 'urgent' : 'normal';
+  }
+
+  function statusRank(s){
+    return { Applied:0, OA:1, Interview:2, Offer:3, Rejected:-1 }[s] ?? 0;
+  }
+
+  function setChip(kind, text){
+    const c = document.getElementById('status-chip');
+    c.className = 'chip ' + kind;
+    c.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Render
+  // ---------------------------------------------------------------------------
+  function renderStatusBar(apps){
+    const bar = document.getElementById('status-bar');
+    const statuses = ['Applied','OA','Interview','Offer','Rejected'];
+    const counts = {};
+    apps.forEach(a => { counts[a.status] = (counts[a.status] || 0) + 1; });
+    const total = apps.length;
+
+    bar.innerHTML = '';
+
+    // All pill
+    const allPill = document.createElement('button');
+    allPill.className = 'status-pill all' + (activeStatus === 'all' ? ' active' : '');
+    allPill.innerHTML = `All <span class="status-count">${total}</span>`;
+    allPill.onclick = () => { activeStatus = 'all'; applyFilters(); renderStatusBar(allApps); };
+    bar.appendChild(allPill);
+
+    statuses.forEach(s => {
+      if(!counts[s]) return;
+      const pill = document.createElement('button');
+      pill.className = 'status-pill ' + s + (activeStatus === s ? ' active' : '');
+      pill.innerHTML = `${s} <span class="status-count">${counts[s]}</span>`;
+      pill.onclick = () => { activeStatus = s; applyFilters(); renderStatusBar(allApps); };
+      bar.appendChild(pill);
+    });
+  }
+
+  function renderApps(apps){
+    const list = document.getElementById('app-list');
+    document.getElementById('count').textContent = `${apps.length} shown`;
+
+    if(apps.length === 0){
+      list.innerHTML = '<div class="empty-state">No applications match your filter.</div>';
+      return;
+    }
+
+    list.innerHTML = '';
+    apps.forEach(app => {
+      const row = document.createElement('div');
+      row.className = 'app-row';
+
+      const deadlineHtml = app.deadline ? (() => {
+        const urgency = deadlineUrgency(app.deadline);
+        return `<span class="deadline-chip ${urgency}">⏰ Due ${fmtDate(app.deadline)}</span>`;
+      })() : '';
+
+      const bookingHtml = app.bookingLink
+        ? `<a class="booking-btn" href="${escapeHtml(app.bookingLink)}" target="_blank" rel="noopener">📅 Book Interview</a>`
+        : '';
+
+      const applyHtml = app.applyUrl
+        ? `<a class="apply-link" href="${escapeHtml(app.applyUrl)}" target="_blank" rel="noopener">View posting ↗</a>`
+        : '';
+
+      const notesHtml = app.notes
+        ? `<div class="app-notes">${escapeHtml(app.notes)}</div>`
+        : '';
+
+      const typeClass = app.type === 'NewGrad' ? 'NewGrad' : '';
+      const typeLabel = app.type === 'NewGrad' ? 'New Grad' : (app.type || 'Internship');
+
+      row.innerHTML = `
+        <div class="app-top">
+          <div>
+            <div class="app-company">${escapeHtml(app.company)}</div>
+            <div class="app-role">${escapeHtml(app.role)}</div>
+          </div>
+          <div class="app-right">
+            <span class="status-badge ${escapeHtml(app.status)}">
+              <span class="dot"></span>${escapeHtml(app.status)}
+            </span>
+            <span class="type-badge ${typeClass}">${escapeHtml(typeLabel)}</span>
+          </div>
+        </div>
+        <div class="app-meta">
+          <span class="app-date">Applied ${fmtDate(app.dateApplied)}</span>
+          ${deadlineHtml}
+          ${bookingHtml}
+          ${applyHtml}
+        </div>
+        ${notesHtml}`;
+
+      list.appendChild(row);
+    });
+  }
+
+  // ---------------------------------------------------------------------------
+  // Filtering & sorting
+  // ---------------------------------------------------------------------------
+  function applyFilters(){
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    const sort = document.getElementById('sort-select').value;
+
+    let filtered = allApps.filter(a => {
+      if(activeStatus !== 'all' && a.status !== activeStatus) return false;
+      if(q){
+        const haystack = ((a.company || '') + ' ' + (a.role || '')).toLowerCase();
+        if(!haystack.includes(q)) return false;
+      }
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      if(sort === 'lastUpdated') return (b.lastUpdated || '') > (a.lastUpdated || '') ? 1 : -1;
+      if(sort === 'dateApplied') return (b.dateApplied || '') > (a.dateApplied || '') ? 1 : -1;
+      if(sort === 'company') return (a.company || '').localeCompare(b.company || '');
+      if(sort === 'status') return statusRank(b.status) - statusRank(a.status);
+      return 0;
+    });
+
+    renderApps(filtered);
+  }
+
+  document.getElementById('search').addEventListener('input', applyFilters);
+  document.getElementById('sort-select').addEventListener('change', applyFilters);
+
+  // ---------------------------------------------------------------------------
+  // Data loading
+  // ---------------------------------------------------------------------------
+  function onData(data){
+    if(!data || !data.generatedAt){
+      setChip('pending', 'Not synced yet');
+      document.getElementById('sub-text').textContent = 'Waiting on first agent run';
+      document.getElementById('app-list').innerHTML = '<div class="empty-state">No applications yet. Trigger the GitHub Action to run the first scan.</div>';
+      return;
+    }
+
+    allApps = data.applications || [];
+    const total = allApps.length;
+    const sc = data.statusCounts || {};
+
+    setChip('live', 'Live · synced ' + timeAgo(data.generatedAt));
+    document.getElementById('sub-text').textContent =
+      `${total} application${total !== 1 ? 's' : ''} tracked · last scanned ${timeAgo(data.generatedAt)}`;
+
+    renderStatusBar(allApps);
+    applyFilters();
+  }
+
+  async function loadFromGist(){
+    async function poll(){
+      try{
+        const res = await fetch(APPS_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        onData(await res.json());
+      }catch(e){
+        setChip('error', 'Sync issue');
+      }
+    }
+    poll();
+    setInterval(poll, POLL_MS);
+  }
+
+  async function loadFromDb(){
+    const claudeObj = window.claude;
+    const db = await claudeObj.use('db');
+    if(!db){
+      setChip('off', 'Unavailable here');
+      return;
+    }
+    db.doc('dashboard/applications').onSnapshot(
+      (snap) => onData(snap.exists ? snap.data() : null),
+      (err) => setChip('error', 'Sync issue')
+    );
+  }
+
+  async function init(){
+    const claudeObj = window.claude;
+    if(claudeObj && claudeObj.use){
+      await loadFromDb();
+    } else {
+      await loadFromGist();
+    }
+  }
+  init();
+</script>

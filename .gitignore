@@ -1,2 +1,8 @@
 __pycache__/
 *.pyc
+.DS_Store
+
+# Gmail OAuth credentials — never commit these
+agents/job_tracker/client_secret.json
+agents/job_tracker/token.json
+agents/job_tracker/.venv/
