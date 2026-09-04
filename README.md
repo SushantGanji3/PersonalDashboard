@@ -1,40 +1,55 @@
 # Personal Dashboard — Command Deck
 
-Live page: https://claude.ai/code/artifact/b663355b-744d-40fa-b1f8-9516411cfaf7
+Two copies of the same page:
 
-This folder holds local copies of the source files behind that page. The live page
-itself is hosted by Claude (that URL), so nothing here needs to run for the dashboard
-to work — these are just backups / reference copies.
+- **claude.ai Artifact**: <https://claude.ai/code/artifact/b663355b-744d-40fa-b1f8-9516411cfaf7>
+- **Self-hosted (Vercel)**: <https://personal-dashboard-blush-sigma.vercel.app/>
+
+This repo holds the source behind both. There is no build step — `dashboard.html` is the entire
+page (inline `<style>`/`<script>`, no external JS deps) and gets deployed as-is to either target.
+
+## Why two copies
+
+The claude.ai Artifact enforces a CSP that blocks `fetch()`/XHR to external hosts, so it can't
+pull live job data itself. The only in-Artifact way around that (`write_db`, called by an AI
+agent) requires an interactive approval prompt every single time, with no way to pre-approve it
+for an unattended/scheduled run — so the jobs card on that copy depends on a human clicking
+approve. The self-hosted copy has neither problem: it's a plain static file polling a public gist
+over `fetch()`, no AI or approval step anywhere in that path, so it updates on its own.
 
 ## Files
 
-- `dashboard.html` — the full source of the published dashboard page (schedule, Gmail,
-  assignments, Outlook, jobs sections). To update the live page, edit this file and
-  ask Claude to republish it to the same URL above.
-- `jobs_fetch.py` — standalone script that pulls new-grad/intern SWE postings. Pulls
-  its config from Rishabh's job-alerts repo (sources.json) each run, then fetches the
-  SimplifyJobs/vanshb03 aggregator feeds and filters them. This is the same logic a
-  scheduled Claude task runs every 3 hours to refresh the dashboard's jobs card.
+- `dashboard.html` — the full source of the dashboard (schedule, Gmail, jobs). To update either
+  live copy, edit this file, then either ask Claude to republish it to the Artifact URL above, or
+  run `npx vercel --prod --yes` to redeploy the self-hosted copy.
+- `applications.html` — full job-application tracker view, linked from the dashboard.
+- `all-jobs.html` — 30-day archive of every matched job posting, linked from the dashboard.
+- `jobs_fetch.py` — standalone stdlib-only script that pulls new-grad/intern SWE postings. Pulls
+  its filter config from `rishabhsabnavis/job-alerts`'s `sources.json` each run, then fetches the
+  SimplifyJobs/vanshb03 aggregator feeds and filters them.
+- `jobs_sync.py` — imports `fetch_and_filter()` from `jobs_fetch.py`, diffs against a rolling
+  `seen.json` to flag new postings, and writes `jobs.json`/`seen.json` to a public gist. Run every
+  10 minutes by `.github/workflows/jobs-sync.yml` on GitHub Actions.
+- `vercel.json` — routes `/` to `dashboard.html` for the self-hosted deploy.
+- `agents/job_tracker/` — a separate Gmail-based agent (own Google Cloud OAuth app, not Claude's
+  Gmail connector) that scans for application-related emails to feed the applications tracker.
 
-## What's live right now
+## What's on the dashboard
 
-- **Class schedule** — static, pulled from your Coursebook "My Classes" for Fall 2026.
-  Won't change during the semester, so it's baked into the page.
-- **Gmail** — live. The page queries sushantganji17@gmail.com directly every time you
-  open it (via Claude's Gmail connector), no separate syncing needed.
-- **New Grad SWE Jobs** — live. Refreshed every 3 hours by a scheduled Claude task
-  (name: "Dashboard: refresh new-grad SWE jobs") that re-pulls Rishabh's job-alerts
-  filters + the aggregator feeds and flags newly-seen postings.
-- **Assignments (Canvas)** — not yet connected. Needs a Canvas personal access token:
-  elearning.utdallas.edu → Account → Settings → "New Access Token", then send the
-  token to Claude to wire it up.
-- **Outlook (sxg220252@utdallas.edu)** — not yet connected. Needs the Microsoft 365
-  connector added in claude.ai → Settings → Connectors (university tenants sometimes
-  block this, worth trying anyway).
+- **Schedule** — a static Fall 2026 Coursebook snapshot merged with live events pulled from all
+  of your Google Calendars when the page is open.
+- **Gmail** — live, today-only. The page queries sushantganji17@gmail.com every time you open it
+  (via Claude's Gmail connector) and shows only messages from the current day.
+- **New Grad SWE Jobs** — live, via two different paths depending on which copy you're viewing:
+  - Artifact copy: subscribed to a shared database doc, meant to be refreshed by a scheduled
+    Claude task — blocked on the `write_db` approval wall described above until that gate changes.
+  - Self-hosted copy: polls the public gist that `jobs_sync.py` keeps fresh every 10 minutes.
+- **Job applications** — tracked via `agents/job_tracker/`, viewable in full on `applications.html`.
+- **Assignments (Canvas)** and **Outlook** — no dedicated cards; still linked from Quick links.
 
 ## Notes
 
-- The dashboard's live sections (Gmail, jobs) read from a small shared database
-  attached to the published page — not from anything in this folder.
-- Rishabh's original job-alerts repo (github.com/rishabhsabnavis/job-alerts) is not
-  copied here — `jobs_fetch.py` just points at its raw sources.json on GitHub each run.
+- Rishabh's job-alerts repo (github.com/rishabhsabnavis/job-alerts) isn't copied here —
+  `jobs_fetch.py` just points at its raw `sources.json` on GitHub each run.
+- See `CLAUDE.md` for the full architecture writeup, including exactly why the two copies diverge
+  and how to redeploy each one.
