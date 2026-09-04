@@ -21,6 +21,7 @@ jobs:
             google-auth-oauthlib \
             google-auth-httplib2 \
             google-api-python-client \
+            google-genai \
             google-generativeai
       - name: Run application tracker agent
         env:

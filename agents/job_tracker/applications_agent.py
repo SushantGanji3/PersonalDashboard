@@ -190,26 +190,64 @@ def _extract_body(payload):
 
 
 # ---------------------------------------------------------------------------
-# Gemini classification
+# Gemini classification (supports modern google-genai and legacy fallback)
 # ---------------------------------------------------------------------------
 
+GENAI_CLIENT = None
 WORKING_MODEL = None
 
-def classify_with_gemini(email_data):
-    """Send email to Gemini and return structured classification using the SDK."""
-    global WORKING_MODEL
+
+def init_gemini():
+    """Initialize Gemini client and verify a working model."""
+    global GENAI_CLIENT, WORKING_MODEL
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         print("ERROR: GEMINI_API_KEY environment variable not set", file=sys.stderr)
         sys.exit(1)
 
-    try:
-        import google.generativeai as genai
-    except ImportError:
-        print("ERROR: google-generativeai not installed. Run: pip install google-generativeai", file=sys.stderr)
-        sys.exit(1)
+    masked = api_key[:6] + "..." + api_key[-4:] if len(api_key) > 10 else "***"
+    print(f"Connecting to Gemini (API key: {masked})...")
 
-    genai.configure(api_key=api_key)
+    # 1. Try modern google.genai SDK
+    try:
+        from google import genai
+        GENAI_CLIENT = genai.Client(api_key=api_key)
+        print("Using google.genai SDK.")
+    except ImportError:
+        print("Note: google.genai SDK not found, using google.generativeai", file=sys.stderr)
+
+    # Probe models with a quick ping
+    candidates = ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b", "gemini-1.5-pro"]
+    for m in candidates:
+        try:
+            if GENAI_CLIENT:
+                resp = GENAI_CLIENT.models.generate_content(
+                    model=m,
+                    contents="Say OK",
+                )
+                if resp and resp.text:
+                    WORKING_MODEL = m
+                    print(f"✅ Gemini model verified: {WORKING_MODEL}")
+                    return True
+            else:
+                import google.generativeai as legacy_genai
+                legacy_genai.configure(api_key=api_key)
+                model = legacy_genai.GenerativeModel(m)
+                resp = model.generate_content("Say OK")
+                if resp and resp.text:
+                    WORKING_MODEL = m
+                    print(f"✅ Gemini model verified (legacy SDK): {WORKING_MODEL}")
+                    return True
+        except Exception as e:
+            print(f"  Probe {m} failed ({type(e).__name__}): {e}", file=sys.stderr)
+
+    print("❌ ERROR: All Gemini model probes failed. Verify your GEMINI_API_KEY in GitHub Secrets.", file=sys.stderr)
+    return False
+
+
+def classify_with_gemini(email_data):
+    """Send email to Gemini and return structured classification."""
+    global GENAI_CLIENT, WORKING_MODEL
 
     user_prompt = f"""From: {email_data['sender']}
 Subject: {email_data['subject']}
@@ -218,41 +256,41 @@ Date: {email_data['date']}
 Body:
 {email_data['body']}"""
 
-    full_prompt = SYSTEM_PROMPT + "\n\n---\n\n" + user_prompt
+    model_name = WORKING_MODEL or "gemini-2.0-flash"
 
-    candidate_models = ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b", "gemini-1.5-pro"]
-    if WORKING_MODEL and WORKING_MODEL in candidate_models:
-        candidate_models.remove(WORKING_MODEL)
-        candidate_models.insert(0, WORKING_MODEL)
-
-    for model_name in candidate_models:
-        try:
-            model = genai.GenerativeModel(
+    try:
+        if GENAI_CLIENT:
+            from google.genai import types
+            response = GENAI_CLIENT.models.generate_content(
+                model=model_name,
+                contents=user_prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction=SYSTEM_PROMPT,
+                    temperature=0.1,
+                    response_mime_type="application/json",
+                )
+            )
+            text = (response.text or "").strip()
+            text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
+            return json.loads(text)
+        else:
+            import google.generativeai as legacy_genai
+            full_prompt = SYSTEM_PROMPT + "\n\n---\n\n" + user_prompt
+            model = legacy_genai.GenerativeModel(
                 model_name,
                 generation_config={"temperature": 0.1, "max_output_tokens": 512}
             )
             response = model.generate_content(full_prompt)
-            text = response.text.strip()
-            # Strip markdown code fences if present
+            text = (response.text or "").strip()
             text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-            result = json.loads(text)
-            if WORKING_MODEL != model_name:
-                WORKING_MODEL = model_name
-                print(f"  [Using Gemini model: {WORKING_MODEL}]")
-            return result
-        except json.JSONDecodeError as e:
-            print(f"  Failed to parse Gemini JSON ({model_name}): {e}", file=sys.stderr)
-            return None
-        except Exception as e:
-            err_str = str(e)
-            if "404" in err_str or "not found" in err_str.lower():
-                print(f"  Model {model_name} not available, trying next...", file=sys.stderr)
-                continue
-            print(f"  Gemini error ({model_name}): {e}", file=sys.stderr)
-            return None
+            return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"  Failed to parse Gemini JSON ({model_name}): {e}", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"  Gemini classification error ({model_name}, {type(e).__name__}): {e}", file=sys.stderr)
+        return None
 
-    print("  All Gemini models failed.", file=sys.stderr)
-    return None
 
 
 
@@ -399,23 +437,28 @@ def main():
         print("ERROR: GIST_TOKEN and GIST_ID must be set", file=sys.stderr)
         sys.exit(1)
 
-    # 1. Load existing data from Gist
+    # 1. Initialize and probe Gemini API first
+    if not init_gemini():
+        print("Aborting run because no working Gemini model could be verified. Gist is untouched.", file=sys.stderr)
+        sys.exit(1)
+
+    # 2. Load existing data from Gist
     print("Loading existing applications from Gist...")
     data = load_gist(gist_id, "applications.json", gist_token)
     apps_list = data.get("applications", [])
     last_checked = data.get("lastChecked")
 
-    # First-run detection: backfill 90 days
-    if not last_checked:
+    # Backfill detection: if lastChecked is missing OR if 0 applications exist yet, scan 90 days
+    if not last_checked or len(apps_list) == 0:
         cutoff = datetime.now(timezone.utc) - timedelta(days=BACKFILL_DAYS)
-        print(f"First run — scanning past {BACKFILL_DAYS} days (backfill from {cutoff.date()})")
+        print(f"Backfill mode ({len(apps_list)} existing applications) — scanning past {BACKFILL_DAYS} days (from {cutoff.date()})")
     else:
         cutoff = datetime.fromisoformat(last_checked.replace("Z", "+00:00"))
         print(f"Incremental run — scanning since {cutoff.isoformat()}")
 
     after_date_str = cutoff.strftime("%Y/%m/%d")
 
-    # 2. Build Gmail service and search
+    # 3. Build Gmail service and search
     print("Connecting to Gmail...")
     service = build_gmail_service()
     messages = gmail_search(service, GMAIL_QUERY, after_date_str)
@@ -524,9 +567,16 @@ def main():
         status_counts[s] = status_counts.get(s, 0) + 1
 
     now_iso = datetime.now(timezone.utc).isoformat()
+    # Avoid advancing lastChecked if candidates were found but 0 were processed
+    if job_candidates and processed == 0:
+        print("\n⚠️ WARNING: Candidates existed but 0 were processed. Preserving lastChecked.")
+        new_last_checked = last_checked or cutoff.isoformat()
+    else:
+        new_last_checked = now_iso
+
     data = {
         "generatedAt": now_iso,
-        "lastChecked": now_iso,
+        "lastChecked": new_last_checked,
         "totalApplications": len(apps_list),
         "statusCounts": status_counts,
         "applications": apps_list,
