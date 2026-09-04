@@ -33,13 +33,21 @@ from urllib.error import URLError
 SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
 BACKFILL_DAYS = 90
 
-# Gmail search query — cast a wide net, Gemini filters false positives
+# Gmail search query — broad full-text search, Gemini filters false positives
+# No subject: prefix — searches entire email body + subject
 GMAIL_QUERY = (
-    'subject:("application received" OR "thank you for applying" OR '
+    '('
+    '"application received" OR "thank you for applying" OR '
     '"we received your application" OR "your application" OR '
-    '"online assessment" OR "hackerrank" OR "codesignal" OR "codility" OR '
-    '"interview" OR "offer of employment" OR "congratulations" OR '
-    '"unfortunately" OR "not moving forward" OR "other direction")'
+    '"you\'ve applied" OR "applied to" OR "application submitted" OR '
+    '"application confirmation" OR "application for" OR '
+    '"online assessment" OR "complete your application" OR '
+    '"hackerrank" OR "codesignal" OR "codility" OR "hireVue" OR '
+    '"karat" OR "pymetrics" OR '
+    '"interview" OR "offer of employment" OR "offer letter" OR '
+    '"unfortunately" OR "not moving forward" OR "other direction" OR '
+    '"we will not" OR "decided to move" OR "position has been filled"'
+    ')'
 )
 
 # Status priority — higher index = higher priority, never downgrade
