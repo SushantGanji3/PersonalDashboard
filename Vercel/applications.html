@@ -169,7 +169,7 @@
 
 <div class="wrap">
   <header class="top">
-    <a class="back-link" href="https://claude.ai/code/artifact/b663355b-744d-40fa-b1f8-9516411cfaf7">← Back to Command Deck</a>
+    <a class="back-link" href="/">← Back to Command Deck</a>
     <div class="header-row">
       <div>
         <h1>My Applications</h1>
@@ -391,7 +391,7 @@
     applyFilters();
   }
 
-  async function loadFromGist(){
+  async function init(){
     async function poll(){
       try{
         const res = await fetch(APPS_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
@@ -403,28 +403,6 @@
     }
     poll();
     setInterval(poll, POLL_MS);
-  }
-
-  async function loadFromDb(){
-    const claudeObj = window.claude;
-    const db = await claudeObj.use('db');
-    if(!db){
-      setChip('off', 'Unavailable here');
-      return;
-    }
-    db.doc('dashboard/applications').onSnapshot(
-      (snap) => onData(snap.exists ? snap.data() : null),
-      (err) => setChip('error', 'Sync issue')
-    );
-  }
-
-  async function init(){
-    const claudeObj = window.claude;
-    if(claudeObj && claudeObj.use){
-      await loadFromDb();
-    } else {
-      await loadFromGist();
-    }
   }
   init();
 </script>

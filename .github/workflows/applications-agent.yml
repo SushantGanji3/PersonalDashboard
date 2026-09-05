@@ -36,4 +36,4 @@ jobs:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
           GIST_ID: "0155252da48c020d0fadb9fdc5e43c2d"
           FORCE_BACKFILL: ${{ inputs.force_backfill || 'false' }}
-        run: python3 agents/job_tracker/applications_agent.py
+        run: python3 Vercel/agents/job_tracker/applications_agent.py

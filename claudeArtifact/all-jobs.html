@@ -87,8 +87,6 @@
 </div>
 
 <script>
-  const JOBS_ARCHIVE_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/6b80cfab682273f7a781d035f5178bd9/raw/archive.json';
-
   function escapeHtml(s){
     return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   }
@@ -140,22 +138,13 @@
     applyFilter();
   }
 
-  async function initFromGist(){
-    async function poll(){
-      try{
-        const res = await fetch(JOBS_ARCHIVE_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
-        if(!res.ok) throw new Error('HTTP ' + res.status);
-        onArchiveDoc(await res.json());
-      }catch(e){
-        setStatus('error', 'Sync issue');
-      }
-    }
-    poll();
-    setInterval(poll, 300000);
-  }
-
-  async function initFromDb(){
+  async function init(){
     const claudeObj = window.claude;
+    if(!claudeObj || !claudeObj.use){
+      setStatus('off', 'Unavailable here');
+      document.getElementById('job-list').innerHTML = '<div class="empty-state">Shared data is only available inside Claude Artifact runtime.</div>';
+      return;
+    }
     const db = await claudeObj.use('db');
     if(!db){
       setStatus('off', 'Unavailable here');
@@ -166,15 +155,6 @@
       (snap)=> onArchiveDoc(snap.exists ? snap.data() : null),
       (err)=> setStatus('error', 'Sync issue')
     );
-  }
-
-  async function init(){
-    const claudeObj = window.claude;
-    if(claudeObj && claudeObj.use){
-      await initFromDb();
-    } else {
-      await initFromGist();
-    }
   }
   init();
 </script>

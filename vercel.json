@@ -1,5 +1,11 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/dashboard.html" }
+    { "source": "/api/(.*)", "destination": "/Vercel/api/$1" },
+    { "source": "/", "destination": "/Vercel/dashboard.html" },
+    { "source": "/dashboard.html", "destination": "/Vercel/dashboard.html" },
+    { "source": "/applications.html", "destination": "/Vercel/applications.html" },
+    { "source": "/all-jobs.html", "destination": "/Vercel/all-jobs.html" },
+    { "source": "/applications", "destination": "/Vercel/applications.html" },
+    { "source": "/all-jobs", "destination": "/Vercel/all-jobs.html" }
   ]
 }

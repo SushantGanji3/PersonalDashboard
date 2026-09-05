@@ -16,4 +16,4 @@ jobs:
       - name: Run jobs_sync.py
         env:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-        run: python3 jobs_sync.py
+        run: python3 Vercel/jobs_sync.py

@@ -1,55 +1,52 @@
 # Personal Dashboard — Command Deck
 
-Two copies of the same page:
+Two targets with cleanly separated components:
 
-- **claude.ai Artifact**: <https://claude.ai/code/artifact/b663355b-744d-40fa-b1f8-9516411cfaf7>
-- **Self-hosted (Vercel)**: <https://personal-dashboard-blush-sigma.vercel.app/>
+- **Claude Artifacts** (`claudeArtifact/`): <https://claude.ai/code/artifact/b663355b-744d-40fa-b1f8-9516411cfaf7>
+- **Self-Hosted App** (`Vercel/`): <https://personal-dashboard-blush-sigma.vercel.app/>
 
-This repo holds the source behind both. There is no build step — `dashboard.html` is the entire
-page (inline `<style>`/`<script>`, no external JS deps) and gets deployed as-is to either target.
+## Directory Organization
 
-## Why two copies
+```text
+PersonalDashboard/
+├── claudeArtifact/                # Claude Artifact pages (MCP & Claude DB)
+│   ├── dashboard.html             # Command Deck artifact
+│   ├── applications.html          # My Applications artifact
+│   ├── all-jobs.html              # 30-Day SWE Jobs Archive artifact
+│   └── README.md                  # Artifact IDs and publishing guide
+│
+├── Vercel/                        # Self-hosted frontend, backend sync & agents
+│   ├── dashboard.html             # Web dashboard (polls Gists via fetch())
+│   ├── applications.html          # Web application tracker
+│   ├── all-jobs.html              # Web jobs archive
+│   ├── vercel.json                # Vercel routing
+│   ├── jobs_fetch.py              # Aggregator fetcher
+│   ├── jobs_sync.py               # Gist sync runner
+│   └── agents/                    # Data sync agents (feed Gists for Vercel)
+│       ├── calendar_sync/         # Google Calendar sync agent
+│       ├── gmail_sync/            # Gmail inbox sync agent
+│       └── job_tracker/           # Applications agent (Gemini Flash)
+│
+├── .github/                       # GitHub Actions cron workflows
+│   └── workflows/
+│       ├── applications-agent.yml
+│       ├── calendar-sync.yml
+│       ├── gmail-sync.yml
+│       └── jobs-sync.yml
+│
+├── vercel.json                    # Root fallback rewrites
+├── CLAUDE.md                      # Guidance for Claude Code
+├── README.md                      # This overview
+└── .gitignore                     # Git exclusions
+```
 
-The claude.ai Artifact enforces a CSP that blocks `fetch()`/XHR to external hosts, so it can't
-pull live job data itself. The only in-Artifact way around that (`write_db`, called by an AI
-agent) requires an interactive approval prompt every single time, with no way to pre-approve it
-for an unattended/scheduled run — so the jobs card on that copy depends on a human clicking
-approve. The self-hosted copy has neither problem: it's a plain static file polling a public gist
-over `fetch()`, no AI or approval step anywhere in that path, so it updates on its own.
+## Why Two Folders
 
-## Files
+Published Claude Artifacts enforce a strict Content Security Policy (CSP) blocking external `fetch()`/XHR calls. In the artifact runtime, live data is accessed natively via `window.claude.use('mcp')` (Gmail & Calendar connectors) and `window.claude.use('db')`.
 
-- `dashboard.html` — the full source of the dashboard (schedule, Gmail, jobs). To update either
-  live copy, edit this file, then either ask Claude to republish it to the Artifact URL above, or
-  run `npx vercel --prod --yes` to redeploy the self-hosted copy.
-- `applications.html` — full job-application tracker view, linked from the dashboard.
-- `all-jobs.html` — 30-day archive of every matched job posting, linked from the dashboard.
-- `jobs_fetch.py` — standalone stdlib-only script that pulls new-grad/intern SWE postings. Pulls
-  its filter config from `rishabhsabnavis/job-alerts`'s `sources.json` each run, then fetches the
-  SimplifyJobs/vanshb03 aggregator feeds and filters them.
-- `jobs_sync.py` — imports `fetch_and_filter()` from `jobs_fetch.py`, diffs against a rolling
-  `seen.json` to flag new postings, and writes `jobs.json`/`seen.json` to a public gist. Run every
-  10 minutes by `.github/workflows/jobs-sync.yml` on GitHub Actions.
-- `vercel.json` — routes `/` to `dashboard.html` for the self-hosted deploy.
-- `agents/job_tracker/` — a separate Gmail-based agent (own Google Cloud OAuth app, not Claude's
-  Gmail connector) that scans for application-related emails to feed the applications tracker.
+The self-hosted Vercel copy runs outside of Claude, so it cannot access Claude's in-browser connectors. Instead, background GitHub Actions cron jobs (`.github/workflows/`) run standalone Python scripts in `Vercel/agents/` and `Vercel/jobs_sync.py` to push structured snapshots to public GitHub Gists, which `Vercel/*.html` polls directly via `fetch()`.
 
-## What's on the dashboard
+## Deploying Updates
 
-- **Schedule** — a static Fall 2026 Coursebook snapshot merged with live events pulled from all
-  of your Google Calendars when the page is open.
-- **Gmail** — live, today-only. The page queries sushantganji17@gmail.com every time you open it
-  (via Claude's Gmail connector) and shows only messages from the current day.
-- **New Grad SWE Jobs** — live, via two different paths depending on which copy you're viewing:
-  - Artifact copy: subscribed to a shared database doc, meant to be refreshed by a scheduled
-    Claude task — blocked on the `write_db` approval wall described above until that gate changes.
-  - Self-hosted copy: polls the public gist that `jobs_sync.py` keeps fresh every 10 minutes.
-- **Job applications** — tracked via `agents/job_tracker/`, viewable in full on `applications.html`.
-- **Assignments (Canvas)** and **Outlook** — no dedicated cards; still linked from Quick links.
-
-## Notes
-
-- Rishabh's job-alerts repo (github.com/rishabhsabnavis/job-alerts) isn't copied here —
-  `jobs_fetch.py` just points at its raw `sources.json` on GitHub each run.
-- See `CLAUDE.md` for the full architecture writeup, including exactly why the two copies diverge
-  and how to redeploy each one.
+- **Claude Artifacts**: After editing files in `claudeArtifact/`, paste or republish the contents to the existing Artifact URLs in Claude.
+- **Vercel**: Run `npx vercel --prod --yes` from the repo root to deploy changes to the live site.

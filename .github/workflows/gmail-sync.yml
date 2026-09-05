@@ -26,4 +26,4 @@ jobs:
         env:
           GMAIL_TOKEN: ${{ secrets.GMAIL_TOKEN }}
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-        run: python3 agents/gmail_sync/gmail_sync.py
+        run: python3 Vercel/agents/gmail_sync/gmail_sync.py

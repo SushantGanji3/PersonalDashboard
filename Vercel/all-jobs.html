@@ -1,0 +1,157 @@
+<title>All New Grad SWE Jobs — Last 30 Days</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,680&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root{
+    --ink:#14201a; --ink-soft:#4b5850; --ink-faint:#7c877f;
+    --paper:#f2f4f0; --surface:#ffffff; --surface-2:#eaeee6;
+    --line:#d7ddd0; --line-soft:#e6e9e0;
+    --forest:#1c4d33; --forest-soft:#e3ede6;
+    --ember:#c85a28; --ember-soft:#f7e6da;
+    --shadow: 0 1px 2px rgba(20,32,26,0.04), 0 8px 24px -12px rgba(20,32,26,0.12);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
+      --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
+      --line:#2b322a; --line-soft:#242a22;
+      --forest:#6fc498; --forest-soft:#1b2a21;
+      --ember:#f0925a; --ember-soft:#2c1f16;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
+    --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
+    --line:#2b322a; --line-soft:#242a22;
+    --forest:#6fc498; --forest-soft:#1b2a21;
+    --ember:#f0925a; --ember-soft:#2c1f16;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    color-scheme: dark;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size:14px; line-height:1.45; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{ max-width:900px; margin:0 auto; padding:28px 24px 56px; }
+  h1{ font-family:"Fraunces", Georgia, serif; margin:0; font-size:26px; font-weight:680; }
+  a{ color:inherit; }
+  header.top{ margin-bottom:18px; padding-bottom:16px; border-bottom:1px solid var(--line); }
+  .back-link{ display:inline-block; margin-bottom:10px; font-size:12.5px; color:var(--forest); text-decoration:none; font-weight:600; }
+  .back-link:hover{ text-decoration:underline; }
+  .sub{ color:var(--ink-faint); font-size:12.5px; margin-top:6px; }
+  .chip{
+    font-size:11px; font-weight:600; letter-spacing:.02em; padding:4px 10px; border-radius:100px;
+    white-space:nowrap; display:inline-flex; align-items:center; gap:6px;
+    background:var(--surface-2); color:var(--ink-faint); margin-top:8px;
+  }
+  .chip .dot{ width:6px; height:6px; border-radius:50%; background:var(--ink-faint); }
+  .chip.live{ background:var(--forest-soft); color:var(--forest); }
+  .chip.live .dot{ background:var(--forest); }
+  .toolbar{ display:flex; gap:10px; align-items:center; margin-bottom:14px; flex-wrap:wrap; }
+  #search{
+    flex:1; min-width:180px; font:inherit; padding:8px 12px; border-radius:10px;
+    border:1px solid var(--line); background:var(--surface); color:var(--ink);
+  }
+  #count{ font-size:12px; color:var(--ink-faint); white-space:nowrap; }
+  .job-row{
+    background:var(--surface); border:1px solid var(--line); border-radius:12px;
+    padding:12px 16px; margin-bottom:8px; box-shadow:var(--shadow);
+  }
+  .job-top{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
+  .job-company{ font-size:13px; font-weight:600; }
+  .job-title{ font-size:13px; color:var(--ink-soft); margin-top:2px; text-decoration:none; display:block; }
+  .job-title:hover{ color:var(--forest); }
+  .job-loc{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); margin-top:5px; }
+  .empty-state{ color:var(--ink-soft); font-size:13px; padding:24px 4px; }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <a class="back-link" href="/">← Back to Command Deck</a>
+    <h1>All New Grad SWE Jobs</h1>
+    <div class="sub">Every posting matched in the last 30 days · job-alerts (rishabhsabnavis) via SimplifyJobs/vanshb03</div>
+    <span class="chip" id="status-chip"><span class="dot"></span>Loading</span>
+  </header>
+
+  <div class="toolbar">
+    <input id="search" type="text" placeholder="Filter by company or title…">
+    <span id="count"></span>
+  </div>
+
+  <div id="job-list"><div class="empty-state">Loading…</div></div>
+</div>
+
+<script>
+  const JOBS_ARCHIVE_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/6b80cfab682273f7a781d035f5178bd9/raw/archive.json';
+
+  function escapeHtml(s){
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function setStatus(kind, text){
+    const chip = document.getElementById('status-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  let allItems = [];
+
+  function renderItems(items){
+    const list = document.getElementById('job-list');
+    document.getElementById('count').textContent = `${items.length} of ${allItems.length} shown`;
+    if(items.length===0){
+      list.innerHTML = '<div class="empty-state">No matches.</div>';
+      return;
+    }
+    list.innerHTML = '';
+    items.forEach(p=>{
+      const row = document.createElement('div');
+      row.className = 'job-row';
+      const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
+      row.innerHTML = `<div class="job-top"><span class="job-company">${escapeHtml(p.company)}</span></div>
+        <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
+        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>`;
+      list.appendChild(row);
+    });
+  }
+
+  function applyFilter(){
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    if(!q){ renderItems(allItems); return; }
+    renderItems(allItems.filter(p =>
+      (p.company||'').toLowerCase().includes(q) || (p.title||'').toLowerCase().includes(q)
+    ));
+  }
+  document.getElementById('search').addEventListener('input', applyFilter);
+
+  function onArchiveDoc(doc){
+    if(!doc || !doc.generatedAt){
+      setStatus('pending', 'Not synced yet');
+      document.getElementById('job-list').innerHTML = '<div class="empty-state">Waiting on the first archive sync.</div>';
+      return;
+    }
+    setStatus('live', 'Live · ' + (doc.windowDays || 30) + '-day window');
+    allItems = doc.items || [];
+    applyFilter();
+  }
+
+  async function init(){
+    async function poll(){
+      try{
+        const res = await fetch(JOBS_ARCHIVE_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        onArchiveDoc(await res.json());
+      }catch(e){
+        setStatus('error', 'Sync issue');
+      }
+    }
+    poll();
+    setInterval(poll, 300000);
+  }
+  init();
+</script>

@@ -1,0 +1,857 @@
+<title>Sushant's Command Deck</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,680&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root{
+    --ink:#14201a; --ink-soft:#4b5850; --ink-faint:#7c877f;
+    --paper:#f2f4f0; --surface:#ffffff; --surface-2:#eaeee6;
+    --line:#d7ddd0; --line-soft:#e6e9e0;
+    --forest:#1c4d33; --forest-soft:#e3ede6;
+    --ember:#c85a28; --ember-soft:#f7e6da;
+    --good:#2f8f5b; --good-soft:#e3f1e9;
+    --warn:#b8811f; --warn-soft:#f6ecd8;
+    --danger:#c1442c; --danger-soft:#f7e2dd;
+    --course-a:#7a2331; --course-a-soft:#f5e2e6;
+    --shadow: 0 1px 2px rgba(20,32,26,0.04), 0 8px 24px -12px rgba(20,32,26,0.12);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
+      --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
+      --line:#2b322a; --line-soft:#242a22;
+      --forest:#6fc498; --forest-soft:#1b2a21;
+      --ember:#f0925a; --ember-soft:#2c1f16;
+      --good:#5cbf8c; --good-soft:#16261d;
+      --warn:#e0ac4f; --warn-soft:#2a2213;
+      --danger:#e2705a; --danger-soft:#2b1a15;
+      --course-a:#e2899c; --course-a-soft:#2c1a20;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
+    --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
+    --line:#2b322a; --line-soft:#242a22;
+    --forest:#6fc498; --forest-soft:#1b2a21;
+    --ember:#f0925a; --ember-soft:#2c1f16;
+    --good:#5cbf8c; --good-soft:#16261d;
+    --warn:#e0ac4f; --warn-soft:#2a2213;
+    --danger:#e2705a; --danger-soft:#2b1a15;
+    --course-a:#e2899c; --course-a-soft:#2c1a20;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    color-scheme: dark;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size:14px; line-height:1.45;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{ max-width:1280px; margin:0 auto; padding:28px 28px 56px; }
+  h1,h2,h3{ font-family:"Fraunces", Georgia, serif; margin:0; text-wrap:balance; }
+  .mono{ font-family:"IBM Plex Mono", ui-monospace, SFMono-Regular, monospace; }
+  a{ color:inherit; }
+
+  /* ---------- header ---------- */
+  header.top{
+    display:flex; align-items:flex-end; justify-content:space-between;
+    gap:24px; flex-wrap:wrap; margin-bottom:22px; padding-bottom:20px;
+    border-bottom:1px solid var(--line);
+  }
+  .greet-eyebrow{
+    font-family:"IBM Plex Mono"; font-size:11px; letter-spacing:.14em; text-transform:uppercase;
+    color:var(--forest); font-weight:600; margin-bottom:6px;
+  }
+  header.top h1{ font-size:30px; font-weight:680; font-optical-sizing:auto; }
+  .date-line{ color:var(--ink-soft); font-size:14px; margin-top:4px; }
+  .now-panel{ text-align:right; }
+  .clock{ font-family:"IBM Plex Mono"; font-size:26px; font-weight:600; font-variant-numeric:tabular-nums; }
+  .clock-tz{ font-size:11px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.08em; }
+  .nextup-chip{
+    margin-top:8px; display:inline-flex; align-items:center; gap:8px;
+    background:var(--forest-soft); color:var(--forest); border-radius:100px;
+    padding:6px 14px; font-size:12.5px; font-weight:600;
+  }
+  .nextup-chip .dot{ width:6px; height:6px; border-radius:50%; background:var(--forest); flex:none; }
+
+  /* ---------- grid ---------- */
+  .grid{ display:flex; flex-direction:column; gap:16px; }
+  .inbox-row{
+    display:grid; grid-template-columns:repeat(2,1fr); gap:16px;
+    align-items:stretch;
+  }
+  .inbox-row .card{ height:100%; }
+  @media (max-width: 900px){
+    .inbox-row{ grid-template-columns: 1fr; }
+  }
+  .card{
+    background:var(--surface); border:1px solid var(--line); border-radius:14px;
+    box-shadow:var(--shadow); padding:18px 20px; display:flex; flex-direction:column;
+  }
+  .card-head{ display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:14px; }
+  .card-head h2{ font-size:16.5px; font-weight:600; }
+  .card-sub{ color:var(--ink-faint); font-size:11.5px; margin-top:2px; }
+  .chip{
+    font-size:11px; font-weight:600; letter-spacing:.02em; padding:4px 10px; border-radius:100px;
+    white-space:nowrap; display:inline-flex; align-items:center; gap:6px;
+  }
+  .chip .dot{ width:6px; height:6px; border-radius:50%; }
+  .chip.live{ background:var(--good-soft); color:var(--good); }
+  .chip.live .dot{ background:var(--good); }
+  .chip.pending{ background:var(--warn-soft); color:var(--warn); }
+  .chip.pending .dot{ background:var(--warn); }
+  .chip.off{ background:var(--surface-2); color:var(--ink-faint); }
+  .chip.off .dot{ background:var(--ink-faint); }
+  .chip.error{ background:var(--danger-soft); color:var(--danger); }
+  .chip.error .dot{ background:var(--danger); }
+
+  /* ---------- schedule card ---------- */
+  .week-cols{ display:grid; grid-template-columns:repeat(7,1fr); gap:8px; flex:1; }
+  .day-col{ display:flex; flex-direction:column; gap:8px; min-width:0; padding:6px; border-radius:10px; }
+  .day-col.is-today{ background:var(--forest-soft); }
+  .day-head{
+    font-family:"IBM Plex Mono"; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
+    color:var(--ink-faint); padding-bottom:6px; border-bottom:1px solid var(--line-soft);
+    display:flex; align-items:center; justify-content:space-between;
+  }
+  .day-col.is-today .day-head{ color:var(--forest); font-weight:700; border-bottom-color:var(--forest); }
+  .day-col.is-today .day-head .today-dot{ width:6px;height:6px;border-radius:50%;background:var(--forest); }
+  .class-block{
+    border-radius:10px; padding:9px 10px; border-left:3px solid var(--c);
+    background:var(--c-soft);
+  }
+  .class-block .code{ font-family:"IBM Plex Mono"; font-size:12px; font-weight:600; color:var(--c); }
+  .class-block .title{ font-size:11.5px; margin-top:2px; color:var(--ink); line-height:1.3; }
+  .class-block .meta{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-soft); margin-top:5px; }
+  .class-block.is-now{ outline:2px solid var(--c); outline-offset:1px; }
+  .class-block.gcal-event{ border-left-style:dashed; }
+  .gcal-title{ font-size:12px; font-weight:600; color:var(--ink); line-height:1.3; }
+  .gcal-tag{ font-family:"IBM Plex Mono"; font-size:9.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--warn); margin-top:5px; }
+  .day-empty{ font-size:11px; color:var(--ink-faint); padding:8px 0; }
+  /* All-day items (Lawyer Meeting, gym-day labels, etc.) sit in a band above
+     the timed grid, matching how Google Calendar's own week view separates
+     untimed events from the hourly schedule. */
+  .allday-band{ display:flex; flex-direction:column; gap:4px; margin-bottom:8px; padding-bottom:8px; border-bottom:1px dashed var(--line-soft); }
+  .allday-chip{ font-size:10px; font-weight:600; line-height:1.3; color:var(--warn); background:var(--warn-soft); border-radius:6px; padding:4px 7px; }
+
+  .empty-state{
+    flex:1; display:flex; flex-direction:column; align-items:flex-start; justify-content:center;
+    gap:8px; padding:10px 2px; color:var(--ink-soft); font-size:12.5px; line-height:1.55;
+  }
+
+  /* ---------- inbox cards ---------- */
+  .mail-list{ display:flex; flex-direction:column; gap:2px; max-height:320px; overflow-y:auto; }
+  .mail-row{ display:flex; gap:10px; padding:9px 0; border-bottom:1px solid var(--line-soft); align-items:flex-start; }
+  .mail-row:last-child{ border-bottom:none; }
+  .mail-dot{ width:7px; height:7px; border-radius:50%; background:var(--forest); margin-top:6px; flex:none; }
+  .mail-dot.read{ background:transparent; }
+  .mail-body{ min-width:0; flex:1; }
+  .mail-subject{ font-size:12.5px; font-weight:600; line-height:1.3; }
+  .mail-subject a{ color:inherit; text-decoration:none; }
+  .mail-subject a:hover{ color:var(--forest); text-decoration:underline; }
+  .mail-sender{ font-size:11px; color:var(--ink-faint); margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .mail-time{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); flex:none; white-space:nowrap; }
+  .skel{ background:linear-gradient(90deg,var(--surface-2),var(--line-soft),var(--surface-2)); background-size:200% 100%; animation:shimmer 1.4s infinite; border-radius:6px; }
+  @keyframes shimmer{ 0%{background-position:200% 0;} 100%{background-position:-200% 0;} }
+  .skel-row{ height:34px; margin-bottom:6px; }
+
+  .job-list{ display:flex; flex-direction:column; gap:2px; max-height:320px; overflow-y:auto; }
+  .job-row{ padding:9px 0; border-bottom:1px solid var(--line-soft); }
+  .job-row:last-child{ border-bottom:none; }
+  .job-row a{ text-decoration:none; }
+  .job-top{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
+  .job-company{ font-size:12.5px; font-weight:600; }
+  .job-new-badge{ font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.06em; color:var(--ember); background:var(--ember-soft); border-radius:5px; padding:1px 6px; flex:none; }
+  .job-title{ font-size:12px; color:var(--ink-soft); margin-top:1px; line-height:1.35; }
+  .job-title:hover{ color:var(--forest); }
+  .job-loc{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); margin-top:3px; }
+  .jobs-footer{ font-size:10.5px; color:var(--ink-faint); margin-top:10px; padding-top:8px; border-top:1px solid var(--line-soft); }
+  .view-all-link{
+    display:block; text-align:center; font-size:11.5px; font-weight:600; color:var(--forest);
+    text-decoration:none; margin-top:10px; padding-top:10px; border-top:1px solid var(--line-soft);
+  }
+  .view-all-link:hover{ text-decoration:underline; }
+
+  /* ---------- links footer ---------- */
+  #card-links{ flex-direction:row; flex-wrap:wrap; align-items:center; gap:10px; padding:14px 20px; }
+  #card-links .links-label{ font-family:"IBM Plex Mono"; font-size:11px; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-faint); margin-right:4px; }
+  .link-chip{
+    text-decoration:none; font-size:12.5px; font-weight:500; color:var(--ink);
+    background:var(--surface-2); border:1px solid var(--line); border-radius:100px;
+    padding:6px 13px; transition:background .12s ease;
+  }
+  .link-chip:hover{ background:var(--forest-soft); color:var(--forest); }
+
+  footer.note{ margin-top:18px; font-size:11px; color:var(--ink-faint); text-align:center; }
+
+  /* ---------- applications card ---------- */
+  .apps-status-bar{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
+  .apps-status-pill{
+    font-size:11px; font-weight:600; padding:3px 10px; border-radius:100px; display:inline-flex; align-items:center; gap:5px;
+  }
+  .apps-status-pill.Applied{ background:var(--surface-2); color:var(--ink-soft); }
+  .apps-status-pill.OA{ background:var(--warn-soft); color:var(--warn); }
+  .apps-status-pill.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .apps-status-pill.Offer{ background:var(--good-soft); color:var(--good); }
+  .apps-status-pill.Rejected{ background:var(--danger-soft); color:var(--danger); }
+  .apps-row{ padding:8px 0; border-bottom:1px solid var(--line-soft); display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
+  .apps-row:last-child{ border-bottom:none; }
+  .apps-company{ font-size:12.5px; font-weight:600; }
+  .apps-role{ font-size:11.5px; color:var(--ink-soft); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .apps-badge{
+    font-size:10.5px; font-weight:600; padding:2px 8px; border-radius:100px; flex:none;
+    display:inline-flex; align-items:center; gap:4px;
+  }
+  .apps-badge .dot{ width:5px; height:5px; border-radius:50%; }
+  .apps-badge.Applied{ background:var(--surface-2); color:var(--ink-soft); }
+  .apps-badge.Applied .dot{ background:var(--ink-faint); }
+  .apps-badge.OA{ background:var(--warn-soft); color:var(--warn); }
+  .apps-badge.OA .dot{ background:var(--warn); }
+  .apps-badge.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .apps-badge.Interview .dot{ background:var(--forest); }
+  .apps-badge.Offer{ background:var(--good-soft); color:var(--good); }
+  .apps-badge.Offer .dot{ background:var(--good); }
+  .apps-badge.Rejected{ background:var(--danger-soft); color:var(--danger); }
+  .apps-badge.Rejected .dot{ background:var(--danger); }
+  .apps-deadline{ font-size:10px; color:var(--warn); font-weight:600; margin-top:2px; }
+  .apps-deadline.urgent{ color:var(--danger); }
+  .apps-list-inner{ display:flex; flex-direction:column; gap:2px; max-height:280px; overflow-y:auto; }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="greet-eyebrow">Command Deck · UT Dallas</div>
+      <h1 id="greeting">Good afternoon, Sushant</h1>
+      <div class="date-line" id="date-line">Tuesday, September 1, 2026</div>
+    </div>
+    <div class="now-panel">
+      <div class="clock" id="clock">--:--</div>
+      <div class="clock-tz">America/Chicago</div>
+      <div class="nextup-chip" id="nextup-chip"><span class="dot"></span><span id="nextup-text">Loading schedule…</span></div>
+    </div>
+  </header>
+
+  <div class="grid">
+
+    <section class="card" id="card-schedule">
+      <div class="card-head">
+        <div>
+          <h2>This Week</h2>
+          <div class="card-sub">Fall 2026 · Coursebook (static) + all Google Calendars (live)</div>
+        </div>
+        <span class="chip off" id="schedule-chip"><span class="dot"></span>Static</span>
+      </div>
+      <div class="week-cols" id="week-cols"></div>
+    </section>
+
+    <div class="inbox-row">
+      <section class="card" id="card-gmail">
+        <div class="card-head">
+          <div><h2>Gmail</h2><div class="card-sub mono">sushantganji17@gmail.com</div></div>
+          <span class="chip pending" id="gmail-chip"><span class="dot"></span>Connecting</span>
+        </div>
+        <div class="mail-list" id="gmail-list">
+          <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+        </div>
+      </section>
+
+      <section class="card" id="card-jobs">
+        <div class="card-head">
+          <div><h2>New Grad SWE Jobs</h2><div class="card-sub" id="jobs-sub">job-alerts (Rishabh's repo)</div></div>
+          <span class="chip pending" id="jobs-chip"><span class="dot"></span>Loading</span>
+        </div>
+        <div class="job-list" id="job-list">
+          <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+        </div>
+        <a class="view-all-link" href="https://claude.ai/code/artifact/daae0bab-7a71-46e8-8767-8e11dd713bce" target="_blank" rel="noopener">View all jobs from the last 30 days →</a>
+      </section>
+    </div>
+
+    <section class="card" id="card-applications">
+      <div class="card-head">
+        <div>
+          <h2>My Applications</h2>
+          <div class="card-sub" id="apps-sub">Loading…</div>
+        </div>
+        <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
+      </div>
+      <div class="apps-status-bar" id="apps-status-bar"></div>
+      <div class="apps-list-inner" id="apps-list-inner">
+        <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+      </div>
+      <a class="view-all-link" href="applications.html">View all applications →</a>
+    </section>
+
+    <section class="card" id="card-links">
+      <span class="links-label">Quick links</span>
+      <a class="link-chip" href="https://elearning.utdallas.edu" target="_blank" rel="noopener">Canvas</a>
+      <a class="link-chip" href="https://mail.google.com" target="_blank" rel="noopener">Gmail</a>
+      <a class="link-chip" href="https://outlook.office.com" target="_blank" rel="noopener">Outlook</a>
+    </section>
+
+  </div>
+
+  <footer class="note">Schedule combines a fixed Fall 2026 Coursebook snapshot with live Google Calendar events when this page is open · Gmail refreshes live when this page is open · Job matches sync periodically from job-alerts</footer>
+</div>
+
+<script>
+  // ---------------- schedule data (Fall 2026, pulled from Coursebook) ----------------
+  const COURSES = [
+    { code:'CS 4371', title:'Foundations of Big Data Mgmt & Analytics', section:'001', instructor:'Prof. Latifur Khan', day:1, start:'11:30', end:'12:45', room:'FN 2.102', c:'--course-a' },
+    { code:'CS 4371', title:'Foundations of Big Data Mgmt & Analytics', section:'001', instructor:'Prof. Latifur Khan', day:3, start:'11:30', end:'12:45', room:'FN 2.102', c:'--course-a' },
+    { code:'CS 4372', title:'Computational Methods for Data Scientists', section:'501', instructor:'Prof. Anurag Nagar', day:2, start:'17:30', end:'18:45', room:'SCI 1.210', c:'--course-a' },
+    { code:'CS 4372', title:'Computational Methods for Data Scientists', section:'501', instructor:'Prof. Anurag Nagar', day:4, start:'17:30', end:'18:45', room:'SCI 1.210', c:'--course-a' },
+    { code:'CS 4375', title:'Foundations to Machine Learning', section:'004', instructor:'Prof. Sriraam Natarajan', day:2, start:'11:30', end:'12:45', room:'ECSS 2.305', c:'--course-a' },
+    { code:'CS 4375', title:'Foundations to Machine Learning', section:'004', instructor:'Prof. Sriraam Natarajan', day:4, start:'11:30', end:'12:45', room:'ECSS 2.305', c:'--course-a' },
+    { code:'CS 4485', title:'Computer Science Project', section:'0W1', instructor:'Project team', day:2, start:'13:00', end:'14:15', room:'No meeting room', c:'--course-a' },
+    { code:'CS 4485', title:'Computer Science Project', section:'0W1', instructor:'Project team', day:5, start:'13:00', end:'15:15', room:'No meeting room', c:'--course-a' },
+  ];
+  const DAY_NAMES = {1:'Mon',2:'Tue',3:'Wed',4:'Thu',5:'Fri',6:'Sat',7:'Sun'};
+
+  // Live Google Calendar events (everything that isn't a recurring class),
+  // populated by initCalendar() from every one of the user's calendars
+  // except "Classes" (which mirrors the static COURSES pattern above and
+  // would otherwise double up every class block). Empty until mcp resolves.
+  let CALENDAR_EVENTS = [];
+  const CALENDAR_SOURCES = { primary: [], gym: [], utd: [] };
+  function rebuildCalendarEvents(){
+    CALENDAR_EVENTS = [].concat(CALENDAR_SOURCES.primary, CALENDAR_SOURCES.gym, CALENDAR_SOURCES.utd);
+    renderSchedule();
+    renderUpNext();
+  }
+
+  function toMinutes(hhmm){ const [h,m]=hhmm.split(':').map(Number); return h*60+m; }
+  function fmtTime(hhmm){
+    const [h,m]=hhmm.split(':').map(Number);
+    const ap = h>=12?'pm':'am'; let h12=h%12; if(h12===0) h12=12;
+    return h12+(m? ':'+String(m).padStart(2,'0'):'')+ap;
+  }
+  function hhmmFromDate(d){ return String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0'); }
+
+  function mondayOfWeek(date){
+    const d = new Date(date);
+    const day = d.getDay(); // 0 sun .. 6 sat
+    d.setDate(d.getDate() + (day===0 ? -6 : 1-day));
+    d.setHours(0,0,0,0);
+    return d;
+  }
+
+  // Expands the static weekly COURSES pattern into concrete dated occurrences
+  // over [rangeStart, rangeStart+days), so it can be merged/sorted with
+  // actual-dated Google Calendar events.
+  function courseOccurrencesInRange(rangeStart, days){
+    const out=[];
+    for(let offset=0; offset<days; offset++){
+      const date = new Date(rangeStart); date.setDate(rangeStart.getDate()+offset);
+      const dow = date.getDay();
+      if(dow<1 || dow>5) continue;
+      COURSES.filter(c=>c.day===dow).forEach(c=>{
+        const [sh,sm]=c.start.split(':').map(Number);
+        const [eh,em]=c.end.split(':').map(Number);
+        const start=new Date(date); start.setHours(sh,sm,0,0);
+        const end=new Date(date); end.setHours(eh,em,0,0);
+        out.push({ kind:'course', code:c.code, title:c.title, room:c.room, instructor:c.instructor, start, end, colorVar:c.c });
+      });
+    }
+    return out;
+  }
+
+  function calendarOccurrencesInRange(rangeStart, rangeEndExclusive){
+    return CALENDAR_EVENTS
+      .filter(e=>e.start>=rangeStart && e.start<rangeEndExclusive)
+      .map(e=>({ kind:'gcal', title:e.title, subtitle:e.location, start:e.start, end:e.end, allDay:e.allDay, url:e.url, source:e.source }));
+  }
+
+  // Gym-calendar events render dark green (reusing --forest); everything
+  // else pulled live from Google Calendar keeps the amber accent.
+  function gcalColorVar(entry){
+    return entry.source==='gym' ? '--forest' : '--warn';
+  }
+
+  function renderSchedule(){
+    const wrap = document.getElementById('week-cols');
+    const now = new Date();
+    const todayStr = chicagoDateStr(now);
+    const monday = mondayOfWeek(now);
+    const weekEnd = new Date(monday); weekEnd.setDate(monday.getDate()+7);
+    const allItems = courseOccurrencesInRange(monday,7).concat(calendarOccurrencesInRange(monday, weekEnd));
+    wrap.innerHTML='';
+    for(let d=1; d<=7; d++){
+      const dayDate = new Date(monday); dayDate.setDate(monday.getDate()+(d-1));
+      const dayStr = chicagoDateStr(dayDate);
+      const isToday = dayStr === todayStr;
+      const col = document.createElement('div');
+      col.className = 'day-col' + (isToday ? ' is-today':'');
+      const head = document.createElement('div');
+      head.className='day-head';
+      head.innerHTML = `<span>${DAY_NAMES[d]}</span>` + (isToday?'<span class="today-dot"></span>':'');
+      col.appendChild(head);
+      const dayItems = allItems.filter(it=>chicagoDateStr(it.start)===dayStr);
+      // All-day items (Lawyer Meeting, "Lower + Cardio", etc.) render first
+      // in their own band, same as Google Calendar's week view — Gym leads
+      // that band so the day's workout is always the first thing seen.
+      const allDayItems = dayItems.filter(it=>it.allDay)
+        .sort((a,b)=> (a.source==='gym'?0:1)-(b.source==='gym'?0:1) || a.title.localeCompare(b.title));
+      const timedItems = dayItems.filter(it=>!it.allDay).sort((a,b)=>a.start-b.start);
+      if(allDayItems.length){
+        const band = document.createElement('div');
+        band.className = 'allday-band';
+        allDayItems.forEach(entry=>{
+          const chip = document.createElement('div');
+          const colorVar = gcalColorVar(entry);
+          chip.className = 'allday-chip';
+          chip.style.color = `var(${colorVar})`;
+          chip.style.background = `var(${colorVar}-soft)`;
+          chip.textContent = entry.title;
+          band.appendChild(chip);
+        });
+        col.appendChild(band);
+      }
+      if(dayItems.length===0){
+        const e = document.createElement('div'); e.className='day-empty'; e.textContent='Nothing scheduled';
+        col.appendChild(e);
+      }
+      timedItems.forEach(entry=>{
+        const isNow = isToday && now>=entry.start && now<entry.end;
+        const b = document.createElement('div');
+        if(entry.kind==='course'){
+          b.className = 'class-block' + (isNow?' is-now':'');
+          b.style.setProperty('--c', `var(${entry.colorVar})`);
+          b.style.setProperty('--c-soft', `var(${entry.colorVar}-soft)`);
+          b.innerHTML = `<div class="code">${entry.code}</div>
+            <div class="title">${entry.title}</div>
+            <div class="meta">${fmtTime(hhmmFromDate(entry.start))}–${fmtTime(hhmmFromDate(entry.end))}</div>
+            <div class="meta">${escapeHtml(entry.room)}</div>
+            <div class="meta">${escapeHtml(entry.instructor)}</div>`;
+        } else {
+          const colorVar = gcalColorVar(entry);
+          b.className = 'class-block gcal-event' + (isNow?' is-now':'');
+          b.style.setProperty('--c', `var(${colorVar})`);
+          b.style.setProperty('--c-soft', `var(${colorVar}-soft)`);
+          const timeLabel = `${fmtTime(hhmmFromDate(entry.start))}–${fmtTime(hhmmFromDate(entry.end))}`;
+          b.innerHTML = `<div class="gcal-title">${escapeHtml(entry.title)}</div>
+            <div class="meta">${timeLabel}</div>
+            ${entry.subtitle ? `<div class="meta">${escapeHtml(entry.subtitle)}</div>` : ''}
+            <div class="gcal-tag" style="color:var(${colorVar})">Google Calendar</div>`;
+        }
+        col.appendChild(b);
+      });
+      wrap.appendChild(col);
+    }
+  }
+
+  function computeNextItem(now){
+    const rangeStart = new Date(now); rangeStart.setHours(0,0,0,0);
+    const rangeEnd = new Date(rangeStart); rangeEnd.setDate(rangeStart.getDate()+8);
+    const items = courseOccurrencesInRange(rangeStart,8).concat(calendarOccurrencesInRange(rangeStart, rangeEnd));
+    // A timed in-progress item (a class, a Gym block) is more useful to lead
+    // with than an all-day label that merely spans today.
+    const timedNow = items.find(it=> !it.allDay && now>=it.start && now<it.end);
+    if(timedNow) return {status:'now', entry:timedNow};
+    const allDayNow = items.find(it=> it.allDay && now>=it.start && now<it.end);
+    if(allDayNow) return {status:'now', entry:allDayNow};
+    const upcoming = items.filter(it=>it.start>now).sort((a,b)=>a.start-b.start);
+    if(upcoming.length===0) return {status:'none'};
+    const entry = upcoming[0];
+    return {status:'upcoming', entry, minutesAway: Math.round((entry.start-now)/60000)};
+  }
+
+  // Updates the header's "next up" pill only — the standalone Up Next card
+  // was removed, but this small glanceable summary stays in the header.
+  function renderUpNext(){
+    const now = new Date();
+    const res = computeNextItem(now);
+    const chip = document.getElementById('nextup-text');
+    if(res.status==='none'){
+      chip.textContent = 'Nothing else scheduled this week';
+      return;
+    }
+    const label = res.entry.kind==='course' ? res.entry.code : res.entry.title;
+    if(res.status==='now'){
+      chip.textContent = res.entry.allDay
+        ? `All day — ${label}`
+        : `${res.entry.kind==='course' ? 'In class now' : 'In progress'} — ${label} ends ${fmtTime(hhmmFromDate(res.entry.end))}`;
+    } else {
+      const h = Math.floor(res.minutesAway/60), m = res.minutesAway%60;
+      const entryDayStr = chicagoDateStr(res.entry.start);
+      const tomorrowStr = chicagoDateStr(new Date(now.getTime()+86400000));
+      const dayLabel = entryDayStr===chicagoDateStr(now) ? 'today' : (entryDayStr===tomorrowStr ? 'tomorrow' : res.entry.start.toLocaleDateString('en-US',{weekday:'short'}));
+      chip.textContent = `${label} in ${h>0?h+'h ':''}${m}m (${dayLabel} ${fmtTime(hhmmFromDate(res.entry.start))})`;
+    }
+  }
+
+  function renderClock(){
+    const now = new Date();
+    const opts = { hour:'2-digit', minute:'2-digit', hour12:true };
+    document.getElementById('clock').textContent = now.toLocaleTimeString('en-US', opts);
+    const dateOpts = { weekday:'long', month:'long', day:'numeric', year:'numeric' };
+    document.getElementById('date-line').textContent = now.toLocaleDateString('en-US', dateOpts);
+    const h = now.getHours();
+    const greetWord = h<12 ? 'morning' : (h<18 ? 'afternoon' : 'evening');
+    document.getElementById('greeting').textContent = `Good ${greetWord}, Sushant`;
+  }
+
+  function tick(){ renderClock(); renderUpNext(); renderSchedule(); }
+  tick();
+  setInterval(tick, 30000);
+
+  // ---------------- Gmail: live via mcp capability ----------------
+  function timeAgo(dateStr){
+    const then = new Date(dateStr).getTime();
+    const diffMin = Math.round((Date.now()-then)/60000);
+    if(diffMin<1) return 'now';
+    if(diffMin<60) return diffMin+'m';
+    const diffH = Math.round(diffMin/60);
+    if(diffH<24) return diffH+'h';
+    return Math.round(diffH/24)+'d';
+  }
+
+  function setGmailChip(kind, text){
+    const chip = document.getElementById('gmail-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  function escapeHtml(s){
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  // Calendar-day string in America/Chicago (e.g. "2026-09-02"), used to keep
+  // only today's mail and to have that set reset itself at CST/CDT midnight
+  // on the next 5-minute refetch, with no separate timer needed.
+  function chicagoDateStr(date){
+    return new Intl.DateTimeFormat('en-CA', { timeZone:'America/Chicago', year:'numeric', month:'2-digit', day:'2-digit' }).format(date);
+  }
+
+  function renderGmailThreads(threads){
+    const list = document.getElementById('gmail-list');
+    const today = chicagoDateStr(new Date());
+    const todaysThreads = (threads || []).filter(t=>{
+      const msg = (t.messages && t.messages[t.messages.length-1]) || {};
+      return msg.date && chicagoDateStr(new Date(msg.date)) === today;
+    });
+    if(todaysThreads.length===0){
+      list.innerHTML = '<div class="empty-state">Nothing in the inbox yet today.</div>';
+      return;
+    }
+    list.innerHTML='';
+    todaysThreads.forEach(t=>{
+      const msg = (t.messages && t.messages[t.messages.length-1]) || {};
+      const unread = (msg.labelIds||[]).includes('UNREAD');
+      const senderRaw = msg.sender || 'Unknown sender';
+      // Prefer the display name ("Jane Doe <jane@x.com>" -> "Jane Doe"); fall back to the bare address.
+      const senderName = senderRaw.split('<')[0].trim().replace(/"/g,'') || senderRaw;
+      const threadUrl = `https://mail.google.com/mail/u/0/#inbox/${encodeURIComponent(t.id)}`;
+      const row = document.createElement('div');
+      row.className='mail-row';
+      row.innerHTML = `<div class="mail-dot ${unread?'':'read'}"></div>
+        <div class="mail-body">
+          <div class="mail-subject"><a href="${escapeHtml(threadUrl)}" target="_blank" rel="noopener">${escapeHtml(msg.subject || '(no subject)')}</a></div>
+          <div class="mail-sender">${escapeHtml(senderName)}</div>
+        </div>
+        <div class="mail-time">${msg.date ? timeAgo(msg.date) : ''}</div>`;
+      list.appendChild(row);
+    });
+  }
+  async function initGmail(){
+    const claudeObj = window.claude;
+    if(!claudeObj || !claudeObj.use){
+      setGmailChip('off','Unavailable here');
+      document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Live Gmail is only available inside Claude Artifact runtime.</div>';
+      return;
+    }
+    const mcp = await claudeObj.use('mcp');
+    if(!mcp){
+      setGmailChip('off','Unavailable here');
+      document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Live Gmail is not available in this view.</div>';
+      return;
+    }
+    setGmailChip('pending','Loading');
+    mcp.watchTool('Gmail','search_threads',
+      { query:'newer_than:2d in:inbox', pageSize:50, view:'THREAD_VIEW_MINIMAL' },
+      (ev)=>{
+        if(ev.type==='data'){
+          setGmailChip('live','Live');
+          const payload = ev.result.payload || {};
+          renderGmailThreads(payload.threads || []);
+        } else if(ev.type==='error'){
+          const code = ev.error && ev.error.code;
+          if(code==='needs_reauth'){
+            setGmailChip('error','Reconnect Gmail');
+            document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Gmail access lapsed — reconnect Gmail in claude.ai → Settings → Connectors.</div>';
+          } else if(code==='server_not_connected' || code==='not_granted' || code==='capability_disabled'){
+            setGmailChip('off','Not connected');
+            document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Add Gmail in claude.ai → Settings → Connectors to see new mail here.</div>';
+          } else if(code==='selection_required'){
+            setGmailChip('error','Pick an account');
+            document.getElementById('gmail-list').innerHTML = '<div class="empty-state">More than one Gmail account is connected — choose one when prompted.</div>';
+          } else {
+            setGmailChip('error','Temporary issue');
+            // keep last-good data visible if present; otherwise show a note
+            if(document.getElementById('gmail-list').querySelector('.skel')){
+              document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Could not load Gmail right now — this section will retry on its own.</div>';
+            }
+          }
+        }
+      },
+      { refetchInterval: 300000 }
+    );
+  }
+  initGmail();
+
+  // ---------------- Google Calendar: live via mcp capability ----------------
+  // Merged into the Schedule/Up Next views alongside the static COURSES
+  // pattern, so anything on the user's calendar (not just class meetings)
+  // shows up there too. Pulled from every one of the user's calendars
+  // except "Classes" — see the CALENDAR_LIST comment below.
+  function setScheduleChip(kind, text){
+    const chip = document.getElementById('schedule-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  // The connector encodes an all-day event's date as "<date>T00:00:00Z" — a
+  // literal UTC instant, not a timezone-less calendar date. Parsed as-is and
+  // then read back in America/Chicago (UTC-5/6), that lands on the previous
+  // Chicago day. Anchoring to noon UTC instead keeps every US timezone,
+  // Chicago included, safely inside the intended calendar date.
+  function localNoonUTC(dateStr){
+    return new Date(dateStr.slice(0,10) + 'T12:00:00Z');
+  }
+
+  function normalizeGCalEvent(ev){
+    const startRaw = ev.start || {};
+    const endRaw = ev.end || {};
+    const allDay = !!startRaw.date && !startRaw.dateTime;
+    return {
+      id: ev.id,
+      title: ev.summary || '(untitled event)',
+      start: allDay ? localNoonUTC(startRaw.date) : new Date(startRaw.dateTime || startRaw.date),
+      end: allDay ? localNoonUTC(endRaw.date || startRaw.date) : new Date(endRaw.dateTime || endRaw.date || startRaw.dateTime || startRaw.date),
+      allDay,
+      location: ev.location || '',
+      url: ev.htmlLink || ''
+    };
+  }
+
+  // Every calendar under sushantganji17@gmail.com except "Classes" — that
+  // one mirrors the static COURSES pattern above (same class titles, same
+  // recurring times) and would otherwise double up every class block.
+  const CALENDAR_LIST = [
+    { key:'primary', calendarId: undefined },
+    { key:'gym', calendarId: 'e5061853681324622bb915fc263cbcfdeffc27ef831c210f2f22a6ede7bdf09a@group.calendar.google.com' },
+    { key:'utd', calendarId: 'rlpdnru9cc7045oebe02017r0il7k9b0@import.calendar.google.com' }
+  ];
+  async function initCalendar(){
+    const claudeObj = window.claude;
+    if(!claudeObj || !claudeObj.use){
+      setScheduleChip('off','Static only');
+      return;
+    }
+    const mcp = await claudeObj.use('mcp');
+    if(!mcp){
+      setScheduleChip('off','Static only');
+      return;
+    }
+    setScheduleChip('pending','Connecting');
+    // Start at this week's Monday (not "now") so opening the dashboard
+    // mid-week still shows the days already passed this week, and run
+    // 12 days out so the Up Next search always has a full week of runway.
+    const monday = mondayOfWeek(new Date());
+    const startTime = monday.toISOString();
+    const endTime = new Date(monday.getTime() + 12*86400000).toISOString();
+    let connectedCount = 0;
+    CALENDAR_LIST.forEach(src=>{
+      const input = { startTime, endTime, orderBy:'startTime', pageSize:100, timeZone:'America/Chicago' };
+      if(src.calendarId) input.calendarId = src.calendarId;
+      mcp.watchTool('Google Calendar','list_events', input,
+        (ev)=>{
+          if(ev.type==='data'){
+            const payload = ev.result.payload || {};
+            CALENDAR_SOURCES[src.key] = (payload.events || [])
+              .filter(e=>e.status!=='cancelled')
+              .map(normalizeGCalEvent)
+              .filter(e=>!isNaN(e.start.getTime()))
+              .map(e=>({ ...e, source:src.key }));
+            connectedCount++;
+            setScheduleChip('live','Static + Live');
+            rebuildCalendarEvents();
+          } else if(ev.type==='error'){
+            // Only let one calendar's failure blank the chip if nothing
+            // else has connected yet — the other sources keep rendering.
+            if(connectedCount>0) return;
+            const code = ev.error && ev.error.code;
+            if(code==='needs_reauth'){
+              setScheduleChip('error','Reconnect Calendar');
+            } else if(code==='server_not_connected' || code==='not_granted' || code==='capability_disabled'){
+              setScheduleChip('off','Static only');
+            } else if(code==='selection_required'){
+              setScheduleChip('error','Pick an account');
+            } else {
+              setScheduleChip('error','Calendar issue');
+            }
+          }
+        },
+        { refetchInterval: 300000 }
+      );
+    });
+  }
+  initCalendar();
+
+  // ---------------- Jobs: shared db doc, updated by a scheduled fetch ----------------
+  function setJobsChip(kind, text){
+    const chip = document.getElementById('jobs-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  function jobsAgo(iso){
+    if(!iso) return '';
+    const then = new Date(iso).getTime();
+    const diffMin = Math.round((Date.now()-then)/60000);
+    if(diffMin<1) return 'just now';
+    if(diffMin<60) return diffMin+'m ago';
+    const diffH = Math.round(diffMin/60);
+    if(diffH<48) return diffH+'h ago';
+    return Math.round(diffH/24)+'d ago';
+  }
+
+  function renderJobs(doc){
+    const list = document.getElementById('job-list');
+    const items = doc.items || [];
+    document.getElementById('jobs-sub').textContent = `job-alerts (Rishabh's repo) · ${doc.totalOpen ?? items.length} open matches`;
+    if(items.length===0){
+      list.innerHTML = '<div class="empty-state">No open matches right now.</div>';
+      return;
+    }
+    list.innerHTML='';
+    items.slice(0,25).forEach(p=>{
+      const row = document.createElement('div');
+      row.className='job-row';
+      const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
+      row.innerHTML = `<div class="job-top">
+          <span class="job-company">${escapeHtml(p.company)}</span>
+          ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
+        </div>
+        <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
+        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>`;
+      list.appendChild(row);
+    });
+    const footer = document.createElement('div');
+    footer.className='jobs-footer';
+    footer.textContent = `Synced ${jobsAgo(doc.generatedAt)} · showing top ${Math.min(items.length,25)} of ${items.length}`;
+    list.appendChild(footer);
+  }
+  async function initJobs(){
+    const claudeObj = window.claude;
+    if(!claudeObj || !claudeObj.use){
+      setJobsChip('off','Unavailable here');
+      document.getElementById('job-list').innerHTML = '<div class="empty-state">Shared data isn’t available in this view.</div>';
+      return;
+    }
+    const db = await claudeObj.use('db');
+    if(!db){
+      setJobsChip('off','Unavailable here');
+      document.getElementById('job-list').innerHTML = '<div class="empty-state">Shared data isn’t available in this view.</div>';
+      return;
+    }
+    db.doc('dashboard/jobs').onSnapshot(
+      (snap)=>{
+        if(!snap.exists){
+          setJobsChip('pending','Not synced yet');
+          document.getElementById('job-list').innerHTML = '<div class="empty-state">Waiting on the first sync from job-alerts.</div>';
+          return;
+        }
+        setJobsChip('live','Live');
+        renderJobs(snap.data());
+      },
+      (err)=>{
+        setJobsChip('error','Sync issue');
+      }
+    );
+  }
+  initJobs();
+
+  // ---------------- Applications: shared db doc ----------------
+
+  function setAppsChip(kind, text){
+    const chip = document.getElementById('apps-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  function renderApplicationsCard(data){
+    if(!data || !data.generatedAt){
+      setAppsChip('pending','Not synced yet');
+      document.getElementById('apps-sub').textContent = 'Waiting on first agent run';
+      document.getElementById('apps-list-inner').innerHTML = '<div class="empty-state">No applications tracked yet.</div>';
+      return;
+    }
+
+    const apps = data.applications || [];
+    const sc = data.statusCounts || {};
+    const total = apps.length;
+
+    setAppsChip('live','Live');
+    document.getElementById('apps-sub').textContent = `${total} application${total !== 1 ? 's' : ''} tracked · synced ${jobsAgo(data.generatedAt)}`;
+
+    // Status bar
+    const bar = document.getElementById('apps-status-bar');
+    bar.innerHTML = '';
+    ['Applied','OA','Interview','Offer','Rejected'].forEach(s => {
+      if(!sc[s]) return;
+      const pill = document.createElement('span');
+      pill.className = 'apps-status-pill ' + s;
+      pill.textContent = `${s}: ${sc[s]}`;
+      bar.appendChild(pill);
+    });
+
+    // Recent applications list (top 5, sorted by lastUpdated)
+    const list = document.getElementById('apps-list-inner');
+    if(apps.length === 0){
+      list.innerHTML = '<div class="empty-state">No applications yet.</div>';
+      return;
+    }
+    list.innerHTML = '';
+    apps.slice(0, 5).forEach(app => {
+      const row = document.createElement('div');
+      row.className = 'apps-row';
+      const deadlineDays = app.deadline
+        ? Math.round((new Date(app.deadline).getTime() - Date.now()) / 86400000)
+        : null;
+      const deadlineHtml = (deadlineDays !== null && deadlineDays >= 0)
+        ? `<div class="apps-deadline ${deadlineDays <= 3 ? 'urgent' : ''}">⏰ Due in ${deadlineDays}d</div>`
+        : '';
+      row.innerHTML = `
+        <div style="min-width:0;flex:1;">
+          <div class="apps-company">${escapeHtml(app.company)}</div>
+          <div class="apps-role">${escapeHtml(app.role)}</div>
+          ${deadlineHtml}
+        </div>
+        <span class="apps-badge ${escapeHtml(app.status)}"><span class="dot"></span>${escapeHtml(app.status)}</span>`;
+      list.appendChild(row);
+    });
+  }
+
+  async function initApplications(){
+    const claudeObj = window.claude;
+    if(claudeObj && claudeObj.use){
+      const db = await claudeObj.use('db');
+      if(db){
+        db.doc('dashboard/applications').onSnapshot(
+          (snap) => renderApplicationsCard(snap.exists ? snap.data() : null),
+          () => setAppsChip('error','Sync issue')
+        );
+        return;
+      }
+    }
+    setAppsChip('off','Unavailable here');
+    document.getElementById('apps-list-inner').innerHTML = '<div class="empty-state">Shared data isn’t available in this view.</div>';
+  }
+  initApplications();
+</script>

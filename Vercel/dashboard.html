@@ -268,7 +268,7 @@
         <div class="job-list" id="job-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
         </div>
-        <a class="view-all-link" href="https://claude.ai/code/artifact/daae0bab-7a71-46e8-8767-8e11dd713bce" target="_blank" rel="noopener">View all jobs from the last 30 days →</a>
+        <a class="view-all-link" href="all-jobs.html">View all jobs from the last 30 days →</a>
       </section>
     </div>
 
@@ -296,7 +296,7 @@
 
   </div>
 
-  <footer class="note">Schedule combines a fixed Fall 2026 Coursebook snapshot with live Google Calendar events when this page is open · Gmail refreshes live when this page is open · Job matches sync periodically from job-alerts</footer>
+  <footer class="note">Schedule combines Fall 2026 Coursebook with live Google Calendar · Live Gmail inbox · SWE jobs updated every 10m · Powered by Vercel & GitHub Actions</footer>
 </div>
 
 <script>
@@ -559,22 +559,23 @@
     });
   }
 
-  // Fallback for when this page is opened outside the Claude Artifact runtime
-  // (local file, localhost, self-hosted): window.claude.use('mcp') doesn't
-  // exist there, so poll the Gist that .github/workflows/gmail-sync.yml
-  // updates every 15 min instead. See agents/gmail_sync/gmail_sync.py for how
-  // it's written — the payload is shaped to match the live MCP path so
-  // renderGmailThreads() needs no branching.
+  // ---------------- Gmail: serverless API or public Gist fallback ----------------
   const GMAIL_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/gmail_inbox.json';
   const GMAIL_GIST_POLL_MS = 300000;
 
-  async function initGmailFromGist(){
+  async function initGmail(){
     async function poll(){
       try{
-        const res = await fetch(GMAIL_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+        let res;
+        try {
+          res = await fetch('/api/gmail', { cache:'no-store' });
+          if(!res.ok) throw new Error('API ' + res.status);
+        } catch(_) {
+          res = await fetch(GMAIL_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+        }
         if(!res.ok) throw new Error('HTTP ' + res.status);
         const doc = await res.json();
-        if(!doc.generatedAt){
+        if(!doc.generatedAt && !doc.threads){
           setGmailChip('pending','Not synced yet');
           document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Waiting on the first sync from gmail_sync.py.</div>';
           return;
@@ -587,50 +588,6 @@
     }
     poll();
     setInterval(poll, GMAIL_GIST_POLL_MS);
-  }
-
-  async function initGmail(){
-    const claudeObj = window.claude;
-    if(!claudeObj || !claudeObj.use){
-      initGmailFromGist();
-      return;
-    }
-    const mcp = await claudeObj.use('mcp');
-    if(!mcp){
-      setGmailChip('off','Unavailable here');
-      document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Live Gmail is not available in this view.</div>';
-      return;
-    }
-    setGmailChip('pending','Loading');
-    mcp.watchTool('Gmail','search_threads',
-      { query:'newer_than:2d in:inbox', pageSize:50, view:'THREAD_VIEW_MINIMAL' },
-      (ev)=>{
-        if(ev.type==='data'){
-          setGmailChip('live','Live');
-          const payload = ev.result.payload || {};
-          renderGmailThreads(payload.threads || []);
-        } else if(ev.type==='error'){
-          const code = ev.error && ev.error.code;
-          if(code==='needs_reauth'){
-            setGmailChip('error','Reconnect Gmail');
-            document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Gmail access lapsed — reconnect Gmail in claude.ai → Settings → Connectors.</div>';
-          } else if(code==='server_not_connected' || code==='not_granted' || code==='capability_disabled'){
-            setGmailChip('off','Not connected');
-            document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Add Gmail in claude.ai → Settings → Connectors to see new mail here.</div>';
-          } else if(code==='selection_required'){
-            setGmailChip('error','Pick an account');
-            document.getElementById('gmail-list').innerHTML = '<div class="empty-state">More than one Gmail account is connected — choose one when prompted.</div>';
-          } else {
-            setGmailChip('error','Temporary issue');
-            // keep last-good data visible if present; otherwise show a note
-            if(document.getElementById('gmail-list').querySelector('.skel')){
-              document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Could not load Gmail right now — this section will retry on its own.</div>';
-            }
-          }
-        }
-      },
-      { refetchInterval: 300000 }
-    );
   }
   initGmail();
 
@@ -676,20 +633,11 @@
     { key:'primary', calendarId: undefined },
     { key:'gym', calendarId: 'e5061853681324622bb915fc263cbcfdeffc27ef831c210f2f22a6ede7bdf09a@group.calendar.google.com' },
     { key:'utd', calendarId: 'rlpdnru9cc7045oebe02017r0il7k9b0@import.calendar.google.com' }
-  ];
-
-  // Fallback for when this page is opened outside the Claude Artifact runtime
-  // (local file, localhost, self-hosted): window.claude.use('mcp') doesn't
-  // exist there, so poll the Gist that .github/workflows/calendar-sync.yml
-  // updates every 15 min instead. See agents/calendar_sync/calendar_sync.py
-  // for how it's written
-  // — each source's events are shaped exactly like the live MCP payload's
-  // `events` array, so normalizeGCalEvent()/rebuildCalendarEvents() need no
-  // branching between the live and gist paths.
+  ];  // ---------------- Google Calendar: polling public Gist ----------------
   const CALENDAR_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/calendar_sync.json';
   const CALENDAR_GIST_POLL_MS = 300000;
 
-  async function initCalendarFromGist(){
+  async function initCalendar(){
     async function poll(){
       try{
         const res = await fetch(CALENDAR_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
@@ -715,61 +663,6 @@
     }
     poll();
     setInterval(poll, CALENDAR_GIST_POLL_MS);
-  }
-
-  async function initCalendar(){
-    const claudeObj = window.claude;
-    if(!claudeObj || !claudeObj.use){
-      initCalendarFromGist();
-      return;
-    }
-    const mcp = await claudeObj.use('mcp');
-    if(!mcp){
-      setScheduleChip('off','Static only');
-      return;
-    }
-    setScheduleChip('pending','Connecting');
-    // Start at this week's Monday (not "now") so opening the dashboard
-    // mid-week still shows the days already passed this week, and run
-    // 12 days out so the Up Next search always has a full week of runway.
-    const monday = mondayOfWeek(new Date());
-    const startTime = monday.toISOString();
-    const endTime = new Date(monday.getTime() + 12*86400000).toISOString();
-    let connectedCount = 0;
-    CALENDAR_LIST.forEach(src=>{
-      const input = { startTime, endTime, orderBy:'startTime', pageSize:100, timeZone:'America/Chicago' };
-      if(src.calendarId) input.calendarId = src.calendarId;
-      mcp.watchTool('Google Calendar','list_events', input,
-        (ev)=>{
-          if(ev.type==='data'){
-            const payload = ev.result.payload || {};
-            CALENDAR_SOURCES[src.key] = (payload.events || [])
-              .filter(e=>e.status!=='cancelled')
-              .map(normalizeGCalEvent)
-              .filter(e=>!isNaN(e.start.getTime()))
-              .map(e=>({ ...e, source:src.key }));
-            connectedCount++;
-            setScheduleChip('live','Static + Live');
-            rebuildCalendarEvents();
-          } else if(ev.type==='error'){
-            // Only let one calendar's failure blank the chip if nothing
-            // else has connected yet — the other sources keep rendering.
-            if(connectedCount>0) return;
-            const code = ev.error && ev.error.code;
-            if(code==='needs_reauth'){
-              setScheduleChip('error','Reconnect Calendar');
-            } else if(code==='server_not_connected' || code==='not_granted' || code==='capability_disabled'){
-              setScheduleChip('off','Static only');
-            } else if(code==='selection_required'){
-              setScheduleChip('error','Pick an account');
-            } else {
-              setScheduleChip('error','Calendar issue');
-            }
-          }
-        },
-        { refetchInterval: 300000 }
-      );
-    });
   }
   initCalendar();
 
@@ -816,16 +709,11 @@
     footer.className='jobs-footer';
     footer.textContent = `Synced ${jobsAgo(doc.generatedAt)} · showing top ${Math.min(items.length,25)} of ${items.length}`;
     list.appendChild(footer);
-  }
-
-  // Fallback for when this page is opened outside the Claude Artifact runtime
-  // (local file, localhost, self-hosted): window.claude.use('db') doesn't
-  // exist there, so poll the public gist that .github/workflows/jobs-sync.yml
-  // updates every 30 min instead. See jobs_sync.py for how that gist is written.
+  }  // ---------------- Jobs: polling public Gist ----------------
   const JOBS_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/6b80cfab682273f7a781d035f5178bd9/raw/jobs.json';
   const JOBS_GIST_POLL_MS = 300000;
 
-  async function initJobsFromGist(){
+  async function initJobs(){
     async function poll(){
       try{
         const res = await fetch(JOBS_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
@@ -844,34 +732,6 @@
     }
     poll();
     setInterval(poll, JOBS_GIST_POLL_MS);
-  }
-
-  async function initJobs(){
-    const claudeObj = window.claude;
-    if(!claudeObj || !claudeObj.use){
-      initJobsFromGist();
-      return;
-    }
-    const db = await claudeObj.use('db');
-    if(!db){
-      setJobsChip('off','Unavailable here');
-      document.getElementById('job-list').innerHTML = '<div class="empty-state">Shared data isn’t available in this view.</div>';
-      return;
-    }
-    db.doc('dashboard/jobs').onSnapshot(
-      (snap)=>{
-        if(!snap.exists){
-          setJobsChip('pending','Not synced yet');
-          document.getElementById('job-list').innerHTML = '<div class="empty-state">Waiting on the first sync from job-alerts.</div>';
-          return;
-        }
-        setJobsChip('live','Live');
-        renderJobs(snap.data());
-      },
-      (err)=>{
-        setJobsChip('error','Sync issue');
-      }
-    );
   }
   initJobs();
 
@@ -938,18 +798,6 @@
   }
 
   async function initApplications(){
-    const claudeObj = window.claude;
-    if(claudeObj && claudeObj.use){
-      const db = await claudeObj.use('db');
-      if(db){
-        db.doc('dashboard/applications').onSnapshot(
-          (snap) => renderApplicationsCard(snap.exists ? snap.data() : null),
-          () => setAppsChip('error','Sync issue')
-        );
-        return;
-      }
-    }
-    // Gist fallback
     async function poll(){
       try{
         const res = await fetch(APPS_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
