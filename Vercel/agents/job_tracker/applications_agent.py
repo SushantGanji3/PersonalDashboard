@@ -618,6 +618,8 @@ def main():
         "ashbyhq.com", "smartrecruiters.com", "jobvite.com", "icims.com",
         "workablemail.com", "hirevue.com", "hackerrank.net", "codesignal.com",
         "codility.com",
+        # Companies that use their own in-house ATS and email from their own domain
+        "tesla.com",
     ]
 
     # 4. Patterns indicating genuine job application, OA, interview, or decision emails
@@ -625,6 +627,8 @@ def main():
         "thank you for applying", "thank you for your application", "thanks for applying",
         "your application", "application received", "application submitted",
         "application successfully", "received online application", "online application submitted",
+        "we received your", "we have received your", "we've received your",
+        "thank you for your interest in", "expressing interest", "interest in joining",
         "applied to", "interview", "assessment", "hackerrank", "codesignal",
         "codility", "hirevue", "karat", "job offer", "offer letter",
         "offer of employment", "update on your", "update regarding your",
