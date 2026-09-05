@@ -201,6 +201,8 @@
   .apps-row{ padding:8px 0; border-bottom:1px solid var(--line-soft); display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
   .apps-row:last-child{ border-bottom:none; }
   .apps-company{ font-size:12.5px; font-weight:600; }
+  .apps-company-link{ color:inherit; text-decoration:none; display:inline-flex; align-items:center; gap:4px; transition:color .15s; }
+  .apps-company-link:hover{ color:var(--forest); text-decoration:underline; }
   .apps-role{ font-size:11.5px; color:var(--ink-soft); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   .apps-badge{
     font-size:10.5px; font-weight:600; padding:2px 8px; border-radius:100px; flex:none;
@@ -813,6 +815,23 @@
       bar.appendChild(pill);
     });
 
+    function getAppEmailUrl(app){
+      if(app.emailUrl) return app.emailUrl;
+      if(app.rfcMessageId){
+        return 'https://mail.google.com/mail/u/0/#search/rfc822msgid%3A' + encodeURIComponent(app.rfcMessageId);
+      }
+      if(app.threadId){
+        return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.threadId);
+      }
+      if(app.emailId){
+        return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.emailId);
+      }
+      const q = app.emailSubject
+        ? `subject:("${app.emailSubject.replace(/"/g, '')}")`
+        : `"${app.company}" ${app.role ? `"${app.role}"` : ''}`;
+      return 'https://mail.google.com/mail/u/0/#search/' + encodeURIComponent(q.trim());
+    }
+
     // Recent applications list (top 5, sorted by lastUpdated)
     const list = document.getElementById('apps-list-inner');
     if(apps.length === 0){
@@ -823,6 +842,7 @@
     apps.slice(0, 5).forEach(app => {
       const row = document.createElement('div');
       row.className = 'apps-row';
+      const emailUrl = getAppEmailUrl(app);
       const deadlineDays = app.deadline
         ? Math.round((new Date(app.deadline).getTime() - Date.now()) / 86400000)
         : null;
@@ -831,7 +851,11 @@
         : '';
       row.innerHTML = `
         <div style="min-width:0;flex:1;">
-          <div class="apps-company">${escapeHtml(app.company)}</div>
+          <div class="apps-company">
+            <a class="apps-company-link" href="${escapeHtml(emailUrl)}" target="_blank" rel="noopener" title="Open last email in Gmail">
+              ${escapeHtml(app.company)} <span style="font-size:10px;opacity:0.45;">↗</span>
+            </a>
+          </div>
           <div class="apps-role">${escapeHtml(app.role)}</div>
           ${deadlineHtml}
         </div>

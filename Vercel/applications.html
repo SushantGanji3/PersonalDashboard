@@ -112,6 +112,15 @@
   .app-row:hover{ border-color:var(--forest); }
   .app-top{ display:flex; align-items:flex-start; justify-content:space-between; gap:12px; flex-wrap:wrap; }
   .app-company{ font-size:15px; font-weight:600; }
+  .app-company-link{
+    color:inherit; text-decoration:none; display:inline-flex; align-items:center; gap:5px;
+    transition:color .15s;
+  }
+  .app-company-link:hover{ color:var(--forest); text-decoration:underline; }
+  .app-company-link .link-icon{
+    font-size:11px; opacity:0.4; transition:opacity .15s, transform .15s; font-family:"IBM Plex Sans", sans-serif;
+  }
+  .app-company-link:hover .link-icon{ opacity:1; transform:translate(1px, -1px); }
   .app-role{ font-size:13px; color:var(--ink-soft); margin-top:3px; }
   .app-right{ display:flex; flex-direction:column; align-items:flex-end; gap:6px; flex-shrink:0; }
   .app-meta{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-top:10px; }
@@ -244,6 +253,23 @@
     return { Applied:0, OA:1, Interview:2, Offer:3, Rejected:-1 }[s] ?? 0;
   }
 
+  function getEmailUrl(app){
+    if(app.emailUrl) return app.emailUrl;
+    if(app.rfcMessageId){
+      return 'https://mail.google.com/mail/u/0/#search/rfc822msgid%3A' + encodeURIComponent(app.rfcMessageId);
+    }
+    if(app.threadId){
+      return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.threadId);
+    }
+    if(app.emailId){
+      return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.emailId);
+    }
+    const q = app.emailSubject
+      ? `subject:("${app.emailSubject.replace(/"/g, '')}")`
+      : `"${app.company}" ${app.role ? `"${app.role}"` : ''}`;
+    return 'https://mail.google.com/mail/u/0/#search/' + encodeURIComponent(q.trim());
+  }
+
   function setChip(kind, text){
     const c = document.getElementById('status-chip');
     c.className = 'chip ' + kind;
@@ -293,6 +319,8 @@
       const row = document.createElement('div');
       row.className = 'app-row';
 
+      const emailUrl = getEmailUrl(app);
+
       const deadlineHtml = app.deadline ? (() => {
         const urgency = deadlineUrgency(app.deadline);
         return `<span class="deadline-chip ${urgency}">⏰ Due ${fmtDate(app.deadline)}</span>`;
@@ -316,7 +344,12 @@
       row.innerHTML = `
         <div class="app-top">
           <div>
-            <div class="app-company">${escapeHtml(app.company)}</div>
+            <div class="app-company">
+              <a class="app-company-link" href="${escapeHtml(emailUrl)}" target="_blank" rel="noopener" title="Open last email in Gmail">
+                ${escapeHtml(app.company)}
+                <span class="link-icon">↗</span>
+              </a>
+            </div>
             <div class="app-role">${escapeHtml(app.role)}</div>
           </div>
           <div class="app-right">

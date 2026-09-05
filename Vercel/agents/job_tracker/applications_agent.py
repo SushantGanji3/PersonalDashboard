@@ -26,6 +26,7 @@ from datetime import datetime, timedelta, timezone
 from email import message_from_bytes
 from urllib.request import Request, urlopen
 from urllib.error import URLError
+import urllib.parse
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -158,8 +159,21 @@ def fetch_email_content(service, msg_id):
     # Truncate to keep Gemini prompt reasonable
     body_snippet = body[:3000] if body else msg.get("snippet", "")
 
+    # RFC Message-ID and direct Gmail link
+    raw_rfc_id = headers.get("message-id", "").strip()
+    clean_rfc_id = raw_rfc_id.strip("<> ").strip()
+    thread_id = msg.get("threadId") or msg_id
+
+    if clean_rfc_id:
+        email_url = f"https://mail.google.com/mail/u/0/#search/rfc822msgid%3A{urllib.parse.quote(clean_rfc_id)}"
+    else:
+        email_url = f"https://mail.google.com/mail/u/0/#all/{thread_id}"
+
     return {
         "id": msg_id,
+        "threadId": thread_id,
+        "rfcMessageId": clean_rfc_id,
+        "emailUrl": email_url,
         "subject": subject,
         "sender": sender,
         "date": date_iso,
@@ -386,8 +400,8 @@ def status_rank(status):
         return -1
 
 
-def upsert_application(apps_list, classification, email_date, email_subject):
-    """Insert or update an application entry. Never downgrades status."""
+def upsert_application(apps_list, classification, email_date, email_subject, email_url=None, email_id=None, thread_id=None, rfc_message_id=None):
+    """Insert or update an application entry. Never downgrades status. Always links to latest email."""
     company = (classification.get("company") or "").strip()
     role = (classification.get("role") or "").strip()
     new_status = classification.get("status") or "Applied"
@@ -428,10 +442,22 @@ def upsert_application(apps_list, classification, email_date, email_subject):
             "notes": classification.get("notes") or "",
             "lastUpdated": now_iso,
             "emailSubject": email_subject,
+            "emailUrl": email_url,
+            "emailId": email_id,
+            "threadId": thread_id,
+            "rfcMessageId": rfc_message_id,
         }
         apps_list.append(entry)
         print(f"  ✅ NEW: {company} — {role} [{new_status}]")
     else:
+        # Always update email link & subject to point to the latest email regarding this application
+        if email_url:
+            existing["emailUrl"] = email_url
+            existing["emailId"] = email_id
+            existing["threadId"] = thread_id
+            existing["rfcMessageId"] = rfc_message_id
+            existing["emailSubject"] = email_subject
+
         # Existing — only upgrade status, never downgrade
         old_rank = status_rank(existing["status"])
         new_rank = status_rank(new_status)
@@ -688,6 +714,10 @@ def main():
                         classification,
                         email_data["date"],
                         email_data["subject"],
+                        email_url=email_data.get("emailUrl"),
+                        email_id=email_data.get("id"),
+                        thread_id=email_data.get("threadId"),
+                        rfc_message_id=email_data.get("rfcMessageId"),
                     )
                     added_or_updated += 1
                 else:
