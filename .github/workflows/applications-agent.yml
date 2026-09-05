@@ -4,7 +4,13 @@ on:
   schedule:
     # Every 3 hours (matches jobs-alerts cadence)
     - cron: "0 */3 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force_backfill:
+        description: "Force a full 90-day backfill scan"
+        required: false
+        type: boolean
+        default: true
 
 jobs:
   scan:
@@ -29,4 +35,5 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
           GIST_ID: "0155252da48c020d0fadb9fdc5e43c2d"
+          FORCE_BACKFILL: ${{ inputs.force_backfill || 'false' }}
         run: python3 agents/job_tracker/applications_agent.py

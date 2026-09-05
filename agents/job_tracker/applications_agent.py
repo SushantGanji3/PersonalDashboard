@@ -195,11 +195,12 @@ def _extract_body(payload):
 
 GENAI_CLIENT = None
 WORKING_MODEL = None
+VERIFIED_MODELS = []
 
 
 def init_gemini():
     """Initialize Gemini client and verify a working model."""
-    global GENAI_CLIENT, WORKING_MODEL
+    global GENAI_CLIENT, WORKING_MODEL, VERIFIED_MODELS
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         print("ERROR: GEMINI_API_KEY environment variable not set", file=sys.stderr)
@@ -230,12 +231,28 @@ def init_gemini():
         except Exception as e:
             print(f"Note: models.list() probe skipped: {e}")
 
-    preferred = ["gemini-3.6-flash", "gemini-3.8-flash", "gemini-3.6-pro", "gemini-2.5-flash"]
+    # Prioritize production models with generous Free Tier quotas (1500 RPD)
+    # over preview/experimental models like gemini-3.6-flash which have a strict 20 RPD cap.
+    preferred = [
+        "gemini-2.5-flash",
+        "gemini-2.5-flash-lite",
+        "gemini-flash-latest",
+        "gemini-2.5-pro",
+        "gemini-3.6-flash",
+        "gemini-3.8-flash",
+    ]
     candidates = []
-    for m in preferred + dynamic_candidates:
+    for m in preferred:
+        if m in dynamic_candidates and m not in candidates:
+            candidates.append(m)
+    for m in preferred:
+        if m not in candidates:
+            candidates.append(m)
+    for m in dynamic_candidates:
         if m not in candidates:
             candidates.append(m)
 
+    VERIFIED_MODELS = []
     for m in candidates:
         try:
             if GENAI_CLIENT:
@@ -244,28 +261,35 @@ def init_gemini():
                     contents="Say OK",
                 )
                 if resp and resp.text:
-                    WORKING_MODEL = m
-                    print(f"✅ Gemini model verified: {WORKING_MODEL}")
-                    return True
+                    VERIFIED_MODELS.append(m)
+                    print(f"  Verified model candidate: {m}")
+                    if len(VERIFIED_MODELS) >= 3:
+                        break
             else:
                 import google.generativeai as legacy_genai
                 legacy_genai.configure(api_key=api_key)
                 model = legacy_genai.GenerativeModel(m)
                 resp = model.generate_content("Say OK")
                 if resp and resp.text:
-                    WORKING_MODEL = m
-                    print(f"✅ Gemini model verified (legacy SDK): {WORKING_MODEL}")
-                    return True
+                    VERIFIED_MODELS.append(m)
+                    print(f"  Verified model candidate (legacy SDK): {m}")
+                    if len(VERIFIED_MODELS) >= 3:
+                        break
         except Exception as e:
             print(f"  Probe {m} failed ({type(e).__name__}): {e}", file=sys.stderr)
+
+    if VERIFIED_MODELS:
+        WORKING_MODEL = VERIFIED_MODELS[0]
+        print(f"✅ Gemini model selected: {WORKING_MODEL} (available fallbacks: {VERIFIED_MODELS[1:]})")
+        return True
 
     print("❌ ERROR: All Gemini model probes failed. Verify your GEMINI_API_KEY in GitHub Secrets.", file=sys.stderr)
     return False
 
 
 def classify_with_gemini(email_data):
-    """Send email to Gemini and return structured classification."""
-    global GENAI_CLIENT, WORKING_MODEL
+    """Send email to Gemini and return structured classification with retry and model failover."""
+    global GENAI_CLIENT, WORKING_MODEL, VERIFIED_MODELS
 
     user_prompt = f"""From: {email_data['sender']}
 Subject: {email_data['subject']}
@@ -274,40 +298,72 @@ Date: {email_data['date']}
 Body:
 {email_data['body']}"""
 
-    model_name = WORKING_MODEL or "gemini-2.0-flash"
-
-    try:
-        if GENAI_CLIENT:
-            from google.genai import types
-            response = GENAI_CLIENT.models.generate_content(
-                model=model_name,
-                contents=user_prompt,
-                config=types.GenerateContentConfig(
-                    system_instruction=SYSTEM_PROMPT,
-                    temperature=0.1,
-                    response_mime_type="application/json",
+    max_retries = 3
+    for attempt in range(max_retries):
+        model_name = WORKING_MODEL or "gemini-2.5-flash"
+        try:
+            if GENAI_CLIENT:
+                from google.genai import types
+                response = GENAI_CLIENT.models.generate_content(
+                    model=model_name,
+                    contents=user_prompt,
+                    config=types.GenerateContentConfig(
+                        system_instruction=SYSTEM_PROMPT,
+                        temperature=0.1,
+                        response_mime_type="application/json",
+                    )
                 )
-            )
-            text = (response.text or "").strip()
-            text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-            return json.loads(text)
-        else:
-            import google.generativeai as legacy_genai
-            full_prompt = SYSTEM_PROMPT + "\n\n---\n\n" + user_prompt
-            model = legacy_genai.GenerativeModel(
-                model_name,
-                generation_config={"temperature": 0.1, "max_output_tokens": 512}
-            )
-            response = model.generate_content(full_prompt)
-            text = (response.text or "").strip()
-            text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-            return json.loads(text)
-    except json.JSONDecodeError as e:
-        print(f"  Failed to parse Gemini JSON ({model_name}): {e}", file=sys.stderr)
-        return None
-    except Exception as e:
-        print(f"  Gemini classification error ({model_name}, {type(e).__name__}): {e}", file=sys.stderr)
-        return None
+                text = (response.text or "").strip()
+                text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
+                return json.loads(text)
+            else:
+                import google.generativeai as legacy_genai
+                full_prompt = SYSTEM_PROMPT + "\n\n---\n\n" + user_prompt
+                model = legacy_genai.GenerativeModel(
+                    model_name,
+                    generation_config={"temperature": 0.1, "max_output_tokens": 512}
+                )
+                response = model.generate_content(full_prompt)
+                text = (response.text or "").strip()
+                text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
+                return json.loads(text)
+        except json.JSONDecodeError as e:
+            print(f"  Failed to parse Gemini JSON ({model_name}): {e}", file=sys.stderr)
+            return None
+        except Exception as e:
+            err_str = str(e)
+            print(f"  Gemini classification attempt {attempt+1} error ({model_name}, {type(e).__name__}): {e}", file=sys.stderr)
+
+            # Check if 429 quota / resource exhaustion
+            if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
+                if "GenerateRequestsPerDay" in err_str:
+                    print(f"  ⚠️ Daily quota reached for {model_name}!", file=sys.stderr)
+                    if VERIFIED_MODELS:
+                        idx = VERIFIED_MODELS.index(model_name) if model_name in VERIFIED_MODELS else -1
+                        if idx + 1 < len(VERIFIED_MODELS):
+                            WORKING_MODEL = VERIFIED_MODELS[idx + 1]
+                            print(f"  🔄 Switching to fallback model: {WORKING_MODEL}", file=sys.stderr)
+                            time.sleep(2)
+                            continue
+                    return None
+
+                # RPM rate limit: wait retryDelay or default 15s
+                retry_delay = 15
+                match = re.search(r"retry in (\d+(?:\.\d+)?)s", err_str, re.IGNORECASE)
+                if match:
+                    retry_delay = max(5, int(float(match.group(1))) + 2)
+                print(f"  ⏳ Hit RPM rate limit. Waiting {retry_delay}s before retry...", file=sys.stderr)
+                time.sleep(retry_delay)
+                continue
+
+            elif "503" in err_str or "UNAVAILABLE" in err_str:
+                print(f"  ⏳ Service unavailable (503). Waiting 10s before retry...", file=sys.stderr)
+                time.sleep(10)
+                continue
+
+            return None
+
+    return None
 
 
 
@@ -343,6 +399,12 @@ def upsert_application(apps_list, classification, email_date, email_subject):
 
     # Find existing entry
     existing = next((a for a in apps_list if a["id"] == app_id), None)
+    # If not matched by exact role, check if company matches with an unknown or empty role
+    if existing is None and role and role != "Unknown Role":
+        existing = next((a for a in apps_list if a.get("company", "").lower() == company.lower() and a.get("role") in ("Unknown Role", "", None)), None)
+        if existing:
+            existing["role"] = role
+            existing["id"] = app_id
 
     now_iso = datetime.now(timezone.utc).isoformat()
 
@@ -466,10 +528,17 @@ def main():
     apps_list = data.get("applications", [])
     last_checked = data.get("lastChecked")
 
-    # Backfill detection: if lastChecked is missing OR if 0 applications exist yet, scan 90 days
-    if not last_checked or len(apps_list) == 0:
+    force_backfill = (
+        os.environ.get("FORCE_BACKFILL", "").strip().lower() in ("true", "1", "yes")
+        or "--backfill" in sys.argv
+    )
+
+    # Backfill detection: if force_backfill is set, or lastChecked is missing,
+    # or if very few applications exist (< 10, indicating an interrupted initial run)
+    if force_backfill or not last_checked or len(apps_list) < 10:
         cutoff = datetime.now(timezone.utc) - timedelta(days=BACKFILL_DAYS)
-        print(f"Backfill mode ({len(apps_list)} existing applications) — scanning past {BACKFILL_DAYS} days (from {cutoff.date()})")
+        reason = "force backfill" if force_backfill else f"initial/recovery run ({len(apps_list)} existing applications)"
+        print(f"Backfill mode ({reason}) — scanning past {BACKFILL_DAYS} days (from {cutoff.date()})")
     else:
         cutoff = datetime.fromisoformat(last_checked.replace("Z", "+00:00"))
         print(f"Incremental run — scanning since {cutoff.isoformat()}")
@@ -481,28 +550,81 @@ def main():
     service = build_gmail_service()
     messages = gmail_search(service, GMAIL_QUERY, after_date_str)
 
-    # Job-related keywords for subject pre-filter — avoids fetching full body
-    # of obvious non-job emails (flight deals, rent, etc.)
-    JOB_SUBJECT_KEYWORDS = [
-        "application", "applied", "applying", "internship", "intern",
-        "interview", "assessment", "hackerrank", "codesignal", "codility",
-        "hirevue", "offer", "rejected", "unfortunately", "not selected",
-        "not moving forward", "position", "role", "engineer", "developer",
-        "software", "careers", "recruiting", "talent", "hiring",
-        "opportunity", "referral", "referred",
+    # Pre-filtering rules to reject non-job marketing/notifications before calling Gemini:
+    # 1. Senders to always skip (promos, financial, job board digests, GitHub notifications)
+    SENDER_BLACKLIST = [
+        "notifications@github.com",
+        "jobalerts-noreply@linkedin.com",
+        "messages-noreply@linkedin.com",
+        "invitations@linkedin.com",
+        "americanexpress.com",
+        "welcome.aexp.com",
+        "orders.apple.com",
+        "apple.com",
+        "chase.com",
+        "capitalone.com",
+        "discover.com",
+        "citi.com",
+        "wellsfargo.com",
+        "rentflex.com",
     ]
 
-    def subject_looks_like_job(subject):
-        s = subject.lower()
-        return any(kw in s for kw in JOB_SUBJECT_KEYWORDS)
+    # 2. Subjects to always skip (promos, rental/lease, salary digests, GitHub notifications)
+    SUBJECT_BLACKLIST = [
+        "amex", "apple card", "credit limit", "bonus miles", "points offer",
+        "special offer", "exclusive offers", "initiation", "spa weekend",
+        "split rent", "rental application", "guarantor application",
+        "lease application", "northside", "[sushantganji3/", "run failed:",
+        "run succeeded:", "up to $", "$/hr", "is hiring for a", "is hiring a",
+        "applied science", "applied scientist", "applied materials",
+        "applied research", "applied power", "application engineer",
+        "application security", "forage /", "vacay", "surface lineup",
+    ]
+
+    # 3. Known Applicant Tracking Systems (ATS) — always inspect if sender is from here
+    ATS_DOMAINS = [
+        "greenhouse.io", "lever.co", "myworkday.com", "myworkdayjobs.com",
+        "ashbyhq.com", "smartrecruiters.com", "jobvite.com", "icims.com",
+        "workablemail.com", "hirevue.com", "hackerrank.net", "codesignal.com",
+        "codility.com",
+    ]
+
+    # 4. Patterns indicating genuine job application, OA, interview, or decision emails
+    JOB_APPLICATION_PATTERNS = [
+        "thank you for applying", "thank you for your application", "thanks for applying",
+        "your application", "application received", "application submitted",
+        "application successfully", "received online application", "online application submitted",
+        "applied to", "interview", "assessment", "hackerrank", "codesignal",
+        "codility", "hirevue", "karat", "job offer", "offer letter",
+        "offer of employment", "update on your", "update regarding your",
+        "referred to a job", "your candidacy", "not moving forward",
+        "not selected", "unfortunately",
+    ]
+
+    def email_looks_like_job(subject, sender):
+        s = (subject or "").lower()
+        snd = (sender or "").lower()
+
+        if any(bad in snd for bad in SENDER_BLACKLIST):
+            return False
+
+        if any(bad in s for bad in SUBJECT_BLACKLIST):
+            return False
+
+        if any(ats in snd for ats in ATS_DOMAINS):
+            return True
+
+        return any(pat in s for pat in JOB_APPLICATION_PATTERNS)
 
     if not messages:
         print("No emails matched the search query.")
+        job_candidates = []
+        processed = 0
     else:
         print(f"\nStep 1: Fetching subjects for {len(messages)} candidate emails...")
 
         # 3a. Fetch just metadata (subject + from) for all emails — cheap API call
-        #     Then pre-filter by subject before fetching full body
+        #     Then pre-filter before fetching full body
         job_candidates = []
         skipped = 0
         for i, msg in enumerate(messages):
@@ -516,7 +638,7 @@ def main():
                 subject = hdrs.get("subject", "")
                 sender = hdrs.get("from", "")
 
-                if subject_looks_like_job(subject):
+                if email_looks_like_job(subject, sender):
                     job_candidates.append({
                         "id": msg["id"],
                         "subject": subject,
@@ -536,7 +658,7 @@ def main():
                 time.sleep(1)  # back off on error
                 continue
 
-        print(f"Pre-filter: {len(job_candidates)} job-related subjects, {skipped} skipped")
+        print(f"Pre-filter: {len(job_candidates)} relevant job emails identified ({skipped} irrelevant skipped)")
 
         # 3b. For each job candidate, fetch full body and classify with Gemini
         processed = 0
@@ -550,7 +672,7 @@ def main():
                 time.sleep(0.3)  # rate limit Gmail full-body fetches
 
                 classification = classify_with_gemini(email_data)
-                time.sleep(0.5)  # rate limit Gemini calls
+                time.sleep(3.5)  # pace Gemini calls (~17 RPM, well within Free Tier limits)
 
                 if classification is None:
                     continue
@@ -585,9 +707,10 @@ def main():
         status_counts[s] = status_counts.get(s, 0) + 1
 
     now_iso = datetime.now(timezone.utc).isoformat()
-    # Avoid advancing lastChecked if candidates were found but 0 were processed
-    if job_candidates and processed == 0:
-        print("\n⚠️ WARNING: Candidates existed but 0 were processed. Preserving lastChecked.")
+    # Avoid advancing lastChecked if significant errors prevented processing candidates
+    fail_threshold = len(job_candidates) * 0.75
+    if job_candidates and processed < fail_threshold:
+        print(f"\n⚠️ WARNING: Only {processed}/{len(job_candidates)} candidates processed successfully. Preserving lastChecked.")
         new_last_checked = last_checked or cutoff.isoformat()
     else:
         new_last_checked = now_iso
