@@ -268,7 +268,10 @@
       <section class="card" id="card-jobs">
         <div class="card-head">
           <div><h2>New Grad SWE Jobs</h2><div class="card-sub" id="jobs-sub">job-alerts (Rishabh's repo)</div></div>
-          <span class="chip pending" id="jobs-chip"><span class="dot"></span>Loading</span>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <button id="jobs-refresh-btn" title="Refresh jobs" onclick="refreshJobs()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <span class="chip pending" id="jobs-chip"><span class="dot"></span>Loading</span>
+          </div>
         </div>
         <div class="job-list" id="job-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
@@ -758,6 +761,17 @@
   const JOBS_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/6b80cfab682273f7a781d035f5178bd9/raw/jobs.json';
   const JOBS_GIST_POLL_MS = 300000;
 
+  let pollJobsFn = null;
+  async function refreshJobs(){
+    const btn = document.getElementById('jobs-refresh-btn');
+    if(btn){
+      btn.style.transition = 'transform 0.5s ease';
+      btn.style.transform = 'rotate(360deg)';
+      setTimeout(() => { if(btn) btn.style.transform = 'none'; }, 500);
+    }
+    if(pollJobsFn) await pollJobsFn();
+  }
+
   async function initJobs(){
     async function poll(){
       try{
@@ -775,6 +789,7 @@
         setJobsChip('error','Sync issue');
       }
     }
+    pollJobsFn = poll;
     poll();
     setInterval(poll, JOBS_GIST_POLL_MS);
   }
