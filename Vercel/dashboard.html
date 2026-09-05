@@ -286,7 +286,10 @@
           <h2>My Applications</h2>
           <div class="card-sub" id="apps-sub">Loading…</div>
         </div>
-        <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <button id="apps-refresh-btn" title="Refresh applications" onclick="refreshApplications()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+          <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
+        </div>
       </div>
       <div class="apps-status-bar" id="apps-status-bar"></div>
       <div class="apps-list-inner" id="apps-list-inner">
@@ -888,6 +891,17 @@
     });
   }
 
+  let pollAppsFn = null;
+  async function refreshApplications(){
+    const btn = document.getElementById('apps-refresh-btn');
+    if(btn){
+      btn.style.transition = 'transform 0.5s ease';
+      btn.style.transform = 'rotate(360deg)';
+      setTimeout(() => { if(btn) btn.style.transform = 'none'; }, 500);
+    }
+    if(pollAppsFn) await pollAppsFn();
+  }
+
   async function initApplications(){
     async function poll(){
       try{
@@ -898,6 +912,7 @@
         setAppsChip('error','Sync issue');
       }
     }
+    pollAppsFn = poll;
     poll();
     setInterval(poll, 300000);
   }

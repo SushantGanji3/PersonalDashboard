@@ -2,15 +2,15 @@ name: Job Application Tracker
 
 on:
   schedule:
-    # Every 3 hours (matches jobs-alerts cadence)
-    - cron: "0 */3 * * *"
+    # Every 10 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       force_backfill:
         description: "Force a full 90-day backfill scan"
         required: false
         type: boolean
-        default: true
+        default: false
 
 jobs:
   scan:

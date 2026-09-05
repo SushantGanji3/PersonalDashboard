@@ -35,41 +35,48 @@ export default async function handler(req, res) {
     applications: 'applications-agent.yml',
   };
 
-  const targetsToRun = target === 'all' ? ['jobs', 'calendar', 'gmail'] : [target];
+  const targetsToRun = target === 'all'
+    ? ['jobs', 'applications']
+    : target.split(',').map(t => t.trim()).filter(Boolean);
 
-  const results = [];
-  for (const t of targetsToRun) {
-    const workflowFile = workflows[t];
-    if (!workflowFile) {
-      results.push({ target: t, error: `Unknown target: ${t}. Valid targets: jobs, calendar, gmail, applications, all` });
-      continue;
-    }
-
-    try {
-      const ghResp = await fetch(
-        `https://api.github.com/repos/SushantGanji3/PersonalDashboard/actions/workflows/${workflowFile}/dispatches`,
-        {
-          method: 'POST',
-          headers: {
-            'Accept': 'application/vnd.github+json',
-            'Authorization': `Bearer ${token}`,
-            'User-Agent': 'PersonalDashboard-Vercel-SyncTrigger',
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ ref: 'main' }),
-        }
-      );
-
-      if (ghResp.status === 204) {
-        results.push({ target: t, workflow: workflowFile, status: 'dispatched' });
-      } else {
-        const errorText = await ghResp.text();
-        results.push({ target: t, workflow: workflowFile, status: 'failed', httpStatus: ghResp.status, error: errorText });
+  const results = await Promise.all(
+    targetsToRun.map(async (t) => {
+      const workflowFile = workflows[t];
+      if (!workflowFile) {
+        return { target: t, error: `Unknown target: ${t}. Valid targets: jobs, calendar, gmail, applications, all` };
       }
-    } catch (err) {
-      results.push({ target: t, workflow: workflowFile, status: 'error', message: err.message });
-    }
-  }
+
+      const bodyPayload = { ref: 'main' };
+      if (t === 'applications') {
+        bodyPayload.inputs = { force_backfill: false };
+      }
+
+      try {
+        const ghResp = await fetch(
+          `https://api.github.com/repos/SushantGanji3/PersonalDashboard/actions/workflows/${workflowFile}/dispatches`,
+          {
+            method: 'POST',
+            headers: {
+              'Accept': 'application/vnd.github+json',
+              'Authorization': `Bearer ${token}`,
+              'User-Agent': 'PersonalDashboard-Vercel-SyncTrigger',
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(bodyPayload),
+          }
+        );
+
+        if (ghResp.status === 204) {
+          return { target: t, workflow: workflowFile, status: 'dispatched' };
+        } else {
+          const errorText = await ghResp.text();
+          return { target: t, workflow: workflowFile, status: 'failed', httpStatus: ghResp.status, error: errorText };
+        }
+      } catch (err) {
+        return { target: t, workflow: workflowFile, status: 'error', message: err.message };
+      }
+    })
+  );
 
   const anyFailed = results.some(r => r.status !== 'dispatched');
   const statusCode = anyFailed && results.every(r => r.status !== 'dispatched') ? 500 : 200;
