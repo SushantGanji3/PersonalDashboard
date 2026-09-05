@@ -581,8 +581,13 @@ def main():
     service = build_gmail_service()
     messages = gmail_search(service, GMAIL_QUERY, after_date_str)
 
-    # Pre-filtering rules to reject non-job marketing/notifications before calling Gemini:
-    # 1. Senders to always skip (promos, financial, job board digests, GitHub notifications)
+    # Pre-filtering rules to reject non-job noise before calling Gemini.
+    # DESIGN: This is a BLOCKLIST only — reject what we're certain is not a job email.
+    # Do NOT try to positively identify job emails here; Gemini handles that via isJobEmail.
+    # This prevents missing applications from companies that use their own domain/ATS
+    # (e.g. tesla.com, apple.com) or unconventional subject lines.
+
+    # 1. Senders to always skip (financial, rental, job board digests, GitHub notifications)
     SENDER_BLACKLIST = [
         "notifications@github.com",
         "jobalerts-noreply@linkedin.com",
@@ -591,7 +596,6 @@ def main():
         "americanexpress.com",
         "welcome.aexp.com",
         "orders.apple.com",
-        "apple.com",
         "chase.com",
         "capitalone.com",
         "discover.com",
@@ -600,7 +604,7 @@ def main():
         "rentflex.com",
     ]
 
-    # 2. Subjects to always skip (promos, rental/lease, salary digests, GitHub notifications)
+    # 2. Subjects to always skip (promos, rental/lease, GitHub CI notifications)
     SUBJECT_BLACKLIST = [
         "amex", "apple card", "credit limit", "bonus miles", "points offer",
         "special offer", "exclusive offers", "initiation", "spa weekend",
@@ -612,49 +616,20 @@ def main():
         "application security", "forage /", "vacay", "surface lineup",
     ]
 
-    # 3. Known Applicant Tracking Systems (ATS) — always inspect if sender is from here
-    ATS_DOMAINS = [
-        "greenhouse.io", "lever.co", "myworkday.com", "myworkdayjobs.com",
-        "ashbyhq.com", "smartrecruiters.com", "jobvite.com", "icims.com",
-        "workablemail.com", "hirevue.com", "hackerrank.net", "codesignal.com",
-        "codility.com",
-        # Companies that use their own in-house ATS and email from their own domain
-        "tesla.com",
-    ]
-
-    # 4. Patterns indicating genuine job application, OA, interview, or decision emails
-    JOB_APPLICATION_PATTERNS = [
-        "thank you for applying", "thank you for your application", "thanks for applying",
-        "your application", "application received", "application submitted",
-        "application successfully", "received online application", "online application submitted",
-        "we received your", "we have received your", "we've received your",
-        "thank you for your interest in", "expressing interest", "interest in joining",
-        "applied to", "interview", "assessment", "hackerrank", "codesignal",
-        "codility", "hirevue", "karat", "job offer", "offer letter",
-        "offer of employment", "update on your", "update regarding your",
-        "referred to a job", "your candidacy", "not moving forward",
-        "not selected", "unfortunately",
-    ]
-
     def email_looks_like_job(subject, sender):
+        """Blocklist-only pre-filter. Rejects clear non-job emails; passes everything
+        else to Gemini for accurate isJobEmail classification."""
         s = (subject or "").lower()
         snd = (sender or "").lower()
 
         if any(bad in snd for bad in SENDER_BLACKLIST):
-            return False, f"sender blocklist match in '{snd}'"
+            return False, f"sender blocklist: '{next(b for b in SENDER_BLACKLIST if b in snd)}'"
 
         if any(bad in s for bad in SUBJECT_BLACKLIST):
             matched = next(bad for bad in SUBJECT_BLACKLIST if bad in s)
-            return False, f"subject blocklist match: '{matched}'"
+            return False, f"subject blocklist: '{matched}'"
 
-        if any(ats in snd for ats in ATS_DOMAINS):
-            return True, "ATS domain"
-
-        matched = next((pat for pat in JOB_APPLICATION_PATTERNS if pat in s), None)
-        if matched:
-            return True, f"subject pattern: '{matched}'"
-
-        return False, "no job patterns matched in subject"
+        return True, "passed blocklist (Gemini will classify)"
 
     if not messages:
         print("No emails matched the search query.")
