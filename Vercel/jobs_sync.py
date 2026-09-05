@@ -20,6 +20,16 @@ client-side without exposing the rest of this (private) repo:
                      saw it) is older than the window -- there's no other cap,
                      so this is a true rolling 30-day history, not a top-N cut.
 
+jobs.json and archive.json are also written to Vercel/data/ in this repo
+checkout (see write_local_copies() below). The GitHub Actions workflow
+commits that directory back to the repo after this script runs. This exists
+solely so the Claude Cowork routine that syncs the two published Artifacts'
+db docs can `Read` the data from its own repo checkout: that routine's
+sandbox has its external network egress blocked (confirmed experimentally --
+even WebFetch to gist.githubusercontent.com gets EGRESS_BLOCKED), so it
+cannot fetch the gist directly. Reading a file from a git source it already
+has checked out needs no egress at all.
+
 Auth: needs a GitHub token with the "gist" scope in the GIST_TOKEN env var
 (set as a repo secret for the GitHub Actions run; for local testing you can
 export GIST_TOKEN=$(gh auth token) if your gh login has gist scope).
@@ -72,6 +82,16 @@ def read_gist_file(token, filename, default):
 def write_gist_files(token, files):
     body = {"files": {name: {"content": content} for name, content in files.items()}}
     gh_request("PATCH", GIST_API, token, body)
+
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+
+
+def write_local_copies(files):
+    os.makedirs(DATA_DIR, exist_ok=True)
+    for name, content in files.items():
+        with open(os.path.join(DATA_DIR, name), "w") as f:
+            f.write(content)
 
 
 def main():
@@ -145,6 +165,10 @@ def main():
     write_gist_files(token, {
         "jobs.json": json.dumps(jobs_doc, indent=2),
         "seen.json": json.dumps(seen_doc, indent=2),
+        "archive.json": json.dumps(archive_doc, indent=2),
+    })
+    write_local_copies({
+        "jobs.json": json.dumps(jobs_doc, indent=2),
         "archive.json": json.dumps(archive_doc, indent=2),
     })
     print(f"synced {len(items)} items ({sum(1 for i in items if i['isNew'])} new), seen list now {len(union_ids)} ids, archive now {len(archive_items)} items")
