@@ -216,8 +216,26 @@ def init_gemini():
     except ImportError:
         print("Note: google.genai SDK not found, using google.generativeai", file=sys.stderr)
 
-    # Probe models with a quick ping
-    candidates = ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b", "gemini-1.5-pro"]
+    # Discover models via list() if possible
+    dynamic_candidates = []
+    if GENAI_CLIENT:
+        try:
+            for item in GENAI_CLIENT.models.list():
+                m_name = getattr(item, "name", "")
+                if "flash" in m_name.lower() or "pro" in m_name.lower():
+                    clean_name = m_name.replace("models/", "")
+                    dynamic_candidates.append(clean_name)
+            if dynamic_candidates:
+                print(f"Discovered models from API: {dynamic_candidates}")
+        except Exception as e:
+            print(f"Note: models.list() probe skipped: {e}")
+
+    preferred = ["gemini-3.6-flash", "gemini-3.8-flash", "gemini-3.6-pro", "gemini-2.5-flash"]
+    candidates = []
+    for m in preferred + dynamic_candidates:
+        if m not in candidates:
+            candidates.append(m)
+
     for m in candidates:
         try:
             if GENAI_CLIENT:
