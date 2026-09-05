@@ -847,14 +847,21 @@
       return 'https://mail.google.com/mail/u/0/#search/' + encodeURIComponent(q.trim());
     }
 
-    // Recent applications list (top 5, sorted by lastUpdated)
+    // Recent applications list (top 5, sorted by most recently applied)
     const list = document.getElementById('apps-list-inner');
     if(apps.length === 0){
       list.innerHTML = '<div class="empty-state">No applications yet.</div>';
       return;
     }
+    const parseTime = d => { if(!d) return 0; const t = new Date(d).getTime(); return isNaN(t) ? 0 : t; };
+    const sortedApps = apps.slice().sort((a, b) => {
+      const timeA = parseTime(a.dateApplied || a.lastUpdated);
+      const timeB = parseTime(b.dateApplied || b.lastUpdated);
+      return timeB - timeA;
+    });
+
     list.innerHTML = '';
-    apps.slice(0, 5).forEach(app => {
+    sortedApps.slice(0, 5).forEach(app => {
       const row = document.createElement('div');
       row.className = 'apps-row';
       const emailUrl = getAppEmailUrl(app);
@@ -864,6 +871,8 @@
       const deadlineHtml = (deadlineDays !== null && deadlineDays >= 0)
         ? `<div class="apps-deadline ${deadlineDays <= 3 ? 'urgent' : ''}">⏰ Due in ${deadlineDays}d</div>`
         : '';
+      const appliedTime = app.dateApplied ? timeAgo(app.dateApplied) : null;
+      const appliedHtml = appliedTime ? ` · <span style="opacity:0.65;font-weight:400;">${appliedTime} ago</span>` : '';
       row.innerHTML = `
         <div style="min-width:0;flex:1;">
           <div class="apps-company">
@@ -871,7 +880,7 @@
               ${escapeHtml(app.company)} <span style="font-size:10px;opacity:0.45;">↗</span>
             </a>
           </div>
-          <div class="apps-role">${escapeHtml(app.role)}</div>
+          <div class="apps-role">${escapeHtml(app.role)}${appliedHtml}</div>
           ${deadlineHtml}
         </div>
         <span class="apps-badge ${escapeHtml(app.status)}"><span class="dot"></span>${escapeHtml(app.status)}</span>`;

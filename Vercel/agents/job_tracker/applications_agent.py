@@ -732,8 +732,8 @@ def main():
 
         print(f"\nProcessed {processed}/{len(job_candidates)} job candidates, {added_or_updated} applications added/updated")
 
-    # 4. Sort applications: most recently updated first
-    apps_list.sort(key=lambda a: a.get("lastUpdated", ""), reverse=True)
+    # 4. Sort applications: most recently applied first
+    apps_list.sort(key=lambda a: a.get("dateApplied") or a.get("lastUpdated") or "", reverse=True)
 
     # 5. Build summary stats
     status_counts = {}
