@@ -222,6 +222,32 @@
   .apps-deadline{ font-size:10px; color:var(--warn); font-weight:600; margin-top:2px; }
   .apps-deadline.urgent{ color:var(--danger); }
   .apps-list-inner{ display:flex; flex-direction:column; gap:2px; max-height:280px; overflow-y:auto; }
+
+  /* ---------- assignments card ---------- */
+  .asgn-list{ display:flex; flex-direction:column; gap:2px; max-height:340px; overflow-y:auto; }
+  .asgn-row{
+    display:flex; align-items:baseline; justify-content:space-between; gap:10px;
+    padding:9px 0; border-bottom:1px solid var(--line-soft);
+  }
+  .asgn-row:last-child{ border-bottom:none; }
+  .asgn-body{ min-width:0; flex:1; }
+  .asgn-title{ font-size:12.5px; font-weight:600; line-height:1.3; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .asgn-title a{ color:inherit; text-decoration:none; }
+  .asgn-title a:hover{ color:var(--forest); text-decoration:underline; }
+  .asgn-course{
+    display:inline-block; margin-top:3px;
+    font-family:"IBM Plex Mono"; font-size:10px; font-weight:600; letter-spacing:.05em; text-transform:uppercase;
+    background:var(--course-a-soft); color:var(--course-a); border-radius:5px; padding:1px 6px;
+  }
+  .asgn-due{
+    flex:none; text-align:right;
+    font-family:"IBM Plex Mono"; font-size:10.5px; font-weight:600;
+    white-space:nowrap;
+  }
+  .asgn-due.due-soon{ color:var(--warn); }
+  .asgn-due.due-urgent{ color:var(--danger); }
+  .asgn-due.due-ok{ color:var(--ink-faint); }
+  .asgn-sub{ font-family:"IBM Plex Mono"; font-size:10px; color:var(--ink-faint); margin-top:2px; }
 </style>
 
 <div class="wrap">
@@ -262,6 +288,36 @@
         </div>
       </section>
 
+      <section class="card" id="card-assignments">
+        <div class="card-head">
+          <div>
+            <h2>Upcoming Assignments</h2>
+            <div class="card-sub" id="asgn-sub">Loading from Canvas calendar…</div>
+          </div>
+          <span class="chip pending" id="asgn-chip"><span class="dot"></span>Connecting</span>
+        </div>
+        <div class="asgn-list" id="asgn-list">
+          <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+        </div>
+      </section>
+    </div>
+
+    <div class="inbox-row">
+      <section class="card" id="card-applications">
+        <div class="card-head">
+          <div>
+            <h2>My Applications</h2>
+            <div class="card-sub" id="apps-sub">Loading…</div>
+          </div>
+          <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
+        </div>
+        <div class="apps-status-bar" id="apps-status-bar"></div>
+        <div class="apps-list-inner" id="apps-list-inner">
+          <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+        </div>
+        <a class="view-all-link" href="applications.html">View all applications →</a>
+      </section>
+
       <section class="card" id="card-jobs">
         <div class="card-head">
           <div><h2>New Grad SWE Jobs</h2><div class="card-sub" id="jobs-sub">job-alerts (Rishabh's repo)</div></div>
@@ -273,21 +329,6 @@
         <a class="view-all-link" href="https://claude.ai/code/artifact/daae0bab-7a71-46e8-8767-8e11dd713bce" target="_blank" rel="noopener">View all jobs from the last 30 days →</a>
       </section>
     </div>
-
-    <section class="card" id="card-applications">
-      <div class="card-head">
-        <div>
-          <h2>My Applications</h2>
-          <div class="card-sub" id="apps-sub">Loading…</div>
-        </div>
-        <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
-      </div>
-      <div class="apps-status-bar" id="apps-status-bar"></div>
-      <div class="apps-list-inner" id="apps-list-inner">
-        <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
-      </div>
-      <a class="view-all-link" href="applications.html">View all applications →</a>
-    </section>
 
     <section class="card" id="card-links">
       <span class="links-label">Quick links</span>
@@ -320,11 +361,12 @@
   // except "Classes" (which mirrors the static COURSES pattern above and
   // would otherwise double up every class block). Empty until mcp resolves.
   let CALENDAR_EVENTS = [];
-  const CALENDAR_SOURCES = { primary: [], gym: [], utd: [] };
+  const CALENDAR_SOURCES = { primary: [], gym: [], utd: [], canvas: [] };
   function rebuildCalendarEvents(){
     CALENDAR_EVENTS = [].concat(CALENDAR_SOURCES.primary, CALENDAR_SOURCES.gym, CALENDAR_SOURCES.utd);
     renderSchedule();
     renderUpNext();
+    renderAssignments();
   }
 
   function toMinutes(hhmm){ const [h,m]=hhmm.split(':').map(Number); return h*60+m; }
@@ -672,20 +714,28 @@
   // Every calendar under sushantganji17@gmail.com except "Classes" — that
   // one mirrors the static COURSES pattern above (same class titles, same
   // recurring times) and would otherwise double up every class block.
+  // Canvas iCal is fetched separately below (wider date window, isolated source).
   const CALENDAR_LIST = [
     { key:'primary', calendarId: undefined },
     { key:'gym', calendarId: 'e5061853681324622bb915fc263cbcfdeffc27ef831c210f2f22a6ede7bdf09a@group.calendar.google.com' },
     { key:'utd', calendarId: 'rlpdnru9cc7045oebe02017r0il7k9b0@import.calendar.google.com' }
   ];
+  // ⚠️ Replace the calendarId below with the Google Calendar ID for your
+  // subscribed Canvas iCal calendar. Find it in Google Calendar →
+  // Settings → click "Canvas" under "Other calendars" → Calendar ID.
+  const CANVAS_CALENDAR_ID = '__CANVAS_CALENDAR_ID__';
+
   async function initCalendar(){
     const claudeObj = window.claude;
     if(!claudeObj || !claudeObj.use){
       setScheduleChip('off','Static only');
+      setAsgnChip('off','Not available');
       return;
     }
     const mcp = await claudeObj.use('mcp');
     if(!mcp){
       setScheduleChip('off','Static only');
+      setAsgnChip('off','Not available');
       return;
     }
     setScheduleChip('pending','Connecting');
@@ -730,8 +780,118 @@
         { refetchInterval: 300000 }
       );
     });
+
+    // Canvas assignments: separate wider window (30 days) so all upcoming
+    // due dates are captured regardless of the schedule week's range.
+    if(CANVAS_CALENDAR_ID && CANVAS_CALENDAR_ID !== '__CANVAS_CALENDAR_ID__'){
+      setAsgnChip('pending','Connecting');
+      const now = new Date();
+      const canvasStart = now.toISOString();
+      const canvasEnd = new Date(now.getTime() + 30*86400000).toISOString();
+      mcp.watchTool('Google Calendar','list_events',
+        { calendarId: CANVAS_CALENDAR_ID, startTime: canvasStart, endTime: canvasEnd,
+          orderBy:'startTime', pageSize:200, timeZone:'America/Chicago' },
+        (ev)=>{
+          if(ev.type==='data'){
+            const payload = ev.result.payload || {};
+            CALENDAR_SOURCES.canvas = (payload.events || [])
+              .filter(e=>e.status!=='cancelled')
+              .map(normalizeGCalEvent)
+              .filter(e=>!isNaN(e.start.getTime()))
+              .map(e=>({ ...e, source:'canvas' }));
+            setAsgnChip('live','Live · Canvas');
+            renderAssignments();
+          } else if(ev.type==='error'){
+            const code = ev.error && ev.error.code;
+            if(code==='needs_reauth'){
+              setAsgnChip('error','Reconnect Calendar');
+            } else if(code==='server_not_connected' || code==='not_granted' || code==='capability_disabled'){
+              setAsgnChip('off','Not connected');
+              document.getElementById('asgn-list').innerHTML =
+                '<div class="empty-state">Add your Canvas iCal to Google Calendar and set CANVAS_CALENDAR_ID in the script.</div>';
+            } else {
+              setAsgnChip('error','Sync issue');
+            }
+          }
+        },
+        { refetchInterval: 300000 }
+      );
+    } else {
+      setAsgnChip('off','ID not set');
+      document.getElementById('asgn-list').innerHTML =
+        '<div class="empty-state">Set CANVAS_CALENDAR_ID in the script to your Canvas Google Calendar ID.</div>';
+      document.getElementById('asgn-sub').textContent = 'Canvas iCal not configured';
+    }
   }
   initCalendar();
+
+  // ---- Assignments chip + render ----
+  function setAsgnChip(kind, text){
+    const chip = document.getElementById('asgn-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  function renderAssignments(){
+    const list = document.getElementById('asgn-list');
+    const now = new Date();
+    // Future events only, sorted soonest first
+    const events = CALENDAR_SOURCES.canvas
+      .filter(e => e.start > now)
+      .sort((a,b) => a.start - b.start);
+
+    if(events.length === 0){
+      list.innerHTML = '<div class="empty-state">No upcoming assignments in the next 30 days 🎉</div>';
+      document.getElementById('asgn-sub').textContent = 'No assignments due in the next 30 days';
+      return;
+    }
+
+    document.getElementById('asgn-sub').textContent =
+      `${events.length} assignment${events.length!==1?'s':''} due in the next 30 days · via Canvas iCal`;
+
+    list.innerHTML = '';
+    events.forEach(ev => {
+      const dueDate = ev.allDay ? ev.start : ev.start;
+      const daysAway = (dueDate - now) / 86400000;
+      const hoursAway = (dueDate - now) / 3600000;
+
+      // Urgency tiers
+      let dueClass = 'due-ok';
+      let dueLabel = '';
+      if(hoursAway < 24){
+        dueClass = 'due-urgent';
+        const h = Math.round(hoursAway);
+        dueLabel = h <= 1 ? 'due < 1h' : `due in ${h}h`;
+      } else if(daysAway < 3){
+        dueClass = 'due-soon';
+        dueLabel = daysAway < 2 ? 'tomorrow' : `in ${Math.ceil(daysAway)}d`;
+      } else {
+        const opts = { weekday:'short', month:'short', day:'numeric' };
+        dueLabel = dueDate.toLocaleDateString('en-US', opts);
+      }
+
+      // Try to extract course code from the event title.
+      // Canvas iCal titles typically look like: "HW3 [CS 4375]" or "Assignment 1"
+      const bracketMatch = ev.title.match(/\[([^\]]+)\]/);
+      const courseTag = bracketMatch ? bracketMatch[1] : null;
+      const cleanTitle = bracketMatch ? ev.title.replace(/\s*\[[^\]]+\]/, '').trim() : ev.title;
+
+      const row = document.createElement('div');
+      row.className = 'asgn-row';
+      const linkHtml = ev.url
+        ? `<a href="${escapeHtml(ev.url)}" target="_blank" rel="noopener">${escapeHtml(cleanTitle)}</a>`
+        : escapeHtml(cleanTitle);
+      row.innerHTML = `
+        <div class="asgn-body">
+          <div class="asgn-title">${linkHtml}</div>
+          ${courseTag ? `<span class="asgn-course">${escapeHtml(courseTag)}</span>` : ''}
+        </div>
+        <div class="asgn-due ${dueClass}">${escapeHtml(dueLabel)}</div>`;
+      list.appendChild(row);
+    });
+  }
+
+
 
   // ---------------- Jobs: shared db doc, updated by a scheduled fetch ----------------
   function setJobsChip(kind, text){

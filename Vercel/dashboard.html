@@ -222,6 +222,31 @@
   .apps-deadline{ font-size:10px; color:var(--warn); font-weight:600; margin-top:2px; }
   .apps-deadline.urgent{ color:var(--danger); }
   .apps-list-inner{ display:flex; flex-direction:column; gap:2px; max-height:280px; overflow-y:auto; }
+
+  /* ---------- assignments card ---------- */
+  .asgn-list{ display:flex; flex-direction:column; gap:2px; max-height:340px; overflow-y:auto; }
+  .asgn-row{
+    display:flex; align-items:baseline; justify-content:space-between; gap:10px;
+    padding:9px 0; border-bottom:1px solid var(--line-soft);
+  }
+  .asgn-row:last-child{ border-bottom:none; }
+  .asgn-body{ min-width:0; flex:1; }
+  .asgn-title{ font-size:12.5px; font-weight:600; line-height:1.3; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .asgn-title a{ color:inherit; text-decoration:none; }
+  .asgn-title a:hover{ color:var(--forest); text-decoration:underline; }
+  .asgn-course{
+    display:inline-block; margin-top:3px;
+    font-family:"IBM Plex Mono"; font-size:10px; font-weight:600; letter-spacing:.05em; text-transform:uppercase;
+    background:var(--course-a-soft); color:var(--course-a); border-radius:5px; padding:1px 6px;
+  }
+  .asgn-due{
+    flex:none; text-align:right;
+    font-family:"IBM Plex Mono"; font-size:10.5px; font-weight:600;
+    white-space:nowrap;
+  }
+  .asgn-due.due-soon{ color:var(--warn); }
+  .asgn-due.due-urgent{ color:var(--danger); }
+  .asgn-due.due-ok{ color:var(--ink-faint); }
 </style>
 
 <div class="wrap">
@@ -265,6 +290,42 @@
         </div>
       </section>
 
+      <section class="card" id="card-assignments">
+        <div class="card-head">
+          <div>
+            <h2>Upcoming Assignments</h2>
+            <div class="card-sub" id="asgn-sub">Loading from Canvas…</div>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <button id="asgn-refresh-btn" title="Refresh assignments" onclick="refreshAssignments()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <span class="chip pending" id="asgn-chip"><span class="dot"></span>Loading</span>
+          </div>
+        </div>
+        <div class="asgn-list" id="asgn-list">
+          <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+        </div>
+      </section>
+    </div>
+
+    <div class="inbox-row">
+      <section class="card" id="card-applications">
+        <div class="card-head">
+          <div>
+            <h2>My Applications</h2>
+            <div class="card-sub" id="apps-sub">Loading…</div>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <button id="apps-refresh-btn" title="Refresh applications" onclick="refreshApplications()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
+          </div>
+        </div>
+        <div class="apps-status-bar" id="apps-status-bar"></div>
+        <div class="apps-list-inner" id="apps-list-inner">
+          <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
+        </div>
+        <a class="view-all-link" href="applications.html">View all applications →</a>
+      </section>
+
       <section class="card" id="card-jobs">
         <div class="card-head">
           <div><h2>New Grad SWE Jobs</h2><div class="card-sub" id="jobs-sub">job-alerts (Rishabh's repo)</div></div>
@@ -279,24 +340,6 @@
         <a class="view-all-link" href="all-jobs.html">View all jobs from the last 30 days →</a>
       </section>
     </div>
-
-    <section class="card" id="card-applications">
-      <div class="card-head">
-        <div>
-          <h2>My Applications</h2>
-          <div class="card-sub" id="apps-sub">Loading…</div>
-        </div>
-        <div style="display:flex;align-items:center;gap:8px;">
-          <button id="apps-refresh-btn" title="Refresh applications" onclick="refreshApplications()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
-          <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
-        </div>
-      </div>
-      <div class="apps-status-bar" id="apps-status-bar"></div>
-      <div class="apps-list-inner" id="apps-list-inner">
-        <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
-      </div>
-      <a class="view-all-link" href="applications.html">View all applications →</a>
-    </section>
 
     <section class="card" id="card-links">
       <span class="links-label">Quick links</span>
@@ -917,4 +960,128 @@
     setInterval(poll, 300000);
   }
   initApplications();
+
+  // ---------------- Assignments: Canvas iCal direct fetch ----------------
+  // Fetched securely via /api/canvas serverless function.
+  // Private token is stored in Vercel environment variables (never in git).
+  const CANVAS_ICAL_URL = '/api/canvas';
+  const CANVAS_POLL_MS = 1800000; // 30 min — iCal doesn't change that fast
+
+  function setAsgnChip(kind, text){
+    const chip = document.getElementById('asgn-chip');
+    chip.className = 'chip ' + kind;
+    chip.innerHTML = `<span class="dot"></span>${text}`;
+  }
+
+  function parseIcal(text){
+    // Unfold continued lines (RFC 5545 line folding: CRLF + whitespace)
+    text = text.replace(/\r\n[ \t]/g, '').replace(/\r/g, '');
+    const events = [];
+    const blocks = text.split('BEGIN:VEVENT');
+    for(let i = 1; i < blocks.length; i++){
+      const block = blocks[i];
+      const get = (key) => {
+        const m = block.match(new RegExp(String.raw`(?:^|\n)${key}(?:;[^\n:]*)?:([^\n]*)`, 'i'));
+        return m ? m[1].trim() : '';
+      };
+      const summary = get('SUMMARY').replace(/\\,/g, ',').replace(/\\n/g, ' ').replace(/\\\\/g, '\\');
+      const dtend = get('DTEND');
+      const dtstart = get('DTSTART');
+      const url = get('URL');
+      const rawDate = dtend || dtstart;
+      if(!summary || !rawDate) continue;
+      // Parse iCal date: YYYYMMDD or YYYYMMDDTHHmmssZ
+      let due;
+      if(rawDate.length === 8){
+        // All-day: treat as noon Chicago time so it doesn't shift to the prior day
+        due = new Date(`${rawDate.slice(0,4)}-${rawDate.slice(4,6)}-${rawDate.slice(6,8)}T12:00:00-05:00`);
+      } else {
+        due = new Date(rawDate.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z?/, '$1-$2-$3T$4:$5:$6Z'));
+      }
+      if(isNaN(due.getTime())) continue;
+      events.push({ title: summary, due, url });
+    }
+    return events;
+  }
+
+  function renderAssignments(events){
+    const list = document.getElementById('asgn-list');
+    const now = new Date();
+    const upcoming = events.filter(e => e.due > now).sort((a,b) => a.due - b.due);
+
+    if(upcoming.length === 0){
+      list.innerHTML = '<div class="empty-state">No upcoming assignments in the next 30 days 🎉</div>';
+      document.getElementById('asgn-sub').textContent = 'Nothing due in the next 30 days';
+      return;
+    }
+
+    const within30 = upcoming.filter(e => (e.due - now) < 30*86400000);
+    document.getElementById('asgn-sub').textContent =
+      `${within30.length} assignment${within30.length!==1?'s':''} due in the next 30 days · Canvas iCal`;
+
+    list.innerHTML = '';
+    within30.forEach(ev => {
+      const daysAway = (ev.due - now) / 86400000;
+      const hoursAway = (ev.due - now) / 3600000;
+      let dueClass = 'due-ok', dueLabel = '';
+      if(hoursAway < 24){
+        dueClass = 'due-urgent';
+        const h = Math.round(hoursAway);
+        dueLabel = h <= 1 ? 'due < 1h' : `due in ${h}h`;
+      } else if(daysAway < 3){
+        dueClass = 'due-soon';
+        dueLabel = daysAway < 2 ? 'tomorrow' : `in ${Math.ceil(daysAway)}d`;
+      } else {
+        dueLabel = ev.due.toLocaleDateString('en-US', { weekday:'short', month:'short', day:'numeric' });
+      }
+      // Extract course code from brackets e.g. "HW3 [CS 4375]"
+      const bracketMatch = ev.title.match(/\[([^\]]+)\]/);
+      const courseTag = bracketMatch ? bracketMatch[1] : null;
+      const cleanTitle = bracketMatch ? ev.title.replace(/\s*\[[^\]]+\]/, '').trim() : ev.title;
+      const row = document.createElement('div');
+      row.className = 'asgn-row';
+      const linkHtml = ev.url
+        ? `<a href="${escapeHtml(ev.url)}" target="_blank" rel="noopener">${escapeHtml(cleanTitle)}</a>`
+        : escapeHtml(cleanTitle);
+      row.innerHTML = `
+        <div class="asgn-body">
+          <div class="asgn-title">${linkHtml}</div>
+          ${courseTag ? `<span class="asgn-course">${escapeHtml(courseTag)}</span>` : ''}
+        </div>
+        <div class="asgn-due ${dueClass}">${escapeHtml(dueLabel)}</div>`;
+      list.appendChild(row);
+    });
+  }
+
+  let pollAsgnFn = null;
+  async function refreshAssignments(){
+    const btn = document.getElementById('asgn-refresh-btn');
+    if(btn){
+      btn.style.transition = 'transform 0.5s ease';
+      btn.style.transform = 'rotate(360deg)';
+      setTimeout(() => { if(btn) btn.style.transform = 'none'; }, 500);
+    }
+    if(pollAsgnFn) await pollAsgnFn();
+  }
+
+  async function initAssignments(){
+    async function poll(){
+      try{
+        setAsgnChip('pending','Loading');
+        const res = await fetch(CANVAS_ICAL_URL + '?t=' + Date.now(), { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        const text = await res.text();
+        const events = parseIcal(text);
+        setAsgnChip('live','Live · Canvas');
+        renderAssignments(events);
+      }catch(e){
+        setAsgnChip('error','Sync issue');
+        document.getElementById('asgn-list').innerHTML = '<div class="empty-state">Could not load Canvas assignments — will retry.</div>';
+      }
+    }
+    pollAsgnFn = poll;
+    poll();
+    setInterval(poll, CANVAS_POLL_MS);
+  }
+  initAssignments();
 </script>
