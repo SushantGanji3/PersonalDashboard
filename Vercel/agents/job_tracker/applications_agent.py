@@ -637,15 +637,20 @@ def main():
         snd = (sender or "").lower()
 
         if any(bad in snd for bad in SENDER_BLACKLIST):
-            return False
+            return False, f"sender blocklist match in '{snd}'"
 
         if any(bad in s for bad in SUBJECT_BLACKLIST):
-            return False
+            matched = next(bad for bad in SUBJECT_BLACKLIST if bad in s)
+            return False, f"subject blocklist match: '{matched}'"
 
         if any(ats in snd for ats in ATS_DOMAINS):
-            return True
+            return True, "ATS domain"
 
-        return any(pat in s for pat in JOB_APPLICATION_PATTERNS)
+        matched = next((pat for pat in JOB_APPLICATION_PATTERNS if pat in s), None)
+        if matched:
+            return True, f"subject pattern: '{matched}'"
+
+        return False, "no job patterns matched in subject"
 
     if not messages:
         print("No emails matched the search query.")
@@ -669,13 +674,16 @@ def main():
                 subject = hdrs.get("subject", "")
                 sender = hdrs.get("from", "")
 
-                if email_looks_like_job(subject, sender):
+                is_job, reason = email_looks_like_job(subject, sender)
+                if is_job:
+                    print(f"  ✅ PASS [{reason}]: {subject[:70]} | from: {sender[:50]}")
                     job_candidates.append({
                         "id": msg["id"],
                         "subject": subject,
                         "sender": sender,
                     })
                 else:
+                    print(f"  ❌ SKIP [{reason}]: {subject[:70]} | from: {sender[:50]}")
                     skipped += 1
 
                 # Rate limit: pause every 10 fetches to avoid quota errors
