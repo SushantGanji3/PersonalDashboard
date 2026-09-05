@@ -16,6 +16,8 @@ Source behind two separated targets:
 
 ```text
 PersonalDashboard/
+├── api/
+│   └── gmail.js                   # Vercel serverless function for live real-time Gmail fetch
 ├── claudeArtifact/
 │   ├── dashboard.html             # Command Deck artifact (MCP + DB)
 │   ├── applications.html          # My Applications artifact (DB doc)

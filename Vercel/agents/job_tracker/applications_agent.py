@@ -395,6 +395,11 @@ def upsert_application(apps_list, classification, email_date, email_subject):
     if not company:
         return  # Skip if we couldn't extract a company name
 
+    # Skip non-job applications (e.g. apartment leasing / rental applications)
+    company_lower = company.lower()
+    if any(term in company_lower for term in ["northside", "apartment", "rental", "lease", "guarantor"]):
+        return
+
     app_id = make_app_id(company, role)
 
     # Find existing entry

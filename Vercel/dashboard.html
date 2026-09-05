@@ -253,7 +253,10 @@
       <section class="card" id="card-gmail">
         <div class="card-head">
           <div><h2>Gmail</h2><div class="card-sub mono">sushantganji17@gmail.com</div></div>
-          <span class="chip pending" id="gmail-chip"><span class="dot"></span>Connecting</span>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <button id="gmail-refresh-btn" title="Refresh emails" onclick="refreshGmail()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <span class="chip pending" id="gmail-chip"><span class="dot"></span>Connecting</span>
+          </div>
         </div>
         <div class="mail-list" id="gmail-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
@@ -561,7 +564,18 @@
 
   // ---------------- Gmail: serverless API or public Gist fallback ----------------
   const GMAIL_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/gmail_inbox.json';
-  const GMAIL_GIST_POLL_MS = 300000;
+  const GMAIL_POLL_MS = 30000;
+
+  let pollGmailFn = null;
+  async function refreshGmail(){
+    const btn = document.getElementById('gmail-refresh-btn');
+    if(btn){
+      btn.style.transition = 'transform 0.5s ease';
+      btn.style.transform = 'rotate(360deg)';
+      setTimeout(() => { if(btn) btn.style.transform = 'none'; }, 500);
+    }
+    if(pollGmailFn) await pollGmailFn();
+  }
 
   async function initGmail(){
     async function poll(){
@@ -580,14 +594,15 @@
           document.getElementById('gmail-list').innerHTML = '<div class="empty-state">Waiting on the first sync from gmail_sync.py.</div>';
           return;
         }
-        setGmailChip('live','Live');
+        setGmailChip('live', doc.source === 'live_gmail_api' ? 'Live' : 'Live (Gist)');
         renderGmailThreads(doc.threads || []);
       }catch(e){
         setGmailChip('error','Sync issue');
       }
     }
+    pollGmailFn = poll;
     poll();
-    setInterval(poll, GMAIL_GIST_POLL_MS);
+    setInterval(poll, GMAIL_POLL_MS);
   }
   initGmail();
 

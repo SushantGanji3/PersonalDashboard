@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/Vercel/api/$1" },
     { "source": "/", "destination": "/Vercel/dashboard.html" },
     { "source": "/dashboard.html", "destination": "/Vercel/dashboard.html" },
     { "source": "/applications.html", "destination": "/Vercel/applications.html" },
