@@ -1,322 +1,1072 @@
-<title>Sushant's Command Deck</title>
+<title>Sushant's Command Deck — Mission Control</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,680&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#14201a; --ink-soft:#4b5850; --ink-faint:#7c877f;
-    --paper:#f2f4f0; --surface:#ffffff; --surface-2:#eaeee6;
-    --line:#d7ddd0; --line-soft:#e6e9e0;
-    --forest:#1c4d33; --forest-soft:#e3ede6;
-    --ember:#c85a28; --ember-soft:#f7e6da;
-    --good:#2f8f5b; --good-soft:#e3f1e9;
-    --warn:#b8811f; --warn-soft:#f6ecd8;
-    --danger:#c1442c; --danger-soft:#f7e2dd;
-    --course-a:#7a2331; --course-a-soft:#f5e2e6;
-    --shadow: 0 1px 2px rgba(20,32,26,0.04), 0 8px 24px -12px rgba(20,32,26,0.12);
+    --paper:#f5f7fa;
+    --surface:#ffffff;
+    --surface-2:#eef2f6;
+    --surface-hover:#e8edf3;
+    --line:#e2e8f0;
+    --line-soft:#edf2f7;
+    --line-strong:#cbd5e1;
+
+    --ink:#0f172a;
+    --ink-soft:#475569;
+    --ink-faint:#94a3b8;
+
+    --forest:#0f766e;
+    --forest-soft:#f0fdfa;
+    --ember:#ea580c;
+    --ember-soft:#fff7ed;
+    --good:#16a34a;
+    --good-soft:#f0fdf4;
+    --warn:#d97706;
+    --warn-soft:#fffbeb;
+    --danger:#e11d48;
+    --danger-soft:#fff1f2;
+    --course-a:#4f46e5;
+    --course-a-soft:#eef2ff;
+
+    --accent:#2563eb;
+    --accent-soft:#eff6ff;
+
+    --border: var(--line);
+    --text: var(--ink);
+    --text-muted: var(--ink-faint);
+
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 14px;
+    --radius-pill: 999px;
+
+    --shadow-sm: 0 1px 2px rgba(15,23,42,0.04);
+    --shadow: 0 1px 3px rgba(15,23,42,0.05), 0 10px 24px -12px rgba(15,23,42,0.08);
+
     color-scheme: light;
   }
+
   @media (prefers-color-scheme: dark){
     :root:not([data-theme="light"]){
-      --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
-      --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
-      --line:#2b322a; --line-soft:#242a22;
-      --forest:#6fc498; --forest-soft:#1b2a21;
-      --ember:#f0925a; --ember-soft:#2c1f16;
-      --good:#5cbf8c; --good-soft:#16261d;
-      --warn:#e0ac4f; --warn-soft:#2a2213;
-      --danger:#e2705a; --danger-soft:#2b1a15;
-      --course-a:#e2899c; --course-a-soft:#2c1a20;
-      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+      --paper:#090d16;
+      --surface:#0f172a;
+      --surface-2:#162035;
+      --surface-hover:#1c2842;
+      --line:#1e293b;
+      --line-soft:#172236;
+      --line-strong:#334155;
+
+      --ink:#f8fafc;
+      --ink-soft:#94a3b8;
+      --ink-faint:#64748b;
+
+      --forest:#2dd4bf;
+      --forest-soft:#042f2e;
+      --ember:#fb923c;
+      --ember-soft:#2c1808;
+      --good:#4ade80;
+      --good-soft:#052e16;
+      --warn:#fbbf24;
+      --warn-soft:#2e1f04;
+      --danger:#fb7185;
+      --danger-soft:#330e18;
+      --course-a:#818cf8;
+      --course-a-soft:#1e1b4b;
+
+      --accent:#38bdf8;
+      --accent-soft:#082f49;
+
+      --border: var(--line);
+      --text: var(--ink);
+      --text-muted: var(--ink-faint);
+
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.4);
+      --shadow: 0 4px 20px -4px rgba(0,0,0,0.5), 0 0 1px rgba(255,255,255,0.06);
+
       color-scheme: dark;
     }
   }
+
   :root[data-theme="dark"]{
-    --ink:#eef2ec; --ink-soft:#aab6ac; --ink-faint:#7c877f;
-    --paper:#0f1310; --surface:#171c17; --surface-2:#1e241d;
-    --line:#2b322a; --line-soft:#242a22;
-    --forest:#6fc498; --forest-soft:#1b2a21;
-    --ember:#f0925a; --ember-soft:#2c1f16;
-    --good:#5cbf8c; --good-soft:#16261d;
-    --warn:#e0ac4f; --warn-soft:#2a2213;
-    --danger:#e2705a; --danger-soft:#2b1a15;
-    --course-a:#e2899c; --course-a-soft:#2c1a20;
-    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    --paper:#090d16;
+    --surface:#0f172a;
+    --surface-2:#162035;
+    --surface-hover:#1c2842;
+    --line:#1e293b;
+    --line-soft:#172236;
+    --line-strong:#334155;
+
+    --ink:#f8fafc;
+    --ink-soft:#94a3b8;
+    --ink-faint:#64748b;
+
+    --forest:#2dd4bf;
+    --forest-soft:#042f2e;
+    --ember:#fb923c;
+    --ember-soft:#2c1808;
+    --good:#4ade80;
+    --good-soft:#052e16;
+    --warn:#fbbf24;
+    --warn-soft:#2e1f04;
+    --danger:#fb7185;
+    --danger-soft:#330e18;
+    --course-a:#818cf8;
+    --course-a-soft:#1e1b4b;
+
+    --accent:#38bdf8;
+    --accent-soft:#082f49;
+
+    --border: var(--line);
+    --text: var(--ink);
+    --text-muted: var(--ink-faint);
+
+    --shadow-sm: 0 1px 2px rgba(0,0,0,0.4);
+    --shadow: 0 4px 20px -4px rgba(0,0,0,0.5), 0 0 1px rgba(255,255,255,0.06);
+
     color-scheme: dark;
   }
 
-  *{box-sizing:border-box;}
+  *{ box-sizing:border-box; }
   body{
-    margin:0; background:var(--paper); color:var(--ink);
-    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
-    font-size:14px; line-height:1.45;
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+    font-size:13.5px;
+    line-height:1.5;
     -webkit-font-smoothing:antialiased;
+    letter-spacing:-0.011em;
   }
-  .wrap{ max-width:1280px; margin:0 auto; padding:28px 28px 56px; }
-  h1,h2,h3{ font-family:"Fraunces", Georgia, serif; margin:0; text-wrap:balance; }
-  .mono{ font-family:"IBM Plex Mono", ui-monospace, SFMono-Regular, monospace; }
-  a{ color:inherit; }
 
-  /* ---------- header ---------- */
+  .wrap{
+    max-width:1380px;
+    margin:0 auto;
+    padding:24px 24px 64px;
+  }
+
+  h1,h2,h3{
+    font-family:"Space Grotesk", sans-serif;
+    margin:0;
+    letter-spacing:-0.03em;
+    font-weight:600;
+  }
+  .mono{
+    font-family:"JetBrains Mono", monospace;
+  }
+  a{
+    color:inherit;
+    transition:color 0.15s ease;
+  }
+
+  /* Custom Clean Scrollbar */
+  ::-webkit-scrollbar { width: 5px; height: 5px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--line-strong); border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--ink-faint); }
+
+  /* ---------- Mission Header Telemetry ---------- */
   header.top{
-    display:flex; align-items:flex-end; justify-content:space-between;
-    gap:24px; flex-wrap:wrap; margin-bottom:22px; padding-bottom:20px;
-    border-bottom:1px solid var(--line);
+    display:grid;
+    grid-template-columns: 1fr auto;
+    gap:20px;
+    align-items:center;
+    margin-bottom:24px;
+    padding:18px 24px;
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius-lg);
+    box-shadow:var(--shadow-sm);
   }
-  .greet-eyebrow{
-    font-family:"IBM Plex Mono"; font-size:11px; letter-spacing:.14em; text-transform:uppercase;
-    color:var(--forest); font-weight:600; margin-bottom:6px;
+  @media (max-width: 840px){
+    header.top{ grid-template-columns: 1fr; }
   }
-  header.top h1{ font-size:30px; font-weight:680; font-optical-sizing:auto; }
-  .date-line{ color:var(--ink-soft); font-size:14px; margin-top:4px; }
-  .now-panel{ text-align:right; }
-  .clock{ font-family:"IBM Plex Mono"; font-size:26px; font-weight:600; font-variant-numeric:tabular-nums; }
-  .clock-tz{ font-size:11px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.08em; }
-  .nextup-chip{
-    margin-top:8px; display:inline-flex; align-items:center; gap:8px;
-    background:var(--forest-soft); color:var(--forest); border-radius:100px;
-    padding:6px 14px; font-size:12.5px; font-weight:600;
-  }
-  .nextup-chip .dot{ width:6px; height:6px; border-radius:50%; background:var(--forest); flex:none; }
 
-  /* ---------- grid ---------- */
-  .grid{ display:flex; flex-direction:column; gap:16px; }
+  .header-brand-line{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:4px;
+  }
+  .status-tag{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:0.04em;
+    background:var(--forest-soft);
+    color:var(--forest);
+    border:1px solid rgba(15,118,110,0.2);
+    padding:2px 7px;
+    border-radius:var(--radius-sm);
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+  }
+  .status-tag-dot{
+    width:5px; height:5px; border-radius:50%; background:currentColor;
+  }
+  .header-meta{
+    font-size:11.5px;
+    color:var(--ink-faint);
+    font-weight:500;
+  }
+
+  header.top h1{
+    font-size:26px;
+    line-height:1.2;
+    color:var(--ink);
+  }
+  .date-line{
+    color:var(--ink-soft);
+    font-size:13px;
+    margin-top:4px;
+    font-weight:500;
+  }
+
+  .now-panel{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+    gap:6px;
+  }
+  @media (max-width: 840px){
+    .now-panel{ align-items:flex-start; }
+  }
+
+  .clock-box{
+    display:flex;
+    align-items:baseline;
+    gap:8px;
+  }
+  .clock{
+    font-family:"JetBrains Mono", monospace;
+    font-size:28px;
+    font-weight:700;
+    color:var(--ink);
+    letter-spacing:-0.04em;
+    font-variant-numeric:tabular-nums;
+    line-height:1;
+  }
+  .clock-tz{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10.5px;
+    font-weight:600;
+    color:var(--ink-faint);
+    letter-spacing:0.06em;
+  }
+
+  .nextup-chip{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    background:var(--accent-soft);
+    color:var(--accent);
+    border:1px solid rgba(37,99,235,0.18);
+    border-radius:var(--radius-pill);
+    padding:5px 12px;
+    font-size:12px;
+    font-weight:600;
+    max-width:100%;
+  }
+  .nextup-chip .dot{
+    width:7px;
+    height:7px;
+    border-radius:50%;
+    background:var(--accent);
+    flex:none;
+    box-shadow:0 0 0 2px var(--surface);
+    animation:pulseDot 2s infinite ease-in-out;
+  }
+  @keyframes pulseDot{
+    0%,100%{ transform:scale(1); opacity:1; }
+    50%{ transform:scale(1.25); opacity:0.75; }
+  }
+
+  /* ---------- Structural Grid Layout ---------- */
+  .grid{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+  }
+
   .inbox-row{
-    display:grid; grid-template-columns:repeat(2,1fr); gap:16px;
+    display:grid;
+    grid-template-columns:repeat(2, 1fr);
+    gap:20px;
     align-items:stretch;
   }
-  .inbox-row .card{ height:100%; }
-  @media (max-width: 900px){
+  @media (max-width: 960px){
     .inbox-row{ grid-template-columns: 1fr; }
   }
+
+  /* ---------- Card Styling ---------- */
   .card{
-    background:var(--surface); border:1px solid var(--line); border-radius:14px;
-    box-shadow:var(--shadow); padding:18px 20px; display:flex; flex-direction:column;
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius-lg);
+    box-shadow:var(--shadow);
+    padding:20px 22px;
+    display:flex;
+    flex-direction:column;
+    position:relative;
+    transition:border-color 0.15s ease;
   }
-  .card-head{ display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:14px; }
-  .card-head h2{ font-size:16.5px; font-weight:600; }
-  .card-sub{ color:var(--ink-faint); font-size:11.5px; margin-top:2px; }
+  .card:hover{
+    border-color:var(--line-strong);
+  }
+
+  .card-head{
+    display:flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    gap:12px;
+    margin-bottom:14px;
+    padding-bottom:12px;
+    border-bottom:1px solid var(--line-soft);
+  }
+  .card-head h2{
+    font-size:16px;
+    font-weight:600;
+    color:var(--ink);
+  }
+  .card-sub{
+    color:var(--ink-faint);
+    font-size:11.5px;
+    margin-top:2px;
+    font-weight:500;
+  }
+
+  /* Action Buttons & Chips */
+  .icon-btn{
+    background:var(--surface-2);
+    border:1px solid var(--line);
+    color:var(--ink-soft);
+    border-radius:var(--radius-sm);
+    width:28px;
+    height:28px;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+    padding:0;
+    transition:all 0.15s ease;
+  }
+  .icon-btn:hover{
+    background:var(--surface-hover);
+    color:var(--ink);
+    border-color:var(--line-strong);
+  }
+
   .chip{
-    font-size:11px; font-weight:600; letter-spacing:.02em; padding:4px 10px; border-radius:100px;
-    white-space:nowrap; display:inline-flex; align-items:center; gap:6px;
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:0.03em;
+    padding:3px 9px;
+    border-radius:var(--radius-pill);
+    white-space:nowrap;
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+    border:1px solid transparent;
   }
-  .chip .dot{ width:6px; height:6px; border-radius:50%; }
-  .chip.live{ background:var(--good-soft); color:var(--good); }
+  .chip .dot{ width:5px; height:5px; border-radius:50%; }
+  .chip.live{ background:var(--good-soft); color:var(--good); border-color:rgba(22,163,74,0.2); }
   .chip.live .dot{ background:var(--good); }
-  .chip.pending{ background:var(--warn-soft); color:var(--warn); }
+  .chip.pending{ background:var(--warn-soft); color:var(--warn); border-color:rgba(217,119,6,0.2); }
   .chip.pending .dot{ background:var(--warn); }
-  .chip.off{ background:var(--surface-2); color:var(--ink-faint); }
+  .chip.off{ background:var(--surface-2); color:var(--ink-faint); border-color:var(--line); }
   .chip.off .dot{ background:var(--ink-faint); }
-  .chip.error{ background:var(--danger-soft); color:var(--danger); }
+  .chip.error{ background:var(--danger-soft); color:var(--danger); border-color:rgba(225,29,72,0.2); }
   .chip.error .dot{ background:var(--danger); }
 
-  /* ---------- schedule card ---------- */
-  .week-cols{ display:grid; grid-template-columns:repeat(7,1fr); gap:8px; flex:1; }
-  .day-col{ display:flex; flex-direction:column; gap:8px; min-width:0; padding:6px; border-radius:10px; }
-  .day-col.is-today{ background:var(--forest-soft); }
+  /* ---------- Weekly Horizon (Schedule) ---------- */
+  .week-cols{
+    display:grid;
+    grid-template-columns:repeat(7, minmax(0, 1fr));
+    gap:10px;
+    flex:1;
+  }
+  @media (max-width: 1040px){
+    .week-cols{
+      grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));
+    }
+  }
+
+  .day-col{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    background:var(--surface-2);
+    border:1px solid var(--line-soft);
+    border-radius:var(--radius-md);
+    padding:9px;
+    min-height:160px;
+    transition:all 0.15s ease;
+  }
+  .day-col.is-today{
+    background:var(--surface);
+    border:1.5px solid var(--accent);
+    box-shadow:0 0 0 3px rgba(37,99,235,0.08);
+  }
   .day-head{
-    font-family:"IBM Plex Mono"; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
-    color:var(--ink-faint); padding-bottom:6px; border-bottom:1px solid var(--line-soft);
-    display:flex; align-items:center; justify-content:space-between;
+    font-family:"JetBrains Mono", monospace;
+    font-size:11px;
+    font-weight:700;
+    color:var(--ink-soft);
+    padding-bottom:6px;
+    border-bottom:1px solid var(--line-soft);
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
   }
-  .day-col.is-today .day-head{ color:var(--forest); font-weight:700; border-bottom-color:var(--forest); }
-  .day-col.is-today .day-head .today-dot{ width:6px;height:6px;border-radius:50%;background:var(--forest); }
+  .day-col.is-today .day-head{
+    color:var(--accent);
+    border-bottom-color:var(--accent-soft);
+  }
+  .day-col.is-today .day-head .today-dot{
+    width:6px;
+    height:6px;
+    border-radius:50%;
+    background:var(--accent);
+    box-shadow:0 0 6px var(--accent);
+  }
+
+  .allday-band{
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+    padding-bottom:6px;
+    border-bottom:1px dashed var(--line);
+  }
+  .allday-chip{
+    font-size:10.5px;
+    font-weight:600;
+    line-height:1.3;
+    border-radius:var(--radius-sm);
+    padding:3px 7px;
+    border-left:2.5px solid currentColor;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+
   .class-block{
-    border-radius:10px; padding:9px 10px; border-left:3px solid var(--c);
+    border-radius:var(--radius-sm);
+    padding:8px;
+    border-left:3px solid var(--c);
     background:var(--c-soft);
+    border-top:1px solid rgba(0,0,0,0.03);
+    border-right:1px solid rgba(0,0,0,0.03);
+    border-bottom:1px solid rgba(0,0,0,0.03);
+    transition:transform 0.1s ease;
   }
-  .class-block .code{ font-family:"IBM Plex Mono"; font-size:12px; font-weight:600; color:var(--c); }
-  .class-block .title{ font-size:11.5px; margin-top:2px; color:var(--ink); line-height:1.3; }
-  .class-block .meta{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-soft); margin-top:5px; }
-  .class-block.is-now{ outline:2px solid var(--c); outline-offset:1px; }
-  .class-block.gcal-event{ border-left-style:dashed; }
-  .gcal-title{ font-size:12px; font-weight:600; color:var(--ink); line-height:1.3; }
-  .gcal-tag{ font-family:"IBM Plex Mono"; font-size:9.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--warn); margin-top:5px; }
-  .day-empty{ font-size:11px; color:var(--ink-faint); padding:8px 0; }
-  /* All-day items (Lawyer Meeting, gym-day labels, etc.) sit in a band above
-     the timed grid, matching how Google Calendar's own week view separates
-     untimed events from the hourly schedule. */
-  .allday-band{ display:flex; flex-direction:column; gap:4px; margin-bottom:8px; padding-bottom:8px; border-bottom:1px dashed var(--line-soft); }
-  .allday-chip{ font-size:10px; font-weight:600; line-height:1.3; color:var(--warn); background:var(--warn-soft); border-radius:6px; padding:4px 7px; }
+  .class-block:hover{
+    transform:translateY(-1px);
+  }
+  .class-block .code{
+    font-family:"JetBrains Mono", monospace;
+    font-size:11px;
+    font-weight:700;
+    color:var(--c);
+    letter-spacing:0.02em;
+  }
+  .class-block .title{
+    font-size:11px;
+    font-weight:600;
+    margin-top:2px;
+    color:var(--ink);
+    line-height:1.3;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+  }
+  .class-block .meta{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    color:var(--ink-soft);
+    margin-top:3px;
+    line-height:1.25;
+  }
+  .class-block.is-now{
+    box-shadow:0 0 0 2px var(--c), 0 4px 10px rgba(0,0,0,0.1);
+  }
+  .class-block.gcal-event{
+    border-left-style:dashed;
+  }
+  .gcal-title{
+    font-size:11.5px;
+    font-weight:600;
+    color:var(--ink);
+    line-height:1.3;
+  }
+  .gcal-tag{
+    font-family:"JetBrains Mono", monospace;
+    font-size:9px;
+    letter-spacing:0.05em;
+    margin-top:4px;
+    font-weight:600;
+  }
+  .day-empty{
+    font-size:11px;
+    color:var(--ink-faint);
+    padding:12px 4px;
+    text-align:center;
+  }
 
+  /* Empty State Utility */
   .empty-state{
-    flex:1; display:flex; flex-direction:column; align-items:flex-start; justify-content:center;
-    gap:8px; padding:10px 2px; color:var(--ink-soft); font-size:12.5px; line-height:1.55;
+    flex:1;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    padding:24px 12px;
+    color:var(--ink-faint);
+    font-size:12px;
+    line-height:1.5;
   }
 
-  /* ---------- inbox cards ---------- */
-  .mail-list{ display:flex; flex-direction:column; gap:2px; max-height:320px; overflow-y:auto; }
-  .mail-row{ display:flex; gap:10px; padding:9px 0; border-bottom:1px solid var(--line-soft); align-items:flex-start; }
-  .mail-row:last-child{ border-bottom:none; }
-  .mail-dot{ width:7px; height:7px; border-radius:50%; background:var(--forest); margin-top:6px; flex:none; }
-  .mail-dot.read{ background:transparent; }
+  /* ---------- Gmail Stream ---------- */
+  .mail-list{
+    display:flex;
+    flex-direction:column;
+    gap:1px;
+    max-height:340px;
+    overflow-y:auto;
+    padding-right:2px;
+  }
+  .mail-row{
+    display:flex;
+    gap:10px;
+    padding:10px 8px;
+    border-radius:var(--radius-sm);
+    align-items:flex-start;
+    transition:background 0.12s ease;
+  }
+  .mail-row:hover{
+    background:var(--surface-2);
+  }
+  .mail-dot{
+    width:7px;
+    height:7px;
+    border-radius:50%;
+    background:var(--accent);
+    margin-top:6px;
+    flex:none;
+    box-shadow:0 0 5px var(--accent);
+  }
+  .mail-dot.read{
+    background:transparent;
+    box-shadow:none;
+  }
   .mail-body{ min-width:0; flex:1; }
-  .mail-subject{ font-size:12.5px; font-weight:600; line-height:1.3; }
-  .mail-subject a{ color:inherit; text-decoration:none; }
-  .mail-subject a:hover{ color:var(--forest); text-decoration:underline; }
-  .mail-sender{ font-size:11px; color:var(--ink-faint); margin-top:2px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .mail-time{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); flex:none; white-space:nowrap; }
-  .skel{ background:linear-gradient(90deg,var(--surface-2),var(--line-soft),var(--surface-2)); background-size:200% 100%; animation:shimmer 1.4s infinite; border-radius:6px; }
-  @keyframes shimmer{ 0%{background-position:200% 0;} 100%{background-position:-200% 0;} }
-  .skel-row{ height:34px; margin-bottom:6px; }
+  .mail-subject{
+    font-size:12.5px;
+    font-weight:600;
+    line-height:1.35;
+    color:var(--ink);
+  }
+  .mail-subject a{
+    text-decoration:none;
+  }
+  .mail-subject a:hover{
+    color:var(--accent);
+  }
+  .mail-sender{
+    font-size:11.5px;
+    color:var(--ink-soft);
+    margin-top:2px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  .mail-time{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10.5px;
+    color:var(--ink-faint);
+    flex:none;
+    margin-top:2px;
+    white-space:nowrap;
+  }
 
-  .job-list{ display:flex; flex-direction:column; gap:2px; max-height:320px; overflow-y:auto; }
-  .job-row{ padding:9px 0; border-bottom:1px solid var(--line-soft); transition:background .12s ease; }
-  .job-row:last-child{ border-bottom:none; }
+  /* Shimmer Skeleton */
+  .skel{
+    background:linear-gradient(90deg, var(--surface-2), var(--line-soft), var(--surface-2));
+    background-size:200% 100%;
+    animation:shimmer 1.4s infinite;
+    border-radius:var(--radius-sm);
+  }
+  @keyframes shimmer{ 0%{background-position:200% 0;} 100%{background-position:-200% 0;} }
+  .skel-row{ height:36px; margin-bottom:8px; }
+
+  /* ---------- Canvas Assignments ---------- */
+  .asgn-list{
+    display:flex;
+    flex-direction:column;
+    gap:1px;
+    max-height:340px;
+    overflow-y:auto;
+    padding-right:2px;
+  }
+  .asgn-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    padding:10px 8px;
+    border-radius:var(--radius-sm);
+    transition:background 0.12s ease;
+  }
+  .asgn-row:hover{
+    background:var(--surface-2);
+  }
+  .asgn-body{ min-width:0; flex:1; }
+  .asgn-title{
+    font-size:12.5px;
+    font-weight:600;
+    line-height:1.35;
+    color:var(--ink);
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  .asgn-title a{ text-decoration:none; }
+  .asgn-title a:hover{ color:var(--accent); }
+  .asgn-course{
+    display:inline-block;
+    margin-top:4px;
+    font-family:"JetBrains Mono", monospace;
+    font-size:9.5px;
+    font-weight:700;
+    letter-spacing:0.04em;
+    background:var(--course-a-soft);
+    color:var(--course-a);
+    border-radius:var(--radius-sm);
+    padding:1px 6px;
+    border:1px solid rgba(79,70,229,0.18);
+  }
+  .asgn-due{
+    flex:none;
+    text-align:right;
+    font-family:"JetBrains Mono", monospace;
+    font-size:10.5px;
+    font-weight:600;
+    padding:3px 8px;
+    border-radius:var(--radius-sm);
+    white-space:nowrap;
+  }
+  .asgn-due.due-urgent{
+    background:var(--danger-soft);
+    color:var(--danger);
+    border:1px solid rgba(225,29,72,0.25);
+    box-shadow:0 0 8px rgba(225,29,72,0.15);
+  }
+  .asgn-due.due-soon{
+    background:var(--warn-soft);
+    color:var(--warn);
+    border:1px solid rgba(217,119,6,0.25);
+  }
+  .asgn-due.due-ok{
+    background:var(--surface-2);
+    color:var(--ink-soft);
+    border:1px solid var(--line-soft);
+  }
+
+  /* ---------- Applications Tracker ---------- */
+  .apps-status-bar{
+    display:flex;
+    gap:6px;
+    flex-wrap:wrap;
+    margin-bottom:12px;
+  }
+  .apps-status-pill{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10.5px;
+    font-weight:600;
+    padding:3px 9px;
+    border-radius:var(--radius-pill);
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+    border:1px solid transparent;
+  }
+  .apps-status-pill.Applied{ background:var(--surface-2); color:var(--ink-soft); border-color:var(--line); }
+  .apps-status-pill.OA{ background:var(--warn-soft); color:var(--warn); border-color:rgba(217,119,6,0.25); }
+  .apps-status-pill.Interview{ background:var(--forest-soft); color:var(--forest); border-color:rgba(15,118,110,0.25); }
+  .apps-status-pill.Offer{ background:var(--good-soft); color:var(--good); border-color:rgba(22,163,74,0.25); }
+  .apps-status-pill.Rejected{ background:var(--danger-soft); color:var(--danger); border-color:rgba(225,29,72,0.25); }
+
+  .apps-list-inner{
+    display:flex;
+    flex-direction:column;
+    gap:1px;
+    max-height:280px;
+    overflow-y:auto;
+    padding-right:2px;
+  }
+  .apps-row{
+    padding:9px 8px;
+    border-radius:var(--radius-sm);
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    transition:background 0.12s ease;
+  }
+  .apps-row:hover{
+    background:var(--surface-2);
+  }
+  .apps-company{
+    font-size:12.5px;
+    font-weight:600;
+    color:var(--ink);
+  }
+  .apps-company-link{
+    color:inherit;
+    text-decoration:none;
+    display:inline-flex;
+    align-items:center;
+    gap:4px;
+  }
+  .apps-company-link:hover{
+    color:var(--accent);
+  }
+  .apps-role{
+    font-size:11.5px;
+    color:var(--ink-soft);
+    margin-top:1px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+  .apps-badge{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    font-weight:600;
+    padding:2px 8px;
+    border-radius:var(--radius-pill);
+    flex:none;
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+    border:1px solid transparent;
+  }
+  .apps-badge .dot{ width:5px; height:5px; border-radius:50%; }
+  .apps-badge.Applied{ background:var(--surface-2); color:var(--ink-soft); border-color:var(--line); }
+  .apps-badge.Applied .dot{ background:var(--ink-faint); }
+  .apps-badge.OA{ background:var(--warn-soft); color:var(--warn); border-color:rgba(217,119,6,0.25); }
+  .apps-badge.OA .dot{ background:var(--warn); }
+  .apps-badge.Interview{ background:var(--forest-soft); color:var(--forest); border-color:rgba(15,118,110,0.25); }
+  .apps-badge.Interview .dot{ background:var(--forest); }
+  .apps-badge.Offer{ background:var(--good-soft); color:var(--good); border-color:rgba(22,163,74,0.25); }
+  .apps-badge.Offer .dot{ background:var(--good); }
+  .apps-badge.Rejected{ background:var(--danger-soft); color:var(--danger); border-color:rgba(225,29,72,0.25); }
+  .apps-badge.Rejected .dot{ background:var(--danger); }
+  .apps-deadline{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    color:var(--warn);
+    font-weight:600;
+    margin-top:3px;
+  }
+  .apps-deadline.urgent{
+    color:var(--danger);
+  }
+
+  /* ---------- SWE Jobs Radar ---------- */
+  .jobs-filter-bar{
+    display:flex;
+    gap:6px;
+    margin-bottom:10px;
+    padding-bottom:10px;
+    border-bottom:1px solid var(--line-soft);
+    align-items:center;
+    flex-wrap:wrap;
+  }
+  .jobs-filter-pill{
+    font-family:"Plus Jakarta Sans", sans-serif;
+    font-size:11px;
+    font-weight:600;
+    padding:3px 10px;
+    border-radius:var(--radius-pill);
+    background:var(--surface-2);
+    color:var(--ink-soft);
+    border:1px solid var(--line);
+    cursor:pointer;
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+    transition:all 0.12s ease;
+  }
+  .jobs-filter-pill:hover{
+    background:var(--surface-hover);
+    color:var(--ink);
+    border-color:var(--line-strong);
+  }
+  .jobs-filter-pill.active{
+    background:var(--ink);
+    color:var(--paper);
+    border-color:var(--ink);
+  }
+  .jobs-filter-pill .pill-count{
+    font-family:"JetBrains Mono", monospace;
+    font-size:9.5px;
+    opacity:0.8;
+  }
+
+  .job-list{
+    display:flex;
+    flex-direction:column;
+    gap:1px;
+    max-height:320px;
+    overflow-y:auto;
+    padding-right:2px;
+  }
+  .job-row{
+    padding:10px 8px;
+    border-radius:var(--radius-sm);
+    transition:background 0.12s ease;
+  }
+  .job-row:hover{
+    background:var(--surface-2);
+  }
   .job-row a{ text-decoration:none; }
-  .job-row.is-applied{ border-left:3px solid var(--forest); padding-left:9px; }
+  .job-row.is-applied{
+    border-left:3px solid var(--forest);
+    padding-left:10px;
+  }
   .job-row.is-applied.status-OA{ border-left-color:var(--warn); }
   .job-row.is-applied.status-Interview{ border-left-color:var(--forest); }
   .job-row.is-applied.status-Offer{ border-left-color:var(--good); }
-  .job-row.is-applied.status-Rejected{ border-left-color:var(--danger); opacity:0.82; }
-  .job-top{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
-  .job-company{ font-size:12.5px; font-weight:600; }
-  .job-badges{ display:inline-flex; align-items:center; gap:5px; flex-wrap:wrap; }
-  .job-new-badge{ font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.06em; color:var(--ember); background:var(--ember-soft); border-radius:5px; padding:1px 6px; flex:none; }
-  .job-applied-badge{
-    font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.04em;
-    padding:1px 6px; border-radius:5px; display:inline-flex; align-items:center; gap:3px;
-    line-height:1.3; flex:none; cursor:pointer; text-decoration:none;
-    transition:filter .15s ease, transform .15s ease;
+  .job-row.is-applied.status-Rejected{ border-left-color:var(--danger); opacity:0.8; }
+
+  .job-top{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:8px;
   }
-  .job-applied-badge:hover{ filter:brightness(0.92); transform:translateY(-1px); }
-  .job-applied-badge .applied-check{ font-size:9.5px; font-weight:700; }
-  .job-applied-badge.Applied{ background:var(--forest-soft); color:var(--forest); }
-  .job-applied-badge.OA{ background:var(--warn-soft); color:var(--warn); }
-  .job-applied-badge.Interview{ background:var(--forest-soft); color:var(--forest); }
-  .job-applied-badge.Offer{ background:var(--good-soft); color:var(--good); }
-  .job-applied-badge.Rejected{ background:var(--danger-soft); color:var(--danger); }
-  .job-title{ font-size:12px; color:var(--ink-soft); margin-top:1px; line-height:1.35; }
-  .job-title:hover{ color:var(--forest); }
-  .job-loc{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); margin-top:3px; }
-  .job-meta-row{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; margin-top:3px; }
-  .job-applied-meta{ font-family:"IBM Plex Mono"; font-size:10px; color:var(--forest); font-weight:500; white-space:nowrap; flex:none; }
+  .job-company{
+    font-size:12.5px;
+    font-weight:600;
+    color:var(--ink);
+  }
+  .job-badges{
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+    flex-wrap:wrap;
+  }
+  .job-new-badge{
+    font-family:"JetBrains Mono", monospace;
+    font-size:9px;
+    font-weight:700;
+    letter-spacing:0.05em;
+    color:var(--ember);
+    background:var(--ember-soft);
+    border:1px solid rgba(234,88,12,0.25);
+    border-radius:4px;
+    padding:1px 5px;
+    flex:none;
+  }
+  .job-applied-badge{
+    font-family:"JetBrains Mono", monospace;
+    font-size:9.5px;
+    font-weight:600;
+    padding:2px 7px;
+    border-radius:4px;
+    display:inline-flex;
+    align-items:center;
+    gap:4px;
+    line-height:1.2;
+    flex:none;
+    cursor:pointer;
+    text-decoration:none;
+    border:1px solid transparent;
+    transition:all 0.15s ease;
+  }
+  .job-applied-badge:hover{
+    filter:brightness(0.95);
+    transform:translateY(-1px);
+  }
+  .job-applied-badge.Applied{ background:var(--forest-soft); color:var(--forest); border-color:rgba(15,118,110,0.2); }
+  .job-applied-badge.OA{ background:var(--warn-soft); color:var(--warn); border-color:rgba(217,119,6,0.2); }
+  .job-applied-badge.Interview{ background:var(--forest-soft); color:var(--forest); border-color:rgba(15,118,110,0.2); }
+  .job-applied-badge.Offer{ background:var(--good-soft); color:var(--good); border-color:rgba(22,163,74,0.2); }
+  .job-applied-badge.Rejected{ background:var(--danger-soft); color:var(--danger); border-color:rgba(225,29,72,0.2); }
+
+  .job-title{
+    font-size:12px;
+    font-weight:500;
+    color:var(--ink-soft);
+    margin-top:2px;
+    line-height:1.35;
+    display:block;
+  }
+  .job-title:hover{
+    color:var(--accent);
+  }
+  .job-loc{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    color:var(--ink-faint);
+    margin-top:3px;
+  }
+  .job-meta-row{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:8px;
+    margin-top:3px;
+  }
+  .job-applied-meta{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    color:var(--forest);
+    font-weight:500;
+    white-space:nowrap;
+    flex:none;
+  }
   .job-applied-meta.status-OA{ color:var(--warn); }
   .job-applied-meta.status-Rejected{ color:var(--danger); }
-  .jobs-footer{ font-size:10.5px; color:var(--ink-faint); margin-top:10px; padding-top:8px; border-top:1px solid var(--line-soft); }
+
+  .jobs-footer{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10px;
+    color:var(--ink-faint);
+    margin-top:10px;
+    padding-top:10px;
+    border-top:1px solid var(--line-soft);
+  }
+
   .view-all-link{
-    display:block; text-align:center; font-size:11.5px; font-weight:600; color:var(--forest);
-    text-decoration:none; margin-top:10px; padding-top:10px; border-top:1px solid var(--line-soft);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
+    font-size:11.5px;
+    font-weight:600;
+    color:var(--accent);
+    text-decoration:none;
+    margin-top:12px;
+    padding-top:12px;
+    border-top:1px solid var(--line-soft);
+    transition:gap 0.15s ease;
   }
-  .view-all-link:hover{ text-decoration:underline; }
-
-  /* Jobs filter pill bar */
-  .jobs-filter-bar{ display:flex; gap:6px; margin-bottom:10px; padding-bottom:8px; border-bottom:1px solid var(--line-soft); align-items:center; flex-wrap:wrap; }
-  .jobs-filter-pill{
-    font-family:"IBM Plex Sans", sans-serif; font-size:11px; font-weight:600;
-    padding:2px 8px; border-radius:100px; background:var(--surface-2); color:var(--ink-soft);
-    border:1px solid var(--line-soft); cursor:pointer; display:inline-flex; align-items:center; gap:4px;
-    transition:all .12s ease;
+  .view-all-link:hover{
+    text-decoration:none;
+    gap:9px;
   }
-  .jobs-filter-pill:hover{ background:var(--forest-soft); color:var(--forest); border-color:var(--forest); }
-  .jobs-filter-pill.active{ background:var(--forest); color:#ffffff; border-color:var(--forest); }
-  .jobs-filter-pill .pill-count{ font-family:"IBM Plex Mono", monospace; font-size:10px; opacity:0.85; }
 
-  /* ---------- links footer ---------- */
-  #card-links{ flex-direction:row; flex-wrap:wrap; align-items:center; gap:10px; padding:14px 20px; }
-  #card-links .links-label{ font-family:"IBM Plex Mono"; font-size:11px; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-faint); margin-right:4px; }
+  /* ---------- Tactical Launch Dock (Quick Links) ---------- */
+  #card-links{
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    gap:14px;
+    padding:14px 20px;
+    flex-wrap:wrap;
+  }
+  .dock-left{
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+  .links-label{
+    font-family:"JetBrains Mono", monospace;
+    font-size:10.5px;
+    font-weight:700;
+    color:var(--ink-faint);
+    letter-spacing:0.05em;
+  }
+  .dock-items{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    flex-wrap:wrap;
+  }
   .link-chip{
-    text-decoration:none; font-size:12.5px; font-weight:500; color:var(--ink);
-    background:var(--surface-2); border:1px solid var(--line); border-radius:100px;
-    padding:6px 13px; transition:background .12s ease;
+    text-decoration:none;
+    font-size:12px;
+    font-weight:600;
+    color:var(--ink);
+    background:var(--surface-2);
+    border:1px solid var(--line);
+    border-radius:var(--radius-sm);
+    padding:6px 12px;
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    transition:all 0.15s ease;
   }
-  .link-chip:hover{ background:var(--forest-soft); color:var(--forest); }
+  .link-chip:hover{
+    background:var(--surface-hover);
+    color:var(--accent);
+    border-color:var(--accent);
+    transform:translateY(-1px);
+  }
 
-  footer.note{ margin-top:18px; font-size:11px; color:var(--ink-faint); text-align:center; }
-
-  /* ---------- applications card ---------- */
-  .apps-status-bar{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
-  .apps-status-pill{
-    font-size:11px; font-weight:600; padding:3px 10px; border-radius:100px; display:inline-flex; align-items:center; gap:5px;
+  footer.note{
+    margin-top:24px;
+    font-family:"JetBrains Mono", monospace;
+    font-size:10.5px;
+    color:var(--ink-faint);
+    text-align:center;
+    line-height:1.6;
   }
-  .apps-status-pill.Applied{ background:var(--surface-2); color:var(--ink-soft); }
-  .apps-status-pill.OA{ background:var(--warn-soft); color:var(--warn); }
-  .apps-status-pill.Interview{ background:var(--forest-soft); color:var(--forest); }
-  .apps-status-pill.Offer{ background:var(--good-soft); color:var(--good); }
-  .apps-status-pill.Rejected{ background:var(--danger-soft); color:var(--danger); }
-  .apps-row{ padding:8px 0; border-bottom:1px solid var(--line-soft); display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
-  .apps-row:last-child{ border-bottom:none; }
-  .apps-company{ font-size:12.5px; font-weight:600; }
-  .apps-company-link{ color:inherit; text-decoration:none; display:inline-flex; align-items:center; gap:4px; transition:color .15s; }
-  .apps-company-link:hover{ color:var(--forest); text-decoration:underline; }
-  .apps-role{ font-size:11.5px; color:var(--ink-soft); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .apps-badge{
-    font-size:10.5px; font-weight:600; padding:2px 8px; border-radius:100px; flex:none;
-    display:inline-flex; align-items:center; gap:4px;
-  }
-  .apps-badge .dot{ width:5px; height:5px; border-radius:50%; }
-  .apps-badge.Applied{ background:var(--surface-2); color:var(--ink-soft); }
-  .apps-badge.Applied .dot{ background:var(--ink-faint); }
-  .apps-badge.OA{ background:var(--warn-soft); color:var(--warn); }
-  .apps-badge.OA .dot{ background:var(--warn); }
-  .apps-badge.Interview{ background:var(--forest-soft); color:var(--forest); }
-  .apps-badge.Interview .dot{ background:var(--forest); }
-  .apps-badge.Offer{ background:var(--good-soft); color:var(--good); }
-  .apps-badge.Offer .dot{ background:var(--good); }
-  .apps-badge.Rejected{ background:var(--danger-soft); color:var(--danger); }
-  .apps-badge.Rejected .dot{ background:var(--danger); }
-  .apps-deadline{ font-size:10px; color:var(--warn); font-weight:600; margin-top:2px; }
-  .apps-deadline.urgent{ color:var(--danger); }
-  .apps-list-inner{ display:flex; flex-direction:column; gap:2px; max-height:280px; overflow-y:auto; }
-
-  /* ---------- assignments card ---------- */
-  .asgn-list{ display:flex; flex-direction:column; gap:2px; max-height:340px; overflow-y:auto; }
-  .asgn-row{
-    display:flex; align-items:baseline; justify-content:space-between; gap:10px;
-    padding:9px 0; border-bottom:1px solid var(--line-soft);
-  }
-  .asgn-row:last-child{ border-bottom:none; }
-  .asgn-body{ min-width:0; flex:1; }
-  .asgn-title{ font-size:12.5px; font-weight:600; line-height:1.3; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .asgn-title a{ color:inherit; text-decoration:none; }
-  .asgn-title a:hover{ color:var(--forest); text-decoration:underline; }
-  .asgn-course{
-    display:inline-block; margin-top:3px;
-    font-family:"IBM Plex Mono"; font-size:10px; font-weight:600; letter-spacing:.05em; text-transform:uppercase;
-    background:var(--course-a-soft); color:var(--course-a); border-radius:5px; padding:1px 6px;
-  }
-  .asgn-due{
-    flex:none; text-align:right;
-    font-family:"IBM Plex Mono"; font-size:10.5px; font-weight:600;
-    white-space:nowrap;
-  }
-  .asgn-due.due-soon{ color:var(--warn); }
-  .asgn-due.due-urgent{ color:var(--danger); }
-  .asgn-due.due-ok{ color:var(--ink-faint); }
 </style>
 
 <div class="wrap">
   <header class="top">
     <div>
-      <div class="greet-eyebrow">Command Deck · UT Dallas</div>
+      <div class="header-brand-line">
+        <span class="status-tag"><span class="status-tag-dot"></span>UT Dallas ECS</span>
+        <span class="header-meta">Senior Operator Deck</span>
+      </div>
       <h1 id="greeting">Good afternoon, Sushant</h1>
       <div class="date-line" id="date-line">Tuesday, September 1, 2026</div>
     </div>
     <div class="now-panel">
-      <div class="clock" id="clock">--:--</div>
-      <div class="clock-tz">America/Chicago</div>
-      <div class="nextup-chip" id="nextup-chip"><span class="dot"></span><span id="nextup-text">Loading schedule…</span></div>
+      <div class="clock-box">
+        <div class="clock" id="clock">--:--</div>
+        <div class="clock-tz">America/Chicago</div>
+      </div>
+      <div class="nextup-chip" id="nextup-chip">
+        <span class="dot"></span>
+        <span id="nextup-text">Loading schedule…</span>
+      </div>
     </div>
   </header>
 
   <div class="grid">
 
+    <!-- Schedule Weekly Horizon -->
     <section class="card" id="card-schedule">
       <div class="card-head">
         <div>
-          <h2>This Week</h2>
-          <div class="card-sub">Fall 2026 · Coursebook (static) + all Google Calendars (live)</div>
+          <h2>Weekly Schedule</h2>
+          <div class="card-sub">Fall 2026 Coursebook + Google Calendars (Primary, Gym, UTD)</div>
         </div>
         <span class="chip off" id="schedule-chip"><span class="dot"></span>Static</span>
       </div>
       <div class="week-cols" id="week-cols"></div>
     </section>
 
+    <!-- Operational Row: Communications & Assignments -->
     <div class="inbox-row">
       <section class="card" id="card-gmail">
         <div class="card-head">
-          <div><h2>Gmail</h2><div class="card-sub mono">sushantganji17@gmail.com</div></div>
+          <div>
+            <h2>Inbox Stream</h2>
+            <div class="card-sub mono">sushantganji17@gmail.com</div>
+          </div>
           <div style="display:flex;align-items:center;gap:8px;">
-            <button id="gmail-refresh-btn" title="Refresh emails" onclick="refreshGmail()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <button class="icon-btn" id="gmail-refresh-btn" title="Refresh emails" onclick="refreshGmail()" aria-label="Refresh emails">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"/><path d="M16 21h5v-5"/></svg>
+            </button>
             <span class="chip pending" id="gmail-chip"><span class="dot"></span>Connecting</span>
           </div>
         </div>
@@ -328,11 +1078,13 @@
       <section class="card" id="card-assignments">
         <div class="card-head">
           <div>
-            <h2>Upcoming Assignments</h2>
+            <h2>Academic Deliverables</h2>
             <div class="card-sub" id="asgn-sub">Loading from Canvas…</div>
           </div>
           <div style="display:flex;align-items:center;gap:8px;">
-            <button id="asgn-refresh-btn" title="Refresh assignments" onclick="refreshAssignments()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <button class="icon-btn" id="asgn-refresh-btn" title="Refresh assignments" onclick="refreshAssignments()" aria-label="Refresh assignments">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"/><path d="M16 21h5v-5"/></svg>
+            </button>
             <span class="chip pending" id="asgn-chip"><span class="dot"></span>Loading</span>
           </div>
         </div>
@@ -342,15 +1094,18 @@
       </section>
     </div>
 
+    <!-- Career Pipeline Row: Applications & Jobs -->
     <div class="inbox-row">
       <section class="card" id="card-applications">
         <div class="card-head">
           <div>
-            <h2>My Applications</h2>
+            <h2>Applications Pipeline</h2>
             <div class="card-sub" id="apps-sub">Loading…</div>
           </div>
           <div style="display:flex;align-items:center;gap:8px;">
-            <button id="apps-refresh-btn" title="Refresh applications" onclick="refreshApplications()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <button class="icon-btn" id="apps-refresh-btn" title="Refresh applications" onclick="refreshApplications()" aria-label="Refresh applications">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"/><path d="M16 21h5v-5"/></svg>
+            </button>
             <span class="chip pending" id="apps-chip"><span class="dot"></span>Loading</span>
           </div>
         </div>
@@ -358,14 +1113,22 @@
         <div class="apps-list-inner" id="apps-list-inner">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
         </div>
-        <a class="view-all-link" href="applications.html">View all applications →</a>
+        <a class="view-all-link" href="applications.html">
+          <span>View all active applications</span>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </a>
       </section>
 
       <section class="card" id="card-jobs">
         <div class="card-head">
-          <div><h2>New Grad SWE Jobs</h2><div class="card-sub" id="jobs-sub">job-alerts (Rishabh's repo)</div></div>
+          <div>
+            <h2>New Grad SWE Matches</h2>
+            <div class="card-sub" id="jobs-sub">Curated SWE listings cross-referenced with your pipeline</div>
+          </div>
           <div style="display:flex;align-items:center;gap:8px;">
-            <button id="jobs-refresh-btn" title="Refresh jobs" onclick="refreshJobs()" style="background:transparent;border:1px solid var(--border);color:var(--text-muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer;line-height:1;transition:all 0.15s ease;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">🔄</button>
+            <button class="icon-btn" id="jobs-refresh-btn" title="Refresh jobs" onclick="refreshJobs()" aria-label="Refresh jobs">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"/><path d="M16 21h5v-5"/></svg>
+            </button>
             <span class="chip pending" id="jobs-chip"><span class="dot"></span>Loading</span>
           </div>
         </div>
@@ -373,20 +1136,41 @@
         <div class="job-list" id="job-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
         </div>
-        <a class="view-all-link" href="all-jobs.html">View all jobs from the last 30 days →</a>
+        <a class="view-all-link" href="all-jobs.html">
+          <span>Explore all postings from last 30 days</span>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </a>
       </section>
     </div>
 
+    <!-- Quick Dock -->
     <section class="card" id="card-links">
-      <span class="links-label">Quick links</span>
-      <a class="link-chip" href="https://elearning.utdallas.edu" target="_blank" rel="noopener">Canvas</a>
-      <a class="link-chip" href="https://mail.google.com" target="_blank" rel="noopener">Gmail</a>
-      <a class="link-chip" href="https://outlook.office.com" target="_blank" rel="noopener">Outlook</a>
+      <div class="dock-left">
+        <span class="links-label">LAUNCH DOCK</span>
+      </div>
+      <div class="dock-items">
+        <a class="link-chip" href="https://elearning.utdallas.edu" target="_blank" rel="noopener">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/><path d="M6 6h10"/><path d="M6 10h10"/></svg>
+          Canvas
+        </a>
+        <a class="link-chip" href="https://mail.google.com" target="_blank" rel="noopener">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+          Gmail
+        </a>
+        <a class="link-chip" href="https://outlook.office.com" target="_blank" rel="noopener">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="M12 12h.01"/></svg>
+          Outlook
+        </a>
+        <a class="link-chip" href="https://github.com" target="_blank" rel="noopener">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg>
+          GitHub
+        </a>
+      </div>
     </section>
 
   </div>
 
-  <footer class="note">Schedule combines Fall 2026 Coursebook with live Google Calendar · Live Gmail inbox · SWE jobs updated every 10m · Powered by Vercel & GitHub Actions</footer>
+  <footer class="note">UT Dallas Fall 2026 Telemetry · Canvas iCal sync · Google Calendar live · SWE Pipeline engine</footer>
 </div>
 
 <script>
