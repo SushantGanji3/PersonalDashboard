@@ -558,6 +558,8 @@ def main():
     data = load_gist(gist_id, "applications.json", gist_token)
     apps_list = data.get("applications", [])
     last_checked = data.get("lastChecked")
+    # Set of Gmail message IDs already classified — prevents reprocessing on backfills
+    processed_email_ids = set(data.get("processedEmailIds", []))
 
     force_backfill = (
         os.environ.get("FORCE_BACKFILL", "").strip().lower() in ("true", "1", "yes")
@@ -684,9 +686,17 @@ def main():
 
         for i, candidate in enumerate(job_candidates):
             try:
+                msg_id = candidate["id"]
+
+                # Skip emails already classified in a prior run — prevents duplicates on backfill
+                if msg_id in processed_email_ids:
+                    print(f"\n[{i+1}/{len(job_candidates)}] ⏭  Already processed, skipping: {candidate['subject'][:70]}")
+                    processed += 1
+                    continue
+
                 print(f"\n[{i+1}/{len(job_candidates)}] {candidate['subject'][:80]}")
 
-                email_data = fetch_email_content(service, candidate["id"])
+                email_data = fetch_email_content(service, msg_id)
                 time.sleep(0.3)  # rate limit Gmail full-body fetches
 
                 classification = classify_with_gemini(email_data)
@@ -710,6 +720,8 @@ def main():
                 else:
                     print("  ⏭  Not a job email, skipping")
 
+                # Mark this email as processed regardless of isJobEmail outcome
+                processed_email_ids.add(msg_id)
                 processed += 1
 
             except Exception as e:
@@ -743,6 +755,8 @@ def main():
         "totalApplications": len(apps_list),
         "statusCounts": status_counts,
         "applications": apps_list,
+        # Keep the most recent 5000 IDs to bound Gist size; Gmail IDs are ~16 chars each
+        "processedEmailIds": list(processed_email_ids)[-5000:],
     }
 
     # 6. Write back to Gist
