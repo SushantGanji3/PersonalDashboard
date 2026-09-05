@@ -107,11 +107,13 @@ def fetch_inbox_threads(service):
         if existing is None or (date_iso and (existing["date"] or "") < date_iso):
             threads[thread_id] = entry
 
-    return [
+    result_threads = [
         {"id": thread_id, "messages": [entry]}
         for thread_id, entry in threads.items()
         if entry["date"]
     ]
+    result_threads.sort(key=lambda t: t["messages"][-1]["date"] or "", reverse=True)
+    return result_threads
 
 
 # ---------------------------------------------------------------------------

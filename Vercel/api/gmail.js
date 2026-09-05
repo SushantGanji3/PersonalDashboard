@@ -65,27 +65,31 @@ export default async function handler(req, res) {
                   }
 
                   const threadId = msg.threadId || stub.id;
-                  if (!threadMap.has(threadId)) {
-                    let dateIso = null;
-                    try {
-                      dateIso = headers.date ? new Date(headers.date).toISOString() : null;
-                    } catch (_) {}
+                  let dateIso = null;
+                  try {
+                    dateIso = headers.date ? new Date(headers.date).toISOString() : null;
+                  } catch (_) {}
 
-                    threadMap.set(threadId, {
-                      id: threadId,
-                      messages: [{
-                        sender: headers.from || 'Unknown sender',
-                        subject: headers.subject || '(no subject)',
-                        date: dateIso,
-                        labelIds: msg.labelIds || [],
-                      }],
-                    });
+                  const entry = {
+                    id: threadId,
+                    messages: [{
+                      sender: headers.from || 'Unknown sender',
+                      subject: headers.subject || '(no subject)',
+                      date: dateIso,
+                      labelIds: msg.labelIds || [],
+                    }],
+                  };
+
+                  const existing = threadMap.get(threadId);
+                  const existingDate = existing?.messages?.[0]?.date || '';
+                  if (!existing || (dateIso && dateIso > existingDate)) {
+                    threadMap.set(threadId, entry);
                   }
                 } catch (_) {}
               })
             );
 
-            const threads = Array.from(threadMap.values());
+            const threads = sortThreadsDescending(Array.from(threadMap.values()));
             return res.status(200).json({
               generatedAt: new Date().toISOString(),
               source: 'live_gmail_api',
@@ -110,6 +114,9 @@ export default async function handler(req, res) {
       if (rawContent) {
         const parsed = JSON.parse(rawContent);
         parsed.source = 'gist_api';
+        if (Array.isArray(parsed.threads)) {
+          parsed.threads = sortThreadsDescending(parsed.threads);
+        }
         return res.status(200).json(parsed);
       }
     }
@@ -125,8 +132,29 @@ export default async function handler(req, res) {
     );
     const data = await rawResp.json();
     data.source = 'gist_raw';
+    if (Array.isArray(data.threads)) {
+      data.threads = sortThreadsDescending(data.threads);
+    }
     return res.status(200).json(data);
   } catch (err) {
     return res.status(500).json({ error: 'Failed to fetch emails', message: err.message });
   }
+}
+
+function sortThreadsDescending(threads) {
+  if (!Array.isArray(threads)) return [];
+  return threads.slice().sort((a, b) => {
+    const getThreadTime = (t) => {
+      const msgs = t?.messages || [];
+      let maxTime = 0;
+      for (const m of msgs) {
+        if (m?.date) {
+          const tm = new Date(m.date).getTime();
+          if (!isNaN(tm) && tm > maxTime) maxTime = tm;
+        }
+      }
+      return maxTime;
+    };
+    return getThreadTime(b) - getThreadTime(a);
+  });
 }

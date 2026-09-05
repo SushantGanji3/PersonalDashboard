@@ -531,20 +531,48 @@
     return new Intl.DateTimeFormat('en-CA', { timeZone:'America/Chicago', year:'numeric', month:'2-digit', day:'2-digit' }).format(date);
   }
 
+  function getLatestMessage(thread){
+    const msgs = (thread && thread.messages) || [];
+    if(!msgs.length) return {};
+    if(msgs.length === 1) return msgs[0] || {};
+    let latest = msgs[0];
+    let latestTime = latest && latest.date ? new Date(latest.date).getTime() : 0;
+    for(let i=1; i<msgs.length; i++){
+      const m = msgs[i];
+      const t = m && m.date ? new Date(m.date).getTime() : 0;
+      if(!isNaN(t) && t > latestTime){
+        latest = m;
+        latestTime = t;
+      }
+    }
+    return latest || {};
+  }
+
   function renderGmailThreads(threads){
     const list = document.getElementById('gmail-list');
     const today = chicagoDateStr(new Date());
+    const parseTime = d => { if(!d) return 0; const t = new Date(d).getTime(); return isNaN(t) ? 0 : t; };
+
     const todaysThreads = (threads || []).filter(t=>{
-      const msg = (t.messages && t.messages[t.messages.length-1]) || {};
+      const msg = getLatestMessage(t);
       return msg.date && chicagoDateStr(new Date(msg.date)) === today;
     });
+
     if(todaysThreads.length===0){
       list.innerHTML = '<div class="empty-state">Nothing in the inbox yet today.</div>';
       return;
     }
+
+    // Sort descending by message timestamp so the most recent emails appear at the top
+    todaysThreads.sort((a, b) => {
+      const timeA = parseTime(getLatestMessage(a).date);
+      const timeB = parseTime(getLatestMessage(b).date);
+      return timeB - timeA;
+    });
+
     list.innerHTML='';
     todaysThreads.forEach(t=>{
-      const msg = (t.messages && t.messages[t.messages.length-1]) || {};
+      const msg = getLatestMessage(t);
       const unread = (msg.labelIds||[]).includes('UNREAD');
       const senderRaw = msg.sender || 'Unknown sender';
       // Prefer the display name ("Jane Doe <jane@x.com>" -> "Jane Doe"); fall back to the bare address.
