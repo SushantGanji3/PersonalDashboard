@@ -160,21 +160,56 @@
   .skel-row{ height:34px; margin-bottom:6px; }
 
   .job-list{ display:flex; flex-direction:column; gap:2px; max-height:320px; overflow-y:auto; }
-  .job-row{ padding:9px 0; border-bottom:1px solid var(--line-soft); }
+  .job-row{ padding:9px 0; border-bottom:1px solid var(--line-soft); transition:background .12s ease; }
   .job-row:last-child{ border-bottom:none; }
   .job-row a{ text-decoration:none; }
+  .job-row.is-applied{ border-left:3px solid var(--forest); padding-left:9px; }
+  .job-row.is-applied.status-OA{ border-left-color:var(--warn); }
+  .job-row.is-applied.status-Interview{ border-left-color:var(--forest); }
+  .job-row.is-applied.status-Offer{ border-left-color:var(--good); }
+  .job-row.is-applied.status-Rejected{ border-left-color:var(--danger); opacity:0.82; }
   .job-top{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
   .job-company{ font-size:12.5px; font-weight:600; }
+  .job-badges{ display:inline-flex; align-items:center; gap:5px; flex-wrap:wrap; }
   .job-new-badge{ font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.06em; color:var(--ember); background:var(--ember-soft); border-radius:5px; padding:1px 6px; flex:none; }
+  .job-applied-badge{
+    font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.04em;
+    padding:1px 6px; border-radius:5px; display:inline-flex; align-items:center; gap:3px;
+    line-height:1.3; flex:none; cursor:pointer; text-decoration:none;
+    transition:filter .15s ease, transform .15s ease;
+  }
+  .job-applied-badge:hover{ filter:brightness(0.92); transform:translateY(-1px); }
+  .job-applied-badge .applied-check{ font-size:9.5px; font-weight:700; }
+  .job-applied-badge.Applied{ background:var(--forest-soft); color:var(--forest); }
+  .job-applied-badge.OA{ background:var(--warn-soft); color:var(--warn); }
+  .job-applied-badge.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .job-applied-badge.Offer{ background:var(--good-soft); color:var(--good); }
+  .job-applied-badge.Rejected{ background:var(--danger-soft); color:var(--danger); }
   .job-title{ font-size:12px; color:var(--ink-soft); margin-top:1px; line-height:1.35; }
   .job-title:hover{ color:var(--forest); }
   .job-loc{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); margin-top:3px; }
+  .job-meta-row{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; margin-top:3px; }
+  .job-applied-meta{ font-family:"IBM Plex Mono"; font-size:10px; color:var(--forest); font-weight:500; white-space:nowrap; flex:none; }
+  .job-applied-meta.status-OA{ color:var(--warn); }
+  .job-applied-meta.status-Rejected{ color:var(--danger); }
   .jobs-footer{ font-size:10.5px; color:var(--ink-faint); margin-top:10px; padding-top:8px; border-top:1px solid var(--line-soft); }
   .view-all-link{
     display:block; text-align:center; font-size:11.5px; font-weight:600; color:var(--forest);
     text-decoration:none; margin-top:10px; padding-top:10px; border-top:1px solid var(--line-soft);
   }
   .view-all-link:hover{ text-decoration:underline; }
+
+  /* Jobs filter pill bar */
+  .jobs-filter-bar{ display:flex; gap:6px; margin-bottom:10px; padding-bottom:8px; border-bottom:1px solid var(--line-soft); align-items:center; flex-wrap:wrap; }
+  .jobs-filter-pill{
+    font-family:"IBM Plex Sans", sans-serif; font-size:11px; font-weight:600;
+    padding:2px 8px; border-radius:100px; background:var(--surface-2); color:var(--ink-soft);
+    border:1px solid var(--line-soft); cursor:pointer; display:inline-flex; align-items:center; gap:4px;
+    transition:all .12s ease;
+  }
+  .jobs-filter-pill:hover{ background:var(--forest-soft); color:var(--forest); border-color:var(--forest); }
+  .jobs-filter-pill.active{ background:var(--forest); color:#ffffff; border-color:var(--forest); }
+  .jobs-filter-pill .pill-count{ font-family:"IBM Plex Mono", monospace; font-size:10px; opacity:0.85; }
 
   /* ---------- links footer ---------- */
   #card-links{ flex-direction:row; flex-wrap:wrap; align-items:center; gap:10px; padding:14px 20px; }
@@ -334,6 +369,7 @@
             <span class="chip pending" id="jobs-chip"><span class="dot"></span>Loading</span>
           </div>
         </div>
+        <div class="jobs-filter-bar" id="jobs-filter-bar" style="display:none;"></div>
         <div class="job-list" id="job-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
         </div>
@@ -760,6 +796,152 @@
   }
   initCalendar();
 
+  // ---------------- Applications & Jobs helpers ----------------
+  function fmtDate(iso){
+    if(!iso) return '';
+    return new Date(iso).toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+  }
+
+  function getAppEmailUrl(app){
+    if(!app) return '#';
+    if(app.emailUrl) return app.emailUrl;
+    if(app.rfcMessageId){
+      return 'https://mail.google.com/mail/u/0/#search/rfc822msgid%3A' + encodeURIComponent(app.rfcMessageId);
+    }
+    if(app.threadId){
+      return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.threadId);
+    }
+    if(app.emailId){
+      return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.emailId);
+    }
+    const q = app.emailSubject
+      ? `subject:("${app.emailSubject.replace(/"/g, '')}")`
+      : `"${app.company}" ${app.role ? `"${app.role}"` : ''}`;
+    return 'https://mail.google.com/mail/u/0/#search/' + encodeURIComponent(q.trim());
+  }
+
+  function normalizeCompany(c){
+    if(!c) return '';
+    return c.toLowerCase()
+      .replace(/\b(inc|incorporated|corp|corporation|llc|ltd|limited|group|technologies|technology|tech|platforms|holdings|co|company|the|airlines|global|international)\b/gi, '')
+      .replace(/[^a-z0-9]/g, '')
+      .trim();
+  }
+
+  function companyMatches(compA, compB){
+    const a = normalizeCompany(compA);
+    const b = normalizeCompany(compB);
+    if(!a || !b) return false;
+    if(a === b) return true;
+    if(a.length >= 3 && b.length >= 3 && (a.includes(b) || b.includes(a))) return true;
+    return false;
+  }
+
+  function tokenizeTitle(title){
+    if(!title) return new Set();
+    let t = title.toLowerCase();
+    t = t.replace(/\b(new\s*grad|recent\s*graduate|entry[- ]level|university\s*grad)\b/g, ' newgrad ');
+    t = t.replace(/\b(internship|intern|co-?op)\b/g, ' intern ');
+    t = t.replace(/\b(swe|software\s*developer|software\s*engineer|software\s*engineering)\b/g, ' swe ');
+    t = t.replace(/\b(machine\s*learning|ai\s*\/\s*ml)\b/g, ' ml ');
+    const words = t.match(/[a-z0-9]+/g) || [];
+    const stopWords = new Set([
+      'and', 'or', 'the', 'in', 'of', 'for', 'at', 'to', 'a', 'an', 'us', 'usa',
+      'fall', 'spring', 'summer', 'winter', '2025', '2026', '2027', '2028',
+      'opportunity', 'regarding', 'requisition', 'dec', 'program', 'programs', 'role'
+    ]);
+    const tokens = new Set();
+    for(const w of words){
+      if(w.length > 1 && !stopWords.has(w)) tokens.add(w);
+    }
+    return tokens;
+  }
+
+  function matchJobToApplication(job, applications){
+    if(!job || !applications || !applications.length) return null;
+
+    if(job.url){
+      const cleanJobUrl = job.url.split('?')[0].replace(/\/+$/, '').toLowerCase();
+      for(const app of applications){
+        if(app.applyUrl){
+          const cleanAppUrl = app.applyUrl.split('?')[0].replace(/\/+$/, '').toLowerCase();
+          if(cleanJobUrl === cleanAppUrl || cleanJobUrl.includes(cleanAppUrl) || cleanAppUrl.includes(cleanJobUrl)){
+            return { app, matchType: 'url', score: 1.0 };
+          }
+        }
+      }
+    }
+
+    const jComp = job.company || '';
+    const jTokens = tokenizeTitle(job.title || '');
+    const isJIntern = jTokens.has('intern');
+    const isJNewGrad = jTokens.has('newgrad');
+
+    const genericTokens = new Set(['swe', 'intern', 'newgrad', 'engineer', 'developer']);
+    const specificJTokens = new Set([...jTokens].filter(t => !genericTokens.has(t)));
+
+    const candidates = [];
+
+    for(const app of applications){
+      if(!companyMatches(jComp, app.company)) continue;
+
+      const role = (app.role || '').trim();
+      if(!role || role.toLowerCase() === 'unknown role'){
+        candidates.push({
+          app,
+          matchType: 'company',
+          score: 0.75,
+          detail: 'Applied to company'
+        });
+        continue;
+      }
+
+      const aTokens = tokenizeTitle(role);
+      const isAIntern = aTokens.has('intern');
+      const isANewGrad = aTokens.has('newgrad');
+
+      const levelMismatch = (isJIntern && isANewGrad) || (isJNewGrad && isAIntern);
+
+      const overlap = new Set([...jTokens].filter(t => aTokens.has(t)));
+      const specificOverlap = new Set([...overlap].filter(t => !genericTokens.has(t)));
+      const specificATokens = new Set([...aTokens].filter(t => !genericTokens.has(t)));
+
+      if(levelMismatch && specificOverlap.size === 0) continue;
+
+      if(specificATokens.size > 0 && specificJTokens.size > 0){
+        if(specificOverlap.size > 0){
+          const score = 0.85 + 0.15 * (specificOverlap.size / Math.max(specificATokens.size, 1));
+          candidates.push({
+            app,
+            matchType: 'exact_role',
+            score,
+            detail: Array.from(specificOverlap).join(', ')
+          });
+        }
+      } else if(specificOverlap.size > 0){
+        candidates.push({
+          app,
+          matchType: 'specific_role',
+          score: 0.85,
+          detail: Array.from(specificOverlap).join(', ')
+        });
+      } else if(overlap.size > 0){
+        if(overlap.has('swe') || overlap.has('engineer') || overlap.has('developer')){
+          candidates.push({
+            app,
+            matchType: 'role',
+            score: 0.70,
+            detail: 'Role match'
+          });
+        }
+      }
+    }
+
+    if(!candidates.length) return null;
+    candidates.sort((a, b) => b.score - a.score);
+    return candidates[0];
+  }
+
   // ---------------- Jobs: shared db doc, updated by a scheduled fetch ----------------
   function setJobsChip(kind, text){
     const chip = document.getElementById('jobs-chip');
@@ -778,30 +960,132 @@
     return Math.round(diffH/24)+'d ago';
   }
 
+  let latestJobsDoc = null;
+  let latestApplications = [];
+  let jobsFilter = 'all'; // 'all' | 'unapplied' | 'applied'
+
+  function setJobsFilter(filter){
+    jobsFilter = filter;
+    if(latestJobsDoc) renderJobs(latestJobsDoc);
+  }
+
   function renderJobs(doc){
+    if(!doc) return;
+    latestJobsDoc = doc;
     const list = document.getElementById('job-list');
     const items = doc.items || [];
-    document.getElementById('jobs-sub').textContent = `job-alerts (Rishabh's repo) · ${doc.totalOpen ?? items.length} open matches`;
-    if(items.length===0){
+
+    // Match each job against applications list
+    items.forEach(p => {
+      p._appMatch = matchJobToApplication(p, latestApplications);
+    });
+
+    const appliedCount = items.filter(p => !!p._appMatch).length;
+    const unappliedCount = items.length - appliedCount;
+
+    const subEl = document.getElementById('jobs-sub');
+    if(appliedCount > 0){
+      subEl.textContent = `job-alerts (Rishabh's repo) · ${doc.totalOpen ?? items.length} open · ${appliedCount} applied`;
+    } else {
+      subEl.textContent = `job-alerts (Rishabh's repo) · ${doc.totalOpen ?? items.length} open matches`;
+    }
+
+    // Filter pills
+    const filterBar = document.getElementById('jobs-filter-bar');
+    if(filterBar){
+      if(appliedCount > 0){
+        filterBar.style.display = 'flex';
+        filterBar.innerHTML = `
+          <button class="jobs-filter-pill ${jobsFilter === 'all' ? 'active' : ''}" onclick="setJobsFilter('all')">
+            All <span class="pill-count">${items.length}</span>
+          </button>
+          <button class="jobs-filter-pill ${jobsFilter === 'unapplied' ? 'active' : ''}" onclick="setJobsFilter('unapplied')">
+            Unapplied <span class="pill-count">${unappliedCount}</span>
+          </button>
+          <button class="jobs-filter-pill ${jobsFilter === 'applied' ? 'active' : ''}" onclick="setJobsFilter('applied')">
+            Applied <span class="pill-count">${appliedCount}</span>
+          </button>
+        `;
+      } else {
+        filterBar.style.display = 'none';
+      }
+    }
+
+    let displayItems = items;
+    if(jobsFilter === 'unapplied'){
+      displayItems = items.filter(p => !p._appMatch);
+    } else if(jobsFilter === 'applied'){
+      displayItems = items.filter(p => !!p._appMatch);
+    }
+
+    if(items.length === 0){
       list.innerHTML = '<div class="empty-state">No open matches right now.</div>';
       return;
     }
-    list.innerHTML='';
-    items.slice(0,25).forEach(p=>{
+
+    if(displayItems.length === 0){
+      if(jobsFilter === 'applied'){
+        list.innerHTML = '<div class="empty-state">No applied jobs in current matches.</div>';
+      } else if(jobsFilter === 'unapplied'){
+        list.innerHTML = '<div class="empty-state">All jobs in current matches have been applied to! 🎉</div>';
+      } else {
+        list.innerHTML = '<div class="empty-state">No matches found.</div>';
+      }
+      return;
+    }
+
+    list.innerHTML = '';
+    const slice = displayItems.slice(0, 25);
+    slice.forEach(p => {
       const row = document.createElement('div');
-      row.className='job-row';
       const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
-      row.innerHTML = `<div class="job-top">
-          <span class="job-company">${escapeHtml(p.company)}</span>
-          ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
-        </div>
-        <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
-        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>`;
+      const m = p._appMatch;
+
+      if(m){
+        const app = m.app;
+        const status = app.status || 'Applied';
+        const statusSuffix = status !== 'Applied' ? ` · ${status}` : '';
+        const emailUrl = getAppEmailUrl(app);
+        const appRole = app.role && app.role !== 'Unknown Role' ? ` (${app.role})` : '';
+        const appliedDateStr = app.dateApplied ? ` on ${fmtDate(app.dateApplied)}` : '';
+        const tooltip = `Applied to ${app.company}${appRole}${appliedDateStr} [${status}]. Click to view email in Gmail.`;
+        const appliedAgo = app.dateApplied ? timeAgo(app.dateApplied) : '';
+
+        row.className = `job-row is-applied status-${status}`;
+        row.innerHTML = `
+          <div class="job-top">
+            <span class="job-company">${escapeHtml(p.company)}</span>
+            <div class="job-badges">
+              <a class="job-applied-badge ${escapeHtml(status)}" href="${escapeHtml(emailUrl)}" target="_blank" rel="noopener" title="${escapeHtml(tooltip)}">
+                <span class="applied-check">✓</span> Applied${escapeHtml(statusSuffix)}
+              </a>
+              ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
+            </div>
+          </div>
+          <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
+          <div class="job-meta-row">
+            <span class="job-loc">${escapeHtml(p.location || 'Location n/a')}</span>
+            <span class="job-applied-meta status-${escapeHtml(status)}">Applied ${appliedAgo ? appliedAgo + ' ago' : ''}</span>
+          </div>
+        `;
+      } else {
+        row.className = 'job-row';
+        row.innerHTML = `
+          <div class="job-top">
+            <span class="job-company">${escapeHtml(p.company)}</span>
+            ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
+          </div>
+          <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
+          <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
+        `;
+      }
       list.appendChild(row);
     });
+
     const footer = document.createElement('div');
-    footer.className='jobs-footer';
-    footer.textContent = `Synced ${jobsAgo(doc.generatedAt)} · showing top ${Math.min(items.length,25)} of ${items.length}`;
+    footer.className = 'jobs-footer';
+    const filterLabel = jobsFilter !== 'all' ? ` (${jobsFilter})` : '';
+    footer.textContent = `Synced ${jobsAgo(doc.generatedAt)} · showing top ${Math.min(displayItems.length, 25)} of ${displayItems.length}${filterLabel}`;
     list.appendChild(footer);
   }  // ---------------- Jobs: polling public Gist ----------------
   const JOBS_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/6b80cfab682273f7a781d035f5178bd9/raw/jobs.json';
@@ -876,22 +1160,7 @@
       bar.appendChild(pill);
     });
 
-    function getAppEmailUrl(app){
-      if(app.emailUrl) return app.emailUrl;
-      if(app.rfcMessageId){
-        return 'https://mail.google.com/mail/u/0/#search/rfc822msgid%3A' + encodeURIComponent(app.rfcMessageId);
-      }
-      if(app.threadId){
-        return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.threadId);
-      }
-      if(app.emailId){
-        return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.emailId);
-      }
-      const q = app.emailSubject
-        ? `subject:("${app.emailSubject.replace(/"/g, '')}")`
-        : `"${app.company}" ${app.role ? `"${app.role}"` : ''}`;
-      return 'https://mail.google.com/mail/u/0/#search/' + encodeURIComponent(q.trim());
-    }
+    // Status bar
 
     // Recent applications list (top 5, sorted by most recently applied)
     const list = document.getElementById('apps-list-inner');
@@ -950,7 +1219,10 @@
       try{
         const res = await fetch(APPS_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
         if(!res.ok) throw new Error('HTTP ' + res.status);
-        renderApplicationsCard(await res.json());
+        const data = await res.json();
+        latestApplications = (data && data.applications) || [];
+        renderApplicationsCard(data);
+        if(latestJobsDoc) renderJobs(latestJobsDoc);
       }catch(e){
         setAppsChip('error','Sync issue');
       }
@@ -974,29 +1246,37 @@
   }
 
   function parseIcal(text){
-    // Unfold continued lines (RFC 5545 line folding: CRLF + whitespace)
+    // Unfold continued lines (RFC 5545: CRLF + whitespace = continuation)
     text = text.replace(/\r\n[ \t]/g, '').replace(/\r/g, '');
     const events = [];
     const blocks = text.split('BEGIN:VEVENT');
     for(let i = 1; i < blocks.length; i++){
       const block = blocks[i];
+      // get(key) matches "KEY" or "KEY;any-params" before the colon
       const get = (key) => {
-        const m = block.match(new RegExp(String.raw`(?:^|\n)${key}(?:;[^\n:]*)?:([^\n]*)`, 'i'));
+        const m = block.match(new RegExp('(?:^|\\n)' + key + '(?:;[^:\\n]*)?:([^\\n]*)', 'i'));
         return m ? m[1].trim() : '';
       };
-      const summary = get('SUMMARY').replace(/\\,/g, ',').replace(/\\n/g, ' ').replace(/\\\\/g, '\\');
-      const dtend = get('DTEND');
+      const summary = get('SUMMARY')
+        .replace(/\\,/g, ',').replace(/\\n/g, ' ').replace(/\\\\/g, '\\').replace(/\\;/g, ';');
+      // Canvas sets DTSTART == DTEND to the due timestamp; prefer DTSTART
       const dtstart = get('DTSTART');
-      const url = get('URL');
-      const rawDate = dtend || dtstart;
+      const dtend   = get('DTEND');
+      const rawUrl  = get('URL');
+      // Clean up URL — Canvas sometimes wraps long URLs across lines already unfolded
+      const url = rawUrl.replace(/\s+/g, '');
+      // Use DTSTART as the due date; fall back to DTEND
+      const rawDate = dtstart || dtend;
       if(!summary || !rawDate) continue;
-      // Parse iCal date: YYYYMMDD or YYYYMMDDTHHmmssZ
+      // Extract just the date/datetime digits — strips any trailing params
+      const digits = rawDate.replace(/[^0-9TZ]/g, '');
       let due;
-      if(rawDate.length === 8){
-        // All-day: treat as noon Chicago time so it doesn't shift to the prior day
-        due = new Date(`${rawDate.slice(0,4)}-${rawDate.slice(4,6)}-${rawDate.slice(6,8)}T12:00:00-05:00`);
+      if(digits.length === 8){
+        // All-day YYYYMMDD — anchor at noon Chicago so it never shifts to prior day
+        due = new Date(`${digits.slice(0,4)}-${digits.slice(4,6)}-${digits.slice(6,8)}T17:00:00Z`);
       } else {
-        due = new Date(rawDate.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z?/, '$1-$2-$3T$4:$5:$6Z'));
+        // Datetime YYYYMMDDTHHmmssZ
+        due = new Date(digits.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z?/, '$1-$2-$3T$4:$5:$6Z'));
       }
       if(isNaN(due.getTime())) continue;
       events.push({ title: summary, due, url });

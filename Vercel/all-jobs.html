@@ -54,19 +54,60 @@
   .chip.live .dot{ background:var(--forest); }
   .toolbar{ display:flex; gap:10px; align-items:center; margin-bottom:14px; flex-wrap:wrap; }
   #search{
-    flex:1; min-width:180px; font:inherit; padding:8px 12px; border-radius:10px;
+    flex:1; min-width:200px; font:inherit; padding:8px 12px; border-radius:10px;
     border:1px solid var(--line); background:var(--surface); color:var(--ink);
   }
+  #search:focus{ outline:none; border-color:var(--forest); }
   #count{ font-size:12px; color:var(--ink-faint); white-space:nowrap; }
+
+  /* Jobs filter pill bar */
+  .jobs-filter-bar{ display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
+  .jobs-filter-pill{
+    font-family:"IBM Plex Sans", sans-serif; font-size:11.5px; font-weight:600;
+    padding:3px 10px; border-radius:100px; background:var(--surface-2); color:var(--ink-soft);
+    border:1px solid var(--line-soft); cursor:pointer; display:inline-flex; align-items:center; gap:5px;
+    transition:all .12s ease;
+  }
+  .jobs-filter-pill:hover{ background:var(--forest-soft); color:var(--forest); border-color:var(--forest); }
+  .jobs-filter-pill.active{ background:var(--forest); color:#ffffff; border-color:var(--forest); }
+  .jobs-filter-pill .pill-count{ font-family:"IBM Plex Mono", monospace; font-size:10px; opacity:0.85; }
+
   .job-row{
     background:var(--surface); border:1px solid var(--line); border-radius:12px;
     padding:12px 16px; margin-bottom:8px; box-shadow:var(--shadow);
+    transition:border-color .15s ease;
   }
+  .job-row.is-applied{ border-left:4px solid var(--forest); }
+  .job-row.is-applied.status-OA{ border-left-color:var(--warn); }
+  .job-row.is-applied.status-Interview{ border-left-color:var(--forest); }
+  .job-row.is-applied.status-Offer{ border-left-color:var(--good); }
+  .job-row.is-applied.status-Rejected{ border-left-color:var(--danger); opacity:0.85; }
+
   .job-top{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
   .job-company{ font-size:13px; font-weight:600; }
+  .job-badges{ display:inline-flex; align-items:center; gap:6px; flex-wrap:wrap; }
+  .job-applied-badge{
+    font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.04em;
+    padding:2px 7px; border-radius:5px; display:inline-flex; align-items:center; gap:3px;
+    line-height:1.3; flex:none; cursor:pointer; text-decoration:none;
+    transition:filter .15s ease, transform .15s ease;
+  }
+  .job-applied-badge:hover{ filter:brightness(0.92); transform:translateY(-1px); }
+  .job-applied-badge .applied-check{ font-size:10px; font-weight:700; }
+  .job-applied-badge.Applied{ background:var(--forest-soft); color:var(--forest); }
+  .job-applied-badge.OA{ background:var(--warn-soft); color:var(--warn); }
+  .job-applied-badge.Interview{ background:var(--forest-soft); color:var(--forest); }
+  .job-applied-badge.Offer{ background:var(--good-soft); color:var(--good); }
+  .job-applied-badge.Rejected{ background:var(--danger-soft); color:var(--danger); }
+
   .job-title{ font-size:13px; color:var(--ink-soft); margin-top:2px; text-decoration:none; display:block; }
   .job-title:hover{ color:var(--forest); }
   .job-loc{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--ink-faint); margin-top:5px; }
+  .job-meta-row{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; margin-top:5px; }
+  .job-applied-meta{ font-family:"IBM Plex Mono"; font-size:10.5px; color:var(--forest); font-weight:500; white-space:nowrap; flex:none; }
+  .job-applied-meta.status-OA{ color:var(--warn); }
+  .job-applied-meta.status-Rejected{ color:var(--danger); }
+
   .empty-state{ color:var(--ink-soft); font-size:13px; padding:24px 4px; }
 </style>
 
@@ -79,7 +120,12 @@
   </header>
 
   <div class="toolbar">
-    <input id="search" type="text" placeholder="Filter by company or title…">
+    <input id="search" type="text" placeholder="Filter by company, title, or application status…">
+    <div class="jobs-filter-bar" id="filter-bar">
+      <button class="jobs-filter-pill active" id="pill-all" onclick="setJobsFilter('all')">All <span class="pill-count" id="count-all">0</span></button>
+      <button class="jobs-filter-pill" id="pill-unapplied" onclick="setJobsFilter('unapplied')">Unapplied <span class="pill-count" id="count-unapplied">0</span></button>
+      <button class="jobs-filter-pill" id="pill-applied" onclick="setJobsFilter('applied')">Applied <span class="pill-count" id="count-applied">0</span></button>
+    </div>
     <span id="count"></span>
   </div>
 
@@ -88,9 +134,167 @@
 
 <script>
   const JOBS_ARCHIVE_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/6b80cfab682273f7a781d035f5178bd9/raw/archive.json';
+  const APPS_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/0155252da48c020d0fadb9fdc5e43c2d/raw/applications.json';
 
   function escapeHtml(s){
-    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function fmtDate(iso){
+    if(!iso) return '';
+    return new Date(iso).toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+  }
+
+  function timeAgo(dateStr){
+    if(!dateStr) return '';
+    const then = new Date(dateStr).getTime();
+    if(isNaN(then)) return '';
+    const diffMin = Math.round((Date.now()-then)/60000);
+    if(diffMin < 1) return 'just now';
+    if(diffMin < 60) return diffMin + 'm';
+    const diffH = Math.round(diffMin/60);
+    if(diffH < 24) return diffH + 'h';
+    return Math.round(diffH/24) + 'd';
+  }
+
+  function getAppEmailUrl(app){
+    if(!app) return '#';
+    if(app.emailUrl) return app.emailUrl;
+    if(app.rfcMessageId){
+      return 'https://mail.google.com/mail/u/0/#search/rfc822msgid%3A' + encodeURIComponent(app.rfcMessageId);
+    }
+    if(app.threadId){
+      return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.threadId);
+    }
+    if(app.emailId){
+      return 'https://mail.google.com/mail/u/0/#all/' + encodeURIComponent(app.emailId);
+    }
+    const q = app.emailSubject
+      ? `subject:("${app.emailSubject.replace(/"/g, '')}")`
+      : `"${app.company}" ${app.role ? `"${app.role}"` : ''}`;
+    return 'https://mail.google.com/mail/u/0/#search/' + encodeURIComponent(q.trim());
+  }
+
+  function normalizeCompany(c){
+    if(!c) return '';
+    return c.toLowerCase()
+      .replace(/\b(inc|incorporated|corp|corporation|llc|ltd|limited|group|technologies|technology|tech|platforms|holdings|co|company|the|airlines|global|international)\b/gi, '')
+      .replace(/[^a-z0-9]/g, '')
+      .trim();
+  }
+
+  function companyMatches(compA, compB){
+    const a = normalizeCompany(compA);
+    const b = normalizeCompany(compB);
+    if(!a || !b) return false;
+    if(a === b) return true;
+    if(a.length >= 3 && b.length >= 3 && (a.includes(b) || b.includes(a))) return true;
+    return false;
+  }
+
+  function tokenizeTitle(title){
+    if(!title) return new Set();
+    let t = title.toLowerCase();
+    t = t.replace(/\b(new\s*grad|recent\s*graduate|entry[- ]level|university\s*grad)\b/g, ' newgrad ');
+    t = t.replace(/\b(internship|intern|co-?op)\b/g, ' intern ');
+    t = t.replace(/\b(swe|software\s*developer|software\s*engineer|software\s*engineering)\b/g, ' swe ');
+    t = t.replace(/\b(machine\s*learning|ai\s*\/\s*ml)\b/g, ' ml ');
+    const words = t.match(/[a-z0-9]+/g) || [];
+    const stopWords = new Set([
+      'and', 'or', 'the', 'in', 'of', 'for', 'at', 'to', 'a', 'an', 'us', 'usa',
+      'fall', 'spring', 'summer', 'winter', '2025', '2026', '2027', '2028',
+      'opportunity', 'regarding', 'requisition', 'dec', 'program', 'programs', 'role'
+    ]);
+    const tokens = new Set();
+    for(const w of words){
+      if(w.length > 1 && !stopWords.has(w)) tokens.add(w);
+    }
+    return tokens;
+  }
+
+  function matchJobToApplication(job, applications){
+    if(!job || !applications || !applications.length) return null;
+
+    if(job.url){
+      const cleanJobUrl = job.url.split('?')[0].replace(/\/+$/, '').toLowerCase();
+      for(const app of applications){
+        if(app.applyUrl){
+          const cleanAppUrl = app.applyUrl.split('?')[0].replace(/\/+$/, '').toLowerCase();
+          if(cleanJobUrl === cleanAppUrl || cleanJobUrl.includes(cleanAppUrl) || cleanAppUrl.includes(cleanJobUrl)){
+            return { app, matchType: 'url', score: 1.0 };
+          }
+        }
+      }
+    }
+
+    const jComp = job.company || '';
+    const jTokens = tokenizeTitle(job.title || '');
+    const isJIntern = jTokens.has('intern');
+    const isJNewGrad = jTokens.has('newgrad');
+
+    const genericTokens = new Set(['swe', 'intern', 'newgrad', 'engineer', 'developer']);
+    const specificJTokens = new Set([...jTokens].filter(t => !genericTokens.has(t)));
+
+    const candidates = [];
+
+    for(const app of applications){
+      if(!companyMatches(jComp, app.company)) continue;
+
+      const role = (app.role || '').trim();
+      if(!role || role.toLowerCase() === 'unknown role'){
+        candidates.push({
+          app,
+          matchType: 'company',
+          score: 0.75,
+          detail: 'Applied to company'
+        });
+        continue;
+      }
+
+      const aTokens = tokenizeTitle(role);
+      const isAIntern = aTokens.has('intern');
+      const isANewGrad = aTokens.has('newgrad');
+
+      const levelMismatch = (isJIntern && isANewGrad) || (isJNewGrad && isAIntern);
+
+      const overlap = new Set([...jTokens].filter(t => aTokens.has(t)));
+      const specificOverlap = new Set([...overlap].filter(t => !genericTokens.has(t)));
+      const specificATokens = new Set([...aTokens].filter(t => !genericTokens.has(t)));
+
+      if(levelMismatch && specificOverlap.size === 0) continue;
+
+      if(specificATokens.size > 0 && specificJTokens.size > 0){
+        if(specificOverlap.size > 0){
+          const score = 0.85 + 0.15 * (specificOverlap.size / Math.max(specificATokens.size, 1));
+          candidates.push({
+            app,
+            matchType: 'exact_role',
+            score,
+            detail: Array.from(specificOverlap).join(', ')
+          });
+        }
+      } else if(specificOverlap.size > 0){
+        candidates.push({
+          app,
+          matchType: 'specific_role',
+          score: 0.85,
+          detail: Array.from(specificOverlap).join(', ')
+        });
+      } else if(overlap.size > 0){
+        if(overlap.has('swe') || overlap.has('engineer') || overlap.has('developer')){
+          candidates.push({
+            app,
+            matchType: 'role',
+            score: 0.70,
+            detail: 'Role match'
+          });
+        }
+      }
+    }
+
+    if(!candidates.length) return null;
+    candidates.sort((a, b) => b.score - a.score);
+    return candidates[0];
   }
 
   function setStatus(kind, text){
@@ -100,32 +304,128 @@
   }
 
   let allItems = [];
+  let allApps = [];
+  let activeFilter = 'all';
+
+  function setJobsFilter(filter){
+    activeFilter = filter;
+    ['all', 'unapplied', 'applied'].forEach(f => {
+      const btn = document.getElementById('pill-' + f);
+      if(btn) btn.className = 'jobs-filter-pill' + (f === filter ? ' active' : '');
+    });
+    applyFilter();
+  }
+
+  function rematchAll(){
+    allItems.forEach(p => {
+      p._appMatch = matchJobToApplication(p, allApps);
+    });
+  }
 
   function renderItems(items){
     const list = document.getElementById('job-list');
-    document.getElementById('count').textContent = `${items.length} of ${allItems.length} shown`;
-    if(items.length===0){
-      list.innerHTML = '<div class="empty-state">No matches.</div>';
+    const appliedInView = items.filter(p => !!p._appMatch).length;
+    const countEl = document.getElementById('count');
+    if(appliedInView > 0){
+      countEl.textContent = `${items.length} of ${allItems.length} shown · ${appliedInView} applied`;
+    } else {
+      countEl.textContent = `${items.length} of ${allItems.length} shown`;
+    }
+
+    if(items.length === 0){
+      if(activeFilter === 'applied'){
+        list.innerHTML = '<div class="empty-state">No applied jobs found matching your criteria.</div>';
+      } else if(activeFilter === 'unapplied'){
+        list.innerHTML = '<div class="empty-state">All jobs in this selection have already been applied to! 🎉</div>';
+      } else {
+        list.innerHTML = '<div class="empty-state">No matches found.</div>';
+      }
       return;
     }
+
     list.innerHTML = '';
-    items.forEach(p=>{
+    items.forEach(p => {
       const row = document.createElement('div');
-      row.className = 'job-row';
       const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
-      row.innerHTML = `<div class="job-top"><span class="job-company">${escapeHtml(p.company)}</span></div>
-        <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
-        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>`;
+      const m = p._appMatch;
+
+      if(m){
+        const app = m.app;
+        const status = app.status || 'Applied';
+        const statusSuffix = status !== 'Applied' ? ` · ${status}` : '';
+        const emailUrl = getAppEmailUrl(app);
+        const appRole = app.role && app.role !== 'Unknown Role' ? ` (${app.role})` : '';
+        const appliedDateStr = app.dateApplied ? ` on ${fmtDate(app.dateApplied)}` : '';
+        const tooltip = `Applied to ${app.company}${appRole}${appliedDateStr} [${status}]. Click to view email in Gmail.`;
+        const appliedAgo = app.dateApplied ? timeAgo(app.dateApplied) : '';
+
+        row.className = `job-row is-applied status-${status}`;
+        row.innerHTML = `
+          <div class="job-top">
+            <span class="job-company">${escapeHtml(p.company)}</span>
+            <div class="job-badges">
+              <a class="job-applied-badge ${escapeHtml(status)}" href="${escapeHtml(emailUrl)}" target="_blank" rel="noopener" title="${escapeHtml(tooltip)}">
+                <span class="applied-check">✓</span> Applied${escapeHtml(statusSuffix)}
+              </a>
+            </div>
+          </div>
+          <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
+          <div class="job-meta-row">
+            <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
+            <div class="job-applied-meta status-${escapeHtml(status)}">Applied ${appliedAgo ? appliedAgo + ' ago' : ''}</div>
+          </div>
+        `;
+      } else {
+        row.className = 'job-row';
+        row.innerHTML = `
+          <div class="job-top"><span class="job-company">${escapeHtml(p.company)}</span></div>
+          <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
+          <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
+        `;
+      }
       list.appendChild(row);
     });
   }
 
   function applyFilter(){
+    rematchAll();
+    const appliedCount = allItems.filter(p => !!p._appMatch).length;
+    const unappliedCount = allItems.length - appliedCount;
+
+    const countAll = document.getElementById('count-all');
+    const countUnapplied = document.getElementById('count-unapplied');
+    const countApplied = document.getElementById('count-applied');
+    if(countAll) countAll.textContent = allItems.length;
+    if(countUnapplied) countUnapplied.textContent = unappliedCount;
+    if(countApplied) countApplied.textContent = appliedCount;
+
     const q = document.getElementById('search').value.trim().toLowerCase();
-    if(!q){ renderItems(allItems); return; }
-    renderItems(allItems.filter(p =>
-      (p.company||'').toLowerCase().includes(q) || (p.title||'').toLowerCase().includes(q)
-    ));
+
+    let filtered = allItems;
+    if(activeFilter === 'unapplied'){
+      filtered = filtered.filter(p => !p._appMatch);
+    } else if(activeFilter === 'applied'){
+      filtered = filtered.filter(p => !!p._appMatch);
+    }
+
+    if(q){
+      filtered = filtered.filter(p => {
+        const c = (p.company || '').toLowerCase();
+        const t = (p.title || '').toLowerCase();
+        const loc = (p.location || '').toLowerCase();
+        if(c.includes(q) || t.includes(q) || loc.includes(q)) return true;
+        if(p._appMatch){
+          const app = p._appMatch.app;
+          const appRole = (app.role || '').toLowerCase();
+          const appStatus = (app.status || '').toLowerCase();
+          if(appRole.includes(q) || appStatus.includes(q)) return true;
+          if(q === 'applied') return true;
+        }
+        return false;
+      });
+    }
+
+    renderItems(filtered);
   }
   document.getElementById('search').addEventListener('input', applyFilter);
 
@@ -140,8 +440,20 @@
     applyFilter();
   }
 
+  async function fetchApplications(){
+    try{
+      const res = await fetch(APPS_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
+      if(!res.ok) return;
+      const data = await res.json();
+      allApps = (data && data.applications) || [];
+      applyFilter();
+    }catch(e){
+      console.warn('Could not load applications for matching:', e);
+    }
+  }
+
   async function init(){
-    async function poll(){
+    async function pollArchive(){
       try{
         const res = await fetch(JOBS_ARCHIVE_GIST_URL + '?t=' + Date.now(), { cache:'no-store' });
         if(!res.ok) throw new Error('HTTP ' + res.status);
@@ -150,8 +462,9 @@
         setStatus('error', 'Sync issue');
       }
     }
-    poll();
-    setInterval(poll, 300000);
+    await Promise.allSettled([pollArchive(), fetchApplications()]);
+    setInterval(pollArchive, 300000);
+    setInterval(fetchApplications, 300000);
   }
   init();
 </script>
