@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:10:15Z",
+  "generatedAt": "2026-09-07T17:20:16Z",
   "totalOpen": 975,
   "totalNewgrad": 154,
   "totalOther": 821,
@@ -13,7 +13,7 @@
       "location": "Remote in USA",
       "datePosted": 1788799432,
       "source": "aggregator",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:69baee6006c1ba00c54d4054",
@@ -56,16 +56,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca8d525fc4e7ae3db9af4",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6a8ca8d525fc4e7ae3db9af4",
-      "location": "King of Prussia, PA; Littleton, CO",
-      "datePosted": 1788761958,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
       "company": "Lockheed Martin",
       "title": "Software Engineer",
@@ -74,6 +64,16 @@
       "datePosted": 1788761958,
       "source": "newgrad-jobs",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a907b822e254e06fb9f11f7",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6a907b822e254e06fb9f11f7",
+      "location": "United States",
+      "datePosted": 1788761958,
+      "source": "newgrad-jobs",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8fc82ea19886486675e73b",
