@@ -127,7 +127,7 @@ def main():
     jobs_doc = {
         "generatedAt": now,
         "totalOpen": len(postings),
-        "source": "job-alerts (rishabhsabnavis) via SimplifyJobs/vanshb03 aggregator feeds",
+        "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
         "items": items,
     }
 

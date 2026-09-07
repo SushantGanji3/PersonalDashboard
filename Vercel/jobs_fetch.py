@@ -19,12 +19,29 @@ import sys
 import urllib.request
 
 SOURCES_URL = "https://raw.githubusercontent.com/rishabhsabnavis/job-alerts/main/sources.json"
+NEWGRAD_JOBS_API = "https://jobright.ai/swan/mini-sites/list"
+NEWGRAD_JOBS_CATEGORIES = [
+    "newgrad:us:swe",
+    "newgrad:us:ml_ai",
+    "newgrad:us:data_engineer",
+    "newgrad:us:cyber_security",
+]
 UA = "Mozilla/5.0 (dashboard-jobs-fetch; personal use)"
 TIMEOUT = 25
 
 
-def http_json(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+def http_json(url, data=None, headers=None):
+    hdrs = {"User-Agent": UA, "Accept": "application/json"}
+    if headers:
+        hdrs.update(headers)
+    payload = None
+    if data is not None:
+        if isinstance(data, (dict, list)):
+            payload = json.dumps(data).encode("utf-8")
+            hdrs["Content-Type"] = "application/json"
+        else:
+            payload = data
+    req = urllib.request.Request(url, data=payload, headers=hdrs)
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         return json.loads(r.read().decode("utf-8", "replace"))
 
@@ -37,9 +54,53 @@ def compile_kw(keywords):
 LEVEL_ONE_RE = re.compile(r"\b(?:engineer|developer|scientist|analyst|programmer|associate)[,\s-]*(?:i|1)\b")
 SENIOR_RE = re.compile(r"\b(?:senior|sr\.?|staff|principal|distinguished|manager|director|head of|vp|president|architect|tech lead|team lead|lead engineer)\b")
 SENIOR_LEVEL_RE = re.compile(r"\b(?:engineer|developer|scientist|analyst|programmer)[,\s-]*(?:ii|iii|iv|v|2|3|4|5)\b")
-NOT_ENGINEERING_RE = re.compile(r"\b(?:recruiter|recruiting|talent acquisition|sourcer|sales|account executive|account manager|marketing|customer success|business development|solutions consultant|technical writer)\b")
+NOT_ENGINEERING_RE = re.compile(
+    r"\b(?:recruiter|recruiting|talent acquisition|sourcer|sales|account executive|account manager|"
+    r"marketing|customer success|business development|solutions consultant|technical writer|"
+    r"data labeler|data labeling|labeling analyst|annotator|annotation|transcriber|transcription|translator)\b"
+)
 PHD_TITLE_RE = re.compile(r"\bph\.?\s?d\b|\bdoctoral\b|\bdoctorate\b")
 INTERN_TITLE_RE = re.compile(r"\bintern(?:ship)?\b|\bco-?op\b")
+
+# Undergrad CS vs Graduate degrees (PhD / Master's)
+BACHELOR_RE = re.compile(
+    r"\b(?:bachelor(?:'s)?|undergrad(?:uate)?|b\.?s\.?(?:\b|[^a-z])|b\.?a\.?(?:\b|[^a-z])|college\s+degree|college\s+diploma|associate(?:'s)?)\b",
+    re.I,
+)
+PHD_RE = re.compile(r"\b(?:ph\.?d\.?|doctorate|doctoral)\b", re.I)
+MASTER_RE = re.compile(r"\b(?:master(?:'s)?|m\.?s\.?(?:\s+in|\s+degree|\s+or|\s*\/|\b))\b", re.I)
+
+
+def is_graduate_only(title, degrees=None, qualifications=""):
+    """Returns True if the posting requires a PhD or Master's degree and is NOT open to undergrads."""
+    t = title.lower()
+    q = (qualifications or "").lower()
+
+    # 1. Title explicitly targets PhD
+    if PHD_RE.search(t):
+        return True
+
+    # 2. Title explicitly targets Master's (without bachelor/intern)
+    if MASTER_RE.search(t) and not BACHELOR_RE.search(t) and not INTERN_TITLE_RE.search(t):
+        return True
+
+    # 3. Explicit degree list (e.g. from Simplify feeds)
+    if degrees:
+        degs = [d.lower() for d in degrees]
+        has_bachelor = any("bachelor" in d or "undergrad" in d for d in degs)
+        has_grad = any("master" in d or "phd" in d or "ph.d" in d or "doctor" in d for d in degs)
+        if has_grad and not has_bachelor:
+            return True
+
+    # 4. Qualifications text check (e.g. from newgrad-jobs.com)
+    if q:
+        has_bachelor_qual = bool(BACHELOR_RE.search(q))
+        has_phd_qual = bool(PHD_RE.search(q))
+        has_master_qual = bool(MASTER_RE.search(q))
+        if (has_phd_qual or has_master_qual) and not has_bachelor_qual:
+            return True
+
+    return False
 
 
 def matches(title, level_re, role_re, level_implied=False):
@@ -58,15 +119,7 @@ def matches(title, level_re, role_re, level_implied=False):
 
 
 def is_phd_only(title, degrees):
-    if PHD_TITLE_RE.search(title.lower()):
-        return True
-    if degrees:
-        degs = [d.lower() for d in degrees]
-        has_lower = any("bachelor" in d or "master" in d or "undergrad" in d for d in degs)
-        has_phd = any("phd" in d or "ph.d" in d or "doctor" in d for d in degs)
-        if has_phd and not has_lower:
-            return True
-    return False
+    return is_graduate_only(title, degrees=degrees)
 
 
 def is_excluded_grad_year(title, excluded_years):
@@ -126,7 +179,13 @@ def collapse(postings):
     out = []
     for members in groups.values():
         winner = dict(members[0])
-        winner["ids"] = sorted({m["id"] for m in members})
+        all_ids = []
+        for m in members:
+            if "ids" in m:
+                all_ids.extend(m["ids"])
+            else:
+                all_ids.append(m["id"])
+        winner["ids"] = sorted(set(all_ids))
         out.append(winner)
     return out
 
@@ -138,13 +197,14 @@ def fetch_and_filter():
     filt = cfg["filters"]
     level_re = compile_kw(filt["level_keywords"])
     role_re = compile_kw(filt["role_keywords"])
-    exclude_phd = filt.get("exclude_phd", False)
     exclude_grad_years = filt.get("exclude_grad_years", [])
     us_only = filt.get("us_only", False)
     alias_map = build_alias_map(cfg["companies"])
     simp_cfg = cfg.get("simplify", {})
 
     raw = []
+
+    # 1. SimplifyJobs & vanshb03 aggregator feeds
     for url in simp_cfg.get("listings", []):
         try:
             data = http_json(url)
@@ -165,14 +225,49 @@ def fetch_and_filter():
                 "url": j.get("url", ""),
                 "location": ", ".join(j.get("locations", []) or []),
                 "degrees": j.get("degrees", []) or [],
+                "qualifications": "",
                 "level_implied": simp_cfg.get("level_implied", False),
                 "date_posted": j.get("date_posted") or j.get("date_updated") or None,
             })
 
+    # 2. newgrad-jobs.com source (Jobright new grad listings)
+    for cat in NEWGRAD_JOBS_CATEGORIES:
+        try:
+            resp = http_json(
+                f"{NEWGRAD_JOBS_API}?position=0&count=100",
+                data={"category": cat}
+            )
+            job_list = resp.get("result", {}).get("jobList", [])
+            for j in job_list:
+                props = j.get("properties", {})
+                raw_name = (props.get("company") or "").strip()
+                if not raw_name:
+                    continue
+                canonical = alias_map.get(raw_name.lower())
+                job_id = j.get("jobId")
+                posted_at = j.get("postedAt")
+                date_posted = int(posted_at / 1000) if posted_at else None
+
+                raw.append({
+                    "id": f"newgrad-jobs:{job_id}",
+                    "company": canonical or raw_name,
+                    "title": props.get("title", "").strip(),
+                    "url": f"https://jobright.ai/jobs/info/{job_id}",
+                    "location": props.get("location", "").strip(),
+                    "degrees": [],
+                    "qualifications": props.get("qualifications", "").strip(),
+                    "level_implied": True,
+                    "date_posted": date_posted,
+                })
+        except Exception as e:
+            print(f"  newgrad-jobs feed failed: {cat} -> {e}", file=sys.stderr)
+            continue
+
     def keep(p):
         if not matches(p["title"], level_re, role_re, p.get("level_implied")):
             return False
-        if exclude_phd and is_phd_only(p["title"], p.get("degrees", [])):
+        # Filter out PhD-only and Master's-only positions for undergrad CS students
+        if is_graduate_only(p["title"], p.get("degrees", []), p.get("qualifications", "")):
             return False
         if is_excluded_grad_year(p["title"], exclude_grad_years):
             return False
@@ -183,10 +278,11 @@ def fetch_and_filter():
     hits = [p for p in raw if keep(p)]
     postings = collapse(hits)
     # sort newest-first when a source date is available
-    postings.sort(key=lambda p: p.get("date_posted") or "", reverse=True)
+    postings.sort(key=lambda p: p.get("date_posted") or 0, reverse=True)
 
     for p in postings:
         p.pop("degrees", None)
+        p.pop("qualifications", None)
         p.pop("level_implied", None)
 
     return postings
