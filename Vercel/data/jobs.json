@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-07T09:00:19Z",
-  "totalOpen": 968,
+  "generatedAt": "2026-09-07T09:10:15Z",
+  "totalOpen": 969,
   "totalNewgrad": 148,
-  "totalOther": 820,
+  "totalOther": 821,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:4c2c8e7d-cddf-48d9-b0cc-075ea6d1d6ff",
+      "company": "TikTok",
+      "title": "Data Engineer Graduate",
+      "url": "https://lifeattiktok.com/search/7681779180341709109",
+      "location": "San Jose, CA",
+      "datePosted": 1788769693,
+      "source": "aggregator",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a51fcd357513b72e0c69fe8",
       "company": "Figma",
@@ -1192,16 +1202,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
       "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
       "datePosted": 1788215832,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:1ca5e526-fbd6-44f5-bc8a-870e4dd5c496",
-      "company": "PlanetScale",
-      "title": "Software Engineer - Internal Tools",
-      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
-      "location": "SF",
-      "datePosted": 1788215582,
       "source": "aggregator",
       "isNew": false
     }
