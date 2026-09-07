@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-07T10:30:17Z",
-  "totalOpen": 970,
+  "generatedAt": "2026-09-07T10:40:15Z",
+  "totalOpen": 969,
   "totalNewgrad": 149,
-  "totalOther": 821,
+  "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -23,7 +23,7 @@
       "location": "New York, NY",
       "datePosted": 1788747984,
       "source": "newgrad-jobs",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5484dcc8eb0843027b029e",
@@ -63,7 +63,7 @@
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
       "datePosted": 1788746752,
       "source": "newgrad-jobs",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a51fcd357513b72e0c69fe8",
@@ -966,16 +966,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:68f77e24-7325-4a04-9e6f-048e16a551a1",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
-      "location": "Linthicum Heights, MD",
-      "datePosted": 1788307200,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
       "id": "simplify:85dead42-3a0f-4fce-9c5d-2fbf16a36e75",
       "company": "Apple",
       "title": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems",
@@ -1202,6 +1192,16 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
       "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
       "datePosted": 1788215832,
+      "source": "aggregator",
+      "isNew": false
+    },
+    {
+      "id": "simplify:1ca5e526-fbd6-44f5-bc8a-870e4dd5c496",
+      "company": "PlanetScale",
+      "title": "Software Engineer - Internal Tools",
+      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
+      "location": "SF",
+      "datePosted": 1788215582,
       "source": "aggregator",
       "isNew": false
     }
