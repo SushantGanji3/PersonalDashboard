@@ -60,6 +60,39 @@
   #search:focus{ outline:none; border-color:var(--forest); }
   #count{ font-size:12px; color:var(--ink-faint); white-space:nowrap; }
 
+  /* Source tabs */
+  .jobs-source-tabs{
+    display:flex;
+    gap:6px;
+    background:var(--surface);
+    padding:4px;
+    border-radius:10px;
+    border:1px solid var(--line);
+    margin-bottom:12px;
+  }
+  .jobs-source-tab{
+    flex:1;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
+    padding:7px 12px;
+    font-family:"IBM Plex Sans", sans-serif;
+    font-size:12px;
+    font-weight:600;
+    color:var(--ink-soft);
+    background:transparent;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    transition:all .15s ease;
+    text-align:center;
+  }
+  .jobs-source-tab:hover{ color:var(--ink); background:var(--surface-2); }
+  .jobs-source-tab.active{ background:var(--forest); color:#ffffff; box-shadow:0 1px 4px rgba(0,0,0,0.25); }
+  .jobs-source-tab .tab-badge{ font-family:"IBM Plex Mono", monospace; font-size:10px; padding:1px 6px; border-radius:100px; background:rgba(255,255,255,0.15); }
+  .jobs-source-tab.active .tab-badge{ background:rgba(0,0,0,0.25); color:#ffffff; }
+
   /* Jobs filter pill bar */
   .jobs-filter-bar{ display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
   .jobs-filter-pill{
@@ -118,6 +151,12 @@
     <div class="sub">Every posting matched in the last 30 days · job-alerts (rishabhsabnavis) via SimplifyJobs/vanshb03</div>
     <span class="chip" id="status-chip"><span class="dot"></span>Loading</span>
   </header>
+
+  <div class="jobs-source-tabs" id="jobs-source-tabs">
+    <button class="jobs-source-tab active" id="tab-source-newgrad" onclick="setJobsSource('newgrad')">NewGrad-Jobs.com <span class="tab-badge" id="count-source-newgrad">0</span></button>
+    <button class="jobs-source-tab" id="tab-source-aggregator" onclick="setJobsSource('aggregator')">Simplify &amp; GitHub Feeds <span class="tab-badge" id="count-source-aggregator">0</span></button>
+    <button class="jobs-source-tab" id="tab-source-all" onclick="setJobsSource('all')">All Sources <span class="tab-badge" id="count-source-all">0</span></button>
+  </div>
 
   <div class="toolbar">
     <input id="search" type="text" placeholder="Filter by company, title, or application status…">
@@ -306,6 +345,7 @@
   let allItems = [];
   let allApps = [];
   let activeFilter = 'all';
+  let activeSource = 'newgrad'; // 'newgrad' | 'aggregator' | 'all'
 
   function setJobsFilter(filter){
     activeFilter = filter;
@@ -314,6 +354,23 @@
       if(btn) btn.className = 'jobs-filter-pill' + (f === filter ? ' active' : '');
     });
     applyFilter();
+  }
+
+  function setJobsSource(source){
+    activeSource = source;
+    ['newgrad', 'aggregator', 'all'].forEach(s => {
+      const btn = document.getElementById('tab-source-' + s);
+      if(btn) btn.className = 'jobs-source-tab' + (s === source ? ' active' : '');
+    });
+    applyFilter();
+  }
+
+  function isItemInSource(item, src){
+    if(src === 'all') return true;
+    const isNewgrad = item.source === 'newgrad-jobs' || (item.id && String(item.id).startsWith('newgrad-jobs:'));
+    if(src === 'newgrad') return isNewgrad;
+    if(src === 'aggregator') return !isNewgrad;
+    return true;
   }
 
   function rematchAll(){
@@ -326,10 +383,11 @@
     const list = document.getElementById('job-list');
     const appliedInView = items.filter(p => !!p._appMatch).length;
     const countEl = document.getElementById('count');
+    const sourceLabel = activeSource === 'newgrad' ? 'NewGrad-Jobs.com' : (activeSource === 'aggregator' ? 'Simplify & GitHub Feeds' : 'All Sources');
     if(appliedInView > 0){
-      countEl.textContent = `${items.length} of ${allItems.length} shown · ${appliedInView} applied`;
+      countEl.textContent = `${items.length} shown in ${sourceLabel} · ${appliedInView} applied`;
     } else {
-      countEl.textContent = `${items.length} of ${allItems.length} shown`;
+      countEl.textContent = `${items.length} shown in ${sourceLabel}`;
     }
 
     if(items.length === 0){
@@ -389,19 +447,33 @@
 
   function applyFilter(){
     rematchAll();
-    const appliedCount = allItems.filter(p => !!p._appMatch).length;
-    const unappliedCount = allItems.length - appliedCount;
+
+    // Source tab badges
+    const newgradCount = allItems.filter(p => isItemInSource(p, 'newgrad')).length;
+    const aggregatorCount = allItems.filter(p => isItemInSource(p, 'aggregator')).length;
+    const badgeNewgrad = document.getElementById('count-source-newgrad');
+    const badgeAggregator = document.getElementById('count-source-aggregator');
+    const badgeAll = document.getElementById('count-source-all');
+    if(badgeNewgrad) badgeNewgrad.textContent = newgradCount;
+    if(badgeAggregator) badgeAggregator.textContent = aggregatorCount;
+    if(badgeAll) badgeAll.textContent = allItems.length;
+
+    // Filter by active source
+    const sourceItems = allItems.filter(p => isItemInSource(p, activeSource));
+
+    const appliedCount = sourceItems.filter(p => !!p._appMatch).length;
+    const unappliedCount = sourceItems.length - appliedCount;
 
     const countAll = document.getElementById('count-all');
     const countUnapplied = document.getElementById('count-unapplied');
     const countApplied = document.getElementById('count-applied');
-    if(countAll) countAll.textContent = allItems.length;
+    if(countAll) countAll.textContent = sourceItems.length;
     if(countUnapplied) countUnapplied.textContent = unappliedCount;
     if(countApplied) countApplied.textContent = appliedCount;
 
     const q = document.getElementById('search').value.trim().toLowerCase();
 
-    let filtered = allItems;
+    let filtered = sourceItems;
     if(activeFilter === 'unapplied'){
       filtered = filtered.filter(p => !p._appMatch);
     } else if(activeFilter === 'applied'){

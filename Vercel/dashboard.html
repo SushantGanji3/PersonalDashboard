@@ -817,6 +817,56 @@
     opacity:0.8;
   }
 
+  .jobs-source-tabs{
+    display:flex;
+    gap:4px;
+    background:var(--surface-2);
+    padding:3px;
+    border-radius:var(--radius-sm);
+    border:1px solid var(--line);
+    margin-bottom:8px;
+  }
+  .jobs-source-tab{
+    flex:1;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
+    padding:5px 8px;
+    font-family:"Plus Jakarta Sans", sans-serif;
+    font-size:11px;
+    font-weight:600;
+    color:var(--ink-soft);
+    background:transparent;
+    border:none;
+    border-radius:calc(var(--radius-sm) - 2px);
+    cursor:pointer;
+    transition:all 0.15s ease;
+    text-align:center;
+    white-space:nowrap;
+  }
+  .jobs-source-tab:hover{
+    color:var(--ink);
+    background:var(--surface-hover);
+  }
+  .jobs-source-tab.active{
+    color:var(--paper);
+    background:var(--ink);
+    box-shadow:0 1px 4px rgba(0,0,0,0.25);
+  }
+  .jobs-source-tab .tab-badge{
+    font-family:"JetBrains Mono", monospace;
+    font-size:9.5px;
+    padding:1px 5px;
+    border-radius:var(--radius-pill);
+    background:rgba(255,255,255,0.12);
+    opacity:0.85;
+  }
+  .jobs-source-tab.active .tab-badge{
+    background:rgba(0,0,0,0.25);
+    color:var(--paper);
+  }
+
   .job-list{
     display:flex;
     flex-direction:column;
@@ -1143,6 +1193,17 @@
             </button>
             <span class="chip pending" id="jobs-chip"><span class="dot"></span>Loading</span>
           </div>
+        </div>
+        <div class="jobs-source-tabs" id="jobs-source-tabs">
+          <button class="jobs-source-tab active" id="tab-source-newgrad" onclick="setJobsSource('newgrad')">
+            NewGrad-Jobs.com <span class="tab-badge" id="count-source-newgrad">0</span>
+          </button>
+          <button class="jobs-source-tab" id="tab-source-aggregator" onclick="setJobsSource('aggregator')">
+            Simplify &amp; GitHub Feeds <span class="tab-badge" id="count-source-aggregator">0</span>
+          </button>
+          <button class="jobs-source-tab" id="tab-source-all" onclick="setJobsSource('all')">
+            All <span class="tab-badge" id="count-source-all">0</span>
+          </button>
         </div>
         <div class="jobs-filter-bar" id="jobs-filter-bar" style="display:none;"></div>
         <div class="job-list" id="job-list">
@@ -1793,10 +1854,24 @@
   let latestJobsDoc = null;
   let latestApplications = [];
   let jobsFilter = 'all'; // 'all' | 'unapplied' | 'applied'
+  let jobsSource = 'newgrad'; // 'newgrad' | 'aggregator' | 'all'
 
   function setJobsFilter(filter){
     jobsFilter = filter;
     if(latestJobsDoc) renderJobs(latestJobsDoc);
+  }
+
+  function setJobsSource(source){
+    jobsSource = source;
+    if(latestJobsDoc) renderJobs(latestJobsDoc);
+  }
+
+  function isItemInSource(item, src){
+    if(src === 'all') return true;
+    const isNewgrad = item.source === 'newgrad-jobs' || (item.id && String(item.id).startsWith('newgrad-jobs:'));
+    if(src === 'newgrad') return isNewgrad;
+    if(src === 'aggregator') return !isNewgrad;
+    return true;
   }
 
   function renderJobs(doc){
@@ -1810,24 +1885,52 @@
       p._appMatch = matchJobToApplication(p, latestApplications);
     });
 
-    const appliedCount = items.filter(p => !!p._appMatch).length;
-    const unappliedCount = items.length - appliedCount;
+    // Counts per source tab
+    const newgradItems = items.filter(p => isItemInSource(p, 'newgrad'));
+    const aggregatorItems = items.filter(p => isItemInSource(p, 'aggregator'));
 
-    const subEl = document.getElementById('jobs-sub');
-    if(appliedCount > 0){
-      subEl.textContent = `job-alerts (Rishabh's repo) · ${doc.totalOpen ?? items.length} open · ${appliedCount} applied`;
-    } else {
-      subEl.textContent = `job-alerts (Rishabh's repo) · ${doc.totalOpen ?? items.length} open matches`;
+    const tabNewgrad = document.getElementById('tab-source-newgrad');
+    const tabAggregator = document.getElementById('tab-source-aggregator');
+    const tabAll = document.getElementById('tab-source-all');
+
+    if(tabNewgrad){
+      tabNewgrad.classList.toggle('active', jobsSource === 'newgrad');
+      const badge = document.getElementById('count-source-newgrad');
+      if(badge) badge.textContent = newgradItems.length;
+    }
+    if(tabAggregator){
+      tabAggregator.classList.toggle('active', jobsSource === 'aggregator');
+      const badge = document.getElementById('count-source-aggregator');
+      if(badge) badge.textContent = aggregatorItems.length;
+    }
+    if(tabAll){
+      tabAll.classList.toggle('active', jobsSource === 'all');
+      const badge = document.getElementById('count-source-all');
+      if(badge) badge.textContent = items.length;
     }
 
-    // Filter pills
+    // Filter items by active source tab
+    const sourceItems = items.filter(p => isItemInSource(p, jobsSource));
+    const appliedCount = sourceItems.filter(p => !!p._appMatch).length;
+    const unappliedCount = sourceItems.length - appliedCount;
+
+    const subEl = document.getElementById('jobs-sub');
+    const sourceLabel = jobsSource === 'newgrad' ? 'NewGrad-Jobs.com' : (jobsSource === 'aggregator' ? 'Simplify & GitHub Feeds' : 'All Sources');
+    const totalForSource = jobsSource === 'newgrad' ? (doc.totalNewgrad ?? newgradItems.length) : (jobsSource === 'aggregator' ? (doc.totalOther ?? aggregatorItems.length) : (doc.totalOpen ?? items.length));
+    if(appliedCount > 0){
+      subEl.textContent = `${sourceLabel} · ${totalForSource} open · ${appliedCount} applied`;
+    } else {
+      subEl.textContent = `${sourceLabel} · ${totalForSource} open matches`;
+    }
+
+    // Filter pills (Applied / Unapplied within active source)
     const filterBar = document.getElementById('jobs-filter-bar');
     if(filterBar){
       if(appliedCount > 0){
         filterBar.style.display = 'flex';
         filterBar.innerHTML = `
           <button class="jobs-filter-pill ${jobsFilter === 'all' ? 'active' : ''}" onclick="setJobsFilter('all')">
-            All <span class="pill-count">${items.length}</span>
+            All <span class="pill-count">${sourceItems.length}</span>
           </button>
           <button class="jobs-filter-pill ${jobsFilter === 'unapplied' ? 'active' : ''}" onclick="setJobsFilter('unapplied')">
             Unapplied <span class="pill-count">${unappliedCount}</span>
@@ -1841,23 +1944,23 @@
       }
     }
 
-    let displayItems = items;
+    let displayItems = sourceItems;
     if(jobsFilter === 'unapplied'){
-      displayItems = items.filter(p => !p._appMatch);
+      displayItems = sourceItems.filter(p => !p._appMatch);
     } else if(jobsFilter === 'applied'){
-      displayItems = items.filter(p => !!p._appMatch);
+      displayItems = sourceItems.filter(p => !!p._appMatch);
     }
 
-    if(items.length === 0){
-      list.innerHTML = '<div class="empty-state">No open matches right now.</div>';
+    if(sourceItems.length === 0){
+      list.innerHTML = `<div class="empty-state">No open matches from ${escapeHtml(sourceLabel)} right now.</div>`;
       return;
     }
 
     if(displayItems.length === 0){
       if(jobsFilter === 'applied'){
-        list.innerHTML = '<div class="empty-state">No applied jobs in current matches.</div>';
+        list.innerHTML = '<div class="empty-state">No applied jobs in current selection.</div>';
       } else if(jobsFilter === 'unapplied'){
-        list.innerHTML = '<div class="empty-state">All jobs in current matches have been applied to! 🎉</div>';
+        list.innerHTML = '<div class="empty-state">All jobs in current selection have been applied to! 🎉</div>';
       } else {
         list.innerHTML = '<div class="empty-state">No matches found.</div>';
       }
@@ -1870,6 +1973,8 @@
       const row = document.createElement('div');
       const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
       const m = p._appMatch;
+      const isFromNewgrad = p.source === 'newgrad-jobs' || (p.id && String(p.id).startsWith('newgrad-jobs:'));
+      const sourceTagHtml = jobsSource === 'all' ? `<span class="chip" style="font-size:9px;padding:1px 6px;margin-left:4px;">${isFromNewgrad ? 'newgrad' : 'simplify'}</span>` : '';
 
       if(m){
         const app = m.app;
@@ -1884,7 +1989,7 @@
         row.className = `job-row is-applied status-${status}`;
         row.innerHTML = `
           <div class="job-top">
-            <span class="job-company">${escapeHtml(p.company)}</span>
+            <span class="job-company">${escapeHtml(p.company)}${sourceTagHtml}</span>
             <div class="job-badges">
               <a class="job-applied-badge ${escapeHtml(status)}" href="${escapeHtml(emailUrl)}" target="_blank" rel="noopener" title="${escapeHtml(tooltip)}">
                 <span class="applied-check">✓</span> Applied${escapeHtml(statusSuffix)}
@@ -1902,7 +2007,7 @@
         row.className = 'job-row';
         row.innerHTML = `
           <div class="job-top">
-            <span class="job-company">${escapeHtml(p.company)}</span>
+            <span class="job-company">${escapeHtml(p.company)}${sourceTagHtml}</span>
             ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
           </div>
           <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
@@ -1915,7 +2020,7 @@
     const footer = document.createElement('div');
     footer.className = 'jobs-footer';
     const filterLabel = jobsFilter !== 'all' ? ` (${jobsFilter})` : '';
-    footer.textContent = `Synced ${jobsAgo(doc.generatedAt)} · showing top ${Math.min(displayItems.length, 25)} of ${displayItems.length}${filterLabel}`;
+    footer.textContent = `Synced ${jobsAgo(doc.generatedAt)} · showing top ${Math.min(displayItems.length, 25)} of ${displayItems.length} in ${sourceLabel}${filterLabel}`;
     list.appendChild(footer);
   }  // ---------------- Jobs: polling public Gist ----------------
   const JOBS_GIST_URL = 'https://gist.githubusercontent.com/SushantGanji3/6b80cfab682273f7a781d035f5178bd9/raw/jobs.json';

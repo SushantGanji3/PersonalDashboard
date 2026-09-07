@@ -108,10 +108,19 @@ def main():
     seen = read_gist_file(token, "seen.json", {"ids": [], "updatedAt": None})
     seen_ids = set(seen.get("ids") or [])
 
+    newgrad_postings = [p for p in postings if p["id"].startswith("newgrad-jobs:")]
+    other_postings = [p for p in postings if not p["id"].startswith("newgrad-jobs:")]
+
+    # Provide a generous snapshot from each source so each tab has plenty of listings
+    SOURCE_CAP = 60
+    selected_postings = newgrad_postings[:SOURCE_CAP] + other_postings[:SOURCE_CAP]
+    selected_postings.sort(key=lambda p: p.get("date_posted") or 0, reverse=True)
+
     items = []
     run_ids = []
-    for p in postings[:ITEMS_CAP]:
+    for p in selected_postings:
         run_ids.append(p["id"])
+        source_name = "newgrad-jobs" if p["id"].startswith("newgrad-jobs:") else "aggregator"
         items.append({
             "id": p["id"],
             "company": p["company"],
@@ -119,6 +128,7 @@ def main():
             "url": p["url"],
             "location": p.get("location", ""),
             "datePosted": p.get("date_posted"),
+            "source": source_name,
             "isNew": p["id"] not in seen_ids,
         })
 
@@ -127,6 +137,8 @@ def main():
     jobs_doc = {
         "generatedAt": now,
         "totalOpen": len(postings),
+        "totalNewgrad": len(newgrad_postings),
+        "totalOther": len(other_postings),
         "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
         "items": items,
     }
@@ -142,7 +154,8 @@ def main():
     cutoff = now_epoch - ARCHIVE_WINDOW_DAYS * 86400
     archive = read_gist_file(token, "archive.json", {"items": []})
     archive_by_id = {a["id"]: a for a in archive.get("items") or []}
-    for p in postings:  # uncapped -- archive everything this run matched, not just the top 60
+    for p in postings:  # uncapped -- archive everything this run matched, not just the top items
+        source_name = "newgrad-jobs" if p["id"].startswith("newgrad-jobs:") else "aggregator"
         if p["id"] not in archive_by_id:
             archive_by_id[p["id"]] = {
                 "id": p["id"],
@@ -151,8 +164,11 @@ def main():
                 "url": p["url"],
                 "location": p.get("location", ""),
                 "datePosted": p.get("date_posted"),
+                "source": source_name,
                 "firstSeenAt": now_epoch,
             }
+        else:
+            archive_by_id[p["id"]]["source"] = source_name
 
     def effective_date(a):
         return a.get("datePosted") or a.get("firstSeenAt") or 0
