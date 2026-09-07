@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T11:20:16Z",
-  "totalOpen": 967,
-  "totalNewgrad": 147,
+  "generatedAt": "2026-09-07T11:30:16Z",
+  "totalOpen": 973,
+  "totalNewgrad": 153,
   "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,46 @@
       "datePosted": 1788769693,
       "source": "aggregator",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a55b6212ce8bf79a139f9f8",
+      "company": "Allen Control Systems",
+      "title": "Software Engineer - Mission Systems/Integration",
+      "url": "https://jobright.ai/jobs/info/6a55b6212ce8bf79a139f9f8",
+      "location": "Austin, TX; Mountain View, CA",
+      "datePosted": 1788750927,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9e8bc82c964816f65ed6d7",
+      "company": "Boeing",
+      "title": "Software Engineer - Simulation - Hybrid - Relocation Assistance Available",
+      "url": "https://jobright.ai/jobs/info/6a9e8bc82c964816f65ed6d7",
+      "location": "Bingen, WA",
+      "datePosted": 1788750168,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9df1e3a7ba386c5d670814",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6a9df1e3a7ba386c5d670814",
+      "location": "Atlanta, GA; Texas, United States",
+      "datePosted": 1788750015,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8dd506d34f700f87fd64eb",
+      "company": "Medpace",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8dd506d34f700f87fd64eb",
+      "location": "Denver, CO",
+      "datePosted": 1788749749,
+      "source": "newgrad-jobs",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a526d928ef95364ead8e4b6",
@@ -252,16 +292,6 @@
       "url": "https://jobright.ai/jobs/info/6a4c0a58c2d11a6a46679b39",
       "location": "San Francisco, CA",
       "datePosted": 1788716132,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a61430feaa37f43e7587a66",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6a61430feaa37f43e7587a66",
-      "location": "Atlanta, GA; Texas, United States",
-      "datePosted": 1788710777,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -536,6 +566,26 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a0b2cf422d0d34036c8933a",
+      "company": "Relativity",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a0b2cf422d0d34036c8933a",
+      "location": "Illinois, US",
+      "datePosted": 1788660587,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a887e6fe8b6601d12906ff1",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a887e6fe8b6601d12906ff1",
+      "location": "Rome, NY",
+      "datePosted": 1788660535,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a9d08c468f82b4036737451",
       "company": "Greystar",
       "title": "Junior Data Engineer",
@@ -562,56 +612,6 @@
       "url": "https://jobright.ai/jobs/info/6a7e68a719ce4e6e9d932edc",
       "location": "San Francisco, CA",
       "datePosted": 1788613031,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9c492aa7ba386c5d66e2cb",
-      "company": "Capgemini",
-      "title": "Associate-AI-ML Engineer / GenAI Engineer - Data Scientist Job Details | Capgemini",
-      "url": "https://jobright.ai/jobs/info/6a9c492aa7ba386c5d66e2cb",
-      "location": "Houston, TX",
-      "datePosted": 1788602041,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a889281cde3717f9e9b5ef2",
-      "company": "Tata Consultancy Services",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6a889281cde3717f9e9b5ef2",
-      "location": "Minnetonka, MN",
-      "datePosted": 1788585440,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:69b9cedb56973837413f5e12",
-      "company": "CapTech",
-      "title": "Data Engineer (AWS, Azure, GCP)",
-      "url": "https://jobright.ai/jobs/info/69b9cedb56973837413f5e12",
-      "location": "Chicago, IL",
-      "datePosted": 1788578179,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7f6404ad9ff00c26baded5",
-      "company": "Crowe",
-      "title": "Machine Learning Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6a7f6404ad9ff00c26baded5",
-      "location": "Chicago, IL; Washington, DC; Tallahassee, FL; Sarasota, FL; Hartford, CT; Nashville, TN; Costa Mesa, CA; San Jose, CA; Atlanta, GA; Boston, MA; Burlington, VT; Cleveland, OH; Columbus, OH; Dallas, TX; Denver, CO; Fort Lauderdale, FL; Fort Wayne, IN; Grand Rapids, MI; Indianapolis, IN; Knoxville, TN; Lexington, KY; Livingston, NJ; Plano, TX; Louisville, KY; Los Angeles, CA; Miami, FL; The Woodlands, TX; New York, NY; Oakbrook Terrace, IL; Sacramento, CA; San Francisco, CA; South Bend, IN; Springfield, IL; Tampa, FL; Houston, TX; Austin, TX; Charlotte, NC",
-      "datePosted": 1788576012,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8619d0cc81eb647e9f1680",
-      "company": "Booz Allen Hamilton",
-      "title": "AI Engineer, Junior",
-      "url": "https://jobright.ai/jobs/info/6a8619d0cc81eb647e9f1680",
-      "location": "San Antonio, TX",
-      "datePosted": 1788574723,
       "source": "newgrad-jobs",
       "isNew": false
     },
