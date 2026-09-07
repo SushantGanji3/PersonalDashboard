@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T21:10:16Z",
-  "totalOpen": 977,
-  "totalNewgrad": 157,
+  "generatedAt": "2026-09-07T21:11:37Z",
+  "totalOpen": 978,
+  "totalNewgrad": 158,
   "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,16 @@
       "datePosted": 1788799432,
       "source": "aggregator",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9f2251a7ba386c5d674559",
+      "company": "IBM",
+      "title": "Entry Level Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a9f2251a7ba386c5d674559",
+      "location": "Poughkeepsie, NY; Rochester, NY; Tucson, AZ; San Jose, CA; Austin, TX; Minnesota, United States; Texas, United States; New York, NY; Arizona, United States; California, United States",
+      "datePosted": 1788788705,
+      "source": "newgrad-jobs",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a6ce61332f9300c3a3e5dd6",
@@ -612,16 +622,6 @@
       "url": "https://jobright.ai/jobs/info/6a9485d1d18f75674827f6e2",
       "location": "Annapolis Junction, MD",
       "datePosted": 1788679785,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a63da0f87cef057612caf7d",
-      "company": "GE Vernova",
-      "title": "GE Vernova Software Engineer, Transmission",
-      "url": "https://jobright.ai/jobs/info/6a63da0f87cef057612caf7d",
-      "location": "Bellevue, WA",
-      "datePosted": 1788677509,
       "source": "newgrad-jobs",
       "isNew": false
     },
