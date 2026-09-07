@@ -1048,9 +1048,21 @@
       <div class="card-head">
         <div>
           <h2>Weekly Schedule</h2>
-          <div class="card-sub">Fall 2026 Coursebook + Google Calendars (Primary, Gym, UTD)</div>
+          <div class="card-sub" id="schedule-sub">Fall 2026 Coursebook + Google Calendars (Primary, Gym, UTD)</div>
         </div>
-        <span class="chip off" id="schedule-chip"><span class="dot"></span>Static</span>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <div class="schedule-nav" style="display:flex;align-items:center;gap:5px;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius-pill);padding:2px 8px;">
+            <button class="icon-btn" id="sched-prev-btn" title="Previous week" onclick="changeWeek(-1)" aria-label="Previous week" style="padding:2px;border:none;background:transparent;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+            </button>
+            <span id="sched-week-label" style="font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;color:var(--text);padding:0 3px;white-space:nowrap;">Loading…</span>
+            <button class="icon-btn" id="sched-next-btn" title="Next week" onclick="changeWeek(1)" aria-label="Next week" style="padding:2px;border:none;background:transparent;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+            </button>
+            <button id="sched-today-btn" title="Jump to current week" onclick="resetToToday()" style="display:none;background:var(--accent-soft);border:1px solid var(--accent);color:var(--accent);border-radius:var(--radius-pill);font-family:'JetBrains Mono',monospace;font-size:10px;font-weight:600;padding:1px 6px;cursor:pointer;line-height:1.2;margin-left:2px;">Today</button>
+          </div>
+          <span class="chip off" id="schedule-chip"><span class="dot"></span>Static</span>
+        </div>
       </div>
       <div class="week-cols" id="week-cols"></div>
     </section>
@@ -1247,13 +1259,47 @@
     return entry.source==='gym' ? '--forest' : '--warn';
   }
 
+  // Week navigation: 0 = current week (Mon–Sun).
+  // On Sunday from noon onwards, default to 1 (upcoming week starting tomorrow)
+  // so Sushant sees the upcoming schedule rather than the past week.
+  const _initialNow = new Date();
+  let currentWeekOffset = (_initialNow.getDay() === 0 && _initialNow.getHours() >= 12) ? 1 : 0;
+
+  function changeWeek(delta){
+    currentWeekOffset += delta;
+    renderSchedule();
+  }
+
+  function resetToToday(){
+    currentWeekOffset = 0;
+    renderSchedule();
+  }
+
   function renderSchedule(){
     const wrap = document.getElementById('week-cols');
     const now = new Date();
     const todayStr = chicagoDateStr(now);
-    const monday = mondayOfWeek(now);
-    const weekEnd = new Date(monday); weekEnd.setDate(monday.getDate()+7);
-    const allItems = courseOccurrencesInRange(monday,7).concat(calendarOccurrencesInRange(monday, weekEnd));
+    const baseMonday = mondayOfWeek(now);
+    const monday = new Date(baseMonday);
+    monday.setDate(baseMonday.getDate() + (currentWeekOffset * 7));
+    const weekEnd = new Date(monday);
+    weekEnd.setDate(monday.getDate() + 7);
+
+    // Update week nav label and 'Today' jump button
+    const labelEl = document.getElementById('sched-week-label');
+    const todayBtn = document.getElementById('sched-today-btn');
+    if(labelEl){
+      const mStartStr = monday.toLocaleDateString('en-US', { month:'short', day:'numeric' });
+      const mEnd = new Date(monday); mEnd.setDate(monday.getDate() + 6);
+      const mEndStr = mEnd.toLocaleDateString('en-US', { month:'short', day:'numeric' });
+      const prefix = currentWeekOffset === 0 ? 'This Week' : (currentWeekOffset === 1 ? 'Next Week' : (currentWeekOffset === -1 ? 'Last Week' : ''));
+      labelEl.textContent = prefix ? `${prefix} (${mStartStr}–${mEndStr})` : `${mStartStr}–${mEndStr}`;
+    }
+    if(todayBtn){
+      todayBtn.style.display = currentWeekOffset !== 0 ? 'inline-block' : 'none';
+    }
+
+    const allItems = courseOccurrencesInRange(monday, 7).concat(calendarOccurrencesInRange(monday, weekEnd));
     wrap.innerHTML='';
     for(let d=1; d<=7; d++){
       const dayDate = new Date(monday); dayDate.setDate(monday.getDate()+(d-1));
@@ -1263,7 +1309,7 @@
       col.className = 'day-col' + (isToday ? ' is-today':'');
       const head = document.createElement('div');
       head.className='day-head';
-      head.innerHTML = `<span>${DAY_NAMES[d]}</span>` + (isToday?'<span class="today-dot"></span>':'');
+      head.innerHTML = `<div style="display:flex;align-items:baseline;gap:5px;"><span>${DAY_NAMES[d]}</span><span style="font-size:10px;opacity:0.75;font-weight:500;">${dayDate.getMonth()+1}/${dayDate.getDate()}</span></div>` + (isToday?'<span class="today-dot"></span>':'');
       col.appendChild(head);
       const dayItems = allItems.filter(it=>chicagoDateStr(it.start)===dayStr);
       // All-day items (Lawyer Meeting, "Lower + Cardio", etc.) render first

@@ -30,6 +30,9 @@ import sys
 import tempfile
 from datetime import datetime, timedelta, timezone
 from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
+
+CHICAGO_TZ = ZoneInfo("America/Chicago")
 
 SCOPES = [
     "https://www.googleapis.com/auth/gmail.readonly",
@@ -54,11 +57,16 @@ GIST_FILENAME = "calendar_sync.json"
 # ---------------------------------------------------------------------------
 
 def build_calendar_service():
-    """Build Calendar API service from base64-encoded GMAIL_TOKEN env var."""
+    """Build Calendar API service from base64-encoded GMAIL_TOKEN env var or local token.json."""
     token_b64 = os.environ.get("GMAIL_TOKEN", "").strip()
     if not token_b64:
-        print("ERROR: GMAIL_TOKEN environment variable not set", file=sys.stderr)
-        sys.exit(1)
+        local_token = os.path.join(os.path.dirname(__file__), "..", "job_tracker", "token.json")
+        if os.path.exists(local_token):
+            with open(local_token, "rb") as f:
+                token_b64 = base64.b64encode(f.read()).decode("utf-8")
+        else:
+            print("ERROR: GMAIL_TOKEN environment variable not set and local token.json not found", file=sys.stderr)
+            sys.exit(1)
 
     from google.oauth2.credentials import Credentials
     from google.auth.transport.requests import Request as GoogleRequest
@@ -87,11 +95,13 @@ def monday_of_week(date):
 
 
 def fetch_calendar_sources(service):
-    """Fetch events for each configured calendar over the same 12-day window
-    the live initCalendar() uses (this week's Monday, +12 days)."""
-    now = datetime.now(timezone.utc)
-    start = monday_of_week(now)
-    end = start + timedelta(days=12)
+    """Fetch events for each configured calendar over a 21-day window:
+    the previous week (7 days buffer), current week, and upcoming week,
+    anchored in America/Chicago timezone so Sunday UTC rollover never drops events."""
+    now = datetime.now(CHICAGO_TZ)
+    current_monday = monday_of_week(now)
+    start = current_monday - timedelta(days=7)
+    end = current_monday + timedelta(days=21)
     time_min = start.isoformat()
     time_max = end.isoformat()
 
@@ -103,7 +113,7 @@ def fetch_calendar_sources(service):
             timeMax=time_max,
             singleEvents=True,
             orderBy="startTime",
-            maxResults=100,
+            maxResults=250,
             timeZone="America/Chicago",
         ).execute()
         items = result.get("items", [])
@@ -154,6 +164,12 @@ def write_gist(gist_id, filename, data, gist_token):
 
 def main():
     gist_token = os.environ.get("GIST_TOKEN", "").strip()
+    if not gist_token:
+        try:
+            import subprocess
+            gist_token = subprocess.check_output(["gh", "auth", "token"], stderr=subprocess.DEVNULL).decode().strip()
+        except Exception:
+            pass
     if not gist_token:
         print("ERROR: GIST_TOKEN environment variable not set", file=sys.stderr)
         sys.exit(1)
