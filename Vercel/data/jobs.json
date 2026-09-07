@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T11:40:19Z",
-  "totalOpen": 972,
-  "totalNewgrad": 153,
+  "generatedAt": "2026-09-07T11:50:20Z",
+  "totalOpen": 971,
+  "totalNewgrad": 152,
   "totalOther": 819,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,16 @@
       "location": "San Jose, CA",
       "datePosted": 1788769693,
       "source": "aggregator",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a526d928ef95364ead8e4b6",
+      "company": "CLEAR",
+      "title": "Software Engineer, Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a526d928ef95364ead8e4b6",
+      "location": "New York, NY",
+      "datePosted": 1788752689,
+      "source": "newgrad-jobs",
       "isNew": false
     },
     {
@@ -52,16 +62,6 @@
       "url": "https://jobright.ai/jobs/info/6a8dd506d34f700f87fd64eb",
       "location": "Denver, CO",
       "datePosted": 1788749749,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a526d928ef95364ead8e4b6",
-      "company": "CLEAR",
-      "title": "Software Engineer, Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a526d928ef95364ead8e4b6",
-      "location": "New York, NY",
-      "datePosted": 1788747984,
       "source": "newgrad-jobs",
       "isNew": false
     },
