@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-07T17:00:19Z",
-  "totalOpen": 974,
+  "generatedAt": "2026-09-07T17:10:15Z",
+  "totalOpen": 975,
   "totalNewgrad": 154,
-  "totalOther": 820,
+  "totalOther": 821,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
+      "company": "Dropbox",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8106224",
+      "location": "Remote in USA",
+      "datePosted": 1788799432,
+      "source": "aggregator",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:69baee6006c1ba00c54d4054",
       "company": "SpaceX",
@@ -1192,16 +1202,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
       "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
       "datePosted": 1788215832,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:1ca5e526-fbd6-44f5-bc8a-870e4dd5c496",
-      "company": "PlanetScale",
-      "title": "Software Engineer - Internal Tools",
-      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
-      "location": "SF",
-      "datePosted": 1788215582,
       "source": "aggregator",
       "isNew": false
     }
