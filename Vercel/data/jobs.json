@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-08T04:40:13Z",
+  "generatedAt": "2026-09-08T04:50:14Z",
   "totalOpen": 961,
   "totalNewgrad": 146,
   "totalOther": 815,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9f71b82c964816f65f020c",
+      "company": "Caterpillar Inc.",
+      "title": "Data Scientist / Technical Analyst",
+      "url": "https://jobright.ai/jobs/info/6a9f71b82c964816f65f020c",
+      "location": "Chicago, IL; Peoria, IL; Dallas, TX",
+      "datePosted": 1788814332,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a9f6ac1352f093fc756e425",
       "company": "Renesas Electronics",
@@ -32,16 +42,6 @@
       "url": "https://jobright.ai/jobs/info/6a9f74dca7ba386c5d675258",
       "location": "Chicago, IL; Peoria, IL; Dallas, TX",
       "datePosted": 1788809836,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9f71b82c964816f65f020c",
-      "company": "Caterpillar Inc.",
-      "title": "Data Scientist / Technical Analyst",
-      "url": "https://jobright.ai/jobs/info/6a9f71b82c964816f65f020c",
-      "location": "Chicago, IL; Peoria, IL; Dallas, TX",
-      "datePosted": 1788809032,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -356,10 +356,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8dd60a47679c68bf5e507b",
+      "id": "newgrad-jobs:6a8dce21581f2d7bfdfe93fa",
       "company": "CACI International Inc",
       "title": "Software Safety Developer/Analyst",
-      "url": "https://jobright.ai/jobs/info/6a8dd60a47679c68bf5e507b",
+      "url": "https://jobright.ai/jobs/info/6a8dce21581f2d7bfdfe93fa",
       "location": "Lorton, VA",
       "datePosted": 1788752492,
       "source": "newgrad-jobs",
@@ -392,16 +392,6 @@
       "url": "https://jobright.ai/jobs/info/6a8dd506d34f700f87fd64eb",
       "location": "Denver, CO",
       "datePosted": 1788749749,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
-      "company": "Booz Allen Hamilton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
-      "location": "Beavercreek, OH",
-      "datePosted": 1788748816,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -522,6 +512,16 @@
       "url": "https://jobright.ai/jobs/info/6a9e2a4968f82b4036738c64",
       "location": "Tucson, AZ",
       "datePosted": 1788725209,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e29e175edfa11b47106c5",
+      "company": "IBM",
+      "title": "Entry Level Software Developer 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5",
+      "location": "Poughkeepsie, NY; Durham, NC",
+      "datePosted": 1788725105,
       "source": "newgrad-jobs",
       "isNew": false
     },
