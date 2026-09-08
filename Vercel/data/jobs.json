@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-08T04:00:19Z",
-  "totalOpen": 969,
-  "totalNewgrad": 152,
-  "totalOther": 817,
+  "generatedAt": "2026-09-08T04:10:20Z",
+  "totalOpen": 962,
+  "totalNewgrad": 147,
+  "totalOther": 815,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9f6ac1352f093fc756e425",
+      "company": "Renesas Electronics",
+      "title": "Cloud DevOps and AI Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9f6ac1352f093fc756e425",
+      "location": "San Jose, CA",
+      "datePosted": 1788813940,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a989b9583fc633357632881",
       "company": "PayPal",
@@ -12,36 +22,6 @@
       "url": "https://jobright.ai/jobs/info/6a989b9583fc633357632881",
       "location": "San Jose, CA; Scottsdale, AZ; Austin, TX",
       "datePosted": 1788811846,
-      "source": "newgrad-jobs",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a9f7b78a7ba386c5d67534a",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6a9f7b78a7ba386c5d67534a",
-      "location": "Overland Park, KS; Bellevue, WA",
-      "datePosted": 1788811528,
-      "source": "newgrad-jobs",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a9f7b3068f82b403673d2e0",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6a9f7b3068f82b403673d2e0",
-      "location": "Overland Park, KS; Bellevue, WA",
-      "datePosted": 1788811456,
-      "source": "newgrad-jobs",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a9f6ac1352f093fc756e425",
-      "company": "Renesas Electronics",
-      "title": "Cloud DevOps and AI Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9f6ac1352f093fc756e425",
-      "location": "San Jose, CA",
-      "datePosted": 1788810323,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -376,10 +356,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8dce21581f2d7bfdfe93fa",
+      "id": "newgrad-jobs:6a8dd60a47679c68bf5e507b",
       "company": "CACI International Inc",
       "title": "Software Safety Developer/Analyst",
-      "url": "https://jobright.ai/jobs/info/6a8dce21581f2d7bfdfe93fa",
+      "url": "https://jobright.ai/jobs/info/6a8dd60a47679c68bf5e507b",
       "location": "Lorton, VA",
       "datePosted": 1788752492,
       "source": "newgrad-jobs",
@@ -412,6 +392,16 @@
       "url": "https://jobright.ai/jobs/info/6a8dd506d34f700f87fd64eb",
       "location": "Denver, CO",
       "datePosted": 1788749749,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1788748816,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -536,36 +526,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e29e175edfa11b47106c5",
-      "company": "IBM",
-      "title": "Entry Level Software Developer 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5",
-      "location": "Poughkeepsie, NY; Durham, NC",
-      "datePosted": 1788725105,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e29dc27c94c3d5a1cb5f6",
-      "company": "IBM",
-      "title": "Entry Level Back-End Developer - Dallas 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e29dc27c94c3d5a1cb5f6",
-      "location": "Dallas, TX",
-      "datePosted": 1788725100,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e29d827c94c3d5a1cb5f3",
-      "company": "IBM",
-      "title": "Entry Level Site Reliability Engineer -Tucson-AZ",
-      "url": "https://jobright.ai/jobs/info/6a9e29d827c94c3d5a1cb5f3",
-      "location": "Tucson, AZ",
-      "datePosted": 1788725096,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9e29c368f82b4036738c54",
       "company": "IBM",
       "title": "Software Engineer / Agent Engineer - EDA - Poughkeepsie",
@@ -626,22 +586,52 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a0fa3f580bf0430c76357ef",
+      "company": "Qualcomm",
+      "title": "Machine Learning Engineer - College Graduate",
+      "url": "https://jobright.ai/jobs/info/6a0fa3f580bf0430c76357ef",
+      "location": "San Diego, CA",
+      "datePosted": 1788669288,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a0612556c07461fe171bec8",
+      "company": "Thumbtack",
+      "title": "Software Engineer, AI/ML Infrastructure (US-Based)",
+      "url": "https://jobright.ai/jobs/info/6a0612556c07461fe171bec8",
+      "location": "United States",
+      "datePosted": 1788661837,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9d08c468f82b4036737451",
+      "company": "Greystar",
+      "title": "Junior Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9d08c468f82b4036737451",
+      "location": "Arlington, VA; Atlanta, GA; Charleston, SC; Chicago, IL; Dallas, TX",
+      "datePosted": 1788651092,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a513ecb57513b72e0c653a7",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Scientist Agents - Enterprise GenAI",
+      "url": "https://jobright.ai/jobs/info/6a513ecb57513b72e0c653a7",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1788648584,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
       "id": "simplify:9782344e-0072-4996-ae4d-b36ef27d13db",
       "company": "Tesla",
       "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
       "url": "https://www.tesla.com/careers/search/job/282598",
       "location": "Palo Alto, CA",
       "datePosted": 1788570474,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:30829caf-2d43-4e4c-aeb6-aa37a19f224b",
-      "company": "PayPal",
-      "title": "Software Engineer Intern",
-      "url": "https://paypal.eightfold.ai/careers/job/274922260559",
-      "location": "Austin, TX, San Jose, CA, Chicago, IL",
-      "datePosted": 1788561667,
       "source": "aggregator",
       "isNew": false
     },
@@ -1201,6 +1191,16 @@
       "title": "Data Scientist Intern",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879",
       "location": "O'Fallon, MO",
+      "datePosted": 1788134400,
+      "source": "aggregator",
+      "isNew": false
+    },
+    {
+      "id": "simplify:c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+      "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
       "datePosted": 1788134400,
       "source": "aggregator",
       "isNew": false
