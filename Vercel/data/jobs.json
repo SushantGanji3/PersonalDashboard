@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T00:10:14Z",
-  "totalOpen": 976,
-  "totalNewgrad": 156,
+  "generatedAt": "2026-09-08T00:20:14Z",
+  "totalOpen": 978,
+  "totalNewgrad": 158,
   "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,36 @@
       "datePosted": 1788799432,
       "source": "aggregator",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
+      "company": "The Tatitlek Corporation",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
+      "location": "United States",
+      "datePosted": 1788797155,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9f4304a7ba386c5d674937",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6a9f4304a7ba386c5d674937",
+      "location": "Overland Park, KS; Bellevue, WA",
+      "datePosted": 1788797076,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9f4300a7ba386c5d674935",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6a9f4300a7ba386c5d674935",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1788797072,
+      "source": "newgrad-jobs",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a74351e37da8525e8cd83b6",
@@ -592,36 +622,6 @@
       "url": "https://jobright.ai/jobs/info/6a9acd1c90a313642c6563b0",
       "location": "Mount Laurel Township, NJ",
       "datePosted": 1788704500,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8b42af680f314a29d40ed9",
-      "company": "Pipe17",
-      "title": "Junior Software Engineer (SEATTLE ONLY)",
-      "url": "https://jobright.ai/jobs/info/6a8b42af680f314a29d40ed9",
-      "location": "Seattle, WA",
-      "datePosted": 1788697440,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
-      "datePosted": 1788688190,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a422690d528ac2915f98436",
-      "company": "SpaceX",
-      "title": "Flight Software Engineer (Starlink Mobile)",
-      "url": "https://jobright.ai/jobs/info/6a422690d528ac2915f98436",
-      "location": "Redmond, WA",
-      "datePosted": 1788687902,
       "source": "newgrad-jobs",
       "isNew": false
     },
