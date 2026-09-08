@@ -1,10 +1,110 @@
 {
-  "generatedAt": "2026-09-08T23:00:21Z",
-  "totalOpen": 970,
+  "generatedAt": "2026-09-08T23:10:17Z",
+  "totalOpen": 984,
   "totalNewgrad": 166,
-  "totalOther": 804,
+  "totalOther": 818,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:2800fc16-c3a8-41ad-a36d-d60bc2c68380",
+      "company": "Semgrep",
+      "title": "Software Engineer Intern - Cloud Platform",
+      "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true",
+      "location": "SF",
+      "datePosted": 1788906760,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:7458ceb8-c0db-44e7-ae5e-41fb157b2104",
+      "company": "Two Sigma",
+      "title": "Software Engineer",
+      "url": "https://twosigma.avature.net/careers/JobDetail/14018",
+      "location": "Houston, TX",
+      "datePosted": 1788906536,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:3bf3d7c6-3d8d-41c3-98eb-a48df978d6e4",
+      "company": "Two Sigma",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://twosigma.avature.net/careers/JobDetail/14016",
+      "location": "NYC",
+      "datePosted": 1788906532,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:2be642c8-518a-4951-9ab2-d57bec820c2b",
+      "company": "SpaceX",
+      "title": "Software Engineer New Grad - Software - Starship",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002",
+      "location": "Hawthorne, CA",
+      "datePosted": 1788906531,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:cb671a4e-ff11-4624-a824-2b46cbf7a24f",
+      "company": "General Dynamics",
+      "title": "Systems Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/74776/job?mobile=true&needsRedirect=false",
+      "location": "Pittsfield, MA",
+      "datePosted": 1788906152,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:56d700ec-1b48-4eeb-af33-207bb295fe53",
+      "company": "General Dynamics",
+      "title": "Infrastructure Hardware Systems Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/73888/job?mobile=true&needsRedirect=false",
+      "location": "National City, CA",
+      "datePosted": 1788906152,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:e808ba48-68a5-402a-b394-ca05a260cfe8",
+      "company": "General Dynamics",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/74687/job?mobile=true&needsRedirect=false",
+      "location": "Pittsfield, MA",
+      "datePosted": 1788906149,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:4d30f64b-9b67-4679-a968-1b62bf57c98e",
+      "company": "Datadog",
+      "title": "Software Engineer Intern - Summer",
+      "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+      "location": "Boston, MA, NYC",
+      "datePosted": 1788905360,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:940140be-314d-40e2-8614-14d3a19bb049",
+      "company": "Vercel",
+      "title": "Software Engineer Intern - Summer",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "location": "SF",
+      "datePosted": 1788905178,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:282e63a7-0fb1-40c2-b5f5-6afd0e4a66d7",
+      "company": "Vercel",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+      "location": "SF",
+      "datePosted": 1788905174,
+      "source": "aggregator",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa0714d500b01124c7790b1",
       "company": "Axon",
@@ -266,10 +366,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa04480a2266b538d22f4fa",
+      "id": "newgrad-jobs:6aa0445fdbc0e60e37e0c8e9",
       "company": "Gallagher",
       "title": "AI Developer",
-      "url": "https://jobright.ai/jobs/info/6aa04480a2266b538d22f4fa",
+      "url": "https://jobright.ai/jobs/info/6aa0445fdbc0e60e37e0c8e9",
       "location": "Rolling Meadows, IL",
       "datePosted": 1788865204,
       "source": "newgrad-jobs",
@@ -624,6 +724,56 @@
       "datePosted": 1788825600,
       "source": "aggregator",
       "isNew": false
+    },
+    {
+      "id": "simplify:e7f91d55-7af9-4814-886b-7cec1ce1222e",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
+      "location": "Roy, UT",
+      "datePosted": 1788825600,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:f28ae9aa-51ea-4eed-9d3d-587981e3c6b3",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1788825600,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:107f6694-f8a2-45ff-bb58-e77552dc317c",
+      "company": "RTX",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1788825600,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:ce4fe8a4-cdaa-4b4e-9502-a07e904fba4e",
+      "company": "RTX",
+      "title": "Artificial Intelligence / Machine Learning Methods Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Artificial-Intelligence---Machine-Learning-Methods-Intern--Summer-2027---Onsite-_01869917",
+      "location": "East Hartford, CT",
+      "datePosted": 1788825600,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:d34bc10f-028e-49c4-be0a-bf61f2c747d6",
+      "company": "RTX",
+      "title": "Software Engineer 1 - Advanced Products and Solutions",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528",
+      "location": "McKinney, TX",
+      "datePosted": 1788825600,
+      "source": "aggregator",
+      "isNew": true
     },
     {
       "id": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
@@ -1052,156 +1202,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8128744",
       "location": "Seattle, WA, SF, NYC",
       "datePosted": 1788254091,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:21d6e4f1-9a13-4078-8012-b3f6e65719ac",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Core AI Compiler & Runtime",
-      "url": "https://www.tesla.com/careers/search/job/281951",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788240090,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e4b5d322-ba7c-42ec-81ad-95d21c03ae0a",
-      "company": "American Express",
-      "title": "Data Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333",
-      "location": "Phoenix, AZ",
-      "datePosted": 1788238369,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:44e52bc7-ab61-4213-82c0-900b7ded7a15",
-      "company": "Amazon",
-      "title": "Robotics System Development Engineer",
-      "url": "https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer",
-      "location": "Austin, TX",
-      "datePosted": 1788224661,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:613d2234-c5db-4237-b98d-1cca8bafc69d",
-      "company": "Blue Origin",
-      "title": "Software Developer Intern - Avionics Software",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434",
-      "location": "Washington, LA, Longmont, CO, Denver, CO",
-      "datePosted": 1788220800,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:9d58bfcb-a601-465f-97d9-209be8556e6d",
-      "company": "Blue Origin",
-      "title": "Software Developer Intern - Undergraduate",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425",
-      "location": "Seattle, WA, LA, Denver, CO",
-      "datePosted": 1788220800,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:1d020353-a34d-439c-af12-f9b5c502765b",
-      "company": "Chewy",
-      "title": "Software Engineer 1 - WIZMO engineering team",
-      "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1",
-      "location": "Boston, MA, Bellevue, WA",
-      "datePosted": 1788220800,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b31a94f8-6785-4fba-b769-152531ae31f2",
-      "company": "Expedia",
-      "title": "Software Development Engineer 1",
-      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2",
-      "location": "Seattle, WA",
-      "datePosted": 1788220800,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:956086a7-d67a-4072-93ae-47bf3687b548",
-      "company": "Google DeepMind",
-      "title": "Software Engineer Intern - Multiple Teams",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
-      "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
-      "datePosted": 1788215832,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:1ca5e526-fbd6-44f5-bc8a-870e4dd5c496",
-      "company": "PlanetScale",
-      "title": "Software Engineer - Internal Tools",
-      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
-      "location": "SF",
-      "datePosted": 1788215582,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
-      "company": "Epic Games",
-      "title": "Frontend Programmer Intern",
-      "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
-      "location": "Cary, NC",
-      "datePosted": 1788214848,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e42ba45d-b2f8-4b3e-82ea-a28a0016584f",
-      "company": "Mastercard",
-      "title": "Data Scientist Intern",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879",
-      "location": "O'Fallon, MO",
-      "datePosted": 1788134400,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
-      "company": "Adobe",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-      "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
-      "datePosted": 1788134400,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b6296fe8-f9f1-44dd-94f1-590c275ba224",
-      "company": "RTX",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410",
-      "location": "Aurora, CO",
-      "datePosted": 1788134400,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:8a3a0dcf-1c80-43e6-ae6d-c6eff9c94667",
-      "company": "Blue Origin",
-      "title": "Avionics / Embedded Software Engineer 1 - 2027 Starts",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324",
-      "location": "Seattle, WA, LA, Cape Canaveral, FL, Kent, WA, Denver, CO, Huntsville, AL, Van Horn, TX",
-      "datePosted": 1788134400,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:4bc5fed9-a7d9-4e52-95c2-02e5be647274",
-      "company": "Blue Origin",
-      "title": "Software Development Engineer 1 - Early Career - 2027 Starts",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326",
-      "location": "Seattle, WA, LA, Cape Canaveral, FL, Kent, WA, Denver, CO, Huntsville, AL",
-      "datePosted": 1788134400,
       "source": "aggregator",
       "isNew": false
     }
