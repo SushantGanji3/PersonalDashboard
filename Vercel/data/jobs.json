@@ -1,10 +1,50 @@
 {
-  "generatedAt": "2026-09-08T10:00:22Z",
-  "totalOpen": 956,
-  "totalNewgrad": 146,
-  "totalOther": 810,
+  "generatedAt": "2026-09-08T10:10:16Z",
+  "totalOpen": 954,
+  "totalNewgrad": 147,
+  "totalOther": 807,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a0b2cf422d0d34036c8933a",
+      "company": "Relativity",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a0b2cf422d0d34036c8933a",
+      "location": "Illinois, US",
+      "datePosted": 1788833179,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a527aaf8ef95364ead8e939",
+      "company": "General Dynamics",
+      "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
+      "url": "https://jobright.ai/jobs/info/6a527aaf8ef95364ead8e939",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1788833081,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8cc3e41d96e6541c8c2e6a",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1788831991,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a907b822e254e06fb9f11f7",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6a907b822e254e06fb9f11f7",
+      "location": "United States",
+      "datePosted": 1788831991,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a58bf9b63a8f619507be15f",
       "company": "Revolutional",
@@ -44,6 +84,16 @@
       "datePosted": 1788825600,
       "source": "aggregator",
       "isNew": false
+    },
+    {
+      "id": "simplify:61336981-7b78-4ab9-8bab-8b0acf82c912",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100",
+      "location": "Richardson, TX",
+      "datePosted": 1788825600,
+      "source": "aggregator",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a5118c902522b5b722e7616",
@@ -366,26 +416,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8cc3e41d96e6541c8c2e6a",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1788761958,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a907b822e254e06fb9f11f7",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6a907b822e254e06fb9f11f7",
-      "location": "United States",
-      "datePosted": 1788761958,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a8fc82ea19886486675e73b",
       "company": "Lockheed Martin",
       "title": "Cyber Systems Security Engineer - Hybrid / CO, CA, FL, AL, PA",
@@ -492,16 +522,6 @@
       "url": "https://jobright.ai/jobs/info/6a51fcd357513b72e0c69fe8",
       "location": "United States",
       "datePosted": 1788740979,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5e8574050c423c792efbe2",
-      "company": "TikTok",
-      "title": "Frontend Software Engineer, Global CRM Platform",
-      "url": "https://jobright.ai/jobs/info/6a5e8574050c423c792efbe2",
-      "location": "San Jose, CA",
-      "datePosted": 1788730472,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -626,16 +646,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a513ecb57513b72e0c653a7",
-      "company": "Scale AI",
-      "title": "Machine Learning Research Scientist Agents - Enterprise GenAI",
-      "url": "https://jobright.ai/jobs/info/6a513ecb57513b72e0c653a7",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1788648584,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
       "id": "simplify:9782344e-0072-4996-ae4d-b36ef27d13db",
       "company": "Tesla",
       "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
@@ -732,16 +742,6 @@
       "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
       "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
       "datePosted": 1788483835,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:66902dbd-a7fe-44a4-aa32-3d24e86e4d85",
-      "company": "Northrop Grumman",
-      "title": "Associate Systems Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Engineer_R10249344",
-      "location": "Melbourne, FL",
-      "datePosted": 1788480000,
       "source": "aggregator",
       "isNew": false
     },
@@ -1046,16 +1046,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:b281f70c-b819-47ce-8df8-cdbc3d567e98",
-      "company": "Microsoft",
-      "title": "Software Engineer Intern - AI and ML Projects",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-      "location": "Mountain View, CA",
-      "datePosted": 1788277792,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
       "id": "simplify:7e914cf5-64bf-41bb-a680-71b7d7df80f6",
       "company": "Stripe",
       "title": "Software Engineer Intern - Summer or Winter",
@@ -1201,6 +1191,16 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410",
       "location": "Aurora, CO",
+      "datePosted": 1788134400,
+      "source": "aggregator",
+      "isNew": false
+    },
+    {
+      "id": "simplify:8a3a0dcf-1c80-43e6-ae6d-c6eff9c94667",
+      "company": "Blue Origin",
+      "title": "Avionics / Embedded Software Engineer 1 - 2027 Starts",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324",
+      "location": "Seattle, WA, LA, Cape Canaveral, FL, Kent, WA, Denver, CO, Huntsville, AL, Van Horn, TX",
       "datePosted": 1788134400,
       "source": "aggregator",
       "isNew": false
