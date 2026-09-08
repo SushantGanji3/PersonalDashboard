@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-08T14:20:16Z",
-  "totalOpen": 957,
-  "totalNewgrad": 150,
+  "generatedAt": "2026-09-08T14:30:18Z",
+  "totalOpen": 956,
+  "totalNewgrad": 149,
   "totalOther": 807,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a83a88e1081a745e97108b3",
+      "company": "Uber",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a83a88e1081a745e97108b3",
+      "location": "San Francisco, CA",
+      "datePosted": 1788849325,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a8378f0379c304e892f7967",
       "company": "X, The Moonshot Factory",
@@ -12,6 +22,16 @@
       "url": "https://jobright.ai/jobs/info/6a8378f0379c304e892f7967",
       "location": "Mountain View, CA",
       "datePosted": 1788848422,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa0083d500b01124c77670c",
+      "company": "PepsiCo",
+      "title": "Analytics Platform Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa0083d500b01124c77670c",
+      "location": "New York, NY",
+      "datePosted": 1788847565,
       "source": "newgrad-jobs",
       "isNew": true
     },
@@ -556,16 +576,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:69baee6006c1ba00c54d4054",
-      "company": "SpaceX",
-      "title": "Software Engineer, Design Software (Starship)",
-      "url": "https://jobright.ai/jobs/info/69baee6006c1ba00c54d4054",
-      "location": "Hawthorne, CA",
-      "datePosted": 1788770910,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
       "id": "simplify:4c2c8e7d-cddf-48d9-b0cc-075ea6d1d6ff",
       "company": "TikTok",
       "title": "Data Engineer Graduate",
@@ -582,26 +592,6 @@
       "url": "https://jobright.ai/jobs/info/6a585d799838a11e5d837aa2",
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788764865,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a0f500d83d714428981e885",
-      "company": "Neuralink",
-      "title": "Embedded Software Engineer, Implant Embedded Systems",
-      "url": "https://jobright.ai/jobs/info/6a0f500d83d714428981e885",
-      "location": "San Francisco, CA",
-      "datePosted": 1788763583,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:69d6a332e63cea7a8b66a0e3",
-      "company": "HHAeXchange",
-      "title": "Full Stack Engineer",
-      "url": "https://jobright.ai/jobs/info/69d6a332e63cea7a8b66a0e3",
-      "location": "United States",
-      "datePosted": 1788762869,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -642,6 +632,16 @@
       "url": "https://jobright.ai/jobs/info/6a508b25f4a6e7316717d44f",
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788727164,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a44e690f1ab552f90d077f9",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - Spanish Speakers",
+      "url": "https://jobright.ai/jobs/info/6a44e690f1ab552f90d077f9",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
+      "datePosted": 1788727108,
       "source": "newgrad-jobs",
       "isNew": false
     },
