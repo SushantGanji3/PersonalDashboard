@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-08T14:40:17Z",
-  "totalOpen": 956,
-  "totalNewgrad": 149,
+  "generatedAt": "2026-09-08T14:50:17Z",
+  "totalOpen": 953,
+  "totalNewgrad": 146,
   "totalOther": 807,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a59409bc8e3a473cb8a5edd",
+      "company": "Primefocus Health",
+      "title": "Software Engineer - Solutions",
+      "url": "https://jobright.ai/jobs/info/6a59409bc8e3a473cb8a5edd",
+      "location": "San Francisco, CA; New York, NY; California, United States; Illinois, United States",
+      "datePosted": 1788850536,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a83a88e1081a745e97108b3",
       "company": "Uber",
@@ -56,6 +66,16 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a57b63befb06a45240dca4f",
+      "company": "Google DeepMind",
+      "title": "Security Engineer, Detection",
+      "url": "https://jobright.ai/jobs/info/6a57b63befb06a45240dca4f",
+      "location": "Reston, VA",
+      "datePosted": 1788846349,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a5ec528f3674a0545d2ae8f",
       "company": "Applied Systems",
       "title": "Associate Software Engineer / Software Engineer",
@@ -94,6 +114,16 @@
       "datePosted": 1788843410,
       "source": "newgrad-jobs",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7e4c120cd4a0703257f2ca",
+      "company": "Applied Intuition",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7e4c120cd4a0703257f2ca",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1788842808,
+      "source": "newgrad-jobs",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a677099d0fb4c3df393cd60",
@@ -436,6 +466,16 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a976f7ef5337b2cf7321ef2",
+      "company": "Beta Bionics",
+      "title": "Enterprise Applications Developer",
+      "url": "https://jobright.ai/jobs/info/6a976f7ef5337b2cf7321ef2",
+      "location": "Irvine, CA; San Diego, CA",
+      "datePosted": 1788803643,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
       "company": "The Tatitlek Corporation",
       "title": "Junior Software Developer",
@@ -492,76 +532,6 @@
       "url": "https://jobright.ai/jobs/info/6a9f37aa2c964816f65ef825",
       "location": "Alabama, United States",
       "datePosted": 1788794170,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9f3489dacf777321a944e3",
-      "company": "Mearas",
-      "title": "Founding Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9f3489dacf777321a944e3",
-      "location": "New York, NY",
-      "datePosted": 1788793369,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6ce61332f9300c3a3e5dd6",
-      "company": "Dezign Concepts",
-      "title": "Systems Engineer - Junior",
-      "url": "https://jobright.ai/jobs/info/6a6ce61332f9300c3a3e5dd6",
-      "location": "McLean, VA",
-      "datePosted": 1788784556,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9f09e5dacf777321a93f9c",
-      "company": "Ardent Principles",
-      "title": "Software Engineer (Full Stack Development)",
-      "url": "https://jobright.ai/jobs/info/6a9f09e5dacf777321a93f9c",
-      "location": "Chantilly, VA",
-      "datePosted": 1788782453,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9f0036dacf777321a93e79",
-      "company": "Infosys",
-      "title": "Java Backend Developer",
-      "url": "https://jobright.ai/jobs/info/6a9f0036dacf777321a93e79",
-      "location": "Boston, MA; Hartford, CT; Jersey City, NJ; New York, NY; Raleigh, NC; Richardson, TX",
-      "datePosted": 1788779974,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7d1c637c52154b59f5dfeb",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer, Manufacturing Systems",
-      "url": "https://jobright.ai/jobs/info/6a7d1c637c52154b59f5dfeb",
-      "location": "Hawthorne, CA",
-      "datePosted": 1788776295,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9eee41f6ea002358296fae",
-      "company": "Leaf Health",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9eee41f6ea002358296fae",
-      "location": "Austin, TX",
-      "datePosted": 1788775377,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9edd21f6ea002358296d25",
-      "company": "MOOV",
-      "title": "Founding Software Engineer ($150,000 - $190,000 + Equity)",
-      "url": "https://jobright.ai/jobs/info/6a9edd21f6ea002358296d25",
-      "location": "Brooklyn, NY",
-      "datePosted": 1788771944,
       "source": "newgrad-jobs",
       "isNew": false
     },
@@ -642,6 +612,36 @@
       "url": "https://jobright.ai/jobs/info/6a44e690f1ab552f90d077f9",
       "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788727108,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a591d083ac7627fe9ffd570",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - Portuguese (Brazil) Speakers",
+      "url": "https://jobright.ai/jobs/info/6a591d083ac7627fe9ffd570",
+      "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
+      "datePosted": 1788727050,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a46a7d1971cd25b06f8f97b",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - Russian Speakers",
+      "url": "https://jobright.ai/jobs/info/6a46a7d1971cd25b06f8f97b",
+      "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
+      "datePosted": 1788727050,
+      "source": "newgrad-jobs",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4c0a58c2d11a6a46679b39",
+      "company": "Notion",
+      "title": "Software Engineer, Early Career (AI)",
+      "url": "https://jobright.ai/jobs/info/6a4c0a58c2d11a6a46679b39",
+      "location": "San Francisco, CA",
+      "datePosted": 1788716132,
       "source": "newgrad-jobs",
       "isNew": false
     },
