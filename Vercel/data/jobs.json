@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-08T07:50:15Z",
-  "totalOpen": 961,
-  "totalNewgrad": 146,
+  "generatedAt": "2026-09-08T08:00:18Z",
+  "totalOpen": 960,
+  "totalNewgrad": 145,
   "totalOther": 815,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9fb371f6ea002358298c63",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6a9fb371f6ea002358298c63",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1788825857,
+      "source": "newgrad-jobs",
+      "isNew": true
+    },
     {
       "id": "simplify:ec2d8499-9c16-4277-8aac-c8300d24f46f",
       "company": "Micron",
@@ -14,6 +24,16 @@
       "datePosted": 1788825600,
       "source": "aggregator",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
+      "company": "Spotify",
+      "title": "Research Scientist - Generative Audio",
+      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
+      "location": "United States",
+      "datePosted": 1788825248,
+      "source": "newgrad-jobs",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a44e68c824ecd73beef1a4f",
@@ -466,16 +486,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e348a2c964816f65ebf29",
-      "company": "IBM",
-      "title": "QA/Test Developer",
-      "url": "https://jobright.ai/jobs/info/6a9e348a2c964816f65ebf29",
-      "location": "United States",
-      "datePosted": 1788727834,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a508b25f4a6e7316717d44f",
       "company": "Welo Data",
       "title": "Project Perseus | Speech & Voice AI Analyst - French Speakers",
@@ -512,16 +522,6 @@
       "url": "https://jobright.ai/jobs/info/6a46a7d1971cd25b06f8f97b",
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788727050,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e2be0dacf777321a90a9e",
-      "company": "IBM",
-      "title": "IBM Storage Central Site Reliability Security",
-      "url": "https://jobright.ai/jobs/info/6a9e2be0dacf777321a90a9e",
-      "location": "Tucson, AZ",
-      "datePosted": 1788725616,
       "source": "newgrad-jobs",
       "isNew": false
     },
