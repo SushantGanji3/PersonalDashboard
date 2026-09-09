@@ -1,10 +1,30 @@
 {
-  "generatedAt": "2026-09-09T01:31:06Z",
-  "totalOpen": 983,
+  "generatedAt": "2026-09-09T01:40:14Z",
+  "totalOpen": 985,
   "totalNewgrad": 165,
-  "totalOther": 818,
+  "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:52c6c00b-0538-4eae-ba83-7a32198496a7",
+      "company": "Coinbase",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8168315",
+      "location": "SF",
+      "datePosted": 1788916882,
+      "source": "aggregator",
+      "isNew": true
+    },
+    {
+      "id": "simplify:96af2834-7e64-41a6-b0d4-d000f97b76cb",
+      "company": "Coinbase",
+      "title": "Data Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8175459",
+      "location": "SF",
+      "datePosted": 1788916844,
+      "source": "aggregator",
+      "isNew": true
+    },
     {
       "id": "simplify:2800fc16-c3a8-41ad-a36d-d60bc2c68380",
       "company": "Semgrep",
@@ -1182,26 +1202,6 @@
       "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail",
       "location": "San Jose, CA",
       "datePosted": 1788281002,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:7e914cf5-64bf-41bb-a680-71b7d7df80f6",
-      "company": "Stripe",
-      "title": "Software Engineer Intern - Summer or Winter",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "location": "Seattle, WA, SF, NYC",
-      "datePosted": 1788254097,
-      "source": "aggregator",
-      "isNew": false
-    },
-    {
-      "id": "simplify:8b0c8a04-8a4d-4675-8ea4-401a27ae962f",
-      "company": "Stripe",
-      "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "location": "Seattle, WA, SF, NYC",
-      "datePosted": 1788254091,
       "source": "aggregator",
       "isNew": false
     }
