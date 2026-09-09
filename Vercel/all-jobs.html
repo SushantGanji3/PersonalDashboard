@@ -119,6 +119,11 @@
   .job-top{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
   .job-company{ font-size:13px; font-weight:600; }
   .job-badges{ display:inline-flex; align-items:center; gap:6px; flex-wrap:wrap; }
+  .job-season{
+    font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.02em;
+    padding:2px 7px; border-radius:5px; background:var(--ember-soft); color:var(--ember);
+    white-space:nowrap; flex:none;
+  }
   .job-applied-badge{
     font-family:"IBM Plex Mono"; font-size:9.5px; font-weight:600; letter-spacing:.04em;
     padding:2px 7px; border-radius:5px; display:inline-flex; align-items:center; gap:3px;
@@ -440,11 +445,13 @@
         const tooltip = `Applied to ${app.company}${appRole}${appliedDateStr} [${status}]. Click to view email in Gmail.`;
         const appliedAgo = app.dateApplied ? timeAgo(app.dateApplied) : '';
 
+        const seasonHtml = p.season ? `<span class="job-season">${escapeHtml(p.season)}</span>` : '';
         row.className = `job-row is-applied status-${status}`;
         row.innerHTML = `
           <div class="job-top">
             <span class="job-company">${escapeHtml(p.company)}</span>
             <div class="job-badges">
+              ${seasonHtml}
               <a class="job-applied-badge ${escapeHtml(status)}" href="${escapeHtml(emailUrl)}" target="_blank" rel="noopener" title="${escapeHtml(tooltip)}">
                 <span class="applied-check">✓</span> Applied${escapeHtml(statusSuffix)}
               </a>
@@ -457,9 +464,13 @@
           </div>
         `;
       } else {
+        const seasonHtml = p.season ? `<span class="job-season">${escapeHtml(p.season)}</span>` : '';
         row.className = 'job-row';
         row.innerHTML = `
-          <div class="job-top"><span class="job-company">${escapeHtml(p.company)}</span></div>
+          <div class="job-top">
+            <span class="job-company">${escapeHtml(p.company)}</span>
+            ${seasonHtml}
+          </div>
           <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
           <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
         `;

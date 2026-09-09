@@ -129,6 +129,7 @@ def main():
             "location": p.get("location", ""),
             "datePosted": p.get("date_posted"),
             "source": source_name,
+            "season": p.get("season"),
             "isNew": p["id"] not in seen_ids,
         })
 
@@ -165,10 +166,12 @@ def main():
                 "location": p.get("location", ""),
                 "datePosted": p.get("date_posted"),
                 "source": source_name,
+                "season": p.get("season"),
                 "firstSeenAt": now_epoch,
             }
         else:
             archive_by_id[p["id"]]["source"] = source_name
+            archive_by_id[p["id"]]["season"] = p.get("season")
 
     def effective_date(a):
         return a.get("datePosted") or a.get("firstSeenAt") or 0

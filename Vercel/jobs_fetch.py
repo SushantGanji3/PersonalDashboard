@@ -19,12 +19,22 @@ import sys
 import urllib.request
 
 SOURCES_URL = "https://raw.githubusercontent.com/rishabhsabnavis/job-alerts/main/sources.json"
+# Same JobRight "mini-sites" API backs both newgrad-jobs.com and intern-list.com
+# (intern-list.com just iframes https://jobright.ai/minisites-jobs/intern) -- so
+# internships are pulled from the "intern:" categories of this one API rather
+# than scraping intern-list.com's page.
 NEWGRAD_JOBS_API = "https://jobright.ai/swan/mini-sites/list"
 NEWGRAD_JOBS_CATEGORIES = [
     "newgrad:us:swe",
     "newgrad:us:ml_ai",
     "newgrad:us:data_engineer",
     "newgrad:us:cyber_security",
+]
+INTERN_JOBS_CATEGORIES = [
+    "intern:us:swe",
+    "intern:us:ml_ai",
+    "intern:us:data_engineer",
+    "intern:us:cyber_security",
 ]
 UA = "Mozilla/5.0 (dashboard-jobs-fetch; personal use)"
 TIMEOUT = 25
@@ -120,6 +130,27 @@ def matches(title, level_re, role_re, level_implied=False):
 
 def is_phd_only(title, degrees):
     return is_graduate_only(title, degrees=degrees)
+
+
+HIRE_TIME_RE = re.compile(r"^(20\d{2})-(Summer|Fall|Winter|Spring)$", re.I)
+SEASON_YEAR_RE = re.compile(r"\b(summer|fall|winter|spring)\b[^a-z0-9]{0,10}(20\d{2})", re.I)
+YEAR_SEASON_RE = re.compile(r"\b(20\d{2})\b[^a-z0-9]{0,10}(summer|fall|winter|spring)\b", re.I)
+
+
+def extract_internship_season(hire_time, title):
+    """Returns e.g. "Summer 2027" for an internship posting, or None if no
+    season/year could be determined from JobRight's hireTime field or the title."""
+    m = HIRE_TIME_RE.match((hire_time or "").strip())
+    if m:
+        return f"{m.group(2).capitalize()} {m.group(1)}"
+    t = title or ""
+    m = SEASON_YEAR_RE.search(t)
+    if m:
+        return f"{m.group(1).capitalize()} {m.group(2)}"
+    m = YEAR_SEASON_RE.search(t)
+    if m:
+        return f"{m.group(2).capitalize()} {m.group(1)}"
+    return None
 
 
 def is_excluded_grad_year(title, excluded_years):
@@ -218,20 +249,24 @@ def fetch_and_filter():
             canonical = alias_map.get(raw_name.lower())
             if simp_cfg.get("match_target_companies_only", True) and not canonical:
                 continue
+            title = j.get("title", "")
+            season = extract_internship_season("", title) if INTERN_TITLE_RE.search(title.lower()) else None
             raw.append({
                 "id": f"simplify:{j.get('id') or j.get('url')}",
                 "company": canonical or raw_name,
-                "title": j.get("title", ""),
+                "title": title,
                 "url": j.get("url", ""),
                 "location": ", ".join(j.get("locations", []) or []),
                 "degrees": j.get("degrees", []) or [],
                 "qualifications": "",
                 "level_implied": simp_cfg.get("level_implied", False),
                 "date_posted": j.get("date_posted") or j.get("date_updated") or None,
+                "season": season,
             })
 
-    # 2. newgrad-jobs.com source (Jobright new grad listings)
-    for cat in NEWGRAD_JOBS_CATEGORIES:
+    # 2. newgrad-jobs.com / intern-list.com (both are JobRight mini-sites --
+    #    same API, "newgrad:" vs "intern:" categories)
+    for cat in NEWGRAD_JOBS_CATEGORIES + INTERN_JOBS_CATEGORIES:
         try:
             resp = http_json(
                 f"{NEWGRAD_JOBS_API}?position=0&count=100",
@@ -247,17 +282,21 @@ def fetch_and_filter():
                 job_id = j.get("jobId")
                 posted_at = j.get("postedAt")
                 date_posted = int(posted_at / 1000) if posted_at else None
+                title = props.get("title", "").strip()
+                season = extract_internship_season(props.get("hireTime", ""), title) \
+                    if cat in INTERN_JOBS_CATEGORIES else None
 
                 raw.append({
                     "id": f"newgrad-jobs:{job_id}",
                     "company": canonical or raw_name,
-                    "title": props.get("title", "").strip(),
+                    "title": title,
                     "url": f"https://jobright.ai/jobs/info/{job_id}",
                     "location": props.get("location", "").strip(),
                     "degrees": [],
                     "qualifications": props.get("qualifications", "").strip(),
                     "level_implied": True,
                     "date_posted": date_posted,
+                    "season": season,
                 })
         except Exception as e:
             print(f"  newgrad-jobs feed failed: {cat} -> {e}", file=sys.stderr)

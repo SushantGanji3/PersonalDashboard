@@ -922,6 +922,18 @@
     padding:1px 5px;
     flex:none;
   }
+  .job-season{
+    font-family:"JetBrains Mono", monospace;
+    font-size:9px;
+    font-weight:700;
+    letter-spacing:0.05em;
+    color:var(--forest);
+    background:var(--forest-soft);
+    border-radius:4px;
+    padding:1px 5px;
+    flex:none;
+    white-space:nowrap;
+  }
   .job-applied-badge{
     font-family:"JetBrains Mono", monospace;
     font-size:9.5px;
@@ -2035,6 +2047,7 @@
           <div class="job-top">
             <span class="job-company">${escapeHtml(p.company)}${sourceTagHtml}</span>
             <div class="job-badges">
+              ${p.season ? `<span class="job-season">${escapeHtml(p.season)}</span>` : ''}
               <a class="job-applied-badge ${escapeHtml(status)}" href="${escapeHtml(emailUrl)}" target="_blank" rel="noopener" title="${escapeHtml(tooltip)}">
                 <span class="applied-check">✓</span> Applied${escapeHtml(statusSuffix)}
               </a>
@@ -2052,7 +2065,10 @@
         row.innerHTML = `
           <div class="job-top">
             <span class="job-company">${escapeHtml(p.company)}${sourceTagHtml}</span>
-            ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
+            <div class="job-badges">
+              ${p.season ? `<span class="job-season">${escapeHtml(p.season)}</span>` : ''}
+              ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
+            </div>
           </div>
           <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
           <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
