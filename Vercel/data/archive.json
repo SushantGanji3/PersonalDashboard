@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:10:16Z",
+  "generatedAt": "2026-09-09T04:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -10,7 +10,8 @@
       "location": "SF",
       "datePosted": 1788916882,
       "source": "aggregator",
-      "firstSeenAt": 1788918014
+      "firstSeenAt": 1788918014,
+      "season": null
     },
     {
       "id": "simplify:96af2834-7e64-41a6-b0d4-d000f97b76cb",
@@ -20,7 +21,8 @@
       "location": "SF",
       "datePosted": 1788916844,
       "source": "aggregator",
-      "firstSeenAt": 1788918014
+      "firstSeenAt": 1788918014,
+      "season": null
     },
     {
       "id": "simplify:2800fc16-c3a8-41ad-a36d-d60bc2c68380",
@@ -30,7 +32,8 @@
       "location": "SF",
       "datePosted": 1788906760,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:7458ceb8-c0db-44e7-ae5e-41fb157b2104",
@@ -40,7 +43,8 @@
       "location": "Houston, TX",
       "datePosted": 1788906536,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:3bf3d7c6-3d8d-41c3-98eb-a48df978d6e4",
@@ -50,7 +54,8 @@
       "location": "NYC",
       "datePosted": 1788906532,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": "Summer 2027"
     },
     {
       "id": "simplify:2be642c8-518a-4951-9ab2-d57bec820c2b",
@@ -60,7 +65,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1788906531,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:cb671a4e-ff11-4624-a824-2b46cbf7a24f",
@@ -70,7 +76,8 @@
       "location": "Pittsfield, MA",
       "datePosted": 1788906152,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:56d700ec-1b48-4eeb-af33-207bb295fe53",
@@ -80,7 +87,8 @@
       "location": "National City, CA",
       "datePosted": 1788906152,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:e808ba48-68a5-402a-b394-ca05a260cfe8",
@@ -90,7 +98,8 @@
       "location": "Pittsfield, MA",
       "datePosted": 1788906149,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:4d30f64b-9b67-4679-a968-1b62bf57c98e",
@@ -100,7 +109,8 @@
       "location": "Boston, MA, NYC",
       "datePosted": 1788905360,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:940140be-314d-40e2-8614-14d3a19bb049",
@@ -110,7 +120,8 @@
       "location": "SF",
       "datePosted": 1788905178,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:282e63a7-0fb1-40c2-b5f5-6afd0e4a66d7",
@@ -120,7 +131,30 @@
       "location": "SF",
       "datePosted": 1788905174,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a9f14ad68f82b403673c2e0",
+      "company": "Dropbox",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9f14ad68f82b403673c2e0",
+      "location": "United States",
+      "datePosted": 1788886550,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa06e845b2d5633ef3be929",
+      "company": "Eudia",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa06e845b2d5633ef3be929",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788886099,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a978c11e4e60e4b8da5e61f",
@@ -130,7 +164,41 @@
       "location": "Tampa, FL",
       "datePosted": 1788885916,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a59eafa856af468ab005b0b",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026",
+      "url": "https://jobright.ai/jobs/info/6a59eafa856af468ab005b0b",
+      "location": "Palo Alto, CA; Irvine, CA",
+      "datePosted": 1788885916,
+      "source": "newgrad-jobs",
+      "season": "Summer 2026",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a58e71fc8e3a473cb8a3a94",
+      "company": "Rivian",
+      "title": "Software Engineering Intern, Vehicle Controls - Summer 2026",
+      "url": "https://jobright.ai/jobs/info/6a58e71fc8e3a473cb8a3a94",
+      "location": "Palo Alto, CA; Irvine, CA",
+      "datePosted": 1788885668,
+      "source": "newgrad-jobs",
+      "season": "Summer 2026",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a9b74e8d5ff1f3f1c39f244",
+      "company": "Tesla",
+      "title": "Internship, Data Engineer, Cell Engineering (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9b74e8d5ff1f3f1c39f244",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788885603,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
@@ -140,7 +208,8 @@
       "location": "Ashburn, VA",
       "datePosted": 1788885436,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a473469971cd25b06f9164f",
@@ -150,7 +219,30 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788885419,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa09b4bdbc0e60e37e0eb77",
+      "company": "Leonardo DRS",
+      "title": "2027 Summer - Software Engineering Intern - Cypress CA",
+      "url": "https://jobright.ai/jobs/info/6aa09b4bdbc0e60e37e0eb77",
+      "location": "Cypress, CA",
+      "datePosted": 1788885211,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
+      "company": "The Nuclear Company",
+      "title": "Spring 2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f",
+      "location": "Washington, DC",
+      "datePosted": 1788885108,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
@@ -160,7 +252,30 @@
       "location": "New York, NY",
       "datePosted": 1788885022,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa08644a2266b538d230e8c",
+      "company": "Leonardo DRS",
+      "title": "2027 Summer - Software Engineering Intern (DMES) - Dallas TX",
+      "url": "https://jobright.ai/jobs/info/6aa08644a2266b538d230e8c",
+      "location": "Dallas, TX",
+      "datePosted": 1788884939,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa0864dea127c3794697a9b",
+      "company": "Leonardo DRS",
+      "title": "2027 Summer - Software Engineering Intern (Commercial) - Dallas TX",
+      "url": "https://jobright.ai/jobs/info/6aa0864dea127c3794697a9b",
+      "location": "Dallas, TX",
+      "datePosted": 1788884915,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa095c63b5aa83237b0a10b",
@@ -170,7 +285,8 @@
       "location": "Plano, TX; Raleigh, NC; Reston, VA; Richardson, TX; Tempe, AZ",
       "datePosted": 1788883798,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa095a5a2266b538d231453",
@@ -180,7 +296,19 @@
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
       "datePosted": 1788883765,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa072de5b2d5633ef3beac5",
+      "company": "Concord Group Insurance",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa072de5b2d5633ef3beac5",
+      "location": "Bedford, NH",
+      "datePosted": 1788883600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa094e3ea127c3794698083",
@@ -190,7 +318,8 @@
       "location": "Overland Park, KS; Bellevue, WA",
       "datePosted": 1788883571,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa0930aea127c3794697f6b",
@@ -200,7 +329,19 @@
       "location": "North Logan, UT",
       "datePosted": 1788883098,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa046a95b2d5633ef3bd9d7",
+      "company": "Semgrep",
+      "title": "Software Engineer Intern, Cloud Platform",
+      "url": "https://jobright.ai/jobs/info/6aa046a95b2d5633ef3bd9d7",
+      "location": "San Francisco, CA",
+      "datePosted": 1788882681,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa090faa2266b538d231277",
@@ -210,7 +351,8 @@
       "location": "San Francisco, CA; New York, NY",
       "datePosted": 1788882570,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa04eee500b01124c7782b0",
@@ -220,7 +362,19 @@
       "location": "Columbia, MD",
       "datePosted": 1788881816,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a52dc25e726ec56126a4c9b",
+      "company": "Anduril",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a52dc25e726ec56126a4c9b",
+      "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
+      "datePosted": 1788881513,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
@@ -230,7 +384,8 @@
       "location": "Birmingham, MI; Chicago, IL; Fort Lauderdale, FL; New York, NY",
       "datePosted": 1788881327,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa08caa5b2d5633ef3bf48a",
@@ -240,7 +395,8 @@
       "location": "Round Rock, TX",
       "datePosted": 1788881273,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a96b8ee246d697dcee010ec",
@@ -250,7 +406,96 @@
       "location": "Carlsbad, CA",
       "datePosted": 1788880815,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788924017
+      "firstSeenAt": 1788924017,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa03670500b01124c7775d5",
+      "company": "Syska Hennessy Group",
+      "title": "Software Developer (Innovation) Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa03670500b01124c7775d5",
+      "location": "New York, NY",
+      "datePosted": 1788879939,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa07b94a2266b538d230b79",
+      "company": "Allegion",
+      "title": "Summer Intern - Software Engineering - DevOps",
+      "url": "https://jobright.ai/jobs/info/6aa07b94a2266b538d230b79",
+      "location": "Carmel, IN; Golden, CO",
+      "datePosted": 1788879903,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa04696500b01124c777fe8",
+      "company": "Talos",
+      "title": "Software Engineer Intern, RFQ",
+      "url": "https://jobright.ai/jobs/info/6aa04696500b01124c777fe8",
+      "location": "New York, NY",
+      "datePosted": 1788879808,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa069c9ea127c3794696e89",
+      "company": "Talos",
+      "title": "Software Engineer Intern, Dealer",
+      "url": "https://jobright.ai/jobs/info/6aa069c9ea127c3794696e89",
+      "location": "New York, NY",
+      "datePosted": 1788879807,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa0848c5b2d5633ef3bf21f",
+      "company": "General Dynamics",
+      "title": "Intern Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa0848c5b2d5633ef3bf21f",
+      "location": "Pittsfield, MA",
+      "datePosted": 1788879388,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa041d9ea127c379469602d",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa041d9ea127c379469602d",
+      "location": "Irvine, CA; Palo Alto, CA",
+      "datePosted": 1788878858,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa081e93b5aa83237b09a20",
+      "company": "Allen Control Systems",
+      "title": "Computer Vision/Machine Learning Intern, 2027",
+      "url": "https://jobright.ai/jobs/info/6aa081e93b5aa83237b09a20",
+      "location": "Austin, TX",
+      "datePosted": 1788878713,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa0819aa2266b538d230da4",
+      "company": "Allen Control Systems",
+      "title": "Software Engineering Inten, 2027",
+      "url": "https://jobright.ai/jobs/info/6aa0819aa2266b538d230da4",
+      "location": "Austin, TX",
+      "datePosted": 1788878634,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa081783b5aa83237b09a05",
@@ -260,7 +505,41 @@
       "location": "McKinney, TX",
       "datePosted": 1788878600,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa09d0e500b01124c77a1ab",
+      "company": "Texas GovLink, Inc.",
+      "title": "AI/ML Engineer (Intern Level 2)",
+      "url": "https://jobright.ai/jobs/info/6aa09d0e500b01124c77a1ab",
+      "location": "Austin, TX",
+      "datePosted": 1788878420,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa07f505b2d5633ef3bf0f5",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Service Engineering (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa07f505b2d5633ef3bf0f5",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788878048,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a5f96d5193b5113096794f0",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a5f96d5193b5113096794f0",
+      "location": "Austin, TX; New York, NY",
+      "datePosted": 1788877583,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa07ce1500b01124c7796f6",
@@ -270,7 +549,8 @@
       "location": "United States",
       "datePosted": 1788877425,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa07c3f3b5aa83237b097e6",
@@ -280,7 +560,19 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788877263,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa07c3eea127c3794697796",
+      "company": "Collins Aerospace",
+      "title": "Software Engineer Intern ( Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa07c3eea127c3794697796",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1788877262,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a9a7baafe45b8490f603c59",
@@ -290,7 +582,30 @@
       "location": "Marlborough, MA",
       "datePosted": 1788877168,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa053623b5aa83237b08639",
+      "company": "Red Hat",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa053623b5aa83237b08639",
+      "location": "Raleigh, NC; Boston, MA; Lowell, MA; Durham, NC",
+      "datePosted": 1788876895,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa075e75b2d5633ef3bec5d",
+      "company": "IBM",
+      "title": "SW Developer Intern - Austin, TX -2027",
+      "url": "https://jobright.ai/jobs/info/6aa075e75b2d5633ef3bec5d",
+      "location": "Austin, TX",
+      "datePosted": 1788876586,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa079645b2d5633ef3bee5f",
@@ -310,7 +625,8 @@
       "location": "Frisco, TX; Seattle, WA",
       "datePosted": 1788876467,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788912615
+      "firstSeenAt": 1788912615,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa078ad5b2d5633ef3bedc8",
@@ -320,7 +636,8 @@
       "location": "Frisco, TX; Seattle, WA",
       "datePosted": 1788876349,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788912615
+      "firstSeenAt": 1788912615,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa0788b5b2d5633ef3bedba",
@@ -340,7 +657,96 @@
       "location": "Washington, DC",
       "datePosted": 1788876067,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa0761d500b01124c77935a",
+      "company": "IBM",
+      "title": "ZOS QA Test Developer Intern 2027 - Poughkeepsie",
+      "url": "https://jobright.ai/jobs/info/6aa0761d500b01124c77935a",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1788875693,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa07617ea127c379469748f",
+      "company": "IBM",
+      "title": "Software Developer Intern-Poughkeepsie, NY",
+      "url": "https://jobright.ai/jobs/info/6aa07617ea127c379469748f",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1788875687,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa075e3ea127c379469747f",
+      "company": "IBM",
+      "title": "Software Developer Intern, Rochester-MN",
+      "url": "https://jobright.ai/jobs/info/6aa075e3ea127c379469747f",
+      "location": "Rochester, MN",
+      "datePosted": 1788875635,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa075e03b5aa83237b0949d",
+      "company": "MKS Inc.",
+      "title": "2027 Spring Software Engineering Intern (R19945)",
+      "url": "https://jobright.ai/jobs/info/6aa075e03b5aa83237b0949d",
+      "location": "Rochester, NY",
+      "datePosted": 1788875632,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa075ddea127c3794697478",
+      "company": "IBM",
+      "title": "Software Developer Intern-Austin -TX",
+      "url": "https://jobright.ai/jobs/info/6aa075ddea127c3794697478",
+      "location": "Austin, TX",
+      "datePosted": 1788875629,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa075a2500b01124c779339",
+      "company": "IBM",
+      "title": "Software Developer Intern/Tucson-AZ",
+      "url": "https://jobright.ai/jobs/info/6aa075a2500b01124c779339",
+      "location": "Tucson, AZ",
+      "datePosted": 1788875570,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa07486500b01124c7792ac",
+      "company": "IBM",
+      "title": "Software Test Developer-Intern",
+      "url": "https://jobright.ai/jobs/info/6aa07486500b01124c7792ac",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1788875286,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa0734a3b5aa83237b09340",
+      "company": "IBM",
+      "title": "Intern Application Developer 2027 - ServiceNow",
+      "url": "https://jobright.ai/jobs/info/6aa0734a3b5aa83237b09340",
+      "location": "Baton Rouge, LA",
+      "datePosted": 1788874970,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa0714d500b01124c7790b1",
@@ -350,7 +756,19 @@
       "location": "Seattle, WA; Scottsdale, AZ; Boston, MA",
       "datePosted": 1788874461,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa07112dbc0e60e37e0da70",
+      "company": "Daylit",
+      "title": "Full Stack AI Engineer Co-Op (Northeastern Students only) Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6aa07112dbc0e60e37e0da70",
+      "location": "Boston, MA",
+      "datePosted": 1788874402,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa070d45b2d5633ef3be9cc",
@@ -363,6 +781,17 @@
       "firstSeenAt": 1788905416
     },
     {
+      "id": "newgrad-jobs:6aa070caa2266b538d2305b9",
+      "company": "Viam",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa070caa2266b538d2305b9",
+      "location": "New York, NY",
+      "datePosted": 1788874330,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6aa06f775b2d5633ef3be958",
       "company": "SMX",
       "title": "Junior Software Engineer (5510)",
@@ -370,7 +799,8 @@
       "location": "Huntsville, AL",
       "datePosted": 1788873991,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a4242fd557b3862f15e0ab7",
@@ -380,7 +810,63 @@
       "location": "United States",
       "datePosted": 1788873888,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa06ed7dbc0e60e37e0d9b1",
+      "company": "CHAOS Industries",
+      "title": "2027 Summer- Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa06ed7dbc0e60e37e0d9b1",
+      "location": "El Segundo, CA",
+      "datePosted": 1788873831,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa04563dbc0e60e37e0c945",
+      "company": "Gallup",
+      "title": "Software Engineer Intern \u2014 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa04563dbc0e60e37e0c945",
+      "location": "San Francisco, CA",
+      "datePosted": 1788873598,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa03f0f3b5aa83237b07dbb",
+      "company": "Revel",
+      "title": "Internship: Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa03f0f3b5aa83237b07dbb",
+      "location": "Los Angeles, CA; San Francisco, CA",
+      "datePosted": 1788873555,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa03f96dbc0e60e37e0c639",
+      "company": "Revel",
+      "title": "Internship: Software Engineer, Test",
+      "url": "https://jobright.ai/jobs/info/6aa03f96dbc0e60e37e0c639",
+      "location": "Los Angeles, CA; San Francisco, CA",
+      "datePosted": 1788873537,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa03ee0dbc0e60e37e0c5ae",
+      "company": "Revel",
+      "title": "Internship: Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa03ee0dbc0e60e37e0c5ae",
+      "location": "Los Angeles, CA; San Francisco, CA",
+      "datePosted": 1788873537,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a68ca0805bae84301b585a2",
@@ -390,7 +876,19 @@
       "location": "Marysville, OH",
       "datePosted": 1788873106,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a8dde5fcc0cf27068525b94",
+      "company": "GE Appliances, a Haier company",
+      "title": "Software Engineering Co-op_Fall 2027",
+      "url": "https://jobright.ai/jobs/info/6a8dde5fcc0cf27068525b94",
+      "location": "Louisville, KY",
+      "datePosted": 1788873007,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa06ac1dbc0e60e37e0d7a4",
@@ -400,7 +898,41 @@
       "location": "New York, NY",
       "datePosted": 1788872785,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa06a0b3b5aa83237b08ec8",
+      "company": "Two Sigma",
+      "title": "Software Engineering Internship - NYC 2027",
+      "url": "https://jobright.ai/jobs/info/6aa06a0b3b5aa83237b08ec8",
+      "location": "New York, NY",
+      "datePosted": 1788872603,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa0259c3b5aa83237b07236",
+      "company": "Motorola Solutions",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa0259c3b5aa83237b07236",
+      "location": "Chicago, IL",
+      "datePosted": 1788872188,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa0561a5b2d5633ef3bdf69",
+      "company": "Nelnet",
+      "title": "Intern - Software Engineer - New Ventures - Starting Summer 2026",
+      "url": "https://jobright.ai/jobs/info/6aa0561a5b2d5633ef3bdf69",
+      "location": "Lincoln, NE",
+      "datePosted": 1788871989,
+      "source": "newgrad-jobs",
+      "season": "Summer 2026",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa0676dea127c3794696dad",
@@ -410,7 +942,8 @@
       "location": "Roy, UT",
       "datePosted": 1788871933,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa06492ea127c3794696c78",
@@ -420,7 +953,19 @@
       "location": "Washington, DC",
       "datePosted": 1788871202,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788900614
+      "firstSeenAt": 1788900614,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa043f95b2d5633ef3bd8a3",
+      "company": "Spirit AeroSystems",
+      "title": "Boeing - Wichita Summer 2027 Internship Program (Paid) - Programmer Analyst / Developer - IDT&S",
+      "url": "https://jobright.ai/jobs/info/6aa043f95b2d5633ef3bd8a3",
+      "location": "Wichita, KS",
+      "datePosted": 1788870666,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa05c865b2d5633ef3be201",
@@ -473,6 +1018,28 @@
       "firstSeenAt": 1788905416
     },
     {
+      "id": "newgrad-jobs:6aa05bd35b2d5633ef3be1cb",
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie",
+      "url": "https://jobright.ai/jobs/info/6aa05bd35b2d5633ef3be1cb",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1788868963,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa05a8e5b2d5633ef3be170",
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin",
+      "url": "https://jobright.ai/jobs/info/6aa05a8e5b2d5633ef3be170",
+      "location": "Austin, TX",
+      "datePosted": 1788868638,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6aa05a635b2d5633ef3be15e",
       "company": "IBM",
       "title": "Entry Level Software Developer",
@@ -480,7 +1047,8 @@
       "location": "Poughkeepsie, NY",
       "datePosted": 1788868595,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788897621
+      "firstSeenAt": 1788897621,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa059eeea127c3794696907",
@@ -490,7 +1058,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788868478,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788897621
+      "firstSeenAt": 1788897621,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa059ed3b5aa83237b088fc",
@@ -500,7 +1069,8 @@
       "location": "United States",
       "datePosted": 1788868477,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788897621
+      "firstSeenAt": 1788897621,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa059deea127c3794696902",
@@ -510,7 +1080,8 @@
       "location": "Poughkeepsie, NY",
       "datePosted": 1788868462,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788897621
+      "firstSeenAt": 1788897621,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa059c45b2d5633ef3be111",
@@ -520,7 +1091,41 @@
       "location": "Austin, TX",
       "datePosted": 1788868436,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788896414
+      "firstSeenAt": 1788896414,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a8ca88025fc4e7ae3db9adf",
+      "company": "Advanced Space",
+      "title": "2027 Machine Learning Summer Internship",
+      "url": "https://jobright.ai/jobs/info/6a8ca88025fc4e7ae3db9adf",
+      "location": "Westminster, CO",
+      "datePosted": 1788868344,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a8384d49b859b227766f77d",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
+      "url": "https://jobright.ai/jobs/info/6a8384d49b859b227766f77d",
+      "location": "Phoenix, AZ; Atlanta, GA",
+      "datePosted": 1788868000,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a839b0a2dbaf907b0769e25",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
+      "url": "https://jobright.ai/jobs/info/6a839b0a2dbaf907b0769e25",
+      "location": "New York, NY",
+      "datePosted": 1788867999,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa02efc500b01124c777310",
@@ -530,7 +1135,8 @@
       "location": "Holtsville, NY",
       "datePosted": 1788867803,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788900614
+      "firstSeenAt": 1788900614,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8dda18d34f700f87fd668b",
@@ -540,7 +1146,8 @@
       "location": "Kansas City, MO",
       "datePosted": 1788867326,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788897621
+      "firstSeenAt": 1788897621,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa05272500b01124c778417",
@@ -550,7 +1157,19 @@
       "location": "Cambridge, MA; San Francisco, CA",
       "datePosted": 1788866562,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788895219
+      "firstSeenAt": 1788895219,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa0083c3b5aa83237b0691b",
+      "company": "Cambium Assessment",
+      "title": "Software Engineer Intern \u2013 AI Applications",
+      "url": "https://jobright.ai/jobs/info/6aa0083c3b5aa83237b0691b",
+      "location": "United States",
+      "datePosted": 1788866184,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa044783b5aa83237b080bc",
@@ -590,7 +1209,8 @@
       "location": "Lakeland, FL",
       "datePosted": 1788864653,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788893250
+      "firstSeenAt": 1788893250,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa04ac73b5aa83237b082f1",
@@ -600,7 +1220,19 @@
       "location": "Rolling Meadows, IL",
       "datePosted": 1788864599,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788900614
+      "firstSeenAt": 1788900614,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a839b0a2dbaf907b0769e26",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ",
+      "url": "https://jobright.ai/jobs/info/6a839b0a2dbaf907b0769e26",
+      "location": "Phoenix, AZ",
+      "datePosted": 1788864503,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa049bdea127c3794696313",
@@ -610,7 +1242,30 @@
       "location": "Oklahoma City, OK",
       "datePosted": 1788864333,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788893250
+      "firstSeenAt": 1788893250,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a84214dd34f700f87fb74eb",
+      "company": "L3Harris",
+      "title": "Intern, Info Sec Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a84214dd34f700f87fb74eb",
+      "location": "Palm Bay, FL; Troutman, NC",
+      "datePosted": 1788863980,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a84c9152f4f0014cae22fa7",
+      "company": "L3Harris",
+      "title": "Intern, Info Security Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a84c9152f4f0014cae22fa7",
+      "location": "Greenville, TX",
+      "datePosted": 1788863980,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa0480edbc0e60e37e0ca2e",
@@ -640,7 +1295,8 @@
       "location": "Rolling Meadows, IL",
       "datePosted": 1788863706,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a910b65a198864866763b23",
@@ -650,7 +1306,8 @@
       "location": "Naperville, IL",
       "datePosted": 1788863604,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa04689a2266b538d22f5d8",
@@ -670,7 +1327,8 @@
       "location": "New York, NY",
       "datePosted": 1788863425,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa046043b5aa83237b08157",
@@ -680,7 +1338,19 @@
       "location": "San Francisco, CA",
       "datePosted": 1788863380,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa045c9500b01124c777f9d",
+      "company": "Gallup",
+      "title": "AI/ML Research Intern \u2014 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa045c9500b01124c777f9d",
+      "location": "San Francisco, CA",
+      "datePosted": 1788863321,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa04480a2266b538d22f4fa",
@@ -690,7 +1360,8 @@
       "location": "Rolling Meadows, IL",
       "datePosted": 1788862992,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a3f155178237a036d5e67c5",
@@ -700,7 +1371,19 @@
       "location": "White Plains, NY; New York, NY; Seattle, WA; Dallas, TX",
       "datePosted": 1788862861,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6aa0403bea127c3794695f36",
+      "company": "Syntiant Corp.",
+      "title": "Machine Learning Intern - KWS/AED",
+      "url": "https://jobright.ai/jobs/info/6aa0403bea127c3794695f36",
+      "location": "Redwood City, CA",
+      "datePosted": 1788862779,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa042995b2d5633ef3bd7fe",
@@ -730,7 +1413,8 @@
       "location": "Rolling Meadows, IL",
       "datePosted": 1788862420,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa04226500b01124c777dfc",
@@ -750,7 +1434,8 @@
       "location": "United States",
       "datePosted": 1788862380,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa042165b2d5633ef3bd7c0",
@@ -770,7 +1455,8 @@
       "location": "Rolling Meadows, IL",
       "datePosted": 1788862363,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788913221
+      "firstSeenAt": 1788913221,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa040b95b2d5633ef3bd6fd",
@@ -790,7 +1476,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788861955,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa03f17dbc0e60e37e0c5e4",
@@ -800,7 +1487,8 @@
       "location": "Rolling Meadows, IL",
       "datePosted": 1788861607,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa03e323b5aa83237b07cf0",
@@ -810,7 +1498,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788861378,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9f9291352f093fc756ea55",
@@ -830,7 +1519,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788861142,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa03cdc500b01124c777a37",
@@ -840,7 +1530,8 @@
       "location": "New York, NY",
       "datePosted": 1788861036,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa03b05a2266b538d22ee5e",
@@ -860,7 +1551,8 @@
       "location": "McLean, VA",
       "datePosted": 1788859453,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788888016
+      "firstSeenAt": 1788888016,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a95bc764c22023a079356e3",
@@ -890,7 +1582,8 @@
       "location": "Warrenton, VA",
       "datePosted": 1788858353,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788888620
+      "firstSeenAt": 1788888620,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa02ee4ea127c37946955ae",
@@ -930,7 +1623,8 @@
       "location": "Boston, MA",
       "datePosted": 1788857253,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788888620
+      "firstSeenAt": 1788888620,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa01efedbc0e60e37e0b84e",
@@ -950,7 +1644,8 @@
       "location": "Plano, TX; Teaneck, NJ",
       "datePosted": 1788856746,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788888016
+      "firstSeenAt": 1788888016,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa028a5ea127c37946953ec",
@@ -963,6 +1658,17 @@
       "firstSeenAt": 1788886216
     },
     {
+      "id": "newgrad-jobs:6a83846c9b859b227766f749",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
+      "url": "https://jobright.ai/jobs/info/6a83846c9b859b227766f749",
+      "location": "Phoenix, AZ",
+      "datePosted": 1788855747,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6aa027f7ea127c379469538c",
       "company": "Mayo Clinic",
       "title": "Software Engineer - Business Analysis and Integration",
@@ -970,7 +1676,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788855687,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788884422
+      "firstSeenAt": 1788884422,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa027eb5b2d5633ef3bcace",
@@ -980,7 +1687,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788855675,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788884422
+      "firstSeenAt": 1788884422,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa027e4a2266b538d22e6ff",
@@ -991,6 +1699,17 @@
       "datePosted": 1788855668,
       "source": "newgrad-jobs",
       "firstSeenAt": 1788884422
+    },
+    {
+      "id": "newgrad-jobs:6a9e2d3c68f82b4036738c8f",
+      "company": "IBM",
+      "title": "Intern Data Engineer 2027 \u2013 AI & Data Analytics",
+      "url": "https://jobright.ai/jobs/info/6a9e2d3c68f82b4036738c8f",
+      "location": "Chicago, IL",
+      "datePosted": 1788855415,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa025efea127c3794695312",
@@ -1030,7 +1749,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788855053,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788884422
+      "firstSeenAt": 1788884422,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa02579500b01124c77706f",
@@ -1040,7 +1760,8 @@
       "location": "Rochester, MN",
       "datePosted": 1788855049,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788884422
+      "firstSeenAt": 1788884422,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa025783b5aa83237b0721b",
@@ -1083,6 +1804,17 @@
       "firstSeenAt": 1788892222
     },
     {
+      "id": "newgrad-jobs:6aa01ea6500b01124c776e78",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6aa01ea6500b01124c776e78",
+      "location": "Seattle, WA",
+      "datePosted": 1788853302,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a4c0a6b5d7b097d2df3f2d2",
       "company": "Notion",
       "title": "Software Engineer, Early Career",
@@ -1091,6 +1823,28 @@
       "datePosted": 1788853262,
       "source": "newgrad-jobs",
       "firstSeenAt": 1788882617
+    },
+    {
+      "id": "newgrad-jobs:6a54ab62065af01f337ca855",
+      "company": "Cotiviti",
+      "title": "Intern - Generative AI Research Engineer",
+      "url": "https://jobright.ai/jobs/info/6a54ab62065af01f337ca855",
+      "location": "United States",
+      "datePosted": 1788852679,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6aa01b9a5b2d5633ef3bc703",
+      "company": "Cadence",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa01b9a5b2d5633ef3bc703",
+      "location": "United States",
+      "datePosted": 1788852522,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6aa01b005b2d5633ef3bc6e4",
@@ -1130,7 +1884,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA; Bay Area, California, United States",
       "datePosted": 1788851290,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788880592
+      "firstSeenAt": 1788880592,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a972301455eaf6a08c1ae3d",
@@ -1170,7 +1925,8 @@
       "location": "Mountain View, CA",
       "datePosted": 1788848422,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788877216
+      "firstSeenAt": 1788877216,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa0083d500b01124c77670c",
@@ -1180,7 +1936,8 @@
       "location": "New York, NY",
       "datePosted": 1788847565,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788877818
+      "firstSeenAt": 1788877818,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa0045f5b2d5633ef3bbff9",
@@ -1200,7 +1957,8 @@
       "location": "Reston, VA",
       "datePosted": 1788846349,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788879017
+      "firstSeenAt": 1788879017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6aa002b4dbc0e60e37e0af59",
@@ -1230,7 +1988,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788845365,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788874236
+      "firstSeenAt": 1788874236,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a678f55d0fb4c3df393d802",
@@ -1241,6 +2000,17 @@
       "datePosted": 1788845094,
       "source": "newgrad-jobs",
       "firstSeenAt": 1788873616
+    },
+    {
+      "id": "newgrad-jobs:6aa05b3adbc0e60e37e0d201",
+      "company": "Medpace",
+      "title": "Data Engineer Intern - Fall 2026",
+      "url": "https://jobright.ai/jobs/info/6aa05b3adbc0e60e37e0d201",
+      "location": "Cincinnati, OH",
+      "datePosted": 1788844620,
+      "source": "newgrad-jobs",
+      "season": "Fall 2026",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a1fe0534fe0383efa83fbd2",
@@ -1260,7 +2030,8 @@
       "location": "Sunnyvale, CA",
       "datePosted": 1788842808,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788879017
+      "firstSeenAt": 1788879017,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a677099d0fb4c3df393cd60",
@@ -1280,7 +2051,8 @@
       "location": "Vandenberg Space Force Base, CA",
       "datePosted": 1788840908,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788870618
+      "firstSeenAt": 1788870618,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9fee1036c44a0fd09b8ed1",
@@ -1290,7 +2062,8 @@
       "location": "Sunnyvale, CA; Bellevue, WA",
       "datePosted": 1788840864,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788870618
+      "firstSeenAt": 1788870618,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9fec6b5bf5fa48b83b7c1f",
@@ -1313,6 +2086,17 @@
       "firstSeenAt": 1788868216
     },
     {
+      "id": "newgrad-jobs:6a29044340ac8e32932a4da1",
+      "company": "TikTok",
+      "title": "Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a29044340ac8e32932a4da1",
+      "location": "San Jose, CA",
+      "datePosted": 1788839111,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a9fe66f5bf5fa48b83b7a9c",
       "company": "UST HealthProof",
       "title": "Junior Full Stack Developer (Data CoE)",
@@ -1321,6 +2105,50 @@
       "datePosted": 1788838911,
       "source": "newgrad-jobs",
       "firstSeenAt": 1788866416
+    },
+    {
+      "id": "newgrad-jobs:6a714fe9cb96192a36848660",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Local Service) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714fe9cb96192a36848660",
+      "location": "San Jose, CA",
+      "datePosted": 1788838769,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a79e1c267a1ad0bc53d03fa",
+      "company": "TikTok",
+      "title": "Data Engineer Intern (Monetization Data) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a79e1c267a1ad0bc53d03fa",
+      "location": "San Jose, CA",
+      "datePosted": 1788838765,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a886393cde3717f9e9b4ebd",
+      "company": "TikTok",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a886393cde3717f9e9b4ebd",
+      "location": "Seattle, WA",
+      "datePosted": 1788838601,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a886393cde3717f9e9b4ebe",
+      "company": "TikTok",
+      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a886393cde3717f9e9b4ebe",
+      "location": "San Jose, CA",
+      "datePosted": 1788838599,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a9fe41c5b2d5633ef3bb8fd",
@@ -1350,7 +2178,63 @@
       "location": "Mountain View, CA",
       "datePosted": 1788837697,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788866416
+      "firstSeenAt": 1788866416,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a88639ad34f700f87fc84b2",
+      "company": "TikTok",
+      "title": "Applied Machine Learning Production Engineer Graduate (AML-Production Engineer) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6a88639ad34f700f87fc84b2",
+      "location": "San Jose, CA",
+      "datePosted": 1788837633,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a84192ce459fa3baa85cf48",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a84192ce459fa3baa85cf48",
+      "location": "San Jose, CA",
+      "datePosted": 1788837349,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a700b37ad0fe2053dba0330",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a700b37ad0fe2053dba0330",
+      "location": "San Jose, CA",
+      "datePosted": 1788837320,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a8413b60b610f7a3d0e3ef7",
+      "company": "TikTok",
+      "title": "Research Engineer Intern, Agentic Systems & AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a8413b60b610f7a3d0e3ef7",
+      "location": "Seattle, WA",
+      "datePosted": 1788837297,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a30c45b43732c05812e3a45",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Recommendation Infrastructure, TikTok Video Social) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a30c45b43732c05812e3a45",
+      "location": "San Jose, CA",
+      "datePosted": 1788837293,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a50f294bf63b66c79977871",
@@ -1363,6 +2247,94 @@
       "firstSeenAt": 1788866416
     },
     {
+      "id": "newgrad-jobs:6a9fdf665b2d5633ef3bb82a",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Brand Ads) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a9fdf665b2d5633ef3bb82a",
+      "location": "San Jose, CA",
+      "datePosted": 1788837110,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a75b46f7b3417772ade4eee",
+      "company": "TikTok",
+      "title": "Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a75b46f7b3417772ade4eee",
+      "location": "San Jose, CA",
+      "datePosted": 1788837060,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a7006cead0fe2053dba02b6",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a7006cead0fe2053dba02b6",
+      "location": "San Jose, CA",
+      "datePosted": 1788837056,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a85c0ba4afae74a08340f7f",
+      "company": "TikTok",
+      "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a85c0ba4afae74a08340f7f",
+      "location": "San Jose, CA",
+      "datePosted": 1788837031,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a72f53cadfe134034cca8e0",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a72f53cadfe134034cca8e0",
+      "location": "Seattle, WA",
+      "datePosted": 1788837015,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a85c09acc81eb647e9ef079",
+      "company": "TikTok",
+      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a85c09acc81eb647e9ef079",
+      "location": "San Jose, CA",
+      "datePosted": 1788836983,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a89b50c25fc4e7ae3db3d7b",
+      "company": "TikTok",
+      "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a89b50c25fc4e7ae3db3d7b",
+      "location": "San Jose, CA",
+      "datePosted": 1788836976,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a8f1749f841e649a719099f",
+      "company": "TikTok",
+      "title": "Network Security Software Engineer Intern (Security Engineering) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6a8f1749f841e649a719099f",
+      "location": "San Jose, CA",
+      "datePosted": 1788836252,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a5ec528f3674a0545d2ae8f",
       "company": "Applied Systems",
       "title": "Associate Software Engineer / Software Engineer",
@@ -1373,6 +2345,28 @@
       "firstSeenAt": 1788866416
     },
     {
+      "id": "newgrad-jobs:6a82c7502dbaf907b0764d22",
+      "company": "TikTok",
+      "title": "Data Engineer Intern (Data Platform Global Live) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a82c7502dbaf907b0764d22",
+      "location": "San Jose, CA",
+      "datePosted": 1788836178,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a701a35160eda5948e8d48f",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a701a35160eda5948e8d48f",
+      "location": "Seattle, WA",
+      "datePosted": 1788835655,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a5ff99f33ef5c58b40014e0",
       "company": "UST",
       "title": "Associate Data Engineer",
@@ -1380,7 +2374,19 @@
       "location": "Frisco, TX; Seattle, WA",
       "datePosted": 1788835643,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788866416
+      "firstSeenAt": 1788866416,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a99922290a313642c650fe5",
+      "company": "Hilton",
+      "title": "2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)",
+      "url": "https://jobright.ai/jobs/info/6a99922290a313642c650fe5",
+      "location": "Memphis, TN; McLean, VA; Dallas, TX",
+      "datePosted": 1788835331,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a554c7a268af95237beaaa8",
@@ -1440,7 +2446,8 @@
       "location": "Vandenberg Space Force Base, CA",
       "datePosted": 1788829590,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788857415
+      "firstSeenAt": 1788857415,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7597766b9def3e9e1f87d0",
@@ -1450,7 +2457,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788828486,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788855616
+      "firstSeenAt": 1788855616,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9719b8246d697dcee035d5",
@@ -1480,7 +2488,8 @@
       "location": "Boise, ID",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788849615
+      "firstSeenAt": 1788849615,
+      "season": null
     },
     {
       "id": "simplify:61336981-7b78-4ab9-8bab-8b0acf82c912",
@@ -1490,7 +2499,8 @@
       "location": "Richardson, TX",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788862216
+      "firstSeenAt": 1788862216,
+      "season": "Summer 2027"
     },
     {
       "id": "simplify:e7f91d55-7af9-4814-886b-7cec1ce1222e",
@@ -1500,7 +2510,8 @@
       "location": "Roy, UT",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:f28ae9aa-51ea-4eed-9d3d-587981e3c6b3",
@@ -1510,7 +2521,8 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": "Fall 2027"
     },
     {
       "id": "simplify:107f6694-f8a2-45ff-bb58-e77552dc317c",
@@ -1520,7 +2532,8 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:ce4fe8a4-cdaa-4b4e-9502-a07e904fba4e",
@@ -1530,7 +2543,8 @@
       "location": "East Hartford, CT",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:d34bc10f-028e-49c4-be0a-bf61f2c747d6",
@@ -1540,7 +2554,8 @@
       "location": "McKinney, TX",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788909017
+      "firstSeenAt": 1788909017,
+      "season": null
     },
     {
       "id": "simplify:c57e2c6f-2938-4b78-bfba-117161231118",
@@ -1550,7 +2565,8 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788825600,
       "source": "aggregator",
-      "firstSeenAt": 1788910601
+      "firstSeenAt": 1788910601,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a5118c902522b5b722e7616",
@@ -1560,7 +2576,19 @@
       "location": "United States",
       "datePosted": 1788825248,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788854418
+      "firstSeenAt": 1788854418,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a9fa8b02c964816f65f0957",
+      "company": "Zions Bancorporation",
+      "title": "Intern- Information Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9fa8b02c964816f65f0957",
+      "location": "Midvale, UT",
+      "datePosted": 1788823104,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a9f9797f6ea0023582988fb",
@@ -1580,7 +2608,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Washington, DC; Los Angeles, CA; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788818708,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788847219
+      "firstSeenAt": 1788847219,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9f977668f82b403673d6c7",
@@ -1620,7 +2649,19 @@
       "location": "Richmond, VA",
       "datePosted": 1788818400,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a559a6c13cd7d29d5e32d4b",
+      "company": "Cohere",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6a559a6c13cd7d29d5e32d4b",
+      "location": "United States; Canada; United Kingdom",
+      "datePosted": 1788812818,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a989b9583fc633357632881",
@@ -1660,7 +2701,8 @@
       "location": "San Jose, CA",
       "datePosted": 1788811415,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9f74dca7ba386c5d675258",
@@ -1670,7 +2712,8 @@
       "location": "Chicago, IL; Peoria, IL; Dallas, TX",
       "datePosted": 1788809836,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788837051
+      "firstSeenAt": 1788837051,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9f71b82c964816f65f020c",
@@ -1680,7 +2723,8 @@
       "location": "Chicago, IL; Peoria, IL; Dallas, TX",
       "datePosted": 1788809032,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788837051
+      "firstSeenAt": 1788837051,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a552a674119652ff3863ceb",
@@ -1740,7 +2784,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788805055,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788833415
+      "firstSeenAt": 1788833415,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a577700efb06a45240da825",
@@ -1750,7 +2795,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788805050,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788833415
+      "firstSeenAt": 1788833415,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a976f7ef5337b2cf7321ef2",
@@ -1780,7 +2826,8 @@
       "location": "Richmond, VA",
       "datePosted": 1788800400,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788892222
+      "firstSeenAt": 1788892222,
+      "season": null
     },
     {
       "id": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
@@ -1790,7 +2837,8 @@
       "location": "Remote in USA",
       "datePosted": 1788799432,
       "source": "aggregator",
-      "firstSeenAt": 1788801015
+      "firstSeenAt": 1788801015,
+      "season": "Summer 2027"
     },
     {
       "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
@@ -1830,7 +2878,8 @@
       "location": "Ann Arbor, MI",
       "datePosted": 1788796639,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788825618
+      "firstSeenAt": 1788825618,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8cc2351d96e6541c8c2de0",
@@ -2000,7 +3049,8 @@
       "location": "San Jose, CA",
       "datePosted": 1788769693,
       "source": "aggregator",
-      "firstSeenAt": 1788772215
+      "firstSeenAt": 1788772215,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9ed2a7f6ea002358296a9c",
@@ -2023,6 +3073,17 @@
       "firstSeenAt": 1788796215
     },
     {
+      "id": "newgrad-jobs:6a9ec88568f82b403673b66c",
+      "company": "IBM",
+      "title": "Software Developer - Security - Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a9ec88568f82b403673b66c",
+      "location": "Yorktown Heights, NY",
+      "datePosted": 1788765717,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a585d799838a11e5d837aa2",
       "company": "Welo Data",
       "title": "Project Perseus | Speech & Voice AI Analyst - Portuguese (Portugal) Speakers",
@@ -2030,7 +3091,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788764865,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788792615
+      "firstSeenAt": 1788792615,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a0f500d83d714428981e885",
@@ -2090,7 +3152,8 @@
       "location": "Huntsville, AL; Sunnyvale, CA; Highlands Ranch, CO; Titusville, FL; King of Prussia, PA; Denver, CO",
       "datePosted": 1788761949,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788798617
+      "firstSeenAt": 1788798617,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8fca04a19886486675e7ba",
@@ -2200,7 +3263,8 @@
       "location": "New York, NY",
       "datePosted": 1788747340,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788776415
+      "firstSeenAt": 1788776415,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a44e68c824ecd73beef1a50",
@@ -2210,7 +3274,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Washington, DC; Los Angeles, CA; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788747188,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788775815
+      "firstSeenAt": 1788775815,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9e7f3d68f82b403673a299",
@@ -2323,6 +3388,50 @@
       "firstSeenAt": 1788756616
     },
     {
+      "id": "newgrad-jobs:6a9e269d75edfa11b471068b",
+      "company": "IBM",
+      "title": "Data Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e269d75edfa11b471068b",
+      "location": "Durham, NC",
+      "datePosted": 1788727473,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a9e2d3575edfa11b47106fd",
+      "company": "IBM",
+      "title": "Intern Data Engineer - AI & Analytics - 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e2d3575edfa11b47106fd",
+      "location": "Monroe, LA",
+      "datePosted": 1788727472,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a9e250b2c964816f65ebcda",
+      "company": "IBM",
+      "title": "Co-Op Data Engineer 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e250b2c964816f65ebcda",
+      "location": "State College, PA",
+      "datePosted": 1788727471,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
+      "id": "newgrad-jobs:6a9e2d492c964816f65ebd76",
+      "company": "IBM",
+      "title": "Intern Data Engineer - Data Services - 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e2d492c964816f65ebd76",
+      "location": "Monroe, LA",
+      "datePosted": 1788727471,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a508b25f4a6e7316717d44f",
       "company": "Welo Data",
       "title": "Project Perseus | Speech & Voice AI Analyst - French Speakers",
@@ -2330,7 +3439,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788727164,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788755419
+      "firstSeenAt": 1788755419,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a44e690f1ab552f90d077f9",
@@ -2340,7 +3450,8 @@
       "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788727108,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788755419
+      "firstSeenAt": 1788755419,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a591d083ac7627fe9ffd570",
@@ -2350,7 +3461,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788727050,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788755419
+      "firstSeenAt": 1788755419,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a46a7d1971cd25b06f8f97b",
@@ -2360,7 +3472,8 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788727050,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788755419
+      "firstSeenAt": 1788755419,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9e2be0dacf777321a90a9e",
@@ -2430,7 +3543,8 @@
       "location": "Dallas, TX",
       "datePosted": 1788725100,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9e29d827c94c3d5a1cb5f3",
@@ -2520,7 +3634,8 @@
       "location": "San Francisco, CA",
       "datePosted": 1788716132,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7f6f9fe51a1e18a2412892",
@@ -2630,7 +3745,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1788688190,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788826814
+      "firstSeenAt": 1788826814,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a422690d528ac2915f98436",
@@ -2650,7 +3766,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1788687159,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a534f5d8576ec69c014f57f",
@@ -2733,6 +3850,17 @@
       "source": "newgrad-jobs"
     },
     {
+      "id": "newgrad-jobs:6a2c15ccc260bb1b8ae146ed",
+      "company": "The Campbell's Company",
+      "title": "Data Engineer \u2013 Agentic AI & ML Ops (Co-op)",
+      "url": "https://jobright.ai/jobs/info/6a2c15ccc260bb1b8ae146ed",
+      "location": "Camden, NJ",
+      "datePosted": 1788677234,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a574e9cf7517b519ad59dad",
       "company": "Giga",
       "title": "Software Engineer I / II",
@@ -2790,7 +3918,8 @@
       "location": "Chicago, IL",
       "datePosted": 1788673656,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788792615
+      "firstSeenAt": 1788792615,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a91ea1bd18f75674827aae9",
@@ -2810,7 +3939,8 @@
       "location": "San Diego, CA",
       "datePosted": 1788669288,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9d447575edfa11b470f316",
@@ -2850,7 +3980,8 @@
       "location": "United States",
       "datePosted": 1788661837,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a0b2cf422d0d34036c8933a",
@@ -2900,7 +4031,19 @@
       "location": "San Francisco, CA; New York, NY",
       "datePosted": 1788648584,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a4ec9ca0ea38951a6ff47ce",
+      "company": "Jump Trading",
+      "title": "Campus Data Engineer (Intern)",
+      "url": "https://jobright.ai/jobs/info/6a4ec9ca0ea38951a6ff47ce",
+      "location": "Chicago, IL",
+      "datePosted": 1788620456,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a7e68a719ce4e6e9d932edc",
@@ -2910,7 +4053,8 @@
       "location": "San Francisco, CA",
       "datePosted": 1788613031,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9c492aa7ba386c5d66e2cb",
@@ -2920,7 +4064,19 @@
       "location": "Houston, TX",
       "datePosted": 1788602041,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a7f806a927c79391ad09e57",
+      "company": "Pegasystems",
+      "title": "Software Engineer Intern, Platform Security - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6a7f806a927c79391ad09e57",
+      "location": "Waltham, MA",
+      "datePosted": 1788590488,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a889281cde3717f9e9b5ef2",
@@ -2930,7 +4086,8 @@
       "location": "Minnetonka, MN",
       "datePosted": 1788585440,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:69b9cedb56973837413f5e12",
@@ -2940,7 +4097,8 @@
       "location": "Chicago, IL",
       "datePosted": 1788578179,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7f6404ad9ff00c26baded5",
@@ -2960,7 +4118,8 @@
       "location": "San Antonio, TX",
       "datePosted": 1788574723,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:9782344e-0072-4996-ae4d-b36ef27d13db",
@@ -2970,7 +4129,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788570474,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9b3c1b2cdc5958f53eb94f",
@@ -3030,7 +4190,8 @@
       "location": "Palo Alto, CA, Irvine, CA",
       "datePosted": 1788561638,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:58cf8fe8-1a98-42de-92d9-2a915d02739d",
@@ -3040,7 +4201,8 @@
       "location": "SF",
       "datePosted": 1788561090,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Summer 2027"
     },
     {
       "id": "simplify:334c123e-435a-4a0f-898f-671610d593e3",
@@ -3050,7 +4212,8 @@
       "location": "SF",
       "datePosted": 1788561090,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ace2a03a-1f53-4778-8e95-2ca42b7a7d5a",
@@ -3060,7 +4223,8 @@
       "location": "Lakewood, OH",
       "datePosted": 1788560154,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:affc493c-ddc6-42c1-8ae5-58b0dbdc17eb",
@@ -3070,7 +4234,8 @@
       "location": "Atlanta, GA",
       "datePosted": 1788559531,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a87d7dc4afae74a0834a286",
@@ -3080,7 +4245,8 @@
       "location": "Camden, NJ",
       "datePosted": 1788558255,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9b1ec71388387060596b21",
@@ -3143,6 +4309,17 @@
       "source": "newgrad-jobs"
     },
     {
+      "id": "newgrad-jobs:6a9860a483fc633357631306",
+      "company": "PepsiCo",
+      "title": "2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science",
+      "url": "https://jobright.ai/jobs/info/6a9860a483fc633357631306",
+      "location": "Plano, TX; Harrison, NY",
+      "datePosted": 1788533084,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
+    },
+    {
       "id": "newgrad-jobs:6a51d94402522b5b722ec6e4",
       "company": "Leidos",
       "title": "Software Engineer",
@@ -3150,7 +4327,8 @@
       "location": "Reston, VA",
       "datePosted": 1788531407,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:8c58bc92-e90a-4ee3-9ef4-9d72c536abde",
@@ -3160,7 +4338,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788531288,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9b076e2cdc5958f53ea817",
@@ -3171,6 +4350,17 @@
       "datePosted": 1788524360,
       "firstSeenAt": 1788753304,
       "source": "newgrad-jobs"
+    },
+    {
+      "id": "newgrad-jobs:6a9b149f2cdc5958f53eac5d",
+      "company": "CNH",
+      "title": "Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a9b149f2cdc5958f53eac5d",
+      "location": "Phoenix, AZ",
+      "datePosted": 1788523055,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a7e104f19ce4e6e9d931132",
@@ -3200,7 +4390,19 @@
       "location": "Hawthorne, CA",
       "datePosted": 1788505560,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a880d2525fc4e7ae3daf2d4",
+      "company": "TikTok",
+      "title": "Data Engineer Intern (E-commerce) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a880d2525fc4e7ae3daf2d4",
+      "location": "San Jose, CA",
+      "datePosted": 1788497423,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a3c53e1882f121f56a34599",
@@ -3210,7 +4412,8 @@
       "location": "Santa Monica, CA",
       "datePosted": 1788488968,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:d3f54d58-9f89-4689-b91d-f9e03013c3ca",
@@ -3220,7 +4423,8 @@
       "location": "San Mateo, CA",
       "datePosted": 1788486573,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Summer 2027"
     },
     {
       "id": "simplify:7f24593d-1433-4515-9bd7-2e99e1078d7d",
@@ -3230,7 +4434,8 @@
       "location": "Foster City, CA",
       "datePosted": 1788483939,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ea127849-c2ce-48a3-8ef5-8024831dc02e",
@@ -3240,7 +4445,8 @@
       "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
       "datePosted": 1788483835,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:66902dbd-a7fe-44a4-aa32-3d24e86e4d85",
@@ -3270,7 +4476,8 @@
       "location": "United States",
       "datePosted": 1788477010,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:ad475401-fac8-42ad-815f-aa1452425e5e",
@@ -3280,7 +4487,8 @@
       "location": "Melbourne, FL",
       "datePosted": 1788476702,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:1eaa74d7-37e2-43bf-8dd7-2532b39fd848",
@@ -3290,7 +4498,8 @@
       "location": "Melbourne, FL",
       "datePosted": 1788476700,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c1446912-2074-4a9b-a131-41d8d9c232cb",
@@ -3300,7 +4509,8 @@
       "location": "Manassas, VA",
       "datePosted": 1788474214,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:1215457c-e499-4e58-b72b-fb231b5eb754",
@@ -3310,7 +4520,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788473612,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:d6bbc3f2-149a-4cb2-9752-3bcd80011975",
@@ -3320,7 +4531,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788473498,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:596dd9f7-ec11-4d3b-99e8-bcce4bd4a605",
@@ -3330,7 +4542,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788473480,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:27f622fc-a5e9-4b35-bfb1-ac371473556a",
@@ -3349,7 +4562,8 @@
       "location": "Nashville, TN",
       "datePosted": 1788473065,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9aa56190a313642c655f8f",
@@ -3379,7 +4593,8 @@
       "location": "Herndon, VA",
       "datePosted": 1788462464,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a99c95213883870605905c9",
@@ -3389,7 +4604,8 @@
       "location": "United States",
       "datePosted": 1788459377,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a9a0fa6138838706059250a",
@@ -3419,7 +4635,8 @@
       "location": "United States",
       "datePosted": 1788451624,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a99ea1690a313642c653918",
@@ -3429,7 +4646,8 @@
       "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
       "datePosted": 1788450817,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a99bbeead752e2ad550187b",
@@ -3439,7 +4657,8 @@
       "location": "Marina del Rey, CA",
       "datePosted": 1788449223,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a99cec1040e5c3d07599055",
@@ -3449,7 +4668,8 @@
       "location": "United States",
       "datePosted": 1788448218,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a99e39e040e5c3d07599965",
@@ -3459,7 +4679,8 @@
       "location": "San Francisco, CA",
       "datePosted": 1788446744,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a98810183fc633357631dbb",
@@ -3469,7 +4690,8 @@
       "location": "Tampa, FL",
       "datePosted": 1788445750,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7608cf4817aa43070464d8",
@@ -3479,7 +4701,8 @@
       "location": "San Jose, CA",
       "datePosted": 1788435327,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7cb9bba346cb6c8d5efb0f",
@@ -3489,7 +4712,8 @@
       "location": "Dahlgren, VA",
       "datePosted": 1788434543,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:69ba0cac06c1ba00c54c2c35",
@@ -3500,6 +4724,17 @@
       "datePosted": 1788432471,
       "firstSeenAt": 1788753304,
       "source": "newgrad-jobs"
+    },
+    {
+      "id": "newgrad-jobs:6a870ed84afae74a08346503",
+      "company": "Allergan Aesthetics, an AbbVie Company",
+      "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+      "url": "https://jobright.ai/jobs/info/6a870ed84afae74a08346503",
+      "location": "United States",
+      "datePosted": 1788423845,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "simplify:cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31",
@@ -3538,7 +4773,8 @@
       "location": "Seal Beach, CA",
       "datePosted": 1788404423,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a97280c455eaf6a08c1afb1",
@@ -3558,7 +4794,8 @@
       "location": "Costa Mesa, CA",
       "datePosted": 1788402460,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:6e3c0adb-d5a0-4338-84f4-8952eff0c717",
@@ -3568,7 +4805,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402441,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:e4814955-4e90-400b-9335-a3ab04843a7b",
@@ -3578,7 +4816,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402297,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:4866cbcf-d67b-4afa-b4df-3d028fbae980",
@@ -3588,7 +4827,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402291,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:43841eec-e864-4974-9040-b082631ecd4c",
@@ -3598,7 +4838,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402226,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:de8cb307-6829-4afa-8e31-0fefe60818e7",
@@ -3608,7 +4849,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402199,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:bcc122ff-b844-41c1-a03b-769c7a646a87",
@@ -3627,7 +4869,8 @@
       "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT",
       "datePosted": 1788393600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:710f0fcc-6683-46b1-a355-2c71a6561e20",
@@ -3655,7 +4898,8 @@
       "location": "Rockville, MD",
       "datePosted": 1788393073,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a99ea0dad752e2ad5502cc0",
@@ -3665,7 +4909,19 @@
       "location": "Fayetteville, NC",
       "datePosted": 1788389585,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a989a3e83fc633357632819",
+      "company": "Hadrian",
+      "title": "Data Science/ Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a989a3e83fc633357632819",
+      "location": "Los Angeles, CA",
+      "datePosted": 1788385487,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a44e68a824ecd73beef1a4e",
@@ -3715,7 +4971,8 @@
       "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
       "datePosted": 1788363652,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a988d8f11f73b6462c8f4eb",
@@ -3735,7 +4992,8 @@
       "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
       "datePosted": 1788363652,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788754814
+      "firstSeenAt": 1788754814,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a44e68c824ecd73beef1a51",
@@ -3746,6 +5004,17 @@
       "datePosted": 1788362612,
       "firstSeenAt": 1788753304,
       "source": "newgrad-jobs"
+    },
+    {
+      "id": "newgrad-jobs:6a98601edef18223c854f179",
+      "company": "NISC",
+      "title": "Intern - Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6a98601edef18223c854f179",
+      "location": "Lake Saint Louis, MO; Cedar Rapids, IA; Mandan, ND",
+      "datePosted": 1788357589,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a987e5011f73b6462c8eeda",
@@ -3785,7 +5054,8 @@
       "location": "United States",
       "datePosted": 1788349455,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a66deb65c7e2d715ebb4262",
@@ -3795,7 +5065,19 @@
       "location": "San Jose, CA",
       "datePosted": 1788348651,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a85eafe4afae74a0834223c",
+      "company": "Specialisterne USA",
+      "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
+      "url": "https://jobright.ai/jobs/info/6a85eafe4afae74a0834223c",
+      "location": "Dallas, TX",
+      "datePosted": 1788347283,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "newgrad-jobs:6a986377c8ed473c5c763c71",
@@ -3825,7 +5107,8 @@
       "location": "Arlington, VA; Washington, DC; Washington, VA; Springfield, VA; Chantilly, VA; Tysons, VA",
       "datePosted": 1788334641,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7b9bb7ecf5194164fbf3b0",
@@ -3835,7 +5118,8 @@
       "location": "New York, NY",
       "datePosted": 1788322774,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:69fa70230b36ff03547627cf",
@@ -3845,7 +5129,8 @@
       "location": "Mountain View, CA; CA, United States",
       "datePosted": 1788321540,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a97281b455eaf6a08c1afb7",
@@ -3855,7 +5140,8 @@
       "location": "Dimondale, MI",
       "datePosted": 1788318179,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:a6080c21-a844-48d7-bcc9-8a240ddd19e1",
@@ -3865,7 +5151,8 @@
       "location": "NYC",
       "datePosted": 1788310288,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:84d2832d-f2be-4040-a7c8-6624a43f50fc",
@@ -3875,7 +5162,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788307255,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:cbbf5921-5565-4f8b-9599-adde9125fde0",
@@ -3885,7 +5173,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788307247,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:d6adfc0f-f025-42f9-9f5b-0a52306e7501",
@@ -3934,7 +5223,8 @@
       "location": "Austin, TX, Santa Clara, CA, Hillsboro, OR, Folsom, CA, Phoenix, AZ",
       "datePosted": 1788307200,
       "firstSeenAt": 1788753304,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:85dead42-3a0f-4fce-9c5d-2fbf16a36e75",
@@ -3944,7 +5234,8 @@
       "location": "Sunnyvale, CA",
       "datePosted": 1788302614,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:941463b7-732f-40bc-8932-531a347a7611",
@@ -3954,7 +5245,8 @@
       "location": "Greenville, TX",
       "datePosted": 1788302264,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:da1c3ea3-480d-4ae9-8ce8-d185b380f569",
@@ -3973,7 +5265,8 @@
       "location": "Wilmington, MA",
       "datePosted": 1788289307,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:63d3a410-73ec-4b27-b3d5-b089f0ef4dd8",
@@ -3983,7 +5276,8 @@
       "location": "Pittsfield, MA",
       "datePosted": 1788288975,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:dab6f443-d39a-4bca-acad-451c8b347549",
@@ -3993,7 +5287,8 @@
       "location": "Seattle, WA, SF",
       "datePosted": 1788288564,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:0acf515c-4b43-46d7-955e-8fe59617605f",
@@ -4003,7 +5298,8 @@
       "location": "Phoenix, AZ",
       "datePosted": 1788287453,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:0646eda8-3850-44d3-a96a-03c80fee29bd",
@@ -4013,7 +5309,8 @@
       "location": "Phoenix, AZ",
       "datePosted": 1788287453,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:042c934f-3d19-4615-bcc7-f10fe3a00bea",
@@ -4023,7 +5320,8 @@
       "location": "Phoenix, AZ",
       "datePosted": 1788287452,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:20b23b0e-0297-4641-ae32-6db0fea0aef5",
@@ -4042,7 +5340,8 @@
       "location": "Atlanta, GA",
       "datePosted": 1788287452,
       "firstSeenAt": 1788753304,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:5d90e270-511f-4fcd-9c2f-410f252cea8b",
@@ -4061,7 +5360,8 @@
       "location": "Mojave, CA",
       "datePosted": 1788282438,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:98ba4abf-1726-45e5-a03c-c711dfb81c84",
@@ -4071,7 +5371,8 @@
       "location": "San Jose, CA",
       "datePosted": 1788281002,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:66d274be-a1a8-4da4-92a0-2cbe5b7198e5",
@@ -4101,7 +5402,8 @@
       "location": "New York, NY",
       "datePosted": 1788271585,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8490437b33d72276256ca9",
@@ -4111,7 +5413,8 @@
       "location": "Chantilly, VA; Herndon, VA",
       "datePosted": 1788258086,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:7e914cf5-64bf-41bb-a680-71b7d7df80f6",
@@ -4121,7 +5424,8 @@
       "location": "Seattle, WA, SF, NYC",
       "datePosted": 1788254097,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:8b0c8a04-8a4d-4675-8ea4-401a27ae962f",
@@ -4131,7 +5435,19 @@
       "location": "Seattle, WA, SF, NYC",
       "datePosted": 1788254091,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
+    },
+    {
+      "id": "newgrad-jobs:6a967061d13b4819f39dbddd",
+      "company": "A Igreja de Jesus Cristo dos Santos dos \u00daltimos Dias",
+      "title": "2026 Data Engineer Technical Intern (Jan and May 2027 hires)",
+      "url": "https://jobright.ai/jobs/info/6a967061d13b4819f39dbddd",
+      "location": "Bluffdale, UT; Riverton, UT",
+      "datePosted": 1788252778,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1788927616
     },
     {
       "id": "simplify:21d6e4f1-9a13-4078-8012-b3f6e65719ac",
@@ -4141,7 +5457,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788240090,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:e4b5d322-ba7c-42ec-81ad-95d21c03ae0a",
@@ -4151,7 +5468,8 @@
       "location": "Phoenix, AZ",
       "datePosted": 1788238369,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:44e52bc7-ab61-4213-82c0-900b7ded7a15",
@@ -4161,7 +5479,8 @@
       "location": "Austin, TX",
       "datePosted": 1788224661,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a97198c455eaf6a08c1aa64",
@@ -4171,7 +5490,8 @@
       "location": "Fayetteville, NC",
       "datePosted": 1788223986,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a95fbe53843db0159908b58",
@@ -4181,7 +5501,8 @@
       "location": "Milwaukee, WI; Charlotte, NC; Tampa, FL; Boston, MA; Washington, DC; New York, NY; Seattle, WA; Austin, TX; San Francisco, CA; Kansas City, MO; Raleigh, NC; Miami, FL; Costa Mesa, CA; McLean, VA; San Diego, CA; Denver, CO; Philadelphia, PA; Houston, TX; Detroit, MI; Tempe, AZ; Atlanta, GA; Los Angeles, CA; Richmond, VA; Pittsburgh, PA; Morristown, NJ; Minneapolis, MN; San Jose, CA; Chicago, IL; Dallas, TX",
       "datePosted": 1788222864,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a27619d7d827633afffa5e1",
@@ -4191,7 +5512,8 @@
       "location": "Linthicum Heights, MD",
       "datePosted": 1788221379,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:613d2234-c5db-4237-b98d-1cca8bafc69d",
@@ -4201,7 +5523,8 @@
       "location": "Washington, LA, Longmont, CO, Denver, CO",
       "datePosted": 1788220800,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:9d58bfcb-a601-465f-97d9-209be8556e6d",
@@ -4211,7 +5534,8 @@
       "location": "Seattle, WA, LA, Denver, CO",
       "datePosted": 1788220800,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ffd397b2-8311-43d4-b913-acf01647f231",
@@ -4231,7 +5555,8 @@
       "location": "Boston, MA, Bellevue, WA",
       "datePosted": 1788220800,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b31a94f8-6785-4fba-b769-152531ae31f2",
@@ -4241,7 +5566,8 @@
       "location": "Seattle, WA",
       "datePosted": 1788220800,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:6ab593bb-5119-41d3-b37d-1135be139c79",
@@ -4269,7 +5595,8 @@
       "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
       "datePosted": 1788215832,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:1ca5e526-fbd6-44f5-bc8a-870e4dd5c496",
@@ -4279,7 +5606,8 @@
       "location": "SF",
       "datePosted": 1788215582,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
@@ -4289,7 +5617,8 @@
       "location": "Cary, NC",
       "datePosted": 1788214848,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a832c021081a745e970d52e",
@@ -4319,7 +5648,8 @@
       "location": "Arlington, VA",
       "datePosted": 1788160480,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:e42ba45d-b2f8-4b3e-82ea-a28a0016584f",
@@ -4329,7 +5659,8 @@
       "location": "O'Fallon, MO",
       "datePosted": 1788134400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
@@ -4339,7 +5670,8 @@
       "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
       "datePosted": 1788134400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b6296fe8-f9f1-44dd-94f1-590c275ba224",
@@ -4349,7 +5681,8 @@
       "location": "Aurora, CO",
       "datePosted": 1788134400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:9ff8def7-4cc8-4f59-aadb-ddec79771bfa",
@@ -4368,7 +5701,8 @@
       "location": "Seattle, WA, LA, Cape Canaveral, FL, Kent, WA, Denver, CO, Huntsville, AL, Van Horn, TX",
       "datePosted": 1788134400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:4bc5fed9-a7d9-4e52-95c2-02e5be647274",
@@ -4378,7 +5712,8 @@
       "location": "Seattle, WA, LA, Cape Canaveral, FL, Kent, WA, Denver, CO, Huntsville, AL",
       "datePosted": 1788134400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7608747b3417772ade6444",
@@ -4398,7 +5733,8 @@
       "location": "Quantico, VA",
       "datePosted": 1788043257,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a28ed8a7061b51a3a5f8a45",
@@ -4408,7 +5744,8 @@
       "location": "United States",
       "datePosted": 1787995758,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7645caa26ccc369f8348f3",
@@ -4418,7 +5755,8 @@
       "location": "San Mateo, CA",
       "datePosted": 1787986979,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:25daa740-61f1-4b2b-b16f-ef6798135d16",
@@ -4437,7 +5775,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787963507,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
@@ -4457,7 +5796,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1787909053,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a4fe27bfc327f422fef6df5",
@@ -4467,7 +5807,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1787907946,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8df60a25fc4e7ae3dbed79",
@@ -4477,7 +5818,8 @@
       "location": "Lincoln, NE",
       "datePosted": 1787883026,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:f72cae66-cd1d-43f5-899c-f4bf16fd4709",
@@ -4487,7 +5829,8 @@
       "location": "O'Fallon, MO",
       "datePosted": 1787875200,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:466b932d-3cf0-4669-af9f-fa3d799a5a18",
@@ -4497,7 +5840,8 @@
       "location": "O'Fallon, MO",
       "datePosted": 1787875200,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Summer 2027"
     },
     {
       "id": "simplify:c5bd1b3f-c4a1-4606-b687-e4afcc112363",
@@ -4507,7 +5851,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1787870608,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Summer 2027"
     },
     {
       "id": "simplify:615b2214-ffde-44ff-b1af-d08cea6fe865",
@@ -4517,7 +5862,8 @@
       "location": "Bellevue, WA",
       "datePosted": 1787870530,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Spring 2027"
     },
     {
       "id": "simplify:aac19326-02f3-415a-991f-d6a81d6a7ef9",
@@ -4527,7 +5873,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1787870474,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ae6480dc-19f7-41c1-93ec-fd10763825b1",
@@ -4537,7 +5884,8 @@
       "location": "Seattle, WA, Austin, TX, NYC, Cupertino, CA",
       "datePosted": 1787869272,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a90cab00bd89e205d24c5a8",
@@ -4547,7 +5895,8 @@
       "location": "Durham, NC",
       "datePosted": 1787848768,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:69813a687f40342e15da2d61",
@@ -4557,7 +5906,8 @@
       "location": "United States; Washington, DC",
       "datePosted": 1787810846,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a50ff34bf63b66c79977f10",
@@ -4577,7 +5927,8 @@
       "location": "Mountain View, CA",
       "datePosted": 1787801235,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:18c2c157-bced-43b1-9b2e-b9718a794559",
@@ -4587,7 +5938,8 @@
       "location": "Colorado Springs, CO",
       "datePosted": 1787795948,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:6832fd60-4dd3-44e2-a1a5-1e80106a41a1",
@@ -4597,7 +5949,8 @@
       "location": "Seattle, WA",
       "datePosted": 1787790979,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:aa978fcf-172b-4c86-9b7b-31d9a39a6d8a",
@@ -4617,7 +5970,8 @@
       "location": "Cupertino, CA",
       "datePosted": 1787785871,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ad7fc6cf-4649-4523-8f4a-2b113297ea41",
@@ -4636,7 +5990,8 @@
       "location": "Denver, CO; Long Beach, CA",
       "datePosted": 1787776749,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:a96f8f9b-926d-483b-ba4f-ab46b0e78ac2",
@@ -4646,7 +6001,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1787772317,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:cb4c69f2-62ef-46ff-b70a-352ab1e61af2",
@@ -4656,7 +6012,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1787772316,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:0ebaa63f-d5e3-410a-82b7-0234eb9a8e1a",
@@ -4666,7 +6023,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1787772314,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:6f67b1f9-a488-41fb-81ab-1c90fbd557d4",
@@ -4676,7 +6034,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1787772312,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:708de150-b11f-4875-88c4-d73fd53f2cac",
@@ -4686,7 +6045,8 @@
       "location": "Scottsdale, AZ",
       "datePosted": 1787752072,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8882d54afae74a0834c163",
@@ -4696,7 +6056,8 @@
       "location": "Smithfield, RI",
       "datePosted": 1787750492,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:76570b32-69dc-4557-ad0d-dfd2480f1605",
@@ -4706,7 +6067,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787704451,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:f3037d73-79f8-4a62-8699-7aa72f598e50",
@@ -4716,7 +6078,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787704449,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:014a66bd-015e-44a4-9b1a-32d3b69c73ca",
@@ -4726,7 +6089,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787704445,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a833cae3eeac101cfa9e7a6",
@@ -4736,7 +6100,8 @@
       "location": "Bridgewater, NJ; Jersey City, NJ",
       "datePosted": 1787703072,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a833cf81081a745e970de4c",
@@ -4746,7 +6111,8 @@
       "location": "Bridgewater, NJ; Jersey City, NJ",
       "datePosted": 1787703072,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:fb111552-e548-480f-9cff-4c13c1f67d69",
@@ -4756,7 +6122,8 @@
       "location": "Linthicum Heights, MD",
       "datePosted": 1787702400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:5dc175a4-02e4-4a5c-a8b7-054139db1ef9",
@@ -4766,7 +6133,8 @@
       "location": "San Mateo, CA",
       "datePosted": 1787681646,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:d16387c0-00df-452f-95bb-dd8aab25a372",
@@ -4776,7 +6144,8 @@
       "location": "San Mateo, CA",
       "datePosted": 1787681644,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:20898b37-1e46-4759-b318-1a51ae4d1200",
@@ -4786,7 +6155,8 @@
       "location": "San Mateo, CA",
       "datePosted": 1787681643,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:aad7d68a-e1e3-410b-ac3f-9c6214e51786",
@@ -4796,7 +6166,8 @@
       "location": "San Mateo, CA",
       "datePosted": 1787681642,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:27ec0955-4e9f-417f-b354-3581a4623c59",
@@ -4806,7 +6177,8 @@
       "location": "San Mateo, CA",
       "datePosted": 1787681641,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8dbe8dd34f700f87fd593c",
@@ -4816,7 +6188,8 @@
       "location": "Seattle, WA",
       "datePosted": 1787677316,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8dc84525fc4e7ae3dbdc87",
@@ -4826,7 +6199,8 @@
       "location": "New York, NY",
       "datePosted": 1787670322,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8dff92581f2d7bfdfea709",
@@ -4846,7 +6220,8 @@
       "location": "New York, NY",
       "datePosted": 1787656144,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8dca5a47679c68bf5e4c58",
@@ -4856,7 +6231,8 @@
       "location": "Redmond, WA",
       "datePosted": 1787652074,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8dc331581f2d7bfdfe8d97",
@@ -4876,7 +6252,8 @@
       "location": "San Francisco, CA; New York, NY",
       "datePosted": 1787648868,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a70cd86e2b7476e7b20b02b",
@@ -4886,7 +6263,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1787646302,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a712e37e2b7476e7b20d3e5",
@@ -4896,7 +6274,8 @@
       "location": "Evanston, IL",
       "datePosted": 1787634716,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a550bec268af95237be8d61",
@@ -4906,7 +6285,8 @@
       "location": "Plano, TX",
       "datePosted": 1787633497,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:b798780f-4009-488b-ab0c-948146a7a0ca",
@@ -4916,7 +6296,8 @@
       "location": "Redmond, WA, Sunnyvale, CA",
       "datePosted": 1787529600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b948ef8c-99af-4850-940a-ca3b8506efb3",
@@ -4936,7 +6317,8 @@
       "location": "Cincinnati, OH",
       "datePosted": 1787519008,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a8747e3d34f700f87fc480a",
@@ -4946,7 +6328,8 @@
       "location": "Mountain View, CA",
       "datePosted": 1787483706,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:d2c3fc29-c4fe-407d-aa3e-5cd9f793742f",
@@ -4956,7 +6339,8 @@
       "location": "South SF",
       "datePosted": 1787351562,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:2af5ac17-a498-44a7-829b-c3147a8a150b",
@@ -4966,7 +6350,8 @@
       "location": "Manassas, VA",
       "datePosted": 1787350486,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:5ccced66-9142-4b34-b707-ac2de7ec911c",
@@ -4976,7 +6361,8 @@
       "location": "Pittsfield, MA",
       "datePosted": 1787334524,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ab806a40-3173-438c-b929-7cb4e21780ed",
@@ -4986,7 +6372,8 @@
       "location": "San Francisco, CA, New York, NY",
       "datePosted": 1787327703,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c045a1de-0845-4fb4-8d88-73b2d41f0ca4",
@@ -4996,7 +6383,8 @@
       "location": "Bellevue, Washington, Mountain View, California, San Francisco, California",
       "datePosted": 1787327675,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:4ac6a461-c589-4244-b5f7-7f6ba22667bb",
@@ -5006,7 +6394,8 @@
       "location": "Foster City, CA",
       "datePosted": 1787327039,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:10650a14-859e-42bd-9fa4-ac96e0758dbf",
@@ -5016,7 +6405,8 @@
       "location": "Santa Clara, CA, San Jose, CA",
       "datePosted": 1787326915,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:f1fb259b-d4f0-4533-bff6-ab51a408a4db",
@@ -5026,7 +6416,8 @@
       "location": "Austin, TX, Boxborough, MA, Rochester, NY, Fort Collins, CO, Longmont, CO, Fishkill, NY",
       "datePosted": 1787326911,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:0a47953e-2eb5-47d3-9a42-056ae1863d31",
@@ -5036,7 +6427,8 @@
       "location": "New York, NY",
       "datePosted": 1787326901,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:5023bac8-bf1b-4d54-9b1a-de70b35bf0f6",
@@ -5046,7 +6438,8 @@
       "location": "Miami, FL",
       "datePosted": 1787326787,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:23aee8ac-1ab5-4a85-a254-c28db1d84325",
@@ -5056,7 +6449,8 @@
       "location": "Phoenix, AZ",
       "datePosted": 1787326688,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:1ce4df84-c0d1-4792-ba81-56d45a7bc515",
@@ -5066,7 +6460,8 @@
       "location": "New York, NY",
       "datePosted": 1787326685,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:9e5c3ecf-33a5-4ae3-9656-913717276941",
@@ -5076,7 +6471,8 @@
       "location": "Phoenix, AZ",
       "datePosted": 1787326660,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a769c9ea26ccc369f835cc0",
@@ -5096,7 +6492,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787305806,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a6b5c22acb0a61f9dbc055a",
@@ -5106,7 +6503,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1787304797,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a54f222f2c46727285eec56",
@@ -5116,7 +6514,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1787303005,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:1a0df397-2083-456f-9ecb-137eec7603ef",
@@ -5126,7 +6525,8 @@
       "location": "SF, Bellevue, WA, Mountain View, CA",
       "datePosted": 1787293913,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:2057d1a3-289b-49ae-8328-fa3527c533c5",
@@ -5145,7 +6545,8 @@
       "location": "Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA",
       "datePosted": 1787293338,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d",
@@ -5155,7 +6556,8 @@
       "location": "San Jose, CA, Santa Clara, CA",
       "datePosted": 1787293338,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:646c1eeb-a6b8-40f6-95c7-581780504d2e",
@@ -5174,7 +6576,8 @@
       "location": "San Jose, CA, Santa Clara, CA",
       "datePosted": 1787293338,
       "firstSeenAt": 1788753304,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ec03908e-3e83-4c51-adc1-4f9414e3faef",
@@ -5193,7 +6596,8 @@
       "location": "San Diego, CA",
       "datePosted": 1787275258,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:162be72f-9782-48cc-94af-9e3dcbf2c8de",
@@ -5203,7 +6607,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787274966,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
@@ -5213,7 +6618,8 @@
       "location": "Westlake, TX, Durham, NC, Merrimack, NH",
       "datePosted": 1787270400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:1b670e5e-9edc-4255-93f8-5fdac2fb70ac",
@@ -5223,7 +6629,8 @@
       "location": "Foster City, CA",
       "datePosted": 1787263770,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
@@ -5233,7 +6640,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1787215703,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a871a6ae8b6601d12901a7f",
@@ -5243,7 +6651,8 @@
       "location": "Fort Collins, CO",
       "datePosted": 1787213818,
       "firstSeenAt": 1788753304,
-      "source": "newgrad-jobs"
+      "source": "newgrad-jobs",
+      "season": null
     },
     {
       "id": "simplify:f9783cfd-0933-41da-8102-1c15ae7d9c3c",
@@ -5253,7 +6662,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787190347,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:dcab0a63-0790-4990-ad6c-517c42b6436b",
@@ -5263,7 +6673,8 @@
       "location": "Seattle, WA",
       "datePosted": 1787190347,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c2b2c451-d750-4afe-a76b-18cec45fff86",
@@ -5273,7 +6684,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787190346,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:cbf7d7ce-dde5-4b9b-a5e3-9663654dbc2e",
@@ -5283,7 +6695,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787190346,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
@@ -5293,7 +6706,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787190346,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:bc9d071a-1dae-48fc-a18e-293c48a4ccb0",
@@ -5303,7 +6717,8 @@
       "location": "Cary, NC",
       "datePosted": 1787190052,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
@@ -5313,7 +6728,8 @@
       "location": "Bala Cynwyd, PA",
       "datePosted": 1787177673,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:20d13b00-29e6-46f7-a36c-1b045a33bc61",
@@ -5323,7 +6739,8 @@
       "location": "Hawthorne, CA",
       "datePosted": 1787172589,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:01e96f8b-3039-4c34-807c-eb95ca76fd52",
@@ -5333,7 +6750,8 @@
       "location": "NYC",
       "datePosted": 1787172199,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7a198d67a1ad0bc53d18eb",
@@ -5343,7 +6761,8 @@
       "location": "San Antonio, TX; Beavercreek, OH; Houston, TX; Charlotte, NC; Huntsville, AL; Atlanta, GA",
       "datePosted": 1787158800,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788754814
+      "firstSeenAt": 1788754814,
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a84ba10e459fa3baa860433",
@@ -5353,7 +6772,8 @@
       "location": "Bellevue, WA",
       "datePosted": 1787142361,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
     },
     {
       "id": "simplify:dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
@@ -5363,7 +6783,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787104955,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c54797bf-2ee6-4b31-a8dd-c4cdbb8e5254",
@@ -5382,7 +6803,8 @@
       "location": "Menlo Park, CA",
       "datePosted": 1787104797,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:62751ae8-bd05-4fa8-8629-d50f034fcc04",
@@ -5392,7 +6814,8 @@
       "location": "Fort Collins, CO, Broomfield, CO",
       "datePosted": 1787103087,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b59fa048-6dd0-4a50-af24-e4c0fdd2693c",
@@ -5402,7 +6825,8 @@
       "location": "Fort Collins, CO, Broomfield, CO",
       "datePosted": 1787103085,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:20a58aca-229f-4e97-b6ae-6ffb0759e594",
@@ -5412,7 +6836,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787102089,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
@@ -5422,7 +6847,8 @@
       "location": "Santa Clara, CA",
       "datePosted": 1787097600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:bb48b7b8-29e9-4f8f-8817-54e325180735",
@@ -5432,7 +6858,8 @@
       "location": "Santa Clara, CA",
       "datePosted": 1787097600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
@@ -5452,7 +6879,8 @@
       "location": "Canada, Santa Clara, CA",
       "datePosted": 1787097600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:3affcaac-d7f9-45d1-8139-19defc762e13",
@@ -5462,7 +6890,8 @@
       "location": "Santa Clara, CA",
       "datePosted": 1787097600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:a0cb4ae7-f3b0-46e6-837b-2e442908bf9b",
@@ -5482,7 +6911,8 @@
       "location": "Long Beach, CA",
       "datePosted": 1787092614,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "newgrad-jobs:6a7a32d5ab1385611f8fdd4e",
@@ -5492,7 +6922,8 @@
       "location": "Rifle, CO; Grand Junction, CO; Denver, CO",
       "datePosted": 1787082378,
       "source": "newgrad-jobs",
-      "firstSeenAt": 1788905416
+      "firstSeenAt": 1788905416,
+      "season": null
     },
     {
       "id": "simplify:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
@@ -5502,7 +6933,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787044952,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:5fef5ebc-9956-4edd-8a29-1eee01522d58",
@@ -5512,7 +6944,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787044949,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c8239540-af84-491d-8907-13b4bb623874",
@@ -5522,7 +6955,8 @@
       "location": "Palm Bay, FL",
       "datePosted": 1787041247,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
@@ -5532,7 +6966,8 @@
       "location": "Cambridge, MA",
       "datePosted": 1787011200,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:60c7c83c-4da3-419f-b94d-37706d65f534",
@@ -5542,7 +6977,8 @@
       "location": "NYC",
       "datePosted": 1787006123,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:63a29ab9-6ce2-4acf-982b-ed23f2035ab4",
@@ -5552,7 +6988,8 @@
       "location": "Atlanta, GA",
       "datePosted": 1787004748,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:9d9a6729-76a5-4fb4-b71f-ea04e053c877",
@@ -5562,7 +6999,8 @@
       "location": "San Jose, CA",
       "datePosted": 1787004689,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:057837b7-3fc8-4359-a8b2-1a63802d4a6e",
@@ -5572,7 +7010,8 @@
       "location": "NYC",
       "datePosted": 1787004631,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:3f62999c-13f9-4d85-b98b-66660fd47199",
@@ -5582,7 +7021,8 @@
       "location": "Charlotte, NC",
       "datePosted": 1787004631,
       "firstSeenAt": 1788753304,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:47fe2157-ddd3-4233-87d7-cf96058a286d",
@@ -5592,7 +7032,8 @@
       "location": "Boston, MA, NYC",
       "datePosted": 1786977339,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:a4647510-ce85-43c7-af8c-50d890fbd299",
@@ -5602,7 +7043,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786972915,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:61daacb8-5db1-4ec7-8473-706c85ee08f5",
@@ -5612,7 +7054,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786972911,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:e95cee0e-a2ed-44d1-9017-9befd82e1561",
@@ -5622,7 +7065,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786972909,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:9831795d-d949-4a7a-87dd-f11aad5dc0c8",
@@ -5641,7 +7085,8 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1786924800,
       "source": "aggregator",
-      "firstSeenAt": 1788869418
+      "firstSeenAt": 1788869418,
+      "season": null
     },
     {
       "id": "simplify:4ac72dac-062c-4ad9-94fb-8bd0961f1d95",
@@ -5651,7 +7096,8 @@
       "location": "SF",
       "datePosted": 1786754511,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:c61b3999-cfc9-4184-8e3e-3a21a00ebcef",
@@ -5661,7 +7107,8 @@
       "location": "SF, NYC",
       "datePosted": 1786754510,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Winter 2027"
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
@@ -5671,7 +7118,8 @@
       "location": "SF, NYC",
       "datePosted": 1786754510,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Summer 2027"
     },
     {
       "id": "simplify:24b848e7-18bc-4eab-b684-9d352141cbdd",
@@ -5681,7 +7129,8 @@
       "location": "Chicago, IL",
       "datePosted": 1786754507,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:e5f41de9-f6f5-454c-b80a-c5df9b9e417a",
@@ -5700,7 +7149,8 @@
       "location": "Sunnyvale, CA",
       "datePosted": 1786754501,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:f271bfa3-e723-416b-aad4-0a6cf6f4f19e",
@@ -5710,7 +7160,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786754411,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ee8a3af2-214e-482e-9a90-3dd327c6bdf1",
@@ -5720,7 +7171,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786754410,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:0e79e8bc-db11-456f-97e4-54fea42c6715",
@@ -5730,7 +7182,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1786745899,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ee6ad71b-9c92-4578-a0ef-9e90fab6cc97",
@@ -5740,7 +7193,8 @@
       "location": "Redmond, WA",
       "datePosted": 1786745896,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:7378026f-0707-48bb-8570-ac926d5ca53f",
@@ -5750,7 +7204,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786745320,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:0acd3302-db9b-4fb1-9c06-35483b4569d3",
@@ -5769,7 +7224,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786699870,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:714db6c7-2c31-4e99-a0b1-4968cf3e0c58",
@@ -5797,7 +7253,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786698610,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:883f115b-b0ad-4eae-8a80-2bbf523964d4",
@@ -5816,7 +7273,8 @@
       "location": "Westlake, TX, Durham, NC, Merrimack, NH",
       "datePosted": 1786665600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:0cdf7557-d561-4d9a-ae10-243323bde8c4",
@@ -5826,7 +7284,8 @@
       "location": "Westlake, TX, Durham, NC, Merrimack, NH",
       "datePosted": 1786665600,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:823dc91a-f895-469a-b516-b3be2e1894e7",
@@ -5836,7 +7295,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786612220,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:495ef837-6877-48bd-9606-a506661f9f5c",
@@ -5846,7 +7306,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786612218,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:31b6c7b2-864a-4492-8fdc-1e1d94a23ce1",
@@ -5856,7 +7317,8 @@
       "location": "Cary, NC",
       "datePosted": 1786584506,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:8f0f4a4f-19f8-4ae3-8cb4-d69de28aefba",
@@ -5866,7 +7328,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786584313,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
@@ -5876,7 +7339,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786583338,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:82b0f083-f346-4f10-91bf-8d21a2b88675",
@@ -5886,7 +7350,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786583315,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:a98c0a06-306e-4812-a351-9c4c42220854",
@@ -5896,7 +7361,8 @@
       "location": "Wilmington, DE",
       "datePosted": 1786579200,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ffeca018-6c17-4e6a-8535-e22d9b7ae551",
@@ -5906,7 +7372,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786574608,
       "firstSeenAt": 1788753304,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:2841155f-a6b5-417e-850c-c1fc194c2d3c",
@@ -5916,7 +7383,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786572523,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:fe0776af-83c2-4cf6-8991-f8436b19be7e",
@@ -5926,7 +7394,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786572513,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:ac849011-1197-4917-aa7b-e4870ced33fa",
@@ -5936,7 +7405,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786572509,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:6eee6f4b-bc6f-4aab-87e5-c10dbbfed41a",
@@ -5946,7 +7416,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786572509,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:cbc9cae5-131c-4da5-9664-90601d74f6de",
@@ -5956,7 +7427,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786545323,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:4ec8e592-f297-479a-ab56-d80abf24fa27",
@@ -5966,7 +7438,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786545122,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:a09f224d-f684-4fb4-915b-6dbc5f486570",
@@ -5976,7 +7449,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786545121,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:d18e7a7d-54ff-4946-bca8-1bdb2a671a6f",
@@ -5986,7 +7460,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786545102,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b7fadd8a-1f88-4b03-9fa5-8befef1a3a26",
@@ -5996,7 +7471,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786545102,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
@@ -6006,7 +7482,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1786505690,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:511e7c10-e092-4a5a-8187-fe5563536b99",
@@ -6016,7 +7493,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786498242,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:d97157b9-8f0c-4cfb-be47-a801be8548ae",
@@ -6026,7 +7504,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786498238,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:47db7b74-b29c-4098-9e87-68af93ab3843",
@@ -6036,7 +7515,8 @@
       "location": "Melbourne, FL",
       "datePosted": 1786492800,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:300bffa5-8c04-495e-a2c8-6487f0ae85ec",
@@ -6046,7 +7526,8 @@
       "location": "Foster City, CA",
       "datePosted": 1786486026,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
@@ -6056,7 +7537,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786468734,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:66d624a4-bf98-4f02-b127-38342b345cff",
@@ -6066,7 +7548,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786468732,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:1bf4a67e-16ac-4465-bb86-b325834f6ac1",
@@ -6076,7 +7559,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786468731,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:73cef19e-ced7-497b-bf62-388cb64b1801",
@@ -6086,7 +7570,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786468730,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:3d753fc3-2bd4-4933-88e0-f2500926ed8b",
@@ -6096,7 +7581,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786468730,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:06fa48a4-38e1-4ac5-9534-ba1c6702b680",
@@ -6106,7 +7592,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1786428722,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:2d12bca6-cc8c-4e3f-877e-0219f82a069b",
@@ -6116,7 +7603,8 @@
       "location": "Seattle, WA, LA, Florida, Longmont, CO, Arlington County, Arlington, VA, Reston, VA, Denver, CO, Huntsville, AL, Van Horn, TX",
       "datePosted": 1786406400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b62dcf53-f9ca-48c0-aeea-39de27c89b8f",
@@ -6126,7 +7614,8 @@
       "location": "Seattle, WA, SF, San Jose, CA, NYC",
       "datePosted": 1786406400,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:de926b0a-99e7-4dbd-94cd-334ec565be9f",
@@ -6136,7 +7625,8 @@
       "location": "NYC",
       "datePosted": 1786401263,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:10e605f7-ddf1-4da3-81d0-198db01cd0b8",
@@ -6146,7 +7636,8 @@
       "location": "SF, NYC",
       "datePosted": 1786400910,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": "Winter 2027"
     },
     {
       "id": "simplify:6ecd2227-64fc-4d77-99bb-158081023302",
@@ -6156,7 +7647,8 @@
       "location": "Austin, TX",
       "datePosted": 1786400464,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:155f6df6-7cca-471e-8fb1-e8318faa6845",
@@ -6166,7 +7658,8 @@
       "location": "Palo Alto, CA",
       "datePosted": 1786399997,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:b45813fe-2ef0-4d2a-8254-1b090c8f722f",
@@ -6176,7 +7669,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786388391,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
@@ -6186,7 +7680,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786388388,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:10aab0a0-09f3-44a8-990e-a5b8db3c8da8",
@@ -6196,7 +7691,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786388387,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:2edede57-7aef-4b3c-bf5a-75457e023318",
@@ -6206,7 +7702,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786388382,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:e24c2017-99ff-4c15-9636-3246335193a8",
@@ -6216,7 +7713,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786388381,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:d1768aee-f240-4353-b609-278b04785c95",
@@ -6226,7 +7724,8 @@
       "location": "Seattle, WA",
       "datePosted": 1786371587,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     },
     {
       "id": "simplify:2851e500-7a2b-4e96-a2fa-681730e8d48e",
@@ -6245,7 +7744,8 @@
       "location": "San Jose, CA",
       "datePosted": 1786371585,
       "firstSeenAt": 1788616820,
-      "source": "aggregator"
+      "source": "aggregator",
+      "season": null
     }
   ]
 }

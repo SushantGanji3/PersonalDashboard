@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T04:10:16Z",
-  "totalOpen": 986,
-  "totalNewgrad": 166,
+  "generatedAt": "2026-09-09T04:20:16Z",
+  "totalOpen": 1088,
+  "totalNewgrad": 268,
   "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,7 @@
       "location": "SF",
       "datePosted": 1788916882,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -23,6 +24,7 @@
       "location": "SF",
       "datePosted": 1788916844,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -33,6 +35,7 @@
       "location": "SF",
       "datePosted": 1788906760,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -43,6 +46,7 @@
       "location": "Houston, TX",
       "datePosted": 1788906536,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -53,6 +57,7 @@
       "location": "NYC",
       "datePosted": 1788906532,
       "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -63,6 +68,7 @@
       "location": "Hawthorne, CA",
       "datePosted": 1788906531,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -73,6 +79,7 @@
       "location": "Pittsfield, MA",
       "datePosted": 1788906152,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -83,6 +90,7 @@
       "location": "National City, CA",
       "datePosted": 1788906152,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -93,6 +101,7 @@
       "location": "Pittsfield, MA",
       "datePosted": 1788906149,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -103,6 +112,7 @@
       "location": "Boston, MA, NYC",
       "datePosted": 1788905360,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -113,6 +123,7 @@
       "location": "SF",
       "datePosted": 1788905178,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -123,7 +134,30 @@
       "location": "SF",
       "datePosted": 1788905174,
       "source": "aggregator",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9f14ad68f82b403673c2e0",
+      "company": "Dropbox",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9f14ad68f82b403673c2e0",
+      "location": "United States",
+      "datePosted": 1788886550,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa06e845b2d5633ef3be929",
+      "company": "Eudia",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa06e845b2d5633ef3be929",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788886099,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a978c11e4e60e4b8da5e61f",
@@ -133,6 +167,7 @@
       "location": "Tampa, FL",
       "datePosted": 1788885916,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -143,7 +178,41 @@
       "location": "Dallas, TX",
       "datePosted": 1788885916,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a59eafa856af468ab005b0b",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026",
+      "url": "https://jobright.ai/jobs/info/6a59eafa856af468ab005b0b",
+      "location": "Palo Alto, CA; Irvine, CA",
+      "datePosted": 1788885916,
+      "source": "newgrad-jobs",
+      "season": "Summer 2026",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a58e71fc8e3a473cb8a3a94",
+      "company": "Rivian",
+      "title": "Software Engineering Intern, Vehicle Controls - Summer 2026",
+      "url": "https://jobright.ai/jobs/info/6a58e71fc8e3a473cb8a3a94",
+      "location": "Palo Alto, CA; Irvine, CA",
+      "datePosted": 1788885668,
+      "source": "newgrad-jobs",
+      "season": "Summer 2026",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9b74e8d5ff1f3f1c39f244",
+      "company": "Tesla",
+      "title": "Internship, Data Engineer, Cell Engineering (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9b74e8d5ff1f3f1c39f244",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788885603,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
@@ -153,6 +222,7 @@
       "location": "Ashburn, VA",
       "datePosted": 1788885436,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -163,7 +233,30 @@
       "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1788885419,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa09b4bdbc0e60e37e0eb77",
+      "company": "Leonardo DRS",
+      "title": "2027 Summer - Software Engineering Intern - Cypress CA",
+      "url": "https://jobright.ai/jobs/info/6aa09b4bdbc0e60e37e0eb77",
+      "location": "Cypress, CA",
+      "datePosted": 1788885211,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
+      "company": "The Nuclear Company",
+      "title": "Spring 2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f",
+      "location": "Washington, DC",
+      "datePosted": 1788885108,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
@@ -173,7 +266,30 @@
       "location": "New York, NY",
       "datePosted": 1788885022,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa08644a2266b538d230e8c",
+      "company": "Leonardo DRS",
+      "title": "2027 Summer - Software Engineering Intern (DMES) - Dallas TX",
+      "url": "https://jobright.ai/jobs/info/6aa08644a2266b538d230e8c",
+      "location": "Dallas, TX",
+      "datePosted": 1788884939,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa0864dea127c3794697a9b",
+      "company": "Leonardo DRS",
+      "title": "2027 Summer - Software Engineering Intern (Commercial) - Dallas TX",
+      "url": "https://jobright.ai/jobs/info/6aa0864dea127c3794697a9b",
+      "location": "Dallas, TX",
+      "datePosted": 1788884915,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa095c63b5aa83237b0a10b",
@@ -183,6 +299,7 @@
       "location": "Plano, TX; Raleigh, NC; Reston, VA; Richardson, TX; Tempe, AZ",
       "datePosted": 1788883798,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -193,7 +310,19 @@
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
       "datePosted": 1788883765,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa072de5b2d5633ef3beac5",
+      "company": "Concord Group Insurance",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa072de5b2d5633ef3beac5",
+      "location": "Bedford, NH",
+      "datePosted": 1788883600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa094e3ea127c3794698083",
@@ -203,6 +332,7 @@
       "location": "Overland Park, KS; Bellevue, WA",
       "datePosted": 1788883571,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -213,7 +343,19 @@
       "location": "North Logan, UT",
       "datePosted": 1788883098,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa046a95b2d5633ef3bd9d7",
+      "company": "Semgrep",
+      "title": "Software Engineer Intern, Cloud Platform",
+      "url": "https://jobright.ai/jobs/info/6aa046a95b2d5633ef3bd9d7",
+      "location": "San Francisco, CA",
+      "datePosted": 1788882681,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa090faa2266b538d231277",
@@ -223,6 +365,7 @@
       "location": "San Francisco, CA; New York, NY",
       "datePosted": 1788882570,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -233,7 +376,19 @@
       "location": "Columbia, MD",
       "datePosted": 1788881816,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a52dc25e726ec56126a4c9b",
+      "company": "Anduril",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a52dc25e726ec56126a4c9b",
+      "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
+      "datePosted": 1788881513,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
@@ -243,6 +398,7 @@
       "location": "Birmingham, MI; Chicago, IL; Fort Lauderdale, FL; New York, NY",
       "datePosted": 1788881327,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -253,6 +409,7 @@
       "location": "Round Rock, TX",
       "datePosted": 1788881273,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -263,6 +420,7 @@
       "location": "Rochester, MN",
       "datePosted": 1788881236,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -273,6 +431,7 @@
       "location": "Carlsbad, CA",
       "datePosted": 1788880815,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -283,7 +442,30 @@
       "location": "United States",
       "datePosted": 1788880095,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa03670500b01124c7775d5",
+      "company": "Syska Hennessy Group",
+      "title": "Software Developer (Innovation) Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa03670500b01124c7775d5",
+      "location": "New York, NY",
+      "datePosted": 1788879939,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa07b94a2266b538d230b79",
+      "company": "Allegion",
+      "title": "Summer Intern - Software Engineering - DevOps",
+      "url": "https://jobright.ai/jobs/info/6aa07b94a2266b538d230b79",
+      "location": "Carmel, IN; Golden, CO",
+      "datePosted": 1788879903,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa0083d500b01124c77670c",
@@ -293,7 +475,41 @@
       "location": "New York, NY",
       "datePosted": 1788879861,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa04696500b01124c777fe8",
+      "company": "Talos",
+      "title": "Software Engineer Intern, RFQ",
+      "url": "https://jobright.ai/jobs/info/6aa04696500b01124c777fe8",
+      "location": "New York, NY",
+      "datePosted": 1788879808,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa069c9ea127c3794696e89",
+      "company": "Talos",
+      "title": "Software Engineer Intern, Dealer",
+      "url": "https://jobright.ai/jobs/info/6aa069c9ea127c3794696e89",
+      "location": "New York, NY",
+      "datePosted": 1788879807,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa0848c5b2d5633ef3bf21f",
+      "company": "General Dynamics",
+      "title": "Intern Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa0848c5b2d5633ef3bf21f",
+      "location": "Pittsfield, MA",
+      "datePosted": 1788879388,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa0714d500b01124c7790b1",
@@ -303,7 +519,41 @@
       "location": "Seattle, WA; Scottsdale, AZ; Boston, MA",
       "datePosted": 1788879187,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa041d9ea127c379469602d",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa041d9ea127c379469602d",
+      "location": "Irvine, CA; Palo Alto, CA",
+      "datePosted": 1788878858,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa081e93b5aa83237b09a20",
+      "company": "Allen Control Systems",
+      "title": "Computer Vision/Machine Learning Intern, 2027",
+      "url": "https://jobright.ai/jobs/info/6aa081e93b5aa83237b09a20",
+      "location": "Austin, TX",
+      "datePosted": 1788878713,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa0819aa2266b538d230da4",
+      "company": "Allen Control Systems",
+      "title": "Software Engineering Inten, 2027",
+      "url": "https://jobright.ai/jobs/info/6aa0819aa2266b538d230da4",
+      "location": "Austin, TX",
+      "datePosted": 1788878634,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa06492ea127c3794696c78",
@@ -313,6 +563,7 @@
       "location": "Washington, DC",
       "datePosted": 1788878614,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -323,7 +574,41 @@
       "location": "McKinney, TX",
       "datePosted": 1788878600,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa09d0e500b01124c77a1ab",
+      "company": "Texas GovLink, Inc.",
+      "title": "AI/ML Engineer (Intern Level 2)",
+      "url": "https://jobright.ai/jobs/info/6aa09d0e500b01124c77a1ab",
+      "location": "Austin, TX",
+      "datePosted": 1788878420,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa07f505b2d5633ef3bf0f5",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Service Engineering (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa07f505b2d5633ef3bf0f5",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788878048,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5f96d5193b5113096794f0",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a5f96d5193b5113096794f0",
+      "location": "Austin, TX; New York, NY",
+      "datePosted": 1788877583,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa07ce1500b01124c7796f6",
@@ -333,6 +618,7 @@
       "location": "United States",
       "datePosted": 1788877425,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -343,7 +629,19 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788877263,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa07c3eea127c3794697796",
+      "company": "Collins Aerospace",
+      "title": "Software Engineer Intern ( Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa07c3eea127c3794697796",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1788877262,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9a7baafe45b8490f603c59",
@@ -353,7 +651,19 @@
       "location": "Marlborough, MA",
       "datePosted": 1788877168,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa053623b5aa83237b08639",
+      "company": "Red Hat",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa053623b5aa83237b08639",
+      "location": "Raleigh, NC; Boston, MA; Lowell, MA; Durham, NC",
+      "datePosted": 1788876895,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa03261ea127c3794695671",
@@ -363,7 +673,19 @@
       "location": "Warrenton, VA",
       "datePosted": 1788876692,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa075e75b2d5633ef3bec5d",
+      "company": "IBM",
+      "title": "SW Developer Intern - Austin, TX -2027",
+      "url": "https://jobright.ai/jobs/info/6aa075e75b2d5633ef3bec5d",
+      "location": "Austin, TX",
+      "datePosted": 1788876586,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa07923500b01124c779520",
@@ -373,6 +695,7 @@
       "location": "Frisco, TX; Seattle, WA",
       "datePosted": 1788876467,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -383,6 +706,7 @@
       "location": "Frisco, TX; Seattle, WA",
       "datePosted": 1788876349,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -393,337 +717,85 @@
       "location": "Washington, DC",
       "datePosted": 1788876067,
       "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a68ca0805bae84301b585a2",
-      "company": "American Honda Motor Company, Inc.",
-      "title": "Operational Technology Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6a68ca0805bae84301b585a2",
-      "location": "Marysville, OH",
-      "datePosted": 1788874023,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa06f775b2d5633ef3be958",
-      "company": "SMX",
-      "title": "Junior Software Engineer (5510)",
-      "url": "https://jobright.ai/jobs/info/6aa06f775b2d5633ef3be958",
-      "location": "Huntsville, AL",
-      "datePosted": 1788873991,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4242fd557b3862f15e0ab7",
-      "company": "Noctua Technology",
-      "title": "Software Engineer- Application Development",
-      "url": "https://jobright.ai/jobs/info/6a4242fd557b3862f15e0ab7",
-      "location": "United States",
-      "datePosted": 1788873888,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa06ac1dbc0e60e37e0d7a4",
-      "company": "Kustomer",
-      "title": "Software Engineer, Full Stack (Early Career)",
-      "url": "https://jobright.ai/jobs/info/6aa06ac1dbc0e60e37e0d7a4",
-      "location": "New York, NY",
-      "datePosted": 1788872785,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa049bdea127c3794696313",
-      "company": "Zachary Piper Solutions",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa049bdea127c3794696313",
-      "location": "Oklahoma City, OK",
-      "datePosted": 1788872585,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa03ae4500b01124c777867",
-      "company": "Dominion Energy",
-      "title": "Associate Network Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa03ae4500b01124c777867",
-      "location": "Richmond, VA",
-      "datePosted": 1788871966,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa0676dea127c3794696dad",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
-      "url": "https://jobright.ai/jobs/info/6aa0676dea127c3794696dad",
-      "location": "Roy, UT",
-      "datePosted": 1788871933,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa046043b5aa83237b08157",
-      "company": "Anthropic",
-      "title": "Research Engineer, Takeoff Intel",
-      "url": "https://jobright.ai/jobs/info/6aa046043b5aa83237b08157",
-      "location": "San Francisco, CA",
-      "datePosted": 1788871177,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a99e39e040e5c3d07599965",
-      "company": "Baselayer",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a99e39e040e5c3d07599965",
-      "location": "San Francisco, CA",
-      "datePosted": 1788869126,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa05a635b2d5633ef3be15e",
+      "id": "newgrad-jobs:6aa0761d500b01124c77935a",
       "company": "IBM",
-      "title": "Entry Level Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aa05a635b2d5633ef3be15e",
+      "title": "ZOS QA Test Developer Intern 2027 - Poughkeepsie",
+      "url": "https://jobright.ai/jobs/info/6aa0761d500b01124c77935a",
       "location": "Poughkeepsie, NY",
-      "datePosted": 1788868595,
+      "datePosted": 1788875693,
       "source": "newgrad-jobs",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa059eeea127c3794696907",
+      "id": "newgrad-jobs:6aa07617ea127c379469748f",
       "company": "IBM",
-      "title": "Entry Level Software Developer -Rochester-MN",
-      "url": "https://jobright.ai/jobs/info/6aa059eeea127c3794696907",
+      "title": "Software Developer Intern-Poughkeepsie, NY",
+      "url": "https://jobright.ai/jobs/info/6aa07617ea127c379469748f",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1788875687,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa075e3ea127c379469747f",
+      "company": "IBM",
+      "title": "Software Developer Intern, Rochester-MN",
+      "url": "https://jobright.ai/jobs/info/6aa075e3ea127c379469747f",
       "location": "Rochester, MN",
-      "datePosted": 1788868478,
+      "datePosted": 1788875635,
       "source": "newgrad-jobs",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa059deea127c3794696902",
-      "company": "IBM",
-      "title": "Entry Level QA/Test Developer",
-      "url": "https://jobright.ai/jobs/info/6aa059deea127c3794696902",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1788868462,
+      "id": "newgrad-jobs:6aa075e03b5aa83237b0949d",
+      "company": "MKS Inc.",
+      "title": "2027 Spring Software Engineering Intern (R19945)",
+      "url": "https://jobright.ai/jobs/info/6aa075e03b5aa83237b0949d",
+      "location": "Rochester, NY",
+      "datePosted": 1788875632,
       "source": "newgrad-jobs",
-      "isNew": false
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa059c45b2d5633ef3be111",
+      "id": "newgrad-jobs:6aa075ddea127c3794697478",
       "company": "IBM",
-      "title": "Software Engineer / Agent Engineer - EDA - Austin",
-      "url": "https://jobright.ai/jobs/info/6aa059c45b2d5633ef3be111",
+      "title": "Software Developer Intern-Austin -TX",
+      "url": "https://jobright.ai/jobs/info/6aa075ddea127c3794697478",
       "location": "Austin, TX",
-      "datePosted": 1788868436,
+      "datePosted": 1788875629,
       "source": "newgrad-jobs",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6a83503a1081a745e970e5d3",
-      "company": "Procter & Gamble",
-      "title": "Data Engineer - North America Fabric Care",
-      "url": "https://jobright.ai/jobs/info/6a83503a1081a745e970e5d3",
-      "location": "Cincinnati, OH",
-      "datePosted": 1788868344,
+      "id": "newgrad-jobs:6aa075a2500b01124c779339",
+      "company": "IBM",
+      "title": "Software Developer Intern/Tucson-AZ",
+      "url": "https://jobright.ai/jobs/info/6aa075a2500b01124c779339",
+      "location": "Tucson, AZ",
+      "datePosted": 1788875570,
       "source": "newgrad-jobs",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa02efc500b01124c777310",
-      "company": "Zebra Technologies",
-      "title": "Software Engineer, I (Fullstack)",
-      "url": "https://jobright.ai/jobs/info/6aa02efc500b01124c777310",
-      "location": "Holtsville, NY",
-      "datePosted": 1788867803,
+      "id": "newgrad-jobs:6aa07486500b01124c7792ac",
+      "company": "IBM",
+      "title": "Software Test Developer-Intern",
+      "url": "https://jobright.ai/jobs/info/6aa07486500b01124c7792ac",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1788875286,
       "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8dda18d34f700f87fd668b",
-      "company": "PayIt",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8dda18d34f700f87fd668b",
-      "location": "Kansas City, MO",
-      "datePosted": 1788867326,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa05272500b01124c778417",
-      "company": "Lila Sciences",
-      "title": "Machine Learning Engineer I/II, Applied AI",
-      "url": "https://jobright.ai/jobs/info/6aa05272500b01124c778417",
-      "location": "Cambridge, MA; San Francisco, CA",
-      "datePosted": 1788866562,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a910b65a198864866763b23",
-      "company": "Southern Company",
-      "title": "Application Developer I - Asset Technology AMI",
-      "url": "https://jobright.ai/jobs/info/6a910b65a198864866763b23",
-      "location": "Naperville, IL",
-      "datePosted": 1788865887,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa04480a2266b538d22f4fa",
-      "company": "Gallagher",
-      "title": "AI Developer",
-      "url": "https://jobright.ai/jobs/info/6aa04480a2266b538d22f4fa",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1788865204,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa04afd3b5aa83237b08305",
-      "company": "Publix Super Markets",
-      "title": "Associate Software Engineer - Accounting Systems",
-      "url": "https://jobright.ai/jobs/info/6aa04afd3b5aa83237b08305",
-      "location": "Lakeland, FL",
-      "datePosted": 1788864653,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa04ac73b5aa83237b082f1",
-      "company": "Gallagher UK",
-      "title": "AI Developer",
-      "url": "https://jobright.ai/jobs/info/6aa04ac73b5aa83237b082f1",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1788864599,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa0474a3b5aa83237b081ce",
-      "company": "Strata Solicitors - A Gallagher Bassett Company",
-      "title": "AI Developer",
-      "url": "https://jobright.ai/jobs/info/6aa0474a3b5aa83237b081ce",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1788863706,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8dc993cc0cf27068525436",
-      "company": "Addepar",
-      "title": "Software Engineer, Client Experience Frameworks",
-      "url": "https://jobright.ai/jobs/info/6a8dc993cc0cf27068525436",
-      "location": "New York, NY",
-      "datePosted": 1788863425,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a3f155178237a036d5e67c5",
-      "company": "iSoftStone",
-      "title": "Associate AI Developer",
-      "url": "https://jobright.ai/jobs/info/6a3f155178237a036d5e67c5",
-      "location": "White Plains, NY; New York, NY; Seattle, WA; Dallas, TX",
-      "datePosted": 1788862861,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa042443b5aa83237b07fb8",
-      "company": "SeaCoast Underwriters, Inc. is now Risk Placement Services",
-      "title": "AI Developer",
-      "url": "https://jobright.ai/jobs/info/6aa042443b5aa83237b07fb8",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1788862420,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a681296d0fb4c3df39400c8",
-      "company": "Chainguard",
-      "title": "Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6a681296d0fb4c3df39400c8",
-      "location": "United States",
-      "datePosted": 1788862380,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa0420b5b2d5633ef3bd7b8",
-      "company": "Lloyd Bedford Cox, Inc.",
-      "title": "AI Developer",
-      "url": "https://jobright.ai/jobs/info/6aa0420b5b2d5633ef3bd7b8",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1788862363,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa03f17dbc0e60e37e0c5e4",
-      "company": "Arthur J. Gallagher for Propertymark Members",
-      "title": "AI Developer",
-      "url": "https://jobright.ai/jobs/info/6aa03f17dbc0e60e37e0c5e4",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1788861607,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa03e323b5aa83237b07cf0",
-      "company": "Mayo Clinic Healthcare London",
-      "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa03e323b5aa83237b07cf0",
-      "location": "Rochester, MN",
-      "datePosted": 1788861378,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa03d46500b01124c777acc",
-      "company": "Mayo Clinic Rochester",
-      "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa03d46500b01124c777acc",
-      "location": "Rochester, MN",
-      "datePosted": 1788861142,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa03cdc500b01124c777a37",
-      "company": "Asphalt Green",
-      "title": "Associate Salesforce Developer",
-      "url": "https://jobright.ai/jobs/info/6aa03cdc500b01124c777a37",
-      "location": "New York, NY",
-      "datePosted": 1788861036,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa027f7ea127c379469538c",
-      "company": "Mayo Clinic",
-      "title": "Software Engineer - Business Analysis and Integration",
-      "url": "https://jobright.ai/jobs/info/6aa027f7ea127c379469538c",
-      "location": "Rochester, MN",
-      "datePosted": 1788860804,
-      "source": "newgrad-jobs",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa027eb5b2d5633ef3bcace",
-      "company": "Mayo Clinic",
-      "title": "Software Engineer - Test and Quality",
-      "url": "https://jobright.ai/jobs/info/6aa027eb5b2d5633ef3bcace",
-      "location": "Rochester, MN",
-      "datePosted": 1788860789,
-      "source": "newgrad-jobs",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:ec2d8499-9c16-4277-8aac-c8300d24f46f",
@@ -733,6 +805,7 @@
       "location": "Boise, ID",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -743,6 +816,7 @@
       "location": "Richardson, TX",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -753,6 +827,7 @@
       "location": "Roy, UT",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -763,6 +838,7 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": "Fall 2027",
       "isNew": false
     },
     {
@@ -773,6 +849,7 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -783,6 +860,7 @@
       "location": "Cedar Rapids, IA",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -793,6 +871,7 @@
       "location": "East Hartford, CT",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -803,6 +882,7 @@
       "location": "McKinney, TX",
       "datePosted": 1788825600,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -813,6 +893,7 @@
       "location": "Remote in USA",
       "datePosted": 1788799432,
       "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -823,6 +904,7 @@
       "location": "San Jose, CA",
       "datePosted": 1788769693,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -833,6 +915,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788570474,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -843,6 +926,7 @@
       "location": "Palo Alto, CA, Irvine, CA",
       "datePosted": 1788561638,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -853,6 +937,7 @@
       "location": "SF",
       "datePosted": 1788561090,
       "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -863,6 +948,7 @@
       "location": "SF",
       "datePosted": 1788561090,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -873,6 +959,7 @@
       "location": "Lakewood, OH",
       "datePosted": 1788560154,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -883,6 +970,7 @@
       "location": "Atlanta, GA",
       "datePosted": 1788559531,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -893,6 +981,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788531288,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -903,6 +992,7 @@
       "location": "San Mateo, CA",
       "datePosted": 1788486573,
       "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -913,6 +1003,7 @@
       "location": "Foster City, CA",
       "datePosted": 1788483939,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -923,6 +1014,7 @@
       "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
       "datePosted": 1788483835,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -933,6 +1025,7 @@
       "location": "Melbourne, FL",
       "datePosted": 1788476702,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -943,6 +1036,7 @@
       "location": "Melbourne, FL",
       "datePosted": 1788476700,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -953,6 +1047,7 @@
       "location": "Manassas, VA",
       "datePosted": 1788474214,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -963,6 +1058,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788473612,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -973,6 +1069,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788473498,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -983,6 +1080,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788473480,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -993,6 +1091,7 @@
       "location": "Nashville, TN",
       "datePosted": 1788473065,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1003,6 +1102,7 @@
       "location": "Costa Mesa, CA",
       "datePosted": 1788402460,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1013,6 +1113,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402441,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1023,6 +1124,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402297,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1033,6 +1135,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402291,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1043,6 +1146,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402226,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1053,6 +1157,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788402199,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1063,6 +1168,7 @@
       "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT",
       "datePosted": 1788393600,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1073,6 +1179,7 @@
       "location": "NYC",
       "datePosted": 1788310288,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1083,6 +1190,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788307255,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1093,6 +1201,7 @@
       "location": "Palo Alto, CA",
       "datePosted": 1788307247,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1103,6 +1212,7 @@
       "location": "Austin, TX, Santa Clara, CA, Hillsboro, OR, Folsom, CA, Phoenix, AZ",
       "datePosted": 1788307200,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1113,6 +1223,7 @@
       "location": "Sunnyvale, CA",
       "datePosted": 1788302614,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1123,6 +1234,7 @@
       "location": "Greenville, TX",
       "datePosted": 1788302264,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1133,6 +1245,7 @@
       "location": "Wilmington, MA",
       "datePosted": 1788289307,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1143,6 +1256,7 @@
       "location": "Pittsfield, MA",
       "datePosted": 1788288975,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1153,6 +1267,7 @@
       "location": "Seattle, WA, SF",
       "datePosted": 1788288564,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1163,6 +1278,7 @@
       "location": "Phoenix, AZ",
       "datePosted": 1788287453,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1173,6 +1289,7 @@
       "location": "Phoenix, AZ",
       "datePosted": 1788287453,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1183,6 +1300,7 @@
       "location": "Phoenix, AZ",
       "datePosted": 1788287452,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1193,6 +1311,7 @@
       "location": "Atlanta, GA",
       "datePosted": 1788287452,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1203,6 +1322,7 @@
       "location": "San Jose, CA",
       "datePosted": 1788281002,
       "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
