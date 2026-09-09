@@ -135,11 +135,15 @@ def is_phd_only(title, degrees):
 HIRE_TIME_RE = re.compile(r"^(20\d{2})-(Summer|Fall|Winter|Spring)$", re.I)
 SEASON_YEAR_RE = re.compile(r"\b(summer|fall|winter|spring)\b[^a-z0-9]{0,10}(20\d{2})", re.I)
 YEAR_SEASON_RE = re.compile(r"\b(20\d{2})\b[^a-z0-9]{0,10}(summer|fall|winter|spring)\b", re.I)
+BARE_SEASON_RE = re.compile(r"\b(summer|fall|winter|spring)\b", re.I)
 
 
-def extract_internship_season(hire_time, title):
-    """Returns e.g. "Summer 2027" for an internship posting, or None if no
-    season/year could be determined from JobRight's hireTime field or the title."""
+def extract_internship_season(hire_time, title, feed_season=None):
+    """Returns e.g. "Summer 2027" for an internship posting (or just "Winter"
+    if a year can't be pinned down), or None if no term could be determined
+    from JobRight's hireTime field, the title, or the feed's own season field
+    (SimplifyJobs/vanshb03 listings.json entries carry a "season" key --
+    e.g. "Winter" -- with no year attached)."""
     m = HIRE_TIME_RE.match((hire_time or "").strip())
     if m:
         return f"{m.group(2).capitalize()} {m.group(1)}"
@@ -150,6 +154,13 @@ def extract_internship_season(hire_time, title):
     m = YEAR_SEASON_RE.search(t)
     if m:
         return f"{m.group(2).capitalize()} {m.group(1)}"
+    fs = (feed_season or "").strip()
+    if fs and fs.lower() != "null":
+        year_m = re.search(r"20\d{2}", t)
+        return f"{fs} {year_m.group(0)}" if year_m else fs
+    m = BARE_SEASON_RE.search(t)
+    if m:
+        return m.group(1).capitalize()
     return None
 
 
@@ -250,7 +261,8 @@ def fetch_and_filter():
             if simp_cfg.get("match_target_companies_only", True) and not canonical:
                 continue
             title = j.get("title", "")
-            season = extract_internship_season("", title) if INTERN_TITLE_RE.search(title.lower()) else None
+            season = extract_internship_season("", title, j.get("season")) \
+                if INTERN_TITLE_RE.search(title.lower()) else None
             raw.append({
                 "id": f"simplify:{j.get('id') or j.get('url')}",
                 "company": canonical or raw_name,
