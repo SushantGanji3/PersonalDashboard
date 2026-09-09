@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:20:16Z",
+  "generatedAt": "2026-09-09T04:30:20Z",
   "totalOpen": 1088,
   "totalNewgrad": 268,
   "totalOther": 820,
@@ -112,7 +112,7 @@
       "location": "Boston, MA, NYC",
       "datePosted": 1788905360,
       "source": "aggregator",
-      "season": null,
+      "season": "Summer",
       "isNew": false
     },
     {
@@ -123,7 +123,7 @@
       "location": "SF",
       "datePosted": 1788905178,
       "source": "aggregator",
-      "season": null,
+      "season": "Summer",
       "isNew": false
     },
     {
@@ -146,7 +146,7 @@
       "datePosted": 1788886550,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa06e845b2d5633ef3be929",
@@ -157,7 +157,7 @@
       "datePosted": 1788886099,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a978c11e4e60e4b8da5e61f",
@@ -190,7 +190,7 @@
       "datePosted": 1788885916,
       "source": "newgrad-jobs",
       "season": "Summer 2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a58e71fc8e3a473cb8a3a94",
@@ -201,7 +201,7 @@
       "datePosted": 1788885668,
       "source": "newgrad-jobs",
       "season": "Summer 2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9b74e8d5ff1f3f1c39f244",
@@ -212,7 +212,7 @@
       "datePosted": 1788885603,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
@@ -245,7 +245,7 @@
       "datePosted": 1788885211,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
@@ -256,7 +256,7 @@
       "datePosted": 1788885108,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
@@ -278,7 +278,7 @@
       "datePosted": 1788884939,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0864dea127c3794697a9b",
@@ -289,7 +289,7 @@
       "datePosted": 1788884915,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa095c63b5aa83237b0a10b",
@@ -322,7 +322,7 @@
       "datePosted": 1788883600,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa094e3ea127c3794698083",
@@ -355,7 +355,7 @@
       "datePosted": 1788882681,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa090faa2266b538d231277",
@@ -388,7 +388,7 @@
       "datePosted": 1788881513,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
@@ -453,8 +453,8 @@
       "location": "New York, NY",
       "datePosted": 1788879939,
       "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
+      "season": "Summer",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa07b94a2266b538d230b79",
@@ -464,8 +464,8 @@
       "location": "Carmel, IN; Golden, CO",
       "datePosted": 1788879903,
       "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
+      "season": "Summer",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0083d500b01124c77670c",
@@ -487,7 +487,7 @@
       "datePosted": 1788879808,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa069c9ea127c3794696e89",
@@ -498,7 +498,7 @@
       "datePosted": 1788879807,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0848c5b2d5633ef3bf21f",
@@ -509,7 +509,7 @@
       "datePosted": 1788879388,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0714d500b01124c7790b1",
@@ -531,7 +531,7 @@
       "datePosted": 1788878858,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa081e93b5aa83237b09a20",
@@ -542,7 +542,7 @@
       "datePosted": 1788878713,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0819aa2266b538d230da4",
@@ -553,7 +553,7 @@
       "datePosted": 1788878634,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa06492ea127c3794696c78",
@@ -586,7 +586,7 @@
       "datePosted": 1788878420,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa07f505b2d5633ef3bf0f5",
@@ -597,7 +597,7 @@
       "datePosted": 1788878048,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5f96d5193b5113096794f0",
@@ -608,7 +608,7 @@
       "datePosted": 1788877583,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa07ce1500b01124c7796f6",
@@ -641,7 +641,7 @@
       "datePosted": 1788877262,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9a7baafe45b8490f603c59",
@@ -663,7 +663,7 @@
       "datePosted": 1788876895,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa03261ea127c3794695671",
@@ -685,7 +685,7 @@
       "datePosted": 1788876586,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa07923500b01124c779520",
@@ -729,7 +729,7 @@
       "datePosted": 1788875693,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa07617ea127c379469748f",
@@ -740,7 +740,7 @@
       "datePosted": 1788875687,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa075e3ea127c379469747f",
@@ -751,7 +751,7 @@
       "datePosted": 1788875635,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa075e03b5aa83237b0949d",
@@ -762,7 +762,7 @@
       "datePosted": 1788875632,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa075ddea127c3794697478",
@@ -773,7 +773,7 @@
       "datePosted": 1788875629,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa075a2500b01124c779339",
@@ -784,7 +784,7 @@
       "datePosted": 1788875570,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa07486500b01124c7792ac",
@@ -795,7 +795,7 @@
       "datePosted": 1788875286,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:ec2d8499-9c16-4277-8aac-c8300d24f46f",
