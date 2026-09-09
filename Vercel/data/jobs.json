@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-09T06:30:19Z",
-  "totalOpen": 1087,
+  "generatedAt": "2026-09-09T06:39:19Z",
+  "totalOpen": 1088,
   "totalNewgrad": 268,
-  "totalOther": 819,
+  "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:61ec7d70-4c67-42e3-b8ec-b7d24c4048e2",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Service Engineering",
+      "url": "https://www.tesla.com/careers/search/job/282233",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788935076,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:52c6c00b-0538-4eae-ba83-7a32198496a7",
       "company": "Coinbase",
@@ -1310,17 +1321,6 @@
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252",
       "location": "Atlanta, GA",
       "datePosted": 1788287452,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:98ba4abf-1726-45e5-a03c-c711dfb81c84",
-      "company": "TikTok",
-      "title": "Software Engineer Intern - Relational Database",
-      "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail",
-      "location": "San Jose, CA",
-      "datePosted": 1788281002,
       "source": "aggregator",
       "season": null,
       "isNew": false
