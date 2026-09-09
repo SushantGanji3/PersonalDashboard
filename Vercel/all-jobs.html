@@ -158,6 +158,11 @@
     <button class="jobs-source-tab" id="tab-source-all" onclick="setJobsSource('all')">All Sources <span class="tab-badge" id="count-source-all">0</span></button>
   </div>
 
+  <div class="jobs-source-tabs" id="jobs-type-tabs">
+    <button class="jobs-source-tab active" id="tab-type-other" onclick="setJobsType('other')">New Grad &amp; Everything Else <span class="tab-badge" id="count-type-other">0</span></button>
+    <button class="jobs-source-tab" id="tab-type-internship" onclick="setJobsType('internship')">Internship <span class="tab-badge" id="count-type-internship">0</span></button>
+  </div>
+
   <div class="toolbar">
     <input id="search" type="text" placeholder="Filter by company, title, or application status…">
     <div class="jobs-filter-bar" id="filter-bar">
@@ -346,6 +351,7 @@
   let allApps = [];
   let activeFilter = 'all';
   let activeSource = 'newgrad'; // 'newgrad' | 'aggregator' | 'all'
+  let activeType = 'other'; // 'internship' | 'other'
 
   function setJobsFilter(filter){
     activeFilter = filter;
@@ -365,12 +371,29 @@
     applyFilter();
   }
 
+  function setJobsType(type){
+    activeType = type;
+    ['internship', 'other'].forEach(t => {
+      const btn = document.getElementById('tab-type-' + t);
+      if(btn) btn.className = 'jobs-source-tab' + (t === type ? ' active' : '');
+    });
+    applyFilter();
+  }
+
   function isItemInSource(item, src){
     if(src === 'all') return true;
     const isNewgrad = item.source === 'newgrad-jobs' || (item.id && String(item.id).startsWith('newgrad-jobs:'));
     if(src === 'newgrad') return isNewgrad;
     if(src === 'aggregator') return !isNewgrad;
     return true;
+  }
+
+  function isItemInternship(item){
+    return tokenizeTitle(item.title || '').has('intern');
+  }
+
+  function isItemInType(item, type){
+    return type === 'internship' ? isItemInternship(item) : !isItemInternship(item);
   }
 
   function rematchAll(){
@@ -461,19 +484,30 @@
     // Filter by active source
     const sourceItems = allItems.filter(p => isItemInSource(p, activeSource));
 
-    const appliedCount = sourceItems.filter(p => !!p._appMatch).length;
-    const unappliedCount = sourceItems.length - appliedCount;
+    // Type tab badges (Internship vs New Grad & Everything Else), scoped to the active source
+    const internshipCount = sourceItems.filter(p => isItemInType(p, 'internship')).length;
+    const otherCount = sourceItems.length - internshipCount;
+    const badgeInternship = document.getElementById('count-type-internship');
+    const badgeOther = document.getElementById('count-type-other');
+    if(badgeInternship) badgeInternship.textContent = internshipCount;
+    if(badgeOther) badgeOther.textContent = otherCount;
+
+    // Filter by active type
+    const typeItems = sourceItems.filter(p => isItemInType(p, activeType));
+
+    const appliedCount = typeItems.filter(p => !!p._appMatch).length;
+    const unappliedCount = typeItems.length - appliedCount;
 
     const countAll = document.getElementById('count-all');
     const countUnapplied = document.getElementById('count-unapplied');
     const countApplied = document.getElementById('count-applied');
-    if(countAll) countAll.textContent = sourceItems.length;
+    if(countAll) countAll.textContent = typeItems.length;
     if(countUnapplied) countUnapplied.textContent = unappliedCount;
     if(countApplied) countApplied.textContent = appliedCount;
 
     const q = document.getElementById('search').value.trim().toLowerCase();
 
-    let filtered = sourceItems;
+    let filtered = typeItems;
     if(activeFilter === 'unapplied'){
       filtered = filtered.filter(p => !p._appMatch);
     } else if(activeFilter === 'applied'){

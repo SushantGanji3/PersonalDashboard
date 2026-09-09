@@ -1205,6 +1205,14 @@
             All <span class="tab-badge" id="count-source-all">0</span>
           </button>
         </div>
+        <div class="jobs-source-tabs" id="jobs-type-tabs">
+          <button class="jobs-source-tab active" id="tab-type-other" onclick="setJobsType('other')">
+            New Grad &amp; Everything Else <span class="tab-badge" id="count-type-other">0</span>
+          </button>
+          <button class="jobs-source-tab" id="tab-type-internship" onclick="setJobsType('internship')">
+            Internship <span class="tab-badge" id="count-type-internship">0</span>
+          </button>
+        </div>
         <div class="jobs-filter-bar" id="jobs-filter-bar" style="display:none;"></div>
         <div class="job-list" id="job-list">
           <div class="skel skel-row"></div><div class="skel skel-row"></div><div class="skel skel-row"></div>
@@ -1855,6 +1863,7 @@
   let latestApplications = [];
   let jobsFilter = 'all'; // 'all' | 'unapplied' | 'applied'
   let jobsSource = 'newgrad'; // 'newgrad' | 'aggregator' | 'all'
+  let jobsType = 'other'; // 'internship' | 'other'
 
   function setJobsFilter(filter){
     jobsFilter = filter;
@@ -1866,12 +1875,29 @@
     if(latestJobsDoc) renderJobs(latestJobsDoc);
   }
 
+  function setJobsType(type){
+    jobsType = type;
+    ['internship', 'other'].forEach(t => {
+      const btn = document.getElementById('tab-type-' + t);
+      if(btn) btn.className = 'jobs-source-tab' + (t === type ? ' active' : '');
+    });
+    if(latestJobsDoc) renderJobs(latestJobsDoc);
+  }
+
   function isItemInSource(item, src){
     if(src === 'all') return true;
     const isNewgrad = item.source === 'newgrad-jobs' || (item.id && String(item.id).startsWith('newgrad-jobs:'));
     if(src === 'newgrad') return isNewgrad;
     if(src === 'aggregator') return !isNewgrad;
     return true;
+  }
+
+  function isItemInternship(item){
+    return tokenizeTitle(item.title || '').has('intern');
+  }
+
+  function isItemInType(item, type){
+    return type === 'internship' ? isItemInternship(item) : !isItemInternship(item);
   }
 
   function renderJobs(doc){
@@ -1911,8 +1937,25 @@
 
     // Filter items by active source tab
     const sourceItems = items.filter(p => isItemInSource(p, jobsSource));
-    const appliedCount = sourceItems.filter(p => !!p._appMatch).length;
-    const unappliedCount = sourceItems.length - appliedCount;
+
+    // Type tab badges (Internship vs New Grad & Everything Else), scoped to the active source
+    const internshipItems = sourceItems.filter(p => isItemInType(p, 'internship'));
+    const tabTypeOther = document.getElementById('tab-type-other');
+    const tabTypeInternship = document.getElementById('tab-type-internship');
+    if(tabTypeOther){
+      tabTypeOther.classList.toggle('active', jobsType === 'other');
+      const badge = document.getElementById('count-type-other');
+      if(badge) badge.textContent = sourceItems.length - internshipItems.length;
+    }
+    if(tabTypeInternship){
+      tabTypeInternship.classList.toggle('active', jobsType === 'internship');
+      const badge = document.getElementById('count-type-internship');
+      if(badge) badge.textContent = internshipItems.length;
+    }
+
+    const typeItems = sourceItems.filter(p => isItemInType(p, jobsType));
+    const appliedCount = typeItems.filter(p => !!p._appMatch).length;
+    const unappliedCount = typeItems.length - appliedCount;
 
     const subEl = document.getElementById('jobs-sub');
     const sourceLabel = jobsSource === 'newgrad' ? 'NewGrad-Jobs.com' : (jobsSource === 'aggregator' ? 'Simplify & GitHub Feeds' : 'All Sources');
@@ -1930,7 +1973,7 @@
         filterBar.style.display = 'flex';
         filterBar.innerHTML = `
           <button class="jobs-filter-pill ${jobsFilter === 'all' ? 'active' : ''}" onclick="setJobsFilter('all')">
-            All <span class="pill-count">${sourceItems.length}</span>
+            All <span class="pill-count">${typeItems.length}</span>
           </button>
           <button class="jobs-filter-pill ${jobsFilter === 'unapplied' ? 'active' : ''}" onclick="setJobsFilter('unapplied')">
             Unapplied <span class="pill-count">${unappliedCount}</span>
@@ -1944,15 +1987,16 @@
       }
     }
 
-    let displayItems = sourceItems;
+    let displayItems = typeItems;
     if(jobsFilter === 'unapplied'){
-      displayItems = sourceItems.filter(p => !p._appMatch);
+      displayItems = typeItems.filter(p => !p._appMatch);
     } else if(jobsFilter === 'applied'){
-      displayItems = sourceItems.filter(p => !!p._appMatch);
+      displayItems = typeItems.filter(p => !!p._appMatch);
     }
 
-    if(sourceItems.length === 0){
-      list.innerHTML = `<div class="empty-state">No open matches from ${escapeHtml(sourceLabel)} right now.</div>`;
+    if(typeItems.length === 0){
+      const typeLabel = jobsType === 'internship' ? 'internship' : 'new grad';
+      list.innerHTML = `<div class="empty-state">No open ${escapeHtml(typeLabel)} matches from ${escapeHtml(sourceLabel)} right now.</div>`;
       return;
     }
 
