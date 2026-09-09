@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-09T22:30:20Z",
-  "totalOpen": 1080,
+  "generatedAt": "2026-09-09T22:40:18Z",
+  "totalOpen": 1081,
   "totalNewgrad": 261,
-  "totalOther": 819,
+  "totalOther": 820,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:fad8dfc2-103b-425b-923f-9e4176ee1e3d",
+      "company": "ServiceNow",
+      "title": "Software Engineer - AI Developer Products",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148580489",
+      "location": "San Diego, CA",
+      "datePosted": 1788991641,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:c6296417-4678-4d43-88fb-270f246b32cc",
+      "company": "ServiceNow",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229",
+      "location": "Santa Clara, CA",
+      "datePosted": 1788991638,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a0b55cc22d0d34036c8aea3",
       "company": "Amazon",
@@ -50,15 +72,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a5380168576ec69c014fee5",
+      "id": "newgrad-jobs:6a988529af954907d6573ca1",
       "company": "Copart",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a5380168576ec69c014fee5",
+      "url": "https://jobright.ai/jobs/info/6a988529af954907d6573ca1",
       "location": "Dallas, TX",
       "datePosted": 1788942504,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa1770a500b01124c77cc6f",
@@ -1299,28 +1321,6 @@
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259",
       "location": "Phoenix, AZ",
       "datePosted": 1788287453,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0646eda8-3850-44d3-a96a-03c80fee29bd",
-      "company": "American Express",
-      "title": "Data Engineer 1 - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286",
-      "location": "Phoenix, AZ",
-      "datePosted": 1788287453,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:042c934f-3d19-4615-bcc7-f10fe3a00bea",
-      "company": "American Express",
-      "title": "AI Engineer",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254",
-      "location": "Phoenix, AZ",
-      "datePosted": 1788287452,
       "source": "aggregator",
       "season": null,
       "isNew": false
