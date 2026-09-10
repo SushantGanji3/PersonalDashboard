@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-10T14:30:19Z",
-  "totalOpen": 1077,
+  "generatedAt": "2026-09-10T14:40:16Z",
+  "totalOpen": 1079,
   "totalNewgrad": 240,
-  "totalOther": 837,
+  "totalOther": 839,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:56f4272c-eb9c-4641-ae79-27f09b8c78a4",
+      "company": "L3Harris",
+      "title": "Software Engineer Intern - Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Lynchburg-Software-Engineer-Intern-VA-24501-6952/1428447700/?ats=successfactors",
+      "location": "Lynchburg, VA",
+      "datePosted": 1789049790,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:f4acfdee-2d38-45db-a129-6a8e9671e853",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-NY-14610/1428444000/?ats=successfactors",
+      "location": "Rochester, NY",
+      "datePosted": 1789049776,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a96fba4f5337b2cf731f09e",
       "company": "Plaid",
@@ -14,7 +36,7 @@
       "datePosted": 1789021855,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa1e8052f936e4a53daeaee",
@@ -688,10 +710,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1788969536,
       "source": "newgrad-jobs",
@@ -1299,28 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/282331",
       "location": "Palo Alto, CA",
       "datePosted": 1788473498,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:596dd9f7-ec11-4d3b-99e8-bcce4bd4a605",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern - Optimus",
-      "url": "https://www.tesla.com/careers/search/job/282340",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788473480,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:cca91aa9-bfb8-4738-8e08-5d0471286dd5",
-      "company": "Oracle",
-      "title": "Software Developer 1",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344446",
-      "location": "Nashville, TN",
-      "datePosted": 1788473065,
       "source": "aggregator",
       "season": null,
       "isNew": false
