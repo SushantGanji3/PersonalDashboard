@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:20:16Z",
+  "generatedAt": "2026-09-10T11:30:18Z",
   "totalOpen": 1082,
   "totalNewgrad": 245,
   "totalOther": 837,
@@ -69,6 +69,17 @@
       "datePosted": 1789002215,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1fc50dbc0e60e37e14988",
+      "company": "ICD Portal",
+      "title": "Summer 2027 Market Data Developer Internship",
+      "url": "https://jobright.ai/jobs/info/6aa1fc50dbc0e60e37e14988",
+      "location": "Jersey City, NJ",
+      "datePosted": 1788996780,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -358,17 +369,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1fc50dbc0e60e37e14988",
-      "company": "ICD Portal",
-      "title": "Summer 2027 Market Data Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6aa1fc50dbc0e60e37e14988",
-      "location": "Jersey City, NJ",
-      "datePosted": 1788975584,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a77c63a67a1ad0bc53cce34",
       "company": "Postman",
       "title": "AI Engineer, Internship - Summer 2026 - Applications Open Now",
@@ -644,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1900eef23570cae2448dd",
+      "id": "newgrad-jobs:6aa1933f0ffb3d4fea6b59ff",
       "company": "Shure",
       "title": "Application Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1900eef23570cae2448dd",
+      "url": "https://jobright.ai/jobs/info/6aa1933f0ffb3d4fea6b59ff",
       "location": "United States",
       "datePosted": 1788966664,
       "source": "newgrad-jobs",
