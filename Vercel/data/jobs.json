@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T16:40:18Z",
-  "totalOpen": 1080,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-09-10T16:50:18Z",
+  "totalOpen": 1079,
+  "totalNewgrad": 240,
   "totalOther": 839,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,15 +28,48 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1b2702f936e4a53dad877",
+      "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
+      "company": "SpaceX",
+      "title": "Software Engineer, Telemetry (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
+      "location": "Hawthorne, CA",
+      "datePosted": 1789030239,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a693d7a05bae84301b5b391",
+      "company": "SpaceX",
+      "title": "Operations Engineer, Applied AI (Application Software)",
+      "url": "https://jobright.ai/jobs/info/6a693d7a05bae84301b5b391",
+      "location": "Redmond, WA",
+      "datePosted": 1789029950,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8629fdd34f700f87fc0c5a",
+      "company": "Copart",
+      "title": "Site Reliability Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a8629fdd34f700f87fc0c5a",
+      "location": "Dallas, TX",
+      "datePosted": 1789029168,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa1a290dbc0e60e37e12b38",
       "company": "CACI International Inc",
       "title": "DevOps/Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa1b2702f936e4a53dad877",
+      "url": "https://jobright.ai/jobs/info/6aa1a290dbc0e60e37e12b38",
       "location": "Denver, CO; Westminster, CO",
       "datePosted": 1789028383,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a95b241f28891320e85d54e",
@@ -70,6 +103,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a99db058a8b765bc55f5ed7",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6a99db058a8b765bc55f5ed7",
+      "location": "Marietta, GA",
+      "datePosted": 1789022060,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9add669c24314c35f95a25",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9add669c24314c35f95a25",
+      "location": "Englewood, CO",
+      "datePosted": 1789022060,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a96fba4f5337b2cf731f09e",
@@ -116,12 +171,56 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a4d436e3122a76a8fd54d45",
+      "company": "Nscale",
+      "title": "Systems Engineer - Early Career",
+      "url": "https://jobright.ai/jobs/info/6a4d436e3122a76a8fd54d45",
+      "location": "Seattle, WA",
+      "datePosted": 1789014488,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a54804c8a74e077472fbfca",
       "company": "Hive",
       "title": "Systems Engineer / DevOps",
       "url": "https://jobright.ai/jobs/info/6a54804c8a74e077472fbfca",
       "location": "Seattle, WA",
       "datePosted": 1789013253,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8612e8e459fa3baa865c33",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a8612e8e459fa3baa865c33",
+      "location": "San Jose, CA",
+      "datePosted": 1789012668,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a887e6fe8b6601d12906ff1",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a887e6fe8b6601d12906ff1",
+      "location": "Rome, NY",
+      "datePosted": 1789009388,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a554c7a268af95237beaaa8",
+      "company": "Relativity",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a554c7a268af95237beaaa8",
+      "location": "Illinois, United States",
+      "datePosted": 1789008415,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -743,17 +842,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1d0e4ef23570cae246633",
-      "company": "MITRE",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1d0e4ef23570cae246633",
-      "location": "McLean, VA",
-      "datePosted": 1788969902,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
@@ -762,17 +850,6 @@
       "datePosted": 1788969536,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa07b94a2266b538d230b79",
-      "company": "Allegion",
-      "title": "Summer Intern - Software Engineering - DevOps",
-      "url": "https://jobright.ai/jobs/info/6aa07b94a2266b538d230b79",
-      "location": "Carmel, IN; Golden, CO",
-      "datePosted": 1788969425,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
@@ -787,89 +864,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1fc5b0ffb3d4fea6b816b",
-      "company": "Trimble Inc.",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1fc5b0ffb3d4fea6b816b",
-      "location": "Dayton, OH; Knoxville, TN; Lake Oswego, OR; Portsmouth, NH; Princeton, NJ; Sunnyvale, CA; Westminster, CO",
-      "datePosted": 1788968245,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1df1a0ffb3d4fea6b791a",
-      "company": "NinjaHoldings",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1df1a0ffb3d4fea6b791a",
-      "location": "Chicago, IL",
-      "datePosted": 1788968106,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa1df12dbc0e60e37e14113",
       "company": "NinjaHoldings",
       "title": "Data Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6aa1df12dbc0e60e37e14113",
       "location": "Chicago, IL",
       "datePosted": 1788968098,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1de090ffb3d4fea6b788f",
-      "company": "Apple",
-      "title": "Software Engineer, Apple Ads",
-      "url": "https://jobright.ai/jobs/info/6aa1de090ffb3d4fea6b788f",
-      "location": "Cupertino, CA",
-      "datePosted": 1788967833,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1d93b0ffb3d4fea6b76ff",
-      "company": "Amazon",
-      "title": "Software Development Engineer, iOS",
-      "url": "https://jobright.ai/jobs/info/6aa1d93b0ffb3d4fea6b76ff",
-      "location": "Cambridge, MA",
-      "datePosted": 1788966603,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa2023f2f936e4a53daf2f2",
-      "company": "General Dynamics",
-      "title": "Cybersecurity Systems Engineer - Entry Level",
-      "url": "https://jobright.ai/jobs/info/6aa2023f2f936e4a53daf2f2",
-      "location": "Manassas, VA",
-      "datePosted": 1788966273,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1f3b7dbc0e60e37e14636",
-      "company": "General Dynamics",
-      "title": "Software Engineer (Proficient in JAVA)",
-      "url": "https://jobright.ai/jobs/info/6aa1f3b7dbc0e60e37e14636",
-      "location": "Pittsfield, MA",
-      "datePosted": 1788966097,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1f354500b01124c77fbe3",
-      "company": "General Dynamics",
-      "title": "Systems Engineer Entry Level - clearance required",
-      "url": "https://jobright.ai/jobs/info/6aa1f354500b01124c77fbe3",
-      "location": "Dedham, MA",
-      "datePosted": 1788966015,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
