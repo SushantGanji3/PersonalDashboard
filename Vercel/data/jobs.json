@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T15:10:18Z",
-  "totalOpen": 1079,
-  "totalNewgrad": 240,
+  "generatedAt": "2026-09-10T15:12:59Z",
+  "totalOpen": 1080,
+  "totalNewgrad": 241,
   "totalOther": 839,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a860428d34f700f87fbfb14",
+      "company": "SpaceX",
+      "title": "Wi-Fi Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a860428d34f700f87fbfb14",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789023716,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a96fba4f5337b2cf731f09e",
@@ -859,17 +870,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1b0543272060a8e3f18a6",
       "location": "West Des Moines, IA",
       "datePosted": 1788964662,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1ce812f936e4a53dae3ce",
-      "company": "Collins Aerospace",
-      "title": "Flight Control Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa1ce812f936e4a53dae3ce",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788963857,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
