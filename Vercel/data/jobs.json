@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T06:50:17Z",
-  "totalOpen": 1083,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-09-10T07:00:20Z",
+  "totalOpen": 1079,
+  "totalNewgrad": 243,
   "totalOther": 836,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -69,6 +69,17 @@
       "datePosted": 1789002215,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1f71c500b01124c77fdf5",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa1f71c500b01124c77fdf5",
+      "location": "San Diego, CA; Washington, DC; Dallas, TX; Seattle, WA",
+      "datePosted": 1788994692,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -171,28 +182,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa23c201ba58d0180051304",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa23c201ba58d0180051304",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1788991920,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa23c0de08d606695dac251",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa23c0de08d606695dac251",
-      "location": "Overland Park, KS; Bellevue, WA",
-      "datePosted": 1788991901,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:c6296417-4678-4d43-88fb-270f246b32cc",
       "company": "ServiceNow",
       "title": "Software Engineer",
@@ -232,17 +221,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1e2fd0ffb3d4fea6b7a52",
       "location": "Los Angeles, CA; Portland, ME; Santa Monica, CA",
       "datePosted": 1788987761,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa13393500b01124c77bc24",
-      "company": "Boeing",
-      "title": "Boeing - Wichita Summer 2027 Internship Program (Paid) - Programmer Analyst / Developer - IDT&S",
-      "url": "https://jobright.ai/jobs/info/6aa13393500b01124c77bc24",
-      "location": "Wichita, KS",
-      "datePosted": 1788986940,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -377,17 +355,6 @@
       "datePosted": 1788974520,
       "source": "newgrad-jobs",
       "season": "Summer 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1f71c500b01124c77fdf5",
-      "company": "Shield AI",
-      "title": "Summer 2027 - Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1f71c500b01124c77fdf5",
-      "location": "San Diego, CA; Washington, DC; Dallas, TX; Seattle, WA",
-      "datePosted": 1788974252,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -578,10 +545,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
+      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
+      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1788969536,
       "source": "newgrad-jobs",
@@ -655,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1933f0ffb3d4fea6b59ff",
+      "id": "newgrad-jobs:6aa1900eef23570cae2448dd",
       "company": "Shure",
       "title": "Application Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1933f0ffb3d4fea6b59ff",
+      "url": "https://jobright.ai/jobs/info/6aa1900eef23570cae2448dd",
       "location": "United States",
       "datePosted": 1788966664,
       "source": "newgrad-jobs",
@@ -839,6 +806,39 @@
       "datePosted": 1788963825,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1ce332f936e4a53dae3a7",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa1ce332f936e4a53dae3a7",
+      "location": "Aurora, CO",
+      "datePosted": 1788963779,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1cdf8ef23570cae246586",
+      "company": "RTX",
+      "title": "Systems Engineer I- Onsite Portsmouth, RI",
+      "url": "https://jobright.ai/jobs/info/6aa1cdf8ef23570cae246586",
+      "location": "Portsmouth, RI",
+      "datePosted": 1788963720,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1cde8ef23570cae246582",
+      "company": "RTX",
+      "title": "Software Engineer I  (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa1cde8ef23570cae246582",
+      "location": "Tewksbury, MA",
+      "datePosted": 1788963704,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
