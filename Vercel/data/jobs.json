@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T21:40:16Z",
-  "totalOpen": 1086,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-09-10T21:50:54Z",
+  "totalOpen": 1087,
+  "totalNewgrad": 244,
   "totalOther": 843,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,50 @@
       "datePosted": 1789049776,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8838ade8b6601d12905d6c",
+      "company": "Ria Money Transfer",
+      "title": "SQL Developer",
+      "url": "https://jobright.ai/jobs/info/6a8838ade8b6601d12905d6c",
+      "location": "Buena Park, CA",
+      "datePosted": 1789048747,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4c0a6b5d7b097d2df3f2d2",
+      "company": "Notion",
+      "title": "Software Engineer, Early Career",
+      "url": "https://jobright.ai/jobs/info/6a4c0a6b5d7b097d2df3f2d2",
+      "location": "San Francisco, CA",
+      "datePosted": 1789048269,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1c399500b01124c77ed59",
+      "company": "IBM",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa1c399500b01124c77ed59",
+      "location": "Boston, MA; Raleigh, NC",
+      "datePosted": 1789047737,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1d337dbc0e60e37e13dce",
+      "company": "Tesla",
+      "title": "Internship, Machine Learning Engineer, Factory Software (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa1d337dbc0e60e37e13dce",
+      "location": "Fremont, CA",
+      "datePosted": 1789047737,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -83,22 +127,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa059deea127c3794696902",
-      "company": "IBM",
-      "title": "Entry Level QA/Test Developer",
-      "url": "https://jobright.ai/jobs/info/6aa059deea127c3794696902",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1789046927,
+      "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
+      "company": "OneStream Software",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa08c1f5b2d5633ef3bf46c",
+      "location": "Birmingham, MI; Chicago, IL; Fort Lauderdale, FL; New York, NY",
+      "datePosted": 1789047261,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1c399500b01124c77ed59",
+      "id": "newgrad-jobs:6aa059deea127c3794696902",
       "company": "IBM",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa1c399500b01124c77ed59",
-      "location": "Boston, MA; Raleigh, NC",
+      "title": "Entry Level QA/Test Developer",
+      "url": "https://jobright.ai/jobs/info/6aa059deea127c3794696902",
+      "location": "Poughkeepsie, NY",
       "datePosted": 1789046927,
       "source": "newgrad-jobs",
       "season": null,
@@ -122,17 +166,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1f147dbc0e60e37e144e2",
       "location": "Austin, TX",
       "datePosted": 1789046676,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
-      "company": "OneStream Software",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa08c1f5b2d5633ef3bf46c",
-      "location": "Birmingham, MI; Chicago, IL; Fort Lauderdale, FL; New York, NY",
-      "datePosted": 1789046588,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -182,15 +215,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8838ade8b6601d12905d6c",
-      "company": "Ria Money Transfer",
-      "title": "SQL Developer",
-      "url": "https://jobright.ai/jobs/info/6a8838ade8b6601d12905d6c",
-      "location": "Buena Park, CA",
-      "datePosted": 1789041073,
+      "id": "newgrad-jobs:6a0ada69a203b1052e44f414",
+      "company": "Ivo",
+      "title": "Software Engineer, Backend",
+      "url": "https://jobright.ai/jobs/info/6a0ada69a203b1052e44f414",
+      "location": "San Francisco, CA",
+      "datePosted": 1789041084,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a32aab5f6b55d12c7914f0e",
@@ -303,6 +336,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a68e4e205bae84301b59368",
+      "company": "Crusoe Energy",
+      "title": "Software Engineer I, Storage",
+      "url": "https://jobright.ai/jobs/info/6a68e4e205bae84301b59368",
+      "location": "San Francisco, CA",
+      "datePosted": 1789034522,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a8618704afae74a083436a4",
       "company": "SpaceX",
       "title": "Software Engineer (Application Software)",
@@ -314,23 +358,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a85d1e274e02153f14587bb",
+      "company": "SpaceX",
+      "title": "Software Engineer, Inference (AI Data Engineering)",
+      "url": "https://jobright.ai/jobs/info/6a85d1e274e02153f14587bb",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789033640,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a445911b156014e414bc46b",
       "company": "SpaceX",
       "title": "Software Engineer (Starlink Enterprise)",
       "url": "https://jobright.ai/jobs/info/6a445911b156014e414bc46b",
       "location": "Palo Alto, CA",
       "datePosted": 1789032388,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a85d1e274e02153f14587bb",
-      "company": "SpaceX",
-      "title": "Software Engineer, Inference (AI Data Engineering)",
-      "url": "https://jobright.ai/jobs/info/6a85d1e274e02153f14587bb",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789032241,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -641,50 +685,6 @@
       "datePosted": 1789009763,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5ec528f3674a0545d2ae8f",
-      "company": "Applied Systems",
-      "title": "Associate Software Engineer / Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a5ec528f3674a0545d2ae8f",
-      "location": "United States; Canada",
-      "datePosted": 1789008805,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a554c7a268af95237beaaa8",
-      "company": "Relativity",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a554c7a268af95237beaaa8",
-      "location": "Illinois, United States",
-      "datePosted": 1789008415,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a86675174e02153f145bc5b",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a86675174e02153f145bc5b",
-      "location": "San Jose, CA",
-      "datePosted": 1789008222,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8619d0cc81eb647e9f1680",
-      "company": "Booz Allen Hamilton",
-      "title": "AI Engineer, Junior",
-      "url": "https://jobright.ai/jobs/info/6a8619d0cc81eb647e9f1680",
-      "location": "San Antonio, TX",
-      "datePosted": 1789008154,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
