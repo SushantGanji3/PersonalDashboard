@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-10T02:00:20Z",
-  "totalOpen": 1078,
+  "generatedAt": "2026-09-10T02:10:16Z",
+  "totalOpen": 1079,
   "totalNewgrad": 242,
-  "totalOther": 836,
+  "totalOther": 837,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d",
+      "company": "Cursor",
+      "title": "Software Engineer New Grad - 2027",
+      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
+      "location": "SF, NYC",
+      "datePosted": 1789003401,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:cc42178a-cb7e-4d51-9f4c-a0cfc4b81f50",
       "company": "Epic Games",
@@ -1310,17 +1321,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
       "location": "Costa Mesa, CA",
       "datePosted": 1788402460,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6e3c0adb-d5a0-4338-84f4-8952eff0c717",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern - High Voltage Systems",
-      "url": "https://www.tesla.com/careers/search/job/282227",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788402441,
       "source": "aggregator",
       "season": null,
       "isNew": false
