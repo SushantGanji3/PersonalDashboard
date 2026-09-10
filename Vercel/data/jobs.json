@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T18:20:17Z",
-  "totalOpen": 1090,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-09-10T18:30:19Z",
+  "totalOpen": 1088,
+  "totalNewgrad": 245,
   "totalOther": 843,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1789036128,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a863807e459fa3baa866d31",
@@ -47,7 +47,29 @@
       "datePosted": 1789035418,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a1554a3554b0e12c0581b12",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a1554a3554b0e12c0581b12",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789034578,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a693d7a05bae84301b5b391",
+      "company": "SpaceX",
+      "title": "Operations Engineer, Applied AI (Application Software)",
+      "url": "https://jobright.ai/jobs/info/6a693d7a05bae84301b5b391",
+      "location": "Redmond, WA",
+      "datePosted": 1789033532,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a445911b156014e414bc46b",
@@ -80,7 +102,7 @@
       "datePosted": 1789032120,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4b615b6189f64e437eec95",
@@ -94,6 +116,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
+      "company": "SpaceX",
+      "title": "Software Engineer, Telemetry (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
+      "location": "Hawthorne, CA",
+      "datePosted": 1789031496,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a5fd8fa8c7fd835513bb729",
       "company": "Palantir",
       "title": "Software Engineer, Internship",
@@ -102,7 +135,7 @@
       "datePosted": 1789031373,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a063968320bff2205eaa361",
@@ -113,7 +146,7 @@
       "datePosted": 1789031373,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a85cc69e459fa3baa863d6b",
@@ -133,28 +166,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5",
       "location": "Poughkeepsie, NY; Durham, NC",
       "datePosted": 1789030284,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
-      "company": "SpaceX",
-      "title": "Software Engineer, Telemetry (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
-      "location": "Hawthorne, CA",
-      "datePosted": 1789030239,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a693d7a05bae84301b5b391",
-      "company": "SpaceX",
-      "title": "Operations Engineer, Applied AI (Application Software)",
-      "url": "https://jobright.ai/jobs/info/6a693d7a05bae84301b5b391",
-      "location": "Redmond, WA",
-      "datePosted": 1789029950,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -292,6 +303,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa1c3712f936e4a53dade4d",
+      "company": "IBM",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa1c3712f936e4a53dade4d",
+      "location": "Lowell, MA",
+      "datePosted": 1789013891,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a8da9d225fc4e7ae3dbcd68",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
@@ -300,7 +322,7 @@
       "datePosted": 1789013537,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a54804c8a74e077472fbfca",
@@ -431,17 +453,6 @@
       "location": "SF, NYC",
       "datePosted": 1789003401,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1c3712f936e4a53dade4d",
-      "company": "IBM",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa1c3712f936e4a53dade4d",
-      "location": "Lowell, MA",
-      "datePosted": 1789003239,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -859,17 +870,6 @@
       "url": "https://jobright.ai/jobs/info/6a8562bae459fa3baa862398",
       "location": "Santa Clara, CA",
       "datePosted": 1788974220,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1d01a0ffb3d4fea6b7472",
-      "company": "Serco",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aa1d01a0ffb3d4fea6b7472",
-      "location": "Orlando, FL",
-      "datePosted": 1788973984,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
