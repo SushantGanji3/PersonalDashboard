@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T19:10:16Z",
-  "totalOpen": 1083,
-  "totalNewgrad": 240,
+  "generatedAt": "2026-09-10T19:20:27Z",
+  "totalOpen": 1081,
+  "totalNewgrad": 238,
   "totalOther": 843,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,6 +36,17 @@
       "datePosted": 1789039739,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "company": "Garmin",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
+      "location": "Chandler, AZ",
+      "datePosted": 1789039625,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -47,7 +58,7 @@
       "datePosted": 1789038670,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8562bae459fa3baa862398",
@@ -182,10 +193,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
+      "id": "newgrad-jobs:6a4b615b6189f64e437eec95",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
+      "url": "https://jobright.ai/jobs/info/6a4b615b6189f64e437eec95",
       "location": "New York, NY; Palo Alto, CA",
       "datePosted": 1789031809,
       "source": "newgrad-jobs",
@@ -193,22 +204,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a5fd8fa8c7fd835513bb729",
+      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
       "company": "Palantir",
-      "title": "Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a5fd8fa8c7fd835513bb729",
-      "location": "Denver, CO; New York, NY; Palo Alto, CA; Washington, DC",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
+      "location": "New York, NY",
       "datePosted": 1789031373,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6a063968320bff2205eaa361",
+      "id": "newgrad-jobs:6a552986377f983ce8a982eb",
       "company": "Palantir",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
-      "location": "New York, NY",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a552986377f983ce8a982eb",
+      "location": "Denver, CO; New York, NY; Palo Alto, CA; Washington, DC",
       "datePosted": 1789031373,
       "source": "newgrad-jobs",
       "season": null,
@@ -407,9 +418,20 @@
       "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
       "url": "https://jobright.ai/jobs/info/6a8da9d225fc4e7ae3dbcd68",
       "location": "Seattle, WA",
-      "datePosted": 1789013537,
+      "datePosted": 1789013771,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a86674974e02153f145bc5a",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a86674974e02153f145bc5a",
+      "location": "San Jose, CA",
+      "datePosted": 1789013549,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -457,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a86674974e02153f145bc5a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a86674974e02153f145bc5a",
-      "location": "San Jose, CA",
-      "datePosted": 1789011497,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a86a18a2f4f0014cae29f71",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
@@ -487,7 +498,7 @@
       "datePosted": 1789009763,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5ec528f3674a0545d2ae8f",
@@ -859,17 +870,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1e791500b01124c77f96f",
       "location": "El Segundo, CA; Colorado Springs, CO; Chantilly, VA",
       "datePosted": 1788979969,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1e6d7ef23570cae246c48",
-      "company": "ZincFive, Inc.",
-      "title": "Data Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aa1e6d7ef23570cae246c48",
-      "location": "Tualatin, OR",
-      "datePosted": 1788979251,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
