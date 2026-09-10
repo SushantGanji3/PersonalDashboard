@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T07:50:16Z",
-  "totalOpen": 1079,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-09-10T08:00:24Z",
+  "totalOpen": 1081,
+  "totalNewgrad": 245,
   "totalOther": 836,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -68,6 +68,17 @@
       "location": "Austin, TX",
       "datePosted": 1789002215,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
+      "company": "Deloitte",
+      "title": "Palantir Developer, Consultant",
+      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
+      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
+      "datePosted": 1788995889,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -545,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1788969536,
       "source": "newgrad-jobs",
@@ -628,17 +639,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1900eef23570cae2448dd",
       "location": "United States",
       "datePosted": 1788966664,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
-      "company": "Deloitte",
-      "title": "Palantir Developer, Consultant",
-      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
-      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
-      "datePosted": 1788966627,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -809,17 +809,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1ce332f936e4a53dae3a7",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa1ce332f936e4a53dae3a7",
-      "location": "Aurora, CO",
-      "datePosted": 1788963779,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa1cdf8ef23570cae246586",
       "company": "RTX",
       "title": "Systems Engineer I- Onsite Portsmouth, RI",
@@ -837,6 +826,17 @@
       "url": "https://jobright.ai/jobs/info/6aa1cde8ef23570cae246582",
       "location": "Tewksbury, MA",
       "datePosted": 1788963704,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1cdd1ef23570cae246570",
+      "company": "Collins Aerospace",
+      "title": "Software Engineering I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa1cdd1ef23570cae246570",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1788963681,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
