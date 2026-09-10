@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T02:10:16Z",
-  "totalOpen": 1079,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-09-10T02:20:21Z",
+  "totalOpen": 1084,
+  "totalNewgrad": 247,
   "totalOther": 837,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789003401,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cc42178a-cb7e-4d51-9f4c-a0cfc4b81f50",
@@ -193,12 +193,89 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1fc6d0ffb3d4fea6b8174",
+      "id": "newgrad-jobs:6aa204740ffb3d4fea6b843b",
+      "company": "Epic Games",
+      "title": "UI Programmer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa204740ffb3d4fea6b843b",
+      "location": "Cary, NC",
+      "datePosted": 1788979047,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa204852f936e4a53daf36d",
+      "company": "Epic Games",
+      "title": "Backend Services Programmer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa204852f936e4a53daf36d",
+      "location": "Cary, NC",
+      "datePosted": 1788979047,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa1e791500b01124c77f96f",
+      "company": "The Aerospace Corporation",
+      "title": "2027 Machine Learning Engineering Graduate Intern",
+      "url": "https://jobright.ai/jobs/info/6aa1e791500b01124c77f96f",
+      "location": "El Segundo, CA; Colorado Springs, CO; Chantilly, VA",
+      "datePosted": 1788977782,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa20353ef23570cae2474f9",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aa20353ef23570cae2474f9",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1788977379,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa20316dbc0e60e37e14bf6",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aa20316dbc0e60e37e14bf6",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1788977318,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa2003fef23570cae247442",
+      "company": "Westinghouse Electric Company",
+      "title": "Summer Intern -Computer Engineering / Software Engineering Job Details | Westinghouse Electric Company, LLC",
+      "url": "https://jobright.ai/jobs/info/6aa2003fef23570cae247442",
+      "location": "Cranberry Township, PA; Warrendale, PA; Blairsville, PA; New Stanton, PA",
+      "datePosted": 1788976591,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa1fec30ffb3d4fea6b828d",
+      "company": "Adobe",
+      "title": "Quality Engineering Developer - Mobile",
+      "url": "https://jobright.ai/jobs/info/6aa1fec30ffb3d4fea6b828d",
+      "location": "San Jose, CA",
+      "datePosted": 1788976211,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa1fc51500b01124c77ffb1",
       "company": "ICD Portal",
-      "title": "Summer 2027 AI Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6aa1fc6d0ffb3d4fea6b8174",
+      "title": "Summer 2027 IFI Application Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6aa1fc51500b01124c77ffb1",
       "location": "Jersey City, NJ",
-      "datePosted": 1788975613,
+      "datePosted": 1788976024,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -209,7 +286,29 @@
       "title": "Summer 2027 C++ Distributed Systems Developer Internship",
       "url": "https://jobright.ai/jobs/info/6aa1fc6a3272060a8e3f3157",
       "location": "Jersey City, NJ",
-      "datePosted": 1788975610,
+      "datePosted": 1788976008,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1fc6d0ffb3d4fea6b8174",
+      "company": "ICD Portal",
+      "title": "Summer 2027 AI Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6aa1fc6d0ffb3d4fea6b8174",
+      "location": "Jersey City, NJ",
+      "datePosted": 1788975990,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1fc46ef23570cae247272",
+      "company": "ICD Portal",
+      "title": "Summer 2027 Java Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6aa1fc46ef23570cae247272",
+      "location": "Jersey City, NJ",
+      "datePosted": 1788975988,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -226,34 +325,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1fc51500b01124c77ffb1",
-      "company": "ICD Portal",
-      "title": "Summer 2027 IFI Application Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6aa1fc51500b01124c77ffb1",
-      "location": "Jersey City, NJ",
-      "datePosted": 1788975585,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa1fc50dbc0e60e37e14988",
       "company": "ICD Portal",
       "title": "Summer 2027 Market Data Developer Internship",
       "url": "https://jobright.ai/jobs/info/6aa1fc50dbc0e60e37e14988",
       "location": "Jersey City, NJ",
       "datePosted": 1788975584,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1fc46ef23570cae247272",
-      "company": "ICD Portal",
-      "title": "Summer 2027 Java Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6aa1fc46ef23570cae247272",
-      "location": "Jersey City, NJ",
-      "datePosted": 1788975574,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -468,14 +545,25 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
+      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
+      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1788969536,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa07b94a2266b538d230b79",
+      "company": "Allegion",
+      "title": "Summer Intern - Software Engineering - DevOps",
+      "url": "https://jobright.ai/jobs/info/6aa07b94a2266b538d230b79",
+      "location": "Carmel, IN; Golden, CO",
+      "datePosted": 1788969425,
+      "source": "newgrad-jobs",
+      "season": "Summer",
       "isNew": false
     },
     {
@@ -534,15 +622,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1900eef23570cae2448dd",
+      "id": "newgrad-jobs:6aa1933f0ffb3d4fea6b59ff",
       "company": "Shure",
       "title": "Application Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1900eef23570cae2448dd",
+      "url": "https://jobright.ai/jobs/info/6aa1933f0ffb3d4fea6b59ff",
       "location": "United States",
       "datePosted": 1788966664,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
@@ -565,6 +653,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa2023f2f936e4a53daf2f2",
+      "company": "General Dynamics",
+      "title": "Cybersecurity Systems Engineer - Entry Level",
+      "url": "https://jobright.ai/jobs/info/6aa2023f2f936e4a53daf2f2",
+      "location": "Manassas, VA",
+      "datePosted": 1788966273,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa1f3b7dbc0e60e37e14636",
@@ -608,6 +707,17 @@
       "datePosted": 1788965063,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa17ab7500b01124c77cd44",
+      "company": "S&P Global",
+      "title": "Software Engineer - Summer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa17ab7500b01124c77cd44",
+      "location": "Cambridge, MA; New York, NY",
+      "datePosted": 1788964924,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -738,116 +848,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1cdd1ef23570cae246570",
       "location": "Cedar Rapids, IA",
       "datePosted": 1788963681,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa17ab43272060a8e3eff0c",
-      "company": "S&P Global",
-      "title": "Machine Learning Engineer - Summer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa17ab43272060a8e3eff0c",
-      "location": "Cambridge, MA; New York, NY",
-      "datePosted": 1788962778,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1beafdbc0e60e37e1358f",
-      "company": "Red Hat",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa1beafdbc0e60e37e1358f",
-      "location": "Raleigh, NC; Boston, MA; Lowell, MA",
-      "datePosted": 1788962721,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa17ab7500b01124c77cd44",
-      "company": "S&P Global",
-      "title": "Software Engineer - Summer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa17ab7500b01124c77cd44",
-      "location": "Cambridge, MA; New York, NY",
-      "datePosted": 1788962177,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8dc84525fc4e7ae3dbdc87",
-      "company": "TheGuarantors",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8dc84525fc4e7ae3dbdc87",
-      "location": "New York, NY",
-      "datePosted": 1788961854,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1c4e42f936e4a53dadf60",
-      "company": "Leader Bank",
-      "title": "Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aa1c4e42f936e4a53dadf60",
-      "location": "Arlington, MA",
-      "datePosted": 1788961396,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1aa9ddbc0e60e37e12f4b",
-      "company": "Hypertherm Associates",
-      "title": "Summer Intern - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa1aa9ddbc0e60e37e12f4b",
-      "location": "Lebanon, NH",
-      "datePosted": 1788961262,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1c40bef23570cae2460ff",
-      "company": "Nth Cycle",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa1c40bef23570cae2460ff",
-      "location": "Burlington, MA",
-      "datePosted": 1788961179,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1c399500b01124c77ed59",
-      "company": "IBM",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa1c399500b01124c77ed59",
-      "location": "Boston, MA; Raleigh, NC",
-      "datePosted": 1788961065,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a56a168efb06a45240d7365",
-      "company": "Redwire",
-      "title": "Full Stack Software Engineer (Full Stack Developer All levels)",
-      "url": "https://jobright.ai/jobs/info/6a56a168efb06a45240d7365",
-      "location": "Chantilly, VA",
-      "datePosted": 1788960929,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa173fa2f936e4a53dabc35",
-      "company": "Lexington Medical, Inc",
-      "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa173fa2f936e4a53dabc35",
-      "location": "Bedford, MA",
-      "datePosted": 1788960817,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
