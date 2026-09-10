@@ -158,7 +158,7 @@
   </header>
 
   <div class="jobs-source-tabs" id="jobs-source-tabs">
-    <button class="jobs-source-tab active" id="tab-source-newgrad" onclick="setJobsSource('newgrad')">NewGrad-Jobs.com <span class="tab-badge" id="count-source-newgrad">0</span></button>
+    <button class="jobs-source-tab active" id="tab-source-newgrad" onclick="setJobsSource('newgrad')">new-gradjobs.com &amp; intern-list.com <span class="tab-badge" id="count-source-newgrad">0</span></button>
     <button class="jobs-source-tab" id="tab-source-aggregator" onclick="setJobsSource('aggregator')">Simplify &amp; GitHub Feeds <span class="tab-badge" id="count-source-aggregator">0</span></button>
     <button class="jobs-source-tab" id="tab-source-all" onclick="setJobsSource('all')">All Sources <span class="tab-badge" id="count-source-all">0</span></button>
   </div>
@@ -411,7 +411,7 @@
     const list = document.getElementById('job-list');
     const appliedInView = items.filter(p => !!p._appMatch).length;
     const countEl = document.getElementById('count');
-    const sourceLabel = activeSource === 'newgrad' ? 'NewGrad-Jobs.com' : (activeSource === 'aggregator' ? 'Simplify & GitHub Feeds' : 'All Sources');
+    const sourceLabel = activeSource === 'newgrad' ? 'new-gradjobs.com & intern-list.com' : (activeSource === 'aggregator' ? 'Simplify & GitHub Feeds' : 'All Sources');
     if(appliedInView > 0){
       countEl.textContent = `${items.length} shown in ${sourceLabel} · ${appliedInView} applied`;
     } else {

@@ -1208,7 +1208,7 @@
         </div>
         <div class="jobs-source-tabs" id="jobs-source-tabs">
           <button class="jobs-source-tab active" id="tab-source-newgrad" onclick="setJobsSource('newgrad')">
-            NewGrad-Jobs.com <span class="tab-badge" id="count-source-newgrad">0</span>
+            new-gradjobs.com &amp; intern-list.com <span class="tab-badge" id="count-source-newgrad">0</span>
           </button>
           <button class="jobs-source-tab" id="tab-source-aggregator" onclick="setJobsSource('aggregator')">
             Simplify &amp; GitHub Feeds <span class="tab-badge" id="count-source-aggregator">0</span>
@@ -1970,7 +1970,7 @@
     const unappliedCount = typeItems.length - appliedCount;
 
     const subEl = document.getElementById('jobs-sub');
-    const sourceLabel = jobsSource === 'newgrad' ? 'NewGrad-Jobs.com' : (jobsSource === 'aggregator' ? 'Simplify & GitHub Feeds' : 'All Sources');
+    const sourceLabel = jobsSource === 'newgrad' ? 'new-gradjobs.com & intern-list.com' : (jobsSource === 'aggregator' ? 'Simplify & GitHub Feeds' : 'All Sources');
     const totalForSource = jobsSource === 'newgrad' ? (doc.totalNewgrad ?? newgradItems.length) : (jobsSource === 'aggregator' ? (doc.totalOther ?? aggregatorItems.length) : (doc.totalOpen ?? items.length));
     if(appliedCount > 0){
       subEl.textContent = `${sourceLabel} · ${totalForSource} open · ${appliedCount} applied`;
