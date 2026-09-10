@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T05:00:19Z",
-  "totalOpen": 1084,
+  "generatedAt": "2026-09-10T05:10:21Z",
+  "totalOpen": 1083,
   "totalNewgrad": 247,
-  "totalOther": 837,
+  "totalOther": 836,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -171,17 +171,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:fad8dfc2-103b-425b-923f-9e4176ee1e3d",
-      "company": "ServiceNow",
-      "title": "Software Engineer - AI Developer Products",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148580489",
-      "location": "San Diego, CA",
-      "datePosted": 1788991641,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:c6296417-4678-4d43-88fb-270f246b32cc",
       "company": "ServiceNow",
       "title": "Software Engineer",
@@ -201,7 +190,7 @@
       "datePosted": 1788986940,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa2205a2fa1697a731596d0",
@@ -1321,6 +1310,17 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
       "location": "Costa Mesa, CA",
       "datePosted": 1788402460,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:6e3c0adb-d5a0-4338-84f4-8952eff0c717",
+      "company": "Tesla",
+      "title": "Embedded Software Engineer Intern - High Voltage Systems",
+      "url": "https://www.tesla.com/careers/search/job/282227",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788402441,
       "source": "aggregator",
       "season": null,
       "isNew": false
