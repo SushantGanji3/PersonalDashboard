@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-10T22:30:20Z",
-  "totalOpen": 1085,
+  "generatedAt": "2026-09-10T22:40:14Z",
+  "totalOpen": 1089,
   "totalNewgrad": 242,
-  "totalOther": 843,
+  "totalOther": 847,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:9377f3dd-8421-4a2c-8af8-4be42ec6b607",
+      "company": "Rover",
+      "title": "Software Engineer - Recommendations",
+      "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply",
+      "location": "Seattle, WA",
+      "datePosted": 1789077978,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:56f4272c-eb9c-4641-ae79-27f09b8c78a4",
       "company": "L3Harris",
@@ -754,6 +765,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:a5205150-c68d-4b65-b961-cd54d104ac76",
+      "company": "Zoom",
+      "title": "Software Development Engineer",
+      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer_R19357-1",
+      "location": "San Jose, CA",
+      "datePosted": 1788998400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:50162e18-1bb9-44c1-94a0-0922daf6f38b",
       "company": "Tesla",
       "title": "Software Engineer Intern - IT Apps",
@@ -1299,28 +1321,6 @@
       "url": "https://careers-gdms.icims.com/jobs/74778/job?mobile=true&needsRedirect=false",
       "location": "Manassas, VA",
       "datePosted": 1788474214,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1215457c-e499-4e58-b72b-fb231b5eb754",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Torque Path & Chassis Controls - Vehicle Software",
-      "url": "https://www.tesla.com/careers/search/job/282255",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788473612,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d6bbc3f2-149a-4cb2-9752-3bcd80011975",
-      "company": "Tesla",
-      "title": "Embedded Systems Software Engineer Intern - AI Platforms",
-      "url": "https://www.tesla.com/careers/search/job/282331",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788473498,
       "source": "aggregator",
       "season": null,
       "isNew": false
