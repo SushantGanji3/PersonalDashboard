@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-09-10T13:00:20Z",
-  "totalOpen": 1082,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-09-10T13:10:18Z",
+  "totalOpen": 1074,
+  "totalNewgrad": 237,
   "totalOther": 837,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a54804c8a74e077472fbfca",
+      "company": "Hive",
+      "title": "Systems Engineer / DevOps",
+      "url": "https://jobright.ai/jobs/info/6a54804c8a74e077472fbfca",
+      "location": "Seattle, WA",
+      "datePosted": 1789013253,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a86675174e02153f145bc5b",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6a86675174e02153f145bc5b",
+      "location": "San Jose, CA",
+      "datePosted": 1789007614,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8667454afae74a08344c4f",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6a8667454afae74a08344c4f",
+      "location": "San Jose, CA",
+      "datePosted": 1789007585,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a866758d34f700f87fc1a2a",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a866758d34f700f87fc1a2a",
+      "location": "San Jose, CA",
+      "datePosted": 1789007579,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8612df4afae74a083432a1",
+      "company": "TikTok",
+      "title": "Machine Learning MLOps Intern (Global SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a8612df4afae74a083432a1",
+      "location": "San Jose, CA",
+      "datePosted": 1789007369,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d",
       "company": "Cursor",
@@ -15,6 +70,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1c3712f936e4a53dade4d",
+      "company": "IBM",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa1c3712f936e4a53dade4d",
+      "location": "Lowell, MA",
+      "datePosted": 1789003239,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:cc42178a-cb7e-4d51-9f4c-a0cfc4b81f50",
@@ -72,6 +138,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
+      "company": "Deloitte",
+      "title": "Palantir Developer, Consultant",
+      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
+      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
+      "datePosted": 1789002147,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1c4852f936e4a53dadf28",
+      "company": "Gravitate",
+      "title": "Software Engineer - Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa1c4852f936e4a53dadf28",
+      "location": "Dallas, TX",
+      "datePosted": 1789001631,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa1f9172f936e4a53daefae",
+      "company": "Boston Scientific",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa1f9172f936e4a53daefae",
+      "location": "Arden Hills, MN",
+      "datePosted": 1789001603,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa1fc50dbc0e60e37e14988",
       "company": "ICD Portal",
       "title": "Summer 2027 Market Data Developer Internship",
@@ -80,17 +179,6 @@
       "datePosted": 1788996780,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
-      "company": "Deloitte",
-      "title": "Palantir Developer, Consultant",
-      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
-      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
-      "datePosted": 1788995889,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -688,17 +776,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1f33a3272060a8e3f2dda",
-      "company": "Publicis Sapient",
-      "title": "Software Engineer Intern (Class of 2028)",
-      "url": "https://jobright.ai/jobs/info/6aa1f33a3272060a8e3f2dda",
-      "location": "Chicago, IL",
-      "datePosted": 1788966017,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa1f354500b01124c77fbe3",
       "company": "General Dynamics",
       "title": "Systems Engineer Entry Level - clearance required",
@@ -721,17 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa17ab7500b01124c77cd44",
-      "company": "S&P Global",
-      "title": "Software Engineer - Summer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa17ab7500b01124c77cd44",
-      "location": "Cambridge, MA; New York, NY",
-      "datePosted": 1788964924,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa1b0543272060a8e3f18a6",
       "company": "American Equity",
       "title": "Data Engineer Intern",
@@ -740,61 +806,6 @@
       "datePosted": 1788964662,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1d0c6ef23570cae246632",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Autonomy Systems Foundations (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa1d0c6ef23570cae246632",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788964438,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:69ff4f95fa1aa73213d8ba44",
-      "company": "Hermeus",
-      "title": "Flight Software Engineering Intern - Fall 2026",
-      "url": "https://jobright.ai/jobs/info/69ff4f95fa1aa73213d8ba44",
-      "location": "Atlanta, GA",
-      "datePosted": 1788964351,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7cd1d6d77e8156a8e34665",
-      "company": "WD",
-      "title": "Summer 2027 Intern - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a7cd1d6d77e8156a8e34665",
-      "location": "San Jose, CA; Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN",
-      "datePosted": 1788964219,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a972144f5337b2cf7320317",
-      "company": "Hermeus",
-      "title": "Software Engineering Intern (HIL) - Spring/Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a972144f5337b2cf7320317",
-      "location": "Atlanta, GA",
-      "datePosted": 1788964070,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9a6a22e6c97d4b970af660",
-      "company": "Hermeus",
-      "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a9a6a22e6c97d4b970af660",
-      "location": "Atlanta, GA",
-      "datePosted": 1788964033,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -837,17 +848,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1cde8ef23570cae246582",
       "location": "Tewksbury, MA",
       "datePosted": 1788963704,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1cdd1ef23570cae246570",
-      "company": "Collins Aerospace",
-      "title": "Software Engineering I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa1cdd1ef23570cae246570",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788963681,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
