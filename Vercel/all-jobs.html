@@ -434,6 +434,10 @@
       const row = document.createElement('div');
       const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
       const m = p._appMatch;
+      const postedTitle = p.datePosted ? fmtDate(p.datePosted * 1000) : '';
+      const postedHtml = p.datePosted
+        ? `<span class="job-posted" title="Posted ${escapeHtml(postedTitle)}">Posted ${timeAgo(p.datePosted * 1000)} ago</span>`
+        : '';
 
       if(m){
         const app = m.app;
@@ -459,7 +463,7 @@
           </div>
           <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
           <div class="job-meta-row">
-            <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
+            <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}${postedHtml ? ' · ' + postedHtml : ''}</div>
             <div class="job-applied-meta status-${escapeHtml(status)}">Applied ${appliedAgo ? appliedAgo + ' ago' : ''}</div>
           </div>
         `;
@@ -472,7 +476,7 @@
             ${seasonHtml}
           </div>
           <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
-          <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
+          <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}${postedHtml ? ' · ' + postedHtml : ''}</div>
         `;
       }
       list.appendChild(row);

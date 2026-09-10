@@ -2031,6 +2031,10 @@
       const m = p._appMatch;
       const isFromNewgrad = p.source === 'newgrad-jobs' || (p.id && String(p.id).startsWith('newgrad-jobs:'));
       const sourceTagHtml = jobsSource === 'all' ? `<span class="chip" style="font-size:9px;padding:1px 6px;margin-left:4px;">${isFromNewgrad ? 'newgrad' : 'simplify'}</span>` : '';
+      const postedTitle = p.datePosted ? fmtDate(p.datePosted * 1000) : '';
+      const postedHtml = p.datePosted
+        ? `<span class="job-posted" title="Posted ${escapeHtml(postedTitle)}">Posted ${timeAgo(p.datePosted * 1000)} ago</span>`
+        : '';
 
       if(m){
         const app = m.app;
@@ -2056,7 +2060,7 @@
           </div>
           <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
           <div class="job-meta-row">
-            <span class="job-loc">${escapeHtml(p.location || 'Location n/a')}</span>
+            <span class="job-loc">${escapeHtml(p.location || 'Location n/a')}${postedHtml ? ' · ' + postedHtml : ''}</span>
             <span class="job-applied-meta status-${escapeHtml(status)}">Applied ${appliedAgo ? appliedAgo + ' ago' : ''}</span>
           </div>
         `;
@@ -2071,7 +2075,7 @@
             </div>
           </div>
           <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
-          <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>
+          <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}${postedHtml ? ' · ' + postedHtml : ''}</div>
         `;
       }
       list.appendChild(row);

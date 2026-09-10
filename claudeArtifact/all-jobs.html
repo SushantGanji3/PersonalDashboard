@@ -91,6 +91,18 @@
     return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   }
 
+  function timeAgo(dateStr){
+    if(!dateStr) return '';
+    const then = new Date(dateStr).getTime();
+    if(isNaN(then)) return '';
+    const diffMin = Math.round((Date.now()-then)/60000);
+    if(diffMin < 1) return 'just now';
+    if(diffMin < 60) return diffMin + 'm';
+    const diffH = Math.round(diffMin/60);
+    if(diffH < 24) return diffH + 'h';
+    return Math.round(diffH/24) + 'd';
+  }
+
   function setStatus(kind, text){
     const chip = document.getElementById('status-chip');
     chip.className = 'chip ' + kind;
@@ -111,9 +123,12 @@
       const row = document.createElement('div');
       row.className = 'job-row';
       const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
+      const postedHtml = p.datePosted
+        ? `<span class="job-posted" title="Posted ${escapeHtml(new Date(p.datePosted * 1000).toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' }))}">Posted ${timeAgo(p.datePosted * 1000)} ago</span>`
+        : '';
       row.innerHTML = `<div class="job-top"><span class="job-company">${escapeHtml(p.company)}</span></div>
         <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
-        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>`;
+        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}${postedHtml ? ' · ' + postedHtml : ''}</div>`;
       list.appendChild(row);
     });
   }

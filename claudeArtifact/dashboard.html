@@ -924,12 +924,15 @@
       const row = document.createElement('div');
       row.className='job-row';
       const safeUrl = /^https?:\/\//i.test(p.url || '') ? p.url : '#';
+      const postedHtml = p.datePosted
+        ? `<span class="job-posted" title="Posted ${escapeHtml(new Date(p.datePosted * 1000).toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' }))}">Posted ${timeAgo(p.datePosted * 1000)} ago</span>`
+        : '';
       row.innerHTML = `<div class="job-top">
           <span class="job-company">${escapeHtml(p.company)}</span>
           ${p.isNew ? '<span class="job-new-badge">NEW</span>' : ''}
         </div>
         <a class="job-title" href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
-        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}</div>`;
+        <div class="job-loc">${escapeHtml(p.location || 'Location n/a')}${postedHtml ? ' · ' + postedHtml : ''}</div>`;
       list.appendChild(row);
     });
     const footer = document.createElement('div');
