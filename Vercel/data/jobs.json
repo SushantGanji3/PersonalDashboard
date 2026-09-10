@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T21:10:20Z",
-  "totalOpen": 1084,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-09-10T21:10:38Z",
+  "totalOpen": 1083,
+  "totalNewgrad": 240,
   "totalOther": 843,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1789047656,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a99bd37ad752e2ad55018ea",
@@ -47,18 +47,7 @@
       "datePosted": 1789047656,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a9a209913883870605928bd",
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9a209913883870605928bd",
-      "location": "San Jose, CA",
-      "datePosted": 1789047574,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7a2528b17cba5690365a31",
@@ -80,7 +69,7 @@
       "datePosted": 1789047574,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a73862c8cd88e7ccbf58f71",
@@ -91,7 +80,7 @@
       "datePosted": 1789046787,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa1f147dbc0e60e37e144e2",
@@ -105,17 +94,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
-      "company": "OneStream Software",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa08c1f5b2d5633ef3bf46c",
-      "location": "Birmingham, MI; Chicago, IL; Fort Lauderdale, FL; New York, NY",
-      "datePosted": 1789046588,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a834f0eb5a0ac0e84a24f30",
       "company": "American Express",
       "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
@@ -124,7 +102,7 @@
       "datePosted": 1789045985,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a99c25f8a8b765bc55f542b",
@@ -688,6 +666,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a8612df4afae74a083432a1",
+      "company": "TikTok",
+      "title": "Machine Learning MLOps Intern (Global SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a8612df4afae74a083432a1",
+      "location": "San Jose, CA",
+      "datePosted": 1789007369,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d",
       "company": "Cursor",
       "title": "Software Engineer New Grad - 2027",
@@ -750,6 +739,17 @@
       "location": "Austin, TX",
       "datePosted": 1789002215,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
+      "company": "Deloitte",
+      "title": "Palantir Developer, Consultant",
+      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
+      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
+      "datePosted": 1789002147,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
