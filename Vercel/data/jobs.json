@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T22:10:17Z",
-  "totalOpen": 1096,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-09-11T22:20:18Z",
+  "totalOpen": 1095,
+  "totalNewgrad": 245,
   "totalOther": 850,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,28 @@
       "location": "Palo Alto, CA",
       "datePosted": 1789137294,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa03261ea127c3794695671",
+      "company": "Altamira Technologies Corporation",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa03261ea127c3794695671",
+      "location": "Warrenton, VA",
+      "datePosted": 1789136587,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa45290f3aa936e2cdb0cb0",
+      "company": "HealthStream",
+      "title": "Associate Developer",
+      "url": "https://jobright.ai/jobs/info/6aa45290f3aa936e2cdb0cb0",
+      "location": "United States",
+      "datePosted": 1789135533,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -105,17 +127,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa45290f3aa936e2cdb0cb0",
-      "company": "HealthStream",
-      "title": "Associate Developer",
-      "url": "https://jobright.ai/jobs/info/6aa45290f3aa936e2cdb0cb0",
-      "location": "United States",
-      "datePosted": 1789128736,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa44feec1928370a285d783",
       "company": "Tesla",
       "title": "Internship, Software Engineer, Data Platforms (Winter/Spring 2027)",
@@ -138,6 +149,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa4720d1d92e2d05d114cb4",
+      "company": "ECS",
+      "title": "Junior Data Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6aa4720d1d92e2d05d114cb4",
+      "location": "Fairfax, VA",
+      "datePosted": 1789127559,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa46ab41d92e2d05d114af3",
       "company": "Burns & McDonnell",
       "title": "Software Developer Intern - Transmission & Distribution (St. Louis)",
@@ -158,6 +180,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa46ff8f7baf881567ceba9",
+      "company": "IBM",
+      "title": "Research AI Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa46ff8f7baf881567ceba9",
+      "location": "Yorktown Heights, NY",
+      "datePosted": 1789127069,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa44b72f7baf881567ce320",
@@ -193,6 +226,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a92d931d18f75674827c553",
+      "company": "talentpluto",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a92d931d18f75674827c553",
+      "location": "New York, NY",
+      "datePosted": 1789124866,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa442ac8275e3a21175faac",
       "company": "Zachary Piper Solutions",
       "title": "Jr. Software Engineer",
@@ -210,17 +254,6 @@
       "url": "https://jobright.ai/jobs/info/6a90caa8d96ad228f1263436",
       "location": "Durham, NC",
       "datePosted": 1789124329,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a92d931d18f75674827c553",
-      "company": "talentpluto",
-      "title": "Full Stack Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a92d931d18f75674827c553",
-      "location": "New York, NY",
-      "datePosted": 1789124136,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -325,10 +358,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3319b229c90c607e4da31a",
+      "id": "newgrad-jobs:6a3319ae649fdf16292f0c8d",
       "company": "SpaceX",
       "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
-      "url": "https://jobright.ai/jobs/info/6a3319b229c90c607e4da31a",
+      "url": "https://jobright.ai/jobs/info/6a3319ae649fdf16292f0c8d",
       "location": "Hawthorne, CA; Redmond, WA",
       "datePosted": 1789120713,
       "source": "newgrad-jobs",
@@ -413,10 +446,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9866de11f73b6462c8e6bd",
+      "id": "newgrad-jobs:6a9a7baafe45b8490f603c59",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6a9a7baafe45b8490f603c59",
+      "location": "Marlborough, MA",
+      "datePosted": 1789118920,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a986500af954907d65731a1",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6a9866de11f73b6462c8e6bd",
+      "url": "https://jobright.ai/jobs/info/6a986500af954907d65731a1",
       "location": "Colorado Springs, CO",
       "datePosted": 1789118909,
       "source": "newgrad-jobs",
@@ -652,50 +696,6 @@
       "datePosted": 1789108269,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a536ed38a74e077472f8581",
-      "company": "PreludeSys",
-      "title": ".net developer",
-      "url": "https://jobright.ai/jobs/info/6a536ed38a74e077472f8581",
-      "location": "Illinois, United States; Springfield, IL",
-      "datePosted": 1789107632,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3cbbe3a768473c9369626",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E3",
-      "url": "https://jobright.ai/jobs/info/6aa3cbbe3a768473c9369626",
-      "location": "Longmont, CO",
-      "datePosted": 1789107589,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a99e5de90a313642c6537f2",
-      "company": "Boeing",
-      "title": "Associate Systems Engineer - Health Management",
-      "url": "https://jobright.ai/jobs/info/6a99e5de90a313642c6537f2",
-      "location": "Hazelwood, MO",
-      "datePosted": 1789107536,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a96fba4f5337b2cf731f09e",
-      "company": "Plaid",
-      "title": "Software Engineer, Backend",
-      "url": "https://jobright.ai/jobs/info/6a96fba4f5337b2cf731f09e",
-      "location": "Seattle, WA",
-      "datePosted": 1789106767,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
