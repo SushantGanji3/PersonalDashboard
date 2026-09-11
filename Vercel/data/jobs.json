@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-11T15:00:33Z",
-  "totalOpen": 1088,
+  "generatedAt": "2026-09-11T15:04:15Z",
+  "totalOpen": 1090,
   "totalNewgrad": 237,
-  "totalOther": 851,
+  "totalOther": 853,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Data Platforms",
+      "url": "https://www.tesla.com/careers/search/job/283117",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789137299,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:43f7ea35-f35d-4add-a344-e6dc42c8dbaa",
+      "company": "Tesla",
+      "title": "Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus",
+      "url": "https://www.tesla.com/careers/search/job/283128",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789137294,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a9a51851388387060593301",
       "company": "Qualcomm",
@@ -25,7 +47,7 @@
       "datePosted": 1789110177,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa409aef3aa936e2cdaf6b7",
@@ -36,7 +58,7 @@
       "datePosted": 1789110078,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a975ca5455eaf6a08c1c55e",
@@ -69,7 +91,7 @@
       "datePosted": 1789109667,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa406b9f3aa936e2cdaf5db",
@@ -80,7 +102,7 @@
       "datePosted": 1789109321,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa40500c1928370a285c10f",
@@ -113,7 +135,7 @@
       "datePosted": 1789107536,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a96fba4f5337b2cf731f09e",
@@ -267,7 +289,7 @@
       "datePosted": 1789099031,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa3fce51d92e2d05d112bb5",
@@ -974,17 +996,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:7ca37683-268a-4dd7-a974-d250fd211b31",
-      "company": "RTX",
-      "title": "Software Engineering Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Summer-Fall-2027-_01872236",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788912000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:0c9f983c-f1b8-4bca-b322-145dd1b08a99",
       "company": "RTX",
       "title": "Software Engineering Intern",
@@ -1183,6 +1194,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:c57e2c6f-2938-4b78-bfba-117161231118",
+      "company": "RTX",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1788825600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:ce4fe8a4-cdaa-4b4e-9502-a07e904fba4e",
       "company": "RTX",
       "title": "Artificial Intelligence / Machine Learning Methods Intern",
@@ -1299,28 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/282301",
       "location": "Palo Alto, CA",
       "datePosted": 1788531288,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d3f54d58-9f89-4689-b91d-f9e03013c3ca",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
-      "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true",
-      "location": "San Mateo, CA",
-      "datePosted": 1788486573,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:7f24593d-1433-4515-9bd7-2e99e1078d7d",
-      "company": "Zoox",
-      "title": "Autonomy Safety Data Engineer",
-      "url": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply",
-      "location": "Foster City, CA",
-      "datePosted": 1788483939,
       "source": "aggregator",
       "season": null,
       "isNew": false
