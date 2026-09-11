@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T10:00:24Z",
-  "totalOpen": 1091,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-09-11T10:10:18Z",
+  "totalOpen": 1090,
+  "totalNewgrad": 238,
   "totalOther": 852,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,17 @@
       "datePosted": 1789086950,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:f5b391e6-764a-4995-96ae-c6e50664aef5",
+      "company": "Zoom",
+      "title": "Software Engineer - Workforce Engagement Management",
+      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R19646-1",
+      "location": "San Jose, CA",
+      "datePosted": 1789084800,
+      "source": "aggregator",
+      "season": null,
       "isNew": true
     },
     {
@@ -688,17 +699,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3b9145c11cce360365e66",
-      "company": "VCS HR",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aa3b9145c11cce360365e66",
-      "location": "Freehold Township, NJ",
-      "datePosted": 1789043216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
       "company": "SpaceX",
       "title": "Software Engineer, Telemetry (Starlink)",
@@ -719,6 +719,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5a789d856af468ab008bca",
+      "company": "OM GROUP INC.",
+      "title": "Junior Power Platform Developer - Rock Island, IL - Secret Clearance",
+      "url": "https://jobright.ai/jobs/info/6a5a789d856af468ab008bca",
+      "location": "Rock Island, IL",
+      "datePosted": 1789040745,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a32aab5f6b55d12c7914f0e",
@@ -952,6 +963,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:ee67af4a-8753-4241-9b42-a9a820130aa6",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
+      "location": "Redondo Beach, CA, Palmdale, CA, Oklahoma City, OK, San Diego, CA, Emerado, ND, El Segundo, CA",
+      "datePosted": 1788912000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:0c9f983c-f1b8-4bca-b322-145dd1b08a99",
       "company": "RTX",
       "title": "Software Engineering Intern",
@@ -1128,17 +1150,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:e7f91d55-7af9-4814-886b-7cec1ce1222e",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
-      "location": "Roy, UT",
-      "datePosted": 1788825600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:f28ae9aa-51ea-4eed-9d3d-587981e3c6b3",
       "company": "RTX",
       "title": "Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply",
       "location": "Foster City, CA",
       "datePosted": 1788483939,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ea127849-c2ce-48a3-8ef5-8024831dc02e",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Robotics",
-      "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
-      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
-      "datePosted": 1788483835,
       "source": "aggregator",
       "season": null,
       "isNew": false
