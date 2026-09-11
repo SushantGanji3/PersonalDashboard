@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-11T23:00:23Z",
-  "totalOpen": 1098,
+  "generatedAt": "2026-09-11T23:10:16Z",
+  "totalOpen": 1100,
   "totalNewgrad": 241,
-  "totalOther": 857,
+  "totalOther": 859,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
+      "company": "Tesla",
+      "title": "Data Engineer Intern - Fleet Analytics",
+      "url": "https://www.tesla.com/careers/search/job/283138",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789165808,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ebc7d1a1-b5b8-4837-b209-d99b4aa18795",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "location": "Redmond, WA",
+      "datePosted": 1789165434,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:c7521562-9599-4ee6-a407-0b8d73212142",
       "company": "Lyft",
@@ -245,7 +267,7 @@
       "datePosted": 1789126766,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a96c444246d697dcee012c3",
@@ -1299,28 +1321,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528",
       "location": "McKinney, TX",
       "datePosted": 1788825600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
-      "company": "Dropbox",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8106224",
-      "location": "Remote in USA",
-      "datePosted": 1788799432,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:4c2c8e7d-cddf-48d9-b0cc-075ea6d1d6ff",
-      "company": "TikTok",
-      "title": "Data Engineer Graduate",
-      "url": "https://lifeattiktok.com/search/7681779180341709109",
-      "location": "San Jose, CA",
-      "datePosted": 1788769693,
       "source": "aggregator",
       "season": null,
       "isNew": false
