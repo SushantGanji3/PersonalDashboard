@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T00:10:16Z",
-  "totalOpen": 1096,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-09-11T00:20:17Z",
+  "totalOpen": 1097,
+  "totalNewgrad": 247,
   "totalOther": 850,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -88,7 +88,7 @@
       "title": "Software Developer Intern",
       "url": "https://jobright.ai/jobs/info/6a315aafc477a5075f48c83e",
       "location": "Laramie, WY; Fort Collins, CO",
-      "datePosted": 1789054586,
+      "datePosted": 1789054641,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -314,15 +314,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
-      "location": "Chandler, AZ",
+      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
+      "location": "Olathe, KS",
       "datePosted": 1789039625,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a85630fe12474455273e11d",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a85630fe12474455273e11d",
+      "location": "Santa Clara, CA",
+      "datePosted": 1789039352,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a65006f8d5360344960763e",
@@ -367,6 +378,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a959603f28891320e85c98b",
+      "company": "CACI International Inc",
+      "title": "Software Engineering Co-op - Summer & Fall 2027",
+      "url": "https://jobright.ai/jobs/info/6a959603f28891320e85c98b",
+      "location": "Danbury, CT",
+      "datePosted": 1789036529,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95a2e34c22023a07934c1c",
+      "company": "CACI International Inc",
+      "title": "Software Engineering Co-op - Spring & Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a95a2e34c22023a07934c1c",
+      "location": "Danbury, CT",
+      "datePosted": 1789036529,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8562d7c1a3fd7120f74ddc",
@@ -454,7 +487,7 @@
       "datePosted": 1789033099,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a445911b156014e414bc46b",
@@ -479,10 +512,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a4b615b6189f64e437eec95",
+      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a4b615b6189f64e437eec95",
+      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
       "location": "New York, NY; Palo Alto, CA",
       "datePosted": 1789031809,
       "source": "newgrad-jobs",
@@ -501,10 +534,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
+      "id": "newgrad-jobs:6a063968320bff2205eaa361",
       "company": "Palantir",
       "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
+      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
       "location": "New York, NY",
       "datePosted": 1789031373,
       "source": "newgrad-jobs",
@@ -685,39 +718,6 @@
       "datePosted": 1789019387,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a694ca13b549b0b531d4f6c",
-      "company": "Qualcomm",
-      "title": "Entry Level & Senior Software Engineer, AI Software Platform (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6a694ca13b549b0b531d4f6c",
-      "location": "San Diego, CA",
-      "datePosted": 1789019000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4d436e3122a76a8fd54d45",
-      "company": "Nscale",
-      "title": "Systems Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6a4d436e3122a76a8fd54d45",
-      "location": "Seattle, WA",
-      "datePosted": 1789014488,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da9d225fc4e7ae3dbcd68",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a8da9d225fc4e7ae3dbcd68",
-      "location": "Seattle, WA",
-      "datePosted": 1789013771,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
       "isNew": false
     },
     {
