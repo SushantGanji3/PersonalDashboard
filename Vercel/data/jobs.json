@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T12:40:17Z",
-  "totalOpen": 1086,
-  "totalNewgrad": 235,
+  "generatedAt": "2026-09-11T12:50:18Z",
+  "totalOpen": 1090,
+  "totalNewgrad": 239,
   "totalOther": 851,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a34202df6b55d12c791b1df",
+      "company": "MANTECH",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a34202df6b55d12c791b1df",
+      "location": "Saint Inigoes, MD",
+      "datePosted": 1789100846,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:69fa70230b36ff03547627cf",
+      "company": "Nuro",
+      "title": "Software Engineer, ML Data Infrastructure",
+      "url": "https://jobright.ai/jobs/info/69fa70230b36ff03547627cf",
+      "location": "Mountain View, CA; CA, United States",
+      "datePosted": 1789099249,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3cb754233a2201a2b3bc4",
+      "company": "Madison Metropolitan School District",
+      "title": "Programmer I - Doyle - 1.0 FTE - SY 26-27",
+      "url": "https://jobright.ai/jobs/info/6aa3cb754233a2201a2b3bc4",
+      "location": "Madison, WI",
+      "datePosted": 1789097902,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e421c2c964816f65ec795",
+      "company": "VT Group (VTG)",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9e421c2c964816f65ec795",
+      "location": "Manassas, VA",
+      "datePosted": 1789097557,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a87428bd34f700f87fc465d",
@@ -56,6 +100,17 @@
       "url": "https://jobright.ai/jobs/info/6a887e6fe8b6601d12906ff1",
       "location": "Rome, NY",
       "datePosted": 1789094367,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1789093038,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -122,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
       "location": "Chandler, AZ",
       "datePosted": 1789082978,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3cb754233a2201a2b3bc4",
-      "company": "Madison Metropolitan School District",
-      "title": "Programmer I - Doyle - 1.0 FTE - SY 26-27",
-      "url": "https://jobright.ai/jobs/info/6aa3cb754233a2201a2b3bc4",
-      "location": "Madison, WI",
-      "datePosted": 1789081654,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -356,6 +400,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7e5b8c0cd4a0703257f552",
+      "company": "Fastly",
+      "title": "Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7e5b8c0cd4a0703257f552",
+      "location": "United States",
+      "datePosted": 1789062911,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9a209913883870605928bd",
@@ -589,6 +644,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa3da691d92e2d05d111ca1",
+      "company": "Los Angeles Unified School District",
+      "title": "Net Developer",
+      "url": "https://jobright.ai/jobs/info/6aa3da691d92e2d05d111ca1",
+      "location": "Los Angeles, CA",
+      "datePosted": 1789049705,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
       "company": "Adobe",
       "title": "2027 Intern - Machine Learning Engineer",
@@ -674,72 +740,6 @@
       "datePosted": 1789047670,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7a2528b17cba5690365a31",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6a7a2528b17cba5690365a31",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1789047574,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95fec94c22023a07937674",
-      "company": "Stripe",
-      "title": "Software Engineer, Intern",
-      "url": "https://jobright.ai/jobs/info/6a95fec94c22023a07937674",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
-      "datePosted": 1789047574,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa37947cb2e99857c2704a9",
-      "company": "Intramotev",
-      "title": "Associate Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa37947cb2e99857c2704a9",
-      "location": "St. Louis, MO",
-      "datePosted": 1789047473,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
-      "company": "OneStream Software",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa08c1f5b2d5633ef3bf46c",
-      "location": "Birmingham, MI; Chicago, IL; Fort Lauderdale, FL; New York, NY",
-      "datePosted": 1789047261,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa059deea127c3794696902",
-      "company": "IBM",
-      "title": "Entry Level QA/Test Developer",
-      "url": "https://jobright.ai/jobs/info/6aa059deea127c3794696902",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1789046927,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a73862c8cd88e7ccbf58f71",
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Dynamo - Fall 2026",
-      "url": "https://jobright.ai/jobs/info/6a73862c8cd88e7ccbf58f71",
-      "location": "Santa Clara, CA",
-      "datePosted": 1789046787,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
       "isNew": false
     },
     {
