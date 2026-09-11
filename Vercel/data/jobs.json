@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T06:40:17Z",
-  "totalOpen": 1101,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-09-11T06:50:17Z",
+  "totalOpen": 1104,
+  "totalNewgrad": 253,
   "totalOther": 851,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -50,6 +50,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
+      "company": "Viasat",
+      "title": "Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
+      "location": "Duluth, GA; Carlsbad, CA",
+      "datePosted": 1789076897,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa1e8f32f936e4a53daeb23",
       "company": "Northrop Grumman",
       "title": "CNO Analyst/Programmer (TG)",
@@ -72,15 +83,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
-      "company": "Viasat",
-      "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
-      "location": "Duluth, GA; Carlsbad, CA",
-      "datePosted": 1789073990,
+      "id": "newgrad-jobs:6a3dc1f2d261407de9801c87",
+      "company": "Applied Intuition",
+      "title": "Android Software Engineer - Applications",
+      "url": "https://jobright.ai/jobs/info/6a3dc1f2d261407de9801c87",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1789069664,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a39bb9f649fdf1629302ad0",
@@ -114,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa394ba4233a2201a2b235c",
+      "company": "Tata Consultancy Services",
+      "title": "Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa394ba4233a2201a2b235c",
+      "location": "Arlington, VA",
+      "datePosted": 1789055785,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa37bdfe38fb65a7df5366a",
@@ -180,6 +202,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa39622626f9945308b1b32",
+      "company": "Echo Global Logistics",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa39622626f9945308b1b32",
+      "location": "Chicago, IL",
+      "datePosted": 1789051948,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a99c25f8a8b765bc55f542b",
@@ -268,6 +301,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa38e42959a10d7230d25a0",
+      "company": "Bedrock Robotics",
+      "title": "Internship 2027 Behavior Machine Learning Engineer, World Models",
+      "url": "https://jobright.ai/jobs/info/6aa38e42959a10d7230d25a0",
+      "location": "San Francisco, CA",
+      "datePosted": 1789049765,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
@@ -424,6 +468,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa39263959a10d7230d275d",
+      "company": "SquareTrade",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa39263959a10d7230d275d",
+      "location": "Denver, CO",
+      "datePosted": 1789045044,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa387c3c5a856ac7e339d81",
       "company": "PACCAR",
       "title": "2027 Winter Internship - Software Developer Intern",
@@ -479,11 +534,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
+      "id": "newgrad-jobs:6aa394e35c11cce360364f0d",
+      "company": "Navitus Health Solutions",
+      "title": "Developer I, Application Systems",
+      "url": "https://jobright.ai/jobs/info/6aa394e35c11cce360364f0d",
+      "location": "United States",
+      "datePosted": 1789039664,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca4ca25fc4e7ae3db9993",
-      "location": "Olathe, KS",
+      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
+      "location": "Chandler, AZ",
       "datePosted": 1789039625,
       "source": "newgrad-jobs",
       "season": null,
@@ -650,72 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6a1554a3554b0e12c0581b12",
       "location": "Palo Alto, CA",
       "datePosted": 1789034578,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a68e4e205bae84301b59368",
-      "company": "Crusoe Energy",
-      "title": "Software Engineer I, Storage",
-      "url": "https://jobright.ai/jobs/info/6a68e4e205bae84301b59368",
-      "location": "San Francisco, CA",
-      "datePosted": 1789034522,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8618704afae74a083436a4",
-      "company": "SpaceX",
-      "title": "Software Engineer (Application Software)",
-      "url": "https://jobright.ai/jobs/info/6a8618704afae74a083436a4",
-      "location": "Hawthorne, CA",
-      "datePosted": 1789034324,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa389cec5a856ac7e339e73",
-      "company": "BAE Systems, Inc.",
-      "title": "Entry Level Software Engineer (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6aa389cec5a856ac7e339e73",
-      "location": "Rome, NY",
-      "datePosted": 1789034017,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a85d1e274e02153f14587bb",
-      "company": "SpaceX",
-      "title": "Software Engineer, Inference (AI Data Engineering)",
-      "url": "https://jobright.ai/jobs/info/6a85d1e274e02153f14587bb",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789033640,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a51e21902522b5b722ecfda",
-      "company": "True Anomaly",
-      "title": "Platform Engineer, AI (Levels I, II, III)",
-      "url": "https://jobright.ai/jobs/info/6a51e21902522b5b722ecfda",
-      "location": "Denver, CO; Long Beach, CA",
-      "datePosted": 1789033099,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa38777626f9945308b1489",
-      "company": "Zachary Piper Solutions",
-      "title": "Software Engineer I (Secret)",
-      "url": "https://jobright.ai/jobs/info/6aa38777626f9945308b1489",
-      "location": "San Diego, CA",
-      "datePosted": 1789032650,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
