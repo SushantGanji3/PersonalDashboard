@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T10:40:18Z",
-  "totalOpen": 1090,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-09-11T10:50:16Z",
+  "totalOpen": 1086,
+  "totalNewgrad": 234,
   "totalOther": 852,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,17 @@
       "location": "Redmond, WA",
       "datePosted": 1789109816,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a887e6fe8b6601d12906ff1",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a887e6fe8b6601d12906ff1",
+      "location": "Rome, NY",
+      "datePosted": 1789094367,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -50,26 +61,48 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
-      "location": "Chandler, AZ",
+      "url": "https://jobright.ai/jobs/info/6a8ca4ca25fc4e7ae3db9993",
+      "location": "Olathe, KS",
       "datePosted": 1789082978,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa381c25c11cce360364623",
+      "id": "newgrad-jobs:6aa3845e959a10d7230d20ff",
       "company": "Garmin",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa381c25c11cce360364623",
+      "url": "https://jobright.ai/jobs/info/6aa3845e959a10d7230d20ff",
       "location": "Cary, NC",
       "datePosted": 1789082978,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3c87e626f9945308b32b9",
+      "company": "Nominal",
+      "title": "Software Engineer - Internship (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa3c87e626f9945308b32b9",
+      "location": "New York, NY; Los Angeles, CA; Austin, TX",
+      "datePosted": 1789081728,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3cb754233a2201a2b3bc4",
+      "company": "Madison Metropolitan School District",
+      "title": "Programmer I - Doyle - 1.0 FTE - SY 26-27",
+      "url": "https://jobright.ai/jobs/info/6aa3cb754233a2201a2b3bc4",
+      "location": "Madison, WI",
+      "datePosted": 1789081654,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:3c5a73cb-e206-4607-bba3-aa3fbb3b51b9",
@@ -127,6 +160,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa3ac3e5c11cce3603658d8",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3ac3e5c11cce3603658d8",
+      "location": "San Jose, CA",
+      "datePosted": 1789076667,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa1e8f32f936e4a53daeb23",
       "company": "Northrop Grumman",
       "title": "CNO Analyst/Programmer (TG)",
@@ -147,6 +191,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3b791c5a856ac7e33b2a5",
+      "company": "Optum",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa3b791c5a856ac7e33b2a5",
+      "location": "United States",
+      "datePosted": 1789073734,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3c873626f9945308b32ac",
+      "company": "Collins Aerospace",
+      "title": "Software Engineer  I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa3c873626f9945308b32ac",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1789071586,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa3aa0e4238ea18d430d45b",
@@ -265,17 +331,6 @@
       "url": "https://jobright.ai/jobs/info/6aa3a43d959a10d7230d2ec5",
       "location": "Costa Mesa, CA",
       "datePosted": 1789060902,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3ac3e5c11cce3603658d8",
-      "company": "SK hynix memory solutions America Inc.",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3ac3e5c11cce3603658d8",
-      "location": "San Jose, CA",
-      "datePosted": 1789059279,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -501,6 +556,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa3c85e4233a2201a2b39bf",
+      "company": "Toyota Material Handling",
+      "title": "Computer Vision Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3c85e4233a2201a2b39bf",
+      "location": "Columbus, IN",
+      "datePosted": 1789048543,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa37c036b9ea4538f928bf3",
       "company": "SpaceX",
       "title": "Software Engineer, Test Engineering and Operations",
@@ -543,6 +609,17 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3c3ce959a10d7230d3d9a",
+      "company": "IBM",
+      "title": "Federal Developer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa3c3ce959a10d7230d3d9a",
+      "location": "Herndon, VA",
+      "datePosted": 1789047670,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7a2528b17cba5690365a31",
@@ -661,83 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6aa39263959a10d7230d275d",
       "location": "Denver, CO",
       "datePosted": 1789045044,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa39919626f9945308b1c89",
-      "company": "Hearst Television",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa39919626f9945308b1c89",
-      "location": "Carmel, IN",
-      "datePosted": 1789044866,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3865c959a10d7230d2230",
-      "company": "Tanium",
-      "title": "Software Engineering Intern \u2013\u00a0Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa3865c959a10d7230d2230",
-      "location": "Durham, NC; Emeryville, CA",
-      "datePosted": 1789043970,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa387c3c5a856ac7e339d81",
-      "company": "PACCAR",
-      "title": "2027 Winter Internship - Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa387c3c5a856ac7e339d81",
-      "location": "Renton, WA",
-      "datePosted": 1789043885,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
-      "company": "SpaceX",
-      "title": "Software Engineer, Telemetry (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
-      "location": "Hawthorne, CA",
-      "datePosted": 1789041216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a0ada69a203b1052e44f414",
-      "company": "Ivo",
-      "title": "Software Engineer, Backend",
-      "url": "https://jobright.ai/jobs/info/6a0ada69a203b1052e44f414",
-      "location": "San Francisco, CA",
-      "datePosted": 1789041084,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5a789d856af468ab008bca",
-      "company": "OM GROUP INC.",
-      "title": "Junior Power Platform Developer - Rock Island, IL - Secret Clearance",
-      "url": "https://jobright.ai/jobs/info/6a5a789d856af468ab008bca",
-      "location": "Rock Island, IL",
-      "datePosted": 1789040745,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a32aab5f6b55d12c7914f0e",
-      "company": "Swift",
-      "title": "Software Development Engineer in Test (SDET)",
-      "url": "https://jobright.ai/jobs/info/6a32aab5f6b55d12c7914f0e",
-      "location": "Manassas, VA",
-      "datePosted": 1789039739,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
