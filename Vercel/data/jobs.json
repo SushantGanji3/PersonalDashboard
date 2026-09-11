@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T22:50:15Z",
-  "totalOpen": 1101,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-09-11T23:00:23Z",
+  "totalOpen": 1098,
+  "totalNewgrad": 241,
   "totalOther": 857,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,17 @@
       "location": "NYC",
       "datePosted": 1789164508,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa45228422289703bd6621f",
+      "company": "HKA",
+      "title": "Junior IT Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa45228422289703bd6621f",
+      "location": "Las Vegas, NV; Phoenix, AZ",
+      "datePosted": 1789138377,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -116,17 +127,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa45228422289703bd6621f",
-      "company": "HKA",
-      "title": "Junior IT Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa45228422289703bd6621f",
-      "location": "Las Vegas, NV; Phoenix, AZ",
-      "datePosted": 1789130852,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa3f4f11d92e2d05d1127f7",
       "company": "DiligenceVault",
       "title": "AI Engineer Intern",
@@ -201,7 +201,7 @@
       "datePosted": 1789127312,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa46ab41d92e2d05d114af3",
@@ -235,6 +235,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa47484422289703bd66ab7",
+      "company": "Maximus",
+      "title": "Associate Software Engineer- Automation Tester",
+      "url": "https://jobright.ai/jobs/info/6aa47484422289703bd66ab7",
+      "location": "United States",
+      "datePosted": 1789126766,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a96c444246d697dcee012c3",
@@ -287,6 +298,17 @@
       "url": "https://jobright.ai/jobs/info/6a90caa8d96ad228f1263436",
       "location": "Durham, NC",
       "datePosted": 1789124329,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6be65057120971bf3a974a",
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Applied AI",
+      "url": "https://jobright.ai/jobs/info/6a6be65057120971bf3a974a",
+      "location": "Vandenberg Space Force Base, CA",
+      "datePosted": 1789124066,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -421,17 +443,6 @@
       "datePosted": 1789120680,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6be65057120971bf3a974a",
-      "company": "SpaceX",
-      "title": "Application Software Engineer, Applied AI",
-      "url": "https://jobright.ai/jobs/info/6a6be65057120971bf3a974a",
-      "location": "Vandenberg Space Force Base, CA",
-      "datePosted": 1789120613,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -705,17 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6a95adbaf28891320e85d234",
       "location": "Sunnyvale, CA",
       "datePosted": 1789109621,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa40500c1928370a285c10f",
-      "company": "A Full Renovation LLC",
-      "title": "Data Platform Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa40500c1928370a285c10f",
-      "location": "United States",
-      "datePosted": 1789108880,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
