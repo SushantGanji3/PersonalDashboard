@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-11T07:00:19Z",
-  "totalOpen": 1104,
+  "generatedAt": "2026-09-11T07:10:18Z",
+  "totalOpen": 1105,
   "totalNewgrad": 253,
-  "totalOther": 851,
+  "totalOther": 852,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
+      "company": "Microsoft",
+      "title": "Software Engineer - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+      "location": "Redmond, WA",
+      "datePosted": 1789109816,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:3c5a73cb-e206-4607-bba3-aa3fbb3b51b9",
       "company": "Tesla",
@@ -1310,17 +1321,6 @@
       "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
       "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
       "datePosted": 1788483835,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ad475401-fac8-42ad-815f-aa1452425e5e",
-      "company": "L3Harris",
-      "title": "Software Engineer - Engineering Leadership Development Program",
-      "url": "https://jobs.l3harris.com/job/Melbourne-Engineering-Leadership-Development-Program-Software-Engineer-(Various-Locations)-FL-32919/1426639800/?ats=successfactors",
-      "location": "Melbourne, FL",
-      "datePosted": 1788476702,
       "source": "aggregator",
       "season": null,
       "isNew": false
