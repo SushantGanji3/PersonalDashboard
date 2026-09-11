@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T00:00:22Z",
+  "generatedAt": "2026-09-11T00:10:16Z",
   "totalOpen": 1096,
-  "totalNewgrad": 245,
-  "totalOther": 851,
+  "totalNewgrad": 246,
+  "totalOther": 850,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -35,6 +35,17 @@
       "location": "Seattle, WA",
       "datePosted": 1789077978,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9a209913883870605928bd",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9a209913883870605928bd",
+      "location": "San Jose, CA",
+      "datePosted": 1789058325,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -89,17 +100,6 @@
       "url": "https://jobright.ai/jobs/info/6a99c25f8a8b765bc55f542b",
       "location": "Mountain View, CA",
       "datePosted": 1789051833,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9a209913883870605928bd",
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9a209913883870605928bd",
-      "location": "San Jose, CA",
-      "datePosted": 1789051826,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -446,6 +446,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a51e21902522b5b722ecfda",
+      "company": "True Anomaly",
+      "title": "Platform Engineer, AI (Levels I, II, III)",
+      "url": "https://jobright.ai/jobs/info/6a51e21902522b5b722ecfda",
+      "location": "Denver, CO; Long Beach, CA",
+      "datePosted": 1789033099,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a445911b156014e414bc46b",
       "company": "SpaceX",
       "title": "Software Engineer (Starlink Enterprise)",
@@ -707,17 +718,6 @@
       "datePosted": 1789013771,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a86674974e02153f145bc5a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a86674974e02153f145bc5a",
-      "location": "San Jose, CA",
-      "datePosted": 1789013549,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
