@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T20:40:18Z",
-  "totalOpen": 1094,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-09-11T20:50:15Z",
+  "totalOpen": 1097,
+  "totalNewgrad": 246,
   "totalOther": 851,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,28 @@
       "location": "Palo Alto, CA",
       "datePosted": 1789137294,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa45e778275e3a2117601a0",
+      "company": "Amazon",
+      "title": "Data Engineer 1, CIA Orchestration Team",
+      "url": "https://jobright.ai/jobs/info/6aa45e778275e3a2117601a0",
+      "location": "Austin, TX",
+      "datePosted": 1789131783,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3f4f11d92e2d05d1127f7",
+      "company": "DiligenceVault",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3f4f11d92e2d05d1127f7",
+      "location": "New York, NY",
+      "datePosted": 1789130683,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -674,28 +696,6 @@
       "datePosted": 1789106528,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3fa04f7baf881567cc822",
-      "company": "A Helping Hand Renovation LLC",
-      "title": "Data Platform Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3fa04f7baf881567cc822",
-      "location": "United States",
-      "datePosted": 1789106068,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3f87f8275e3a21175e39e",
-      "company": "A Helping Hand Renovation LLC",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3f87f8275e3a21175e39e",
-      "location": "United States",
-      "datePosted": 1789105679,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
