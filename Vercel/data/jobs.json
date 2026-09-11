@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T16:10:17Z",
-  "totalOpen": 1089,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-09-11T16:20:16Z",
+  "totalOpen": 1093,
+  "totalNewgrad": 240,
   "totalOther": 853,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,39 @@
       "location": "Palo Alto, CA",
       "datePosted": 1789137294,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3f5afc1928370a285ba18",
+      "company": "Argonne National Laboratory",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa3f5afc1928370a285ba18",
+      "location": "Lemont, IL",
+      "datePosted": 1789113580,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa41563422289703bd65043",
+      "company": "Akoncagua AI",
+      "title": "Full Stack Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa41563422289703bd65043",
+      "location": "Lakeland, FL",
+      "datePosted": 1789113075,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
+      "location": "New York, NY; Palo Alto, CA",
+      "datePosted": 1789112204,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -127,6 +160,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a95adbaf28891320e85d234",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6a95adbaf28891320e85d234",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1789109621,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa406b9f3aa936e2cdaf5db",
       "company": "A Full Renovation LLC",
       "title": "Machine Learning Engineer",
@@ -224,6 +268,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4187c8275e3a21175ee19",
+      "company": "A Full Renovation LLC",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa4187c8275e3a21175ee19",
+      "location": "United States",
+      "datePosted": 1789104770,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa3f4f11d92e2d05d1127f7",
@@ -534,22 +589,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
+      "id": "newgrad-jobs:6aa3845e959a10d7230d20ff",
       "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
-      "location": "Olathe, KS",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3845e959a10d7230d20ff",
+      "location": "Cary, NC",
       "datePosted": 1789082978,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3845e959a10d7230d20ff",
+      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
       "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3845e959a10d7230d20ff",
-      "location": "Cary, NC",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
+      "location": "Chandler, AZ",
       "datePosted": 1789082978,
       "source": "newgrad-jobs",
       "season": null,
@@ -622,10 +677,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
+      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
+      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1789076897,
       "source": "newgrad-jobs",
@@ -683,61 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6aa3aa0e4238ea18d430d45b",
       "location": "Burnsville, MN",
       "datePosted": 1789071576,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3ba27c5a856ac7e33b3df",
-      "company": "Exegy",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3ba27c5a856ac7e33b3df",
-      "location": "St. Louis, MO",
-      "datePosted": 1789070604,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3cd88626f9945308b35af",
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3cd88626f9945308b35af",
-      "location": "Dahlgren, VA; Fredericksburg, VA",
-      "datePosted": 1789069671,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a3dc1f2d261407de9801c87",
-      "company": "Applied Intuition",
-      "title": "Android Software Engineer - Applications",
-      "url": "https://jobright.ai/jobs/info/6a3dc1f2d261407de9801c87",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1789069664,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3b9125c11cce360365e65",
-      "company": "RF-SMART",
-      "title": "Product Engineering Software Developer Internship - Spring & Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa3b9125c11cce360365e65",
-      "location": "Jacksonville, FL",
-      "datePosted": 1789068783,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a72f52f5049141ad172bf7a",
-      "company": "TikTok",
-      "title": "Backend Software Engineer Intern (Creation Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a72f52f5049141ad172bf7a",
-      "location": "San Jose, CA",
-      "datePosted": 1789068724,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
