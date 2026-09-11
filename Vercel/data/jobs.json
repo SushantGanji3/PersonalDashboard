@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T22:40:17Z",
-  "totalOpen": 1102,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-09-11T22:50:15Z",
+  "totalOpen": 1101,
+  "totalNewgrad": 244,
   "totalOther": 857,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789164508,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:81848c6b-09e5-4393-a0e2-56bf7063f68c",
@@ -25,7 +25,7 @@
       "datePosted": 1789164508,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
@@ -67,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6aa45290f3aa936e2cdb0cb0",
       "location": "United States",
       "datePosted": 1789135533,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa46ff8f7baf881567ceba9",
+      "company": "IBM",
+      "title": "Research AI Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa46ff8f7baf881567ceba9",
+      "location": "Yorktown Heights, NY",
+      "datePosted": 1789135299,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -182,6 +193,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa47810c1928370a285e0eb",
+      "company": "CNH",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa47810c1928370a285e0eb",
+      "location": "Sioux Falls, SD",
+      "datePosted": 1789127312,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa46ab41d92e2d05d114af3",
       "company": "Burns & McDonnell",
       "title": "Software Developer Intern - Transmission & Distribution (St. Louis)",
@@ -199,17 +221,6 @@
       "url": "https://jobright.ai/jobs/info/6a5cc2ef686b4755d1e1c60b",
       "location": "New York, NY",
       "datePosted": 1789127153,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa46ff8f7baf881567ceba9",
-      "company": "IBM",
-      "title": "Research AI Engineer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa46ff8f7baf881567ceba9",
-      "location": "Yorktown Heights, NY",
-      "datePosted": 1789127069,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -710,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a7ed2bde2030208f276ab01",
-      "company": "TikTok",
-      "title": "Mobile Software Engineer Intern (Global E-Commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a7ed2bde2030208f276ab01",
-      "location": "San Jose, CA",
-      "datePosted": 1789108269,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:8dff8685-3a17-4f9c-b1d4-6d01c0258242",
       "company": "RTX",
       "title": "Software Engineer Co-op - Spring/Summer 2027",
@@ -729,7 +729,7 @@
       "datePosted": 1789084800,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fdf294f1-8d5f-4fc0-9d6b-3c418d70afc8",
@@ -740,7 +740,7 @@
       "datePosted": 1789084800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:88f11ce3-1385-47af-9fd7-81b25a184d70",
@@ -751,7 +751,7 @@
       "datePosted": 1789084800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:562a1131-7b05-4ca4-ba15-e968eb30a31a",
@@ -762,7 +762,7 @@
       "datePosted": 1789084800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f5b391e6-764a-4995-96ae-c6e50664aef5",
@@ -784,7 +784,7 @@
       "datePosted": 1789084800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3c5a73cb-e206-4607-bba3-aa3fbb3b51b9",
