@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T23:40:17Z",
-  "totalOpen": 1100,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-09-11T23:50:15Z",
+  "totalOpen": 1098,
+  "totalNewgrad": 239,
   "totalOther": 859,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,6 +47,50 @@
       "datePosted": 1789164508,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4835b422289703bd66e13",
+      "company": "Matrix Design Group LLC",
+      "title": "Software Engineering - Embedded Systems Intern",
+      "url": "https://jobright.ai/jobs/info/6aa4835b422289703bd66e13",
+      "location": "Newburgh, IN",
+      "datePosted": 1789141227,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa480c7422289703bd66d7f",
+      "company": "SpaceX",
+      "title": "Data Engineer, Ground Network Engineering (Gateway)",
+      "url": "https://jobright.ai/jobs/info/6aa480c7422289703bd66d7f",
+      "location": "Redmond, WA",
+      "datePosted": 1789140567,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa4800c8275e3a21176096c",
+      "company": "Motorola Solutions",
+      "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa4800c8275e3a21176096c",
+      "location": "Plantation, FL",
+      "datePosted": 1789140380,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa44e89c1928370a285d72b",
+      "company": "Motorola Solutions",
+      "title": "2027 Software Engineering Summer Internship",
+      "url": "https://jobright.ai/jobs/info/6aa44e89c1928370a285d72b",
+      "location": "Plantation, FL",
+      "datePosted": 1789138615,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -149,6 +193,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa43c7cc1928370a285d2ed",
+      "company": "Island",
+      "title": "Software Engineering Intern/Co-op Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa43c7cc1928370a285d2ed",
+      "location": "Coppell, TX",
+      "datePosted": 1789131868,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa3f4f11d92e2d05d1127f7",
       "company": "DiligenceVault",
       "title": "AI Engineer Intern",
@@ -157,17 +212,6 @@
       "datePosted": 1789130683,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa44e89c1928370a285d72b",
-      "company": "Motorola Solutions",
-      "title": "2027 Software Engineering Summer Internship",
-      "url": "https://jobright.ai/jobs/info/6aa44e89c1928370a285d72b",
-      "location": "Plantation, FL",
-      "datePosted": 1789130651,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -377,17 +421,6 @@
       "datePosted": 1789123177,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa43c7cc1928370a285d2ed",
-      "company": "Island",
-      "title": "Software Engineering Intern/Co-op Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa43c7cc1928370a285d2ed",
-      "location": "Coppell, TX",
-      "datePosted": 1789123084,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -644,10 +677,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
+      "id": "newgrad-jobs:6a4b615b6189f64e437eec95",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
+      "url": "https://jobright.ai/jobs/info/6a4b615b6189f64e437eec95",
       "location": "New York, NY; Palo Alto, CA",
       "datePosted": 1789112204,
       "source": "newgrad-jobs",
@@ -699,17 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa409aef3aa936e2cdaf6b7",
-      "company": "General Atomics Aeronautical Systems",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aa409aef3aa936e2cdaf6b7",
-      "location": "Poway, CA",
-      "datePosted": 1789110078,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
       "company": "Microsoft",
       "title": "Software Engineer - CoreAI",
@@ -717,28 +739,6 @@
       "location": "Redmond, WA",
       "datePosted": 1789109816,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa40813c1928370a285c220",
-      "company": "General Atomics Aeronautical Systems",
-      "title": "Software Developer I",
-      "url": "https://jobright.ai/jobs/info/6aa40813c1928370a285c220",
-      "location": "Poway, CA",
-      "datePosted": 1789109667,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95adbaf28891320e85d234",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6a95adbaf28891320e85d234",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1789109621,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
