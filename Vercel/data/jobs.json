@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:20:17Z",
+  "generatedAt": "2026-09-12T06:30:18Z",
   "totalOpen": 1098,
   "totalNewgrad": 239,
   "totalOther": 859,
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4e16d82e82a31997bb1a6",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aa4e16d82e82a31997bb1a6",
+      "location": "Overland Park, KS; Bellevue, WA",
+      "datePosted": 1789165309,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:c7521562-9599-4ee6-a407-0b8d73212142",
@@ -56,6 +67,28 @@
       "url": "https://jobright.ai/jobs/info/6aa3e20ff7baf881567cbd90",
       "location": "Perry, OK",
       "datePosted": 1789163727,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8281811081a745e970a96f",
+      "company": "VT Group (VTG)",
+      "title": "Information System Security Engineer (ISSE)",
+      "url": "https://jobright.ai/jobs/info/6a8281811081a745e970a96f",
+      "location": "Chantilly, VA",
+      "datePosted": 1789162347,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a921772a27a2d3c9848b4ac",
+      "company": "VT Group (VTG)",
+      "title": "Associate Software (Full-Stack) Developer",
+      "url": "https://jobright.ai/jobs/info/6a921772a27a2d3c9848b4ac",
+      "location": "Orlando, FL; Washington, DC",
+      "datePosted": 1789162345,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -94,23 +127,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a51d94402522b5b722ec6e4",
+      "company": "Leidos",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a51d94402522b5b722ec6e4",
+      "location": "Reston, VA",
+      "datePosted": 1789161027,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
       "company": "Accenture Federal Services",
       "title": "ServiceNow Developer",
       "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
       "location": "Fort Belvoir, VA",
       "datePosted": 1789159248,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a51d94402522b5b722ec6e4",
-      "company": "Leidos",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a51d94402522b5b722ec6e4",
-      "location": "Reston, VA",
-      "datePosted": 1789157794,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -188,17 +221,6 @@
       "url": "https://jobright.ai/jobs/info/6aa4793cc1928370a285e150",
       "location": "Broomfield, CO",
       "datePosted": 1789152292,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4b7fea77a53f5a156dbbc",
-      "company": "Greptile",
-      "title": "Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa4b7fea77a53f5a156dbbc",
-      "location": "San Francisco, CA",
-      "datePosted": 1789152108,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -344,7 +366,7 @@
       "datePosted": 1789148475,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a91dc6b8e5968545337823c",
@@ -705,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6aa46ab41d92e2d05d114af3",
       "location": "St. Louis, MO",
       "datePosted": 1789135801,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4672df3aa936e2cdb121d",
-      "company": "IBM",
-      "title": "Storage Systems Research Scientist Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa4672df3aa936e2cdb121d",
-      "location": "San Jose, CA",
-      "datePosted": 1789135538,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa45290f3aa936e2cdb0cb0",
-      "company": "HealthStream",
-      "title": "Associate Developer",
-      "url": "https://jobright.ai/jobs/info/6aa45290f3aa936e2cdb0cb0",
-      "location": "United States",
-      "datePosted": 1789135533,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
