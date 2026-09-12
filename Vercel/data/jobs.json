@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-12T17:40:15Z",
-  "totalOpen": 1084,
-  "totalNewgrad": 228,
+  "generatedAt": "2026-09-12T17:50:17Z",
+  "totalOpen": 1083,
+  "totalNewgrad": 227,
   "totalOther": 856,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa50e4542411952ff9a6c82",
+      "company": "Direct Supply",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa50e4542411952ff9a6c82",
+      "location": "Milwaukee, WI",
+      "datePosted": 1789206663,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a888a334afae74a0834c3e8",
+      "company": "Brunswick Corporation",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a888a334afae74a0834c3e8",
+      "location": "Tulsa, OK",
+      "datePosted": 1789205923,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a4323d438fa630841050552",
       "company": "SpaceX",
@@ -15,6 +37,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3b8f064d047136e092de2e",
+      "company": "Voloridge Investment Management, LLC",
+      "title": "Quantitative Developer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a3b8f064d047136e092de2e",
+      "location": "Jupiter, FL",
+      "datePosted": 1789205843,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a6be65057120971bf3a974a",
@@ -72,10 +105,54 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a552986377f983ce8a982eb",
+      "id": "newgrad-jobs:6aa4a4ce422289703bd6769b",
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Machine Learning Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa4a4ce422289703bd6769b",
+      "location": "United States",
+      "datePosted": 1789202154,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa498fbf3aa936e2cdb1dff",
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa498fbf3aa936e2cdb1dff",
+      "location": "Washington, DC",
+      "datePosted": 1789202147,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa4af56422289703bd678b8",
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Data Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa4af56422289703bd678b8",
+      "location": "United States; Washington, DC",
+      "datePosted": 1789202147,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa447631d92e2d05d1142e4",
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Data Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa447631d92e2d05d1142e4",
+      "location": "United States",
+      "datePosted": 1789202146,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a4298496faf756060967309",
       "company": "Palantir",
       "title": "Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a552986377f983ce8a982eb",
+      "url": "https://jobright.ai/jobs/info/6a4298496faf756060967309",
       "location": "Denver, CO; New York, NY; Palo Alto, CA; Washington, DC",
       "datePosted": 1789201624,
       "source": "newgrad-jobs",
@@ -83,10 +160,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a063968320bff2205eaa361",
+      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
       "company": "Palantir",
       "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
+      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
       "location": "New York, NY",
       "datePosted": 1789201624,
       "source": "newgrad-jobs",
@@ -116,34 +193,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa4bd6c930bff471a29b5f3",
-      "company": "Amgen",
-      "title": "Grad Intern \u2013 Data Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa4bd6c930bff471a29b5f3",
-      "location": "United States",
-      "datePosted": 1789199279,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa45ea6422289703bd665ea",
       "company": "Amgen",
       "title": "Grad Intern \u2013 Software Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
       "url": "https://jobright.ai/jobs/info/6aa45ea6422289703bd665ea",
       "location": "United States",
       "datePosted": 1789199264,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4a4ce422289703bd6769b",
-      "company": "Amgen",
-      "title": "Grad Intern \u2013 Machine Learning Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa4a4ce422289703bd6769b",
-      "location": "United States",
-      "datePosted": 1789199260,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -358,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa45e8e8275e3a2117601b5",
+      "id": "newgrad-jobs:6aa3b3b45c11cce360365c02",
       "company": "L3Harris",
       "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa45e8e8275e3a2117601b5",
+      "url": "https://jobright.ai/jobs/info/6aa3b3b45c11cce360365c02",
       "location": "Lynchburg, VA",
       "datePosted": 1789190313,
       "source": "newgrad-jobs",
@@ -652,61 +707,6 @@
       "datePosted": 1789163102,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8281811081a745e970a96f",
-      "company": "VT Group (VTG)",
-      "title": "Information System Security Engineer (ISSE)",
-      "url": "https://jobright.ai/jobs/info/6a8281811081a745e970a96f",
-      "location": "Chantilly, VA",
-      "datePosted": 1789162350,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a921772a27a2d3c9848b4ac",
-      "company": "VT Group (VTG)",
-      "title": "Associate Software (Full-Stack) Developer",
-      "url": "https://jobright.ai/jobs/info/6a921772a27a2d3c9848b4ac",
-      "location": "Orlando, FL; Washington, DC",
-      "datePosted": 1789162345,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a959603f28891320e85c98b",
-      "company": "CACI International Inc",
-      "title": "Software Engineering Co-op - Summer & Fall 2027",
-      "url": "https://jobright.ai/jobs/info/6a959603f28891320e85c98b",
-      "location": "Danbury, CT",
-      "datePosted": 1789161220,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95a2e34c22023a07934c1c",
-      "company": "CACI International Inc",
-      "title": "Software Engineering Co-op - Spring & Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a95a2e34c22023a07934c1c",
-      "location": "Danbury, CT",
-      "datePosted": 1789161220,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3a7815c11cce3603656cc",
-      "company": "Northrop Grumman",
-      "title": "2027 Spring Co-op Cyber Software Engineer\u00a0Intern - Cincinnati OH",
-      "url": "https://jobright.ai/jobs/info/6aa3a7815c11cce3603656cc",
-      "location": "Cincinnati, OH",
-      "datePosted": 1789161101,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
