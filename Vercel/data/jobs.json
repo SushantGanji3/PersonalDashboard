@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T05:20:18Z",
+  "generatedAt": "2026-09-12T05:30:18Z",
   "totalOpen": 1103,
   "totalNewgrad": 242,
   "totalOther": 861,
@@ -58,7 +58,18 @@
       "datePosted": 1789161101,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
+      "company": "Accenture Federal Services",
+      "title": "ServiceNow Developer",
+      "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
+      "location": "Fort Belvoir, VA",
+      "datePosted": 1789159248,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a51d94402522b5b722ec6e4",
@@ -358,6 +369,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a51f30502522b5b722ed72a",
+      "company": "RoboForce",
+      "title": "Data Collection Operator- AI Robotics (Swing Shift)",
+      "url": "https://jobright.ai/jobs/info/6a51f30502522b5b722ed72a",
+      "location": "Milpitas, CA",
+      "datePosted": 1789147849,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa204852f936e4a53daf36d",
       "company": "Epic Games",
       "title": "Backend Services Programmer Intern",
@@ -400,6 +422,28 @@
       "source": "newgrad-jobs",
       "season": "Winter 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3f1379d261407de9805931",
+      "company": "CTGT",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a3f1379d261407de9805931",
+      "location": "San Francisco, CA",
+      "datePosted": 1789146516,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa37a3283233ca167c8ad5b",
+      "company": "Capgemini",
+      "title": "Junior Frontend Developer",
+      "url": "https://jobright.ai/jobs/info/6aa37a3283233ca167c8ad5b",
+      "location": "Dallas, TX",
+      "datePosted": 1789144181,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a98269383fc63335762fd55",
@@ -490,6 +534,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa4d352a77a53f5a156e3a2",
+      "company": "Charles Schwab",
+      "title": "2027 Technology Intern - Site Reliability Engineering",
+      "url": "https://jobright.ai/jobs/info/6aa4d352a77a53f5a156e3a2",
+      "location": "Austin, TX",
+      "datePosted": 1789140050,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a619d137196365a6f00b904",
       "company": "Revolutional",
       "title": "Associate Full Stack Engineer",
@@ -521,6 +576,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4d10b654b2a9424cf16c1",
+      "company": "Alight Solutions",
+      "title": "AI Engineer- Virtual",
+      "url": "https://jobright.ai/jobs/info/6aa4d10b654b2a9424cf16c1",
+      "location": "United States",
+      "datePosted": 1789138352,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
@@ -644,6 +710,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa3f4f11d92e2d05d1127f7",
+      "company": "DiligenceVault",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3f4f11d92e2d05d1127f7",
+      "location": "New York, NY",
+      "datePosted": 1789133020,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa45fcec1928370a285db90",
       "company": "Lyft",
       "title": "Software Engineer Intern, Fullstack (Summer 2027)",
@@ -652,83 +729,6 @@
       "datePosted": 1789132126,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa43c7cc1928370a285d2ed",
-      "company": "Island",
-      "title": "Software Engineering Intern/Co-op Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa43c7cc1928370a285d2ed",
-      "location": "Coppell, TX",
-      "datePosted": 1789131868,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4b2fd422289703bd679f2",
-      "company": "D3 Embedded",
-      "title": "Computer Vision and Deep Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa4b2fd422289703bd679f2",
-      "location": "West Henrietta, NY; Rochester, NY",
-      "datePosted": 1789131721,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4c42882e82a31997ba9f9",
-      "company": "Athelas",
-      "title": "Software Engineering Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa4c42882e82a31997ba9f9",
-      "location": "Mountain View, CA",
-      "datePosted": 1789131388,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3f4f11d92e2d05d1127f7",
-      "company": "DiligenceVault",
-      "title": "AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3f4f11d92e2d05d1127f7",
-      "location": "New York, NY",
-      "datePosted": 1789130683,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4ac991d92e2d05d115b26",
-      "company": "Space Capital",
-      "title": "Software Engineer - Internship (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa4ac991d92e2d05d115b26",
-      "location": "Texas, United States; New York, NY; Los Angeles, CA; Austin, TX",
-      "datePosted": 1789129446,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4553cf7baf881567ce55e",
-      "company": "Charles Schwab",
-      "title": "Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aa4553cf7baf881567ce55e",
-      "location": "Southlake, TX",
-      "datePosted": 1789129420,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4b336f3aa936e2cdb2427",
-      "company": "EY",
-      "title": "Service Delivery Center, Workflow Platform Frontend Engineer -\u00a0Analyst",
-      "url": "https://jobright.ai/jobs/info/6aa4b336f3aa936e2cdb2427",
-      "location": "Alpharetta, GA; Dallas, TX",
-      "datePosted": 1789129323,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
