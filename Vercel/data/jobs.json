@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-12T10:30:19Z",
-  "totalOpen": 1090,
+  "generatedAt": "2026-09-12T10:40:17Z",
+  "totalOpen": 1088,
   "totalNewgrad": 231,
-  "totalOther": 859,
+  "totalOther": 857,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1789179944,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a887e6fe8b6601d12906ff1",
@@ -36,7 +36,7 @@
       "datePosted": 1789179274,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
@@ -1084,17 +1084,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:ee67af4a-8753-4241-9b42-a9a820130aa6",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
-      "location": "Redondo Beach, CA, Palmdale, CA, Oklahoma City, OK, San Diego, CA, Emerado, ND, El Segundo, CA",
-      "datePosted": 1788912000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:3dcaee02-3f62-48f4-a9a3-20eb7b2a97bb",
       "company": "RTX",
       "title": "Software Engineer Intern - Summer 2027",
@@ -1323,6 +1312,17 @@
       "datePosted": 1788825600,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
+      "company": "Dropbox",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8106224",
+      "location": "Remote in USA",
+      "datePosted": 1788799432,
+      "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     }
   ]
