@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-12T09:40:15Z",
-  "totalOpen": 1093,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-09-12T09:50:16Z",
+  "totalOpen": 1091,
+  "totalNewgrad": 232,
   "totalOther": 859,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa517202ed333b4ea5c56b5",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aa517202ed333b4ea5c56b5",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789179056,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
       "company": "Tesla",
@@ -142,7 +153,7 @@
       "company": "S3I Engineering",
       "title": "Systems Engineer I (Full-Time, On-Site)",
       "url": "https://jobright.ai/jobs/info/6aa506a52ed333b4ea5c505e",
-      "location": "California, MD; Lexington Park, MD",
+      "location": "Lexington Park, MD",
       "datePosted": 1789156321,
       "source": "newgrad-jobs",
       "season": null,
@@ -193,15 +204,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa50762654b2a9424cf2532",
+      "id": "newgrad-jobs:6aa511042ed333b4ea5c54a7",
       "company": "Kulicke & Soffa",
       "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa50762654b2a9424cf2532",
+      "url": "https://jobright.ai/jobs/info/6aa511042ed333b4ea5c54a7",
       "location": "Fort Washington, PA",
       "datePosted": 1789152388,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7d450e7c52154b59f5e384",
@@ -501,6 +512,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa510c4654b2a9424cf287d",
+      "company": "Mission Technologies, a division of HII",
+      "title": "SharePoint Developer 1",
+      "url": "https://jobright.ai/jobs/info/6aa510c4654b2a9424cf287d",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1789146238,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa37a3283233ca167c8ad5b",
       "company": "Capgemini",
       "title": "Junior Frontend Developer",
@@ -705,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6aa42a79f3aa936e2cdb0118",
       "location": "Rochester, NY",
       "datePosted": 1789137168,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa494dff7baf881567cf449",
-      "company": "Tesla",
-      "title": "Internship, Data Engineer, Fleet Analytics (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa494dff7baf881567cf449",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789137111,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4cd792ed333b4ea5c41c0",
-      "company": "Book of the Month",
-      "title": "Associate Software Engineer (Frontend)",
-      "url": "https://jobright.ai/jobs/info/6aa4cd792ed333b4ea5c41c0",
-      "location": "New York, NY",
-      "datePosted": 1789136732,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
