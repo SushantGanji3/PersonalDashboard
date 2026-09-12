@@ -1,20 +1,42 @@
 {
-  "generatedAt": "2026-09-12T10:20:16Z",
-  "totalOpen": 1091,
-  "totalNewgrad": 232,
+  "generatedAt": "2026-09-12T10:30:19Z",
+  "totalOpen": 1090,
+  "totalNewgrad": 231,
   "totalOther": 859,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6aa517202ed333b4ea5c56b5",
+      "id": "newgrad-jobs:6aa51a9882e82a31997bc32a",
       "company": "CyberProof",
       "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa517202ed333b4ea5c56b5",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789179056,
+      "url": "https://jobright.ai/jobs/info/6aa51a9882e82a31997bc32a",
+      "location": "Bellevue, WA",
+      "datePosted": 1789179944,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a887e6fe8b6601d12906ff1",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a887e6fe8b6601d12906ff1",
+      "location": "Rome, NY",
+      "datePosted": 1789179894,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6cafc3acb0a61f9dbc6673",
+      "company": "Parsons Corporation",
+      "title": "Software Engineer - Secret required",
+      "url": "https://jobright.ai/jobs/info/6a6cafc3acb0a61f9dbc6673",
+      "location": "Aberdeen, MD",
+      "datePosted": 1789179274,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
@@ -204,10 +226,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa511042ed333b4ea5c54a7",
+      "id": "newgrad-jobs:6aa50762654b2a9424cf2532",
       "company": "Kulicke & Soffa",
       "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa511042ed333b4ea5c54a7",
+      "url": "https://jobright.ai/jobs/info/6aa50762654b2a9424cf2532",
       "location": "Fort Washington, PA",
       "datePosted": 1789152388,
       "source": "newgrad-jobs",
@@ -688,17 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa4f26b930bff471a29c385",
-      "company": "Career Launch Tech Initiative",
-      "title": "Software Engineering Intern (Volunteer)",
-      "url": "https://jobright.ai/jobs/info/6aa4f26b930bff471a29c385",
-      "location": "United States",
-      "datePosted": 1789137328,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
       "company": "Tesla",
       "title": "Software Engineer Intern - Data Platforms",
@@ -717,17 +728,6 @@
       "location": "Palo Alto, CA",
       "datePosted": 1789137294,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa42a79f3aa936e2cdb0118",
-      "company": "MegazoneCloud Global",
-      "title": "Software Engineer Co-op 2027",
-      "url": "https://jobright.ai/jobs/info/6aa42a79f3aa936e2cdb0118",
-      "location": "Rochester, NY",
-      "datePosted": 1789137168,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
