@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-12T14:50:16Z",
-  "totalOpen": 1085,
-  "totalNewgrad": 228,
+  "generatedAt": "2026-09-12T15:00:19Z",
+  "totalOpen": 1088,
+  "totalNewgrad": 231,
   "totalOther": 857,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a6beefaacb0a61f9dbc3847",
+      "company": "New York Life",
+      "title": "2027 Technology, Data, AI & Ventures Summer Internship Program - Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a6beefaacb0a61f9dbc3847",
+      "location": "New York, NY",
+      "datePosted": 1789195695,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a88a7aed34f700f87fc9c31",
       "company": "XPO",
@@ -12,17 +23,6 @@
       "url": "https://jobright.ai/jobs/info/6a88a7aed34f700f87fc9c31",
       "location": "Boston, MA",
       "datePosted": 1789195279,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aa553372ed333b4ea5c68ac",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa553372ed333b4ea5c68ac",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789194439,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -61,21 +61,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a989dd1dd171c7285793456",
+      "id": "newgrad-jobs:6a989dcfaf954907d6574690",
       "company": "Boeing",
       "title": "Associate/Experienced Software Engineer\u2013Developer (Development)",
-      "url": "https://jobright.ai/jobs/info/6a989dd1dd171c7285793456",
+      "url": "https://jobright.ai/jobs/info/6a989dcfaf954907d6574690",
       "location": "Kent, WA",
       "datePosted": 1789192093,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6a521b278ef95364ead8cde4",
+      "id": "newgrad-jobs:6a34202df6b55d12c791b1df",
       "company": "MANTECH",
       "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a521b278ef95364ead8cde4",
+      "url": "https://jobright.ai/jobs/info/6a34202df6b55d12c791b1df",
       "location": "Saint Inigoes, MD",
       "datePosted": 1789192047,
       "source": "newgrad-jobs",
@@ -83,10 +83,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa47097c1928370a285df3f",
+      "id": "newgrad-jobs:6aa4dc99930bff471a29be60",
       "company": "Microsoft",
       "title": "Software Engineering Intern - CTJ - TS",
-      "url": "https://jobright.ai/jobs/info/6aa47097c1928370a285df3f",
+      "url": "https://jobright.ai/jobs/info/6aa4dc99930bff471a29be60",
       "location": "Reston, VA",
       "datePosted": 1789191081,
       "source": "newgrad-jobs",
@@ -127,10 +127,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3d577f3aa936e2cdae104",
+      "id": "newgrad-jobs:6aa4cb8e654b2a9424cf1523",
       "company": "L3Harris",
       "title": "Software Engineering Intern (Melbourne, FL)",
-      "url": "https://jobright.ai/jobs/info/6aa3d577f3aa936e2cdae104",
+      "url": "https://jobright.ai/jobs/info/6aa4cb8e654b2a9424cf1523",
       "location": "Melbourne, FL",
       "datePosted": 1789190317,
       "source": "newgrad-jobs",
@@ -138,15 +138,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa45e8e8275e3a2117601b5",
+      "id": "newgrad-jobs:6aa3b935959a10d7230d3879",
       "company": "L3Harris",
       "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa45e8e8275e3a2117601b5",
+      "url": "https://jobright.ai/jobs/info/6aa3b935959a10d7230d3879",
       "location": "Lynchburg, VA",
       "datePosted": 1789190313,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8ffdf4d96ad228f125f3a3",
@@ -193,10 +193,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a986500af954907d65731a1",
+      "id": "newgrad-jobs:6aa4720e1d92e2d05d114cb7",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6a986500af954907d65731a1",
+      "url": "https://jobright.ai/jobs/info/6aa4720e1d92e2d05d114cb7",
       "location": "Colorado Springs, CO",
       "datePosted": 1789189471,
       "source": "newgrad-jobs",
@@ -319,6 +319,17 @@
       "title": "Software Engineer",
       "url": "https://jobright.ai/jobs/info/6a887e6fe8b6601d12906ff1",
       "location": "Rome, NY",
+      "datePosted": 1789179894,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
       "datePosted": 1789179894,
       "source": "newgrad-jobs",
       "season": null,
@@ -600,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa50762654b2a9424cf2532",
+      "id": "newgrad-jobs:6aa511042ed333b4ea5c54a7",
       "company": "Kulicke & Soffa",
       "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa50762654b2a9424cf2532",
+      "url": "https://jobright.ai/jobs/info/6aa511042ed333b4ea5c54a7",
       "location": "Fort Washington, PA",
       "datePosted": 1789152388,
       "source": "newgrad-jobs",
@@ -693,17 +704,6 @@
       "title": "Entry Level Software Developer 2027",
       "url": "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5",
       "location": "Poughkeepsie, NY; Durham, NC",
-      "datePosted": 1789148942,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e395575edfa11b47109c2",
-      "company": "IBM",
-      "title": "Software Developer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e395575edfa11b47109c2",
-      "location": "Poughkeepsie, NY",
       "datePosted": 1789148942,
       "source": "newgrad-jobs",
       "season": null,
