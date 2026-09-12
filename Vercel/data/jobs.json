@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-12T08:20:15Z",
-  "totalOpen": 1099,
-  "totalNewgrad": 240,
+  "generatedAt": "2026-09-12T08:30:17Z",
+  "totalOpen": 1102,
+  "totalNewgrad": 243,
   "totalOther": 859,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa4fe1c82e82a31997bb7e8",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aa4fe1c82e82a31997bb7e8",
+      "location": "Overland Park, KS; Bellevue, WA",
+      "datePosted": 1789172652,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
       "company": "Tesla",
@@ -190,7 +201,7 @@
       "datePosted": 1789152381,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7d450e7c52154b59f5e384",
@@ -556,6 +567,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a513ab778e364789ca59f31",
+      "company": "TikTok",
+      "title": "iOS Software Engineer, Monetization Client - Ads Core Technology, Demonstration",
+      "url": "https://jobright.ai/jobs/info/6a513ab778e364789ca59f31",
+      "location": "San Jose, CA",
+      "datePosted": 1789140762,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa48855422289703bd66f2a",
       "company": "PayPal",
       "title": "Software Engineer",
@@ -705,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6aa4cd792ed333b4ea5c41c0",
       "location": "New York, NY",
       "datePosted": 1789136732,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa46ab41d92e2d05d114af3",
-      "company": "Burns & McDonnell",
-      "title": "Software Developer Intern - Transmission & Distribution (St. Louis)",
-      "url": "https://jobright.ai/jobs/info/6aa46ab41d92e2d05d114af3",
-      "location": "St. Louis, MO",
-      "datePosted": 1789135801,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4672df3aa936e2cdb121d",
-      "company": "IBM",
-      "title": "Storage Systems Research Scientist Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa4672df3aa936e2cdb121d",
-      "location": "San Jose, CA",
-      "datePosted": 1789135538,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
