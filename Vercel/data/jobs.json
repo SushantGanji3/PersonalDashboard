@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-12T06:30:18Z",
-  "totalOpen": 1098,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-09-12T06:40:16Z",
+  "totalOpen": 1097,
+  "totalNewgrad": 238,
   "totalOther": 859,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1789165309,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c7521562-9599-4ee6-a407-0b8d73212142",
@@ -61,17 +61,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3e20ff7baf881567cbd90",
-      "company": "The Toro Company",
-      "title": "Hardware and Software Engineering Intern - Ditch Witch",
-      "url": "https://jobright.ai/jobs/info/6aa3e20ff7baf881567cbd90",
-      "location": "Perry, OK",
-      "datePosted": 1789163727,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a8281811081a745e970a96f",
       "company": "VT Group (VTG)",
       "title": "Information System Security Engineer (ISSE)",
@@ -80,7 +69,7 @@
       "datePosted": 1789162347,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a921772a27a2d3c9848b4ac",
@@ -91,7 +80,7 @@
       "datePosted": 1789162345,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a959603f28891320e85c98b",
@@ -212,17 +201,6 @@
       "datePosted": 1789153559,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4793cc1928370a285e150",
-      "company": "Quantinuum",
-      "title": "Software Engineering Intern - 989",
-      "url": "https://jobright.ai/jobs/info/6aa4793cc1928370a285e150",
-      "location": "Broomfield, CO",
-      "datePosted": 1789152292,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -727,6 +705,28 @@
       "url": "https://jobright.ai/jobs/info/6aa46ab41d92e2d05d114af3",
       "location": "St. Louis, MO",
       "datePosted": 1789135801,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4672df3aa936e2cdb121d",
+      "company": "IBM",
+      "title": "Storage Systems Research Scientist Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa4672df3aa936e2cdb121d",
+      "location": "San Jose, CA",
+      "datePosted": 1789135538,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa45290f3aa936e2cdb0cb0",
+      "company": "HealthStream",
+      "title": "Associate Developer",
+      "url": "https://jobright.ai/jobs/info/6aa45290f3aa936e2cdb0cb0",
+      "location": "United States",
+      "datePosted": 1789135533,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
