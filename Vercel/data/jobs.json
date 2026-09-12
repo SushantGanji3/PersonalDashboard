@@ -1,20 +1,31 @@
 {
-  "generatedAt": "2026-09-12T10:40:17Z",
-  "totalOpen": 1088,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-09-12T10:50:17Z",
+  "totalOpen": 1089,
+  "totalNewgrad": 232,
   "totalOther": 857,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6aa51a9882e82a31997bc32a",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa51a9882e82a31997bc32a",
-      "location": "Bellevue, WA",
-      "datePosted": 1789179944,
+      "id": "newgrad-jobs:6a88ee4725fc4e7ae3db2e8c",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a88ee4725fc4e7ae3db2e8c",
+      "location": "San Jose, CA",
+      "datePosted": 1789181533,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9e96c7f6ea002358295df2",
+      "company": "Activision Blizzard",
+      "title": "Associate Site Reliability Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9e96c7f6ea002358295df2",
+      "location": "Santa Monica, CA",
+      "datePosted": 1789181179,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a887e6fe8b6601d12906ff1",
@@ -22,6 +33,17 @@
       "title": "Software Engineer",
       "url": "https://jobright.ai/jobs/info/6a887e6fe8b6601d12906ff1",
       "location": "Rome, NY",
+      "datePosted": 1789179894,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
       "datePosted": 1789179894,
       "source": "newgrad-jobs",
       "season": null,
@@ -83,6 +105,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa52010a77a53f5a156fb7f",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa52010a77a53f5a156fb7f",
+      "location": "San Jose, CA",
+      "datePosted": 1789163035,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a8281811081a745e970a96f",
       "company": "VT Group (VTG)",
       "title": "Information System Security Engineer (ISSE)",
@@ -116,10 +149,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9595ec4c22023a07934887",
+      "id": "newgrad-jobs:6a95a2e34c22023a07934c1c",
       "company": "CACI International Inc",
       "title": "Software Engineering Co-op - Spring & Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a9595ec4c22023a07934887",
+      "url": "https://jobright.ai/jobs/info/6a95a2e34c22023a07934c1c",
       "location": "Danbury, CT",
       "datePosted": 1789161220,
       "source": "newgrad-jobs",
@@ -147,6 +180,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa522a7a77a53f5a156fc8a",
+      "company": "Resonate AI",
+      "title": "Software Engineer ($125k-$200k, 0.2% to 1%)",
+      "url": "https://jobright.ai/jobs/info/6aa522a7a77a53f5a156fc8a",
+      "location": "San Francisco, CA",
+      "datePosted": 1789159490,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
@@ -226,10 +270,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa50762654b2a9424cf2532",
+      "id": "newgrad-jobs:6aa511042ed333b4ea5c54a7",
       "company": "Kulicke & Soffa",
       "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa50762654b2a9424cf2532",
+      "url": "https://jobright.ai/jobs/info/6aa511042ed333b4ea5c54a7",
       "location": "Fort Washington, PA",
       "datePosted": 1789152388,
       "source": "newgrad-jobs",
@@ -259,23 +303,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa4e323a77a53f5a156e7fc",
+      "company": "Adyen",
+      "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
+      "url": "https://jobright.ai/jobs/info/6aa4e323a77a53f5a156e7fc",
+      "location": "Chicago, IL",
+      "datePosted": 1789149607,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa42e731d92e2d05d113b47",
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "2027 Internship - Decision Science, Software Engineer, System Engineer",
       "url": "https://jobright.ai/jobs/info/6aa42e731d92e2d05d113b47",
       "location": "Laurel, MD",
       "datePosted": 1789149490,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4e47c42411952ff9a5fd1",
-      "company": "Adyen",
-      "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
-      "url": "https://jobright.ai/jobs/info/6aa4e47c42411952ff9a5fd1",
-      "location": "Chicago, IL",
-      "datePosted": 1789149358,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -600,6 +644,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa52147a77a53f5a156fc13",
+      "company": "Turnberry Solutions",
+      "title": "Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6aa52147a77a53f5a156fc13",
+      "location": "United States",
+      "datePosted": 1789143154,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a95f62d3843db0159908988",
       "company": "Noblis",
       "title": ".NET Software Developer - Full-Stack (Multiple Levels)",
@@ -652,61 +707,6 @@
       "datePosted": 1789140380,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4d352a77a53f5a156e3a2",
-      "company": "Charles Schwab",
-      "title": "2027 Technology Intern - Site Reliability Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa4d352a77a53f5a156e3a2",
-      "location": "Austin, TX",
-      "datePosted": 1789140050,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a619d137196365a6f00b904",
-      "company": "Revolutional",
-      "title": "Associate Full Stack Engineer",
-      "url": "https://jobright.ai/jobs/info/6a619d137196365a6f00b904",
-      "location": "United States",
-      "datePosted": 1789139904,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa03261ea127c3794695671",
-      "company": "Altamira Technologies Corporation",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa03261ea127c3794695671",
-      "location": "Warrenton, VA",
-      "datePosted": 1789139877,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa44e89c1928370a285d72b",
-      "company": "Motorola Solutions",
-      "title": "2027 Software Engineering Summer Internship",
-      "url": "https://jobright.ai/jobs/info/6aa44e89c1928370a285d72b",
-      "location": "Plantation, FL",
-      "datePosted": 1789138615,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4d10b654b2a9424cf16c1",
-      "company": "Alight Solutions",
-      "title": "AI Engineer- Virtual",
-      "url": "https://jobright.ai/jobs/info/6aa4d10b654b2a9424cf16c1",
-      "location": "United States",
-      "datePosted": 1789138352,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
