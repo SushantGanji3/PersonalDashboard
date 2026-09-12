@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:10:15Z",
+  "generatedAt": "2026-09-12T02:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1789166417
+    },
+    {
+      "id": "newgrad-jobs:6aa49e37c1928370a285eb5d",
+      "company": "Greptile",
+      "title": "Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa49e37c1928370a285eb5d",
+      "location": "San Francisco, CA",
+      "datePosted": 1789150308,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789179617
     },
     {
       "id": "newgrad-jobs:6a8e183125fc4e7ae3dbfac6",
