@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-12T00:10:17Z",
-  "totalOpen": 1097,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-09-12T00:20:18Z",
+  "totalOpen": 1098,
+  "totalNewgrad": 238,
   "totalOther": 860,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4d60a4c643fd23fed3cbed",
+      "company": "Government Tactical Solutions, LLC",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a4d60a4c643fd23fed3cbed",
+      "location": "Bethesda, MD",
+      "datePosted": 1789143598,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa486bbc1928370a285e4b7",
@@ -721,17 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3c06c7122f340d29cec28f",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Software Engineer - JobID-0198",
-      "url": "https://jobright.ai/jobs/info/6a3c06c7122f340d29cec28f",
-      "location": "Arlington, VA; Mount Laurel Township, NJ",
-      "datePosted": 1789111962,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
       "company": "Microsoft",
       "title": "Software Engineer - CoreAI",
@@ -817,7 +817,7 @@
       "datePosted": 1789084800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3c5a73cb-e206-4607-bba3-aa3fbb3b51b9",
