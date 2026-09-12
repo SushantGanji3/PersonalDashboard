@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-12T03:30:19Z",
-  "totalOpen": 1104,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-09-12T03:40:16Z",
+  "totalOpen": 1105,
+  "totalNewgrad": 244,
   "totalOther": 861,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -50,15 +50,48 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa4793cc1928370a285e150",
-      "company": "Quantinuum",
-      "title": "Software Engineering Intern - 989",
-      "url": "https://jobright.ai/jobs/info/6aa4793cc1928370a285e150",
-      "location": "Broomfield, CO",
-      "datePosted": 1789152478,
+      "id": "newgrad-jobs:6aa42cc9c1928370a285cdd6",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 Internship - Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa42cc9c1928370a285cdd6",
+      "location": "Laurel, MD",
+      "datePosted": 1789155922,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8dd22347679c68bf5e4f34",
+      "company": "Honeywell Technologies",
+      "title": "Artificial Intelligence/Machine Learning - Summer 2027 Intern",
+      "url": "https://jobright.ai/jobs/info/6a8dd22347679c68bf5e4f34",
+      "location": "United States",
+      "datePosted": 1789155625,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4924f8275e3a211760d71",
+      "company": "Commure",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa4924f8275e3a211760d71",
+      "location": "Mountain View, CA",
+      "datePosted": 1789155622,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4b7aa42411952ff9a5429",
+      "company": "StartX Med",
+      "title": "Member of Technical Staff Intern, Smart Microscopy",
+      "url": "https://jobright.ai/jobs/info/6aa4b7aa42411952ff9a5429",
+      "location": "Mountain View, CA",
+      "datePosted": 1789154618,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7d450e7c52154b59f5e384",
@@ -98,17 +131,6 @@
       "company": "Honeywell Technologies",
       "title": "Software Engineer & Computer Science - Summer 2027 Intern",
       "url": "https://jobright.ai/jobs/info/6a8e183125fc4e7ae3dbfac6",
-      "location": "United States",
-      "datePosted": 1789149259,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8dd22347679c68bf5e4f34",
-      "company": "Honeywell Technologies",
-      "title": "Artificial Intelligence/Machine Learning - Summer 2027 Intern",
-      "url": "https://jobright.ai/jobs/info/6a8dd22347679c68bf5e4f34",
       "location": "United States",
       "datePosted": 1789149259,
       "source": "newgrad-jobs",
@@ -171,17 +193,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa42cc9c1928370a285cdd6",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 Internship - Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa42cc9c1928370a285cdd6",
-      "location": "Laurel, MD",
-      "datePosted": 1789148848,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa45228422289703bd6621f",
       "company": "HKA",
       "title": "Junior IT Infrastructure Engineer",
@@ -201,17 +212,6 @@
       "datePosted": 1789148753,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4924f8275e3a211760d71",
-      "company": "Commure",
-      "title": "Software Engineering Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa4924f8275e3a211760d71",
-      "location": "Mountain View, CA",
-      "datePosted": 1789148513,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -391,6 +391,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa48855422289703bd66f2a",
+      "company": "PayPal",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa48855422289703bd66f2a",
+      "location": "San Jose, CA",
+      "datePosted": 1789140568,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa480c7422289703bd66d7f",
       "company": "SpaceX",
       "title": "Data Engineer, Ground Network Engineering (Gateway)",
@@ -496,17 +507,6 @@
       "url": "https://jobright.ai/jobs/info/6aa495cd8275e3a211760ed5",
       "location": "New York, NY",
       "datePosted": 1789136503,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa491ef1d92e2d05d11547d",
-      "company": "PayPal",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa491ef1d92e2d05d11547d",
-      "location": "San Jose, CA",
-      "datePosted": 1789136465,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -633,6 +633,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa4b336f3aa936e2cdb2427",
+      "company": "EY",
+      "title": "Service Delivery Center, Workflow Platform Frontend Engineer -\u00a0Analyst",
+      "url": "https://jobright.ai/jobs/info/6aa4b336f3aa936e2cdb2427",
+      "location": "Alpharetta, GA; Dallas, TX",
+      "datePosted": 1789128184,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa44feec1928370a285d783",
       "company": "Tesla",
       "title": "Internship, Software Engineer, Data Platforms (Winter/Spring 2027)",
@@ -688,6 +699,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a69ff320b42f866b61962a4",
+      "company": "Conduent",
+      "title": "Java Developer (Entry Level)",
+      "url": "https://jobright.ai/jobs/info/6a69ff320b42f866b61962a4",
+      "location": "United States",
+      "datePosted": 1789126941,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa44b72f7baf881567ce320",
       "company": "Lyft",
       "title": "Software Engineer Intern, Backend (Summer 2027)",
@@ -707,28 +729,6 @@
       "datePosted": 1789126766,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4981ef3aa936e2cdb1db0",
-      "company": "Microsoft",
-      "title": "Software Engineer - Applications",
-      "url": "https://jobright.ai/jobs/info/6aa4981ef3aa936e2cdb1db0",
-      "location": "Mountain View, CA",
-      "datePosted": 1789126599,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a96c444246d697dcee012c3",
-      "company": "CACI International Inc",
-      "title": "Embedded Software Engineering Co-Op - Fall 2027",
-      "url": "https://jobright.ai/jobs/info/6a96c444246d697dcee012c3",
-      "location": "Danbury, CT",
-      "datePosted": 1789125148,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
       "isNew": false
     },
     {
