@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T15:20:16Z",
-  "totalOpen": 1094,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-09-13T15:30:17Z",
+  "totalOpen": 1095,
+  "totalNewgrad": 239,
   "totalOther": 856,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789283669,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a552a674119652ff3863ceb",
@@ -111,6 +111,17 @@
       "url": "https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
       "location": "Mountain View, CA",
       "datePosted": 1789270076,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1789265730,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a6be65057120971bf3a974a",
       "location": "Vandenberg Space Force Base, CA",
       "datePosted": 1789204415,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa5a056654b2a9424cf4ec4",
-      "company": "Progress Rail, A Caterpillar Company",
-      "title": "Software Engineer Intern, Advanced Rail Technology",
-      "url": "https://jobright.ai/jobs/info/6aa5a056654b2a9424cf4ec4",
-      "location": "Southlake, TX",
-      "datePosted": 1789204137,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
