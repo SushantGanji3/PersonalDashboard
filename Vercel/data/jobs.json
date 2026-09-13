@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T12:40:16Z",
-  "totalOpen": 1095,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-09-13T12:50:16Z",
+  "totalOpen": 1092,
+  "totalNewgrad": 236,
   "totalOther": 856,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789274724,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a523a538a74e077472f3a93",
@@ -23,28 +23,6 @@
       "url": "https://jobright.ai/jobs/info/6a523a538a74e077472f3a93",
       "location": "San Diego, CA",
       "datePosted": 1789274009,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa68727a77a53f5a15746ba",
-      "company": "Greptile",
-      "title": "Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa68727a77a53f5a15746ba",
-      "location": "San Francisco, CA",
-      "datePosted": 1789272853,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa6857382e82a31997c0f31",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa6857382e82a31997c0f31",
-      "location": "Overland Park, KS; Bellevue, WA",
-      "datePosted": 1789272835,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -661,6 +639,28 @@
       "url": "https://jobright.ai/jobs/info/6a58747972fe7a7b98dce6e6",
       "location": "Palo Alto, CA",
       "datePosted": 1789204064,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6b5c22acb0a61f9dbc055a",
+      "company": "SpaceX",
+      "title": "Software Engineer, Data - Top Secret Clearance (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a6b5c22acb0a61f9dbc055a",
+      "location": "Hawthorne, CA",
+      "datePosted": 1789203116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4caa02ed333b4ea5c410c",
+      "company": "Boeing",
+      "title": "Associate Systems Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa4caa02ed333b4ea5c410c",
+      "location": "Chantilly, VA; Aurora, CO; Mesa, AZ",
+      "datePosted": 1789202949,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
