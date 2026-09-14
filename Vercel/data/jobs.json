@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-14T16:30:18Z",
-  "totalOpen": 1107,
+  "generatedAt": "2026-09-14T16:32:26Z",
+  "totalOpen": 1108,
   "totalNewgrad": 245,
-  "totalOther": 862,
+  "totalOther": 863,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1cc5a15c-471f-4ae7-8c32-bbed52f939f6",
+      "company": "Waymo",
+      "title": "Software Engineer Intern - BS/MS",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+      "location": "SF",
+      "datePosted": 1789402528,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:1c64a304-96bc-447e-ab18-b8bcf93f937f",
       "company": "Robinhood",
@@ -1310,17 +1321,6 @@
       "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
       "location": "Boston, MA, NYC",
       "datePosted": 1788905360,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:940140be-314d-40e2-8614-14d3a19bb049",
-      "company": "Vercel",
-      "title": "Software Engineer Intern - Summer",
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
-      "location": "SF",
-      "datePosted": 1788905178,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
