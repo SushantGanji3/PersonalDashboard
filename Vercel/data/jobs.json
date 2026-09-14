@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-14T19:00:19Z",
-  "totalOpen": 1114,
+  "generatedAt": "2026-09-14T19:10:17Z",
+  "totalOpen": 1116,
   "totalNewgrad": 249,
-  "totalOther": 865,
+  "totalOther": 867,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -91,7 +91,7 @@
       "datePosted": 1789383274,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa8348282e82a31997c46da",
@@ -135,7 +135,7 @@
       "datePosted": 1789382010,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa82e742ed333b4ea5cdcaf",
@@ -798,6 +798,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:8edf16f9-31db-4a81-b28d-bfabbbdece38",
+      "company": "RTX",
+      "title": "Hardware In the Loop Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
+      "location": "Tucson, AZ",
+      "datePosted": 1789344000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
       "company": "Tesla",
       "title": "Data Engineer Intern - Fleet Analytics",
@@ -1310,17 +1321,6 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8743362002",
       "location": "Hawthorne, CA",
       "datePosted": 1788906531,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:cb671a4e-ff11-4624-a824-2b46cbf7a24f",
-      "company": "General Dynamics",
-      "title": "Systems Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/74776/job?mobile=true&needsRedirect=false",
-      "location": "Pittsfield, MA",
-      "datePosted": 1788906152,
       "source": "aggregator",
       "season": null,
       "isNew": false
