@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T23:10:16Z",
+  "generatedAt": "2026-09-14T23:20:16Z",
   "totalOpen": 1122,
   "totalNewgrad": 250,
   "totalOther": 872,
@@ -14,7 +14,7 @@
       "datePosted": 1789425486,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3bb38aa8-f245-410c-8c91-5120b5b561a4",
@@ -79,6 +79,127 @@
       "location": "SF",
       "datePosted": 1789402528,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa877a6930bff471a2a779d",
+      "company": "Bechtel Corporation",
+      "title": "Data Scientist / AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa877a6930bff471a2a779d",
+      "location": "Reston, VA",
+      "datePosted": 1789400374,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa876442ed333b4ea5cf99f",
+      "company": "OneStream Software",
+      "title": "Associate AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa876442ed333b4ea5cf99f",
+      "location": "Fort Lauderdale, FL; Birmingham, MI; Chicago, IL; New York, NY",
+      "datePosted": 1789400020,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa83233654b2a9424cfb41e",
+      "company": "Excellus BCBS",
+      "title": "Salesforce Developer",
+      "url": "https://jobright.ai/jobs/info/6aa83233654b2a9424cfb41e",
+      "location": "Rochester, NY; Albany, NY; Binghamton, NY; Buffalo, NY; DeWitt, NY; Utica, NY",
+      "datePosted": 1789399797,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a513ab778e364789ca59f31",
+      "company": "TikTok",
+      "title": "iOS Software Engineer, Monetization Client - Ads Core Technology, Demonstration",
+      "url": "https://jobright.ai/jobs/info/6a513ab778e364789ca59f31",
+      "location": "San Jose, CA",
+      "datePosted": 1789399437,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4c0a58c2d11a6a46679b39",
+      "company": "Notion",
+      "title": "Software Engineer, Early Career (AI)",
+      "url": "https://jobright.ai/jobs/info/6a4c0a58c2d11a6a46679b39",
+      "location": "San Francisco, CA",
+      "datePosted": 1789398939,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa823bb82e82a31997c40e4",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aa823bb82e82a31997c40e4",
+      "location": "O'Fallon, MO",
+      "datePosted": 1789398501,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa86e68a77a53f5a1579667",
+      "company": "Defense Unicorns",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa86e68a77a53f5a1579667",
+      "location": "United States",
+      "datePosted": 1789398444,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa86fd8930bff471a2a74ca",
+      "company": "University of Maryland, Baltimore (UMB)",
+      "title": "Associate Developer for IT Enterprise Applications",
+      "url": "https://jobright.ai/jobs/info/6aa86fd8930bff471a2a74ca",
+      "location": "Baltimore, MD; Maryland, United States; Washington, DC; Delaware, United States; Pennsylvania, United States; Virginia, United States; West Virginia, United States",
+      "datePosted": 1789398376,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a57475610c4d945d864d97a",
+      "company": "Qualcomm",
+      "title": "#Software Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6a57475610c4d945d864d97a",
+      "location": "San Diego, CA",
+      "datePosted": 1789398215,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "company": "Viasat",
+      "title": "Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "location": "Duluth, GA; Carlsbad, CA",
+      "datePosted": 1789397964,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
+      "company": "Roblox",
+      "title": "[2027] Software Engineer, Early Career",
+      "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
+      "location": "San Mateo, CA",
+      "datePosted": 1789397627,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -512,17 +633,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa85f2d3a9f0a4fe6f18ee9",
-      "company": "Ennoble Care",
-      "title": "Junior Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa85f2d3a9f0a4fe6f18ee9",
-      "location": "United States",
-      "datePosted": 1789394109,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa85e6d930bff471a2a6e41",
       "company": "Tencent",
       "title": "Cyber Security Engineer Intern",
@@ -694,116 +804,6 @@
       "url": "https://jobright.ai/jobs/info/6a0f4a1183d714428981e4d0",
       "location": "Annapolis Junction, MD",
       "datePosted": 1789390709,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa83600654b2a9424cfb529",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1789390683,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa81e36930bff471a2a532a",
-      "company": "CYVL",
-      "title": "Engineering Intern - Software (SWE)/Machine Learning (ML)",
-      "url": "https://jobright.ai/jobs/info/6aa81e36930bff471a2a532a",
-      "location": "Boston, MA; Somerville, MA",
-      "datePosted": 1789390640,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4b4c144f64ba41dcb5c119",
-      "company": "Onyx Point, LLC.",
-      "title": "Software Engineer Skill Level 1 Java Developer",
-      "url": "https://jobright.ai/jobs/info/6a4b4c144f64ba41dcb5c119",
-      "location": "Augusta, GA",
-      "datePosted": 1789390632,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8f4d8ea10ee661e24d7862",
-      "company": "Kognitos",
-      "title": "Software Engineer Intern (AI-Native) \u2014 Fall 2026",
-      "url": "https://jobright.ai/jobs/info/6a8f4d8ea10ee661e24d7862",
-      "location": "San Jose, CA",
-      "datePosted": 1789390602,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa5bafc2ed333b4ea5c7ad7",
-      "company": "Zachary Piper Solutions",
-      "title": "Software Engineer I (Secret)",
-      "url": "https://jobright.ai/jobs/info/6aa5bafc2ed333b4ea5c7ad7",
-      "location": "San Diego, CA",
-      "datePosted": 1789390387,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9054152e254e06fb9f03a9",
-      "company": "Delta Solutions and Strategies",
-      "title": "Junior Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9054152e254e06fb9f03a9",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1789390372,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a560ba1e9b77f668bd60edc",
-      "company": "In-Depth Engineering Corporation",
-      "title": "Software Engineer - Columbia, MD",
-      "url": "https://jobright.ai/jobs/info/6a560ba1e9b77f668bd60edc",
-      "location": "Columbia, MD",
-      "datePosted": 1789389739,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8490437b33d72276256ca8",
-      "company": "Dark Wolf",
-      "title": "Junior AI Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8490437b33d72276256ca8",
-      "location": "Chantilly, VA; Herndon, VA",
-      "datePosted": 1789389508,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa84cb982e82a31997c5066",
-      "company": "Qualcomm",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa84cb982e82a31997c5066",
-      "location": "San Diego, CA",
-      "datePosted": 1789389385,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9ad00ed5ff1f3f1c39b53b",
-      "company": "Prescient Edge",
-      "title": "Junior Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a9ad00ed5ff1f3f1c39b53b",
-      "location": "McLean, VA",
-      "datePosted": 1789389025,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1136,7 +1136,7 @@
       "datePosted": 1788998400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a5205150-c68d-4b65-b961-cd54d104ac76",
