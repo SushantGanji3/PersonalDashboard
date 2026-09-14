@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-14T14:30:24Z",
+  "generatedAt": "2026-09-14T14:40:16Z",
   "totalOpen": 1085,
   "totalNewgrad": 231,
   "totalOther": 854,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
+      "company": "ServiceNow",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
+      "location": "West Palm Beach, FL",
+      "datePosted": 1789394635,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa7f98d82e82a31997c319a",
       "company": "TekSynap",
@@ -14,7 +25,7 @@
       "datePosted": 1789368093,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7ec8ca77a53f5a1576698",
@@ -91,7 +102,7 @@
       "datePosted": 1789366214,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7f191930bff471a2a46cd",
@@ -124,7 +135,7 @@
       "datePosted": 1789365930,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7f10e654b2a9424cf9e4e",
@@ -135,7 +146,7 @@
       "datePosted": 1789365918,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7f10e3a9f0a4fe6f1666d",
@@ -146,7 +157,7 @@
       "datePosted": 1789365918,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9572d701d0e621745868c7",
@@ -432,7 +443,7 @@
       "datePosted": 1789318800,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7b39082e82a31997c2516",
@@ -1312,17 +1323,6 @@
       "datePosted": 1788799432,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:4c2c8e7d-cddf-48d9-b0cc-075ea6d1d6ff",
-      "company": "TikTok",
-      "title": "Data Engineer Graduate",
-      "url": "https://lifeattiktok.com/search/7681779180341709109",
-      "location": "San Jose, CA",
-      "datePosted": 1788769693,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
