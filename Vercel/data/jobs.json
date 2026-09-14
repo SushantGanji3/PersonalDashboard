@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-14T20:00:20Z",
+  "generatedAt": "2026-09-14T20:10:17Z",
   "totalOpen": 1111,
   "totalNewgrad": 244,
   "totalOther": 867,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:34ec0b27-bbab-4d78-9eb3-2900f2f91255",
+      "company": "Figma",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/figma/jobs/6143238004",
+      "location": "SF, NYC",
+      "datePosted": 1789415235,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:1cc5a15c-471f-4ae7-8c32-bbed52f939f6",
       "company": "Waymo",
@@ -1312,17 +1323,6 @@
       "datePosted": 1788906532,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:2be642c8-518a-4951-9ab2-d57bec820c2b",
-      "company": "SpaceX",
-      "title": "Software Engineer New Grad - Software - Starship",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002",
-      "location": "Hawthorne, CA",
-      "datePosted": 1788906531,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
