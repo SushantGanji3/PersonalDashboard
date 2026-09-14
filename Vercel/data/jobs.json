@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T18:40:16Z",
-  "totalOpen": 1116,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-09-14T18:50:17Z",
+  "totalOpen": 1118,
+  "totalNewgrad": 253,
   "totalOther": 865,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,6 +83,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa8348282e82a31997c46da",
+      "company": "Esri",
+      "title": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise",
+      "url": "https://jobright.ai/jobs/info/6aa8348282e82a31997c46da",
+      "location": "Redlands, CA",
+      "datePosted": 1789383186,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa831bd82e82a31997c460f",
+      "company": "CACI International Inc",
+      "title": "Junior Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa831bd82e82a31997c460f",
+      "location": "King George, VA",
+      "datePosted": 1789382477,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "company": "Capgemini",
+      "title": "JOB ID 12239: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "location": "Ashburn, VA",
+      "datePosted": 1789382086,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa82e742ed333b4ea5cdcaf",
       "company": "NexDiff",
       "title": "MERN Stack Developer Intern (Remote)",
@@ -100,28 +133,6 @@
       "url": "https://jobright.ai/jobs/info/6a6b74b35c54bc4752ce9058",
       "location": "Annapolis Junction, MD",
       "datePosted": 1789380657,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8296c2ed333b4ea5cdb24",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa8296c2ed333b4ea5cdb24",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789380348,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
-      "company": "Capgemini",
-      "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
-      "location": "Ashburn, VA",
-      "datePosted": 1789380187,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -732,17 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa7fa61a77a53f5a1576972",
-      "company": "Principal Global Services",
-      "title": "Software Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa7fa61a77a53f5a1576972",
-      "location": "Des Moines, IA",
-      "datePosted": 1789368305,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:46ac3778-73cf-49bb-b5b6-0a6209094b11",
       "company": "Intel",
       "title": "System Technology Research Engineer Intern - Foundry System Technology",
@@ -784,7 +784,7 @@
       "datePosted": 1789344000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bc3aa009-aa5f-4ec5-a762-ad9b200955b8",
