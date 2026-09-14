@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-14T16:00:22Z",
-  "totalOpen": 1106,
+  "generatedAt": "2026-09-14T16:10:18Z",
+  "totalOpen": 1107,
   "totalNewgrad": 245,
-  "totalOther": 861,
+  "totalOther": 862,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -80,7 +80,7 @@
       "datePosted": 1789373673,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8c3f591d96e6541c8bfb88",
@@ -91,7 +91,7 @@
       "datePosted": 1789373479,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa80df22ed333b4ea5ccfb0",
@@ -113,7 +113,7 @@
       "datePosted": 1789372865,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa80bce82e82a31997c3787",
@@ -135,7 +135,7 @@
       "datePosted": 1789372597,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa80ad682e82a31997c3725",
@@ -157,7 +157,7 @@
       "datePosted": 1789372511,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa80acd82e82a31997c3721",
@@ -168,7 +168,7 @@
       "datePosted": 1789372509,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7fd1c2ed333b4ea5cc96a",
@@ -201,7 +201,7 @@
       "datePosted": 1789371691,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa805b782e82a31997c3402",
@@ -686,6 +686,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:bc3aa009-aa5f-4ec5-a762-ad9b200955b8",
+      "company": "RTX",
+      "title": "AI Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-REMOTE/Engineer-I--AI-Engineer_01874267",
+      "location": "Connecticut",
+      "datePosted": 1789344000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a84fe5dd34f700f87fbbc0c",
@@ -1312,17 +1323,6 @@
       "datePosted": 1788905178,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:282e63a7-0fb1-40c2-b5f5-6afd0e4a66d7",
-      "company": "Vercel",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
-      "location": "SF",
-      "datePosted": 1788905174,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
