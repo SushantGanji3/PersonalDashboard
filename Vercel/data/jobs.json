@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T18:10:19Z",
-  "totalOpen": 1121,
-  "totalNewgrad": 257,
+  "generatedAt": "2026-09-14T18:20:16Z",
+  "totalOpen": 1119,
+  "totalNewgrad": 255,
   "totalOther": 864,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa82e742ed333b4ea5cdcaf",
+      "company": "NexDiff",
+      "title": "MERN Stack Developer Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aa82e742ed333b4ea5cdcaf",
+      "location": "United States",
+      "datePosted": 1789381636,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a6b74b35c54bc4752ce9058",
       "company": "Freedom Technology Solutions Group, LLC",
       "title": "Junior Software Engineer 744",
@@ -127,50 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa82728930bff471a2a5889",
-      "company": "Principal Chile",
-      "title": "Software Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa82728930bff471a2a5889",
-      "location": "Des Moines, IA",
-      "datePosted": 1789379768,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa826c53a9f0a4fe6f1796e",
-      "company": "Principal Chile",
-      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa826c53a9f0a4fe6f1796e",
-      "location": "Des Moines, IA",
-      "datePosted": 1789379669,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa826c0a77a53f5a1577a55",
-      "company": "Principal Chile",
-      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa826c0a77a53f5a1577a55",
-      "location": "Charlotte, NC",
-      "datePosted": 1789379664,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa826bb2ed333b4ea5cd9fa",
-      "company": "Principal Chile",
-      "title": "Information Security Engineer Internship - Charlotte, NC (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa826bb2ed333b4ea5cd9fa",
-      "location": "Charlotte, NC",
-      "datePosted": 1789379659,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa826b5930bff471a2a585e",
       "company": "Principal Chile",
       "title": "Data Engineer Internship - Des Moines, IA (Summer 2027)",
@@ -212,17 +179,6 @@
       "datePosted": 1789379334,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa82565654b2a9424cfafb1",
-      "company": "BAE Systems, Inc.",
-      "title": "Software Developer Intern III, Summer 2027 (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa82565654b2a9424cfafb1",
-      "location": "Rome, NY",
-      "datePosted": 1789379317,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -743,6 +699,50 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa7d036930bff471a2a4080",
+      "company": "State Farm",
+      "title": "Summer 2027 Intern - Enterprise Technology - Mainframe Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa7d036930bff471a2a4080",
+      "location": "United States",
+      "datePosted": 1789368403,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa7fa69a77a53f5a1576975",
+      "company": "Principal Global Services",
+      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa7fa69a77a53f5a1576975",
+      "location": "Des Moines, IA",
+      "datePosted": 1789368313,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa7fa64654b2a9424cf9fca",
+      "company": "Principal Global Services",
+      "title": "Information Security Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa7fa64654b2a9424cf9fca",
+      "location": "Charlotte, NC",
+      "datePosted": 1789368308,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa7fa61a77a53f5a1576972",
+      "company": "Principal Global Services",
+      "title": "Software Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa7fa61a77a53f5a1576972",
+      "location": "Des Moines, IA",
+      "datePosted": 1789368305,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:46ac3778-73cf-49bb-b5b6-0a6209094b11",
       "company": "Intel",
       "title": "System Technology Research Engineer Intern - Foundry System Technology",
@@ -773,7 +773,7 @@
       "datePosted": 1789344000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bc3aa009-aa5f-4ec5-a762-ad9b200955b8",
