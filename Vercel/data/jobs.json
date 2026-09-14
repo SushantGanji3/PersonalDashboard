@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-14T21:30:18Z",
-  "totalOpen": 1113,
+  "generatedAt": "2026-09-14T21:40:16Z",
+  "totalOpen": 1118,
   "totalNewgrad": 246,
-  "totalOther": 867,
+  "totalOther": 872,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:3bb38aa8-f245-410c-8c91-5120b5b561a4",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Camera & Robotics",
+      "url": "https://www.tesla.com/careers/search/job/283274",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789420104,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:99be0eea-8a7f-4470-894d-d0dcc34dc9c7",
+      "company": "Intuit",
+      "title": "Mobile Software Engineer Intern - iOS",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
+      "location": "Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA",
+      "datePosted": 1789420088,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7",
+      "company": "Intuit",
+      "title": "Mobile Software Engineer Intern - Android",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
+      "location": "Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA",
+      "datePosted": 1789420087,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a57d347e-4ce0-4590-bf80-9368dd106660",
+      "company": "Intuit",
+      "title": "Software Engineer Intern - Cybersecurity",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": "Mountain View, CA",
+      "datePosted": 1789420086,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:34ec0b27-bbab-4d78-9eb3-2900f2f91255",
       "company": "Figma",
@@ -94,15 +138,48 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa85b0d930bff471a2a6bbd",
-      "company": "CACI International Inc",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aa85b0d930bff471a2a6bbd",
-      "location": "San Antonio, TX",
-      "datePosted": 1789393053,
+      "id": "newgrad-jobs:6aa85f2d3a9f0a4fe6f18ee9",
+      "company": "Ennoble Care",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa85f2d3a9f0a4fe6f18ee9",
+      "location": "United States",
+      "datePosted": 1789394109,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95e4703843db0159907f59",
+      "company": "Infosys",
+      "title": "Java SRE Support Engineer",
+      "url": "https://jobright.ai/jobs/info/6a95e4703843db0159907f59",
+      "location": "Alpharetta, GA; New York, NY",
+      "datePosted": 1789393927,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9f74dca7ba386c5d675258",
+      "company": "Caterpillar Inc.",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9f74dca7ba386c5d675258",
+      "location": "Chicago, IL; Peoria, IL; Dallas, TX",
+      "datePosted": 1789393387,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa85bf9654b2a9424cfc475",
+      "company": "CACI International Inc",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aa85bf9654b2a9424cfc475",
+      "location": "San Antonio, TX",
+      "datePosted": 1789393289,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa85a4c654b2a9424cfc36e",
@@ -237,12 +314,56 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a0f4a1183d714428981e4d0",
+      "company": "Synergy ECP",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a0f4a1183d714428981e4d0",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1789390709,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa81e36930bff471a2a532a",
       "company": "CYVL",
       "title": "Engineering Intern - Software (SWE)/Machine Learning (ML)",
       "url": "https://jobright.ai/jobs/info/6aa81e36930bff471a2a532a",
       "location": "Boston, MA; Somerville, MA",
       "datePosted": 1789390640,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4b4c144f64ba41dcb5c119",
+      "company": "Onyx Point, LLC.",
+      "title": "Software Engineer Skill Level 1 Java Developer",
+      "url": "https://jobright.ai/jobs/info/6a4b4c144f64ba41dcb5c119",
+      "location": "Augusta, GA",
+      "datePosted": 1789390632,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa5bafc2ed333b4ea5c7ad7",
+      "company": "Zachary Piper Solutions",
+      "title": "Software Engineer I (Secret)",
+      "url": "https://jobright.ai/jobs/info/6aa5bafc2ed333b4ea5c7ad7",
+      "location": "San Diego, CA",
+      "datePosted": 1789390387,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9054152e254e06fb9f03a9",
+      "company": "Delta Solutions and Strategies",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9054152e254e06fb9f03a9",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1789390372,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -267,6 +388,17 @@
       "datePosted": 1789389925,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a560ba1e9b77f668bd60edc",
+      "company": "In-Depth Engineering Corporation",
+      "title": "Software Engineer - Columbia, MD",
+      "url": "https://jobright.ai/jobs/info/6a560ba1e9b77f668bd60edc",
+      "location": "Columbia, MD",
+      "datePosted": 1789389739,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -314,34 +446,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa5bafc2ed333b4ea5c7ad7",
-      "company": "Zachary Piper Solutions",
-      "title": "Software Engineer I (Secret)",
-      "url": "https://jobright.ai/jobs/info/6aa5bafc2ed333b4ea5c7ad7",
-      "location": "San Diego, CA",
-      "datePosted": 1789389020,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a5782a8f7517b519ad5aa75",
       "company": "Tilde Research",
       "title": "ML Engineer (Internship and Full-time)",
       "url": "https://jobright.ai/jobs/info/6a5782a8f7517b519ad5aa75",
       "location": "San Francisco, CA",
       "datePosted": 1789388900,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9054152e254e06fb9f03a9",
-      "company": "Delta Solutions and Strategies",
-      "title": "Junior Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9054152e254e06fb9f03a9",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1789388540,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -369,45 +479,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a0f4a1183d714428981e4d0",
-      "company": "Synergy ECP",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a0f4a1183d714428981e4d0",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1789388225,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa809ec930bff471a2a4cee",
       "company": "The Aerospace Corporation",
       "title": "IC 2027 Navigation & Positioning Architect Systems Engineer",
       "url": "https://jobright.ai/jobs/info/6aa809ec930bff471a2a4cee",
       "location": "Chantilly, VA",
       "datePosted": 1789388216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4b4c144f64ba41dcb5c119",
-      "company": "Onyx Point, LLC.",
-      "title": "Software Engineer Skill Level 1 Java Developer",
-      "url": "https://jobright.ai/jobs/info/6a4b4c144f64ba41dcb5c119",
-      "location": "Augusta, GA",
-      "datePosted": 1789388177,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a560ba1e9b77f668bd60edc",
-      "company": "In-Depth Engineering Corporation",
-      "title": "Software Engineer - Columbia, MD",
-      "url": "https://jobright.ai/jobs/info/6a560ba1e9b77f668bd60edc",
-      "location": "Columbia, MD",
-      "datePosted": 1789388175,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -718,39 +795,6 @@
       "datePosted": 1789379267,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa811b9930bff471a2a4f85",
-      "company": "North Atlantic Industries",
-      "title": "Intern - Software Engineer (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa811b9930bff471a2a4f85",
-      "location": "Bohemia, NY",
-      "datePosted": 1789379252,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa823ca2ed333b4ea5cd85a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Relational Database) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6aa823ca2ed333b4ea5cd85a",
-      "location": "San Jose, CA",
-      "datePosted": 1789378906,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa823bb82e82a31997c40e4",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aa823bb82e82a31997c40e4",
-      "location": "O'Fallon, MO",
-      "datePosted": 1789378891,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1279,50 +1323,6 @@
       "datePosted": 1788912000,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d72b3ca7-a4c1-4306-93a2-07ccb419f813",
-      "company": "RTX",
-      "title": "Flight Control Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871018",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788912000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2800fc16-c3a8-41ad-a36d-d60bc2c68380",
-      "company": "Semgrep",
-      "title": "Software Engineer Intern - Cloud Platform",
-      "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true",
-      "location": "SF",
-      "datePosted": 1788906760,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7458ceb8-c0db-44e7-ae5e-41fb157b2104",
-      "company": "Two Sigma",
-      "title": "Software Engineer",
-      "url": "https://twosigma.avature.net/careers/JobDetail/14018",
-      "location": "Houston, TX",
-      "datePosted": 1788906536,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3bf3d7c6-3d8d-41c3-98eb-a48df978d6e4",
-      "company": "Two Sigma",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://twosigma.avature.net/careers/JobDetail/14016",
-      "location": "NYC",
-      "datePosted": 1788906532,
-      "source": "aggregator",
-      "season": "Summer 2027",
       "isNew": false
     }
   ]
