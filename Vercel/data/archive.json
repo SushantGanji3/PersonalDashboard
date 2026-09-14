@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:40:15Z",
+  "generatedAt": "2026-09-14T00:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789346415
+    },
+    {
+      "id": "newgrad-jobs:6aa73846a77a53f5a157515f",
+      "company": "Michigan Medicine",
+      "title": "Atlas Platform Developer",
+      "url": "https://jobright.ai/jobs/info/6aa73846a77a53f5a157515f",
+      "location": "Ann Arbor, MI",
+      "datePosted": 1789318614,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789347016
     },
     {
       "id": "newgrad-jobs:6aa72ee32ed333b4ea5cb022",
@@ -507,6 +518,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789320617
+    },
+    {
+      "id": "newgrad-jobs:6aa7384282e82a31997c1a6d",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa7384282e82a31997c1a6d",
+      "location": "Tucson, AZ",
+      "datePosted": 1789232400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789347016
     },
     {
       "id": "newgrad-jobs:6a935bc6d18f75674827dd33",
@@ -13509,61 +13531,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1789171817
-    },
-    {
-      "id": "simplify:4ac72dac-062c-4ad9-94fb-8bd0961f1d95",
-      "company": "Notion",
-      "title": "Software Engineer New Grad",
-      "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true",
-      "location": "SF",
-      "datePosted": 1786754511,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:c61b3999-cfc9-4184-8e3e-3a21a00ebcef",
-      "company": "Notion",
-      "title": "Software Engineer Intern - Winter 2027",
-      "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true",
-      "location": "SF, NYC",
-      "datePosted": 1786754510,
-      "source": "aggregator",
-      "season": "Winter 2027",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
-      "company": "Notion",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true",
-      "location": "SF, NYC",
-      "datePosted": 1786754510,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:24b848e7-18bc-4eab-b684-9d352141cbdd",
-      "company": "Wolverine Trading",
-      "title": "Entry Level C++ Software Engineer",
-      "url": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq",
-      "location": "Chicago, IL",
-      "datePosted": 1786754507,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:880f2a36-5a43-4a08-ba33-5d4e5a77f266",
-      "company": "Applied Intuition",
-      "title": "Embedded Software Engineer New Grad",
-      "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1786754501,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
     }
   ]
 }
