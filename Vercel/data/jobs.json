@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T18:50:17Z",
-  "totalOpen": 1118,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-09-14T19:00:19Z",
+  "totalOpen": 1114,
+  "totalNewgrad": 249,
   "totalOther": 865,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa834da3a9f0a4fe6f17d5e",
+      "company": "TTM Technologies",
+      "title": "Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6aa834da3a9f0a4fe6f17d5e",
+      "location": "Farmingdale, NY",
+      "datePosted": 1789383274,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa8348282e82a31997c46da",
       "company": "Esri",
       "title": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise",
@@ -91,7 +102,7 @@
       "datePosted": 1789383186,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa831bd82e82a31997c460f",
@@ -102,7 +113,7 @@
       "datePosted": 1789382477,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
@@ -114,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa81f04654b2a9424cfabdb",
+      "company": "Pratt Miller",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa81f04654b2a9424cfabdb",
+      "location": "Huntersville, NC",
+      "datePosted": 1789382010,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa82e742ed333b4ea5cdcaf",
@@ -146,17 +168,6 @@
       "datePosted": 1789379770,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa826b5930bff471a2a585e",
-      "company": "Principal Chile",
-      "title": "Data Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa826b5930bff471a2a585e",
-      "location": "Des Moines, IA",
-      "datePosted": 1789379653,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -298,17 +309,6 @@
       "url": "https://jobright.ai/jobs/info/6aa8214b930bff471a2a5514",
       "location": "United States",
       "datePosted": 1789378267,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa820872ed333b4ea5cd5f6",
-      "company": "RootED",
-      "title": "Applied AI Intern",
-      "url": "https://jobright.ai/jobs/info/6aa820872ed333b4ea5cd5f6",
-      "location": "Chicago, IL",
-      "datePosted": 1789378071,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
