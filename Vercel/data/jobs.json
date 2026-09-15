@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:10:17Z",
+  "generatedAt": "2026-09-15T07:20:18Z",
   "totalOpen": 1135,
   "totalNewgrad": 254,
   "totalOther": 881,
@@ -57,6 +57,39 @@
       "location": "Cupertino, CA",
       "datePosted": 1789434270,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa8915b82e82a31997c6867",
+      "company": "M.C. Dean, Inc.",
+      "title": "Systems Engineer 1 - Tysons, VA",
+      "url": "https://jobright.ai/jobs/info/6aa8915b82e82a31997c6867",
+      "location": "Tysons, VA",
+      "datePosted": 1789428739,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12",
+      "location": "Charlotte, NC",
+      "datePosted": 1789428520,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Associate Software Engineer - Launchpad",
+      "url": "https://jobright.ai/jobs/info/6aa86447654b2a9424cfc952",
+      "location": "Charlotte, NC",
+      "datePosted": 1789428505,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -292,17 +325,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
-      "company": "Lowe's Companies, Inc.",
-      "title": "Associate Software Engineer - Launchpad",
-      "url": "https://jobright.ai/jobs/info/6aa86447654b2a9424cfc952",
-      "location": "Charlotte, NC",
-      "datePosted": 1789419532,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa8c1ba6d0edc2d91b07905",
       "company": "General Dynamics",
       "title": "Systems Engineer Entry Level",
@@ -311,17 +333,6 @@
       "datePosted": 1789419338,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
-      "company": "Lowe's Companies, Inc.",
-      "title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12",
-      "location": "Charlotte, NC",
-      "datePosted": 1789418850,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -589,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa838bea77a53f5a1577fc1",
+      "id": "newgrad-jobs:6aa838a6a77a53f5a1577fa0",
       "company": "Amazon",
       "title": "Data Engineer I, Business Data Technologies",
-      "url": "https://jobright.ai/jobs/info/6aa838bea77a53f5a1577fc1",
+      "url": "https://jobright.ai/jobs/info/6aa838a6a77a53f5a1577fa0",
       "location": "Seattle, WA",
       "datePosted": 1789408666,
       "source": "newgrad-jobs",
@@ -677,33 +688,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8915b82e82a31997c6867",
-      "company": "M.C. Dean, Inc.",
-      "title": "Systems Engineer 1 - Tysons, VA",
-      "url": "https://jobright.ai/jobs/info/6aa8915b82e82a31997c6867",
-      "location": "Tysons, VA",
-      "datePosted": 1789406955,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
+      "id": "newgrad-jobs:6aa3d3df4238ea18d430e961",
       "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
-      "location": "Olathe, KS",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
+      "location": "Tulsa, OK",
       "datePosted": 1789406805,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3d3df4238ea18d430e961",
+      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
       "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
-      "location": "Tulsa, OK",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
+      "location": "Chandler, AZ",
       "datePosted": 1789406805,
       "source": "newgrad-jobs",
       "season": null,
