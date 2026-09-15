@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T01:40:16Z",
-  "totalOpen": 1133,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-09-15T01:46:54Z",
+  "totalOpen": 1132,
+  "totalNewgrad": 253,
   "totalOther": 879,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789435486,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d3c0c779-480d-4810-9393-88d215aa5e7e",
@@ -25,7 +25,7 @@
       "datePosted": 1789435263,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8d49edaf-5e5e-49b5-8b0e-1c75d2c04f76",
@@ -36,7 +36,7 @@
       "datePosted": 1789434627,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
@@ -47,7 +47,7 @@
       "datePosted": 1789434532,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f55553b1-9d7d-499d-98ac-d78d07cfb143",
@@ -58,7 +58,7 @@
       "datePosted": 1789434270,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
@@ -127,6 +127,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa854f482e82a31997c52cc",
+      "company": "DEKA Research & Development",
+      "title": "Software Engineering Co-Op- Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6aa854f482e82a31997c52cc",
+      "location": "Manchester, NH",
+      "datePosted": 1789408652,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa838bea77a53f5a1577fc1",
       "company": "Amazon",
       "title": "Data Engineer I, Business Data Technologies",
@@ -147,6 +158,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa89563930bff471a2a7f47",
+      "company": "Mastercard",
+      "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6aa89563930bff471a2a7f47",
+      "location": "O'Fallon, MO; Arlington, VA; New York, NY; Atlanta, GA",
+      "datePosted": 1789407987,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a4ec9b09469c0662034cabb",
@@ -237,22 +259,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "id": "newgrad-jobs:6aa381c25c11cce360364623",
       "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
-      "location": "Chandler, AZ",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa381c25c11cce360364623",
+      "location": "Cary, NC",
       "datePosted": 1789406805,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa381c25c11cce360364623",
+      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
       "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa381c25c11cce360364623",
-      "location": "Cary, NC",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
+      "location": "Chandler, AZ",
       "datePosted": 1789406805,
       "source": "newgrad-jobs",
       "season": null,
@@ -292,17 +314,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa854f482e82a31997c52cc",
-      "company": "DEKA Research & Development",
-      "title": "Software Engineering Co-Op- Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6aa854f482e82a31997c52cc",
-      "location": "Manchester, NH",
-      "datePosted": 1789405910,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a960ee7c8763a3a87ffe2c7",
       "company": "Stripe",
       "title": "Software Engineer, Intern (Summer or Winter)",
@@ -322,7 +333,7 @@
       "datePosted": 1789405412,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa8885e2ed333b4ea5cff6c",
@@ -787,17 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa827663a9f0a4fe6f179be",
-      "company": "Intuit",
-      "title": "Summer 2027: Mobile Software Engineering Intern - iOS",
-      "url": "https://jobright.ai/jobs/info/6aa827663a9f0a4fe6f179be",
-      "location": "Mountain View, CA; San Diego, CA; New York, NY; Charlotte, NC; Atlanta, GA",
-      "datePosted": 1789397302,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:1c64a304-96bc-447e-ab18-b8bcf93f937f",
       "company": "Robinhood",
       "title": "Software Engineer Intern - iOS - Summer 2027",
@@ -927,7 +927,7 @@
       "datePosted": 1789344000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
