@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T22:40:16Z",
-  "totalOpen": 1140,
-  "totalNewgrad": 259,
+  "generatedAt": "2026-09-15T22:50:16Z",
+  "totalOpen": 1138,
+  "totalNewgrad": 257,
   "totalOther": 881,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789510088,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e5537bf8-fbbd-44ae-a003-71eee38408d2",
@@ -25,18 +25,40 @@
       "datePosted": 1789509978,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9bb393387a3d9b67d66bd",
-      "company": "Anduril",
-      "title": "2027 Flight Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9bb393387a3d9b67d66bd",
-      "location": "Costa Mesa, CA",
-      "datePosted": 1789483209,
+      "id": "newgrad-jobs:6aa89423930bff471a2a7ec5",
+      "company": "Comcast",
+      "title": "Entry-level Backend Software Engineer (Python) - Chicago - ONSITE 2X Week - FreeWheel",
+      "url": "https://jobright.ai/jobs/info/6aa89423930bff471a2a7ec5",
+      "location": "Chicago, IL",
+      "datePosted": 1789483959,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9740adb22f636c81416f5d",
+      "company": "Eulerity",
+      "title": "Backend Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6a9740adb22f636c81416f5d",
+      "location": "New York, NY",
+      "datePosted": 1789483506,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9bbd009ae03adcacdec5c",
+      "company": "Anduril",
+      "title": "2027 Flight Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa9bbd009ae03adcacdec5c",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1789483360,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa9bb256d0edc2d91b0afda",
@@ -47,6 +69,17 @@
       "datePosted": 1789483189,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa991b009ae03adcacddd21",
+      "company": "Anduril",
+      "title": "Winter 2027 Systems Engineer Co-op",
+      "url": "https://jobright.ai/jobs/info/6aa991b009ae03adcacddd21",
+      "location": "Quincy, MA",
+      "datePosted": 1789482956,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -87,7 +120,7 @@
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://jobright.ai/jobs/info/6aa99b5d3387a3d9b67d5d6d",
-      "location": "Marlborough, MA",
+      "location": "Marlborough, MA; State College, PA",
       "datePosted": 1789482743,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -270,17 +303,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa89423930bff471a2a7ec5",
-      "company": "Comcast",
-      "title": "Entry-level Backend Software Engineer (Python) - Chicago - ONSITE 2X Week - FreeWheel",
-      "url": "https://jobright.ai/jobs/info/6aa89423930bff471a2a7ec5",
-      "location": "Chicago, IL",
-      "datePosted": 1789480754,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa9b06d09ae03adcacde5de",
       "company": "Northrop Grumman",
       "title": "Associate AI Software Engineer/ AI Software Engineer (AHT)",
@@ -322,17 +344,6 @@
       "datePosted": 1789479609,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9a936eff87f571fc9a9be",
-      "company": "Principal Chile",
-      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa9a936eff87f571fc9a9be",
-      "location": "Des Moines, IA",
-      "datePosted": 1789478598,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -400,6 +411,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9bbac6d0edc2d91b0b035",
+      "company": "Genia",
+      "title": "AI/ML Engineer \u2013 Architectural Modeling (Intern) - US",
+      "url": "https://jobright.ai/jobs/info/6aa9bbac6d0edc2d91b0b035",
+      "location": "Los Angeles, CA",
+      "datePosted": 1789475820,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a90a1d92e254e06fb9f20cb",
@@ -556,17 +578,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa991b009ae03adcacddd21",
-      "company": "Anduril",
-      "title": "Winter 2027 Systems Engineer Co-op",
-      "url": "https://jobright.ai/jobs/info/6aa991b009ae03adcacddd21",
-      "location": "Quincy, MA",
-      "datePosted": 1789472576,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa99122eff87f571fc9a143",
       "company": "Mitratech",
       "title": "Software Engineer I - AssureHire (Go)",
@@ -683,17 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6aa95ee3eff87f571fc995fb",
       "location": "Wilmington, MA; San Jose, CA; Durham, NC",
       "datePosted": 1789468878,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa960213387a3d9b67d4c5a",
-      "company": "Magna International",
-      "title": "Intern - Engineering ADAS Perception Features",
-      "url": "https://jobright.ai/jobs/info/6aa960213387a3d9b67d4c5a",
-      "location": "Auburn Hills, MI",
-      "datePosted": 1789468774,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
