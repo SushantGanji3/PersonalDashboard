@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T06:00:18Z",
-  "totalOpen": 1134,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-09-15T06:10:17Z",
+  "totalOpen": 1135,
+  "totalNewgrad": 256,
   "totalOther": 879,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -61,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa8da5910b1cd4f41604325",
+      "company": "Principal Chile",
+      "title": "Data Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa8da5910b1cd4f41604325",
+      "location": "Des Moines, IA",
+      "datePosted": 1789425641,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
       "company": "Waymo",
       "title": "Software Engineering Intern - Commercialization",
@@ -80,17 +91,6 @@
       "datePosted": 1789423661,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8d27217ddad6a8a47d5d6",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa8d27217ddad6a8a47d5d6",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789423618,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -589,10 +589,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa838a6a77a53f5a1577fa0",
+      "id": "newgrad-jobs:6aa838bea77a53f5a1577fc1",
       "company": "Amazon",
       "title": "Data Engineer I, Business Data Technologies",
-      "url": "https://jobright.ai/jobs/info/6aa838a6a77a53f5a1577fa0",
+      "url": "https://jobright.ai/jobs/info/6aa838bea77a53f5a1577fc1",
       "location": "Seattle, WA",
       "datePosted": 1789408666,
       "source": "newgrad-jobs",
