@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-15T07:40:18Z",
-  "totalOpen": 1136,
-  "totalNewgrad": 255,
-  "totalOther": 881,
+  "generatedAt": "2026-09-15T07:50:17Z",
+  "totalOpen": 1016,
+  "totalNewgrad": 256,
+  "totalOther": 760,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -61,26 +61,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8915b82e82a31997c6867",
-      "company": "M.C. Dean, Inc.",
-      "title": "Systems Engineer 1 - Tysons, VA",
-      "url": "https://jobright.ai/jobs/info/6aa8915b82e82a31997c6867",
-      "location": "Tysons, VA",
-      "datePosted": 1789428739,
+      "id": "newgrad-jobs:6aa8efb33387a3d9b67d3624",
+      "company": "Textron",
+      "title": "2027 Intern - Software Engineer (Crewed Land) - Slidell, LA",
+      "url": "https://jobright.ai/jobs/info/6aa8efb33387a3d9b67d3624",
+      "location": "Slidell, LA",
+      "datePosted": 1789431107,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
-      "company": "Lowe's Companies, Inc.",
-      "title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12",
-      "location": "Charlotte, NC",
-      "datePosted": 1789428520,
+      "id": "newgrad-jobs:6aa8ee5c17ddad6a8a47d87d",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aa8ee5c17ddad6a8a47d87d",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789430764,
       "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
@@ -88,7 +88,51 @@
       "title": "Associate Software Engineer - Launchpad",
       "url": "https://jobright.ai/jobs/info/6aa86447654b2a9424cfc952",
       "location": "Charlotte, NC",
-      "datePosted": 1789428505,
+      "datePosted": 1789429900,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa87b70a77a53f5a1579bf8",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "url": "https://jobright.ai/jobs/info/6aa87b70a77a53f5a1579bf8",
+      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
+      "datePosted": 1789429422,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa8ba1410b1cd4f41603b32",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Exploratory Software Engineering - Undergrad Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa8ba1410b1cd4f41603b32",
+      "location": "Charlotte, NC",
+      "datePosted": 1789429211,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12",
+      "location": "Charlotte, NC",
+      "datePosted": 1789429208,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa8915b82e82a31997c6867",
+      "company": "M.C. Dean, Inc.",
+      "title": "Systems Engineer 1 - Tysons, VA",
+      "url": "https://jobright.ai/jobs/info/6aa8915b82e82a31997c6867",
+      "location": "Tysons, VA",
+      "datePosted": 1789428739,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -102,6 +146,17 @@
       "datePosted": 1789427376,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa7f072654b2a9424cf9e2c",
+      "company": "L3Harris",
+      "title": "Intern, Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa7f072654b2a9424cf9e2c",
+      "location": "Waco, TX",
+      "datePosted": 1789427319,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -149,17 +204,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8da5783a6750b1adfa645",
-      "company": "Principal Chile",
-      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa8da5783a6750b1adfa645",
-      "location": "Des Moines, IA",
-      "datePosted": 1789425639,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa8d1b183a6750b1adfa50b",
       "company": "Leidos",
       "title": "High Speed Systems Engineer",
@@ -190,17 +234,6 @@
       "datePosted": 1789422817,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa87b70a77a53f5a1579bf8",
-      "company": "DoorDash",
-      "title": "Software Engineer, Intern (Summer 2027) - US",
-      "url": "https://jobright.ai/jobs/info/6aa87b70a77a53f5a1579bf8",
-      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
-      "datePosted": 1789422761,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -600,10 +633,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa838a6a77a53f5a1577fa0",
+      "id": "newgrad-jobs:6aa838bea77a53f5a1577fc1",
       "company": "Amazon",
       "title": "Data Engineer I, Business Data Technologies",
-      "url": "https://jobright.ai/jobs/info/6aa838a6a77a53f5a1577fa0",
+      "url": "https://jobright.ai/jobs/info/6aa838bea77a53f5a1577fc1",
       "location": "Seattle, WA",
       "datePosted": 1789408666,
       "source": "newgrad-jobs",
@@ -688,22 +721,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3d3df4238ea18d430e961",
+      "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
       "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
-      "location": "Tulsa, OK",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a8ca4ca25fc4e7ae3db9993",
+      "location": "Olathe, KS",
       "datePosted": 1789406805,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
+      "id": "newgrad-jobs:6aa3845e959a10d7230d20ff",
       "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
-      "location": "Chandler, AZ",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3845e959a10d7230d20ff",
+      "location": "Cary, NC",
       "datePosted": 1789406805,
       "source": "newgrad-jobs",
       "season": null,
@@ -740,39 +773,6 @@
       "datePosted": 1789405589,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8885e2ed333b4ea5cff6c",
-      "company": "PreSales Collective",
-      "title": "Summer 2027 Intern - Enterprise Technology - Mainframe Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa8885e2ed333b4ea5cff6c",
-      "location": "United States",
-      "datePosted": 1789404654,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa823bb82e82a31997c40e4",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aa823bb82e82a31997c40e4",
-      "location": "O'Fallon, MO",
-      "datePosted": 1789404629,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa825f43a9f0a4fe6f178dc",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa825f43a9f0a4fe6f178dc",
-      "location": "San Francisco, CA",
-      "datePosted": 1789404156,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
