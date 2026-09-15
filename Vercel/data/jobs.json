@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-15T06:30:17Z",
-  "totalOpen": 1133,
+  "generatedAt": "2026-09-15T06:40:19Z",
+  "totalOpen": 1136,
   "totalNewgrad": 254,
-  "totalOther": 879,
+  "totalOther": 882,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -303,6 +303,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Associate Software Engineer - Launchpad",
+      "url": "https://jobright.ai/jobs/info/6aa86447654b2a9424cfc952",
+      "location": "Charlotte, NC",
+      "datePosted": 1789419532,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa8c1ba6d0edc2d91b07905",
       "company": "General Dynamics",
       "title": "Systems Engineer Entry Level",
@@ -322,17 +333,6 @@
       "datePosted": 1789418850,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
-      "company": "Lowe's Companies, Inc.",
-      "title": "Associate Software Engineer - Launchpad",
-      "url": "https://jobright.ai/jobs/info/6aa86447654b2a9424cfc952",
-      "location": "Charlotte, NC",
-      "datePosted": 1789418826,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -897,6 +897,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:f32d5468-90ed-489b-ada3-673df7d014a9",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
+      "location": "Indianapolis, IN",
+      "datePosted": 1789344000,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:1bd223c7-4d3d-4d64-8dcc-3c5d3d7095dc",
+      "company": "RTX",
+      "title": "Software Engineer Co-op - Summer/Fall 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970",
+      "location": "Wilsonville, OR",
+      "datePosted": 1789344000,
+      "source": "aggregator",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
       "id": "simplify:bc3aa009-aa5f-4ec5-a762-ad9b200955b8",
       "company": "RTX",
       "title": "AI Engineer 1",
@@ -928,6 +950,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:bb50809f-40cf-4768-beef-ba71a49c92fc",
+      "company": "RTX",
+      "title": "Research Engineer 1 - Analytics and Machine Intelligence - AMI",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Engineer-I---RTX-BBN-Analytics-and-Machine-Intelligence--AMI----Arlington--VA-and-Cambridge--MA--Hybrid-_01874936",
+      "location": "Cambridge, MA, Arlington County, Arlington, VA",
+      "datePosted": 1789344000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
@@ -1288,39 +1321,6 @@
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017573",
       "location": "Dallas, TX, Sugar Land, TX",
       "datePosted": 1788992770,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6e6c40af-e772-40f7-bb8e-88e05976d3be",
-      "company": "Texas Instruments",
-      "title": "Software Engineer - Career Accelerator Program",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017577",
-      "location": "Dallas, TX, Richardson, TX",
-      "datePosted": 1788992767,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",
-      "company": "Apple",
-      "title": "Software Engineer - Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200682706",
-      "location": "Austin, TX",
-      "datePosted": 1788991789,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:61ec7d70-4c67-42e3-b8ec-b7d24c4048e2",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Service Engineering",
-      "url": "https://www.tesla.com/careers/search/job/282233",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788935076,
       "source": "aggregator",
       "season": null,
       "isNew": false
