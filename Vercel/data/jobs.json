@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T19:10:18Z",
-  "totalOpen": 1148,
-  "totalNewgrad": 270,
+  "generatedAt": "2026-09-15T19:20:17Z",
+  "totalOpen": 1149,
+  "totalNewgrad": 271,
   "totalOther": 878,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -17,48 +17,37 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa98fd4eff87f571fc9a042",
-      "company": "Principal M\u00e9xico",
-      "title": "Information Security Engineer Internship - Charlotte, NC (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa98fd4eff87f571fc9a042",
-      "location": "Charlotte, NC",
-      "datePosted": 1789472100,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aa98b0128e24cb38513aaa8",
-      "company": "AFP Cuprum",
-      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa98b0128e24cb38513aaa8",
-      "location": "Charlotte, NC",
-      "datePosted": 1789470865,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aa9577f6d0edc2d91b091e2",
-      "company": "York Space Systems",
-      "title": "Ground Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9577f6d0edc2d91b091e2",
-      "location": "Greenwood Village, CO",
-      "datePosted": 1789469845,
+      "id": "newgrad-jobs:6aa99122eff87f571fc9a143",
+      "company": "Mitratech",
+      "title": "Software Engineer I - AssureHire (Go)",
+      "url": "https://jobright.ai/jobs/info/6aa99122eff87f571fc9a143",
+      "location": "United States",
+      "datePosted": 1789472434,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa984d73387a3d9b67d5580",
-      "company": "Burns & McDonnell",
-      "title": "Software Developer Intern - Aviation & Federal (Kansas City)",
-      "url": "https://jobright.ai/jobs/info/6aa984d73387a3d9b67d5580",
-      "location": "Kansas City, MO",
-      "datePosted": 1789469287,
+      "id": "newgrad-jobs:6aa989953387a3d9b67d55ca",
+      "company": "EY",
+      "title": "SDC Front End Engineer--Analyst----Raleigh, NC or Dallas, TX",
+      "url": "https://jobright.ai/jobs/info/6aa989953387a3d9b67d55ca",
+      "location": "United States; United Kingdom",
+      "datePosted": 1789471615,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa84cb982e82a31997c5066",
+      "company": "Qualcomm",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa84cb982e82a31997c5066",
+      "location": "San Diego, CA",
+      "datePosted": 1789469116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa960213387a3d9b67d4c5a",
@@ -105,15 +94,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa805b782e82a31997c3402",
+      "id": "newgrad-jobs:6aa9809e28e24cb38513a997",
+      "company": "AFP Cuprum",
+      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa9809e28e24cb38513a997",
+      "location": "Charlotte, NC",
+      "datePosted": 1789468206,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa805ab2ed333b4ea5ccb4c",
       "company": "Leonardo DRS",
       "title": "Summer 2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa805b782e82a31997c3402",
+      "url": "https://jobright.ai/jobs/info/6aa805ab2ed333b4ea5ccb4c",
       "location": "Beavercreek, OH",
       "datePosted": 1789468153,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa97ed46d0edc2d91b09d8e",
@@ -149,14 +149,14 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa95ee3eff87f571fc995fb",
-      "company": "Analog Devices",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa95ee3eff87f571fc995fb",
-      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
-      "datePosted": 1789467595,
+      "id": "newgrad-jobs:6aa97e3ceff87f571fc99e91",
+      "company": "Principal M\u00e9xico",
+      "title": "Information Security Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa97e3ceff87f571fc99e91",
+      "location": "Charlotte, NC",
+      "datePosted": 1789467596,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -168,6 +168,17 @@
       "datePosted": 1789467593,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa95ee3eff87f571fc995fb",
+      "company": "Analog Devices",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa95ee3eff87f571fc995fb",
+      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
+      "datePosted": 1789467575,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -204,6 +215,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa9792a09ae03adcacdd88b",
+      "company": "Principal Chile",
+      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa9792a09ae03adcacdd88b",
+      "location": "Charlotte, NC",
+      "datePosted": 1789466298,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa9787509ae03adcacdd869",
       "company": "Principal Chile",
       "title": "Data Engineer Internship - Des Moines, IA (Summer 2027)",
@@ -237,17 +259,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa84cb982e82a31997c5066",
-      "company": "Qualcomm",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa84cb982e82a31997c5066",
-      "location": "San Diego, CA",
-      "datePosted": 1789465663,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa96406eff87f571fc997a4",
       "company": "Applied Systems",
       "title": "Associate Software Engineer / Software Engineer",
@@ -257,6 +268,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9910d09ae03adcacddb3b",
+      "company": "Freddie Mac",
+      "title": "Software Engineer, Associate II",
+      "url": "https://jobright.ai/jobs/info/6aa9910d09ae03adcacddb3b",
+      "location": "McLean, VA",
+      "datePosted": 1789464995,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa9736410b1cd4f41606187",
@@ -652,28 +674,6 @@
       "datePosted": 1789458984,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa95b47eff87f571fc994b0",
-      "company": "Golden West Telecommunications",
-      "title": "Software Developer (Intern), Part-Time",
-      "url": "https://jobright.ai/jobs/info/6aa95b47eff87f571fc994b0",
-      "location": "Rapid City, SD",
-      "datePosted": 1789458647,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a71a409ee751e0c7934463a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (AI Agent & Global Revenue Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a409ee751e0c7934463a",
-      "location": "San Jose, CA",
-      "datePosted": 1789457851,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {

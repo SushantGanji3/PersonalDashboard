@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:10:18Z",
+  "generatedAt": "2026-09-15T19:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -14,6 +14,17 @@
       "firstSeenAt": 1789483216
     },
     {
+      "id": "newgrad-jobs:6aa99122eff87f571fc9a143",
+      "company": "Mitratech",
+      "title": "Software Engineer I - AssureHire (Go)",
+      "url": "https://jobright.ai/jobs/info/6aa99122eff87f571fc9a143",
+      "location": "United States",
+      "datePosted": 1789472434,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789500017
+    },
+    {
       "id": "newgrad-jobs:6aa98fd4eff87f571fc9a042",
       "company": "Principal M\u00e9xico",
       "title": "Information Security Engineer Internship - Charlotte, NC (Summer 2027)",
@@ -23,6 +34,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789499418
+    },
+    {
+      "id": "newgrad-jobs:6aa989953387a3d9b67d55ca",
+      "company": "EY",
+      "title": "SDC Front End Engineer--Analyst----Raleigh, NC or Dallas, TX",
+      "url": "https://jobright.ai/jobs/info/6aa989953387a3d9b67d55ca",
+      "location": "United States; United Kingdom",
+      "datePosted": 1789471615,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789500017
     },
     {
       "id": "newgrad-jobs:6aa98b0128e24cb38513aaa8",
@@ -243,6 +265,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789497021
+    },
+    {
+      "id": "newgrad-jobs:6aa9910d09ae03adcacddb3b",
+      "company": "Freddie Mac",
+      "title": "Software Engineer, Associate II",
+      "url": "https://jobright.ai/jobs/info/6aa9910d09ae03adcacddb3b",
+      "location": "McLean, VA",
+      "datePosted": 1789464995,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789500017
     },
     {
       "id": "newgrad-jobs:6aa9736410b1cd4f41606187",
@@ -19163,28 +19196,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a626570c28982326de96810",
-      "company": "Continuum Media",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a626570c28982326de96810",
-      "location": "Denver, CO",
-      "datePosted": 1786907445,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a7f6658ad9ff00c26badfc4",
-      "company": "United States Cold Storage, Inc.",
-      "title": "DATA ENGINEER I",
-      "url": "https://jobright.ai/jobs/info/6a7f6658ad9ff00c26badfc4",
-      "location": "Camden, NJ",
-      "datePosted": 1786907438,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789095017
     }
   ]
 }
