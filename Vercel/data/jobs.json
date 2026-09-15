@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:47:10Z",
+  "generatedAt": "2026-09-15T06:50:15Z",
   "totalOpen": 1136,
   "totalNewgrad": 254,
   "totalOther": 882,
@@ -69,7 +69,7 @@
       "datePosted": 1789427376,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa89116a77a53f5a157a0c1",
@@ -91,7 +91,7 @@
       "datePosted": 1789425671,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa8da5d17ddad6a8a47d6f3",
@@ -303,6 +303,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Associate Software Engineer - Launchpad",
+      "url": "https://jobright.ai/jobs/info/6aa86447654b2a9424cfc952",
+      "location": "Charlotte, NC",
+      "datePosted": 1789419532,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa8c1ba6d0edc2d91b07905",
       "company": "General Dynamics",
       "title": "Systems Engineer Entry Level",
@@ -322,17 +333,6 @@
       "datePosted": 1789418850,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
-      "company": "Lowe's Companies, Inc.",
-      "title": "Associate Software Engineer - Launchpad",
-      "url": "https://jobright.ai/jobs/info/6aa86447654b2a9424cfc952",
-      "location": "Charlotte, NC",
-      "datePosted": 1789418826,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
