@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-15T10:30:20Z",
-  "totalOpen": 1136,
-  "totalNewgrad": 258,
-  "totalOther": 878,
+  "generatedAt": "2026-09-15T10:40:15Z",
+  "totalOpen": 1141,
+  "totalNewgrad": 261,
+  "totalOther": 880,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa913c510b1cd4f41604841",
+      "company": "Principal Chile",
+      "title": "Information Security Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa913c510b1cd4f41604841",
+      "location": "Charlotte, NC",
+      "datePosted": 1789440341,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa913c283a6750b1adfab6a",
+      "company": "Principal Chile",
+      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa913c283a6750b1adfab6a",
+      "location": "Des Moines, IA",
+      "datePosted": 1789440338,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa912bf10b1cd4f4160482f",
+      "company": "I Verve Inc",
+      "title": "Machine Learning Intern",
+      "url": "https://jobright.ai/jobs/info/6aa912bf10b1cd4f4160482f",
+      "location": "United States",
+      "datePosted": 1789440079,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa8cdf383a6750b1adfa45e",
       "company": "RTX",
@@ -300,6 +333,17 @@
       "datePosted": 1789425671,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
+      "company": "Waymo",
+      "title": "Software Engineering Intern - Commercialization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "location": "SF, Mountain View, CA",
+      "datePosted": 1789425486,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -721,10 +765,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa838bea77a53f5a1577fc1",
+      "id": "newgrad-jobs:6aa838a6a77a53f5a1577fa0",
       "company": "Amazon",
       "title": "Data Engineer I, Business Data Technologies",
-      "url": "https://jobright.ai/jobs/info/6aa838bea77a53f5a1577fc1",
+      "url": "https://jobright.ai/jobs/info/6aa838a6a77a53f5a1577fa0",
       "location": "Seattle, WA",
       "datePosted": 1789408666,
       "source": "newgrad-jobs",
@@ -740,39 +784,6 @@
       "datePosted": 1789408652,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa89563930bff471a2a7f47",
-      "company": "Mastercard",
-      "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6aa89563930bff471a2a7f47",
-      "location": "O'Fallon, MO; Arlington, VA; New York, NY; Atlanta, GA",
-      "datePosted": 1789407987,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4ec9b09469c0662034cabb",
-      "company": "Jump Trading",
-      "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://jobright.ai/jobs/info/6a4ec9b09469c0662034cabb",
-      "location": "Chicago, IL",
-      "datePosted": 1789407650,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa84ced2ed333b4ea5ce843",
-      "company": "Univera Healthcare",
-      "title": "Salesforce Developer",
-      "url": "https://jobright.ai/jobs/info/6aa84ced2ed333b4ea5ce843",
-      "location": "Rochester, NY; Albany, NY; Binghamton, NY; Buffalo, NY; DeWitt, NY; Utica, NY",
-      "datePosted": 1789407429,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.apple.com/en-us/details/200682706",
       "location": "Austin, TX",
       "datePosted": 1788991789,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:61ec7d70-4c67-42e3-b8ec-b7d24c4048e2",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Service Engineering",
-      "url": "https://www.tesla.com/careers/search/job/282233",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788935076,
       "source": "aggregator",
       "season": null,
       "isNew": false
