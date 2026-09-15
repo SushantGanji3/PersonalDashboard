@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-15T14:00:21Z",
+  "generatedAt": "2026-09-15T14:10:19Z",
   "totalOpen": 1137,
-  "totalNewgrad": 258,
-  "totalOther": 879,
+  "totalNewgrad": 259,
+  "totalOther": 878,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa945c6eff87f571fc98da5",
+      "company": "AFP Cuprum",
+      "title": "Data Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa945c6eff87f571fc98da5",
+      "location": "Des Moines, IA",
+      "datePosted": 1789453142,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8c880025fc4e7ae3db8eca",
+      "company": "CarGurus",
+      "title": "Application Security Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a8c880025fc4e7ae3db8eca",
+      "location": "Boston, MA",
+      "datePosted": 1789453042,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa942cf3387a3d9b67d4204",
       "company": "CyberProof",
@@ -710,28 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8d1b183a6750b1adfa50b",
-      "company": "Leidos",
-      "title": "High Speed Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa8d1b183a6750b1adfa50b",
-      "location": "Huntsville, AL; Shalimar, FL",
-      "datePosted": 1789423425,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9191e3387a3d9b67d3a92",
-      "company": "General Dynamics",
-      "title": "Systems Engineer \u2013 Entry Level",
-      "url": "https://jobright.ai/jobs/info/6aa9191e3387a3d9b67d3a92",
-      "location": "Pittsfield, MA",
-      "datePosted": 1789423200,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:3bb38aa8-f245-410c-8c91-5120b5b561a4",
       "company": "Tesla",
       "title": "Software Engineer Intern - Camera & Robotics",
@@ -869,17 +869,6 @@
       "title": "Software Engineering Intern - Early Careers - Software Engineering",
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
       "location": "Concord, CA, SF, San Leandro, CA",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0f1a5eef-d0e4-4005-9f93-f6e95245eb6f",
-      "company": "Micron",
-      "title": "IT Software Engineer Intern",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
-      "location": "Boise, ID",
       "datePosted": 1789344000,
       "source": "aggregator",
       "season": null,
@@ -1321,6 +1310,17 @@
       "url": "https://jobs.apple.com/en-us/details/200682706",
       "location": "Austin, TX",
       "datePosted": 1788991789,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:61ec7d70-4c67-42e3-b8ec-b7d24c4048e2",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Service Engineering",
+      "url": "https://www.tesla.com/careers/search/job/282233",
+      "location": "Palo Alto, CA",
+      "datePosted": 1788935076,
       "source": "aggregator",
       "season": null,
       "isNew": false
