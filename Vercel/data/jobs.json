@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T16:10:19Z",
-  "totalOpen": 1152,
-  "totalNewgrad": 273,
+  "generatedAt": "2026-09-15T16:20:16Z",
+  "totalOpen": 1151,
+  "totalNewgrad": 272,
   "totalOther": 879,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,17 +15,6 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa05a8e5b2d5633ef3be170",
-      "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin",
-      "url": "https://jobright.ai/jobs/info/6aa05a8e5b2d5633ef3be170",
-      "location": "Austin, TX",
-      "datePosted": 1789460245,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa80bce82e82a31997c3787",
@@ -672,6 +661,17 @@
       "url": "https://jobright.ai/jobs/info/6a968ddbe4e60e4b8da595eb",
       "location": "San Jose, CA",
       "datePosted": 1789443238,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa95b7f28e24cb385139f79",
+      "company": "Infinite Campus",
+      "title": "SOFTWARE ENGINEER I (205A91526)",
+      "url": "https://jobright.ai/jobs/info/6aa95b7f28e24cb385139f79",
+      "location": "Minneapolis, MN",
+      "datePosted": 1789442820,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
