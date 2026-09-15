@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-15T22:30:17Z",
-  "totalOpen": 1137,
+  "generatedAt": "2026-09-15T22:40:16Z",
+  "totalOpen": 1140,
   "totalNewgrad": 259,
-  "totalOther": 878,
+  "totalOther": 881,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d6e19b01-22aa-46ab-a8b0-95bb1092f446",
+      "company": "Charles Schwab",
+      "title": "Associate Java Developer",
+      "url": "https://career-schwab.icims.com/jobs/126708/job?mobile=true&needsRedirect=false",
+      "location": "Southlake, TX",
+      "datePosted": 1789510088,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:e5537bf8-fbbd-44ae-a003-71eee38408d2",
+      "company": "Anduril",
+      "title": "Software Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007",
+      "location": "Quincy, MA",
+      "datePosted": 1789509978,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa9bb393387a3d9b67d66bd",
       "company": "Anduril",
@@ -908,17 +930,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:bc3aa009-aa5f-4ec5-a762-ad9b200955b8",
-      "company": "RTX",
-      "title": "AI Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-REMOTE/Engineer-I--AI-Engineer_01874267",
-      "location": "Connecticut",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:8edf16f9-31db-4a81-b28d-bfabbbdece38",
       "company": "RTX",
       "title": "Hardware In the Loop Software Engineer 1",
@@ -1310,17 +1321,6 @@
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017577",
       "location": "Dallas, TX, Richardson, TX",
       "datePosted": 1788992767,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",
-      "company": "Apple",
-      "title": "Software Engineer - Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200682706",
-      "location": "Austin, TX",
-      "datePosted": 1788991789,
       "source": "aggregator",
       "season": null,
       "isNew": false
