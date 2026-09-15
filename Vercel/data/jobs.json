@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-15T14:10:19Z",
-  "totalOpen": 1137,
-  "totalNewgrad": 259,
+  "generatedAt": "2026-09-15T14:20:17Z",
+  "totalOpen": 1138,
+  "totalNewgrad": 260,
   "totalOther": 878,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a96cefc246d697dcee01554",
+      "company": "DigitalOcean",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a96cefc246d697dcee01554",
+      "location": "Seattle, WA",
+      "datePosted": 1789453500,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa946c7eff87f571fc98dec",
+      "company": "Principal M\u00e9xico",
+      "title": "Information Security Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa946c7eff87f571fc98dec",
+      "location": "Charlotte, NC",
+      "datePosted": 1789453399,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9460509ae03adcacdc841",
+      "company": "AFP Cuprum",
+      "title": "Software Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa9460509ae03adcacdc841",
+      "location": "Des Moines, IA",
+      "datePosted": 1789453205,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9460210b1cd4f4160525b",
+      "company": "AFP Cuprum",
+      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa9460210b1cd4f4160525b",
+      "location": "Des Moines, IA",
+      "datePosted": 1789453202,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa945c6eff87f571fc98da5",
       "company": "AFP Cuprum",
@@ -12,6 +56,17 @@
       "url": "https://jobright.ai/jobs/info/6aa945c6eff87f571fc98da5",
       "location": "Des Moines, IA",
       "datePosted": 1789453142,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa945b828e24cb385139803",
+      "company": "AFP Cuprum",
+      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa945b828e24cb385139803",
+      "location": "Charlotte, NC",
+      "datePosted": 1789453128,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": true
@@ -25,7 +80,7 @@
       "datePosted": 1789453042,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa942cf3387a3d9b67d4204",
@@ -67,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6aa440161d92e2d05d114116",
       "location": "Grand Prairie, TX",
       "datePosted": 1789451685,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7dc710b56bea5779c01b22",
-      "company": "Interco",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a7dc710b56bea5779c01b22",
-      "location": "St. Louis, MO",
-      "datePosted": 1789450500,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -674,50 +718,6 @@
       "datePosted": 1789428739,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a965e6c4c22023a07939065",
-      "company": "K2 Space Corporation",
-      "title": "Software Engineering Intern \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a965e6c4c22023a07939065",
-      "location": "Los Angeles, CA; Torrance, CA",
-      "datePosted": 1789427376,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa7f072654b2a9424cf9e2c",
-      "company": "L3Harris",
-      "title": "Intern, Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa7f072654b2a9424cf9e2c",
-      "location": "Waco, TX",
-      "datePosted": 1789427319,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa89116a77a53f5a157a0c1",
-      "company": "Superhuman",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa89116a77a53f5a157a0c1",
-      "location": "San Francisco, CA; New York, NY; Seattle, WA",
-      "datePosted": 1789425752,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8da776d0edc2d91b07d97",
-      "company": "BioSpace",
-      "title": "Undergrad Intern  Data Engineer  Amgens Technology & Medical Organizations (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa8da776d0edc2d91b07d97",
-      "location": "Washington, DC",
-      "datePosted": 1789425671,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
