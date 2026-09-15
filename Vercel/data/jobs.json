@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-09-15T01:30:18Z",
-  "totalOpen": 1126,
-  "totalNewgrad": 255,
-  "totalOther": 871,
+  "generatedAt": "2026-09-15T01:40:16Z",
+  "totalOpen": 1133,
+  "totalNewgrad": 254,
+  "totalOther": 879,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:8531a8a8-615c-4eb3-8f19-b6a80d1d5d15",
+      "company": "OpenAI",
+      "title": "Software Engineer - Applied Emerging Talent",
+      "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true",
+      "location": "SF",
+      "datePosted": 1789435486,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:d3c0c779-480d-4810-9393-88d215aa5e7e",
+      "company": "DoorDash",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "location": "Seattle, WA, SF, LA, NYC, Sunnyvale, CA",
+      "datePosted": 1789435263,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:8d49edaf-5e5e-49b5-8b0e-1c75d2c04f76",
+      "company": "Tesla",
+      "title": "Computer Vision Engineer Intern - Cell Engineering",
+      "url": "https://www.tesla.com/careers/search/job/283290",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789434627,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
+      "company": "Atlassian",
+      "title": "Software Engineer",
+      "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
+      "location": "Seattle, WA",
+      "datePosted": 1789434532,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:f55553b1-9d7d-499d-98ac-d78d07cfb143",
+      "company": "Apple",
+      "title": "Hardware Systems Engineer - Board Design",
+      "url": "https://jobs.apple.com/en-us/details/200683615",
+      "location": "Cupertino, CA",
+      "datePosted": 1789434270,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
       "company": "Waymo",
@@ -72,6 +127,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa838bea77a53f5a1577fc1",
+      "company": "Amazon",
+      "title": "Data Engineer I, Business Data Technologies",
+      "url": "https://jobright.ai/jobs/info/6aa838bea77a53f5a1577fc1",
+      "location": "Seattle, WA",
+      "datePosted": 1789408645,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a70e85102d93145bf88d09a",
+      "company": "Chime",
+      "title": "Software Engineer, AI Enablement",
+      "url": "https://jobright.ai/jobs/info/6a70e85102d93145bf88d09a",
+      "location": "United States",
+      "datePosted": 1789408140,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a4ec9b09469c0662034cabb",
       "company": "Jump Trading",
       "title": "Campus UI Software Engineer (Intern)",
@@ -80,7 +157,7 @@
       "datePosted": 1789407650,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7462b8bb6ca93ae560a1a7",
@@ -91,7 +168,7 @@
       "datePosted": 1789407233,
       "source": "newgrad-jobs",
       "season": "Summer 2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a714fde9a0ca4480c7d3c2b",
@@ -102,7 +179,7 @@
       "datePosted": 1789407082,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa89171930bff471a2a7e67",
@@ -113,7 +190,7 @@
       "datePosted": 1789406977,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa89168930bff471a2a7e65",
@@ -124,7 +201,7 @@
       "datePosted": 1789406968,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa89168930bff471a2a7e64",
@@ -135,7 +212,7 @@
       "datePosted": 1789406968,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa8915b82e82a31997c6867",
@@ -146,7 +223,7 @@
       "datePosted": 1789406955,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa89116a77a53f5a157a0c1",
@@ -157,7 +234,7 @@
       "datePosted": 1789406886,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
@@ -190,7 +267,7 @@
       "datePosted": 1789406627,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa8901282e82a31997c6847",
@@ -201,7 +278,7 @@
       "datePosted": 1789406626,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa88c1c82e82a31997c677f",
@@ -212,7 +289,7 @@
       "datePosted": 1789406205,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa854f482e82a31997c52cc",
@@ -234,18 +311,18 @@
       "datePosted": 1789405589,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa838bea77a53f5a1577fc1",
-      "company": "Amazon",
-      "title": "Data Engineer I, Business Data Technologies",
-      "url": "https://jobright.ai/jobs/info/6aa838bea77a53f5a1577fc1",
-      "location": "Seattle, WA",
-      "datePosted": 1789405272,
+      "id": "newgrad-jobs:6aa84ced2ed333b4ea5ce843",
+      "company": "Univera Healthcare",
+      "title": "Salesforce Developer",
+      "url": "https://jobright.ai/jobs/info/6aa84ced2ed333b4ea5ce843",
+      "location": "Rochester, NY; Albany, NY; Binghamton, NY; Buffalo, NY; DeWitt, NY; Utica, NY",
+      "datePosted": 1789405412,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa8885e2ed333b4ea5cff6c",
@@ -256,7 +333,7 @@
       "datePosted": 1789404654,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa823bb82e82a31997c40e4",
@@ -276,17 +353,6 @@
       "url": "https://jobright.ai/jobs/info/6aa88726654b2a9424cfd462",
       "location": "United States",
       "datePosted": 1789404342,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a70e85102d93145bf88d09a",
-      "company": "Chime",
-      "title": "Software Engineer, AI Enablement",
-      "url": "https://jobright.ai/jobs/info/6a70e85102d93145bf88d09a",
-      "location": "United States",
-      "datePosted": 1789404156,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -787,17 +853,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa86980930bff471a2a7290",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Camera & Robotics (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa86980930bff471a2a7290",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789396752,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
       "company": "ServiceNow",
       "title": "Software Engineer",
@@ -862,6 +917,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:8aa31162-4140-4408-a6ca-0e51e890da86",
+      "company": "RTX",
+      "title": "Software Engineer New Grad",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618",
+      "location": "Arlington County, Arlington, VA",
+      "datePosted": 1789344000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
@@ -1255,72 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/282233",
       "location": "Palo Alto, CA",
       "datePosted": 1788935076,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:52c6c00b-0538-4eae-ba83-7a32198496a7",
-      "company": "Coinbase",
-      "title": "Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8168315",
-      "location": "SF",
-      "datePosted": 1788916882,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:96af2834-7e64-41a6-b0d4-d000f97b76cb",
-      "company": "Coinbase",
-      "title": "Data Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8175459",
-      "location": "SF",
-      "datePosted": 1788916844,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7ca37683-268a-4dd7-a974-d250fd211b31",
-      "company": "RTX",
-      "title": "Software Engineering Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Summer-Fall-2027-_01872236",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788912000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3dcaee02-3f62-48f4-a9a3-20eb7b2a97bb",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646",
-      "location": "Aurora, CO",
-      "datePosted": 1788912000,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:a081e1ce-81e7-4a47-a2ca-a00e10af723b",
-      "company": "RTX",
-      "title": "Embedded Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867",
-      "location": "McKinney, TX",
-      "datePosted": 1788912000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:96ce500e-5e6d-4796-8787-89a69ab30d04",
-      "company": "Boeing",
-      "title": "Software Engineer - Associate - Bixby",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026524250",
-      "location": "Seal Beach, CA, El Segundo, CA",
-      "datePosted": 1788912000,
       "source": "aggregator",
       "season": null,
       "isNew": false
