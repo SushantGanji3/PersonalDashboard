@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-15T14:30:20Z",
-  "totalOpen": 1137,
+  "generatedAt": "2026-09-15T14:40:16Z",
+  "totalOpen": 1138,
   "totalNewgrad": 259,
-  "totalOther": 878,
+  "totalOther": 879,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:8761ed1a-63bf-43df-8b6b-4a034fbf86c8",
+      "company": "General Dynamics",
+      "title": "Engineer Intern - Software Engineering",
+      "url": "https://careers-gdms.icims.com/jobs/74953/job?mobile=true&needsRedirect=false",
+      "location": "Bloomington, MN",
+      "datePosted": 1789481778,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a96cefc246d697dcee01554",
       "company": "DigitalOcean",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.apple.com/en-us/details/200682706",
       "location": "Austin, TX",
       "datePosted": 1788991789,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:61ec7d70-4c67-42e3-b8ec-b7d24c4048e2",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Service Engineering",
-      "url": "https://www.tesla.com/careers/search/job/282233",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788935076,
       "source": "aggregator",
       "season": null,
       "isNew": false
