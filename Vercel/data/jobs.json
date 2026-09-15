@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-15T23:00:22Z",
-  "totalOpen": 1139,
-  "totalNewgrad": 258,
-  "totalOther": 881,
+  "generatedAt": "2026-09-15T23:10:16Z",
+  "totalOpen": 1142,
+  "totalNewgrad": 257,
+  "totalOther": 885,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d4c19c36-ef9a-4709-85c2-e54045c626b7",
+      "company": "Cerebras",
+      "title": "Software Engineer - Kernel Reliability",
+      "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true",
+      "location": "Canada, United States",
+      "datePosted": 1789511063,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ad6bb21b-4869-4a5e-a8c3-152a8089c35f",
+      "company": "Texas Instruments",
+      "title": "Data Engineer - Career Accelerator Program",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
+      "location": "Richardson, TX",
+      "datePosted": 1789510584,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:d6e19b01-22aa-46ab-a8b0-95bb1092f446",
       "company": "Charles Schwab",
@@ -26,6 +48,116 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:a529ee18-b6a1-4596-bc3a-31cb1890b708",
+      "company": "Anduril",
+      "title": "Flight Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1789509902,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c514eff87f571fc9b66e",
+      "company": "Zions Bancorporation",
+      "title": "Intern- Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa9c514eff87f571fc9b66e",
+      "location": "Midvale, UT",
+      "datePosted": 1789485732,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c4b828e24cb38513c0d1",
+      "company": "AFP Cuprum",
+      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa9c4b828e24cb38513c0d1",
+      "location": "Charlotte, NC",
+      "datePosted": 1789485640,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c49f09ae03adcacdf131",
+      "company": "Principal Chile",
+      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa9c49f09ae03adcacdf131",
+      "location": "Charlotte, NC",
+      "datePosted": 1789485615,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c490eff87f571fc9b5d7",
+      "company": "Principal Chile",
+      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa9c490eff87f571fc9b5d7",
+      "location": "Des Moines, IA",
+      "datePosted": 1789485600,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c41a10b1cd4f41607ab5",
+      "company": "Tencent Americas",
+      "title": "Cyber Security Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa9c41a10b1cd4f41607ab5",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789485482,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c3e03387a3d9b67d6b2e",
+      "company": "Emerson",
+      "title": "Software Engineering Intern - ADG System R&D",
+      "url": "https://jobright.ai/jobs/info/6aa9c3e03387a3d9b67d6b2e",
+      "location": "Austin, TX",
+      "datePosted": 1789485424,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c2d610b1cd4f416079c1",
+      "company": "Amazon",
+      "title": "AI Platform Data Engineer, Ring Decision Science, Ring Decision Science",
+      "url": "https://jobright.ai/jobs/info/6aa9c2d610b1cd4f416079c1",
+      "location": "Hawthorne, CA",
+      "datePosted": 1789485158,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c1f228e24cb38513bf0d",
+      "company": "Atlassian",
+      "title": "Software Engineer Intern, 2027 Canada",
+      "url": "https://jobright.ai/jobs/info/6aa9c1f228e24cb38513bf0d",
+      "location": "United States; Canada",
+      "datePosted": 1789484930,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9c19928e24cb38513bed9",
+      "company": "Intelliforce-IT Solutions Group, LLC.",
+      "title": "Junior Software Engineer (Prime)",
+      "url": "https://jobright.ai/jobs/info/6aa9c19928e24cb38513bed9",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1789484841,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa89423930bff471a2a7ec5",
@@ -248,17 +380,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9b5d03387a3d9b67d63be",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa9b5d03387a3d9b67d63be",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789481824,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:8761ed1a-63bf-43df-8b6b-4a034fbf86c8",
       "company": "General Dynamics",
       "title": "Engineer Intern - Software Engineering",
@@ -424,6 +545,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a97185bb22f636c81415d0a",
+      "company": "Dev Technology Group, Inc.",
+      "title": "React/Node Developer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a97185bb22f636c81415d0a",
+      "location": "Reston, VA",
+      "datePosted": 1789475649,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a90a1d92e254e06fb9f20cb",
       "company": "In-Depth Engineering Corporation",
       "title": "Software Engineer (Kubernetes) - Columbia, MD",
@@ -433,6 +565,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9c1b63387a3d9b67d69ee",
+      "company": "Hometap",
+      "title": "Full Stack Engineering Co-op - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6aa9c1b63387a3d9b67d69ee",
+      "location": "United States",
+      "datePosted": 1789475471,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8490437b33d72276256ca9",
@@ -479,15 +622,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9984309ae03adcacde26b",
-      "company": "Principal Chile",
-      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa9984309ae03adcacde26b",
-      "location": "Charlotte, NC",
-      "datePosted": 1789474259,
+      "id": "newgrad-jobs:6aa9c1e709ae03adcacdef2c",
+      "company": "Erias Ventures",
+      "title": "Enterprise - Software Engineer - Linux, Geospatial, Image",
+      "url": "https://jobright.ai/jobs/info/6aa9c1e709ae03adcacdef2c",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1789474629,
       "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9bfdb6d0edc2d91b0b220",
+      "company": "BLEND",
+      "title": "Software Engineer - AI Native (Full Stack)",
+      "url": "https://jobright.ai/jobs/info/6aa9bfdb6d0edc2d91b0b220",
+      "location": "Raleigh, NC",
+      "datePosted": 1789474515,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa9b8fe28e24cb38513bad2",
@@ -578,127 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa99122eff87f571fc9a143",
-      "company": "Mitratech",
-      "title": "Software Engineer I - AssureHire (Go)",
-      "url": "https://jobright.ai/jobs/info/6aa99122eff87f571fc9a143",
-      "location": "United States",
-      "datePosted": 1789472434,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9b7476d0edc2d91b0adb1",
-      "company": "Eaton",
-      "title": "Systems Engineer (Level 1/2) - San Diego CA",
-      "url": "https://jobright.ai/jobs/info/6aa9b7476d0edc2d91b0adb1",
-      "location": "San Diego, CA",
-      "datePosted": 1789472187,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9ba933387a3d9b67d666e",
-      "company": "Rilla",
-      "title": "Software Engineering Intern, 2028 Grads",
-      "url": "https://jobright.ai/jobs/info/6aa9ba933387a3d9b67d666e",
-      "location": "New York, NY",
-      "datePosted": 1789471622,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4924f8275e3a211760d71",
-      "company": "Commure",
-      "title": "Software Engineering Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa4924f8275e3a211760d71",
-      "location": "Mountain View, CA",
-      "datePosted": 1789471254,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9aedb10b1cd4f41606f82",
-      "company": "Summit Utilities, Inc.",
-      "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9aedb10b1cd4f41606f82",
-      "location": "Fayetteville, AR; Fort Smith, AR; Little Rock, AR",
-      "datePosted": 1789471002,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1ab34ef23570cae245878",
-      "company": "Trew",
-      "title": "Spring 2027 Software Engineering Co-Op",
-      "url": "https://jobright.ai/jobs/info/6aa1ab34ef23570cae245878",
-      "location": "West Chester, OH",
-      "datePosted": 1789470872,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9a7db28e24cb38513b45c",
-      "company": "Microsoft",
-      "title": "Software Engineer - AI Platform",
-      "url": "https://jobright.ai/jobs/info/6aa9a7db28e24cb38513b45c",
-      "location": "Mountain View, CA",
-      "datePosted": 1789470737,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9935ceff87f571fc9a545",
-      "company": "Hitachi Rail",
-      "title": "Intern - Onboard Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aa9935ceff87f571fc9a545",
-      "location": "Pittsburgh, PA",
-      "datePosted": 1789469867,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9577f6d0edc2d91b091e2",
-      "company": "York Space Systems",
-      "title": "Ground Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9577f6d0edc2d91b091e2",
-      "location": "Greenwood Village, CO",
-      "datePosted": 1789469845,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7d10a97c52154b59f5dd68",
-      "company": "Lumion",
-      "title": "Junior Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a7d10a97c52154b59f5dd68",
-      "location": "United States",
-      "datePosted": 1789468887,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa95ee3eff87f571fc995fb",
-      "company": "Analog Devices",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa95ee3eff87f571fc995fb",
-      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
-      "datePosted": 1789468878,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:8531a8a8-615c-4eb3-8f19-b6a80d1d5d15",
       "company": "OpenAI",
       "title": "Software Engineer - Applied Emerging Talent",
@@ -752,6 +785,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:bdfbfca1-ffec-468f-a042-b1fac1c61036",
+      "company": "Northrop Grumman",
+      "title": "Cyber Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+      "location": "Cincinnati, OH",
+      "datePosted": 1789430400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
@@ -1277,50 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/282916",
       "location": "Fremont, CA",
       "datePosted": 1788993234,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:94f6899d-56b9-46ea-a8fc-077dcadbc526",
-      "company": "Replit",
-      "title": "Software Engineer New Grad - Summer 2027",
-      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application?embed=true",
-      "location": "Foster City, CA",
-      "datePosted": 1788993200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:993e682f-95cd-4e4d-8efb-2e6f929d5b6b",
-      "company": "Texas Instruments",
-      "title": "Software Engineer",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017860",
-      "location": "Dallas, TX",
-      "datePosted": 1788992799,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:47270b91-cce2-4846-9e38-c8026f366bce",
-      "company": "Texas Instruments",
-      "title": "Software Engineer Intern",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017573",
-      "location": "Dallas, TX, Sugar Land, TX",
-      "datePosted": 1788992770,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6e6c40af-e772-40f7-bb8e-88e05976d3be",
-      "company": "Texas Instruments",
-      "title": "Software Engineer - Career Accelerator Program",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017577",
-      "location": "Dallas, TX, Richardson, TX",
-      "datePosted": 1788992767,
       "source": "aggregator",
       "season": null,
       "isNew": false
