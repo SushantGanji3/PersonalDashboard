@@ -623,6 +623,16 @@
   .asgn-row:hover{
     background:var(--surface-2);
   }
+  .asgn-check{
+    flex:none;
+    width:15px;
+    height:15px;
+    margin:0;
+    cursor:pointer;
+    accent-color:var(--accent);
+  }
+  .asgn-row.completed{ opacity:0.5; }
+  .asgn-row.completed .asgn-title{ text-decoration:line-through; }
   .asgn-body{ min-width:0; flex:1; }
   .asgn-title{
     font-size:12.5px;
@@ -2262,6 +2272,7 @@
       const dtstart = get('DTSTART');
       const dtend   = get('DTEND');
       const rawUrl  = get('URL');
+      const uid     = get('UID');
       // Clean up URL — Canvas sometimes wraps long URLs across lines already unfolded
       const url = rawUrl.replace(/\s+/g, '');
       // Use DTSTART as the due date; fall back to DTEND
@@ -2278,9 +2289,22 @@
         due = new Date(digits.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z?/, '$1-$2-$3T$4:$5:$6Z'));
       }
       if(isNaN(due.getTime())) continue;
-      events.push({ title: summary, due, url });
+      events.push({ title: summary, due, url, uid });
     }
     return events;
+  }
+
+  // ---- Completion state (persisted per-browser via localStorage) ----
+  const ASGN_DONE_KEY = 'asgn-done-ids';
+  function loadDoneIds(){
+    try{ return new Set(JSON.parse(localStorage.getItem(ASGN_DONE_KEY) || '[]')); }
+    catch(e){ return new Set(); }
+  }
+  function saveDoneIds(set){
+    try{ localStorage.setItem(ASGN_DONE_KEY, JSON.stringify([...set])); }catch(e){}
+  }
+  function asgnId(ev){
+    return ev.uid || `${ev.title}::${ev.due.toISOString()}`;
   }
 
   function renderAssignments(events){
@@ -2295,11 +2319,30 @@
     }
 
     const within30 = upcoming.filter(e => (e.due - now) < 30*86400000);
+    const doneIds = loadDoneIds();
+    // Prune stored ids that no longer correspond to a visible assignment, so the set doesn't grow forever.
+    const currentIds = new Set(within30.map(asgnId));
+    let pruned = false;
+    for(const id of [...doneIds]){
+      if(!currentIds.has(id)){ doneIds.delete(id); pruned = true; }
+    }
+    if(pruned) saveDoneIds(doneIds);
+
+    const remaining = within30.filter(ev => !doneIds.has(asgnId(ev))).length;
     document.getElementById('asgn-sub').textContent =
-      `${within30.length} assignment${within30.length!==1?'s':''} due in the next 30 days · Canvas iCal`;
+      `${remaining} of ${within30.length} assignment${within30.length!==1?'s':''} left · due in the next 30 days · Canvas iCal`;
+
+    // Incomplete first (soonest due), completed items pushed to the bottom.
+    const sorted = [...within30].sort((a,b) => {
+      const da = doneIds.has(asgnId(a)), db = doneIds.has(asgnId(b));
+      if(da !== db) return da ? 1 : -1;
+      return a.due - b.due;
+    });
 
     list.innerHTML = '';
-    within30.forEach(ev => {
+    sorted.forEach(ev => {
+      const id = asgnId(ev);
+      const isDone = doneIds.has(id);
       const daysAway = (ev.due - now) / 86400000;
       const hoursAway = (ev.due - now) / 3600000;
       let dueClass = 'due-ok', dueLabel = '';
@@ -2318,16 +2361,23 @@
       const courseTag = bracketMatch ? bracketMatch[1] : null;
       const cleanTitle = bracketMatch ? ev.title.replace(/\s*\[[^\]]+\]/, '').trim() : ev.title;
       const row = document.createElement('div');
-      row.className = 'asgn-row';
+      row.className = 'asgn-row' + (isDone ? ' completed' : '');
       const linkHtml = ev.url
         ? `<a href="${escapeHtml(ev.url)}" target="_blank" rel="noopener">${escapeHtml(cleanTitle)}</a>`
         : escapeHtml(cleanTitle);
       row.innerHTML = `
+        <input type="checkbox" class="asgn-check" ${isDone ? 'checked' : ''} aria-label="Mark ${escapeHtml(cleanTitle)} as done">
         <div class="asgn-body">
           <div class="asgn-title">${linkHtml}</div>
           ${courseTag ? `<span class="asgn-course">${escapeHtml(courseTag)}</span>` : ''}
         </div>
         <div class="asgn-due ${dueClass}">${escapeHtml(dueLabel)}</div>`;
+      row.querySelector('.asgn-check').addEventListener('change', (e) => {
+        const done = loadDoneIds();
+        if(e.target.checked) done.add(id); else done.delete(id);
+        saveDoneIds(done);
+        renderAssignments(events);
+      });
       list.appendChild(row);
     });
   }
