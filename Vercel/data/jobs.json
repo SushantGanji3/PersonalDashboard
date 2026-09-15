@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-15T23:30:18Z",
-  "totalOpen": 1142,
+  "generatedAt": "2026-09-15T23:40:18Z",
+  "totalOpen": 1145,
   "totalNewgrad": 257,
-  "totalOther": 885,
+  "totalOther": 888,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:99b19d5b-03dd-438a-91db-fbb3b10e7201",
+      "company": "Duolingo",
+      "title": "Software Engineer Intern - Thrive",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
+      "location": "Pittsburgh, PA",
+      "datePosted": 1789511923,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
+      "company": "Duolingo",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+      "location": "Seattle, WA, Pittsburgh, PA, NYC",
+      "datePosted": 1789511923,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:d4c19c36-ef9a-4709-85c2-e54045c626b7",
       "company": "Cerebras",
@@ -59,6 +81,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:82c69acd-73ca-4a6f-b334-fd16a295ccbf",
+      "company": "Apple",
+      "title": "Systems Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200683808",
+      "location": "San Diego, CA",
+      "datePosted": 1789509819,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa9c514eff87f571fc9b66e",
@@ -798,6 +831,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:86e05190-6f6e-4617-a436-98e255caa0d2",
+      "company": "Northrop Grumman",
+      "title": "Associate AI Software Engineer/AI Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10250894",
+      "location": "Beavercreek, OH",
+      "datePosted": 1789430400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
       "company": "Waymo",
       "title": "Software Engineering Intern - Commercialization",
@@ -1277,50 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/282774",
       "location": "Fremont, CA",
       "datePosted": 1788993729,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:dac9504d-3656-4127-972c-fc70bc04666a",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Autonomy Systems Foundations",
-      "url": "https://www.tesla.com/careers/search/job/282825",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788993498,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f19b1b6b-457a-436b-9a2a-d6488e452bbd",
-      "company": "General Dynamics",
-      "title": "Software Engineer Entry Level",
-      "url": "https://careers-gdms.icims.com/jobs/74828/job?mobile=true&needsRedirect=false",
-      "location": "Taunton, MA",
-      "datePosted": 1788993330,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3c09c2bd-e95b-43e4-99d1-9e6b16a1a21d",
-      "company": "Saronic",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?embed=true",
-      "location": "Austin, TX",
-      "datePosted": 1788993285,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2f8a6e47-2880-4a56-b618-7acbfb79109d",
-      "company": "Tesla",
-      "title": "Machine Learning Engineer Intern - Factory Software",
-      "url": "https://www.tesla.com/careers/search/job/282916",
-      "location": "Fremont, CA",
-      "datePosted": 1788993234,
       "source": "aggregator",
       "season": null,
       "isNew": false
