@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T23:40:16Z",
-  "totalOpen": 1151,
-  "totalNewgrad": 260,
+  "generatedAt": "2026-09-16T23:50:16Z",
+  "totalOpen": 1153,
+  "totalNewgrad": 262,
   "totalOther": 891,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -50,15 +50,59 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aab1b784be87a72913a3565",
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Software Engineer, Entry Level",
-      "url": "https://jobright.ai/jobs/info/6aab1b784be87a72913a3565",
-      "location": "West Mifflin, PA",
-      "datePosted": 1789573384,
+      "id": "newgrad-jobs:6aab21234be87a72913a378c",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aab21234be87a72913a378c",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789574835,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aab212076707040fb0845ea",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aab212076707040fb0845ea",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789574832,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aab0d5ac85610f4a4843406",
+      "company": "Cisco",
+      "title": "Security Engineer I (Intern) - United States",
+      "url": "https://jobright.ai/jobs/info/6aab0d5ac85610f4a4843406",
+      "location": "Durham, NC",
+      "datePosted": 1789573784,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab0d57c85610f4a4843404",
+      "company": "Cisco",
+      "title": "Security Research Engineer I (Intern) - United States",
+      "url": "https://jobright.ai/jobs/info/6aab0d57c85610f4a4843404",
+      "location": "Durham, NC; Austin, TX; Knoxville, TN",
+      "datePosted": 1789573679,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab1bd1c85610f4a4843ac6",
+      "company": "Naval Nuclear Laboratory (FMP)",
+      "title": "Software Engineer, Entry Level",
+      "url": "https://jobright.ai/jobs/info/6aab1bd1c85610f4a4843ac6",
+      "location": "Niskayuna, NY",
+      "datePosted": 1789573473,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa86fd8930bff471a2a74ca",
@@ -83,6 +127,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aaaf9f6f6bd9d2d17c1aaa7",
+      "company": "Persona",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aaaf9f6f6bd9d2d17c1aaa7",
+      "location": "San Francisco, CA",
+      "datePosted": 1789571680,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aab134640807b73bd393b84",
       "company": "Nutanix",
       "title": "Software Engineer Intern (Summer 2027)",
@@ -91,28 +146,6 @@
       "datePosted": 1789571286,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab0d5ac85610f4a4843406",
-      "company": "Cisco",
-      "title": "Security Engineer I (Intern) - United States",
-      "url": "https://jobright.ai/jobs/info/6aab0d5ac85610f4a4843406",
-      "location": "Durham, NC",
-      "datePosted": 1789571199,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab0d57c85610f4a4843404",
-      "company": "Cisco",
-      "title": "Security Research Engineer I (Intern) - United States",
-      "url": "https://jobright.ai/jobs/info/6aab0d57c85610f4a4843404",
-      "location": "Durham, NC; Austin, TX; Knoxville, TN",
-      "datePosted": 1789571182,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -171,6 +204,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aaaa01476707040fb081310",
+      "company": "RTX",
+      "title": "Software Engineer I - Test",
+      "url": "https://jobright.ai/jobs/info/6aaaa01476707040fb081310",
+      "location": "Tucson, AZ",
+      "datePosted": 1789570417,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab0231f6bd9d2d17c1ae51",
+      "company": "RTX",
+      "title": "Systems Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aab0231f6bd9d2d17c1ae51",
+      "location": "El Segundo, CA",
+      "datePosted": 1789570400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab00b576707040fb0838d4",
+      "company": "RTX",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aab00b576707040fb0838d4",
+      "location": "Marlborough, MA",
+      "datePosted": 1789570400,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aab0124c85610f4a4842f84",
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -182,15 +248,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a1984569111f771d1a06393",
+      "id": "newgrad-jobs:6a970054246d697dcee029ca",
+      "company": "AV",
+      "title": "Summer 2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a970054246d697dcee029ca",
+      "location": "Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA; San Diego, CA",
+      "datePosted": 1789570261,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5a36ad4da96a42cfd948f6",
       "company": "WebFX",
       "title": "Web Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6a1984569111f771d1a06393",
+      "url": "https://jobright.ai/jobs/info/6a5a36ad4da96a42cfd948f6",
       "location": "Harrisburg, PA",
       "datePosted": 1789570137,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a83503a1081a745e970e5d3",
@@ -281,28 +358,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aab0231f6bd9d2d17c1ae51",
-      "company": "RTX",
-      "title": "Systems Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aab0231f6bd9d2d17c1ae51",
-      "location": "El Segundo, CA",
-      "datePosted": 1789568405,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaaa01476707040fb081310",
-      "company": "RTX",
-      "title": "Software Engineer I - Test",
-      "url": "https://jobright.ai/jobs/info/6aaaa01476707040fb081310",
-      "location": "Tucson, AZ",
-      "datePosted": 1789568372,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aaaa0174be87a72913a058e",
       "company": "RTX",
       "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027)",
@@ -336,17 +391,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aab00b576707040fb0838d4",
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aab00b576707040fb0838d4",
-      "location": "Marlborough, MA",
-      "datePosted": 1789568352,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:d2296cde-e528-4052-91a1-7fd74e94412a",
       "company": "General Dynamics",
       "title": "Information Technology Intern - Software Engineering - Computer Science",
@@ -377,17 +421,6 @@
       "datePosted": 1789567720,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab051a40807b73bd39367d",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aab051a40807b73bd39367d",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789567658,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -685,39 +718,6 @@
       "datePosted": 1789565772,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaadafcc85610f4a48421b0",
-      "company": "Rendezvous Robotics",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aaadafcc85610f4a48421b0",
-      "location": "Golden, CO",
-      "datePosted": 1789565557,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaafcb576707040fb0836db",
-      "company": "Renesas Electronics",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aaafcb576707040fb0836db",
-      "location": "San Jose, CA",
-      "datePosted": 1789565509,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a765c34a26ccc369f834fee",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a765c34a26ccc369f834fee",
-      "location": "San Jose, CA",
-      "datePosted": 1789565490,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
