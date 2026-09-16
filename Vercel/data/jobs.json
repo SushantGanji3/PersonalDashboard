@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T15:20:17Z",
-  "totalOpen": 1142,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-09-16T15:30:19Z",
+  "totalOpen": 1141,
+  "totalNewgrad": 254,
   "totalOther": 887,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,6 +36,28 @@
       "datePosted": 1789542759,
       "source": "newgrad-jobs",
       "season": "Winter",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9a51851388387060593301",
+      "company": "Qualcomm",
+      "title": "#Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9a51851388387060593301",
+      "location": "San Diego, CA",
+      "datePosted": 1789542273,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaaa18af6bd9d2d17c187ac",
+      "company": "Coral Bricks AI",
+      "title": "Inference Research Engineer (MTS)",
+      "url": "https://jobright.ai/jobs/info/6aaaa18af6bd9d2d17c187ac",
+      "location": "San Francisco, CA",
+      "datePosted": 1789542170,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -47,7 +69,7 @@
       "datePosted": 1789541917,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aaaa08276707040fb081329",
@@ -168,13 +190,13 @@
       "datePosted": 1789537536,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1789537340,
       "source": "newgrad-jobs",
@@ -760,28 +782,6 @@
       "url": "https://jobright.ai/jobs/info/6aaa1da3120c360b6bd4ab3d",
       "location": "North Chicago, IL; Lake County, IL, United States",
       "datePosted": 1789508403,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95d646f28891320e85e544",
-      "company": "HP IQ",
-      "title": "Software Engineering Intern, Product & Developer Productivity  (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a95d646f28891320e85e544",
-      "location": "San Francisco, CA",
-      "datePosted": 1789508245,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a2f9ba289f8f147d373233e",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer, TikTok Core Feed Recommendation - Dedup",
-      "url": "https://jobright.ai/jobs/info/6a2f9ba289f8f147d373233e",
-      "location": "San Jose, CA",
-      "datePosted": 1789507853,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
