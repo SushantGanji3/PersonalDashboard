@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T07:10:17Z",
-  "totalOpen": 1148,
-  "totalNewgrad": 260,
+  "generatedAt": "2026-09-16T07:20:19Z",
+  "totalOpen": 1149,
+  "totalNewgrad": 261,
   "totalOther": 888,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aaa35d2120c360b6bd4ad87",
+      "company": "Antares",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aaa35d2120c360b6bd4ad87",
+      "location": "Torrance, CA",
+      "datePosted": 1789514594,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "simplify:99b19d5b-03dd-438a-91db-fbb3b10e7201",
@@ -751,17 +762,6 @@
       "datePosted": 1789488655,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1789488655,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
