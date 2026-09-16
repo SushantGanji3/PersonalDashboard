@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T19:10:15Z",
+  "generatedAt": "2026-09-16T19:20:15Z",
   "totalOpen": 1137,
   "totalNewgrad": 250,
   "totalOther": 887,
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a98564611f73b6462c8dfd6",
+      "company": "NISC",
+      "title": "Intern - Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6a98564611f73b6462c8dfd6",
+      "location": "Cedar Rapids, IA; Lake Saint Louis, MO; Mandan, ND",
+      "datePosted": 1789554109,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aaace264be87a72913a180a",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6a8ddb11a5639a4810328147",
       "location": "San Mateo, CA",
       "datePosted": 1789536356,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaa17bb28e24cb38513e35e",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 Internship - AI and Autonomous Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aaa17bb28e24cb38513e35e",
-      "location": "Laurel, MD",
-      "datePosted": 1789535291,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
