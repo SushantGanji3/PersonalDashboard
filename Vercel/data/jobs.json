@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:50:16Z",
+  "generatedAt": "2026-09-16T04:00:18Z",
   "totalOpen": 1152,
   "totalNewgrad": 265,
   "totalOther": 887,
@@ -101,6 +101,61 @@
       "location": "San Diego, CA",
       "datePosted": 1789509819,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aaa07d9a2db131437b60572",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aaa07d9a2db131437b60572",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789502825,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaa07d310b1cd4f416098d9",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aaa07d310b1cd4f416098d9",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789502819,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa992c2eff87f571fc9a495",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa992c2eff87f571fc9a495",
+      "location": "Vienna, VA",
+      "datePosted": 1789501833,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9ed5eeff87f571fc9c95d",
+      "company": "Smarty",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa9ed5eeff87f571fc9c95d",
+      "location": "Orem, UT",
+      "datePosted": 1789501831,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9e889eff87f571fc9c739",
+      "company": "Textron",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa9e889eff87f571fc9c739",
+      "location": "Augusta, GA",
+      "datePosted": 1789501406,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -226,28 +281,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9f217eff87f571fc9cb98",
-      "company": "Dell",
-      "title": "ISG Software Engineering Undergrad Internship",
-      "url": "https://jobright.ai/jobs/info/6aa9f217eff87f571fc9cb98",
-      "location": "Round Rock, TX",
-      "datePosted": 1789497255,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa992c2eff87f571fc9a495",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Product Security Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa992c2eff87f571fc9a495",
-      "location": "Vienna, VA",
-      "datePosted": 1789496584,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa9ec183387a3d9b67d7f26",
       "company": "Entergy",
       "title": "Student Intern AI Developer Spring 2027",
@@ -259,34 +292,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9ed5eeff87f571fc9c95d",
-      "company": "Smarty",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9ed5eeff87f571fc9c95d",
-      "location": "Orem, UT",
-      "datePosted": 1789496046,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa9a3a310b1cd4f41606dfb",
       "company": "Mercury Systems",
       "title": "Firmware/Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6aa9a3a310b1cd4f41606dfb",
       "location": "Andover, MA",
       "datePosted": 1789494902,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9e889eff87f571fc9c739",
-      "company": "Textron",
-      "title": "2027 Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9e889eff87f571fc9c739",
-      "location": "Augusta, GA",
-      "datePosted": 1789494809,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -490,15 +501,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9bc3e6d0edc2d91b0b078",
+      "id": "newgrad-jobs:6aa9c545eff87f571fc9b69f",
       "company": "LONG Building Technologies",
       "title": "Junior Dynamics 365 Finance & Operations Developer",
-      "url": "https://jobright.ai/jobs/info/6aa9bc3e6d0edc2d91b0b078",
+      "url": "https://jobright.ai/jobs/info/6aa9c545eff87f571fc9b69f",
       "location": "Littleton, CO",
       "datePosted": 1789489452,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a513ab778e364789ca59f31",
@@ -732,34 +743,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aaa05fe28e24cb38513dee6",
+      "company": "Brevium",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aaa05fe28e24cb38513dee6",
+      "location": "American Fork, UT",
+      "datePosted": 1789486963,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa827663a9f0a4fe6f179be",
       "company": "Intuit",
       "title": "Summer 2027: Mobile Software Engineering Intern - iOS",
       "url": "https://jobright.ai/jobs/info/6aa827663a9f0a4fe6f179be",
       "location": "Mountain View, CA; San Diego, CA; New York, NY; Charlotte, NC; Atlanta, GA",
       "datePosted": 1789486908,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
-      "company": "Viasat",
-      "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
-      "location": "Duluth, GA; Carlsbad, CA",
-      "datePosted": 1789486870,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8275a82e82a31997c42f0",
-      "company": "Intuit",
-      "title": "Summer 2027: Software Engineering Intern - Full Stack",
-      "url": "https://jobright.ai/jobs/info/6aa8275a82e82a31997c42f0",
-      "location": "Mountain View, CA; San Diego, CA; New York, NY; Charlotte, NC; Atlanta, GA",
-      "datePosted": 1789486833,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
