@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T19:20:15Z",
-  "totalOpen": 1137,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-09-16T19:30:18Z",
+  "totalOpen": 1134,
+  "totalNewgrad": 247,
   "totalOther": 887,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -17,12 +17,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a98564611f73b6462c8dfd6",
-      "company": "NISC",
-      "title": "Intern - Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a98564611f73b6462c8dfd6",
-      "location": "Cedar Rapids, IA; Lake Saint Louis, MO; Mandan, ND",
-      "datePosted": 1789554109,
+      "id": "newgrad-jobs:6aaad21df6bd9d2d17c19bd0",
+      "company": "Attalon, Inc.",
+      "title": "Software Engineer, Embedded Systems",
+      "url": "https://jobright.ai/jobs/info/6aaad21df6bd9d2d17c19bd0",
+      "location": "Bloomfield, CT",
+      "datePosted": 1789556179,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaad7eff6bd9d2d17c19ecc",
+      "company": "Elevated Web Design",
+      "title": "AI Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6aaad7eff6bd9d2d17c19ecc",
+      "location": "United States",
+      "datePosted": 1789556095,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -33,21 +44,65 @@
       "title": "Associate Systems Engineer",
       "url": "https://jobright.ai/jobs/info/6aaace264be87a72913a180a",
       "location": "Utah, United States; Layton, UT",
-      "datePosted": 1789553590,
+      "datePosted": 1789555807,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aaacdf1f6bd9d2d17c19a6e",
-      "company": "Roblox",
-      "title": "Software Engineer, Discovery UX",
-      "url": "https://jobright.ai/jobs/info/6aaacdf1f6bd9d2d17c19a6e",
-      "location": "San Mateo, CA",
-      "datePosted": 1789553537,
+      "id": "newgrad-jobs:6a72950802d93145bf895468",
+      "company": "SpaceX",
+      "title": "Application Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a72950802d93145bf895468",
+      "location": "Hawthorne, CA",
+      "datePosted": 1789554811,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaad1778e1bf0f764af6afd",
+      "company": "Teknor Apex Company",
+      "title": "Co-op - AI Engineer - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6aaad1778e1bf0f764af6afd",
+      "location": "Pawtucket, RI",
+      "datePosted": 1789554439,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaa886cf116e49925535349",
+      "company": "DENSO",
+      "title": "Software Developer 1",
+      "url": "https://jobright.ai/jobs/info/6aaa886cf116e49925535349",
+      "location": "Maryville, TN",
+      "datePosted": 1789554362,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a98564611f73b6462c8dfd6",
+      "company": "NISC",
+      "title": "Intern - Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6a98564611f73b6462c8dfd6",
+      "location": "Cedar Rapids, IA; Lake Saint Louis, MO; Mandan, ND",
+      "datePosted": 1789554109,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aaacf6c8e1bf0f764af6a67",
+      "company": "Roblox",
+      "title": "Software Engineer, Discovery UX",
+      "url": "https://jobright.ai/jobs/info/6aaacf6c8e1bf0f764af6a67",
+      "location": "San Mateo, CA",
+      "datePosted": 1789553916,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aaaa0814be87a72913a05a0",
@@ -83,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aaaccb376707040fb08251b",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aaaccb376707040fb08251b",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789553219,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aaaaed44be87a72913a090b",
       "company": "ICF",
       "title": "Junior Software Engineer (Entry level - Remote US)",
@@ -114,6 +158,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8e185fd34f700f87fd7e0c",
+      "company": "Honeywell Technologies",
+      "title": "Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)",
+      "url": "https://jobright.ai/jobs/info/6a8e185fd34f700f87fd7e0c",
+      "location": "United States",
+      "datePosted": 1789551844,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aaac5e08e1bf0f764af650f",
@@ -237,17 +292,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aaa886cf116e49925535349",
-      "company": "DENSO",
-      "title": "Software Developer 1",
-      "url": "https://jobright.ai/jobs/info/6aaa886cf116e49925535349",
-      "location": "Maryville, TN",
-      "datePosted": 1789549619,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a5118c902522b5b722e7616",
       "company": "Spotify",
       "title": "Research Scientist - Generative Audio",
@@ -303,21 +347,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8e149ecc0cf27068527092",
-      "company": "Honeywell Technologies",
-      "title": "Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)",
-      "url": "https://jobright.ai/jobs/info/6a8e149ecc0cf27068527092",
-      "location": "United States",
-      "datePosted": 1789547910,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8e183125fc4e7ae3dbfac6",
+      "id": "newgrad-jobs:6a8e14c4cc0cf270685270a8",
       "company": "Honeywell Technologies",
       "title": "Software Engineer & Computer Science - Summer 2027 Intern",
-      "url": "https://jobright.ai/jobs/info/6a8e183125fc4e7ae3dbfac6",
+      "url": "https://jobright.ai/jobs/info/6a8e14c4cc0cf270685270a8",
       "location": "United States",
       "datePosted": 1789547910,
       "source": "newgrad-jobs",
@@ -622,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1789537340,
       "source": "newgrad-jobs",
@@ -639,39 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6a3d04fe4d047136e093200a",
       "location": "San Jose, CA",
       "datePosted": 1789537139,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaa8bd1f6bd9d2d17c182b6",
-      "company": "Bedrock Robotics",
-      "title": "Internship 2027 Software Engineer, Fleet Platform",
-      "url": "https://jobright.ai/jobs/info/6aaa8bd1f6bd9d2d17c182b6",
-      "location": "New York, NY",
-      "datePosted": 1789536609,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb48a5639a4810328164",
-      "company": "Verkada",
-      "title": "Embedded Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb48a5639a4810328164",
-      "location": "San Mateo, CA",
-      "datePosted": 1789536532,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb11a5639a4810328147",
-      "company": "Verkada",
-      "title": "Backend Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb11a5639a4810328147",
-      "location": "San Mateo, CA",
-      "datePosted": 1789536356,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
