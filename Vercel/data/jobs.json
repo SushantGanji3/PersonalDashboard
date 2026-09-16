@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T05:50:16Z",
+  "generatedAt": "2026-09-16T06:00:20Z",
   "totalOpen": 1148,
   "totalNewgrad": 261,
   "totalOther": 887,
@@ -105,23 +105,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa9ed5eeff87f571fc9c95d",
+      "company": "Smarty",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa9ed5eeff87f571fc9c95d",
+      "location": "Orem, UT",
+      "datePosted": 1789508593,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa992c2eff87f571fc9a495",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa992c2eff87f571fc9a495",
+      "location": "Vienna, VA",
+      "datePosted": 1789508559,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aaa1da3120c360b6bd4ab3d",
+      "company": "BioSpace",
+      "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+      "url": "https://jobright.ai/jobs/info/6aaa1da3120c360b6bd4ab3d",
+      "location": "North Chicago, IL; Lake County, IL, United States",
+      "datePosted": 1789508403,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a2f9ba289f8f147d373233e",
       "company": "TikTok",
       "title": "Machine Learning Engineer, TikTok Core Feed Recommendation - Dedup",
       "url": "https://jobright.ai/jobs/info/6a2f9ba289f8f147d373233e",
       "location": "San Jose, CA",
       "datePosted": 1789507853,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaa181e28e24cb38513e380",
-      "company": "SureAttend",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aaa181e28e24cb38513e380",
-      "location": "United States",
-      "datePosted": 1789506990,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -155,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6aa48855422289703bd66f2a",
       "location": "San Jose, CA",
       "datePosted": 1789505465,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9ed5eeff87f571fc9c95d",
-      "company": "Smarty",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9ed5eeff87f571fc9c95d",
-      "location": "Orem, UT",
-      "datePosted": 1789505331,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -215,15 +226,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa992c2eff87f571fc9a495",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Product Security Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa992c2eff87f571fc9a495",
-      "location": "Vienna, VA",
-      "datePosted": 1789501833,
+      "id": "newgrad-jobs:6aaa1f4428e24cb38513e51e",
+      "company": "Battelle",
+      "title": "Data Modeler/Engineering Programmer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aaa1f4428e24cb38513e51e",
+      "location": "Columbus, OH",
+      "datePosted": 1789501440,
       "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa9e889eff87f571fc9c739",
@@ -234,6 +245,28 @@
       "datePosted": 1789501406,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa961166d0edc2d91b095ce",
+      "company": "U.S. Hunger",
+      "title": "Spring 2027 Front-End Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa961166d0edc2d91b095ce",
+      "location": "Longwood, FL",
+      "datePosted": 1789501193,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9610f6d0edc2d91b095cb",
+      "company": "U.S. Hunger",
+      "title": "Spring 2027 Software Engineering & Innovation Intern",
+      "url": "https://jobright.ai/jobs/info/6aa9610f6d0edc2d91b095cb",
+      "location": "Longwood, FL",
+      "datePosted": 1789501187,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -256,17 +289,6 @@
       "datePosted": 1789500314,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa961166d0edc2d91b095ce",
-      "company": "U.S. Hunger",
-      "title": "Spring 2027 Front-End Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa961166d0edc2d91b095ce",
-      "location": "Longwood, FL",
-      "datePosted": 1789500270,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -322,17 +344,6 @@
       "datePosted": 1789498438,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9610f6d0edc2d91b095cb",
-      "company": "U.S. Hunger",
-      "title": "Spring 2027 Software Engineering & Innovation Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9610f6d0edc2d91b095cb",
-      "location": "Longwood, FL",
-      "datePosted": 1789498437,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -751,17 +762,6 @@
       "datePosted": 1789488372,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
-      "company": "Lowe's Companies, Inc.",
-      "title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12",
-      "location": "Charlotte, NC",
-      "datePosted": 1789488372,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
