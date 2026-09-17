@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T07:40:51Z",
-  "totalOpen": 1152,
-  "totalNewgrad": 260,
+  "generatedAt": "2026-09-17T07:50:51Z",
+  "totalOpen": 1153,
+  "totalNewgrad": 261,
   "totalOther": 892,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,61 @@
       "location": "SF",
       "datePosted": 1789626800,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab9219455e4265cc347840",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aab9219455e4265cc347840",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789603753,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a866763d34f700f87fc1a2d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a866763d34f700f87fc1a2d",
+      "location": "San Jose, CA",
+      "datePosted": 1789601733,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a701a37cd3bac13d3709850",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a701a37cd3bac13d3709850",
+      "location": "San Jose, CA",
+      "datePosted": 1789601706,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aab8940f6bd9d2d17c1cb2c",
+      "company": "Apple",
+      "title": "Data Engineer, Apple Ads",
+      "url": "https://jobright.ai/jobs/info/6aab8940f6bd9d2d17c1cb2c",
+      "location": "Cupertino, CA",
+      "datePosted": 1789601488,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaab289f6bd9d2d17c18bf2",
+      "company": "Airbus",
+      "title": "HMI/Desktop Applications Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aaab289f6bd9d2d17c18bf2",
+      "location": "Bingen, WA",
+      "datePosted": 1789600846,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -111,17 +166,6 @@
       "url": "https://jobright.ai/jobs/info/6a99062583fc633357632dbf",
       "location": "Bellevue, WA",
       "datePosted": 1789596579,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a99a72c8a8b765bc55f4975",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6a99a72c8a8b765bc55f4975",
-      "location": "Bellevue, WA",
-      "datePosted": 1789596578,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -336,10 +380,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a014d58fa1aa73213d92315",
+      "id": "newgrad-jobs:6a51c26378e364789ca5c606",
       "company": "Conductor",
       "title": "Backend Engineer",
-      "url": "https://jobright.ai/jobs/info/6a014d58fa1aa73213d92315",
+      "url": "https://jobright.ai/jobs/info/6a51c26378e364789ca5c606",
       "location": "San Francisco, CA",
       "datePosted": 1789585489,
       "source": "newgrad-jobs",
@@ -424,22 +468,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3c0a15c11cce3603661ee",
+      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
       "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3c0a15c11cce3603661ee",
-      "location": "Tulsa, OK",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
+      "location": "Olathe, KS",
       "datePosted": 1789580383,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
+      "id": "newgrad-jobs:6aa3d3df4238ea18d430e961",
       "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
-      "location": "Olathe, KS",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
+      "location": "Tulsa, OK",
       "datePosted": 1789580383,
       "source": "newgrad-jobs",
       "season": null,
@@ -488,6 +532,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab8e0d76707040fb08581c",
+      "company": "Vanguard",
+      "title": "2027 Spring/Summer Software Engineering Co-op Opportunities",
+      "url": "https://jobright.ai/jobs/info/6aab8e0d76707040fb08581c",
+      "location": "Dallas, TX; Fort Worth, TX",
+      "datePosted": 1789578000,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aab0281c85610f4a4843053",
@@ -661,61 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6aab0231f6bd9d2d17c1ae51",
       "location": "El Segundo, CA",
       "datePosted": 1789570400,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab00b576707040fb0838d4",
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aab00b576707040fb0838d4",
-      "location": "Marlborough, MA",
-      "datePosted": 1789570400,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab0124c85610f4a4842f84",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aab0124c85610f4a4842f84",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1789570382,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a970054246d697dcee029ca",
-      "company": "AV",
-      "title": "Summer 2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a970054246d697dcee029ca",
-      "location": "Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA; San Diego, CA",
-      "datePosted": 1789570261,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a83503a1081a745e970e5d3",
-      "company": "Procter & Gamble",
-      "title": "Data Engineer - North America Fabric Care",
-      "url": "https://jobright.ai/jobs/info/6a83503a1081a745e970e5d3",
-      "location": "Cincinnati, OH",
-      "datePosted": 1789569821,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaaec8576707040fb083192",
-      "company": "iCapital",
-      "title": "Configuration Developer - Analyst",
-      "url": "https://jobright.ai/jobs/info/6aaaec8576707040fb083192",
-      "location": "Colorado Springs, CO; Denver, CO; Salt Lake City, UT",
-      "datePosted": 1789569116,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
