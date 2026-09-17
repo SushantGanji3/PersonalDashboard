@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T04:20:15Z",
-  "totalOpen": 1155,
-  "totalNewgrad": 264,
+  "generatedAt": "2026-09-17T04:30:21Z",
+  "totalOpen": 1154,
+  "totalNewgrad": 263,
   "totalOther": 891,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -50,6 +50,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aab5f0340807b73bd394d6b",
+      "company": "BAE Systems",
+      "title": "Software Engineering Intern II, (Summer 2027) Onsite",
+      "url": "https://jobright.ai/jobs/info/6aab5f0340807b73bd394d6b",
+      "location": "Nashua, NH; Hudson, NH; Merrimack, NH; Manchester, NH",
+      "datePosted": 1789590675,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aab5554f6bd9d2d17c1c458",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -58,7 +69,7 @@
       "datePosted": 1789589940,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aab5a9076707040fb0851ae",
@@ -67,6 +78,17 @@
       "url": "https://jobright.ai/jobs/info/6aab5a9076707040fb0851ae",
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
       "datePosted": 1789589536,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab5a29c85610f4a48447f9",
+      "company": "Anyura",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aab5a29c85610f4a48447f9",
+      "location": "United States",
+      "datePosted": 1789589433,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -78,6 +100,17 @@
       "url": "https://jobright.ai/jobs/info/6aab5a1840807b73bd394cb1",
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
       "datePosted": 1789589416,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab5740c85610f4a4844791",
+      "company": "IBM",
+      "title": "Software Engineering Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aab5740c85610f4a4844791",
+      "location": "Durham, NC",
+      "datePosted": 1789588688,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -168,7 +201,7 @@
       "datePosted": 1789585489,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a44e68a824ecd73beef1a4e",
@@ -248,22 +281,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3d3df4238ea18d430e961",
+      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
       "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
-      "location": "Tulsa, OK",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
+      "location": "Chandler, AZ",
       "datePosted": 1789580383,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
+      "id": "newgrad-jobs:6aa381c25c11cce360364623",
       "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
-      "location": "Olathe, KS",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa381c25c11cce360364623",
+      "location": "Cary, NC",
       "datePosted": 1789580383,
       "source": "newgrad-jobs",
       "season": null,
@@ -685,39 +718,6 @@
       "datePosted": 1789567187,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a98898611f73b6462c8f2bc",
-      "company": "Northmarq",
-      "title": "Software Engineering Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a98898611f73b6462c8f2bc",
-      "location": "Minneapolis, MN",
-      "datePosted": 1789566999,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab02518e1bf0f764af7e07",
-      "company": "Mphasis",
-      "title": "Developer",
-      "url": "https://jobright.ai/jobs/info/6aab02518e1bf0f764af7e07",
-      "location": "New York, NY",
-      "datePosted": 1789566945,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8747e3d34f700f87fc480a",
-      "company": "Google DeepMind",
-      "title": "Data Engineer, Google Maps",
-      "url": "https://jobright.ai/jobs/info/6a8747e3d34f700f87fc480a",
-      "location": "Mountain View, CA",
-      "datePosted": 1789566924,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
