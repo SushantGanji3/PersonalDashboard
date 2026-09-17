@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-17T23:00:25Z",
-  "totalOpen": 1147,
-  "totalNewgrad": 256,
-  "totalOther": 891,
+  "generatedAt": "2026-09-17T23:10:18Z",
+  "totalOpen": 1153,
+  "totalNewgrad": 255,
+  "totalOther": 898,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1dba0295-866c-4e5d-9de1-ecbd8f036a9b",
+      "company": "Tower Research Capital",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
+      "location": "NYC",
+      "datePosted": 1789684149,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
+      "company": "General Dynamics",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false",
+      "location": "Salt Lake City, UT, Boise, ID",
+      "datePosted": 1789683713,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:c8ef16e5-048f-4036-aea1-83076c98078c",
+      "company": "General Dynamics",
+      "title": "Embedded Software Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/75011/job?mobile=true&needsRedirect=false",
+      "location": "Salt Lake City, UT, Boise, ID",
+      "datePosted": 1789683713,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:6ed0b949-935d-4322-93b3-8acbe09cda9e",
+      "company": "Abridge",
+      "title": "Software Engineer Intern - Spring",
+      "url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true",
+      "location": "SF",
+      "datePosted": 1789683515,
+      "source": "aggregator",
+      "season": "Spring",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aac63ef3dbb1f8967cea755",
       "company": "Apex",
@@ -12,17 +56,6 @@
       "url": "https://jobright.ai/jobs/info/6aac63ef3dbb1f8967cea755",
       "location": "Los Angeles, CA",
       "datePosted": 1789657471,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac639a636cddf7396f3ddb",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac639a636cddf7396f3ddb",
-      "location": "Boise, ID; Salt Lake City, UT",
-      "datePosted": 1789657386,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -666,6 +699,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aabe61d636cddf7396f12ab",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+      "url": "https://jobright.ai/jobs/info/6aabe61d636cddf7396f12ab",
+      "location": "Foster City, CA",
+      "datePosted": 1789640845,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:2fe60cb9-2191-4584-9824-1cda213b3458",
       "company": "General Dynamics",
       "title": "Systems Engineer Intern - Autonomous Maritime Platforms",
@@ -727,6 +771,17 @@
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W",
       "location": "Austin, TX",
       "datePosted": 1789603200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:b3b5a172-409f-4e54-9248-583177d1ac17",
+      "company": "Persona",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true",
+      "location": "SF",
+      "datePosted": 1789597440,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1266,61 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/283128",
       "location": "Palo Alto, CA",
       "datePosted": 1789137294,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
-      "company": "Microsoft",
-      "title": "Software Engineer - CoreAI",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-      "location": "Redmond, WA",
-      "datePosted": 1789109816,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8dff8685-3a17-4f9c-b1d4-6d01c0258242",
-      "company": "RTX",
-      "title": "Software Engineer Co-op - Spring/Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1789084800,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:fdf294f1-8d5f-4fc0-9d6b-3c418d70afc8",
-      "company": "Fidelity",
-      "title": "Software Engineer Co-op - Fidelity Center for Applied Technology",
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200",
-      "location": "Boston, MA",
-      "datePosted": 1789084800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:88f11ce3-1385-47af-9fd7-81b25a184d70",
-      "company": "Fidelity",
-      "title": "Software Full Stack Engineer Co-op",
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236",
-      "location": "Boston, MA, Merrimack, NH",
-      "datePosted": 1789084800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:562a1131-7b05-4ca4-ba15-e968eb30a31a",
-      "company": "Fidelity",
-      "title": "Data Scientist Co-op",
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229",
-      "location": "Boston, MA, Durham, NC",
-      "datePosted": 1789084800,
       "source": "aggregator",
       "season": null,
       "isNew": false
