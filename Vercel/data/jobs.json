@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:50:15Z",
+  "generatedAt": "2026-09-17T23:59:30Z",
   "totalOpen": 1148,
   "totalNewgrad": 250,
   "totalOther": 898,
@@ -58,7 +58,7 @@
       "datePosted": 1789660771,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aac70912e757fcb5c8b5905",
@@ -69,7 +69,18 @@
       "datePosted": 1789660705,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac657b3dbb1f8967cea7f7",
+      "company": "FIS",
+      "title": "Intern, Software Engineer, FIS University Program",
+      "url": "https://jobright.ai/jobs/info/6aac657b3dbb1f8967cea7f7",
+      "location": "Jacksonville, FL; Atlanta, GA; Milwaukee, WI",
+      "datePosted": 1789660652,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aac4a612e757fcb5c8b4cee",
@@ -78,6 +89,105 @@
       "url": "https://jobright.ai/jobs/info/6aac4a612e757fcb5c8b4cee",
       "location": "United States",
       "datePosted": 1789660528,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac6f503e3ce93970c7d867",
+      "company": "IBM",
+      "title": "Software Developer Intern - OneIT - Rochester, MN",
+      "url": "https://jobright.ai/jobs/info/6aac6f503e3ce93970c7d867",
+      "location": "Rochester, MN",
+      "datePosted": 1789660384,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac512f2e757fcb5c8b4f8e",
+      "company": "Acadia Insurance (a Berkley Company)",
+      "title": "Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aac512f2e757fcb5c8b4f8e",
+      "location": "Urbandale, IA",
+      "datePosted": 1789660087,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac6a3c3e3ce93970c7d6b4",
+      "company": "Acadia Insurance (a Berkley Company)",
+      "title": "Software Developer (Java) Intern | June 2027",
+      "url": "https://jobright.ai/jobs/info/6aac6a3c3e3ce93970c7d6b4",
+      "location": "Urbandale, IA",
+      "datePosted": 1789660057,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac6a2f636cddf7396f3fc1",
+      "company": "Acadia Insurance (a Berkley Company)",
+      "title": "Dynamics Admin/Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aac6a2f636cddf7396f3fc1",
+      "location": "Urbandale, IA",
+      "datePosted": 1789660041,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac6cec95c707f49dff1562",
+      "company": "IBM",
+      "title": "Intern Application Developer 2027 - ServiceNow",
+      "url": "https://jobright.ai/jobs/info/6aac6cec95c707f49dff1562",
+      "location": "New York, NY",
+      "datePosted": 1789659772,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac6cc5636cddf7396f40aa",
+      "company": "IBM",
+      "title": "Intern Application Developer - ServiceNow 2027",
+      "url": "https://jobright.ai/jobs/info/6aac6cc5636cddf7396f40aa",
+      "location": "Dallas, TX",
+      "datePosted": 1789659733,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac6c9f3d96632d741aaf2d",
+      "company": "Keysight Technologies",
+      "title": "Software Engineering Intern (AI Solutions)",
+      "url": "https://jobright.ai/jobs/info/6aac6c9f3d96632d741aaf2d",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1789659695,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac6c753dbb1f8967cea9d1",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineer, Intern",
+      "url": "https://jobright.ai/jobs/info/6aac6c753dbb1f8967cea9d1",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1789659653,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac28b1636cddf7396f2814",
+      "company": "Lennox",
+      "title": "Cloud Advance Admin/Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aac28b1636cddf7396f2814",
+      "location": "Richardson, TX",
+      "datePosted": 1789659527,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -523,10 +633,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac27ea2e757fcb5c8b4005",
+      "id": "newgrad-jobs:6aac27ea2e757fcb5c8b4003",
       "company": "GM Financial",
       "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4005",
+      "url": "https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4003",
       "location": "Arlington, TX",
       "datePosted": 1789647630,
       "source": "newgrad-jobs",
@@ -595,116 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6aac312195c707f49dff00a3",
       "location": "Andover, MA",
       "datePosted": 1789644465,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac30da2e757fcb5c8b4429",
-      "company": "Riverside Research",
-      "title": "Formal Methods Research Intern",
-      "url": "https://jobright.ai/jobs/info/6aac30da2e757fcb5c8b4429",
-      "location": "Lexington, MA; Beavercreek, OH",
-      "datePosted": 1789644394,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac30b83e3ce93970c7c31c",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aac30b83e3ce93970c7c31c",
-      "location": "Northampton, MA",
-      "datePosted": 1789644360,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a57019befb06a45240d8e3f",
-      "company": "SpaceX",
-      "title": "Site Reliability Engineer (Raptor)",
-      "url": "https://jobright.ai/jobs/info/6a57019befb06a45240d8e3f",
-      "location": "Hawthorne, CA",
-      "datePosted": 1789643362,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a737d6932ebbc14ffb4f468",
-      "company": "Amentum",
-      "title": "Software Developer - Junior (Team 01)",
-      "url": "https://jobright.ai/jobs/info/6a737d6932ebbc14ffb4f468",
-      "location": "Washington, DC",
-      "datePosted": 1789643346,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a73862c8cd88e7ccbf58f71",
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Dynamo - Fall 2026",
-      "url": "https://jobright.ai/jobs/info/6a73862c8cd88e7ccbf58f71",
-      "location": "Santa Clara, CA",
-      "datePosted": 1789643302,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac294c95c707f49dfefd28",
-      "company": "ConductorAI",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac294c95c707f49dfefd28",
-      "location": "New York, NY; Washington, DC",
-      "datePosted": 1789642460,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac28b1636cddf7396f2814",
-      "company": "Lennox",
-      "title": "Cloud Advance Admin/Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac28b1636cddf7396f2814",
-      "location": "Richardson, TX",
-      "datePosted": 1789642305,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac04103e3ce93970c7b245",
-      "company": "Peraton",
-      "title": "Junior Data Engineer / Active Secret",
-      "url": "https://jobright.ai/jobs/info/6aac04103e3ce93970c7b245",
-      "location": "Beltsville, MD; Washington, DC",
-      "datePosted": 1789642214,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a72950702d93145bf895467",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer (Application Software)",
-      "url": "https://jobright.ai/jobs/info/6a72950702d93145bf895467",
-      "location": "Hawthorne, CA",
-      "datePosted": 1789642203,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aabf1a03dbb1f8967ce7e94",
-      "company": "TTM Technologies",
-      "title": "Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6aabf1a03dbb1f8967ce7e94",
-      "location": "Farmingdale, NY",
-      "datePosted": 1789642196,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
