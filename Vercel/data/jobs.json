@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T05:20:17Z",
-  "totalOpen": 1153,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-09-17T05:30:17Z",
+  "totalOpen": 1152,
+  "totalNewgrad": 261,
   "totalOther": 891,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -58,7 +58,7 @@
       "datePosted": 1789595239,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aab412d4be87a72913a3ece",
@@ -70,6 +70,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab6b69c85610f4a4844a02",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+      "url": "https://jobright.ai/jobs/info/6aab6b69c85610f4a4844a02",
+      "location": "San Francisco, CA",
+      "datePosted": 1789593849,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa9b06d09ae03adcacde5de",
@@ -102,7 +113,7 @@
       "datePosted": 1789593098,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aab5f0340807b73bd394d6b",
@@ -314,11 +325,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3c0a15c11cce3603661ee",
+      "id": "newgrad-jobs:6aa3845e959a10d7230d20ff",
       "company": "Garmin",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3c0a15c11cce3603661ee",
-      "location": "Tulsa, OK",
+      "url": "https://jobright.ai/jobs/info/6aa3845e959a10d7230d20ff",
+      "location": "Cary, NC",
       "datePosted": 1789580383,
       "source": "newgrad-jobs",
       "season": null,
@@ -367,6 +378,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab6ab2c85610f4a48449f6",
+      "company": "Smith+Nephew",
+      "title": "Intern Robotics Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6aab6ab2c85610f4a48449f6",
+      "location": "Pittsburgh, PA",
+      "datePosted": 1789578000,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aab0281c85610f4a4843053",
@@ -696,28 +718,6 @@
       "datePosted": 1789568324,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a98810183fc633357631dbb",
-      "company": "Accenture Federal Services",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a98810183fc633357631dbb",
-      "location": "Tampa, FL",
-      "datePosted": 1789567985,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab05584be87a72913a2cf8",
-      "company": "Entergy",
-      "title": "Student Intern AI Developer Spring 2027 Job Details | Entergy",
-      "url": "https://jobright.ai/jobs/info/6aab05584be87a72913a2cf8",
-      "location": "New Orleans, LA; Hammond, LA; The Woodlands, TX",
-      "datePosted": 1789567720,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
