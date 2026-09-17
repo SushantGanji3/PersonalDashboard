@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T14:30:21Z",
-  "totalOpen": 1149,
+  "generatedAt": "2026-09-17T14:40:16Z",
+  "totalOpen": 1154,
   "totalNewgrad": 260,
-  "totalOther": 889,
+  "totalOther": 894,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -292,6 +292,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:d02657b4-87d2-4593-8b0e-d4bfb5b50cce",
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
+      "location": "Denver, CO",
+      "datePosted": 1789603200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:386a0851-1bfc-40ed-94c2-db33224d056d",
+      "company": "Visa",
+      "title": "Software Engineer Intern - Sophomore Internship Program",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
+      "location": "Austin, TX",
+      "datePosted": 1789603200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:008bd1b1-83ef-4bce-b3d4-bdab9f25b76d",
       "company": "Visa",
       "title": "Software Engineer New Grad",
@@ -301,6 +323,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:62b3fe3f-1948-4119-8099-ee4fbd994b6d",
+      "company": "Visa",
+      "title": "Software Engineer New Grad - 2027",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W",
+      "location": "Austin, TX",
+      "datePosted": 1789603200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a866763d34f700f87fc1a2d",
@@ -1288,39 +1321,6 @@
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236",
       "location": "Boston, MA, Merrimack, NH",
       "datePosted": 1789084800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:562a1131-7b05-4ca4-ba15-e968eb30a31a",
-      "company": "Fidelity",
-      "title": "Data Scientist Co-op",
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229",
-      "location": "Boston, MA, Durham, NC",
-      "datePosted": 1789084800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3c5a73cb-e206-4607-bba3-aa3fbb3b51b9",
-      "company": "Tesla",
-      "title": "Data Engineer Intern - Fleet Data - Self-Driving",
-      "url": "https://www.tesla.com/careers/search/job/281612",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789078956,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:602ba802-0453-4338-8ff2-1cd999084eb4",
-      "company": "Texas Instruments",
-      "title": "Software Development Engineer - Development Program",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017617",
-      "location": "Dallas, TX",
-      "datePosted": 1789078695,
       "source": "aggregator",
       "season": null,
       "isNew": false
