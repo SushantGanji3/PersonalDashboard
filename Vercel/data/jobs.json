@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-17T07:00:21Z",
-  "totalOpen": 1149,
+  "generatedAt": "2026-09-17T07:10:16Z",
+  "totalOpen": 1150,
   "totalNewgrad": 258,
-  "totalOther": 891,
+  "totalOther": 892,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:ad26d172-59a3-4f93-9750-94d260cfb4e5",
+      "company": "Waymo",
+      "title": "Software Engineering Intern - Maneuvering Tech",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "location": "SF",
+      "datePosted": 1789626800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aab412d4be87a72913a3ece",
       "company": "Fieldguide",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply",
       "location": "Seattle, WA",
       "datePosted": 1789077978,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:56f4272c-eb9c-4641-ae79-27f09b8c78a4",
-      "company": "L3Harris",
-      "title": "Software Engineer Intern - Software Engineering",
-      "url": "https://jobs.l3harris.com/job/Lynchburg-Software-Engineer-Intern-VA-24501-6952/1428447700/?ats=successfactors",
-      "location": "Lynchburg, VA",
-      "datePosted": 1789049790,
       "source": "aggregator",
       "season": null,
       "isNew": false
