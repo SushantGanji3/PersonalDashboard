@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T23:10:18Z",
-  "totalOpen": 1153,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-09-17T23:20:15Z",
+  "totalOpen": 1147,
+  "totalNewgrad": 249,
   "totalOther": 898,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789684149,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
@@ -25,7 +25,7 @@
       "datePosted": 1789683713,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c8ef16e5-048f-4036-aea1-83076c98078c",
@@ -36,7 +36,7 @@
       "datePosted": 1789683713,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6ed0b949-935d-4322-93b3-8acbe09cda9e",
@@ -47,6 +47,61 @@
       "datePosted": 1789683515,
       "source": "aggregator",
       "season": "Spring",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9884cf83fc633357631f39",
+      "company": "Infosys",
+      "title": "Data Engineer (Talend & Snowflake)",
+      "url": "https://jobright.ai/jobs/info/6a9884cf83fc633357631f39",
+      "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
+      "datePosted": 1789658687,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9898e7dd171c72857932fb",
+      "company": "Infosys",
+      "title": "Data Engineer (Talend &amp; Snowflake)",
+      "url": "https://jobright.ai/jobs/info/6a9898e7dd171c72857932fb",
+      "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
+      "datePosted": 1789658687,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aac681d95c707f49dff142f",
+      "company": "Ventrilo.ai",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aac681d95c707f49dff142f",
+      "location": "Menlo Park, CA",
+      "datePosted": 1789658541,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a99d734551435518ebf1806",
+      "company": "Spectrum",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a99d734551435518ebf1806",
+      "location": "Maryland Heights, MO",
+      "datePosted": 1789658511,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a99e27b551435518ebf1e44",
+      "company": "Versant Media",
+      "title": "Cyber Security Engineer - Automation",
+      "url": "https://jobright.ai/jobs/info/6a99e27b551435518ebf1e44",
+      "location": "United States",
+      "datePosted": 1789658465,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -116,10 +171,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
+      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
+      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1789656504,
       "source": "newgrad-jobs",
@@ -160,15 +215,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac5cd0636cddf7396f3bf2",
+      "id": "newgrad-jobs:6aac5cd095c707f49dff10b7",
       "company": "Keysight Technologies",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac5cd0636cddf7396f3bf2",
+      "url": "https://jobright.ai/jobs/info/6aac5cd095c707f49dff10b7",
       "location": "Santa Rosa, CA",
       "datePosted": 1789655648,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aac46ee3d96632d741aa2a7",
@@ -179,17 +234,6 @@
       "datePosted": 1789654932,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac56af3dbb1f8967cea3d2",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aac56af3dbb1f8967cea3d2",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789654079,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -661,50 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6aac25bf636cddf7396f275a",
       "location": "San Francisco, CA",
       "datePosted": 1789641551,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac24db3e3ce93970c7be2c",
-      "company": "RJW Logistics Group",
-      "title": "Robotic Process Automation Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac24db3e3ce93970c7be2c",
-      "location": "Bolingbrook, IL",
-      "datePosted": 1789641323,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
-      "datePosted": 1789640937,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aabe61b2e757fcb5c8b2ad8",
-      "company": "Visa",
-      "title": "Software Engineer, Intern - 2027 Austin, TX",
-      "url": "https://jobright.ai/jobs/info/6aabe61b2e757fcb5c8b2ad8",
-      "location": "Austin, TX",
-      "datePosted": 1789640850,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aabe61d636cddf7396f12ab",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-      "url": "https://jobright.ai/jobs/info/6aabe61d636cddf7396f12ab",
-      "location": "Foster City, CA",
-      "datePosted": 1789640845,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
