@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T12:10:18Z",
-  "totalOpen": 1146,
-  "totalNewgrad": 257,
+  "generatedAt": "2026-09-17T12:20:16Z",
+  "totalOpen": 1145,
+  "totalNewgrad": 256,
   "totalOther": 889,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a34363129c90c607e4de014",
+      "company": "EITACIES Inc.",
+      "title": "Android Developer",
+      "url": "https://jobright.ai/jobs/info/6a34363129c90c607e4de014",
+      "location": "Atlanta, GA",
+      "datePosted": 1789618475,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a39bb9f649fdf1629302ad0",
+      "company": "OneStream Software",
+      "title": "Associate AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6a39bb9f649fdf1629302ad0",
+      "location": "Chicago, IL",
+      "datePosted": 1789618462,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a72f4f66ffeee418e5b7ea6",
+      "company": "Bolt Graphics",
+      "title": "GPU Standards Developer",
+      "url": "https://jobright.ai/jobs/info/6a72f4f66ffeee418e5b7ea6",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1789617597,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9936ddf6de551aa0aaeec5",
+      "company": "SpaceXAI",
+      "title": "Software Engineer, Ads Product",
+      "url": "https://jobright.ai/jobs/info/6a9936ddf6de551aa0aaeec5",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789617017,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aabbb084be87a72913a4f97",
@@ -292,10 +336,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9b06d09ae03adcacde5de",
+      "id": "newgrad-jobs:6aa9cf8128e24cb38513c6a5",
       "company": "Northrop Grumman",
       "title": "Associate AI Software Engineer/ AI Software Engineer (AHT)",
-      "url": "https://jobright.ai/jobs/info/6aa9b06d09ae03adcacde5de",
+      "url": "https://jobright.ai/jobs/info/6aa9cf8128e24cb38513c6a5",
       "location": "Beavercreek, OH",
       "datePosted": 1789593125,
       "source": "newgrad-jobs",
@@ -435,15 +479,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a014d58fa1aa73213d92315",
+      "id": "newgrad-jobs:6a51c26378e364789ca5c606",
       "company": "Conductor",
       "title": "Backend Engineer",
-      "url": "https://jobright.ai/jobs/info/6a014d58fa1aa73213d92315",
+      "url": "https://jobright.ai/jobs/info/6a51c26378e364789ca5c606",
       "location": "San Francisco, CA",
       "datePosted": 1789585489,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4ff66b9469c0662034f921",
+      "company": "BAE Systems",
+      "title": "Software Engineering Intern III, Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a4ff66b9469c0662034f921",
+      "location": "Nashua, NH; Hudson, NH; Merrimack, NH; Manchester, NH",
+      "datePosted": 1789585425,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a44e68a824ecd73beef1a4e",
@@ -672,61 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6aab1bd1c85610f4a4843ac6",
       "location": "Niskayuna, NY",
       "datePosted": 1789573473,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa86fd8930bff471a2a74ca",
-      "company": "University of Maryland, Baltimore (UMB)",
-      "title": "Associate Developer for IT Enterprise Applications",
-      "url": "https://jobright.ai/jobs/info/6aa86fd8930bff471a2a74ca",
-      "location": "United States",
-      "datePosted": 1789572878,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaafaa676707040fb083662",
-      "company": "John Deere",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aaafaa676707040fb083662",
-      "location": "East Moline, IL",
-      "datePosted": 1789572804,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a81a5f7e2030208f277b1d0",
-      "company": "Noblis",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a81a5f7e2030208f277b1d0",
-      "location": "Philadelphia, PA",
-      "datePosted": 1789570969,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab04b08e1bf0f764af7f68",
-      "company": "Celestica",
-      "title": "Student Intern, AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aab04b08e1bf0f764af7f68",
-      "location": "United States",
-      "datePosted": 1789570739,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab10c640807b73bd393af8",
-      "company": "Kato",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aab10c640807b73bd393af8",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1789570646,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
