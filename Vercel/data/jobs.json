@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T03:20:16Z",
+  "generatedAt": "2026-09-17T03:30:19Z",
   "totalOpen": 1155,
   "totalNewgrad": 264,
   "totalOther": 891,
@@ -46,6 +46,17 @@
       "location": "Greenville, TX",
       "datePosted": 1789596403,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab3033c85610f4a4843f58",
+      "company": "Nokia",
+      "title": "EDA Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aab3033c85610f4a4843f58",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1789585881,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -193,11 +204,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
+      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
-      "location": "Olathe, KS",
+      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
+      "location": "Chandler, AZ",
       "datePosted": 1789580383,
       "source": "newgrad-jobs",
       "season": null,
@@ -223,17 +234,6 @@
       "datePosted": 1789579798,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aab3033c85610f4a4843f58",
-      "company": "Nokia",
-      "title": "EDA Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aab3033c85610f4a4843f58",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1789578691,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
