@@ -415,15 +415,20 @@ def upsert_application(apps_list, classification, email_date, email_subject, ema
         return
 
     app_id = make_app_id(company, role)
+    UNKNOWN_ROLES = ("Unknown Role", "", None)
 
     # Find existing entry
     existing = next((a for a in apps_list if a["id"] == app_id), None)
-    # If not matched by exact role, check if company matches with an unknown or empty role
-    if existing is None and role and role != "Unknown Role":
-        existing = next((a for a in apps_list if a.get("company", "").lower() == company.lower() and a.get("role") in ("Unknown Role", "", None)), None)
+    # If not matched by exact role, fall back to matching by company alone when
+    # either side's role is unknown — a vague follow-up (or the original terse
+    # email) shouldn't spawn a duplicate entry for the same company.
+    if existing is None and role not in UNKNOWN_ROLES:
+        existing = next((a for a in apps_list if a.get("company", "").lower() == company.lower() and a.get("role") in UNKNOWN_ROLES), None)
         if existing:
             existing["role"] = role
             existing["id"] = app_id
+    elif existing is None and role in UNKNOWN_ROLES:
+        existing = next((a for a in apps_list if a.get("company", "").lower() == company.lower() and a.get("role") not in UNKNOWN_ROLES), None)
 
     now_iso = datetime.now(timezone.utc).isoformat()
 
@@ -624,7 +629,10 @@ def main():
         s = (subject or "").lower()
         snd = (sender or "").lower()
 
-        if any(bad in snd for bad in SENDER_BLACKLIST):
+        # A "careers." subdomain (e.g. careers.capitalone.com) is a recruiting
+        # channel, not the consumer/marketing side of these blocklisted domains —
+        # let Gemini classify it instead of dropping it here.
+        if "careers." not in snd and any(bad in snd for bad in SENDER_BLACKLIST):
             return False, f"sender blocklist: '{next(b for b in SENDER_BLACKLIST if b in snd)}'"
 
         if any(bad in s for bad in SUBJECT_BLACKLIST):
