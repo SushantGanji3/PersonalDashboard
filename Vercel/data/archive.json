@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:40:18Z",
+  "generatedAt": "2026-09-17T23:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,28 @@
       "source": "aggregator",
       "season": "Spring",
       "firstSeenAt": 1789686618
+    },
+    {
+      "id": "newgrad-jobs:6a9ba7d6dacf777321a8d176",
+      "company": "BAE Systems, Inc.",
+      "title": "Software Engineer I (On-Site)",
+      "url": "https://jobright.ai/jobs/info/6a9ba7d6dacf777321a8d176",
+      "location": "Nashua, NH; Hudson, NH; Merrimack, NH; Manchester, NH",
+      "datePosted": 1789660771,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789689015
+    },
+    {
+      "id": "newgrad-jobs:6aac70912e757fcb5c8b5905",
+      "company": "Rocket Lab",
+      "title": "Flight Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aac70912e757fcb5c8b5905",
+      "location": "Littleton, CO",
+      "datePosted": 1789660705,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789689015
     },
     {
       "id": "newgrad-jobs:6aac657b3dbb1f8967cea7f7",
