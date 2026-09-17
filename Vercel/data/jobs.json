@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T10:30:19Z",
-  "totalOpen": 1151,
+  "generatedAt": "2026-09-17T10:40:19Z",
+  "totalOpen": 1149,
   "totalNewgrad": 259,
-  "totalOther": 892,
+  "totalOther": 890,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -47,7 +47,7 @@
       "datePosted": 1789612357,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aabb3adf6bd9d2d17c1d0c0",
@@ -58,7 +58,7 @@
       "datePosted": 1789612349,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aabad62f6bd9d2d17c1cfaf",
@@ -171,17 +171,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:b3b5a172-409f-4e54-9248-583177d1ac17",
-      "company": "Persona",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true",
-      "location": "SF",
-      "datePosted": 1789597440,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:eb717389-3150-4f85-8d1c-5a85b13eea1d",
       "company": "Decagon",
       "title": "Member of Technical Staff New Grad - 2027 Start",
@@ -246,6 +235,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:bbf97353-45cc-4b6c-b3a6-50e3aafa73fd",
+      "company": "Anduril",
+      "title": "Software Engineer - Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007",
+      "location": "Fort Collins, CO, Broomfield, CO",
+      "datePosted": 1789596349,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aab6ab2c85610f4a48449f6",
@@ -762,17 +762,6 @@
       "datePosted": 1789516800,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9f477186-5000-4fe3-8151-4971b1c4abfb",
-      "company": "RTX",
-      "title": "Software Engineer Co-op - Winter/Spring 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -1321,6 +1310,17 @@
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017617",
       "location": "Dallas, TX",
       "datePosted": 1789078695,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:9377f3dd-8421-4a2c-8af8-4be42ec6b607",
+      "company": "Rover",
+      "title": "Software Engineer - Recommendations",
+      "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply",
+      "location": "Seattle, WA",
+      "datePosted": 1789077978,
       "source": "aggregator",
       "season": null,
       "isNew": false
