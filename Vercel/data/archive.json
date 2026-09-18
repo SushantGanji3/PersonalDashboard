@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-18T02:00:20Z",
+  "generatedAt": "2026-09-18T02:10:17Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+      "company": "Stripe",
+      "title": "Software Engineer - Early Career - Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "location": "Seattle, WA, SF, NYC",
+      "datePosted": 1789694971,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1789697417
+    },
     {
       "id": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
       "company": "Amazon",
@@ -58,6 +69,17 @@
       "firstSeenAt": 1789686618
     },
     {
+      "id": "newgrad-jobs:6aac92f73d96632d741ab63b",
+      "company": "Everpure",
+      "title": "Associate Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6aac92f73d96632d741ab63b",
+      "location": "Santa Clara, CA",
+      "datePosted": 1789669511,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789697417
+    },
+    {
       "id": "newgrad-jobs:6aac8f5f95c707f49dff1be3",
       "company": "UST HealthProof",
       "title": "Junior Full Stack Developer (Data CoE)",
@@ -78,6 +100,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789696216
+    },
+    {
+      "id": "newgrad-jobs:6aac8f5f3d96632d741ab5fc",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aac8f5f3d96632d741ab5fc",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789668591,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789697417
     },
     {
       "id": "newgrad-jobs:6aac8d963d96632d741ab5c3",
@@ -25543,17 +25576,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1789436416
-    },
-    {
-      "id": "simplify:dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control",
-      "url": "https://jobs.bytedance.com/en/position/7675477660855781637/detail",
-      "location": "San Jose, CA",
-      "datePosted": 1787104955,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
     }
   ]
 }

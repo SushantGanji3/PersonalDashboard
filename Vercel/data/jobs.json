@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-18T02:00:20Z",
+  "generatedAt": "2026-09-18T02:10:17Z",
   "totalOpen": 1152,
-  "totalNewgrad": 253,
-  "totalOther": 899,
+  "totalNewgrad": 252,
+  "totalOther": 900,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+      "company": "Stripe",
+      "title": "Software Engineer - Early Career - Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "location": "Seattle, WA, SF, NYC",
+      "datePosted": 1789694971,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
       "company": "Amazon",
@@ -61,15 +72,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac8f5f95c707f49dff1be3",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aac8f5f95c707f49dff1be3",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789668591,
+      "id": "newgrad-jobs:6aac92f73d96632d741ab63b",
+      "company": "Everpure",
+      "title": "Associate Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6aac92f73d96632d741ab63b",
+      "location": "Santa Clara, CA",
+      "datePosted": 1789669511,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aac8f5f3dbb1f8967ceb0b5",
@@ -81,6 +92,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac8f5f3d96632d741ab5fc",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aac8f5f3d96632d741ab5fc",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789668591,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aac8d963d96632d741ab5c3",
@@ -479,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9898e7dd171c72857932fb",
+      "id": "newgrad-jobs:6a988d8f11f73b6462c8f4eb",
       "company": "Infosys",
       "title": "Data Engineer (Talend &amp; Snowflake)",
-      "url": "https://jobright.ai/jobs/info/6a9898e7dd171c72857932fb",
+      "url": "https://jobright.ai/jobs/info/6a988d8f11f73b6462c8f4eb",
       "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
       "datePosted": 1789658687,
       "source": "newgrad-jobs",
@@ -600,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac5cd095c707f49dff10b7",
+      "id": "newgrad-jobs:6aac5cd0636cddf7396f3bf2",
       "company": "Keysight Technologies",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac5cd095c707f49dff10b7",
+      "url": "https://jobright.ai/jobs/info/6aac5cd0636cddf7396f3bf2",
       "location": "Santa Rosa, CA",
       "datePosted": 1789655648,
       "source": "newgrad-jobs",
@@ -705,17 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6aac532195c707f49dff0dc1",
       "location": "Rochester, MN",
       "datePosted": 1789653169,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac3c952e757fcb5c8b486c",
-      "company": "Aspen Technology",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aac3c952e757fcb5c8b486c",
-      "location": "Bedford, MA",
-      "datePosted": 1789652906,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1310,17 +1321,6 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
       "location": "NYC",
       "datePosted": 1789164508,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Data Platforms",
-      "url": "https://www.tesla.com/careers/search/job/283117",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789137299,
       "source": "aggregator",
       "season": null,
       "isNew": false
