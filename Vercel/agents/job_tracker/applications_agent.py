@@ -581,7 +581,13 @@ def main():
         cutoff = datetime.fromisoformat(last_checked.replace("Z", "+00:00"))
         print(f"Incremental run — scanning since {cutoff.isoformat()}")
 
-    after_date_str = cutoff.strftime("%Y/%m/%d")
+    # Gmail's after: operator is date-only, but cutoff carries a time-of-day.
+    # Truncating straight to cutoff's date silently drops the rest of that
+    # calendar day once lastChecked crosses into the next day (e.g. around
+    # midnight UTC) — a message received earlier that day but not yet
+    # processed becomes unreachable forever. Re-scan the prior day too;
+    # processed_email_ids already dedupes anything seen before.
+    after_date_str = (cutoff - timedelta(days=1)).strftime("%Y/%m/%d")
 
     # 3. Build Gmail service and search
     print("Connecting to Gmail...")
