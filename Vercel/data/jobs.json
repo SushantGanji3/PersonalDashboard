@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-18T21:00:23Z",
-  "totalOpen": 1169,
-  "totalNewgrad": 268,
+  "generatedAt": "2026-09-18T21:10:17Z",
+  "totalOpen": 1166,
+  "totalNewgrad": 265,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aad99fc2e757fcb5c8b9657",
+      "company": "Amazon",
+      "title": "Data Engineer, Ring Agent Platforms",
+      "url": "https://jobright.ai/jobs/info/6aad99fc2e757fcb5c8b9657",
+      "location": "Hawthorne, CA",
+      "datePosted": 1789736844,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aad6f082e757fcb5c8b85ad",
       "company": "Lazard",
@@ -47,7 +58,7 @@
       "datePosted": 1789735886,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aad69d16956574eac8b57b4",
@@ -69,7 +80,7 @@
       "datePosted": 1789735293,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aad5b15de327d3e210d1dd5",
@@ -220,7 +231,7 @@
       "title": "JR Software Engineer",
       "url": "https://jobright.ai/jobs/info/6a8c5f1b1d96e6541c8c05c5",
       "location": "Chantilly, VA; Columbia, MD; Beavercreek, OH; King of Prussia, PA; San Antonio, TX; El Segundo, CA; Clearfield, UT",
-      "datePosted": 1789733024,
+      "datePosted": 1789733270,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -289,7 +300,7 @@
       "datePosted": 1789732326,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7501677b3417772ade2dde",
@@ -518,17 +529,6 @@
       "url": "https://jobright.ai/jobs/info/6a4162799dd7f954cafe8c20",
       "location": "United States; Canada",
       "datePosted": 1789725357,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aad6cd43dbb1f8967ced72f",
-      "company": "Docusign",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aad6cd43dbb1f8967ced72f",
-      "location": "Chicago, IL",
-      "datePosted": 1789725284,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
