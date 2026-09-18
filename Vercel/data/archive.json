@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:50:18Z",
+  "generatedAt": "2026-09-18T05:00:24Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": "Spring",
       "firstSeenAt": 1789686618
+    },
+    {
+      "id": "newgrad-jobs:6aabfabc95c707f49dfeec96",
+      "company": "Moody's Corporation",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aabfabc95c707f49dfeec96",
+      "location": "Charlotte, NC",
+      "datePosted": 1789677447,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789707624
     },
     {
       "id": "newgrad-jobs:6aacaac03dbb1f8967ceb44d",
@@ -1607,6 +1618,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789650023
+    },
+    {
+      "id": "newgrad-jobs:6aacb1330a4ce9becc77a49d",
+      "company": "Clera",
+      "title": "Research Engineer / Research Scientist, Robotics and Physical AI",
+      "url": "https://jobright.ai/jobs/info/6aacb1330a4ce9becc77a49d",
+      "location": "San Francisco, CA",
+      "datePosted": 1789619605,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789707624
     },
     {
       "id": "newgrad-jobs:6a34363129c90c607e4de014",
