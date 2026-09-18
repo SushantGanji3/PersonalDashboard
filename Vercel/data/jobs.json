@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:40:17Z",
+  "generatedAt": "2026-09-18T01:50:16Z",
   "totalOpen": 1152,
   "totalNewgrad": 253,
   "totalOther": 899,
@@ -14,7 +14,7 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1dba0295-866c-4e5d-9de1-ecbd8f036a9b",
@@ -61,6 +61,138 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aac8f5f95c707f49dff1be3",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aac8f5f95c707f49dff1be3",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789668591,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aac8f5f3dbb1f8967ceb0b5",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aac8f5f3dbb1f8967ceb0b5",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789668591,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aac8d963d96632d741ab5c3",
+      "company": "Abridge",
+      "title": "Software Engineering Intern, Spring",
+      "url": "https://jobright.ai/jobs/info/6aac8d963d96632d741ab5c3",
+      "location": "San Francisco, CA",
+      "datePosted": 1789668134,
+      "source": "newgrad-jobs",
+      "season": "Spring",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a56a168efb06a45240d7365",
+      "company": "Redwire",
+      "title": "Full Stack Software Engineer (Full Stack Developer All levels)",
+      "url": "https://jobright.ai/jobs/info/6a56a168efb06a45240d7365",
+      "location": "Chantilly, VA",
+      "datePosted": 1789667534,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aac64053dbb1f8967cea75b",
+      "company": "TreeHouse Foods",
+      "title": "Application Developer, Business Applications & Process Automation",
+      "url": "https://jobright.ai/jobs/info/6aac64053dbb1f8967cea75b",
+      "location": "Oak Brook, IL",
+      "datePosted": 1789667460,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aabe6d13d96632d741a81fb",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+      "url": "https://jobright.ai/jobs/info/6aabe6d13d96632d741a81fb",
+      "location": "Bellevue, WA",
+      "datePosted": 1789667353,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac63543dbb1f8967cea709",
+      "company": "Persona",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aac63543dbb1f8967cea709",
+      "location": "San Francisco, CA",
+      "datePosted": 1789667350,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac76d62e757fcb5c8b5a46",
+      "company": "Ensign Services",
+      "title": "Data Engineer Internship Position - CA, AZ, TX, CO, ID",
+      "url": "https://jobright.ai/jobs/info/6aac76d62e757fcb5c8b5a46",
+      "location": "Oceanside, CA; California, United States",
+      "datePosted": 1789667340,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a79c504b17cba5690363a0d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a79c504b17cba5690363a0d",
+      "location": "Seattle, WA",
+      "datePosted": 1789666977,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac4a612e757fcb5c8b4cee",
+      "company": "Cleveland Clinic",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6aac4a612e757fcb5c8b4cee",
+      "location": "United States",
+      "datePosted": 1789666973,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a37f5df649fdf16292fdd1b",
+      "company": "TikTok",
+      "title": "Backend Software Engineer - Global E-commerce, Supply Chain and Logistics",
+      "url": "https://jobright.ai/jobs/info/6a37f5df649fdf16292fdd1b",
+      "location": "Seattle, WA",
+      "datePosted": 1789666926,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8f1e63309e5f224870a83c",
+      "company": "Twitch",
+      "title": "Software Engineer I, Memberships",
+      "url": "https://jobright.ai/jobs/info/6a8f1e63309e5f224870a83c",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1789666239,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa76e4882e82a31997c1dd6",
       "company": "TD",
       "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
@@ -94,33 +226,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aabe6d13d96632d741a81fb",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-      "url": "https://jobright.ai/jobs/info/6aabe6d13d96632d741a81fb",
-      "location": "Bellevue, WA",
-      "datePosted": 1789665550,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a701a1ef5953013637f726e",
       "company": "TikTok",
       "title": "Backend Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer",
       "url": "https://jobright.ai/jobs/info/6a701a1ef5953013637f726e",
       "location": "San Jose, CA",
-      "datePosted": 1789665140,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a79c504b17cba5690363a0d",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a79c504b17cba5690363a0d",
-      "location": "Seattle, WA",
       "datePosted": 1789665140,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -135,17 +245,6 @@
       "datePosted": 1789665057,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a37f5df649fdf16292fdd1b",
-      "company": "TikTok",
-      "title": "Backend Software Engineer - Global E-commerce, Supply Chain and Logistics",
-      "url": "https://jobright.ai/jobs/info/6a37f5df649fdf16292fdd1b",
-      "location": "Seattle, WA",
-      "datePosted": 1789664976,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -237,45 +336,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac63543dbb1f8967cea709",
-      "company": "Persona",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aac63543dbb1f8967cea709",
-      "location": "San Francisco, CA",
-      "datePosted": 1789663797,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aac30da2e757fcb5c8b4429",
       "company": "Riverside Research",
       "title": "Formal Methods Research Intern",
       "url": "https://jobright.ai/jobs/info/6aac30da2e757fcb5c8b4429",
       "location": "Lexington, MA; Beavercreek, OH",
       "datePosted": 1789663577,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac76d62e757fcb5c8b5a46",
-      "company": "Ensign Services",
-      "title": "Data Engineer Internship Position - CA, AZ, TX, CO, ID",
-      "url": "https://jobright.ai/jobs/info/6aac76d62e757fcb5c8b5a46",
-      "location": "Oceanside, CA; California, United States",
-      "datePosted": 1789662310,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac72b295c707f49dff174c",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aac72b295c707f49dff174c",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789661250,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -309,17 +375,6 @@
       "url": "https://jobright.ai/jobs/info/6aac312195c707f49dff00a3",
       "location": "Andover, MA",
       "datePosted": 1789660591,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac4a612e757fcb5c8b4cee",
-      "company": "Cleveland Clinic",
-      "title": "Software Developer I",
-      "url": "https://jobright.ai/jobs/info/6aac4a612e757fcb5c8b4cee",
-      "location": "United States",
-      "datePosted": 1789660528,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -661,61 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6aac3c952e757fcb5c8b486c",
       "location": "Bedford, MA",
       "datePosted": 1789652906,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac05d52e757fcb5c8b33d2",
-      "company": "Quest Diagnostics",
-      "title": "Full Stack Software Workflow Engineer (PHP)",
-      "url": "https://jobright.ai/jobs/info/6aac05d52e757fcb5c8b33d2",
-      "location": "Marlborough, MA; Baltimore, MD; Secaucus, NJ",
-      "datePosted": 1789652829,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac0ed73dbb1f8967ce87c9",
-      "company": "ECPI University",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6aac0ed73dbb1f8967ce87c9",
-      "location": "Virginia Beach, VA",
-      "datePosted": 1789652690,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7608cf4817aa43070464d8",
-      "company": "TikTok",
-      "title": "Data Engineer, PDPO - Offense & Defense",
-      "url": "https://jobright.ai/jobs/info/6a7608cf4817aa43070464d8",
-      "location": "San Jose, CA",
-      "datePosted": 1789651902,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac37e22e757fcb5c8b4709",
-      "company": "IBM",
-      "title": "Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY",
-      "url": "https://jobright.ai/jobs/info/6aac37e22e757fcb5c8b4709",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1789651249,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac4a342e757fcb5c8b4caf",
-      "company": "REV Robotics",
-      "title": "Software Engineering INTERN 2027",
-      "url": "https://jobright.ai/jobs/info/6aac4a342e757fcb5c8b4caf",
-      "location": "Carrollton, TX",
-      "datePosted": 1789650884,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
