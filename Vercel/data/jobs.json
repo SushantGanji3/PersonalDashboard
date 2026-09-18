@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T05:50:21Z",
-  "totalOpen": 1160,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-09-18T06:00:19Z",
+  "totalOpen": 1163,
+  "totalNewgrad": 264,
   "totalOther": 899,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -72,15 +72,59 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aacc00e95c707f49dff229c",
+      "id": "newgrad-jobs:6aacc91c95c707f49dff23f1",
+      "company": "Motion Control",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aacc91c95c707f49dff23f1",
+      "location": "Bellevue, WA",
+      "datePosted": 1789683372,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aacc73a95c707f49dff23bb",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aacc73a95c707f49dff23bb",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789682890,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aacc6f53dbb1f8967ceb810",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aacc6f53dbb1f8967ceb810",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789682821,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9ba7d6dacf777321a8d176",
+      "company": "BAE Systems, Inc.",
+      "title": "Software Engineer I (On-Site)",
+      "url": "https://jobright.ai/jobs/info/6a9ba7d6dacf777321a8d176",
+      "location": "Nashua, NH; Hudson, NH; Merrimack, NH; Manchester, NH",
+      "datePosted": 1789681590,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aacc16f0a4ce9becc77a702",
       "company": "Teleflex",
       "title": "Software Engineering Intern (Spring/Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aacc00e95c707f49dff229c",
+      "url": "https://jobright.ai/jobs/info/6aacc16f0a4ce9becc77a702",
       "location": "Morrisville, NC",
-      "datePosted": 1789681054,
+      "datePosted": 1789681579,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a750bce972ac843c6998b49",
@@ -281,10 +325,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac5cd0636cddf7396f3bf2",
+      "id": "newgrad-jobs:6aac5cd095c707f49dff10b7",
       "company": "Keysight Technologies",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac5cd0636cddf7396f3bf2",
+      "url": "https://jobright.ai/jobs/info/6aac5cd095c707f49dff10b7",
       "location": "Santa Rosa, CA",
       "datePosted": 1789670596,
       "source": "newgrad-jobs",
@@ -556,6 +600,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aacc5452e757fcb5c8b65cd",
+      "company": "Hakk\u014dda, an IBM Company",
+      "title": "Site Reliability Engineer Network Intern - OneIT - Austin, TX",
+      "url": "https://jobright.ai/jobs/info/6aacc5452e757fcb5c8b65cd",
+      "location": "Austin, TX",
+      "datePosted": 1789660714,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aac70912e757fcb5c8b5905",
       "company": "Rocket Lab",
       "title": "Flight Software Engineer I",
@@ -644,10 +699,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9898e7dd171c72857932fb",
+      "id": "newgrad-jobs:6a988d8f11f73b6462c8f4eb",
       "company": "Infosys",
       "title": "Data Engineer (Talend &amp; Snowflake)",
-      "url": "https://jobright.ai/jobs/info/6a9898e7dd171c72857932fb",
+      "url": "https://jobright.ai/jobs/info/6a988d8f11f73b6462c8f4eb",
       "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
       "datePosted": 1789658687,
       "source": "newgrad-jobs",
@@ -672,61 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6a99e27b551435518ebf1e44",
       "location": "United States",
       "datePosted": 1789658465,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac632f3d96632d741aac5a",
-      "company": "Tower Research Capital",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aac632f3d96632d741aac5a",
-      "location": "New York, NY",
-      "datePosted": 1789657279,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac3e5b95c707f49dff05af",
-      "company": "Indeed",
-      "title": "Site Reliability Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aac3e5b95c707f49dff05af",
-      "location": "United States",
-      "datePosted": 1789656967,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac44a93e3ce93970c7c9ff",
-      "company": "Pure Storage",
-      "title": "Associate Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6aac44a93e3ce93970c7c9ff",
-      "location": "Santa Clara, CA",
-      "datePosted": 1789656965,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac615495c707f49dff11d6",
-      "company": "CACI International Inc",
-      "title": "Software Safety Developer/Analyst",
-      "url": "https://jobright.ai/jobs/info/6aac615495c707f49dff11d6",
-      "location": "Lorton, VA",
-      "datePosted": 1789656804,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
-      "company": "Viasat",
-      "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
-      "location": "Duluth, GA; Carlsbad, CA",
-      "datePosted": 1789656504,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
