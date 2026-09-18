@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-18T21:10:17Z",
-  "totalOpen": 1166,
-  "totalNewgrad": 265,
+  "generatedAt": "2026-09-18T21:20:19Z",
+  "totalOpen": 1162,
+  "totalNewgrad": 261,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aad9a383d96632d741aee29",
+      "company": "Fable Security",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aad9a383d96632d741aee29",
+      "location": "San Francisco, CA",
+      "datePosted": 1789736904,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aad99fc2e757fcb5c8b9657",
       "company": "Amazon",
@@ -14,7 +25,7 @@
       "datePosted": 1789736844,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aad6f082e757fcb5c8b85ad",
@@ -237,12 +248,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aab02d7c85610f4a484307f",
+      "company": "KBR, Inc.",
+      "title": "Data Processing Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aab02d7c85610f4a484307f",
+      "location": "Sioux Falls, SD",
+      "datePosted": 1789733248,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aab0281c85610f4a4843053",
       "company": "KBR, Inc.",
       "title": "Image Processing Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6aab0281c85610f4a4843053",
       "location": "Sioux Falls, SD",
-      "datePosted": 1789733020,
+      "datePosted": 1789733247,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -639,28 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6aad6595de327d3e210d21da",
       "location": "Greater Minneapolis\u2013St. Paul Area, United States",
       "datePosted": 1789723429,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aad6504de327d3e210d21af",
-      "company": "Punch Through",
-      "title": "Mobile Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aad6504de327d3e210d21af",
-      "location": "Greater Minneapolis\u2013St. Paul Area, United States",
-      "datePosted": 1789723000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa439f31d92e2d05d113ee7",
-      "company": "IBM",
-      "title": "QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://jobright.ai/jobs/info/6aa439f31d92e2d05d113ee7",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1789722687,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
