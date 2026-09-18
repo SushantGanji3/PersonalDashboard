@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:10:19Z",
+  "generatedAt": "2026-09-18T19:20:21Z",
   "totalOpen": 1169,
   "totalNewgrad": 268,
   "totalOther": 901,
@@ -14,7 +14,7 @@
       "datePosted": 1789731703,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a886393cde3717f9e9b4ebe",
@@ -25,7 +25,7 @@
       "datePosted": 1789731694,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a90998d0bd89e205d24b415",
@@ -47,7 +47,7 @@
       "datePosted": 1789730903,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8ffdf4d96ad228f125f3a3",
@@ -80,6 +80,17 @@
       "datePosted": 1789729388,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a872d34cde3717f9e9b094d",
+      "company": "Peraton",
+      "title": "Cobol Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a872d34cde3717f9e9b094d",
+      "location": "United States",
+      "datePosted": 1789728605,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -91,7 +102,7 @@
       "datePosted": 1789728595,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aabfabc95c707f49dfeec96",
@@ -160,17 +171,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aad6ffd3dbb1f8967ced87e",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aad6ffd3dbb1f8967ced87e",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789726093,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aad6fbd2e757fcb5c8b8619",
       "company": "REV Robotics",
       "title": "Software Engineering INTERN 2027",
@@ -234,6 +234,17 @@
       "datePosted": 1789725547,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4162799dd7f954cafe8c20",
+      "company": "Render",
+      "title": "Software Engineer, Dev Velocity (all levels)",
+      "url": "https://jobright.ai/jobs/info/6a4162799dd7f954cafe8c20",
+      "location": "United States; Canada",
+      "datePosted": 1789725357,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a83503a1081a745e970e5d3",
       "location": "Cincinnati, OH",
       "datePosted": 1789721009,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a578823e9b77f668bd686d0",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a578823e9b77f668bd686d0",
-      "location": "Dallas, TX",
-      "datePosted": 1789720981,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
