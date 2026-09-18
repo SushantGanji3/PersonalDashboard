@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:30:17Z",
+  "generatedAt": "2026-09-18T00:40:16Z",
   "totalOpen": 1149,
   "totalNewgrad": 251,
   "totalOther": 898,
@@ -47,6 +47,17 @@
       "datePosted": 1789683515,
       "source": "aggregator",
       "season": "Spring",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac30da2e757fcb5c8b4429",
+      "company": "Riverside Research",
+      "title": "Formal Methods Research Intern",
+      "url": "https://jobright.ai/jobs/info/6aac30da2e757fcb5c8b4429",
+      "location": "Lexington, MA; Beavercreek, OH",
+      "datePosted": 1789663577,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -655,10 +666,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac27ea2e757fcb5c8b4004",
+      "id": "newgrad-jobs:6aac27ea2e757fcb5c8b4005",
       "company": "GM Financial",
       "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4004",
+      "url": "https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4005",
       "location": "Arlington, TX",
       "datePosted": 1789647630,
       "source": "newgrad-jobs",
@@ -694,17 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6a99b40a551435518ebf07ee",
       "location": "Seattle, WA",
       "datePosted": 1789646031,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aabe6d13d96632d741a81fb",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-      "url": "https://jobright.ai/jobs/info/6aabe6d13d96632d741a81fb",
-      "location": "Bellevue, WA",
-      "datePosted": 1789645834,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
