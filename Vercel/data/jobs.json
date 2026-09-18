@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-18T18:50:17Z",
-  "totalOpen": 1169,
-  "totalNewgrad": 268,
+  "generatedAt": "2026-09-18T19:00:21Z",
+  "totalOpen": 1167,
+  "totalNewgrad": 266,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aabfabc95c707f49dfeec96",
+      "company": "Moody's Corporation",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aabfabc95c707f49dfeec96",
+      "location": "Charlotte, NC",
+      "datePosted": 1789728487,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aad4c660ebc8fb2313e8aa9",
       "company": "GE Vernova",
@@ -14,7 +25,7 @@
       "datePosted": 1789727952,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aad76fc3dbb1f8967ceda44",
@@ -25,7 +36,7 @@
       "datePosted": 1789727884,
       "source": "newgrad-jobs",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a90998d0bd89e205d24b415",
@@ -124,17 +135,6 @@
       "datePosted": 1789725845,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aabfabc95c707f49dfeec96",
-      "company": "Moody's Corporation",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aabfabc95c707f49dfeec96",
-      "location": "Charlotte, NC",
-      "datePosted": 1789725321,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
