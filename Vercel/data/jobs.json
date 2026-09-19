@@ -1,20 +1,42 @@
 {
-  "generatedAt": "2026-09-19T12:40:16Z",
-  "totalOpen": 1168,
-  "totalNewgrad": 263,
+  "generatedAt": "2026-09-19T12:50:16Z",
+  "totalOpen": 1169,
+  "totalNewgrad": 264,
   "totalOther": 905,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a88bd184afae74a0834d5d7",
+      "company": "Garmin",
+      "title": "Embedded Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
+      "location": "Yarmouth, ME",
+      "datePosted": 1789794095,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a71f7e402d93145bf891a4b",
       "company": "Upstart",
       "title": "Applied Scientist",
       "url": "https://jobright.ai/jobs/info/6a71f7e402d93145bf891a4b",
       "location": "United States",
-      "datePosted": 1789793150,
+      "datePosted": 1789793177,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a922e45d18f75674827b942",
+      "company": "Northwood",
+      "title": "Embedded Software Engineering Intern (2027 Summer Internship)",
+      "url": "https://jobright.ai/jobs/info/6a922e45d18f75674827b942",
+      "location": "Torrance, CA",
+      "datePosted": 1789793072,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a91e25f8e5968545337833f",
@@ -633,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aadb10b0ebc8fb2313eb02e",
+      "id": "newgrad-jobs:6aada1e9de327d3e210d397d",
       "company": "H&R Block",
       "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aadb10b0ebc8fb2313eb02e",
+      "url": "https://jobright.ai/jobs/info/6aada1e9de327d3e210d397d",
       "location": "United States",
       "datePosted": 1789758966,
       "source": "newgrad-jobs",
@@ -738,28 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6aada796de327d3e210d3bf2",
       "location": "Dayton, OH",
       "datePosted": 1789750281,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a872d3325fc4e7ae3dabb2d",
-      "company": "Peraton",
-      "title": "Cobol Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a872d3325fc4e7ae3dabb2d",
-      "location": "United States",
-      "datePosted": 1789750185,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a88c600d34f700f87fca7d2",
-      "company": "iCapital",
-      "title": "Python Engineer and Developer - Associate",
-      "url": "https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
-      "location": "Stamford, CT",
-      "datePosted": 1789750184,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
