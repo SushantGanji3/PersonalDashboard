@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T01:10:15Z",
-  "totalOpen": 1163,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-09-19T01:20:16Z",
+  "totalOpen": 1166,
+  "totalNewgrad": 256,
   "totalOther": 910,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789770003,
       "source": "aggregator",
       "season": "Winter 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
@@ -25,7 +25,7 @@
       "datePosted": 1789770003,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:71d40ca7-1546-417c-8bf5-c360ac814bb0",
@@ -36,7 +36,7 @@
       "datePosted": 1789770003,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:af76c7bd-9c7f-4bb7-8258-217044808327",
@@ -47,7 +47,7 @@
       "datePosted": 1789770003,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:efd0e820-6a88-4cc7-9218-b062cf7cf141",
@@ -58,7 +58,7 @@
       "datePosted": 1789770002,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1d8b7a9a-aad7-445b-8465-b11074c1fc87",
@@ -69,7 +69,7 @@
       "datePosted": 1789770002,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b83b0b5a-fe98-4d36-8a28-f5ae99b19dd8",
@@ -80,7 +80,7 @@
       "datePosted": 1789769585,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fca16e07-f35d-408e-bda0-efffa4ba2163",
@@ -91,7 +91,7 @@
       "datePosted": 1789769412,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1748ecb3-9afd-4e60-a8c1-84278fc38f37",
@@ -102,7 +102,7 @@
       "datePosted": 1789769377,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aad99a53d96632d741aedb9",
@@ -113,7 +113,7 @@
       "datePosted": 1789752497,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aadd5da0ebc8fb2313eb98d",
@@ -124,6 +124,17 @@
       "datePosted": 1789752170,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aada7dc3dbb1f8967ceedcb",
+      "company": "Steampunk, Inc.",
+      "title": "Salesforce Application Developer",
+      "url": "https://jobright.ai/jobs/info/6aada7dc3dbb1f8967ceedcb",
+      "location": "McLean, VA",
+      "datePosted": 1789751977,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -135,6 +146,17 @@
       "datePosted": 1789751876,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad92b73dbb1f8967cee59b",
+      "company": "Vitu",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aad92b73dbb1f8967cee59b",
+      "location": "United States",
+      "datePosted": 1789750365,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -144,6 +166,50 @@
       "url": "https://jobright.ai/jobs/info/6aad8dc40ebc8fb2313ea44f",
       "location": "St. Petersburg, FL",
       "datePosted": 1789750327,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aadce86de327d3e210d476a",
+      "company": "Perplexity",
+      "title": "Member of Technical Staff, AI Products (Early Career)",
+      "url": "https://jobright.ai/jobs/info/6aadce86de327d3e210d476a",
+      "location": "San Francisco, CA",
+      "datePosted": 1789750294,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aada796de327d3e210d3bf2",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Radar Software Engineer - C++ / Python - Mission Systems - Cleared - WPAFB - 30311 *",
+      "url": "https://jobright.ai/jobs/info/6aada796de327d3e210d3bf2",
+      "location": "Dayton, OH",
+      "datePosted": 1789750281,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a872d34cde3717f9e9b094d",
+      "company": "Peraton",
+      "title": "Cobol Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a872d34cde3717f9e9b094d",
+      "location": "United States",
+      "datePosted": 1789750185,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a88c600d34f700f87fca7d2",
+      "company": "iCapital",
+      "title": "Python Engineer and Developer - Associate",
+      "url": "https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
+      "location": "Stamford, CT",
+      "datePosted": 1789750184,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -413,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aada796de327d3e210d3bf2",
-      "company": "Mission Technologies, a division of HII",
-      "title": "Radar Software Engineer - C++ / Python - Mission Systems - Cleared - WPAFB - 30311 *",
-      "url": "https://jobright.ai/jobs/info/6aada796de327d3e210d3bf2",
-      "location": "Dayton, OH",
-      "datePosted": 1789740326,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9a0212551435518ebf28fb",
       "company": "Atom Computing",
       "title": "Platform Engineer",
@@ -688,10 +743,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a737d498cd88e7ccbf58bd4",
+      "id": "newgrad-jobs:6a737d6932ebbc14ffb4f468",
       "company": "Amentum",
       "title": "Software Developer - Junior (Team 01)",
-      "url": "https://jobright.ai/jobs/info/6a737d498cd88e7ccbf58bd4",
+      "url": "https://jobright.ai/jobs/info/6a737d6932ebbc14ffb4f468",
       "location": "Washington, DC",
       "datePosted": 1789732607,
       "source": "newgrad-jobs",
@@ -707,61 +762,6 @@
       "datePosted": 1789732326,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7501677b3417772ade2dde",
-      "company": "Snap Inc.",
-      "title": "Software Engineer, iOS, Level 3",
-      "url": "https://jobright.ai/jobs/info/6a7501677b3417772ade2dde",
-      "location": "Palo Alto, CA; Santa Monica, CA",
-      "datePosted": 1789732107,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8863b9680f314a29d3bacb",
-      "company": "TikTok",
-      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a8863b9680f314a29d3bacb",
-      "location": "San Jose, CA",
-      "datePosted": 1789731703,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a886393cde3717f9e9b4ebe",
-      "company": "TikTok",
-      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a886393cde3717f9e9b4ebe",
-      "location": "San Jose, CA",
-      "datePosted": 1789731694,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa60f652ed333b4ea5c9a3c",
-      "company": "Quantinuum",
-      "title": "Software Engineering Intern - 989",
-      "url": "https://jobright.ai/jobs/info/6aa60f652ed333b4ea5c9a3c",
-      "location": "Broomfield, CO",
-      "datePosted": 1789731029,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a90998d0bd89e205d24b415",
-      "company": "Amazon",
-      "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-      "url": "https://jobright.ai/jobs/info/6a90998d0bd89e205d24b415",
-      "location": "Austin, TX; Bellevue, WA; North Reading, MA; Westboro, WI",
-      "datePosted": 1789730987,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
       "isNew": false
     },
     {
