@@ -1,10 +1,153 @@
 {
-  "generatedAt": "2026-09-19T01:00:24Z",
-  "totalOpen": 1150,
-  "totalNewgrad": 252,
-  "totalOther": 898,
+  "generatedAt": "2026-09-19T01:10:15Z",
+  "totalOpen": 1163,
+  "totalNewgrad": 253,
+  "totalOther": 910,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:ee3c8843-976f-40ef-8c08-493ad8cd764e",
+      "company": "Together AI",
+      "title": "Software Engineer Intern - Winter 2027",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
+      "location": "SF",
+      "datePosted": 1789770003,
+      "source": "aggregator",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
+      "company": "Together AI",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
+      "location": "SF",
+      "datePosted": 1789770003,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:71d40ca7-1546-417c-8bf5-c360ac814bb0",
+      "company": "Together AI",
+      "title": "Systems Research Engineer Intern - GPU Programming",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
+      "location": "SF",
+      "datePosted": 1789770003,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:af76c7bd-9c7f-4bb7-8258-217044808327",
+      "company": "Together AI",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "location": "SF",
+      "datePosted": 1789770003,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:efd0e820-6a88-4cc7-9218-b062cf7cf141",
+      "company": "Together AI",
+      "title": "Research Intern - Model Shaping",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
+      "location": "SF",
+      "datePosted": 1789770002,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:1d8b7a9a-aad7-445b-8465-b11074c1fc87",
+      "company": "Together AI",
+      "title": "Research Intern - Inference",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238461007",
+      "location": "SF",
+      "datePosted": 1789770002,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b83b0b5a-fe98-4d36-8a28-f5ae99b19dd8",
+      "company": "Tesla",
+      "title": "Embedded Software Engineer Intern - Body Controls Firmware",
+      "url": "https://www.tesla.com/careers/search/job/283994",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789769585,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:fca16e07-f35d-408e-bda0-efffa4ba2163",
+      "company": "Rubrik",
+      "title": "Software Engineering Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789769412,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:1748ecb3-9afd-4e60-a8c1-84278fc38f37",
+      "company": "Gemini",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
+      "location": "NYC",
+      "datePosted": 1789769377,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aad99a53d96632d741aedb9",
+      "company": "SprintRay Inc.",
+      "title": "Software Development Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aad99a53d96632d741aedb9",
+      "location": "Los Angeles, CA",
+      "datePosted": 1789752497,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aadd5da0ebc8fb2313eb98d",
+      "company": "Spectrum",
+      "title": "2027 Summer Intern: Software Engineer - P&T",
+      "url": "https://jobright.ai/jobs/info/6aadd5da0ebc8fb2313eb98d",
+      "location": "Maryland Heights, MO",
+      "datePosted": 1789752170,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aadd4b40ebc8fb2313eb95a",
+      "company": "Bot Auto",
+      "title": "Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aadd4b40ebc8fb2313eb95a",
+      "location": "Houston, TX",
+      "datePosted": 1789751876,
+      "source": "newgrad-jobs",
+      "season": "Fall 2026",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aad8dc40ebc8fb2313ea44f",
+      "company": "Acron Aviation",
+      "title": "Software Engineer Intern - St. Pete Site",
+      "url": "https://jobright.ai/jobs/info/6aad8dc40ebc8fb2313ea44f",
+      "location": "St. Petersburg, FL",
+      "datePosted": 1789750327,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aada57a2e757fcb5c8b9aa4",
       "company": "Thrivent",
@@ -36,6 +179,17 @@
       "datePosted": 1789749720,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad8db73d96632d741ae9b9",
+      "company": "Acron Aviation",
+      "title": "Systems Engineer Intern - St. Pete Site",
+      "url": "https://jobright.ai/jobs/info/6aad8db73d96632d741ae9b9",
+      "location": "St. Petersburg, FL",
+      "datePosted": 1789749661,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -210,17 +364,6 @@
       "url": "https://jobright.ai/jobs/info/6aadb10b0ebc8fb2313eb02e",
       "location": "United States",
       "datePosted": 1789742747,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa91fe5eff87f571fc98647",
-      "company": "General Dynamics",
-      "title": "Intern - Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa91fe5eff87f571fc98647",
-      "location": "Bloomington, MN",
-      "datePosted": 1789742729,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -468,28 +611,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aad8dc40ebc8fb2313ea44f",
-      "company": "Acron Aviation",
-      "title": "Software Engineer Intern - St. Pete Site",
-      "url": "https://jobright.ai/jobs/info/6aad8dc40ebc8fb2313ea44f",
-      "location": "St. Petersburg, FL",
-      "datePosted": 1789733716,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aad8db73d96632d741ae9b9",
-      "company": "Acron Aviation",
-      "title": "Systems Engineer Intern - St. Pete Site",
-      "url": "https://jobright.ai/jobs/info/6aad8db73d96632d741ae9b9",
-      "location": "St. Petersburg, FL",
-      "datePosted": 1789733703,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aad8d153dbb1f8967cee346",
       "company": "Trajectory",
       "title": "Member of Technical Staff - Intern",
@@ -641,28 +762,6 @@
       "datePosted": 1789730987,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ffdf4d96ad228f125f3a3",
-      "company": "L3Harris",
-      "title": "Intern C, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8ffdf4d96ad228f125f3a3",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1789730815,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aad7cdc2e757fcb5c8b8a6b",
-      "company": "BusinessInvitee Consulting Group",
-      "title": "AI Engineering Intern | AI & Software Engineering | NYC",
-      "url": "https://jobright.ai/jobs/info/6aad7cdc2e757fcb5c8b8a6b",
-      "location": "New York, NY",
-      "datePosted": 1789729388,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1222,105 +1321,6 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
       "location": "West Palm Beach, FL",
       "datePosted": 1789394635,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1ccbb9e2-4eb5-4b5c-b46b-df61586053ca",
-      "company": "Wells Fargo",
-      "title": "Software Engineer Intern - Early Careers - Software Engineering",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285",
-      "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC, St. Louis, MO, Phoenix, AZ, Chandler, AZ, Irving, TX",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:14f47481-e076-4f40-8d28-deaccaa6542d",
-      "company": "Wells Fargo",
-      "title": "Software Engineering Intern - Early Careers - Software Engineering",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
-      "location": "Concord, CA, SF, San Leandro, CA",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f32d5468-90ed-489b-ada3-673df7d014a9",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
-      "location": "Indianapolis, IN",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:1bd223c7-4d3d-4d64-8dcc-3c5d3d7095dc",
-      "company": "RTX",
-      "title": "Software Engineer Co-op - Summer/Fall 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970",
-      "location": "Wilsonville, OR",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:8edf16f9-31db-4a81-b28d-bfabbbdece38",
-      "company": "RTX",
-      "title": "Hardware In the Loop Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
-      "location": "Tucson, AZ",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8aa31162-4140-4408-a6ca-0e51e890da86",
-      "company": "RTX",
-      "title": "Software Engineer New Grad",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618",
-      "location": "Arlington County, Arlington, VA",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bb50809f-40cf-4768-beef-ba71a49c92fc",
-      "company": "RTX",
-      "title": "Research Engineer 1 - Analytics and Machine Intelligence - AMI",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Engineer-I---RTX-BBN-Analytics-and-Machine-Intelligence--AMI----Arlington--VA-and-Cambridge--MA--Hybrid-_01874936",
-      "location": "Cambridge, MA, Arlington County, Arlington, VA",
-      "datePosted": 1789344000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
-      "company": "Tesla",
-      "title": "Data Engineer Intern - Fleet Analytics",
-      "url": "https://www.tesla.com/careers/search/job/283138",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789165808,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ebc7d1a1-b5b8-4837-b209-d99b4aa18795",
-      "company": "Microsoft",
-      "title": "Software Engineer Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-      "location": "Redmond, WA",
-      "datePosted": 1789165434,
       "source": "aggregator",
       "season": null,
       "isNew": false
