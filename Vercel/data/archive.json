@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-20T15:40:16Z",
+  "generatedAt": "2026-09-20T15:50:16Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "newgrad-jobs:6a9362db9864261ccd2a2b92",
+      "company": "Jacobs",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a9362db9864261ccd2a2b92",
+      "location": "Herndon, VA",
+      "datePosted": 1789890754,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789919416
+    },
     {
       "id": "newgrad-jobs:6a57eeaf8f51964c04045b7f",
       "company": "TikTok",
@@ -78,6 +89,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789913521
+    },
+    {
+      "id": "newgrad-jobs:6aaf6192de327d3e210d6a53",
+      "company": "Entangl,\u202fInc.",
+      "title": "Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6aaf6192de327d3e210d6a53",
+      "location": "Boston, MA; San Francisco, CA",
+      "datePosted": 1789885118,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789919416
     },
     {
       "id": "newgrad-jobs:6aafda61dd960b4156418489",
@@ -28820,50 +28842,6 @@
       "datePosted": 1787327675,
       "source": "aggregator",
       "season": "Winter",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:4ac6a461-c589-4244-b5f7-7f6ba22667bb",
-      "company": "Replit",
-      "title": "Software Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "location": "Foster City, CA",
-      "datePosted": 1787327039,
-      "source": "aggregator",
-      "season": "Summer",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:10650a14-859e-42bd-9fa4-ac96e0758dbf",
-      "company": "AMD",
-      "title": "Software Engineer Intern, Co-op",
-      "url": "https://careers.amd.com/careers-home/jobs/91176",
-      "location": "Santa Clara, CA, San Jose, CA",
-      "datePosted": 1787326915,
-      "source": "aggregator",
-      "season": "Spring/Summer",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:f1fb259b-d4f0-4533-bff6-ab51a408a4db",
-      "company": "AMD",
-      "title": "Software Engineer Intern",
-      "url": "https://careers.amd.com/careers-home/jobs/91180",
-      "location": "Austin, TX, Boxborough, MA, Rochester, NY, Fort Collins, CO, Longmont, CO, Fishkill, NY",
-      "datePosted": 1787326911,
-      "source": "aggregator",
-      "season": "Spring/Summer",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:0a47953e-2eb5-47d3-9a42-056ae1863d31",
-      "company": "Millennium",
-      "title": "Quantitative Developer Intern",
-      "url": "https://career.mlp.com/careers/job/755957819661",
-      "location": "New York, NY",
-      "datePosted": 1787326901,
-      "source": "aggregator",
-      "season": "Summer",
       "firstSeenAt": 1788951625
     }
   ]

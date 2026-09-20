@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-20T15:40:16Z",
-  "totalOpen": 1162,
-  "totalNewgrad": 258,
+  "generatedAt": "2026-09-20T15:50:16Z",
+  "totalOpen": 1163,
+  "totalNewgrad": 259,
   "totalOther": 904,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9362db9864261ccd2a2b92",
+      "company": "Jacobs",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a9362db9864261ccd2a2b92",
+      "location": "Herndon, VA",
+      "datePosted": 1789890754,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a57eeaf8f51964c04045b7f",
       "company": "TikTok",
@@ -149,15 +160,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aaf61953dbb1f8967cf1bf0",
+      "id": "newgrad-jobs:6aaf6192de327d3e210d6a53",
       "company": "Entangl,\u202fInc.",
       "title": "Full Stack Engineer",
-      "url": "https://jobright.ai/jobs/info/6aaf61953dbb1f8967cf1bf0",
+      "url": "https://jobright.ai/jobs/info/6aaf6192de327d3e210d6a53",
       "location": "Boston, MA; San Francisco, CA",
       "datePosted": 1789885118,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aafd355de327d3e210d70a8",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6aa856b8930bff471a2a69b5",
       "location": "San Jose, CA",
       "datePosted": 1789832410,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1789832164,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
