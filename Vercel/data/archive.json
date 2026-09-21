@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:40:16Z",
+  "generatedAt": "2026-09-21T11:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": "Spring 2027",
       "firstSeenAt": 1789983621
+    },
+    {
+      "id": "newgrad-jobs:6ab1104232552369083e0492",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab1104232552369083e0492",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789963730,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789991417
+    },
+    {
+      "id": "newgrad-jobs:6ab10ff932552369083e048e",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab10ff932552369083e048e",
+      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1789963657,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1789991417
     },
     {
       "id": "newgrad-jobs:6a5adca04da96a42cfd97998",
