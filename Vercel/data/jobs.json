@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T22:40:16Z",
-  "totalOpen": 1182,
-  "totalNewgrad": 281,
+  "generatedAt": "2026-09-21T22:50:17Z",
+  "totalOpen": 1177,
+  "totalNewgrad": 276,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1790002361,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab18ca9191d8c340dbdb559",
@@ -58,7 +58,7 @@
       "datePosted": 1790001714,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
@@ -67,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
       "location": "Fort Belvoir, VA",
       "datePosted": 1790001646,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1a421d43eb922ca0c0477",
+      "company": "SingleStore",
+      "title": "MIT- Software Engineer Intern |Helios|",
+      "url": "https://jobright.ai/jobs/info/6ab1a421d43eb922ca0c0477",
+      "location": "United States",
+      "datePosted": 1790001585,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -80,7 +91,18 @@
       "datePosted": 1790001536,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab16057d2a93d5a97eba42e",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab16057d2a93d5a97eba42e",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1790001152,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab15fc2d43eb922ca0be6ea",
@@ -116,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab16057d2a93d5a97eba42e",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab16057d2a93d5a97eba42e",
-      "location": "Fort Wayne, IN",
-      "datePosted": 1790000348,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab19c6a23005eee3545b90d",
       "company": "United Launch Alliance (ULA)",
       "title": "CI/CD Infrastructure Software Engineer 1",
@@ -135,6 +146,17 @@
       "datePosted": 1790000247,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab146a1d43eb922ca0bdc34",
+      "company": "IBM",
+      "title": "Summer Research Intern 2027 - Edge communications processing with AI accelerators",
+      "url": "https://jobright.ai/jobs/info/6ab146a1d43eb922ca0bdc34",
+      "location": "Yorktown Heights, NY",
+      "datePosted": 1790000203,
+      "source": "newgrad-jobs",
+      "season": "Summer",
       "isNew": false
     },
     {
@@ -270,6 +292,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab19b65d43eb922ca0c00de",
+      "company": "RentVision",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ab19b65d43eb922ca0c00de",
+      "location": "Lincoln, NE",
+      "datePosted": 1789998299,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a7a2528b17cba5690365a31",
       "company": "Figma",
       "title": "Software Engineer Intern (Winter 2027)",
@@ -300,7 +333,7 @@
       "datePosted": 1789997795,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a83503a1081a745e970e5d3",
@@ -611,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab178eaf9692ca98b049d62",
-      "company": "SingleStore",
-      "title": "MIT- Software Engineer Intern |Helios|",
-      "url": "https://jobright.ai/jobs/info/6ab178eaf9692ca98b049d62",
-      "location": "United States",
-      "datePosted": 1789990522,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab1787bf9692ca98b049d3b",
       "company": "Skyworks Solutions, Inc.",
       "title": "RMI Timing Software Engineering Summer Intern (May-Aug '27)",
@@ -641,28 +663,6 @@
       "datePosted": 1789990348,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8c73c91d96e6541c8c0d66",
-      "company": "Sage",
-      "title": "Software Engineering Intern (Full Stack) \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a8c73c91d96e6541c8c0d66",
-      "location": "New York, NY",
-      "datePosted": 1789990282,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a79c504a26ccc369f83abed",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a79c504a26ccc369f83abed",
-      "location": "Seattle, WA",
-      "datePosted": 1789990207,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
       "isNew": false
     },
     {
@@ -1081,7 +1081,7 @@
       "datePosted": 1789511923,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d4c19c36-ef9a-4709-85c2-e54045c626b7",
