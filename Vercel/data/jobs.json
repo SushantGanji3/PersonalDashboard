@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:10:18Z",
+  "generatedAt": "2026-09-21T06:20:15Z",
   "totalOpen": 1179,
   "totalNewgrad": 276,
   "totalOther": 903,
@@ -14,7 +14,7 @@
       "datePosted": 1789944271,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e397c27c94c3d5a1cb90e",
@@ -25,7 +25,7 @@
       "datePosted": 1789944244,
       "source": "newgrad-jobs",
       "season": "Spring",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e392227c94c3d5a1cb8d8",
@@ -36,7 +36,7 @@
       "datePosted": 1789944082,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab08655dd960b41564193e3",
@@ -67,17 +67,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e30db2c964816f65ebe38",
       "location": "Rochester, MN; Austin, TX",
       "datePosted": 1789942480,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab0bb9f3dbb1f8967cf372d",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab0bb9f3dbb1f8967cf372d",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789942063,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -278,7 +267,7 @@
       "datePosted": 1789923600,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a760ceda26ccc369f8336e0",
@@ -661,6 +650,17 @@
       "url": "https://jobright.ai/jobs/info/6a5a6da3686b4755d1e15113",
       "location": "Palo Alto, CA",
       "datePosted": 1789893221,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a57eeaf8f51964c04045b7f",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Recommendation Infrastructure, TikTok Video Social) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a57eeaf8f51964c04045b7f",
+      "location": "San Jose, CA",
+      "datePosted": 1789889783,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
