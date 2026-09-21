@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T16:30:18Z",
-  "totalOpen": 1170,
-  "totalNewgrad": 268,
+  "generatedAt": "2026-09-21T16:40:17Z",
+  "totalOpen": 1171,
+  "totalNewgrad": 269,
   "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab15157d2a93d5a97eb9c9d",
+      "company": "Canaria",
+      "title": "Python Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab15157d2a93d5a97eb9c9d",
+      "location": "United States",
+      "datePosted": 1789980391,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab12971f9692ca98b047f89",
@@ -36,7 +47,7 @@
       "datePosted": 1789978626,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab146a1d43eb922ca0bdc34",
@@ -80,7 +91,7 @@
       "datePosted": 1789976898,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab14003d43eb922ca0bd9a6",
@@ -300,7 +311,7 @@
       "datePosted": 1789964460,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5adca04da96a42cfd97998",
@@ -685,17 +696,6 @@
       "datePosted": 1789926274,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a254876d46c0f79960882ec",
-      "company": "TikTok",
-      "title": "Research Engineer/Scientist(all levels), Efficient Models",
-      "url": "https://jobright.ai/jobs/info/6a254876d46c0f79960882ec",
-      "location": "San Jose, CA",
-      "datePosted": 1789925494,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
