@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-21T20:30:20Z",
-  "totalOpen": 1177,
-  "totalNewgrad": 277,
+  "generatedAt": "2026-09-21T20:40:20Z",
+  "totalOpen": 1176,
+  "totalNewgrad": 276,
   "totalOther": 900,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab1876fd43eb922ca0bf67a",
+      "company": "SingleStore",
+      "title": "MIT- Software Engineer Intern |Helios|",
+      "url": "https://jobright.ai/jobs/info/6ab1876fd43eb922ca0bf67a",
+      "location": "United States",
+      "datePosted": 1789994239,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab1862b23005eee3545aec6",
       "company": "Geneva Trading",
@@ -23,17 +34,6 @@
       "url": "https://jobright.ai/jobs/info/6ab183ca23005eee3545ae0b",
       "location": "Los Angeles, CA; Washington, DC; Seattle, WA",
       "datePosted": 1789993306,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1826f32552369083e2935",
-      "company": "Awardco",
-      "title": "Front-End Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab1826f32552369083e2935",
-      "location": "Lindon, UT",
-      "datePosted": 1789992959,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -122,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6ab17988f9692ca98b049dc5",
       "location": "Yorktown Heights, NY; San Jose, CA; Cambridge, MA",
       "datePosted": 1789990680,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab178eaf9692ca98b049d62",
-      "company": "SingleStore",
-      "title": "MIT- Software Engineer Intern |Helios|",
-      "url": "https://jobright.ai/jobs/info/6ab178eaf9692ca98b049d62",
-      "location": "United States",
-      "datePosted": 1789990522,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -672,6 +661,17 @@
       "url": "https://jobright.ai/jobs/info/6a53a0c18576ec69c01505be",
       "location": "Reston, VA",
       "datePosted": 1789972835,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab132e823005eee35458f06",
+      "company": "Collinear AI",
+      "title": "MTS - Research Scientist Internship",
+      "url": "https://jobright.ai/jobs/info/6ab132e823005eee35458f06",
+      "location": "Sunnyvale, CA; San Francisco, CA; Bengaluru, KA",
+      "datePosted": 1789972600,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
