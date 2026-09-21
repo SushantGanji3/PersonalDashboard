@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T16:50:19Z",
-  "totalOpen": 1172,
-  "totalNewgrad": 270,
+  "generatedAt": "2026-09-21T17:00:24Z",
+  "totalOpen": 1170,
+  "totalNewgrad": 268,
   "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1789980063,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab13e64d43eb922ca0bd911",
@@ -655,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab082c4d3af3856cd99314a",
-      "company": "Ammortal",
-      "title": "Software Engineer (Full-Stack)",
-      "url": "https://jobright.ai/jobs/info/6ab082c4d3af3856cd99314a",
-      "location": "United States",
-      "datePosted": 1789930624,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9df1e368f82b403673861c",
       "company": "CyberProof",
       "title": "Junior Full Stack Developer",
@@ -694,6 +683,17 @@
       "url": "https://jobright.ai/jobs/info/6a8667462f4f0014cae29968",
       "location": "Seattle, WA",
       "datePosted": 1789927331,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab07df2de327d3e210d80b1",
+      "company": "ICF",
+      "title": "2027 Summer Intern, Software Developer (Reston, VA)",
+      "url": "https://jobright.ai/jobs/info/6ab07df2de327d3e210d80b1",
+      "location": "Reston, VA",
+      "datePosted": 1789926274,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
