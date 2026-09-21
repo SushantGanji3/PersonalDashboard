@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-21T21:10:17Z",
-  "totalOpen": 1176,
-  "totalNewgrad": 276,
+  "generatedAt": "2026-09-21T21:20:18Z",
+  "totalOpen": 1174,
+  "totalNewgrad": 274,
   "totalOther": 900,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab1781bd2a93d5a97ebadef",
+      "company": "Penumbra, Inc.",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab1781bd2a93d5a97ebadef",
+      "location": "Alameda, CA",
+      "datePosted": 1789996729,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ab19100f9692ca98b04a601",
       "company": "OpenGov Inc.",
@@ -14,7 +25,7 @@
       "datePosted": 1789996688,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1907c32552369083e2ede",
@@ -23,6 +34,39 @@
       "url": "https://jobright.ai/jobs/info/6ab1907c32552369083e2ede",
       "location": "Lindon, UT",
       "datePosted": 1789996556,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6ce61332f9300c3a3e5dd6",
+      "company": "Dezign Concepts",
+      "title": "Systems Engineer - Junior",
+      "url": "https://jobright.ai/jobs/info/6a6ce61332f9300c3a3e5dd6",
+      "location": "McLean, VA",
+      "datePosted": 1789996319,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab18f1ad2a93d5a97ebb64b",
+      "company": "Mayo Clinic",
+      "title": "Software Engineer - Omniverse Simulation",
+      "url": "https://jobright.ai/jobs/info/6ab18f1ad2a93d5a97ebb64b",
+      "location": "Rochester, MN",
+      "datePosted": 1789996202,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a57b37821f64463ad35b532",
+      "company": "Google DeepMind",
+      "title": "Security Engineer, Detection",
+      "url": "https://jobright.ai/jobs/info/6a57b37821f64463ad35b532",
+      "location": "Reston, VA",
+      "datePosted": 1789996102,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -69,7 +113,7 @@
       "datePosted": 1789995806,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aab08358e1bf0f764af80b2",
@@ -81,6 +125,28 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab18d15d2a93d5a97ebb542",
+      "company": "GUIDEcx",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab18d15d2a93d5a97ebb542",
+      "location": "United States",
+      "datePosted": 1789995685,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab18ca9191d8c340dbdb559",
+      "company": "Abnormal AI",
+      "title": "Software Engineer I - Data Platforms",
+      "url": "https://jobright.ai/jobs/info/6ab18ca9191d8c340dbdb559",
+      "location": "United States",
+      "datePosted": 1789995577,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab1887b23005eee3545afbc",
@@ -144,17 +210,6 @@
       "url": "https://jobright.ai/jobs/info/6ab183ca23005eee3545ae0b",
       "location": "Los Angeles, CA; Washington, DC; Seattle, WA",
       "datePosted": 1789993306,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab180a232552369083e28d8",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab180a232552369083e28d8",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789992498,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -256,17 +311,6 @@
       "datePosted": 1789990348,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1781bd2a93d5a97ebadef",
-      "company": "Penumbra, Inc.",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab1781bd2a93d5a97ebadef",
-      "location": "Alameda, CA",
-      "datePosted": 1789990315,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -586,7 +630,7 @@
       "datePosted": 1789982950,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a950e331e67aa542830d8a9",
@@ -630,50 +674,6 @@
       "datePosted": 1789979763,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a99bb7a551435518ebf0acf",
-      "company": "Purity Products",
-      "title": "Landing Page Developer \u2013 DTC Growth (Shopify/Replo)",
-      "url": "https://jobright.ai/jobs/info/6a99bb7a551435518ebf0acf",
-      "location": "Plainview, NY",
-      "datePosted": 1789979363,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab12971f9692ca98b047f89",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ab12971f9692ca98b047f89",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1789978750,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab14a72f9692ca98b04892e",
-      "company": "CACI International Inc",
-      "title": "JR. ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6ab14a72f9692ca98b04892e",
-      "location": "Chantilly, VA",
-      "datePosted": 1789978626,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1377832552369083e0b4b",
-      "company": "Upbound Group",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab1377832552369083e0b4b",
-      "location": "Plano, TX",
-      "datePosted": 1789977890,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
