@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T06:40:52Z",
-  "totalOpen": 1183,
-  "totalNewgrad": 276,
+  "generatedAt": "2026-09-21T06:50:16Z",
+  "totalOpen": 1180,
+  "totalNewgrad": 273,
   "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1789948800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6bad7a33-03b2-46a4-8d91-2b7216de6106",
@@ -25,7 +25,7 @@
       "datePosted": 1789948800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e393bdacf777321a90d32",
@@ -479,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab02ccd3d96632d741b2e40",
-      "company": "vikat.AI",
-      "title": "AI Security Research Intern",
-      "url": "https://jobright.ai/jobs/info/6ab02ccd3d96632d741b2e40",
-      "location": "United States",
-      "datePosted": 1789905501,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a83503a1081a745e970e5d3",
       "company": "Procter & Gamble",
       "title": "Data Engineer - North America Fabric Care",
@@ -683,6 +672,17 @@
       "url": "https://jobright.ai/jobs/info/6a57eeaf8f51964c04045b7f",
       "location": "San Jose, CA",
       "datePosted": 1789889783,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a45e2ce076271587529e392",
+      "company": "SpaceX",
+      "title": "Software Engineer, DevOps (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a45e2ce076271587529e392",
+      "location": "Redmond, WA",
+      "datePosted": 1789889677,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
