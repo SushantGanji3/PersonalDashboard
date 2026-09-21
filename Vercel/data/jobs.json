@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-21T06:00:18Z",
-  "totalOpen": 1176,
-  "totalNewgrad": 273,
+  "generatedAt": "2026-09-21T06:10:18Z",
+  "totalOpen": 1179,
+  "totalNewgrad": 276,
   "totalOther": 903,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9e393bdacf777321a90d32",
+      "company": "IBM",
+      "title": "Site Reliability Engineer Spring Co-op 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e393bdacf777321a90d32",
+      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX",
+      "datePosted": 1789944271,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9e397c27c94c3d5a1cb90e",
+      "company": "IBM",
+      "title": "Software Developer Spring Co-op 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e397c27c94c3d5a1cb90e",
+      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX",
+      "datePosted": 1789944244,
+      "source": "newgrad-jobs",
+      "season": "Spring",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9e392227c94c3d5a1cb8d8",
+      "company": "IBM",
+      "title": "Site Reliability Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e392227c94c3d5a1cb8d8",
+      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX",
+      "datePosted": 1789944082,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab08655dd960b41564193e3",
+      "company": "ITW",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ab08655dd960b41564193e3",
+      "location": "Rogers, MN",
+      "datePosted": 1789942947,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a9e309e68f82b4036738d34",
       "company": "IBM",
@@ -160,17 +204,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab08655dd960b41564193e3",
-      "company": "ITW",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ab08655dd960b41564193e3",
-      "location": "Rogers, MN",
-      "datePosted": 1789928421,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9df1e368f82b403673861c",
       "company": "CyberProof",
       "title": "Junior Full Stack Developer",
@@ -235,6 +268,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab0c2dc3d96632d741b40fa",
+      "company": "Northrop Grumman",
+      "title": "2027 Embedded Software Engineer Intern - Baltimore MD",
+      "url": "https://jobright.ai/jobs/info/6ab0c2dc3d96632d741b40fa",
+      "location": "Baltimore, MD",
+      "datePosted": 1789923600,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a760ceda26ccc369f8336e0",
@@ -617,50 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a5a6da3686b4755d1e15113",
       "location": "Palo Alto, CA",
       "datePosted": 1789893221,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a57eeaf8f51964c04045b7f",
-      "company": "TikTok",
-      "title": "Software Engineer Project Intern (Recommendation Infrastructure, TikTok Video Social) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6a57eeaf8f51964c04045b7f",
-      "location": "San Jose, CA",
-      "datePosted": 1789889783,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a45e2ce076271587529e392",
-      "company": "SpaceX",
-      "title": "Software Engineer, DevOps (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a45e2ce076271587529e392",
-      "location": "Redmond, WA",
-      "datePosted": 1789889677,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a75b46f7b3417772ade4eee",
-      "company": "TikTok",
-      "title": "Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a75b46f7b3417772ade4eee",
-      "location": "San Jose, CA",
-      "datePosted": 1789889659,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7645caa26ccc369f8348f3",
-      "company": "Verkada",
-      "title": "Software Engineer - Data Platform",
-      "url": "https://jobright.ai/jobs/info/6a7645caa26ccc369f8348f3",
-      "location": "San Mateo, CA",
-      "datePosted": 1789889160,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
