@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:00:20Z",
+  "generatedAt": "2026-09-21T16:10:17Z",
   "totalOpen": 1172,
   "totalNewgrad": 270,
   "totalOther": 902,
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab145e6d43eb922ca0bdc09",
+      "company": "Amoha Recruitment Services LLC",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab145e6d43eb922ca0bdc09",
+      "location": "San Francisco, CA",
+      "datePosted": 1789977462,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab141a2191d8c340dbd96fd",
@@ -682,17 +693,6 @@
       "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
       "url": "https://jobright.ai/jobs/info/6ab09a792e757fcb5c8be1e2",
       "location": "O'Fallon, MO; Arlington, VA",
-      "datePosted": 1789923600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab0c2dc3d96632d741b40fa",
-      "company": "Northrop Grumman",
-      "title": "2027 Embedded Software Engineer Intern - Baltimore MD",
-      "url": "https://jobright.ai/jobs/info/6ab0c2dc3d96632d741b40fa",
-      "location": "Baltimore, MD",
       "datePosted": 1789923600,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
