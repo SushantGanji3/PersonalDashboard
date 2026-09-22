@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T02:10:17Z",
-  "totalOpen": 1204,
-  "totalNewgrad": 295,
+  "generatedAt": "2026-09-22T02:20:16Z",
+  "totalOpen": 1205,
+  "totalNewgrad": 296,
   "totalOther": 909,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790041044,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6747a804-3d64-4369-a51e-9309bb720e0c",
@@ -102,7 +102,7 @@
       "datePosted": 1790015838,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1db04191d8c340dbdd0f4",
@@ -113,7 +113,7 @@
       "datePosted": 1790015636,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab19bad191d8c340dbdbd67",
@@ -124,7 +124,7 @@
       "datePosted": 1790015551,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1a80fd2a93d5a97ebc1ff",
@@ -135,7 +135,7 @@
       "datePosted": 1790014937,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1c730d2a93d5a97ebccc0",
@@ -146,7 +146,18 @@
       "datePosted": 1790014637,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
+      "company": "The Tatitlek Corporation",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
+      "location": "United States",
+      "datePosted": 1790013678,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1c433d43eb922ca0c0fd8",
@@ -171,6 +182,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab17a8fd2a93d5a97ebaf1b",
+      "company": "State Street",
+      "title": "Software Engineer - REST API Development, Officer",
+      "url": "https://jobright.ai/jobs/info/6ab17a8fd2a93d5a97ebaf1b",
+      "location": "Burlington, MA",
+      "datePosted": 1790013261,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab19e15d2a93d5a97ebbe14",
+      "company": "LG CNS",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab19e15d2a93d5a97ebbe14",
+      "location": "Arlington, VA; Huntsville, AL",
+      "datePosted": 1790013223,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ab1cd90d43eb922ca0c11d7",
       "company": "Rivian",
       "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
@@ -179,7 +212,7 @@
       "datePosted": 1790012192,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1cd84d43eb922ca0c11d2",
@@ -190,7 +223,7 @@
       "datePosted": 1790012180,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1cd82d43eb922ca0c11d1",
@@ -201,7 +234,7 @@
       "datePosted": 1790012178,
       "source": "newgrad-jobs",
       "season": "Spring",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1cd7bf9692ca98b04bd80",
@@ -212,7 +245,7 @@
       "datePosted": 1790012171,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1cc6e32552369083e44d3",
@@ -223,7 +256,7 @@
       "datePosted": 1790011902,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1c7f7d2a93d5a97ebcd01",
@@ -303,17 +336,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab17a8fd2a93d5a97ebaf1b",
-      "company": "State Street",
-      "title": "Software Engineer - REST API Development, Officer",
-      "url": "https://jobright.ai/jobs/info/6ab17a8fd2a93d5a97ebaf1b",
-      "location": "Burlington, MA",
-      "datePosted": 1790007472,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:68781e06866a435525ab6e3a",
       "company": "ICF",
       "title": "Appian Developer- Remote",
@@ -342,17 +364,6 @@
       "url": "https://jobright.ai/jobs/info/6ab1b75c191d8c340dbdc9c0",
       "location": "United States",
       "datePosted": 1790006508,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab19e15d2a93d5a97ebbe14",
-      "company": "LG CNS",
-      "title": "Junior Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab19e15d2a93d5a97ebbe14",
-      "location": "Arlington, VA; Huntsville, AL",
-      "datePosted": 1790006406,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -633,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa19aeb500b01124c77dd33",
+      "id": "newgrad-jobs:6a81a5f9e51a1e18a241fab4",
       "company": "Noblis",
       "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa19aeb500b01124c77dd33",
+      "url": "https://jobright.ai/jobs/info/6a81a5f9e51a1e18a241fab4",
       "location": "Philadelphia, PA",
       "datePosted": 1790002553,
       "source": "newgrad-jobs",
@@ -740,17 +751,6 @@
       "datePosted": 1790000203,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a58f0544da96a42cfd8e22b",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a58f0544da96a42cfd8e22b",
-      "location": "Melbourne, FL",
-      "datePosted": 1790000072,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
