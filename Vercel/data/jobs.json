@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-09-22T12:30:23Z",
-  "totalOpen": 1200,
-  "totalNewgrad": 293,
+  "generatedAt": "2026-09-22T12:40:17Z",
+  "totalOpen": 1199,
+  "totalNewgrad": 292,
   "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab272041e4847ddae914601",
+      "company": "Relay",
+      "title": "Business Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ab272041e4847ddae914601",
+      "location": "United States",
+      "datePosted": 1790054292,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
+      "company": "Spotify",
+      "title": "Research Scientist - Generative Audio",
+      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
+      "location": "United States",
+      "datePosted": 1790054079,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9eb1492c964816f65ee371",
+      "company": "Rocket",
+      "title": "Software Developer I - Search",
+      "url": "https://jobright.ai/jobs/info/6a9eb1492c964816f65ee371",
+      "location": "San Francisco, CA",
+      "datePosted": 1790053647,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95d1c53843db01599076e3",
+      "company": "Talcott Financial Group",
+      "title": "IT Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6a95d1c53843db01599076e3",
+      "location": "Hartford, CT",
+      "datePosted": 1790053512,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
+      "datePosted": 1790053283,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a693d8805bae84301b5b392",
+      "company": "SpaceX",
+      "title": "Operations Engineer, Applied AI (Application Software)",
+      "url": "https://jobright.ai/jobs/info/6a693d8805bae84301b5b392",
+      "location": "Vandenberg Space Force Base, CA",
+      "datePosted": 1790052664,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a95ac504c22023a07934fcb",
       "company": "Google DeepMind",
@@ -91,28 +157,6 @@
       "datePosted": 1790047830,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3b3ec4238ea18d430d91a",
-      "company": "Emerson",
-      "title": "Software Engineering Co-op (Jun-Dec 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa3b3ec4238ea18d430d91a",
-      "location": "Eden Prairie, MN",
-      "datePosted": 1790047730,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa868f2654b2a9424cfca7c",
-      "company": "Emerson",
-      "title": "Software Engineering Co-Op (Jan-Aug 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa868f2654b2a9424cfca7c",
-      "location": "Eden Prairie, MN",
-      "datePosted": 1790047730,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -729,50 +773,6 @@
       "datePosted": 1790017527,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1dde7d2a93d5a97ebd14b",
-      "company": "SpaceX",
-      "title": "Software Engineer, C++ (Simulations)",
-      "url": "https://jobright.ai/jobs/info/6ab1dde7d2a93d5a97ebd14b",
-      "location": "Hawthorne, CA",
-      "datePosted": 1790017042,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1ab1bd43eb922ca0c07a6",
-      "company": "Expedition Technology",
-      "title": "Summer 2027 Internship in Digital Signal Processing & Machine Learning - R148",
-      "url": "https://jobright.ai/jobs/info/6ab1ab1bd43eb922ca0c07a6",
-      "location": "Herndon, VA",
-      "datePosted": 1790016812,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab19bad191d8c340dbdbd67",
-      "company": "The Aerospace Corporation",
-      "title": "IC 2027 Site Reliability Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab19bad191d8c340dbdbd67",
-      "location": "El Segundo, CA; Chantilly, VA",
-      "datePosted": 1790015551,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1a80fd2a93d5a97ebc1ff",
-      "company": "GE HealthCare",
-      "title": "Software Engineering Summer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6ab1a80fd2a93d5a97ebc1ff",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1790014937,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
