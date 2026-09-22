@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T03:40:20Z",
+  "generatedAt": "2026-09-22T03:50:18Z",
   "totalOpen": 1206,
   "totalNewgrad": 297,
   "totalOther": 909,
@@ -90,6 +90,28 @@
       "location": "San Diego, CA",
       "datePosted": 1790029581,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1c8c1d43eb922ca0c1107",
+      "company": "Daimler Truck North America",
+      "title": "Applied AI Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ab1c8c1d43eb922ca0c1107",
+      "location": "Portland, OR",
+      "datePosted": 1790020297,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab1960af9692ca98b04a80b",
+      "company": "Williams AV",
+      "title": "Software Engineer Internship",
+      "url": "https://jobright.ai/jobs/info/6ab1960af9692ca98b04a80b",
+      "location": "Eden Prairie, MN",
+      "datePosted": 1790020116,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -270,34 +292,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab1c730d2a93d5a97ebccc0",
-      "company": "The Aerospace Corporation",
-      "title": "2027 Machine Learning Engineer Undergrad Intern",
-      "url": "https://jobright.ai/jobs/info/6ab1c730d2a93d5a97ebccc0",
-      "location": "El Segundo, CA; Chantilly, VA",
-      "datePosted": 1790014637,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
       "company": "The Tatitlek Corporation",
       "title": "Junior Software Developer",
       "url": "https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
       "location": "United States",
       "datePosted": 1790013678,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1960af9692ca98b04a80b",
-      "company": "Williams AV",
-      "title": "Software Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6ab1960af9692ca98b04a80b",
-      "location": "Eden Prairie, MN",
-      "datePosted": 1790013262,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
