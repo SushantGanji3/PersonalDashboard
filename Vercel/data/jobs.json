@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T10:10:21Z",
-  "totalOpen": 1191,
-  "totalNewgrad": 288,
+  "generatedAt": "2026-09-22T10:20:18Z",
+  "totalOpen": 1193,
+  "totalNewgrad": 290,
   "totalOther": 903,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790044181,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
@@ -26,6 +26,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2453c317bc82c4cd3ff2c",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab2453c317bc82c4cd3ff2c",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790042828,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
@@ -47,7 +58,7 @@
       "datePosted": 1790040644,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6747a804-3d64-4369-a51e-9309bb720e0c",
@@ -749,17 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ab1b4c923005eee3545c4b9",
       "location": "Cincinnati, OH",
       "datePosted": 1790005849,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab183ca23005eee3545ae0b",
-      "company": "Voyager Technologies",
-      "title": "Software Engineer \u2013 AI Automation (Internal Tools)",
-      "url": "https://jobright.ai/jobs/info/6ab183ca23005eee3545ae0b",
-      "location": "Los Angeles, CA; Washington, DC; Seattle, WA",
-      "datePosted": 1790005817,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
