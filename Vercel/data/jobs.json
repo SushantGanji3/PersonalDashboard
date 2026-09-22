@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-22T10:30:24Z",
-  "totalOpen": 1195,
+  "generatedAt": "2026-09-22T10:40:16Z",
+  "totalOpen": 1199,
   "totalNewgrad": 292,
-  "totalOther": 903,
+  "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1790044133,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a50dfe22b161c5241662944",
@@ -47,7 +47,7 @@
       "datePosted": 1790044128,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a577700efb06a45240da825",
@@ -58,7 +58,7 @@
       "datePosted": 1790044096,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
@@ -91,7 +91,7 @@
       "datePosted": 1790040673,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a63960d0c8e2b4f36dceacd",
@@ -202,6 +202,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:4f096c73-afae-450f-b903-ace71c84d47f",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "location": "San Diego, CA",
+      "datePosted": 1790035200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab2083cf9692ca98b04c889",
@@ -1310,17 +1321,6 @@
       "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
       "location": "Seattle, WA",
       "datePosted": 1789434532,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f55553b1-9d7d-499d-98ac-d78d07cfb143",
-      "company": "Apple",
-      "title": "Hardware Systems Engineer - Board Design",
-      "url": "https://jobs.apple.com/en-us/details/200683615",
-      "location": "Cupertino, CA",
-      "datePosted": 1789434270,
       "source": "aggregator",
       "season": null,
       "isNew": false
