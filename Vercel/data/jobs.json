@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-09-22T23:00:49Z",
-  "totalOpen": 1194,
+  "generatedAt": "2026-09-22T23:10:17Z",
+  "totalOpen": 1201,
   "totalNewgrad": 291,
-  "totalOther": 903,
+  "totalOther": 910,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:10410298-5914-4739-a1e4-898dbd865b17",
+      "company": "Hudson River Trading",
+      "title": "Data Scientist Intern",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
+      "location": "NYC",
+      "datePosted": 1790117294,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
+      "company": "Rippling",
+      "title": "Full Stack Software Engineer Intern",
+      "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+      "location": "Seattle, WA, SF, NYC",
+      "datePosted": 1790115654,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:fff73d24-2557-417b-a791-58567415f245",
+      "company": "Rippling",
+      "title": "Software Engineer Intern - Backend Focused",
+      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "location": "Seattle, WA, SF, NYC",
+      "datePosted": 1790115651,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:140c2da4-0a49-45bd-b29d-c799ab7b15d7",
+      "company": "TikTok",
+      "title": "Data Engineer Intern - Data Platform - TikTok BP",
+      "url": "https://lifeattiktok.com/search/7681783406632782085",
+      "location": "San Jose, CA",
+      "datePosted": 1790115275,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:d21b7b94-4ec6-4789-9893-f5bcb8a6d2b8",
+      "company": "Tesla",
+      "title": "Robotics Modeling & Simulation Engineer Intern",
+      "url": "https://www.tesla.com/careers/search/job/284436",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790115058,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab17988f9692ca98b049dc5",
       "company": "IBM",
@@ -765,6 +820,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:e85fe564-c92c-4c56-b2ce-41f4ca778811",
+      "company": "RTX",
+      "title": "Operations Software Engineering Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620",
+      "location": "Burnsville, MN",
+      "datePosted": 1790035200,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "simplify:52e1ca75-9907-44e4-9bde-6834837fe9e3",
       "company": "Qualcomm",
       "title": "Backend Software Engineer - Software Engineering",
@@ -1255,72 +1321,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007",
       "location": "Quincy, MA",
       "datePosted": 1789509978,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a529ee18-b6a1-4596-bc3a-31cb1890b708",
-      "company": "Anduril",
-      "title": "Flight Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007",
-      "location": "Costa Mesa, CA",
-      "datePosted": 1789509902,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:82c69acd-73ca-4a6f-b334-fd16a295ccbf",
-      "company": "Apple",
-      "title": "Systems Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200683808",
-      "location": "San Diego, CA",
-      "datePosted": 1789509819,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8761ed1a-63bf-43df-8b6b-4a034fbf86c8",
-      "company": "General Dynamics",
-      "title": "Engineer Intern - Software Engineering",
-      "url": "https://careers-gdms.icims.com/jobs/74953/job?mobile=true&needsRedirect=false",
-      "location": "Bloomington, MN",
-      "datePosted": 1789481778,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8531a8a8-615c-4eb3-8f19-b6a80d1d5d15",
-      "company": "OpenAI",
-      "title": "Software Engineer - Applied Emerging Talent",
-      "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true",
-      "location": "SF",
-      "datePosted": 1789435486,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d3c0c779-480d-4810-9393-88d215aa5e7e",
-      "company": "DoorDash",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
-      "location": "Seattle, WA, SF, LA, NYC, Sunnyvale, CA",
-      "datePosted": 1789435263,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:8d49edaf-5e5e-49b5-8b0e-1c75d2c04f76",
-      "company": "Tesla",
-      "title": "Computer Vision Engineer Intern - Cell Engineering",
-      "url": "https://www.tesla.com/careers/search/job/283290",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789434627,
       "source": "aggregator",
       "season": null,
       "isNew": false
