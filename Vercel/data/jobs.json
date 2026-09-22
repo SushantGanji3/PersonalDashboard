@@ -1,20 +1,53 @@
 {
-  "generatedAt": "2026-09-22T11:30:19Z",
-  "totalOpen": 1196,
-  "totalNewgrad": 290,
+  "generatedAt": "2026-09-22T11:40:16Z",
+  "totalOpen": 1199,
+  "totalNewgrad": 293,
   "totalOther": 906,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab2617b78c69ff506c3e6c1",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab2617b78c69ff506c3e6c1",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790050059,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a96257bc8763a3a87ffebef",
       "company": "Emerson",
       "title": "Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6a96257bc8763a3a87ffebef",
       "location": "Houston, TX; Shakopee, MN",
-      "datePosted": 1790048327,
+      "datePosted": 1790049520,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "company": "Garmin",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
+      "location": "Chandler, AZ",
+      "datePosted": 1790049272,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a50f294bf63b66c79977871",
+      "company": "DRW",
+      "title": "Trade Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a50f294bf63b66c79977871",
+      "location": "Chicago, IL",
+      "datePosted": 1790049046,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8caf8c581f2d7bfdfe53a7",
@@ -743,39 +776,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
-      "company": "The Tatitlek Corporation",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
-      "location": "United States",
-      "datePosted": 1790013678,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab17a8fd2a93d5a97ebaf1b",
-      "company": "State Street",
-      "title": "Software Engineer - REST API Development, Officer",
-      "url": "https://jobright.ai/jobs/info/6ab17a8fd2a93d5a97ebaf1b",
-      "location": "Burlington, MA",
-      "datePosted": 1790013261,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1cd90d43eb922ca0c11d7",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
-      "url": "https://jobright.ai/jobs/info/6ab1cd90d43eb922ca0c11d7",
-      "location": "Plymouth, MI",
-      "datePosted": 1790012192,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:26e7fc97-03fa-4445-8338-fdad5cb0812c",
       "company": "Mercury",
       "title": "Software Engineering Intern - Spring 2027",
@@ -1004,6 +1004,17 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
+      "location": "Sterling, VA",
+      "datePosted": 1789689600,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
       "location": "Seattle, WA",
       "datePosted": 1789434532,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f55553b1-9d7d-499d-98ac-d78d07cfb143",
-      "company": "Apple",
-      "title": "Hardware Systems Engineer - Board Design",
-      "url": "https://jobs.apple.com/en-us/details/200683615",
-      "location": "Cupertino, CA",
-      "datePosted": 1789434270,
       "source": "aggregator",
       "season": null,
       "isNew": false
