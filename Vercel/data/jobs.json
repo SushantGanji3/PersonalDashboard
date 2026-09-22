@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T14:30:21Z",
-  "totalOpen": 1199,
-  "totalNewgrad": 292,
+  "generatedAt": "2026-09-22T14:40:17Z",
+  "totalOpen": 1197,
+  "totalNewgrad": 290,
   "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790058672,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9632fe3843db015990a01f",
@@ -25,7 +25,7 @@
       "datePosted": 1790057974,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4ec9bc397d8d353c28a544",
@@ -169,6 +169,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9c9faeff87f571fc9b92a",
+      "company": "Skild AI",
+      "title": "Deep Learning Manipulation Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa9c9faeff87f571fc9b92a",
+      "location": "San Francisco, CA",
+      "datePosted": 1790050222,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a96257bc8763a3a87ffebef",
@@ -760,17 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6ab19e15d2a93d5a97ebbe14",
       "location": "Arlington, VA; Huntsville, AL",
       "datePosted": 1790020115,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1d39e23005eee3545cb59",
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab1d39e23005eee3545cb59",
-      "location": "Dahlgren, VA; Fredericksburg, VA",
-      "datePosted": 1790019916,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
