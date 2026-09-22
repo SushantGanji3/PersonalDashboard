@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T05:40:18Z",
-  "totalOpen": 1204,
-  "totalNewgrad": 296,
+  "generatedAt": "2026-09-22T05:50:15Z",
+  "totalOpen": 1202,
+  "totalNewgrad": 294,
   "totalOther": 908,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -124,7 +124,7 @@
       "datePosted": 1790027435,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab208a9d43eb922ca0c1ced",
@@ -135,7 +135,7 @@
       "datePosted": 1790027321,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab2083cf9692ca98b04c889",
@@ -146,7 +146,7 @@
       "datePosted": 1790027212,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab2076af9692ca98b04c832",
@@ -157,7 +157,7 @@
       "datePosted": 1790027002,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a552a674119652ff3863ceb",
@@ -179,7 +179,7 @@
       "datePosted": 1790024720,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1b15cd43eb922ca0c09c5",
@@ -534,17 +534,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab1c258191d8c340dbdcc1f",
-      "company": "LERETA, LLC",
-      "title": "Data Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab1c258191d8c340dbdcc1f",
-      "location": "Pomona, CA",
-      "datePosted": 1790009320,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab1bda832552369083e4195",
       "company": "Rivian",
       "title": "Software Engineering Intern - Design Automation (Spring 2027 Co-Op)",
@@ -749,6 +738,17 @@
       "url": "https://jobright.ai/jobs/info/6ab1b2efd43eb922ca0c0b91",
       "location": "San Francisco, CA",
       "datePosted": 1790005375,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab15f95191d8c340dbda3c6",
+      "company": "General Dynamics",
+      "title": "FCS Auxiliary and Training Systems - Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab15f95191d8c340dbda3c6",
+      "location": "Pittsfield, MA",
+      "datePosted": 1790005339,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
