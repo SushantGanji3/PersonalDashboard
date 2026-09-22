@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T21:20:19Z",
+  "generatedAt": "2026-09-22T21:30:19Z",
   "totalOpen": 1183,
   "totalNewgrad": 279,
   "totalOther": 904,
@@ -15,6 +15,83 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2cf298254c44790e577e3",
+      "company": "IBM",
+      "title": "Quantum Infrastructure Intern 2027 - SRE",
+      "url": "https://jobright.ai/jobs/info/6ab2cf298254c44790e577e3",
+      "location": "Yorktown Heights, NY",
+      "datePosted": 1790083102,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2e14e8254c44790e57cfd",
+      "company": "Emerson",
+      "title": "Graduate Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ab2e14e8254c44790e57cfd",
+      "location": "Round Rock, TX",
+      "datePosted": 1790082782,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8de35f581f2d7bfdfe9c25",
+      "company": "Torc Robotics",
+      "title": "ML Engineer, I - MLOps Framework",
+      "url": "https://jobright.ai/jobs/info/6a8de35f581f2d7bfdfe9c25",
+      "location": "United States",
+      "datePosted": 1790082689,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2e08f1e4847ddae916e53",
+      "company": "Tyler Technologies",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ab2e08f1e4847ddae916e53",
+      "location": "Yarmouth, ME",
+      "datePosted": 1790082591,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2c3ff326574570a002f38",
+      "company": "SpaceX",
+      "title": "AI Engineer, Platform Infrastructure, Special Programs",
+      "url": "https://jobright.ai/jobs/info/6ab2c3ff326574570a002f38",
+      "location": "Washington, DC",
+      "datePosted": 1790082552,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2a6708254c44790e5649b",
+      "company": "GuideStone Financial Resources",
+      "title": "Summer Intern - Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ab2a6708254c44790e5649b",
+      "location": "Dallas, TX",
+      "datePosted": 1790082387,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2dfc178c69ff506c40fad",
+      "company": "Lean TECHniques",
+      "title": "Software Engineer Intern - Hybrid",
+      "url": "https://jobright.ai/jobs/info/6ab2dfc178c69ff506c40fad",
+      "location": "Johnston, IA",
+      "datePosted": 1790082385,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab29ade8254c44790e55e99",
@@ -45,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6ab28f271e4847ddae914c5b",
       "location": "Beachwood, OH",
       "datePosted": 1790082016,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2c3ff326574570a002f38",
-      "company": "SpaceX",
-      "title": "AI Engineer, Platform Infrastructure, Special Programs",
-      "url": "https://jobright.ai/jobs/info/6ab2c3ff326574570a002f38",
-      "location": "Washington, DC",
-      "datePosted": 1790081717,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -193,15 +259,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2c42830340229a322f943",
+      "id": "newgrad-jobs:6ab2c2931e4847ddae916406",
       "company": "Idaho National Laboratory",
       "title": "Computer Security Research Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ab2c42830340229a322f943",
+      "url": "https://jobright.ai/jobs/info/6ab2c2931e4847ddae916406",
       "location": "Idaho Falls, ID",
       "datePosted": 1790078265,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab2c454326574570a002f6b",
@@ -243,17 +309,6 @@
       "url": "https://jobright.ai/jobs/info/6ab2cf34326574570a003426",
       "location": "United States",
       "datePosted": 1790078148,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2cf298254c44790e577e3",
-      "company": "IBM",
-      "title": "Quantum Infrastructure Intern 2027 - SRE",
-      "url": "https://jobright.ai/jobs/info/6ab2cf298254c44790e577e3",
-      "location": "Yorktown Heights, NY",
-      "datePosted": 1790078137,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -400,6 +455,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95fec94c22023a07937674",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://jobright.ai/jobs/info/6a95fec94c22023a07937674",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Toronto, ON",
+      "datePosted": 1790075511,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a967984d13b4819f39dc0cf",
@@ -608,72 +674,6 @@
       "datePosted": 1790066349,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaab8ee76707040fb081b70",
-      "company": "CACI International Inc",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aaab8ee76707040fb081b70",
-      "location": "San Antonio, TX",
-      "datePosted": 1790066343,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a962810c8763a3a87ffec45",
-      "company": "Whatnot",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a962810c8763a3a87ffec45",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790066248,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9666ead13b4819f39db95a",
-      "company": "Vermeer Corporation",
-      "title": "Embedded Software Engineer Internship Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a9666ead13b4819f39db95a",
-      "location": "Pella, IA",
-      "datePosted": 1790065962,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a965f92cabc9f6703e1d210",
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL",
-      "url": "https://jobright.ai/jobs/info/6a965f92cabc9f6703e1d210",
-      "location": "Sunrise, FL",
-      "datePosted": 1790065909,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa831bd82e82a31997c460f",
-      "company": "CACI International Inc",
-      "title": "Junior Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa831bd82e82a31997c460f",
-      "location": "King George, VA",
-      "datePosted": 1790065875,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7a560c67a1ad0bc53d3024",
-      "company": "DV Trading LLC",
-      "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
-      "url": "https://jobright.ai/jobs/info/6a7a560c67a1ad0bc53d3024",
-      "location": "New York, NY",
-      "datePosted": 1790065170,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
