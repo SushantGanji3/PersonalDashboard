@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-09-22T14:40:17Z",
+  "generatedAt": "2026-09-22T14:50:18Z",
   "totalOpen": 1197,
   "totalNewgrad": 290,
   "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab28b498254c44790e55955",
+      "company": "FM",
+      "title": "Software Engineering Co-op",
+      "url": "https://jobright.ai/jobs/info/6ab28b498254c44790e55955",
+      "location": "United States",
+      "datePosted": 1790060761,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab289e730340229a322df4a",
+      "company": "Geneva Trading",
+      "title": "Python Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab289e730340229a322df4a",
+      "location": "Chicago, IL",
+      "datePosted": 1790060407,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a486a44971cd25b06f942af",
+      "company": "Optiver",
+      "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+      "url": "https://jobright.ai/jobs/info/6a486a44971cd25b06f942af",
+      "location": "Chicago, IL; Austin, TX",
+      "datePosted": 1790060307,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95d42d9fcec5442372f78d",
+      "company": "Everlaw",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a95d42d9fcec5442372f78d",
+      "location": "Oakland, CA",
+      "datePosted": 1790060277,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95d1c53843db01599076e3",
+      "company": "Talcott Financial Group",
+      "title": "IT Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6a95d1c53843db01599076e3",
+      "location": "Hartford, CT",
+      "datePosted": 1790059434,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95ac504c22023a07934fcb",
+      "company": "Google DeepMind",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a95ac504c22023a07934fcb",
+      "location": "Mountain View, CA",
+      "datePosted": 1790059431,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab284ed78c69ff506c3ec4f",
+      "company": "Optiver",
+      "title": "Software Engineer Co-Op (January - April 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab284ed78c69ff506c3ec4f",
+      "location": "Chicago, IL",
+      "datePosted": 1790059133,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a95c3b94c22023a07935a09",
       "company": "C3 AI",
@@ -94,17 +171,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95ac504c22023a07934fcb",
-      "company": "Google DeepMind",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a95ac504c22023a07934fcb",
-      "location": "Mountain View, CA",
-      "datePosted": 1790054783,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab272041e4847ddae914601",
       "company": "Relay",
       "title": "Business Application Developer",
@@ -138,21 +204,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95d1c53843db01599076e3",
-      "company": "Talcott Financial Group",
-      "title": "IT Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6a95d1c53843db01599076e3",
-      "location": "Hartford, CT",
-      "datePosted": 1790053512,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1790053283,
       "source": "newgrad-jobs",
@@ -179,7 +234,7 @@
       "datePosted": 1790050222,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a96257bc8763a3a87ffebef",
@@ -268,6 +323,17 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6978d8a739f7f96cc6d13443",
+      "company": "The D. E. Shaw Group",
+      "title": "Quant Systems: Systems Developer (New York)",
+      "url": "https://jobright.ai/jobs/info/6978d8a739f7f96cc6d13443",
+      "location": "New York, NY",
+      "datePosted": 1790047469,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a95fbe53843db0159908b58",
@@ -705,72 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6ab1b15cd43eb922ca0c09c5",
       "location": "Carlsbad, CA",
       "datePosted": 1790024355,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1960af9692ca98b04a80b",
-      "company": "Williams AV",
-      "title": "Software Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6ab1960af9692ca98b04a80b",
-      "location": "Eden Prairie, MN",
-      "datePosted": 1790023762,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1c433d43eb922ca0c0fd8",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab1c433d43eb922ca0c0fd8",
-      "location": "Mountain View, CA",
-      "datePosted": 1790022677,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1a2acd43eb922ca0c03d1",
-      "company": "Trane Technologies",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab1a2acd43eb922ca0c03d1",
-      "location": "La Crosse, WI",
-      "datePosted": 1790021882,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab15bf532552369083e18f5",
-      "company": "Leidos",
-      "title": "Jr. Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab15bf532552369083e18f5",
-      "location": "Tucson, AZ",
-      "datePosted": 1790021774,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1c8c1d43eb922ca0c1107",
-      "company": "Daimler Truck North America",
-      "title": "Applied AI Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab1c8c1d43eb922ca0c1107",
-      "location": "Portland, OR",
-      "datePosted": 1790020297,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab19e15d2a93d5a97ebbe14",
-      "company": "LG CNS",
-      "title": "Junior Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab19e15d2a93d5a97ebbe14",
-      "location": "Arlington, VA; Huntsville, AL",
-      "datePosted": 1790020115,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
