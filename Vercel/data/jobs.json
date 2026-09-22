@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-22T15:30:20Z",
-  "totalOpen": 1193,
+  "generatedAt": "2026-09-22T15:40:15Z",
+  "totalOpen": 1194,
   "totalNewgrad": 286,
-  "totalOther": 907,
+  "totalOther": 908,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:3a1393eb-1a4c-4277-aa93-46b222c507b8",
+      "company": "Optiver",
+      "title": "Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002",
+      "location": "Chicago, IL",
+      "datePosted": 1790087364,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab19fe9d43eb922ca0c0283",
       "company": "Eaton",
@@ -14,7 +25,7 @@
       "datePosted": 1790061592,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1d21cf9692ca98b04bec2",
@@ -25,7 +36,7 @@
       "datePosted": 1790061484,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1a0eb191d8c340dbdbf57",
@@ -36,7 +47,7 @@
       "datePosted": 1790061471,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab28b498254c44790e55955",
@@ -1310,17 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/283290",
       "location": "Palo Alto, CA",
       "datePosted": 1789434627,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
-      "company": "Atlassian",
-      "title": "Software Engineer",
-      "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
-      "location": "Seattle, WA",
-      "datePosted": 1789434532,
       "source": "aggregator",
       "season": null,
       "isNew": false
