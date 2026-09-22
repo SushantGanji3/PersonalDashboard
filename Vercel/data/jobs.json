@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T16:40:18Z",
-  "totalOpen": 1191,
-  "totalNewgrad": 283,
+  "generatedAt": "2026-09-22T16:50:19Z",
+  "totalOpen": 1189,
+  "totalNewgrad": 281,
   "totalOther": 908,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,17 @@
       "location": "Chicago, IL",
       "datePosted": 1790087364,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab28b498254c44790e55955",
+      "company": "FM",
+      "title": "Software Engineering Co-op",
+      "url": "https://jobright.ai/jobs/info/6ab28b498254c44790e55955",
+      "location": "United States",
+      "datePosted": 1790066882,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -50,10 +61,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab13c43d43eb922ca0bd877",
+      "id": "newgrad-jobs:6aa8078482e82a31997c3568",
       "company": "CACI International Inc",
       "title": "JR. ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6ab13c43d43eb922ca0bd877",
+      "url": "https://jobright.ai/jobs/info/6aa8078482e82a31997c3568",
       "location": "Chantilly, VA",
       "datePosted": 1790065180,
       "source": "newgrad-jobs",
@@ -105,12 +116,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95f7794c22023a07937320",
+      "id": "newgrad-jobs:6a95fc063843db0159908b79",
       "company": "Silicon Labs",
       "title": "DevOps Platform Engineer I",
-      "url": "https://jobright.ai/jobs/info/6a95f7794c22023a07937320",
+      "url": "https://jobright.ai/jobs/info/6a95fc063843db0159908b79",
       "location": "Austin, TX",
       "datePosted": 1790064578,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
+      "company": "Virtu Financial",
+      "title": "Software Engineer - Desktop Frontend Developer (C#/Winforms)",
+      "url": "https://jobright.ai/jobs/info/6a51d234bf63b66c7997d7d9",
+      "location": "New York, NY",
+      "datePosted": 1790064371,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -270,17 +292,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab28b498254c44790e55955",
-      "company": "FM",
-      "title": "Software Engineering Co-op",
-      "url": "https://jobright.ai/jobs/info/6ab28b498254c44790e55955",
-      "location": "United States",
-      "datePosted": 1790060761,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a486a44971cd25b06f942af",
       "company": "Optiver",
       "title": "Software Engineer Intern (Summer 2027 - Chicago)",
@@ -435,15 +446,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1790053283,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a968641455eaf6a08c17d4e",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Software Engineer Intern (Security & Privacy) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a968641455eaf6a08c17d4e",
+      "location": "San Jose, CA",
+      "datePosted": 1790052904,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a693d8805bae84301b5b392",
@@ -463,6 +485,17 @@
       "url": "https://jobright.ai/jobs/info/6aa9c9faeff87f571fc9b92a",
       "location": "San Francisco, CA",
       "datePosted": 1790050222,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95fbe53843db0159908b58",
+      "company": "Deloitte",
+      "title": "Cyber Oracle Cloud Security \u2013 Analyst / Security Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a95fbe53843db0159908b58",
+      "location": "Milwaukee, WI; Charlotte, NC; Tampa, FL; Boston, MA; Washington, DC; New York, NY; Seattle, WA; Austin, TX; San Francisco, CA; Kansas City, MO; Raleigh, NC; Miami, FL; Costa Mesa, CA; McLean, VA; San Diego, CA; Denver, CO; Philadelphia, PA; Houston, TX; Detroit, MI; Tempe, AZ; Atlanta, GA; Los Angeles, CA; Richmond, VA; Pittsburgh, PA; Morristown, NJ; Minneapolis, MN; San Jose, CA; Chicago, IL; Dallas, TX",
+      "datePosted": 1790049574,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -567,17 +600,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95fbe53843db0159908b58",
-      "company": "Deloitte",
-      "title": "Cyber Oracle Cloud Security \u2013 Analyst / Security Engineer I",
-      "url": "https://jobright.ai/jobs/info/6a95fbe53843db0159908b58",
-      "location": "Milwaukee, WI; Charlotte, NC; Tampa, FL; Boston, MA; Washington, DC; New York, NY; Seattle, WA; Austin, TX; San Francisco, CA; Kansas City, MO; Raleigh, NC; Miami, FL; Costa Mesa, CA; McLean, VA; San Diego, CA; Denver, CO; Philadelphia, PA; Houston, TX; Detroit, MI; Tempe, AZ; Atlanta, GA; Los Angeles, CA; Richmond, VA; Pittsburgh, PA; Morristown, NJ; Minneapolis, MN; San Jose, CA; Chicago, IL; Dallas, TX",
-      "datePosted": 1790046807,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9625809fcec54423731c04",
       "company": "Emerson",
       "title": "Software Engineering Spring Co-op (Jan27- May27)",
@@ -666,17 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a63960d0c8e2b4f36dceacd",
-      "company": "mthree",
-      "title": "Python Developer",
-      "url": "https://jobright.ai/jobs/info/6a63960d0c8e2b4f36dceacd",
-      "location": "New York, NY",
-      "datePosted": 1790040644,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6747a804-3d64-4369-a51e-9309bb720e0c",
       "company": "Epic Games",
       "title": "Engine Programmer Intern",
@@ -739,17 +750,6 @@
       "location": "Palo Alto, CA",
       "datePosted": 1790039211,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1eb8923005eee3545cf31",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer, Launch Software",
-      "url": "https://jobright.ai/jobs/info/6ab1eb8923005eee3545cf31",
-      "location": "Hawthorne, CA",
-      "datePosted": 1790038511,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
