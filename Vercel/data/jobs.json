@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T23:10:17Z",
-  "totalOpen": 1201,
-  "totalNewgrad": 291,
+  "generatedAt": "2026-09-22T23:20:20Z",
+  "totalOpen": 1202,
+  "totalNewgrad": 292,
   "totalOther": 910,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790117294,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
@@ -25,7 +25,7 @@
       "datePosted": 1790115654,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fff73d24-2557-417b-a791-58567415f245",
@@ -36,7 +36,7 @@
       "datePosted": 1790115651,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:140c2da4-0a49-45bd-b29d-c799ab7b15d7",
@@ -47,7 +47,7 @@
       "datePosted": 1790115275,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d21b7b94-4ec6-4789-9893-f5bcb8a6d2b8",
@@ -58,7 +58,51 @@
       "datePosted": 1790115058,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2fcee8254c44790e58917",
+      "company": "Abnormal AI",
+      "title": "Software Engineer 1 - Data Platforms",
+      "url": "https://jobright.ai/jobs/info/6ab2fcee8254c44790e58917",
+      "location": "United States",
+      "datePosted": 1790089854,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2c42830340229a322f942",
+      "company": "Point",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab2c42830340229a322f942",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790089181,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2ac2b326574570a002497",
+      "company": "IDI: Insulation Distributors Inc.",
+      "title": "Software Developer & Product Support",
+      "url": "https://jobright.ai/jobs/info/6ab2ac2b326574570a002497",
+      "location": "Chanhassen, MN",
+      "datePosted": 1790089179,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2b3bd78c69ff506c400b1",
+      "company": "Esri",
+      "title": "Software Development Engineer I \u2013 Agentic AI, ArcGIS Enterprise",
+      "url": "https://jobright.ai/jobs/info/6ab2b3bd78c69ff506c400b1",
+      "location": "Redlands, CA",
+      "datePosted": 1790088584,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab17988f9692ca98b049dc5",
@@ -67,17 +111,6 @@
       "url": "https://jobright.ai/jobs/info/6ab17988f9692ca98b049dc5",
       "location": "Yorktown Heights, NY; San Jose, CA; Cambridge, MA",
       "datePosted": 1790088578,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2c42830340229a322f942",
-      "company": "Point",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab2c42830340229a322f942",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790088523,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -100,6 +133,17 @@
       "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
       "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
       "datePosted": 1790088507,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2b51f8254c44790e56e3d",
+      "company": "Rivian",
+      "title": "Systems Architecture Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab2b51f8254c44790e56e3d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790088470,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -479,17 +523,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2b3bd78c69ff506c400b1",
-      "company": "Esri",
-      "title": "Software Development Engineer I \u2013 Agentic AI, ArcGIS Enterprise",
-      "url": "https://jobright.ai/jobs/info/6ab2b3bd78c69ff506c400b1",
-      "location": "Redlands, CA",
-      "datePosted": 1790085216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab2ea9a326574570a003ae7",
       "company": "Grow Therapy",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -498,17 +531,6 @@
       "datePosted": 1790085162,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2ac2b326574570a002497",
-      "company": "IDI: Insulation Distributors Inc.",
-      "title": "Software Developer & Product Support",
-      "url": "https://jobright.ai/jobs/info/6ab2ac2b326574570a002497",
-      "location": "Chanhassen, MN",
-      "datePosted": 1790085083,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -523,10 +545,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab199e7191d8c340dbdbbfe",
+      "id": "newgrad-jobs:6aa3a77e5c11cce3603656c6",
       "company": "Amentum",
       "title": "C/C++Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ab199e7191d8c340dbdbbfe",
+      "url": "https://jobright.ai/jobs/info/6aa3a77e5c11cce3603656c6",
       "location": "Dahlgren, VA",
       "datePosted": 1790084784,
       "source": "newgrad-jobs",
@@ -710,28 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2c4d230340229a322f9c5",
-      "company": "Draper",
-      "title": "Software Machine Learning Engineer MTS1",
-      "url": "https://jobright.ai/jobs/info/6ab2c4d230340229a322f9c5",
-      "location": "Cambridge, MA; Reston, VA",
-      "datePosted": 1790078519,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2c42830340229a322f943",
-      "company": "Idaho National Laboratory",
-      "title": "Computer Security Research Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ab2c42830340229a322f943",
-      "location": "Idaho Falls, ID",
-      "datePosted": 1790078265,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
       "company": "Waymo",
       "title": "Embedded Intern - Software Engineer",
@@ -828,7 +828,7 @@
       "datePosted": 1790035200,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:52e1ca75-9907-44e4-9bde-6834837fe9e3",
