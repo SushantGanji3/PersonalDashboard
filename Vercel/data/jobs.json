@@ -1,20 +1,42 @@
 {
-  "generatedAt": "2026-09-22T11:00:20Z",
-  "totalOpen": 1193,
+  "generatedAt": "2026-09-22T11:10:19Z",
+  "totalOpen": 1192,
   "totalNewgrad": 286,
-  "totalOther": 907,
+  "totalOther": 906,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a7a7e3967a1ad0bc53d3979",
+      "company": "Medpace",
+      "title": "Data Engineer Intern - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6a7a7e3967a1ad0bc53d3979",
+      "location": "Cincinnati, OH",
+      "datePosted": 1790047830,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a95fbe53843db0159908b58",
       "company": "Deloitte",
       "title": "Cyber Oracle Cloud Security \u2013 Analyst / Security Engineer I",
       "url": "https://jobright.ai/jobs/info/6a95fbe53843db0159908b58",
       "location": "Milwaukee, WI; Charlotte, NC; Tampa, FL; Boston, MA; Washington, DC; New York, NY; Seattle, WA; Austin, TX; San Francisco, CA; Kansas City, MO; Raleigh, NC; Miami, FL; Costa Mesa, CA; McLean, VA; San Diego, CA; Denver, CO; Philadelphia, PA; Houston, TX; Detroit, MI; Tempe, AZ; Atlanta, GA; Los Angeles, CA; Richmond, VA; Pittsburgh, PA; Morristown, NJ; Minneapolis, MN; San Jose, CA; Chicago, IL; Dallas, TX",
-      "datePosted": 1790044832,
+      "datePosted": 1790046807,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2089fd2a93d5a97ebd903",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab2089fd2a93d5a97ebd903",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1790045519,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a44e68c824ecd73beef1a4f",
@@ -754,28 +776,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a0f822183d7144289821054",
-      "company": "Ivo",
-      "title": "Software Engineer, Fullstack",
-      "url": "https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "location": "San Francisco, CA",
-      "datePosted": 1790006714,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1b75c191d8c340dbdc9c0",
-      "company": "Penguin Random House UK",
-      "title": "Junior AI Engineer (Open to remote)",
-      "url": "https://jobright.ai/jobs/info/6ab1b75c191d8c340dbdc9c0",
-      "location": "United States",
-      "datePosted": 1790006508,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:26e7fc97-03fa-4445-8338-fdad5cb0812c",
       "company": "Mercury",
       "title": "Software Engineering Intern - Spring 2027",
@@ -1004,17 +1004,6 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
-      "location": "Sterling, VA",
-      "datePosted": 1789689600,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     },
     {
@@ -1321,6 +1310,17 @@
       "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
       "location": "Seattle, WA",
       "datePosted": 1789434532,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:f55553b1-9d7d-499d-98ac-d78d07cfb143",
+      "company": "Apple",
+      "title": "Hardware Systems Engineer - Board Design",
+      "url": "https://jobs.apple.com/en-us/details/200683615",
+      "location": "Cupertino, CA",
+      "datePosted": 1789434270,
       "source": "aggregator",
       "season": null,
       "isNew": false
