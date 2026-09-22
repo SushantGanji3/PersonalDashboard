@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-09-22T09:50:18Z",
+  "generatedAt": "2026-09-22T10:00:21Z",
   "totalOpen": 1197,
   "totalNewgrad": 291,
   "totalOther": 906,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1790042932,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
     {
       "id": "simplify:28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
       "company": "Waymo",
@@ -760,6 +749,17 @@
       "url": "https://jobright.ai/jobs/info/6a51b74dae4052672fe9987b",
       "location": "San Francisco, CA",
       "datePosted": 1790005746,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1781bd2a93d5a97ebadef",
+      "company": "Penumbra, Inc.",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab1781bd2a93d5a97ebadef",
+      "location": "Alameda, CA",
+      "datePosted": 1790005695,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
