@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-23T09:30:20Z",
-  "totalOpen": 1193,
+  "generatedAt": "2026-09-23T09:40:16Z",
+  "totalOpen": 1194,
   "totalNewgrad": 287,
-  "totalOther": 906,
+  "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1790128065,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab390f5be25ca0146e64879",
@@ -25,7 +25,7 @@
       "datePosted": 1790127749,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a71a4079a0ca4480c7d4ee7",
@@ -36,7 +36,7 @@
       "datePosted": 1790127109,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:ffb0610a-df2f-4c18-a196-a2ef4d949d7b",
@@ -156,6 +156,17 @@
       "location": "Los Angeles, CA",
       "datePosted": 1790115932,
       "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
+      "company": "Rippling",
+      "title": "Full Stack Software Engineer Intern",
+      "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+      "location": "Seattle, WA, SF, NYC",
+      "datePosted": 1790115654,
+      "source": "aggregator",
       "season": null,
       "isNew": false
     },
@@ -1309,17 +1320,6 @@
       "title": "Software Engineer Intern - Thrive",
       "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
       "location": "Pittsburgh, PA",
-      "datePosted": 1789511923,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern",
-      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
-      "location": "Seattle, WA, Pittsburgh, PA, NYC",
       "datePosted": 1789511923,
       "source": "aggregator",
       "season": null,
