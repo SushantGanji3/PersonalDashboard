@@ -1,31 +1,141 @@
 {
-  "generatedAt": "2026-09-23T20:10:17Z",
+  "generatedAt": "2026-09-23T20:20:18Z",
   "totalOpen": 1183,
   "totalNewgrad": 279,
   "totalOther": 904,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6ab424160e0ae54eeea46ddb",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab424160e0ae54eeea46ddb",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790165414,
+      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
+      "company": "Figma",
+      "title": "Data Engineer Intern (2027)",
+      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1790166988,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab4060ad2f5fbd604be1033",
+      "company": "State Farm",
+      "title": "Summer 2027 Intern - HR&D - Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ab4060ad2f5fbd604be1033",
+      "location": "Bloomington, IL; Richardson, TX; Dunwoody, GA; Tempe, AZ",
+      "datePosted": 1790166675,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a53f3128576ec69c0151779",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a53f3128576ec69c0151779",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790166492,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab4241655e9168cf5ea4b31",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab4241655e9168cf5ea4b31",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790165414,
+      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
+      "location": "New York, NY",
+      "datePosted": 1790166423,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5529e1f2c46727285f02da",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a5529e1f2c46727285f02da",
+      "location": "New York, NY; Seattle, WA; Washington, DC",
+      "datePosted": 1790166387,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
+      "company": "Palantir",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
+      "location": "New York, NY",
+      "datePosted": 1790166359,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a429849ff87fd527f984c59",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Defense Tech",
+      "url": "https://jobright.ai/jobs/info/6a429849ff87fd527f984c59",
+      "location": "Palo Alto, CA; Washington, DC",
+      "datePosted": 1790166359,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a42d0df6a9c2774b3fa7686",
+      "company": "Palantir",
+      "title": "Privacy and Civil Liberties Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a42d0df6a9c2774b3fa7686",
+      "location": "New York, NY",
+      "datePosted": 1790166358,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a557daaae07d60a8d0119c6",
+      "location": "Seattle, WA",
+      "datePosted": 1790166355,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac27ea2e757fcb5c8b4004",
+      "company": "GM Financial",
+      "title": "Intern - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4004",
+      "location": "Arlington, TX",
+      "datePosted": 1790166017,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa1b0543272060a8e3f18a6",
+      "company": "American Equity",
+      "title": "IT Intern, Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa1b0543272060a8e3f18a6",
+      "location": "Des Moines, IA",
+      "datePosted": 1790165931,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab426190e0ae54eeea46e6d",
+      "company": "ZipRecruiter",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ab426190e0ae54eeea46e6d",
+      "location": "Santa Monica, CA",
+      "datePosted": 1790165929,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab4236dd2f5fbd604be1cc0",
@@ -50,89 +160,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab40f40ef911c35dffa3198",
+      "company": "Sonos, Inc.",
+      "title": "Software Engineering Co-op (Cloud)",
+      "url": "https://jobright.ai/jobs/info/6ab40f40ef911c35dffa3198",
+      "location": "Boston, MA",
+      "datePosted": 1790164595,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab420a4d2f5fbd604be1bfa",
       "company": "Noblis",
       "title": "Software Developer - Multiple Levels (Cleared)",
       "url": "https://jobright.ai/jobs/info/6ab420a4d2f5fbd604be1bfa",
       "location": "Reston, VA",
       "datePosted": 1790164532,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5fd8fa8c7fd835513bb729",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a5fd8fa8c7fd835513bb729",
-      "location": "Denver, CO; New York, NY",
-      "datePosted": 1790164282,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5529f32084cd792b476915",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Production Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a5529f32084cd792b476915",
-      "location": "New York, NY; Seattle, WA",
-      "datePosted": 1790164281,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a58747972fe7a7b98dce6e6",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Defense Tech",
-      "url": "https://jobright.ai/jobs/info/6a58747972fe7a7b98dce6e6",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790164272,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
-      "location": "New York, NY",
-      "datePosted": 1790164269,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
-      "company": "Palantir",
-      "title": "Software Engineer - Apollo Platform",
-      "url": "https://jobright.ai/jobs/info/6a557daaae07d60a8d0119c6",
-      "location": "Seattle, WA",
-      "datePosted": 1790164266,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
-      "company": "Palantir",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
-      "location": "New York, NY",
-      "datePosted": 1790164266,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a42d0df6a9c2774b3fa7686",
-      "company": "Palantir",
-      "title": "Privacy and Civil Liberties Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a42d0df6a9c2774b3fa7686",
-      "location": "New York, NY",
-      "datePosted": 1790164257,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -358,17 +402,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab4060ad2f5fbd604be1033",
-      "company": "State Farm",
-      "title": "Summer 2027 Intern - HR&D - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ab4060ad2f5fbd604be1033",
-      "location": "Bloomington, IL; Richardson, TX; Dunwoody, GA; Tempe, AZ",
-      "datePosted": 1790157722,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a96c047455eaf6a08c1874c",
       "company": "SRC",
       "title": "Software Engineer (Intern - Summer 2027)",
@@ -457,17 +490,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab3ff110e0ae54eeea45cf8",
-      "company": "GM Financial",
-      "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab3ff110e0ae54eeea45cf8",
-      "location": "Arlington, TX",
-      "datePosted": 1790155937,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab3fded7bd0813713314da5",
       "company": "The Marlin Alliance, Inc.",
       "title": "Junior Power Platform Developer",
@@ -534,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9749f5455eaf6a08c1bfa2",
+      "id": "newgrad-jobs:6a974c69d13b4819f39e06c3",
       "company": "Northern Trust",
       "title": "Technology Intern \u2013 Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a9749f5455eaf6a08c1bfa2",
+      "url": "https://jobright.ai/jobs/info/6a974c69d13b4819f39e06c3",
       "location": "Chicago, IL",
       "datePosted": 1790154102,
       "source": "newgrad-jobs",
@@ -639,28 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a96c059246d697dcee01226",
       "location": "Syracuse, NY; Fairborn, OH",
       "datePosted": 1790151457,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab30e1178c69ff506c4236a",
-      "company": "Charles Schwab",
-      "title": ".NET/Angular Developer",
-      "url": "https://jobright.ai/jobs/info/6ab30e1178c69ff506c4236a",
-      "location": "Austin, TX",
-      "datePosted": 1790151375,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9718c6f5337b2cf731ff94",
-      "company": "HP IQ",
-      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a9718c6f5337b2cf731ff94",
-      "location": "San Francisco, CA",
-      "datePosted": 1790150628,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
