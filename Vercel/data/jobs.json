@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-23T09:00:19Z",
-  "totalOpen": 1195,
+  "generatedAt": "2026-09-23T09:10:37Z",
+  "totalOpen": 1193,
   "totalNewgrad": 287,
-  "totalOther": 908,
+  "totalOther": 906,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -123,17 +123,6 @@
       "location": "Los Angeles, CA",
       "datePosted": 1790115932,
       "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
-      "company": "Rippling",
-      "title": "Full Stack Software Engineer Intern",
-      "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-      "location": "Seattle, WA, SF, NYC",
-      "datePosted": 1790115654,
-      "source": "aggregator",
       "season": null,
       "isNew": false
     },
@@ -1139,17 +1128,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
-      "location": "Sterling, VA",
-      "datePosted": 1789689600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:1dba0295-866c-4e5d-9de1-ecbd8f036a9b",
       "company": "Tower Research Capital",
       "title": "Software Engineer Intern - Summer 2027",
@@ -1321,6 +1299,28 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
       "location": "Marlborough, MA",
       "datePosted": 1789516800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:99b19d5b-03dd-438a-91db-fbb3b10e7201",
+      "company": "Duolingo",
+      "title": "Software Engineer Intern - Thrive",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
+      "location": "Pittsburgh, PA",
+      "datePosted": 1789511923,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
+      "company": "Duolingo",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+      "location": "Seattle, WA, Pittsburgh, PA, NYC",
+      "datePosted": 1789511923,
       "source": "aggregator",
       "season": null,
       "isNew": false
