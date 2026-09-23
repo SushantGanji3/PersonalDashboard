@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-23T01:30:22Z",
-  "totalOpen": 1203,
+  "generatedAt": "2026-09-23T01:40:18Z",
+  "totalOpen": 1205,
   "totalNewgrad": 293,
-  "totalOther": 910,
+  "totalOther": 912,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:ffb0610a-df2f-4c18-a196-a2ef4d949d7b",
+      "company": "Astranis",
+      "title": "Backend Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+      "location": "SF",
+      "datePosted": 1790126217,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:5b597914-e71c-489d-b3ad-77a3e48f7c58",
+      "company": "Astranis",
+      "title": "Software Engineer Enterprise Systems Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+      "location": "SF",
+      "datePosted": 1790126216,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
+      "company": "Microsoft",
+      "title": "Software Engineer - Cleared",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
+      "location": "Reston, VA",
+      "datePosted": 1790125610,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:10410298-5914-4739-a1e4-898dbd865b17",
       "company": "Hudson River Trading",
@@ -37,6 +70,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:4592c922-5f50-4174-9938-79cc848b1e39",
+      "company": "Cisco",
+      "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
+      "url": "https://careers.cisco.com/global/en/job/2025313",
+      "location": "Austin, TX",
+      "datePosted": 1790115641,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:140c2da4-0a49-45bd-b29d-c799ab7b15d7",
@@ -831,6 +875,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:6a0248da-3508-46b4-90f1-07d13627e1c1",
+      "company": "Cisco",
+      "title": "Software Engineer Compiler 1",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313",
+      "location": "Austin, TX",
+      "datePosted": 1790035200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:52e1ca75-9907-44e4-9bde-6834837fe9e3",
       "company": "Qualcomm",
       "title": "Backend Software Engineer - Software Engineering",
@@ -1266,61 +1321,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
       "location": "Marlborough, MA",
       "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:99b19d5b-03dd-438a-91db-fbb3b10e7201",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern - Thrive",
-      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
-      "location": "Pittsburgh, PA",
-      "datePosted": 1789511923,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern",
-      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
-      "location": "Seattle, WA, Pittsburgh, PA, NYC",
-      "datePosted": 1789511923,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d4c19c36-ef9a-4709-85c2-e54045c626b7",
-      "company": "Cerebras",
-      "title": "Software Engineer - Kernel Reliability",
-      "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true",
-      "location": "Canada, United States",
-      "datePosted": 1789511063,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ad6bb21b-4869-4a5e-a8c3-152a8089c35f",
-      "company": "Texas Instruments",
-      "title": "Data Engineer - Career Accelerator Program",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
-      "location": "Richardson, TX",
-      "datePosted": 1789510584,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e5537bf8-fbbd-44ae-a003-71eee38408d2",
-      "company": "Anduril",
-      "title": "Software Engineer Co-op",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007",
-      "location": "Quincy, MA",
-      "datePosted": 1789509978,
       "source": "aggregator",
       "season": null,
       "isNew": false
