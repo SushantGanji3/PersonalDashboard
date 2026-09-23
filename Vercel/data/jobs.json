@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T06:40:18Z",
-  "totalOpen": 1198,
-  "totalNewgrad": 288,
+  "generatedAt": "2026-09-23T06:50:16Z",
+  "totalOpen": 1199,
+  "totalNewgrad": 289,
   "totalOther": 910,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -35,6 +35,17 @@
       "location": "Reston, VA",
       "datePosted": 1790125610,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab35e47835ccf4a28117a7e",
+      "company": "Boston Scientific",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ab35e47835ccf4a28117a7e",
+      "location": "Arden Hills, MN",
+      "datePosted": 1790118219,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -127,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab35e47835ccf4a28117a7e",
-      "company": "Boston Scientific",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab35e47835ccf4a28117a7e",
-      "location": "Arden Hills, MN",
-      "datePosted": 1790114775,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a614adbeaa37f43e7587f78",
       "company": "FieldAI",
       "title": "Embedded Systems Engineer, Autonomous Vehicles - Federal",
@@ -179,17 +179,6 @@
       "datePosted": 1790111702,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2f6031508734c1530ce4e",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineer Intern - San Diego CA",
-      "url": "https://jobright.ai/jobs/info/6ab2f6031508734c1530ce4e",
-      "location": "San Diego, CA",
-      "datePosted": 1790111502,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -760,6 +749,17 @@
       "url": "https://jobright.ai/jobs/info/6a7501677b3417772ade2dde",
       "location": "Palo Alto, CA; Santa Monica, CA",
       "datePosted": 1790088518,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
+      "company": "Adobe",
+      "title": "2027 Intern - Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
+      "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
+      "datePosted": 1790088507,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
