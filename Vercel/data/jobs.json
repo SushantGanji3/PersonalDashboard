@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-23T13:10:18Z",
-  "totalOpen": 1192,
-  "totalNewgrad": 285,
+  "generatedAt": "2026-09-23T13:20:20Z",
+  "totalOpen": 1185,
+  "totalNewgrad": 278,
   "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a7a2528b17cba5690365a31",
+      "company": "Figma",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6a7a2528b17cba5690365a31",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1790140778,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab31b721e4847ddae918467",
+      "company": "Amazon",
+      "title": "Security Engineer Internship \u2013 2027 (US)",
+      "url": "https://jobright.ai/jobs/info/6ab31b721e4847ddae918467",
+      "location": "Seattle, WA; Bellevue, WA; Redmond, WA; San Francisco, CA; Sunnyvale, CA; Santa Clara, CA; Greater DMV (DC, MD, VA); Austin, TX; New York, NY; Minneapolis, MN",
+      "datePosted": 1790139672,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
+      "datePosted": 1790139652,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a974545e4e60e4b8da5d4f6",
       "company": "Genuine Parts Company",
@@ -61,23 +94,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab36301835ccf4a28117b2d",
+      "company": "BDO USA",
+      "title": "Natl Tax Technology Associate, Software Engineer I - Tax Product Development - Winter 2027 (Multiple Locations)",
+      "url": "https://jobright.ai/jobs/info/6ab36301835ccf4a28117b2d",
+      "location": "Chicago, IL",
+      "datePosted": 1790136997,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a70bcdbe2b7476e7b20a819",
       "company": "Samsara",
       "title": "Software Engineering Internship - San Francisco",
       "url": "https://jobright.ai/jobs/info/6a70bcdbe2b7476e7b20a819",
       "location": "San Francisco, CA",
       "datePosted": 1790136747,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab36301835ccf4a28117b2d",
-      "company": "BDO USA",
-      "title": "Natl Tax Technology Associate, Software Engineer I - Tax Product Development - Winter 2027 (Multiple Locations)",
-      "url": "https://jobright.ai/jobs/info/6ab36301835ccf4a28117b2d",
-      "location": "Chicago, IL",
-      "datePosted": 1790135880,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -270,23 +303,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab35e3916511e254891bf5e",
+      "id": "newgrad-jobs:6ab35a2d5d482753f3e68b5b",
       "company": "KLA",
       "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "url": "https://jobright.ai/jobs/info/6ab35e3916511e254891bf5e",
+      "url": "https://jobright.ai/jobs/info/6ab35a2d5d482753f3e68b5b",
       "location": "Milpitas, CA",
       "datePosted": 1790128798,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab3578216511e254891be93",
-      "company": "KLA",
-      "title": "Software Engineering Intern (C++, Unix)",
-      "url": "https://jobright.ai/jobs/info/6ab3578216511e254891be93",
-      "location": "Milpitas, CA",
-      "datePosted": 1790128749,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -534,17 +556,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab31b721e4847ddae918467",
-      "company": "Amazon",
-      "title": "Security Engineer Internship \u2013 2027 (US)",
-      "url": "https://jobright.ai/jobs/info/6ab31b721e4847ddae918467",
-      "location": "Seattle, WA; Bellevue, WA; Redmond, WA; San Francisco, CA; Sunnyvale, CA; Santa Clara, CA; Greater DMV (DC, MD, VA); Austin, TX; New York, NY; Minneapolis, MN",
-      "datePosted": 1790113328,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab3567d5d482753f3e68ac0",
       "company": "Vendra (YC S24)",
       "title": "Full Stack Engineer",
@@ -721,45 +732,34 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2f55b8254c44790e584b1",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineer (AI Developer Tooling), Intern",
-      "url": "https://jobright.ai/jobs/info/6ab2f55b8254c44790e584b1",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1790102621,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2df7e30340229a3230284",
-      "company": "Propio Language Services",
-      "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ab2df7e30340229a3230284",
-      "location": "Overland Park, KS",
-      "datePosted": 1790102552,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2ea9a326574570a003ae7",
-      "company": "Grow Therapy",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab2ea9a326574570a003ae7",
-      "location": "New York, NY",
-      "datePosted": 1790100927,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab2f6411e4847ddae917712",
       "company": "Airbus",
       "title": "Associate Embedded Software Engineer",
       "url": "https://jobright.ai/jobs/info/6ab2f6411e4847ddae917712",
       "location": "Bingen, WA",
       "datePosted": 1790099251,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab316ac8254c44790e59220",
+      "company": "Sonos, Inc.",
+      "title": "Software Development Engineer, Cloud",
+      "url": "https://jobright.ai/jobs/info/6ab316ac8254c44790e59220",
+      "location": "Boston, MA",
+      "datePosted": 1790099108,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2ea7578c69ff506c41201",
+      "company": "Vantor",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab2ea7578c69ff506c41201",
+      "location": "United States",
+      "datePosted": 1790098583,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
