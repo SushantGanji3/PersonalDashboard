@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-23T23:00:20Z",
-  "totalOpen": 1174,
+  "generatedAt": "2026-09-23T23:10:16Z",
+  "totalOpen": 1178,
   "totalNewgrad": 271,
-  "totalOther": 903,
+  "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:cb130a57-72be-4745-8c77-a3538eea00b7",
+      "company": "Figma",
+      "title": "Data Engineer Intern",
+      "url": "https://boards.greenhouse.io/figma/jobs/6178851004",
+      "location": "SF, NYC",
+      "datePosted": 1790203172,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:1f43ae17-edcd-41d2-ae22-578b9224a6e9",
+      "company": "Scale AI",
+      "title": "Software Engineer New Grad - Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+      "location": "SF",
+      "datePosted": 1790202325,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab447390e0ae54eeea47abd",
       "company": "CACI International Inc",
@@ -699,6 +721,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:10d3560c-9d4c-4227-9e57-2fd7a62e9f25",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
+      "location": "Woodland Hills, LA",
+      "datePosted": 1790121600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:10410298-5914-4739-a1e4-898dbd865b17",
       "company": "Hudson River Trading",
       "title": "Data Scientist Intern",
@@ -1288,39 +1321,6 @@
       "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false",
       "location": "Newport, RI, New London, CT, North Kingstown, RI, North Stonington, CT, Groton, CT",
       "datePosted": 1789568324,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:28e7cce7-67d2-4001-b60a-26951a04ee0e",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
-      "location": "Marlborough, MA",
-      "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:99b19d5b-03dd-438a-91db-fbb3b10e7201",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern - Thrive",
-      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
-      "location": "Pittsburgh, PA",
-      "datePosted": 1789511923,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern",
-      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
-      "location": "Seattle, WA, Pittsburgh, PA, NYC",
-      "datePosted": 1789511923,
       "source": "aggregator",
       "season": null,
       "isNew": false
