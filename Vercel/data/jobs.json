@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T01:40:18Z",
-  "totalOpen": 1205,
-  "totalNewgrad": 293,
+  "generatedAt": "2026-09-23T01:50:17Z",
+  "totalOpen": 1210,
+  "totalNewgrad": 298,
   "totalOther": 912,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790126217,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5b597914-e71c-489d-b3ad-77a3e48f7c58",
@@ -25,7 +25,7 @@
       "datePosted": 1790126216,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
@@ -36,7 +36,7 @@
       "datePosted": 1790125610,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:10410298-5914-4739-a1e4-898dbd865b17",
@@ -80,7 +80,7 @@
       "datePosted": 1790115641,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:140c2da4-0a49-45bd-b29d-c799ab7b15d7",
@@ -103,6 +103,105 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab326ed30340229a3231ae6",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab326ed30340229a3231ae6",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790100605,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab3240b30340229a3231a41",
+      "company": "Classifiedy",
+      "title": "PHP Developer - Unpaid Internship",
+      "url": "https://jobright.ai/jobs/info/6ab3240b30340229a3231a41",
+      "location": "United States",
+      "datePosted": 1790099867,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab321b81e4847ddae91853f",
+      "company": "Quadric",
+      "title": "Deep Learning Compiler Intern",
+      "url": "https://jobright.ai/jobs/info/6ab321b81e4847ddae91853f",
+      "location": "Burlingame, CA",
+      "datePosted": 1790099272,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2f6411e4847ddae917712",
+      "company": "Airbus",
+      "title": "Associate Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab2f6411e4847ddae917712",
+      "location": "Bingen, WA",
+      "datePosted": 1790099251,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab316ac8254c44790e59220",
+      "company": "Sonos, Inc.",
+      "title": "Software Development Engineer, Cloud",
+      "url": "https://jobright.ai/jobs/info/6ab316ac8254c44790e59220",
+      "location": "Boston, MA",
+      "datePosted": 1790099108,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab32031326574570a004f2f",
+      "company": "PM Visions",
+      "title": "Full Stack Independent Application Development \u2013 Training Cum Internship",
+      "url": "https://jobright.ai/jobs/info/6ab32031326574570a004f2f",
+      "location": "Virginia, United States",
+      "datePosted": 1790098881,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2ea7578c69ff506c41201",
+      "company": "Vantor",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab2ea7578c69ff506c41201",
+      "location": "United States",
+      "datePosted": 1790098583,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab31b721e4847ddae918467",
+      "company": "Amazon",
+      "title": "Security Engineer Internship \u2013 2027 (US)",
+      "url": "https://jobright.ai/jobs/info/6ab31b721e4847ddae918467",
+      "location": "Seattle, WA; Bellevue, WA; Redmond, WA; San Francisco, CA; Sunnyvale, CA; Santa Clara, CA; Greater DMV (DC, MD, VA); Austin, TX; New York, NY; Minneapolis, MN",
+      "datePosted": 1790097666,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab319781e4847ddae9183f5",
+      "company": "Providence",
+      "title": "Data Engineer I IS - Remote",
+      "url": "https://jobright.ai/jobs/info/6ab319781e4847ddae9183f5",
+      "location": "United States",
+      "datePosted": 1790097424,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab2f3c9326574570a003fec",
@@ -677,105 +776,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a56beaee9b77f668bd65969",
-      "company": "Twitch",
-      "title": "Software Engineer I, Discovery",
-      "url": "https://jobright.ai/jobs/info/6a56beaee9b77f668bd65969",
-      "location": "San Francisco, CA",
-      "datePosted": 1790087179,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab208b7d2a93d5a97ebd905",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6ab208b7d2a93d5a97ebd905",
-      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
-      "datePosted": 1790087179,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
-      "company": "Roblox",
-      "title": "[2027] Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
-      "location": "San Mateo, CA",
-      "datePosted": 1790086954,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7360428cd88e7ccbf57fa1",
-      "company": "Roblox",
-      "title": "[Summer 2027] Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a7360428cd88e7ccbf57fa1",
-      "location": "San Mateo, CA",
-      "datePosted": 1790086954,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa83600654b2a9424cfb529",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790086954,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab197e1d43eb922ca0bfee4",
-      "company": "Disney",
-      "title": "WDI Show Control Software Engineering Intern, Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ab197e1d43eb922ca0bfee4",
-      "location": "Lake Buena Vista, FL; Glendale, CA; Orlando, FL",
-      "datePosted": 1790086814,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2f051326574570a003dee",
-      "company": "TikTok",
-      "title": "Data Engineer Intern (Data Platfrom TikTok BP) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ab2f051326574570a003dee",
-      "location": "San Jose, CA",
-      "datePosted": 1790086625,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2ef3030340229a32306da",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ab2ef3030340229a32306da",
-      "location": "Bellevue, WA",
-      "datePosted": 1790086336,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2d2b28254c44790e57948",
-      "company": "Bessemer Trust",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ab2d2b28254c44790e57948",
-      "location": "Woodbridge Township, NJ",
-      "datePosted": 1790086117,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
       "company": "Waymo",
       "title": "Embedded Intern - Software Engineer",
@@ -883,7 +883,7 @@
       "datePosted": 1790035200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:52e1ca75-9907-44e4-9bde-6834837fe9e3",
