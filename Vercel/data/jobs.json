@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T17:50:17Z",
-  "totalOpen": 1173,
-  "totalNewgrad": 268,
+  "generatedAt": "2026-09-23T18:00:20Z",
+  "totalOpen": 1174,
+  "totalNewgrad": 269,
   "totalOther": 905,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790157722,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a96c047455eaf6a08c1874c",
@@ -25,7 +25,7 @@
       "datePosted": 1790157640,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab403df64816213f2d96987",
@@ -36,6 +36,17 @@
       "datePosted": 1790157167,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab3f2ad0e0ae54eeea457da",
+      "company": "Milliman",
+      "title": "Software Developer - FRM Trading Technologies",
+      "url": "https://jobright.ai/jobs/info/6ab3f2ad0e0ae54eeea457da",
+      "location": "Chicago, IL",
+      "datePosted": 1790156908,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -424,6 +435,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8cc3e41d96e6541c8c2e6a",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1790147011,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3cbbe3a768473c9369626",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E3",
+      "url": "https://jobright.ai/jobs/info/6aa3cbbe3a768473c9369626",
+      "location": "Longmont, CO",
+      "datePosted": 1790147011,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a97357ef5337b2cf7320a40",
       "company": "Accenture Federal Services",
       "title": "Associate Software Engineer-Hire-to-Train Program (Pega)",
@@ -534,6 +567,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a974fd3d13b4819f39e07c3",
+      "company": "PagerDuty",
+      "title": "Site Reliability Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a974fd3d13b4819f39e07c3",
+      "location": "Atlanta, GA; Toronto, ON",
+      "datePosted": 1790143259,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ab3cd04ef911c35dffa1a09",
       "company": "Tripleseat",
       "title": "Software Engineer-1",
@@ -545,45 +589,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8cc3e41d96e6541c8c2e6a",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1790142852,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3cbbe3a768473c9369626",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E3",
-      "url": "https://jobright.ai/jobs/info/6aa3cbbe3a768473c9369626",
-      "location": "Longmont, CO",
-      "datePosted": 1790142852,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab193f023005eee3545b428",
       "company": "Andson Biotech",
       "title": "Embedded Systems Engineer",
       "url": "https://jobright.ai/jobs/info/6ab193f023005eee3545b428",
       "location": "Atlanta, GA",
       "datePosted": 1790142825,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2bdae8254c44790e5710e",
-      "company": "Lockheed Martin",
-      "title": "Embedded Software Engineer- Level 2",
-      "url": "https://jobright.ai/jobs/info/6ab2bdae8254c44790e5710e",
-      "location": "Orlando, FL",
-      "datePosted": 1790142824,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6ab31b721e4847ddae918467",
       "location": "Seattle, WA; Bellevue, WA; Redmond, WA; San Francisco, CA; Sunnyvale, CA; Santa Clara, CA; Greater DMV (DC, MD, VA); Austin, TX; New York, NY; Minneapolis, MN",
       "datePosted": 1790139672,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a974545e4e60e4b8da5d4f6",
-      "company": "Genuine Parts Company",
-      "title": "Cloud SRE Intern",
-      "url": "https://jobright.ai/jobs/info/6a974545e4e60e4b8da5d4f6",
-      "location": "Birmingham, AL",
-      "datePosted": 1790139274,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
