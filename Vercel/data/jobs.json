@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-24T23:02:43Z",
-  "totalOpen": 1189,
+  "generatedAt": "2026-09-24T23:10:51Z",
+  "totalOpen": 1198,
   "totalNewgrad": 277,
-  "totalOther": 912,
+  "totalOther": 921,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
+      "company": "Block",
+      "title": "Data Scientist - Payments",
+      "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
+      "location": "San Francisco Bay Area, CA",
+      "datePosted": 1790288564,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:4ebbeec3-7c6e-4921-bd4a-0131e3cc0c04",
+      "company": "Notion",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
+      "location": "SF, NYC",
+      "datePosted": 1790288407,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:6760a173-39b3-42f0-bd2a-6e007b814c65",
+      "company": "General Dynamics",
+      "title": "Entry Level Software Developer",
+      "url": "https://careers-gdeb.icims.com/jobs/20673/job?mobile=true&needsRedirect=false",
+      "location": "New London, CT",
+      "datePosted": 1790288242,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b60dd607-5a1b-423f-a318-f333734e8063",
+      "company": "Susquehanna International Group",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false",
+      "location": "Bala Cynwyd, PA",
+      "datePosted": 1790288170,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18",
       "company": "Charles Schwab",
@@ -59,6 +103,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab5a36fb3db59402d0fe5c2",
+      "company": "Peraton",
+      "title": "Junior Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab5a36fb3db59402d0fe5c2",
+      "location": "Chantilly, VA; Springfield, VA",
+      "datePosted": 1790263551,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab5502fb3db59402d0fbeb4",
@@ -311,17 +366,6 @@
       "datePosted": 1790259126,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5919eb3db59402d0fdc1d",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab5919eb3db59402d0fdc1d",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790258990,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -622,6 +666,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab575c5c6fe0dec811a12bb",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab575c5c6fe0dec811a12bb",
+      "location": "Bellevue, WA",
+      "datePosted": 1790257399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a7501677b3417772ade2dde",
       "company": "Snap Inc.",
       "title": "Software Engineer, iOS, Level 3",
@@ -710,17 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab57b4b4873fd3fd8529c2d",
-      "company": "Aflac",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab57b4b4873fd3fd8529c2d",
-      "location": "Columbus, GA",
-      "datePosted": 1790255855,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d0f85828-c8e8-42fb-a47d-3f46e18db9d1",
       "company": "Tesla",
       "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
@@ -774,6 +818,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9",
+      "company": "Adobe",
+      "title": "Software Engineer New Grad",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+      "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
+      "datePosted": 1790208000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:cb130a57-72be-4745-8c77-a3538eea00b7",
@@ -1268,61 +1323,6 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c8ef16e5-048f-4036-aea1-83076c98078c",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer",
-      "url": "https://careers-gdms.icims.com/jobs/75011/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6ed0b949-935d-4322-93b3-8acbe09cda9e",
-      "company": "Abridge",
-      "title": "Software Engineer Intern - Spring",
-      "url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true",
-      "location": "SF",
-      "datePosted": 1789683515,
-      "source": "aggregator",
-      "season": "Spring",
-      "isNew": false
-    },
-    {
-      "id": "simplify:2fe60cb9-2191-4584-9824-1cda213b3458",
-      "company": "General Dynamics",
-      "title": "Systems Engineer Intern - Autonomous Maritime Platforms",
-      "url": "https://careers-gdms.icims.com/jobs/74840/job?mobile=true&needsRedirect=false",
-      "location": "Quincy, MA",
-      "datePosted": 1789636465,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ad26d172-59a3-4f93-9750-94d260cfb4e5",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Maneuvering Tech",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-      "location": "SF",
-      "datePosted": 1789626800,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
