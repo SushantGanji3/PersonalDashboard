@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-09-24T16:40:15Z",
-  "totalOpen": 1177,
-  "totalNewgrad": 268,
+  "generatedAt": "2026-09-24T16:50:17Z",
+  "totalOpen": 1174,
+  "totalNewgrad": 265,
   "totalOther": 909,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab51991b3db59402d0faeb4",
+      "company": "Viasat",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab51991b3db59402d0faeb4",
+      "location": "Duluth, GA",
+      "datePosted": 1790239688,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab17988f9692ca98b049dc5",
+      "company": "IBM",
+      "title": "AI Foundations - Software Engineer - Research Internship 2027",
+      "url": "https://jobright.ai/jobs/info/6ab17988f9692ca98b049dc5",
+      "location": "Yorktown Heights, NY; San Jose, CA; Cambridge, MA",
+      "datePosted": 1790239649,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
+      "company": "Accenture Federal Services",
+      "title": "ServiceNow Developer",
+      "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
+      "location": "Fort Belvoir, VA",
+      "datePosted": 1790239578,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e396468f82b4036738f88",
+      "company": "IBM",
+      "title": "Software Developer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e396468f82b4036738f88",
+      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX; North Carolina, United States; Massachusetts, United States; California, United States",
+      "datePosted": 1790239124,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab543e6c6fe0dec811a008e",
+      "company": "Elevated Web Design",
+      "title": "Systems Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ab543e6c6fe0dec811a008e",
+      "location": "United States",
+      "datePosted": 1790239094,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab4372355e9168cf5ea50f0",
+      "company": "CACI International Inc",
+      "title": "Cyber Software Engineer, Junior",
+      "url": "https://jobright.ai/jobs/info/6ab4372355e9168cf5ea50f0",
+      "location": "Florham Park, NJ",
+      "datePosted": 1790238763,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e392227c94c3d5a1cb8d8",
+      "company": "IBM",
+      "title": "Site Reliability Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e392227c94c3d5a1cb8d8",
+      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX",
+      "datePosted": 1790238677,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a989a41def18223c855067c",
       "company": "Hadrian",
@@ -61,15 +138,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab53d40b3db59402d0fb7ed",
+      "id": "newgrad-jobs:6ab53d369d4843569fe488e7",
       "company": "UST HealthProof",
       "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab53d40b3db59402d0fb7ed",
+      "url": "https://jobright.ai/jobs/info/6ab53d369d4843569fe488e7",
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790237392,
+      "datePosted": 1790237382,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab4b78e637e49173b50b5a1",
@@ -215,28 +292,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e396468f82b4036738f88",
-      "company": "IBM",
-      "title": "Software Developer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e396468f82b4036738f88",
-      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX; North Carolina, United States; Massachusetts, United States; California, United States",
-      "datePosted": 1790230887,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab17988f9692ca98b049dc5",
-      "company": "IBM",
-      "title": "AI Foundations - Software Engineer - Research Internship 2027",
-      "url": "https://jobright.ai/jobs/info/6ab17988f9692ca98b049dc5",
-      "location": "Yorktown Heights, NY; San Jose, CA; Cambridge, MA",
-      "datePosted": 1790230643,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab43b53ef911c35dffa4126",
       "company": "Lockheed Martin",
       "title": "Asc. IT Systems Engineer- Onsite in Grand Prairie, TX",
@@ -292,17 +347,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab51991b3db59402d0faeb4",
-      "company": "Viasat",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab51991b3db59402d0faeb4",
-      "location": "Duluth, GA",
-      "datePosted": 1790228257,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9884dbc8ed473c5c76480a",
       "company": "Watchfire",
       "title": "Intern Software Engineering",
@@ -347,10 +391,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa94fdb28e24cb385139a41",
+      "id": "newgrad-jobs:6aa95da028e24cb38513a038",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6aa94fdb28e24cb385139a41",
+      "url": "https://jobright.ai/jobs/info/6aa95da028e24cb38513a038",
       "location": "Salt Lake City, UT",
       "datePosted": 1790227083,
       "source": "newgrad-jobs",
@@ -696,50 +740,6 @@
       "datePosted": 1790198507,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab45b8f55e9168cf5ea6268",
-      "company": "ABOUT Healthcare",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab45b8f55e9168cf5ea6268",
-      "location": "Saint Paul, MN",
-      "datePosted": 1790196263,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3e308f3aa936e2cdae71e",
-      "company": "Outschool",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3e308f3aa936e2cdae71e",
-      "location": "United States; Canada",
-      "datePosted": 1790196134,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab197da23005eee3545b68a",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - Digital Product: Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ab197da23005eee3545b68a",
-      "location": "Warren, MI; Austin, TX; Milford Charter Township, MI; Mountain View, CA",
-      "datePosted": 1790195387,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a0f822183d7144289821054",
-      "company": "Ivo",
-      "title": "Software Engineer, Fullstack",
-      "url": "https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "location": "San Francisco, CA",
-      "datePosted": 1790193522,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
