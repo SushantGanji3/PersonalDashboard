@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T02:10:15Z",
-  "totalOpen": 1176,
-  "totalNewgrad": 265,
+  "generatedAt": "2026-09-24T02:20:16Z",
+  "totalOpen": 1178,
+  "totalNewgrad": 267,
   "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790213512,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:be11dc29-6925-4c06-99a2-79e488a51c35",
@@ -83,6 +83,83 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab47b2964816213f2d99494",
+      "company": "Roblox",
+      "title": "Software Engineer, Data Access",
+      "url": "https://jobright.ai/jobs/info/6ab47b2964816213f2d99494",
+      "location": "San Mateo, CA",
+      "datePosted": 1790187705,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab400cbd2f5fbd604be0ce8",
+      "company": "Comcast",
+      "title": "Entry-level Backend Software Engineer (Python or PHP) - New York - ONSITE 4X Week",
+      "url": "https://jobright.ai/jobs/info/6ab400cbd2f5fbd604be0ce8",
+      "location": "New York, NY",
+      "datePosted": 1790187447,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab3faa3ef911c35dffa2609",
+      "company": "The Marlin Alliance, Inc.",
+      "title": "Junior Power Platform Developer",
+      "url": "https://jobright.ai/jobs/info/6ab3faa3ef911c35dffa2609",
+      "location": "United States",
+      "datePosted": 1790187418,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab478ac64816213f2d9943f",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab478ac64816213f2d9943f",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790187068,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab478ac64816213f2d9943e",
+      "company": "Naval Nuclear Laboratory (FMP)",
+      "title": "Software Engineer, Entry Level",
+      "url": "https://jobright.ai/jobs/info/6ab478ac64816213f2d9943e",
+      "location": "Niskayuna, NY; West Mifflin, PA",
+      "datePosted": 1790187068,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab4778364816213f2d99413",
+      "company": "General Dynamics",
+      "title": "NC3 Software Engineer \u2013 Entry Level",
+      "url": "https://jobright.ai/jobs/info/6ab4778364816213f2d99413",
+      "location": "Taunton, MA",
+      "datePosted": 1790186771,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab476adef911c35dffa5599",
+      "company": "Southern Glazer's Wine & Spirits",
+      "title": "2027 Summer Internship AI Engineer (OneTech)- Miramar, FL",
+      "url": "https://jobright.ai/jobs/info/6ab476adef911c35dffa5599",
+      "location": "Miramar, FL",
+      "datePosted": 1790186557,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab45b8f55e9168cf5ea6268",
       "company": "ABOUT Healthcare",
       "title": "Associate Software Engineer",
@@ -147,6 +224,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1c8e4f9692ca98b04bcd5",
+      "company": "Boston Scientific",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab1c8e4f9692ca98b04bcd5",
+      "location": "Arden Hills, MN",
+      "datePosted": 1790183727,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab46b0aef911c35dffa52bc",
@@ -237,17 +325,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab45a0e55e9168cf5ea61ff",
-      "company": "Southern Glazer's Wine & Spirits",
-      "title": "2027 Summer Internship AI Engineer (OneTech)- Miramar, FL",
-      "url": "https://jobright.ai/jobs/info/6ab45a0e55e9168cf5ea61ff",
-      "location": "Miramar, FL",
-      "datePosted": 1790179230,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a7409d7bb6ca93ae5608ea2",
       "company": "Citadel",
       "title": "Software Engineer \u2013 Intern (US)",
@@ -265,17 +342,6 @@
       "url": "https://jobright.ai/jobs/info/6ab4399d55e9168cf5ea51fd",
       "location": "Leawood, KS",
       "datePosted": 1790178924,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab458cf0e0ae54eeea48406",
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Software Engineer, Entry Level",
-      "url": "https://jobright.ai/jobs/info/6ab458cf0e0ae54eeea48406",
-      "location": "West Mifflin, PA",
-      "datePosted": 1790178911,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -672,72 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6ab309e030340229a3231517",
       "location": "San Antonio, TX",
       "datePosted": 1790170679,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab4389b0e0ae54eeea47417",
-      "company": "Adyen",
-      "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
-      "url": "https://jobright.ai/jobs/info/6ab4389b0e0ae54eeea47417",
-      "location": "Chicago, IL",
-      "datePosted": 1790170667,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab309a9326574570a004ae0",
-      "company": "USAA",
-      "title": "AI/ML Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab309a9326574570a004ae0",
-      "location": "Plano, TX",
-      "datePosted": 1790170650,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab3e079d2f5fbd604be015c",
-      "company": "FAR.AI",
-      "title": "Research Scientist, Applied White-Box Methods",
-      "url": "https://jobright.ai/jobs/info/6ab3e079d2f5fbd604be015c",
-      "location": "Berkeley, CA",
-      "datePosted": 1790170497,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab4060ad2f5fbd604be1033",
-      "company": "State Farm",
-      "title": "Summer 2027 Intern - HR&D - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ab4060ad2f5fbd604be1033",
-      "location": "Bloomington, IL; Richardson, TX; Dunwoody, GA; Tempe, AZ",
-      "datePosted": 1790169844,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1bcd0dbc0e60e37e13491",
-      "company": "DV Trading LLC",
-      "title": "AI Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa1bcd0dbc0e60e37e13491",
-      "location": "Chicago, IL",
-      "datePosted": 1790169643,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab4328a0e0ae54eeea47205",
-      "company": "SMX",
-      "title": "Junior Software Engineer (5510)",
-      "url": "https://jobright.ai/jobs/info/6ab4328a0e0ae54eeea47205",
-      "location": "Huntsville, AL",
-      "datePosted": 1790169114,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
