@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-24T01:30:19Z",
-  "totalOpen": 1171,
+  "generatedAt": "2026-09-24T01:40:19Z",
+  "totalOpen": 1175,
   "totalNewgrad": 265,
-  "totalOther": 906,
+  "totalOther": 910,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:be11dc29-6925-4c06-99a2-79e488a51c35",
+      "company": "Tesla",
+      "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
+      "url": "https://www.tesla.com/careers/search/job/284593",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790213098,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a6ca4015-b83d-4606-a189-7a9fe9f86aa3",
+      "company": "Ramp",
+      "title": "Software Engineer Intern - Android",
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1790212862,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:2470b381-61c4-4e0a-9a0b-dcc58f4956bd",
+      "company": "Ramp",
+      "title": "Software Engineer Intern - Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1790212861,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ac053621-f848-4ace-97dc-4ef8ad9562a0",
+      "company": "Ramp",
+      "title": "Software Engineer Intern - Backend",
+      "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1790212860,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:cb130a57-72be-4745-8c77-a3538eea00b7",
       "company": "Figma",
@@ -26,6 +70,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab45b8f55e9168cf5ea6268",
+      "company": "ABOUT Healthcare",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab45b8f55e9168cf5ea6268",
+      "location": "Saint Paul, MN",
+      "datePosted": 1790186278,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab4532fef911c35dffa4adb",
+      "company": "Klaviyo",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab4532fef911c35dffa4adb",
+      "location": "Boston, MA",
+      "datePosted": 1790185681,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab471a20e0ae54eeea488b9",
+      "company": "Ramp",
+      "title": "Software Engineer Internship, Frontend",
+      "url": "https://jobright.ai/jobs/info/6ab471a20e0ae54eeea488b9",
+      "location": "New York, NY",
+      "datePosted": 1790185266,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a876470d34f700f87fc5292",
@@ -69,17 +146,6 @@
       "datePosted": 1790183578,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab46aedef911c35dffa52b1",
-      "company": "DoorDash",
-      "title": "Machine Learning Intern (Masters) - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ab46aedef911c35dffa52b1",
-      "location": "San Francisco, CA; Sunnyvale, CA; New York, NY; Seattle, WA",
-      "datePosted": 1790183549,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -127,17 +193,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab4532fef911c35dffa4adb",
-      "company": "Klaviyo",
-      "title": "AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab4532fef911c35dffa4adb",
-      "location": "Boston, MA",
-      "datePosted": 1790182363,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab4515964816213f2d988e5",
       "company": "State Street",
       "title": "Junior SIEM Data Engineer",
@@ -166,17 +221,6 @@
       "url": "https://jobright.ai/jobs/info/6aadb051de327d3e210d3e8d",
       "location": "Rolling Meadows, IL",
       "datePosted": 1790181576,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab45b8f55e9168cf5ea6268",
-      "company": "ABOUT Healthcare",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab45b8f55e9168cf5ea6268",
-      "location": "Saint Paul, MN",
-      "datePosted": 1790181515,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -223,6 +267,17 @@
       "datePosted": 1790178911,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2bf6a78c69ff506c404b6",
+      "company": "Allegion",
+      "title": "Summer Intern - Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab2bf6a78c69ff506c404b6",
+      "location": "Carmel, IN",
+      "datePosted": 1790178826,
+      "source": "newgrad-jobs",
+      "season": "Summer",
       "isNew": false
     },
     {
@@ -347,17 +402,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab44d917bd0813713316f30",
-      "company": "Scale Up by Endeavor",
-      "title": "AI Engineer Internship | Undergraduate or Graduate - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ab44d917bd0813713316f30",
-      "location": "New York, NY",
-      "datePosted": 1790176033,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a834f0eb5a0ac0e84a24f30",
       "company": "American Express",
       "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
@@ -424,14 +468,25 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab420a4d2f5fbd604be1bfa",
+      "id": "newgrad-jobs:6aac05fd3e3ce93970c7b2a9",
       "company": "Noblis",
       "title": "Software Developer - Multiple Levels (Cleared)",
-      "url": "https://jobright.ai/jobs/info/6ab420a4d2f5fbd604be1bfa",
+      "url": "https://jobright.ai/jobs/info/6aac05fd3e3ce93970c7b2a9",
       "location": "Reston, VA",
       "datePosted": 1790175380,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab44d917bd0813713316f30",
+      "company": "Scale Up by Endeavor",
+      "title": "AI Engineer Internship | Undergraduate or Graduate - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ab44d917bd0813713316f30",
+      "location": "New York, NY",
+      "datePosted": 1790175256,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -672,17 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6ab4328a0e0ae54eeea47205",
       "location": "Huntsville, AL",
       "datePosted": 1790169114,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab431e1d2f5fbd604be2071",
-      "company": "Northwestern University",
-      "title": "Developer Associate (1-year term)",
-      "url": "https://jobright.ai/jobs/info/6ab431e1d2f5fbd604be2071",
-      "location": "Evanston, IL",
-      "datePosted": 1790168945,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1277,50 +1321,6 @@
       "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f/application?embed=true",
       "location": "SF, NYC",
       "datePosted": 1789597393,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0e98381f-67f0-44fd-989f-ede6ab83c56f",
-      "company": "General Dynamics",
-      "title": "Software Engineer Intern - Crypto and Cross Domain Solutions",
-      "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false",
-      "location": "Scottsdale, AZ",
-      "datePosted": 1789596920,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bbf97353-45cc-4b6c-b3a6-50e3aafa73fd",
-      "company": "Anduril",
-      "title": "Software Engineer - Battlespace Awareness",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007",
-      "location": "Fort Collins, CO, Broomfield, CO",
-      "datePosted": 1789596349,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d2296cde-e528-4052-91a1-7fd74e94412a",
-      "company": "General Dynamics",
-      "title": "Information Technology Intern - Software Engineering - Computer Science",
-      "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false",
-      "location": "Newport, RI, New London, CT, North Kingstown, RI, North Stonington, CT, Groton, CT",
-      "datePosted": 1789568324,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:28e7cce7-67d2-4001-b60a-26951a04ee0e",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
-      "location": "Marlborough, MA",
-      "datePosted": 1789516800,
       "source": "aggregator",
       "season": null,
       "isNew": false
