@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T06:10:08Z",
-  "totalOpen": 1182,
-  "totalNewgrad": 271,
+  "generatedAt": "2026-09-24T06:20:15Z",
+  "totalOpen": 1183,
+  "totalNewgrad": 272,
   "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -59,6 +59,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab4b7c217d731fd2c0c5bee",
+      "company": "Endeavor Ukraine",
+      "title": "AI Engineer Internship | Undergraduate or Graduate - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ab4b7c217d731fd2c0c5bee",
+      "location": "New York, NY",
+      "datePosted": 1790203218,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "simplify:cb130a57-72be-4745-8c77-a3538eea00b7",
@@ -729,17 +740,6 @@
       "datePosted": 1790174931,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab447dd64816213f2d9853b",
-      "company": "LCS",
-      "title": "Site Reliability Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab447dd64816213f2d9853b",
-      "location": "Plano, TX",
-      "datePosted": 1790174573,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
