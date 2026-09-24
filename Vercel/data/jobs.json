@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T15:50:19Z",
+  "generatedAt": "2026-09-24T15:56:29Z",
   "totalOpen": 1173,
   "totalNewgrad": 264,
   "totalOther": 909,
@@ -14,7 +14,7 @@
       "datePosted": 1790237392,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab4b78e637e49173b50b5a1",
@@ -25,7 +25,7 @@
       "datePosted": 1790237275,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab53aa64873fd3fd8528523",
@@ -34,6 +34,17 @@
       "url": "https://jobright.ai/jobs/info/6ab53aa64873fd3fd8528523",
       "location": "San Jose, CA",
       "datePosted": 1790236726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab53a6ad85922de20cdfe1f",
+      "company": "Heven AeroTech",
+      "title": "AI / Machine Learning Intern",
+      "url": "https://jobright.ai/jobs/info/6ab53a6ad85922de20cdfe1f",
+      "location": "Winchester, VA; Bingen, WA",
+      "datePosted": 1790236666,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -47,7 +58,7 @@
       "datePosted": 1790235789,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab409660e0ae54eeea462f9",
@@ -281,10 +292,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa95da028e24cb38513a038",
+      "id": "newgrad-jobs:6aa94fdb28e24cb385139a41",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6aa95da028e24cb38513a038",
+      "url": "https://jobright.ai/jobs/info/6aa94fdb28e24cb385139a41",
       "location": "Salt Lake City, UT",
       "datePosted": 1790227083,
       "source": "newgrad-jobs",
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6ab4719f7bd0813713317a30",
       "location": "New York, NY",
       "datePosted": 1790191570,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab471a20e0ae54eeea488b9",
-      "company": "Ramp",
-      "title": "Software Engineer Internship, Frontend",
-      "url": "https://jobright.ai/jobs/info/6ab471a20e0ae54eeea488b9",
-      "location": "New York, NY",
-      "datePosted": 1790191567,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
