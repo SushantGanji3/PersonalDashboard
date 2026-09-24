@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T22:40:17Z",
-  "totalOpen": 1187,
-  "totalNewgrad": 275,
+  "generatedAt": "2026-09-24T22:50:20Z",
+  "totalOpen": 1189,
+  "totalNewgrad": 277,
   "totalOther": 912,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790287790,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
@@ -25,7 +25,7 @@
       "datePosted": 1790287661,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
@@ -36,7 +36,7 @@
       "datePosted": 1790287661,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4f3bddc6-477e-4fa8-aafc-7c37712f3a05",
@@ -47,7 +47,7 @@
       "datePosted": 1790287587,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b5c59c2b-f39f-4ece-91bc-4b3f46d293b3",
@@ -57,6 +57,83 @@
       "location": "SF",
       "datePosted": 1790287587,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a996f3b040e5c3d0759629a",
+      "company": "Bobcat Company",
+      "title": "Embedded Software Engineer Student Experience - Spring 2027 Job Details | Doosan Corp",
+      "url": "https://jobright.ai/jobs/info/6a996f3b040e5c3d0759629a",
+      "location": "Bismarck, ND; Fargo, ND",
+      "datePosted": 1790261597,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9995ed551435518ebef5ea",
+      "company": "Bobcat Company",
+      "title": "Embedded Software Engineer Student Experience - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6a9995ed551435518ebef5ea",
+      "location": "Bismarck, ND; Fargo, ND",
+      "datePosted": 1790261597,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab557bd4873fd3fd852910c",
+      "company": "Bobcat Company",
+      "title": "Embedded Software Engineer Student Experience - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ab557bd4873fd3fd852910c",
+      "location": "Bismarck, ND; Fargo, ND",
+      "datePosted": 1790261597,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa91fe5eff87f571fc98647",
+      "company": "General Dynamics",
+      "title": "Intern - Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa91fe5eff87f571fc98647",
+      "location": "Bloomington, MN",
+      "datePosted": 1790261528,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab58d42634ec6aa7c0cfc69",
+      "company": "Atlassian",
+      "title": "Security Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ab58d42634ec6aa7c0cfc69",
+      "location": "San Francisco, CA; Seattle, WA",
+      "datePosted": 1790261440,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
+      "company": "Adobe",
+      "title": "2027 Intern - Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
+      "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
+      "datePosted": 1790261292,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab59950c6fe0dec811a27db",
+      "company": "Hiebing",
+      "title": "AI Agent Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab59950c6fe0dec811a27db",
+      "location": "Madison, WI",
+      "datePosted": 1790260960,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -402,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1790258249,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa4cceb930bff471a29ba35",
       "company": "Amgen",
       "title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
@@ -465,17 +531,6 @@
       "datePosted": 1790257898,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab58d58d85922de20ce1eea",
-      "company": "Atlassian",
-      "title": "Security Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6ab58d58d85922de20ce1eea",
-      "location": "San Francisco, CA; Seattle, WA",
-      "datePosted": 1790257896,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -663,61 +718,6 @@
       "datePosted": 1790254603,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7cb9c4dc3dff2d1c0c8b48",
-      "company": "Amentum",
-      "title": "RTOS / VXWorks developer",
-      "url": "https://jobright.ai/jobs/info/6a7cb9c4dc3dff2d1c0c8b48",
-      "location": "Dahlgren, VA",
-      "datePosted": 1790254208,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab57a88c6fe0dec811a13eb",
-      "company": "DRW",
-      "title": "Spring 2027 City Scholars Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab57a88c6fe0dec811a13eb",
-      "location": "Chicago, IL",
-      "datePosted": 1790253080,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5794b4873fd3fd8529b8b",
-      "company": "Susquehanna International Group",
-      "title": "Machine Learning Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6ab5794b4873fd3fd8529b8b",
-      "location": "Bala Cynwyd, PA",
-      "datePosted": 1790252763,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab57921d85922de20ce1433",
-      "company": "Noblis",
-      "title": "Control Systems Programmer",
-      "url": "https://jobright.ai/jobs/info/6ab57921d85922de20ce1433",
-      "location": "Philadelphia, PA",
-      "datePosted": 1790252721,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab56e329d4843569fe49a1d",
-      "company": "GM Financial",
-      "title": "Intern - Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab56e329d4843569fe49a1d",
-      "location": "Arlington, TX",
-      "datePosted": 1790252407,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
