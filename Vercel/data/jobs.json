@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-25T01:30:18Z",
-  "totalOpen": 1202,
+  "generatedAt": "2026-09-25T01:40:53Z",
+  "totalOpen": 1206,
   "totalNewgrad": 281,
-  "totalOther": 921,
+  "totalOther": 925,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Database Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1790299028,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Core, Infrastructure & Security",
+      "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1790299028,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+      "company": "Apple",
+      "title": "Software Engineer - Applied AI",
+      "url": "https://jobs.apple.com/en-us/details/200684521",
+      "location": "San Diego, CA",
+      "datePosted": 1790298409,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
       "company": "Block",
@@ -1290,39 +1323,6 @@
       "datePosted": 1789711767,
       "source": "aggregator",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5eeb71a2-4362-490d-91b2-80bec3bb466d",
-      "company": "Tesla",
-      "title": "Internship - Software Engineering - People Products - Summer 2027",
-      "url": "https://www.tesla.com/careers/search/job/284004",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711766,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
-      "company": "Stripe",
-      "title": "Software Engineer - Early Career - Immediate Start",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "location": "Seattle, WA, SF, NYC",
-      "datePosted": 1789694971,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Summer",
-      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
-      "location": "Seattle, WA, Arlington County, Arlington, VA",
-      "datePosted": 1789693504,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
