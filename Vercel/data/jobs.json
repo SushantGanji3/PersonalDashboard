@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-25T15:10:18Z",
-  "totalOpen": 1204,
-  "totalNewgrad": 282,
+  "generatedAt": "2026-09-25T15:20:17Z",
+  "totalOpen": 1202,
+  "totalNewgrad": 280,
   "totalOther": 922,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab68817634ec6aa7c0d2f36",
+      "company": "Microsoft",
+      "title": "Software Engineer - Intune",
+      "url": "https://jobright.ai/jobs/info/6ab68817634ec6aa7c0d2f36",
+      "location": "Cambridge, MA",
+      "datePosted": 1790322087,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a536ed38a74e077472f8581",
+      "company": "PreludeSys",
+      "title": ".net developer",
+      "url": "https://jobright.ai/jobs/info/6a536ed38a74e077472f8581",
+      "location": "Illinois, United States; Springfield, IL",
+      "datePosted": 1790321813,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ab686d3c6fe0dec811a5124",
       "company": "University of South Florida",
@@ -14,7 +36,7 @@
       "datePosted": 1790321763,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a72f53cadfe134034cca8e0",
@@ -25,7 +47,7 @@
       "datePosted": 1790321437,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7ed2bde2030208f276ab01",
@@ -47,6 +69,17 @@
       "datePosted": 1790320966,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a998535ad752e2ad54ffe81",
+      "company": "Cantor Fitzgerald",
+      "title": "Junior Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a998535ad752e2ad54ffe81",
+      "location": "New York, NY",
+      "datePosted": 1790320894,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -58,6 +91,17 @@
       "datePosted": 1790320530,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab681969d4843569fe4db65",
+      "company": "CarCare Import and Domestic Service",
+      "title": "AI & Software Automation Developer",
+      "url": "https://jobright.ai/jobs/info/6ab681969d4843569fe4db65",
+      "location": "United States",
+      "datePosted": 1790320422,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -67,6 +111,17 @@
       "url": "https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6",
       "location": "Richmond, VA; Arlington, VA; Washington, DC; Baltimore, MD; McLean, VA",
       "datePosted": 1790320260,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7d1c637c52154b59f5dfeb",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Manufacturing Systems",
+      "url": "https://jobright.ai/jobs/info/6a7d1c637c52154b59f5dfeb",
+      "location": "Hawthorne, CA",
+      "datePosted": 1790318988,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -81,6 +136,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a45e399076271587529e3b5",
+      "company": "Anduril",
+      "title": "Mission Software Engineer, EW",
+      "url": "https://jobright.ai/jobs/info/6a45e399076271587529e3b5",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1790318866,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7e391f0cd4a0703257ec58",
@@ -633,39 +699,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3b9de4233a2201a2b3280",
-      "company": "Rover.com",
-      "title": "Entry Level Software Engineer, Recommendations",
-      "url": "https://jobright.ai/jobs/info/6aa3b9de4233a2201a2b3280",
-      "location": "Seattle, WA",
-      "datePosted": 1790290495,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5ed49d85922de20ce3c23",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ab5ed49d85922de20ce3c23",
-      "location": "Menlo Park, CA; Bellevue, WA",
-      "datePosted": 1790289796,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5ed4ac6fe0dec811a3b9e",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ab5ed4ac6fe0dec811a3b9e",
-      "location": "Menlo Park, CA; Bellevue, WA",
-      "datePosted": 1790289746,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
       "company": "Block",
       "title": "Data Scientist - Payments",
@@ -761,39 +794,6 @@
       "location": "SF",
       "datePosted": 1790287587,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab600bdb3db59402d0ff9c9",
-      "company": "Kearney",
-      "title": "Kearney Activate - Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ab600bdb3db59402d0ff9c9",
-      "location": "Washington, DC; Arlington, VA; Boston, MA; East Coast, United States",
-      "datePosted": 1790287437,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab64200d85922de20ce48ed",
-      "company": "Precise Systems, Inc.",
-      "title": "Junior Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab64200d85922de20ce48ed",
-      "location": "Lexington Park, MD",
-      "datePosted": 1790287200,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3ac3e5c11cce3603658d8",
-      "company": "SK hynix memory solutions America Inc.",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3ac3e5c11cce3603658d8",
-      "location": "San Jose, CA",
-      "datePosted": 1790287140,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
