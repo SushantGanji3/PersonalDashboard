@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T04:00:23Z",
-  "totalOpen": 1204,
+  "generatedAt": "2026-09-25T04:10:18Z",
+  "totalOpen": 1203,
   "totalNewgrad": 279,
-  "totalOther": 925,
+  "totalOther": 924,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -89,17 +89,6 @@
       "url": "https://career-schwab.icims.com/jobs/125797/job?mobile=true&needsRedirect=false",
       "location": "Austin, TX, Southlake, TX, Jersey City, NJ",
       "datePosted": 1790287790,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
-      "company": "Atlassian",
-      "title": "Machine Learning Engineer",
-      "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-      "location": "Seattle, WA",
-      "datePosted": 1790287661,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -355,7 +344,7 @@
       "datePosted": 1790265454,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab5aa64d85922de20ce3079",
@@ -1323,6 +1312,17 @@
       "datePosted": 1789711767,
       "source": "aggregator",
       "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:5eeb71a2-4362-490d-91b2-80bec3bb466d",
+      "company": "Tesla",
+      "title": "Internship - Software Engineering - People Products - Summer 2027",
+      "url": "https://www.tesla.com/careers/search/job/284004",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789711766,
+      "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     }
   ]
