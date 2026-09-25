@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-25T22:30:17Z",
-  "totalOpen": 1185,
+  "generatedAt": "2026-09-25T22:40:17Z",
+  "totalOpen": 1186,
   "totalNewgrad": 265,
-  "totalOther": 920,
+  "totalOther": 921,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:40bf0d3e-456c-4a73-a81b-3767a13f72ea",
+      "company": "Charles Schwab",
+      "title": "Associate Software Development Engineer",
+      "url": "https://career-schwab.icims.com/jobs/126526/job?mobile=true&needsRedirect=false",
+      "location": "Orlando, FL, Southlake, TX",
+      "datePosted": 1790374138,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a98810183fc633357631dbb",
       "company": "Accenture Federal Services",
@@ -25,7 +36,7 @@
       "datePosted": 1790346195,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab6a6bc634ec6aa7c0d3bd3",
@@ -36,7 +47,7 @@
       "datePosted": 1790345951,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab6e306d7fde2c08ec8a016",
@@ -1312,17 +1323,6 @@
       "datePosted": 1789694971,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Summer",
-      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
-      "location": "Seattle, WA, Arlington County, Arlington, VA",
-      "datePosted": 1789693504,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
