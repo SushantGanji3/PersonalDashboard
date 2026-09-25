@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-25T09:30:19Z",
+  "generatedAt": "2026-09-25T09:40:18Z",
   "totalOpen": 1200,
-  "totalNewgrad": 276,
-  "totalOther": 924,
+  "totalNewgrad": 277,
+  "totalOther": 923,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a71335102d93145bf88ea02",
+      "company": "TikTok",
+      "title": "Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71335102d93145bf88ea02",
+      "location": "San Jose, CA",
+      "datePosted": 1790299847,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
       "company": "Snowflake",
@@ -787,17 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab598509d4843569fe4b2cd",
-      "company": "Cotiviti",
-      "title": "Intern AI Engineer, Early-Career \u2013 LLM Context & Data Layer (Healthcare)",
-      "url": "https://jobright.ai/jobs/info/6ab598509d4843569fe4b2cd",
-      "location": "United States",
-      "datePosted": 1790260704,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d0f85828-c8e8-42fb-a47d-3f46e18db9d1",
       "company": "Tesla",
       "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
@@ -1139,17 +1139,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:3f8ecfdc-461f-4732-bf24-79251228640c",
-      "company": "Northrop Grumman",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
-      "location": "Camarillo, CA",
-      "datePosted": 1789948800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:695c330c-a16f-4490-93fc-2f34b8d874ce",
       "company": "Fidelity",
       "title": "Quantitative Research Intern - Multi-Asset Research Team",
@@ -1323,6 +1312,17 @@
       "datePosted": 1789711766,
       "source": "aggregator",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+      "company": "Stripe",
+      "title": "Software Engineer - Early Career - Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "location": "Seattle, WA, SF, NYC",
+      "datePosted": 1789694971,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
