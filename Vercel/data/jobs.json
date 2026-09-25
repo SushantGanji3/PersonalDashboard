@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T13:30:18Z",
-  "totalOpen": 1192,
+  "generatedAt": "2026-09-25T13:40:16Z",
+  "totalOpen": 1193,
   "totalNewgrad": 271,
-  "totalOther": 921,
+  "totalOther": 922,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,7 +25,7 @@
       "datePosted": 1790313688,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab66744c6fe0dec811a4aaf",
@@ -36,7 +36,7 @@
       "datePosted": 1790313684,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a99da70040e5c3d07599517",
@@ -47,7 +47,7 @@
       "datePosted": 1790313418,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab663e64873fd3fd852d250",
@@ -1139,6 +1139,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:6177e762-3444-42f7-97c6-b94abf15c039",
+      "company": "Fidelity",
+      "title": "Quantitative Research Intern",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905",
+      "location": "Boston, MA",
+      "datePosted": 1789948800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:2ea09470-e970-4deb-8ed2-481e7329c275",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer",
@@ -1312,17 +1323,6 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
