@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T12:30:18Z",
+  "generatedAt": "2026-09-25T12:40:15Z",
   "totalOpen": 1193,
-  "totalNewgrad": 270,
-  "totalOther": 923,
+  "totalNewgrad": 271,
+  "totalOther": 922,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -17,15 +17,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab656cd9d4843569fe4d4d3",
+      "id": "newgrad-jobs:6ab656cd4873fd3fd852d180",
       "company": "UST HealthProof",
       "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab656cd9d4843569fe4d4d3",
+      "url": "https://jobright.ai/jobs/info/6ab656cd4873fd3fd852d180",
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
       "datePosted": 1790309469,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a99c95213883870605905c9",
@@ -56,6 +56,17 @@
       "url": "https://jobright.ai/jobs/info/6aa05a58500b01124c778786",
       "location": "Denver, CO",
       "datePosted": 1790306181,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1790304497,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -490,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa02ed8dbc0e60e37e0bcf6",
+      "id": "newgrad-jobs:6aa040733b5aa83237b07e99",
       "company": "Mayo Clinic",
       "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa02ed8dbc0e60e37e0bcf6",
+      "url": "https://jobright.ai/jobs/info/6aa040733b5aa83237b07e99",
       "location": "Rochester, MN",
       "datePosted": 1790286452,
       "source": "newgrad-jobs",
@@ -787,17 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2bf6a78c69ff506c404b6",
-      "company": "Allegion",
-      "title": "Summer Intern - Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab2bf6a78c69ff506c404b6",
-      "location": "Carmel, IN",
-      "datePosted": 1790265276,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:d0f85828-c8e8-42fb-a47d-3f46e18db9d1",
       "company": "Tesla",
       "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
@@ -1073,17 +1073,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:4f096c73-afae-450f-b903-ace71c84d47f",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
-      "location": "San Diego, CA",
-      "datePosted": 1790035200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e85fe564-c92c-4c56-b2ce-41f4ca778811",
       "company": "RTX",
       "title": "Operations Software Engineering Intern - Summer 2027",
@@ -1324,6 +1313,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer",
+      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+      "location": "Seattle, WA, Arlington County, Arlington, VA",
+      "datePosted": 1789693504,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     }
   ]
 }
