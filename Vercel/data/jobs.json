@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:40:16Z",
+  "generatedAt": "2026-09-25T06:50:17Z",
   "totalOpen": 1206,
   "totalNewgrad": 282,
   "totalOther": 924,
@@ -39,6 +39,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa3b9de4233a2201a2b3280",
+      "company": "Rover.com",
+      "title": "Entry Level Software Engineer, Recommendations",
+      "url": "https://jobright.ai/jobs/info/6aa3b9de4233a2201a2b3280",
+      "location": "Seattle, WA",
+      "datePosted": 1790290495,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab5ed484873fd3fd852c372",
       "company": "Snowflake",
       "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
@@ -47,7 +58,7 @@
       "datePosted": 1790289800,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab5ed49d85922de20ce3c23",
@@ -127,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab601f49d4843569fe4cb3d",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab601f49d4843569fe4cb3d",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790287748,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
       "company": "Atlassian",
       "title": "Machine Learning Engineer",
@@ -146,7 +146,7 @@
       "datePosted": 1790287661,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
@@ -215,26 +215,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8766b5e8b6601d12903682",
+      "id": "newgrad-jobs:6a876ce1d34f700f87fc567b",
       "company": "Mayo Clinic",
       "title": "Software Engineer - Oracle Integration",
-      "url": "https://jobright.ai/jobs/info/6a8766b5e8b6601d12903682",
+      "url": "https://jobright.ai/jobs/info/6a876ce1d34f700f87fc567b",
       "location": "Rochester, MN",
       "datePosted": 1790286497,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa027e4a2266b538d22e6ff",
-      "company": "Mayo Clinic",
-      "title": "Associate AI/ML Engineer- Post Deployment Governance",
-      "url": "https://jobright.ai/jobs/info/6aa027e4a2266b538d22e6ff",
-      "location": "Rochester, MN",
-      "datePosted": 1790286457,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa02ed8dbc0e60e37e0bcf6",
@@ -256,7 +245,7 @@
       "datePosted": 1790286373,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa39d834238ea18d430cf2a",
@@ -380,6 +369,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a53ce6a8a74e077472f9ac3",
+      "company": "Peraton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a53ce6a8a74e077472f9ac3",
+      "location": "Blacksburg, VA",
+      "datePosted": 1790271915,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ab5bcb49d4843569fe4be61",
       "company": "Amazon",
       "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
@@ -452,28 +452,6 @@
       "url": "https://jobright.ai/jobs/info/6a1ed4638049156781164b7b",
       "location": "Fort Meade, MD",
       "datePosted": 1790268620,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a53ce6a8a74e077472f9ac3",
-      "company": "Peraton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a53ce6a8a74e077472f9ac3",
-      "location": "Blacksburg, VA",
-      "datePosted": 1790268605,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5fa299d4843569fe4c909",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "Application Developer",
-      "url": "https://jobright.ai/jobs/info/6ab5fa299d4843569fe4c909",
-      "location": "Bellevue, WA",
-      "datePosted": 1790267734,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -564,7 +542,7 @@
       "datePosted": 1790265276,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab5a9ecc6fe0dec811a3014",
@@ -644,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
+      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
+      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1790261242,
       "source": "newgrad-jobs",
@@ -795,6 +773,28 @@
       "datePosted": 1790258633,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95fec94c22023a07937674",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://jobright.ai/jobs/info/6a95fec94c22023a07937674",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "datePosted": 1790258633,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aadaf203dbb1f8967cef037",
+      "company": "Tesla",
+      "title": "Internship, Embedded Software Engineer, Body Controls Firmware (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6aadaf203dbb1f8967cef037",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790258633,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": false
     },
     {
