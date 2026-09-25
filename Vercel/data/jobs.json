@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T00:50:19Z",
-  "totalOpen": 1202,
-  "totalNewgrad": 281,
+  "generatedAt": "2026-09-25T01:00:19Z",
+  "totalOpen": 1201,
+  "totalNewgrad": 280,
   "totalOther": 921,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -116,6 +116,50 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab58d7b4873fd3fd852a6c9",
+      "company": "Resmed",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab58d7b4873fd3fd852a6c9",
+      "location": "San Diego, CA",
+      "datePosted": 1790268874,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab5a36fb3db59402d0fe5c2",
+      "company": "Peraton",
+      "title": "Junior Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab5a36fb3db59402d0fe5c2",
+      "location": "Chantilly, VA; Springfield, VA",
+      "datePosted": 1790268620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a1ed4638049156781164b7b",
+      "company": "Peraton",
+      "title": "Junior Systems Engineer, TS/SCI w/Poly",
+      "url": "https://jobright.ai/jobs/info/6a1ed4638049156781164b7b",
+      "location": "Fort Meade, MD",
+      "datePosted": 1790268620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab5a5a44873fd3fd852b4b4",
+      "company": "AppLovin",
+      "title": "ML Data Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab5a5a44873fd3fd852b4b4",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790268369,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ab5833cb3db59402d0fd10e",
       "company": "Notion",
       "title": "Software Engineer Intern, Mobile (Winter 2027)",
@@ -138,28 +182,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab5adce4873fd3fd852b8d7",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab5adce4873fd3fd852b8d7",
-      "location": "Atlanta, GA; Bellevue, WA; Frisco, TX; Overland Park, KS",
-      "datePosted": 1790266206,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5ad98b3db59402d0fead7",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab5ad98b3db59402d0fead7",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790266152,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa381224238ea18d430c10b",
       "company": "RF-SMART",
       "title": "Product Engineering Software Developer Internship - Spring & Summer 2027",
@@ -168,17 +190,6 @@
       "datePosted": 1790265811,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab58d7b4873fd3fd852a6c9",
-      "company": "Resmed",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab58d7b4873fd3fd852a6c9",
-      "location": "San Diego, CA",
-      "datePosted": 1790265597,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -270,28 +281,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab5a5a44873fd3fd852b4b4",
-      "company": "AppLovin",
-      "title": "ML Data Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab5a5a44873fd3fd852b4b4",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790264116,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5a36fb3db59402d0fe5c2",
-      "company": "Peraton",
-      "title": "Junior Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab5a36fb3db59402d0fe5c2",
-      "location": "Chantilly, VA; Springfield, VA",
-      "datePosted": 1790263551,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab57921d85922de20ce1433",
       "company": "Noblis",
       "title": "Control Systems Programmer",
@@ -353,28 +342,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1790261242,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3fead1d92e2d05d112ca8",
-      "company": "General Dynamics",
-      "title": "Software Engineer \u2013 Entry Level - Top Secret Clearance Required",
-      "url": "https://jobright.ai/jobs/info/6aa3fead1d92e2d05d112ca8",
-      "location": "Dedham, MA",
-      "datePosted": 1790261182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab4fddb634ec6aa7c0cceb1",
-      "company": "Optum",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab4fddb634ec6aa7c0cceb1",
-      "location": "United States",
-      "datePosted": 1790260995,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -760,6 +727,39 @@
       "url": "https://jobright.ai/jobs/info/6aacd7353dbb1f8967ceb96f",
       "location": "Santa Clara, CA; Redmond, WA",
       "datePosted": 1790257625,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab56fb9d85922de20ce113b",
+      "company": "Equinix",
+      "title": "SkillBridge, Application Security Engineer - Trainee",
+      "url": "https://jobright.ai/jobs/info/6ab56fb9d85922de20ce113b",
+      "location": "Dallas, TX",
+      "datePosted": 1790257550,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3865c959a10d7230d2230",
+      "company": "Tanium",
+      "title": "Software Engineering Intern \u2013\u00a0Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa3865c959a10d7230d2230",
+      "location": "Durham, NC; Emeryville, CA",
+      "datePosted": 1790257503,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab575c5c6fe0dec811a12bb",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab575c5c6fe0dec811a12bb",
+      "location": "Bellevue, WA",
+      "datePosted": 1790257399,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
