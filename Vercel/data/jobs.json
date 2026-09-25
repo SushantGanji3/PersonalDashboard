@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T06:10:16Z",
-  "totalOpen": 1203,
-  "totalNewgrad": 280,
+  "generatedAt": "2026-09-25T06:20:16Z",
+  "totalOpen": 1204,
+  "totalNewgrad": 281,
   "totalOther": 923,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -94,6 +94,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab601f49d4843569fe4cb3d",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab601f49d4843569fe4cb3d",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790287748,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
       "company": "Atlassian",
       "title": "Machine Learning Engineer - 2027 Graduate",
@@ -127,26 +138,70 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2bd9330340229a322f735",
+      "id": "newgrad-jobs:6ab600bdb3db59402d0ff9c9",
+      "company": "Kearney",
+      "title": "Kearney Activate - Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ab600bdb3db59402d0ff9c9",
+      "location": "Washington, DC; Arlington, VA; Boston, MA; East Coast, United States",
+      "datePosted": 1790287437,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3ac3e5c11cce3603658d8",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3ac3e5c11cce3603658d8",
+      "location": "San Jose, CA",
+      "datePosted": 1790287140,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab5fef9d85922de20ce403b",
+      "company": "BurnBot",
+      "title": "Software Engineer, Entry Level",
+      "url": "https://jobright.ai/jobs/info/6ab5fef9d85922de20ce403b",
+      "location": "South San Francisco, CA",
+      "datePosted": 1790286985,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8766b5e8b6601d12903682",
+      "company": "Mayo Clinic",
+      "title": "Software Engineer - Oracle Integration",
+      "url": "https://jobright.ai/jobs/info/6a8766b5e8b6601d12903682",
+      "location": "Rochester, MN",
+      "datePosted": 1790286497,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa027e4a2266b538d22e6ff",
       "company": "Mayo Clinic",
       "title": "Associate AI/ML Engineer- Post Deployment Governance",
-      "url": "https://jobright.ai/jobs/info/6ab2bd9330340229a322f735",
+      "url": "https://jobright.ai/jobs/info/6aa027e4a2266b538d22e6ff",
       "location": "Rochester, MN",
       "datePosted": 1790286457,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa040733b5aa83237b07e99",
+      "id": "newgrad-jobs:6aa02ed8dbc0e60e37e0bcf6",
       "company": "Mayo Clinic",
       "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa040733b5aa83237b07e99",
+      "url": "https://jobright.ai/jobs/info/6aa02ed8dbc0e60e37e0bcf6",
       "location": "Rochester, MN",
       "datePosted": 1790286452,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa39d834238ea18d430cf2a",
@@ -301,6 +356,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab60517d85922de20ce417d",
+      "company": "General Dynamics",
+      "title": "Software Developer (DevOps)",
+      "url": "https://jobright.ai/jobs/info/6ab60517d85922de20ce417d",
+      "location": "Philadelphia, PA",
+      "datePosted": 1790269200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab5ed49d85922de20ce3c23",
@@ -545,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1790261242,
       "source": "newgrad-jobs",
@@ -718,72 +784,6 @@
       "datePosted": 1790258633,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5900cc6fe0dec811a20a1",
-      "company": "Geospatial Consulting Group International, LLC (geocgi)",
-      "title": "Application Developer Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6ab5900cc6fe0dec811a20a1",
-      "location": "United States",
-      "datePosted": 1790258588,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a56beaee9b77f668bd65969",
-      "company": "Twitch",
-      "title": "Software Engineer I, Discovery",
-      "url": "https://jobright.ai/jobs/info/6a56beaee9b77f668bd65969",
-      "location": "San Francisco, CA",
-      "datePosted": 1790258553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab486bb0e0ae54eeea48bc9",
-      "company": "Ramp",
-      "title": "Software Engineering Intern, Android",
-      "url": "https://jobright.ai/jobs/info/6ab486bb0e0ae54eeea48bc9",
-      "location": "New York, NY",
-      "datePosted": 1790258553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab486b8ef911c35dffa5763",
-      "company": "Ramp",
-      "title": "Software Engineering Intern, iOS",
-      "url": "https://jobright.ai/jobs/info/6ab486b8ef911c35dffa5763",
-      "location": "New York, NY",
-      "datePosted": 1790258553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab4719f7bd0813713317a30",
-      "company": "Ramp",
-      "title": "Software Engineering Intern, Backend",
-      "url": "https://jobright.ai/jobs/info/6ab4719f7bd0813713317a30",
-      "location": "New York, NY",
-      "datePosted": 1790258553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab58fbab3db59402d0fda23",
-      "company": "National Security Agency",
-      "title": "AI Engineer - Entry to Expert Level (Maryland)",
-      "url": "https://jobright.ai/jobs/info/6ab58fbab3db59402d0fda23",
-      "location": "Fort Meade, MD",
-      "datePosted": 1790258506,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
