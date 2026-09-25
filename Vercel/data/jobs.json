@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-25T11:40:16Z",
+  "generatedAt": "2026-09-25T11:50:17Z",
   "totalOpen": 1195,
   "totalNewgrad": 273,
   "totalOther": 922,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a99c95213883870605905c9",
+      "company": "Torc Robotics",
+      "title": "Software Engineer, I - Data Engineering",
+      "url": "https://jobright.ai/jobs/info/6a99c95213883870605905c9",
+      "location": "United States",
+      "datePosted": 1790308720,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a9999ec551435518ebef849",
       "company": "Saab, Inc.",
@@ -14,7 +25,7 @@
       "datePosted": 1790308236,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa05b3adbc0e60e37e0d201",
@@ -25,6 +36,17 @@
       "datePosted": 1790306880,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa05a58500b01124c778786",
+      "company": "Medpace",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa05a58500b01124c778786",
+      "location": "Denver, CO",
+      "datePosted": 1790306181,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -457,10 +479,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa02ed8dbc0e60e37e0bcf6",
+      "id": "newgrad-jobs:6aa040733b5aa83237b07e99",
       "company": "Mayo Clinic",
       "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa02ed8dbc0e60e37e0bcf6",
+      "url": "https://jobright.ai/jobs/info/6aa040733b5aa83237b07e99",
       "location": "Rochester, MN",
       "datePosted": 1790286452,
       "source": "newgrad-jobs",
@@ -771,28 +793,6 @@
       "url": "https://jobright.ai/jobs/info/6ab5a9ecc6fe0dec811a3014",
       "location": "United States",
       "datePosted": 1790265212,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab56440d85922de20ce0d0b",
-      "company": "Genesis Molecular AI",
-      "title": "Software Engineer Intern - 2027",
-      "url": "https://jobright.ai/jobs/info/6ab56440d85922de20ce0d0b",
-      "location": "San Mateo, CA; New York, NY",
-      "datePosted": 1790265023,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab60e809d4843569fe4ce30",
-      "company": "Optum",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab60e809d4843569fe4ce30",
-      "location": "United States",
-      "datePosted": 1790262112,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
