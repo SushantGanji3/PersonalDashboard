@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T07:30:18Z",
-  "totalOpen": 1200,
-  "totalNewgrad": 276,
+  "generatedAt": "2026-09-25T07:40:16Z",
+  "totalOpen": 1199,
+  "totalNewgrad": 275,
   "totalOther": 924,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -37,6 +37,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab61e574873fd3fd852ccad",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab61e574873fd3fd852ccad",
+      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790295015,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab5ed484873fd3fd852c372",
@@ -226,10 +237,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa02ed8dbc0e60e37e0bcf6",
+      "id": "newgrad-jobs:6aa027e4a2266b538d22e6ff",
+      "company": "Mayo Clinic",
+      "title": "Associate AI/ML Engineer- Post Deployment Governance",
+      "url": "https://jobright.ai/jobs/info/6aa027e4a2266b538d22e6ff",
+      "location": "Rochester, MN",
+      "datePosted": 1790286457,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa040733b5aa83237b07e99",
       "company": "Mayo Clinic",
       "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa02ed8dbc0e60e37e0bcf6",
+      "url": "https://jobright.ai/jobs/info/6aa040733b5aa83237b07e99",
       "location": "Rochester, MN",
       "datePosted": 1790286452,
       "source": "newgrad-jobs",
@@ -773,28 +795,6 @@
       "datePosted": 1790259121,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab57afeb3db59402d0fcdee",
-      "company": "Astranis Space Technologies",
-      "title": "Software Developer, Network Software Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab57afeb3db59402d0fcdee",
-      "location": "San Francisco, CA",
-      "datePosted": 1790258949,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7a2528b17cba5690365a31",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6a7a2528b17cba5690365a31",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790258633,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
