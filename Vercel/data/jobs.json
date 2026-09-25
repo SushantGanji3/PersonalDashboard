@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-25T12:40:15Z",
-  "totalOpen": 1193,
-  "totalNewgrad": 271,
+  "generatedAt": "2026-09-25T12:50:19Z",
+  "totalOpen": 1192,
+  "totalNewgrad": 270,
   "totalOther": 922,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab663e64873fd3fd852d250",
+      "company": "Welo Data",
+      "title": "Andromeda Sadiradra - Audio Rater - Generalist - English (United State)",
+      "url": "https://jobright.ai/jobs/info/6ab663e64873fd3fd852d250",
+      "location": "United States",
+      "datePosted": 1790312822,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab5bcb49d4843569fe4be61",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6ab5bcb49d4843569fe4be61",
+      "location": "Culver City, CA; Hawthorne, CA; Irvine, CA; Los Angeles, CA; Manhattan Beach, CA; Pasadena, CA; San Diego, CA; Santa Monica, CA; Redmond, WA",
+      "datePosted": 1790312478,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab5bc02b3db59402d0fecc2",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+      "url": "https://jobright.ai/jobs/info/6ab5bc02b3db59402d0fecc2",
+      "location": "Jessup, MD; Seattle, WA; Arlington, VA; Denver, CO",
+      "datePosted": 1790312428,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ab656ce4873fd3fd852d182",
       "company": "CyberProof",
@@ -25,7 +58,7 @@
       "datePosted": 1790309469,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a99c95213883870605905c9",
@@ -92,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7ccc65d77e8156a8e34520",
+      "company": "WD",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a7ccc65d77e8156a8e34520",
+      "location": "San Jose, CA; Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN",
+      "datePosted": 1790302511,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab60517d85922de20ce417d",
@@ -490,17 +534,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa027e4a2266b538d22e6ff",
-      "company": "Mayo Clinic",
-      "title": "Associate AI/ML Engineer- Post Deployment Governance",
-      "url": "https://jobright.ai/jobs/info/6aa027e4a2266b538d22e6ff",
-      "location": "Rochester, MN",
-      "datePosted": 1790286457,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa040733b5aa83237b07e99",
       "company": "Mayo Clinic",
       "title": "Associate AI/ML Engineer",
@@ -666,28 +699,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab5bcb49d4843569fe4be61",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-      "url": "https://jobright.ai/jobs/info/6ab5bcb49d4843569fe4be61",
-      "location": "Culver City, CA; Hawthorne, CA; Irvine, CA; Los Angeles, CA; Manhattan Beach, CA; Pasadena, CA; San Diego, CA; Santa Monica, CA; Redmond, WA",
-      "datePosted": 1790270020,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5bc02b3db59402d0fecc2",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
-      "url": "https://jobright.ai/jobs/info/6ab5bc02b3db59402d0fecc2",
-      "location": "Jessup, MD; Seattle, WA; Arlington, VA; Denver, CO",
-      "datePosted": 1790269842,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab5f1b0c6fe0dec811a3c0f",
       "company": "Costco IT",
       "title": "Platform Engineer - Manufacturing",
@@ -782,17 +793,6 @@
       "url": "https://jobright.ai/jobs/info/6ab56b4ac6fe0dec811a0ea6",
       "location": "Bala Cynwyd, PA",
       "datePosted": 1790265597,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5e341d85922de20ce3a22",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ab5e341d85922de20ce3a22",
-      "location": "Bellevue, WA",
-      "datePosted": 1790265454,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1323,7 +1323,7 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
