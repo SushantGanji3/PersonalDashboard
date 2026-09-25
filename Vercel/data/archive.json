@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T23:10:17Z",
+  "generatedAt": "2026-09-25T23:20:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1790376017
+    },
+    {
+      "id": "newgrad-jobs:6ab6f19539fd8792cb73cdb2",
+      "company": "Atlassian",
+      "title": "Research Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ab6f19539fd8792cb73cdb2",
+      "location": "Seattle, WA",
+      "datePosted": 1790349093,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1790378419
+    },
+    {
+      "id": "newgrad-jobs:6ab6adcc4873fd3fd852e984",
+      "company": "Allegion",
+      "title": "Summer Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6ab6adcc4873fd3fd852e984",
+      "location": "Golden, CO",
+      "datePosted": 1790348902,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "firstSeenAt": 1790378419
     },
     {
       "id": "newgrad-jobs:6aa50b2042411952ff9a6b12",
@@ -40063,17 +40085,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1789788925
-    },
-    {
-      "id": "simplify:1632dafb-504e-4866-820f-8dda5d003199",
-      "company": "Apple",
-      "title": "Systems Engineer - UI Compositing",
-      "url": "https://jobs.apple.com/en-us/details/200680183",
-      "location": "Cupertino, CA",
-      "datePosted": 1787785871,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
     }
   ]
 }
