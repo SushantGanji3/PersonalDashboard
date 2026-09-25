@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T22:40:17Z",
-  "totalOpen": 1186,
-  "totalNewgrad": 265,
+  "generatedAt": "2026-09-25T22:50:16Z",
+  "totalOpen": 1190,
+  "totalNewgrad": 269,
   "totalOther": 921,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,50 @@
       "location": "Orlando, FL, Southlake, TX",
       "datePosted": 1790374138,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "company": "Viasat",
+      "title": "Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "location": "Duluth, GA; Carlsbad, CA",
+      "datePosted": 1790348361,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa50b2042411952ff9a6b12",
+      "company": "Trace3",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa50b2042411952ff9a6b12",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1790348219,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab6ebe4d7fde2c08ec8a240",
+      "company": "Optum",
+      "title": "Data Engineer - Python ,AWS, SQL - Remote",
+      "url": "https://jobright.ai/jobs/info/6ab6ebe4d7fde2c08ec8a240",
+      "location": "United States",
+      "datePosted": 1790347636,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab69d1a4873fd3fd852e0a3",
+      "company": "RTX",
+      "title": "Infrastructure Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ab69d1a4873fd3fd852e0a3",
+      "location": "West Valley City, UT; Salt Lake City, UT",
+      "datePosted": 1790346723,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -446,17 +490,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab6c4814873fd3fd852f293",
-      "company": "Netrolynx AI",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab6c4814873fd3fd852f293",
-      "location": "United States",
-      "datePosted": 1790337553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9a2881551435518ebf3188",
       "company": "Amazon",
       "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
@@ -639,39 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ab6a7dbd85922de20ce6018",
       "location": "Chicago, IL",
       "datePosted": 1790330219,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a52c0efe726ec56126a450c",
-      "company": "SpaceX",
-      "title": "Software Infrastructure Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
-      "location": "Redmond, WA",
-      "datePosted": 1790329939,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
-      "datePosted": 1790329843,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab18e26d2a93d5a97ebb5da",
-      "company": "Mayo Clinic",
-      "title": "Software Engineer - Omniverse Simulation",
-      "url": "https://jobright.ai/jobs/info/6ab18e26d2a93d5a97ebb5da",
-      "location": "Rochester, MN",
-      "datePosted": 1790329602,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
