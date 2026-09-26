@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-26T19:22:00Z",
-  "totalOpen": 1182,
-  "totalNewgrad": 269,
+  "generatedAt": "2026-09-26T19:30:16Z",
+  "totalOpen": 1184,
+  "totalNewgrad": 271,
   "totalOther": 913,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a863807e459fa3baa866d31",
+      "company": "Infineon Technologies",
+      "title": "Internship - Embedded Systems EngineerInternship - Embedded Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a863807e459fa3baa866d31",
+      "location": "Austin, TX",
+      "datePosted": 1790421231,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a461b583dbab558e29a3c8f",
       "company": "SpaceX",
@@ -48,6 +59,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1c08e191d8c340dbdcbc3",
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "title": "Application Developer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ab1c08e191d8c340dbdcbc3",
+      "location": "Topeka, KS",
+      "datePosted": 1790417755,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9b197cd5ff1f3f1c39da60",
@@ -622,11 +644,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a99d734551435518ebf1806",
+      "id": "newgrad-jobs:6a99d73e551435518ebf181b",
       "company": "Spectrum",
       "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a99d734551435518ebf1806",
-      "location": "Maryland Heights, MO",
+      "url": "https://jobright.ai/jobs/info/6a99d73e551435518ebf181b",
+      "location": "Maryland Heights, MO; St. Louis, MO",
       "datePosted": 1790390474,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -662,28 +684,6 @@
       "location": "Seattle, WA",
       "datePosted": 1790384804,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa59538930bff471a29f378",
-      "company": "Rosenbauer America",
-      "title": "RMN Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa59538930bff471a29f378",
-      "location": "Wyoming, MN",
-      "datePosted": 1790380341,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a734bf06a034212ea0269c0",
-      "company": "TikTok",
-      "title": "Student Researcher - (Seed Model - Speech) \u2013 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6a734bf06a034212ea0269c0",
-      "location": "San Jose, CA",
-      "datePosted": 1790379744,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
