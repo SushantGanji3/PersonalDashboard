@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-26T15:10:16Z",
-  "totalOpen": 1175,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-09-26T15:20:15Z",
+  "totalOpen": 1178,
+  "totalNewgrad": 265,
   "totalOther": 913,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790408016,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7f67a1927c79391ad08af0",
@@ -25,6 +25,39 @@
       "datePosted": 1790407177,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a72950702d93145bf895467",
+      "company": "SpaceX",
+      "title": "Full Stack Engineer (Application Software)",
+      "url": "https://jobright.ai/jobs/info/6a72950702d93145bf895467",
+      "location": "Hawthorne, CA",
+      "datePosted": 1790406212,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9ad6f2138838706059452f",
+      "company": "Anduril",
+      "title": "Mission Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9ad6f2138838706059452f",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1790405870,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a62a7cac28982326de97e9c",
+      "company": "Verkada",
+      "title": "Embedded Software Engineer, Access Control",
+      "url": "https://jobright.ai/jobs/info/6a62a7cac28982326de97e9c",
+      "location": "San Mateo, CA",
+      "datePosted": 1790405866,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -36,7 +69,7 @@
       "datePosted": 1790405835,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9af7932cdc5958f53e9e6e",
@@ -355,7 +388,7 @@
       "datePosted": 1790390474,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a714ff19a0ca4480c7d3c3d",
@@ -685,39 +718,6 @@
       "datePosted": 1790368397,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2f0b71508734c1530cb60",
-      "company": "Clearwater Analytics",
-      "title": "Quantitative Developer I",
-      "url": "https://jobright.ai/jobs/info/6ab2f0b71508734c1530cb60",
-      "location": "New York, NY",
-      "datePosted": 1790367603,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6da1981e327c4bf2017d7",
-      "company": "Nelnet",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab6da1981e327c4bf2017d7",
-      "location": "Lincoln, NE",
-      "datePosted": 1790364827,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6e08d3a2ec87116e246c0",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink Ground Network)",
-      "url": "https://jobright.ai/jobs/info/6ab6e08d3a2ec87116e246c0",
-      "location": "Redmond, WA",
-      "datePosted": 1790362591,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
