@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-26T11:20:16Z",
-  "totalOpen": 1181,
-  "totalNewgrad": 268,
+  "generatedAt": "2026-09-26T11:30:20Z",
+  "totalOpen": 1179,
+  "totalNewgrad": 266,
   "totalOther": 913,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab7a157d7fde2c08ec8bc92",
+      "company": "TikTok",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ab7a157d7fde2c08ec8bc92",
+      "location": "Seattle, WA",
+      "datePosted": 1790394087,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9b3a1f9c24314c35f986f3",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9b3a1f9c24314c35f986f3",
+      "location": "Irvine, CA; Palo Alto, CA",
+      "datePosted": 1790393963,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab79fe562bb1fbd451de22f",
       "company": "ECS",
@@ -14,7 +36,7 @@
       "datePosted": 1790393717,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9afcd290a313642c658052",
@@ -25,7 +47,7 @@
       "datePosted": 1790392945,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:69b9cedb56973837413f5e12",
@@ -47,18 +69,40 @@
       "datePosted": 1790390895,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a456bb33dbab558e29a1371",
+      "company": "Optiver",
+      "title": "Software Engineer Intern (Summer 2027 - Austin)",
+      "url": "https://jobright.ai/jobs/info/6a456bb33dbab558e29a1371",
+      "location": "Austin, TX; Chicago, IL",
+      "datePosted": 1790390720,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
-      "id": "newgrad-jobs:6a99d739551435518ebf1814",
+      "id": "newgrad-jobs:6a714ff19a0ca4480c7d3c3d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Ads Interface) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714ff19a0ca4480c7d3c3d",
+      "location": "San Jose, CA",
+      "datePosted": 1790390222,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9a0f22ad752e2ad55039ed",
       "company": "Spectrum",
       "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a99d739551435518ebf1814",
+      "url": "https://jobright.ai/jobs/info/6a9a0f22ad752e2ad55039ed",
       "location": "Charlotte, NC; Town and Country, MO",
       "datePosted": 1790389361,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa7f10e3a9f0a4fe6f1666d",
@@ -70,6 +114,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9b153ed5ff1f3f1c39d933",
+      "company": "CNH",
+      "title": "Embedded Software Engineer Intern 1",
+      "url": "https://jobright.ai/jobs/info/6a9b153ed5ff1f3f1c39d933",
+      "location": "New Holland, PA",
+      "datePosted": 1790388464,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7f6404ad9ff00c26baded5",
@@ -663,61 +718,6 @@
       "datePosted": 1790353024,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab7008639fd8792cb73d181",
-      "company": "IBM",
-      "title": "Back End Developer Intern 2027 - Tucson",
-      "url": "https://jobright.ai/jobs/info/6ab7008639fd8792cb73d181",
-      "location": "Tucson, AZ",
-      "datePosted": 1790352918,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab70085d7fde2c08ec8a7ad",
-      "company": "IBM",
-      "title": "Backend Developer Intern - Austin, TX - 2027",
-      "url": "https://jobright.ai/jobs/info/6ab70085d7fde2c08ec8a7ad",
-      "location": "Austin, TX",
-      "datePosted": 1790352917,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6cb6a39fd8792cb73c19e",
-      "company": "Roblox",
-      "title": "Software Engineer, GenAI Platform",
-      "url": "https://jobright.ai/jobs/info/6ab6cb6a39fd8792cb73c19e",
-      "location": "San Mateo, CA",
-      "datePosted": 1790352901,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab729c881e327c4bf202da4",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "Backend Developer Intern - Austin, TX - 2027",
-      "url": "https://jobright.ai/jobs/info/6ab729c881e327c4bf202da4",
-      "location": "Austin, TX",
-      "datePosted": 1790352650,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6a3b8d85922de20ce5dc3",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Software Analyst / Developer, Emerging Talent Intern (Fall)",
-      "url": "https://jobright.ai/jobs/info/6ab6a3b8d85922de20ce5dc3",
-      "location": "New York, NY",
-      "datePosted": 1790352642,
-      "source": "newgrad-jobs",
-      "season": "Fall",
       "isNew": false
     },
     {
