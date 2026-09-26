@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-26T13:00:19Z",
-  "totalOpen": 895,
-  "totalNewgrad": 269,
-  "totalOther": 626,
+  "generatedAt": "2026-09-26T13:10:17Z",
+  "totalOpen": 1180,
+  "totalNewgrad": 268,
+  "totalOther": 912,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a54dd4481744f383a3137f3",
+      "company": "Hasana, Inc.",
+      "title": "Web Developer/Programmer Internship",
+      "url": "https://jobright.ai/jobs/info/6a54dd4481744f383a3137f3",
+      "location": "Los Angeles, CA",
+      "datePosted": 1790401643,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a591107686b4755d1e0e384",
+      "company": "Together AI",
+      "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+      "url": "https://jobright.ai/jobs/info/6a591107686b4755d1e0e384",
+      "location": "San Francisco, CA",
+      "datePosted": 1790401480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a714fd102d93145bf88ef3d",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714fd102d93145bf88ef3d",
+      "location": "San Jose, CA",
+      "datePosted": 1790400874,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9aeee990a313642c656bfa",
+      "company": "Huntington National Bank",
+      "title": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
+      "url": "https://jobright.ai/jobs/info/6a9aeee990a313642c656bfa",
+      "location": "Minnetonka, MN; Columbus, OH",
+      "datePosted": 1790400538,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a9b19ed90a313642c658978",
       "company": "Garmin",
@@ -215,17 +259,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
-      "company": "Booz Allen Hamilton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
-      "location": "Beavercreek, OH",
-      "datePosted": 1790390243,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a714ff19a0ca4480c7d3c3d",
       "company": "TikTok",
       "title": "Software Engineer Intern (Ads Interface) - 2027 Summer",
@@ -353,6 +386,17 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
       "location": "Mountain View, CA",
       "datePosted": 1790374584,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:40bf0d3e-456c-4a73-a81b-3767a13f72ea",
+      "company": "Charles Schwab",
+      "title": "Associate Software Development Engineer",
+      "url": "https://career-schwab.icims.com/jobs/126526/job?mobile=true&needsRedirect=false",
+      "location": "Orlando, FL, Southlake, TX",
+      "datePosted": 1790374138,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -644,28 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab7053e39fd8792cb73d245",
-      "company": "The Aerospace Corporation",
-      "title": "2027 Software Systems Engineer and Acquisition Intern",
-      "url": "https://jobright.ai/jobs/info/6ab7053e39fd8792cb73d245",
-      "location": "El Segundo, CA; Chantilly, VA",
-      "datePosted": 1790361024,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab7053739fd8792cb73d23a",
-      "company": "The Aerospace Corporation",
-      "title": "2027 Cloud Solutions Engineer / Site Reliability Undergrad Intern",
-      "url": "https://jobright.ai/jobs/info/6ab7053739fd8792cb73d23a",
-      "location": "El Segundo, CA; Chantilly, VA; Colorado Springs, CO",
-      "datePosted": 1790361024,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab718acba1c25652c6113c2",
       "company": "Southern Glazer's Wine & Spirits",
       "title": "2027 Summer Internship AI Engineer (OneTech)- Miramar, FL Job Details | Southern Glazer\u2019s Wine and Spirits, LLC",
@@ -699,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab6d51cba1c25652c610239",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Consumer Domains",
-      "url": "https://jobright.ai/jobs/info/6ab6d51cba1c25652c610239",
-      "location": "Newark, NJ",
-      "datePosted": 1790356593,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
       "company": "Snowflake",
       "title": "Software Engineer Intern - Database Engineering",
@@ -732,6 +743,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+      "company": "Apple",
+      "title": "Software Engineer - Applied AI",
+      "url": "https://jobs.apple.com/en-us/details/200684521",
+      "location": "San Diego, CA",
+      "datePosted": 1790298409,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
       "company": "RTX",
       "title": "Software Engineer Intern - Summer 2027",
@@ -740,6 +762,28 @@
       "datePosted": 1790294400,
       "source": "aggregator",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:777dc751-d5f0-4f2d-97c7-9d205411e8c1",
+      "company": "RTX",
+      "title": "Software Engineer 1 - Gen4 Airborne Radar",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039",
+      "location": "El Segundo, CA",
+      "datePosted": 1790294400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
+      "company": "Block",
+      "title": "Data Scientist - Payments",
+      "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
+      "location": "San Francisco Bay Area, CA",
+      "datePosted": 1790288564,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -754,12 +798,45 @@
       "isNew": false
     },
     {
+      "id": "simplify:6760a173-39b3-42f0-bd2a-6e007b814c65",
+      "company": "General Dynamics",
+      "title": "Entry Level Software Developer",
+      "url": "https://careers-gdeb.icims.com/jobs/20673/job?mobile=true&needsRedirect=false",
+      "location": "New London, CT",
+      "datePosted": 1790288242,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:b60dd607-5a1b-423f-a318-f333734e8063",
       "company": "Susquehanna International Group",
       "title": "Machine Learning Engineer Intern",
       "url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false",
       "location": "Bala Cynwyd, PA",
       "datePosted": 1790288170,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18",
+      "company": "Charles Schwab",
+      "title": "Java Software Engineer",
+      "url": "https://career-schwab.icims.com/jobs/125797/job?mobile=true&needsRedirect=false",
+      "location": "Austin, TX, Southlake, TX, Jersey City, NJ",
+      "datePosted": 1790287790,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
+      "company": "Atlassian",
+      "title": "Machine Learning Engineer - 2027 Graduate",
+      "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+      "location": "Seattle, WA",
+      "datePosted": 1790287661,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -842,12 +919,45 @@
       "isNew": false
     },
     {
+      "id": "simplify:5fb1595f-945f-47e2-89dc-05bd4bf09da3",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA_R10252863",
+      "location": "Dulles, VA",
+      "datePosted": 1790208000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9",
+      "company": "Adobe",
+      "title": "Software Engineer New Grad",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+      "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT",
+      "datePosted": 1790208000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:cb130a57-72be-4745-8c77-a3538eea00b7",
       "company": "Figma",
       "title": "Data Engineer Intern",
       "url": "https://boards.greenhouse.io/figma/jobs/6178851004",
       "location": "SF, NYC",
       "datePosted": 1790203172,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:1f43ae17-edcd-41d2-ae22-578b9224a6e9",
+      "company": "Scale AI",
+      "title": "Software Engineer New Grad - Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+      "location": "SF",
+      "datePosted": 1790202325,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -872,6 +982,17 @@
       "datePosted": 1790126216,
       "source": "aggregator",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
+      "company": "Microsoft",
+      "title": "Software Engineer - Cleared",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
+      "location": "Reston, VA",
+      "datePosted": 1790125610,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -903,6 +1024,17 @@
       "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
       "location": "Seattle, WA, SF, NYC",
       "datePosted": 1790115651,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:4592c922-5f50-4174-9938-79cc848b1e39",
+      "company": "Cisco",
+      "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
+      "url": "https://careers.cisco.com/global/en/job/2025313",
+      "location": "Austin, TX",
+      "datePosted": 1790115641,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1018,6 +1150,39 @@
       "isNew": false
     },
     {
+      "id": "simplify:6a0248da-3508-46b4-90f1-07d13627e1c1",
+      "company": "Cisco",
+      "title": "Software Engineer Compiler 1",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313",
+      "location": "Austin, TX",
+      "datePosted": 1790035200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:52e1ca75-9907-44e4-9bde-6834837fe9e3",
+      "company": "Qualcomm",
+      "title": "Backend Software Engineer - Software Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721162271",
+      "location": "San Diego, CA",
+      "datePosted": 1790029581,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:86139554-385a-4f87-8d17-427b8cf60ed9",
+      "company": "L3Harris",
+      "title": "Associate Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1431958600/?ats=successfactors",
+      "location": "Greenville, TX",
+      "datePosted": 1790028588,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:26e7fc97-03fa-4445-8338-fdad5cb0812c",
       "company": "Mercury",
       "title": "Software Engineering Intern - Spring 2027",
@@ -1077,6 +1242,17 @@
       "company": "Together AI",
       "title": "Systems Research Engineer Intern - GPU Programming",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
+      "location": "SF",
+      "datePosted": 1789770003,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:af76c7bd-9c7f-4bb7-8258-217044808327",
+      "company": "Together AI",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
       "location": "SF",
       "datePosted": 1789770003,
       "source": "aggregator",
@@ -1148,182 +1324,6 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
-    },
-    {
-      "id": "simplify:a0411f20-98d8-4615-8a27-21bcd5d82808",
-      "company": "Tesla",
-      "title": "Site Controller Software Engineer Intern - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/283956",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711910,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:93ef662e-5551-44f1-b92f-7803ee8a3ea1",
-      "company": "Tesla",
-      "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
-      "url": "https://www.tesla.com/careers/search/job/284003",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711767,
-      "source": "aggregator",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5eeb71a2-4362-490d-91b2-80bec3bb466d",
-      "company": "Tesla",
-      "title": "Internship - Software Engineering - People Products - Summer 2027",
-      "url": "https://www.tesla.com/careers/search/job/284004",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711766,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Summer",
-      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
-      "location": "Seattle, WA, Arlington County, Arlington, VA",
-      "datePosted": 1789693504,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6ed0b949-935d-4322-93b3-8acbe09cda9e",
-      "company": "Abridge",
-      "title": "Software Engineer Intern - Spring",
-      "url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true",
-      "location": "SF",
-      "datePosted": 1789683515,
-      "source": "aggregator",
-      "season": "Spring",
-      "isNew": false
-    },
-    {
-      "id": "simplify:2fe60cb9-2191-4584-9824-1cda213b3458",
-      "company": "General Dynamics",
-      "title": "Systems Engineer Intern - Autonomous Maritime Platforms",
-      "url": "https://careers-gdms.icims.com/jobs/74840/job?mobile=true&needsRedirect=false",
-      "location": "Quincy, MA",
-      "datePosted": 1789636465,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ad26d172-59a3-4f93-9750-94d260cfb4e5",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Maneuvering Tech",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-      "location": "SF",
-      "datePosted": 1789626800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0e98381f-67f0-44fd-989f-ede6ab83c56f",
-      "company": "General Dynamics",
-      "title": "Software Engineer Intern - Crypto and Cross Domain Solutions",
-      "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false",
-      "location": "Scottsdale, AZ",
-      "datePosted": 1789596920,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d2296cde-e528-4052-91a1-7fd74e94412a",
-      "company": "General Dynamics",
-      "title": "Information Technology Intern - Software Engineering - Computer Science",
-      "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false",
-      "location": "Newport, RI, New London, CT, North Kingstown, RI, North Stonington, CT, Groton, CT",
-      "datePosted": 1789568324,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:99b19d5b-03dd-438a-91db-fbb3b10e7201",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern - Thrive",
-      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
-      "location": "Pittsburgh, PA",
-      "datePosted": 1789511923,
-      "source": "aggregator",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "simplify:32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
-      "company": "Duolingo",
-      "title": "Software Engineer Intern",
-      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
-      "location": "Seattle, WA, Pittsburgh, PA, NYC",
-      "datePosted": 1789511923,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e5537bf8-fbbd-44ae-a003-71eee38408d2",
-      "company": "Anduril",
-      "title": "Software Engineer Co-op",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007",
-      "location": "Quincy, MA",
-      "datePosted": 1789509978,
-      "source": "aggregator",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "simplify:a529ee18-b6a1-4596-bc3a-31cb1890b708",
-      "company": "Anduril",
-      "title": "Flight Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007",
-      "location": "Costa Mesa, CA",
-      "datePosted": 1789509902,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8761ed1a-63bf-43df-8b6b-4a034fbf86c8",
-      "company": "General Dynamics",
-      "title": "Engineer Intern - Software Engineering",
-      "url": "https://careers-gdms.icims.com/jobs/74953/job?mobile=true&needsRedirect=false",
-      "location": "Bloomington, MN",
-      "datePosted": 1789481778,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d3c0c779-480d-4810-9393-88d215aa5e7e",
-      "company": "DoorDash",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
-      "location": "Seattle, WA, SF, LA, NYC, Sunnyvale, CA",
-      "datePosted": 1789435263,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": true
     }
   ]
 }
