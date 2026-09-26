@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:00:19Z",
+  "generatedAt": "2026-09-26T06:10:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -4324,6 +4324,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1790291451
+    },
+    {
+      "id": "simplify:5fb1595f-945f-47e2-89dc-05bd4bf09da3",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA_R10252863",
+      "location": "Dulles, VA",
+      "datePosted": 1790208000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1790403015
     },
     {
       "id": "newgrad-jobs:6ab4b7c217d731fd2c0c5bee",
@@ -40624,28 +40635,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789059018
-    },
-    {
-      "id": "newgrad-jobs:69813a687f40342e15da2d61",
-      "company": "Accenture Federal Services",
-      "title": "SAP HANA Developer",
-      "url": "https://jobright.ai/jobs/info/69813a687f40342e15da2d61",
-      "location": "United States; Washington, DC",
-      "datePosted": 1787810846,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a50ff34bf63b66c79977f10",
-      "company": "Accenture Federal Services",
-      "title": "SAP HANA Developer",
-      "url": "https://jobright.ai/jobs/info/6a50ff34bf63b66c79977f10",
-      "location": "United States; Washington, DC",
-      "datePosted": 1787810846,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788953421
     }
   ]
 }
