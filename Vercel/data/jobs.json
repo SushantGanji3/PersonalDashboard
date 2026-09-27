@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-27T23:00:56Z",
-  "totalOpen": 1183,
-  "totalNewgrad": 272,
+  "generatedAt": "2026-09-27T23:10:15Z",
+  "totalOpen": 1184,
+  "totalNewgrad": 273,
   "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa9c43b3387a3d9b67d6bce",
+      "company": "Johnson & Johnson",
+      "title": "Software Engineering Intern - Robotics R&D",
+      "url": "https://jobright.ai/jobs/info/6aa9c43b3387a3d9b67d6bce",
+      "location": "Santa Clara, CA",
+      "datePosted": 1790520897,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a7ec6b3b56bea5779c06fa3",
       "company": "Roblox",
@@ -26,6 +37,61 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8562d7c1a3fd7120f74ddc",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a8562d7c1a3fd7120f74ddc",
+      "location": "Santa Clara, CA",
+      "datePosted": 1790520830,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab208b7d2a93d5a97ebd905",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab208b7d2a93d5a97ebd905",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1790520830,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab4b79617d731fd2c0c5beb",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer Industrial Firmware, Energy Engineering (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab4b79617d731fd2c0c5beb",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790520830,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab538ee9d4843569fe487d1",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend II (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab538ee9d4843569fe487d1",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1790520830,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9659e7f28891320e8611d2",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC",
+      "url": "https://jobright.ai/jobs/info/6a9659e7f28891320e8611d2",
+      "location": "Charlotte, NC",
+      "datePosted": 1790520766,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9e2d6775edfa11b471070d",
@@ -58,7 +124,7 @@
       "datePosted": 1790520595,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
@@ -69,7 +135,7 @@
       "datePosted": 1790520595,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8f1e3ba10ee661e24d6ab4",
@@ -91,7 +157,7 @@
       "datePosted": 1790520595,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab58b43d85922de20ce1dc4",
@@ -113,7 +179,7 @@
       "datePosted": 1790520595,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab1cd90d43eb922ca0c11d7",
@@ -146,7 +212,7 @@
       "datePosted": 1790520531,
       "source": "newgrad-jobs",
       "season": "Spring",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a85630fe12474455273e11d",
@@ -179,7 +245,7 @@
       "datePosted": 1790520441,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab486bb0e0ae54eeea48bc9",
@@ -278,17 +344,6 @@
       "datePosted": 1790519639,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ab98b9d81e327c4bf205c97",
-      "company": "GenPark",
-      "title": "Machine Learning Intern",
-      "url": "https://jobright.ai/jobs/info/6ab98b9d81e327c4bf205c97",
-      "location": "United States",
-      "datePosted": 1790519597,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -311,7 +366,7 @@
       "datePosted": 1790519241,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a921369a27a2d3c9848b462",
@@ -399,7 +454,7 @@
       "datePosted": 1790518207,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5269a78ef95364ead8e36f",
@@ -606,61 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a2a2599c07d4b6ae1c44369",
       "location": "South San Francisco, CA",
       "datePosted": 1790486354,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a545587d007ee02d95fe785",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, Robotics",
-      "url": "https://jobright.ai/jobs/info/6a545587d007ee02d95fe785",
-      "location": "Austin, TX; South San Francisco, CA",
-      "datePosted": 1790483909,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab8f29dba1c25652c614161",
-      "company": "WITRON Group",
-      "title": "Junior IT Developer (MFC)",
-      "url": "https://jobright.ai/jobs/info/6ab8f29dba1c25652c614161",
-      "location": "Arlington Heights, IL",
-      "datePosted": 1790480429,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a16c1da202ae849ed8d4f40",
-      "company": "Whoop",
-      "title": "Software Engineer I (Backend)",
-      "url": "https://jobright.ai/jobs/info/6a16c1da202ae849ed8d4f40",
-      "location": "Boston, MA",
-      "datePosted": 1790478740,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a367d27649fdf16292fbc7a",
-      "company": "Oracle",
-      "title": "OCI Software Engineer Intern - OVIP",
-      "url": "https://jobright.ai/jobs/info/6a367d27649fdf16292fbc7a",
-      "location": "Austin, TX",
-      "datePosted": 1790476242,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab89e70ba1c25652c613e65",
-      "company": "Penn State University",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab89e70ba1c25652c613e65",
-      "location": "State College, PA",
-      "datePosted": 1790470402,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
