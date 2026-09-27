@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-27T23:10:15Z",
-  "totalOpen": 1184,
-  "totalNewgrad": 273,
+  "generatedAt": "2026-09-27T23:20:16Z",
+  "totalOpen": 1185,
+  "totalNewgrad": 274,
   "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a7501677b3417772ade2dde",
+      "company": "Snap Inc.",
+      "title": "Software Engineer, iOS, Level 3",
+      "url": "https://jobright.ai/jobs/info/6a7501677b3417772ade2dde",
+      "location": "Palo Alto, CA; Santa Monica, CA",
+      "datePosted": 1790520897,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab4236dd2f5fbd604be1cc0",
+      "company": "Microsoft",
+      "title": "Software Engineer - Android",
+      "url": "https://jobright.ai/jobs/info/6ab4236dd2f5fbd604be1cc0",
+      "location": "Mountain View, CA",
+      "datePosted": 1790520897,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aa9c43b3387a3d9b67d6bce",
       "company": "Johnson & Johnson",
@@ -14,7 +36,7 @@
       "datePosted": 1790520897,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7ec6b3b56bea5779c06fa3",
@@ -58,7 +80,7 @@
       "datePosted": 1790520830,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab4b79617d731fd2c0c5beb",
@@ -80,7 +102,7 @@
       "datePosted": 1790520830,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9659e7f28891320e8611d2",
@@ -91,7 +113,7 @@
       "datePosted": 1790520766,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e2d6775edfa11b471070d",
@@ -446,17 +468,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab9862fd7fde2c08ec8e1f4",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab9862fd7fde2c08ec8e1f4",
-      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790518207,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a5269a78ef95364ead8e36f",
       "company": "Hive",
       "title": "Machine Learning Engineer",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a639f03979290281c703344",
       "location": "San Mateo, CA",
       "datePosted": 1790486570,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a2a2599c07d4b6ae1c44369",
-      "company": "Neuralink",
-      "title": "Embedded Software Engineer, Implant Embedded Systems",
-      "url": "https://jobright.ai/jobs/info/6a2a2599c07d4b6ae1c44369",
-      "location": "South San Francisco, CA",
-      "datePosted": 1790486354,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
