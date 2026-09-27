@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-27T07:30:18Z",
-  "totalOpen": 1189,
-  "totalNewgrad": 277,
-  "totalOther": 912,
+  "generatedAt": "2026-09-27T07:40:16Z",
+  "totalOpen": 1190,
+  "totalNewgrad": 279,
+  "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab8c14462bb1fbd451dfdd0",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab8c14462bb1fbd451dfdd0",
+      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790467796,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab8c0e1d7fde2c08ec8d84b",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab8c0e1d7fde2c08ec8d84b",
+      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
+      "datePosted": 1790467697,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab89e70ba1c25652c613e65",
       "company": "Penn State University",
@@ -644,28 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9bb282c1d6f91bc38834bf",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, BCI Applications",
-      "url": "https://jobright.ai/jobs/info/6a9bb282c1d6f91bc38834bf",
-      "location": "Austin, TX; South San Francisco, CA",
-      "datePosted": 1790404710,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a545587d007ee02d95fe785",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, Robotics",
-      "url": "https://jobright.ai/jobs/info/6a545587d007ee02d95fe785",
-      "location": "Austin, TX; South San Francisco, CA",
-      "datePosted": 1790404707,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
       "company": "Tesla",
       "title": "Mobile Application Software Engineer Intern - Energy Engineering",
@@ -762,17 +762,6 @@
       "datePosted": 1790294400,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:777dc751-d5f0-4f2d-97c7-9d205411e8c1",
-      "company": "RTX",
-      "title": "Software Engineer 1 - Gen4 Airborne Radar",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039",
-      "location": "El Segundo, CA",
-      "datePosted": 1790294400,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     },
     {
@@ -1323,6 +1312,17 @@
       "datePosted": 1789711910,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:93ef662e-5551-44f1-b92f-7803ee8a3ea1",
+      "company": "Tesla",
+      "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
+      "url": "https://www.tesla.com/careers/search/job/284003",
+      "location": "Palo Alto, CA",
+      "datePosted": 1789711767,
+      "source": "aggregator",
+      "season": "Spring 2027",
       "isNew": false
     }
   ]
