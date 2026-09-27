@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T14:40:17Z",
-  "totalOpen": 1186,
-  "totalNewgrad": 275,
+  "generatedAt": "2026-09-27T14:50:16Z",
+  "totalOpen": 1185,
+  "totalNewgrad": 274,
   "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,29 @@
       "datePosted": 1790492734,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab920e53a2ec87116e28359",
+      "company": "Vertiv",
+      "title": "Software Engineering Test Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab920e53a2ec87116e28359",
+      "location": "Delaware, OH",
+      "datePosted": 1790492277,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a7f67b119ce4e6e9d9379a1",
+      "company": "Notion",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a7f67b119ce4e6e9d9379a1",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1790490256,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a0f44fd80bf0430c76322b7",
@@ -25,7 +47,7 @@
       "datePosted": 1790489214,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7ec6b3b56bea5779c06fa3",
@@ -36,28 +58,6 @@
       "datePosted": 1790488991,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a7f67b119ce4e6e9d9379a1",
-      "company": "Notion",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a7f67b119ce4e6e9d9379a1",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790488187,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a3ebf1cce7cce40b3421996",
-      "company": "Neuralink",
-      "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
-      "url": "https://jobright.ai/jobs/info/6a3ebf1cce7cce40b3421996",
-      "location": "Austin, TX; South San Francisco, CA",
-      "datePosted": 1790488141,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -66,7 +66,18 @@
       "title": "Software Engineer Intern, Infrastructure",
       "url": "https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55",
       "location": "Fremont, CA",
-      "datePosted": 1790487428,
+      "datePosted": 1790488580,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3ebf1cce7cce40b3421996",
+      "company": "Neuralink",
+      "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
+      "url": "https://jobright.ai/jobs/info/6a3ebf1cce7cce40b3421996",
+      "location": "Austin, TX; South San Francisco, CA",
+      "datePosted": 1790488477,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e235a2c964816f65ebca4",
       "location": "Baton Rouge, LA",
       "datePosted": 1790411394,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9ae256d5ff1f3f1c39b946",
-      "company": "Simon Property Group",
-      "title": "Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)",
-      "url": "https://jobright.ai/jobs/info/6a9ae256d5ff1f3f1c39b946",
-      "location": "Indianapolis, IN",
-      "datePosted": 1790410661,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
