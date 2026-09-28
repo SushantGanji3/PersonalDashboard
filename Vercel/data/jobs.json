@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T00:50:17Z",
-  "totalOpen": 1184,
-  "totalNewgrad": 273,
+  "generatedAt": "2026-09-28T00:52:14Z",
+  "totalOpen": 1183,
+  "totalNewgrad": 272,
   "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790529677,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab66744c6fe0dec811a4aaf",
@@ -116,17 +116,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab4b79617d731fd2c0c5beb",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer Industrial Firmware, Energy Engineering (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab4b79617d731fd2c0c5beb",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790520830,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab538ee9d4843569fe487d1",
       "company": "Cisco",
       "title": "Software Engineer Full Stack / Backend II (Intern) \u2013 United States",
@@ -212,17 +201,6 @@
       "datePosted": 1790520595,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6fe1f3a2ec87116e24f2d",
-      "company": "Tesla",
-      "title": "Internship, Mobile Application Software Engineer, Energy Engineering (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab6fe1f3a2ec87116e24f2d",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790520595,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -384,6 +362,17 @@
       "company": "Tesla",
       "title": "Internship, Embedded Software Engineer, Body Controls Firmware (Winter/Spring 2027)",
       "url": "https://jobright.ai/jobs/info/6aadaf203dbb1f8967cef037",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790519639,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab6eb5981e327c4bf201d58",
+      "company": "Tesla",
+      "title": "Internship, Mobile Application Software Engineer, Energy Engineering (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab6eb5981e327c4bf201d58",
       "location": "Palo Alto, CA",
       "datePosted": 1790519639,
       "source": "newgrad-jobs",
@@ -661,6 +650,17 @@
       "url": "https://jobright.ai/jobs/info/6a3ebf1cce7cce40b3421996",
       "location": "Austin, TX; South San Francisco, CA",
       "datePosted": 1790488477,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a639f03979290281c703344",
+      "company": "Verkada",
+      "title": "Backend Engineer - Connectivity",
+      "url": "https://jobright.ai/jobs/info/6a639f03979290281c703344",
+      "location": "San Mateo, CA",
+      "datePosted": 1790486570,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
