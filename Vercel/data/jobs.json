@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-28T16:40:17Z",
-  "totalOpen": 1163,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-09-28T16:50:16Z",
+  "totalOpen": 1154,
+  "totalNewgrad": 253,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aba8be2ad8589219ef7dcc2",
+      "company": "Welocalize",
+      "title": "English (United States) QA Audio Rater",
+      "url": "https://jobright.ai/jobs/info/6aba8be2ad8589219ef7dcc2",
+      "location": "United States",
+      "datePosted": 1790585202,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aba79a5ee0b348be7299b18",
+      "company": "Welo Data",
+      "title": "English (United States) QA Audio Rater",
+      "url": "https://jobright.ai/jobs/info/6aba79a5ee0b348be7299b18",
+      "location": "United States",
+      "datePosted": 1790584767,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aba8754be5f1e9325115e2b",
       "company": "American College of Obstetricians and Gynecologists (ACOG)",
@@ -14,7 +36,7 @@
       "datePosted": 1790584036,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aba85c97220f52e62ae6b17",
@@ -25,7 +47,7 @@
       "datePosted": 1790583641,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a54c43b82ab8a43579ce85f",
@@ -105,34 +127,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aba79a5ee0b348be7299b18",
-      "company": "Welo Data",
-      "title": "English (United States) QA Audio Rater",
-      "url": "https://jobright.ai/jobs/info/6aba79a5ee0b348be7299b18",
-      "location": "United States",
-      "datePosted": 1790580533,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aba77e37220f52e62ae66be",
       "company": "Welo Data",
       "title": "English (United States) Audio Rater",
       "url": "https://jobright.ai/jobs/info/6aba77e37220f52e62ae66be",
       "location": "United States",
       "datePosted": 1790580083,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aba65b6be5f1e9325115474",
-      "company": "Torentify",
-      "title": "Frontend Developer - AI Trainer | Remote",
-      "url": "https://jobright.ai/jobs/info/6aba65b6be5f1e9325115474",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1790579245,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -542,7 +542,7 @@
       "datePosted": 1790528400,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aba71f41acb8fc6f09bf9ae",
