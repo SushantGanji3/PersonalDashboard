@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-28T11:00:24Z",
-  "totalOpen": 1166,
+  "generatedAt": "2026-09-28T11:10:17Z",
+  "totalOpen": 1163,
   "totalNewgrad": 263,
-  "totalOther": 903,
+  "totalOther": 900,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -985,17 +985,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:fff73d24-2557-417b-a791-58567415f245",
-      "company": "Rippling",
-      "title": "Software Engineer Intern - Backend Focused",
-      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-      "location": "Seattle, WA, SF, NYC",
-      "datePosted": 1790115651,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:4592c922-5f50-4174-9938-79cc848b1e39",
       "company": "Cisco",
       "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
@@ -1323,6 +1312,17 @@
       "datePosted": 1789683713,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:6ed0b949-935d-4322-93b3-8acbe09cda9e",
+      "company": "Abridge",
+      "title": "Software Engineer Intern - Spring",
+      "url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true",
+      "location": "SF",
+      "datePosted": 1789683515,
+      "source": "aggregator",
+      "season": "Spring",
       "isNew": false
     }
   ]
