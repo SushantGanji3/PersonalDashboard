@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T21:20:17Z",
-  "totalOpen": 1146,
-  "totalNewgrad": 248,
+  "generatedAt": "2026-09-28T21:30:17Z",
+  "totalOpen": 1141,
+  "totalNewgrad": 243,
   "totalOther": 898,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1790601686,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7f67b119ce4e6e9d9379a1",
@@ -91,7 +91,18 @@
       "datePosted": 1790601522,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab68817634ec6aa7c0d2f36",
+      "company": "Microsoft",
+      "title": "Software Engineer - Intune",
+      "url": "https://jobright.ai/jobs/info/6ab68817634ec6aa7c0d2f36",
+      "location": "Cambridge, MA",
+      "datePosted": 1790601452,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab5833cb3db59402d0fd10e",
@@ -149,12 +160,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab1d21cf9692ca98b04bec2",
+      "company": "Qualcomm",
+      "title": "Machine Learning, Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab1d21cf9692ca98b04bec2",
+      "location": "San Diego, CA",
+      "datePosted": 1790600947,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a85630fe12474455273e11d",
       "company": "NVIDIA",
       "title": "NVIDIA 2027 Internships: Systems Software Engineering",
       "url": "https://jobright.ai/jobs/info/6a85630fe12474455273e11d",
       "location": "Santa Clara, CA",
       "datePosted": 1790600947,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab416947bd0813713315aac",
+      "company": "Amazon",
+      "title": "Data Engineer, Workforce Solutions - Talent Mobility",
+      "url": "https://jobright.ai/jobs/info/6ab416947bd0813713315aac",
+      "location": "Bellevue, WA",
+      "datePosted": 1790600597,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1a0eb191d8c340dbdbf57",
+      "company": "Qualcomm",
+      "title": "#Backend Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57",
+      "location": "San Diego, CA",
+      "datePosted": 1790600448,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -171,22 +215,22 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a8512f52f4f0014cae23fbf",
+      "company": "Deeter Analytics",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8512f52f4f0014cae23fbf",
+      "location": "United States",
+      "datePosted": 1790600305,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a57b63befb06a45240dca4f",
       "company": "Google DeepMind",
       "title": "Security Engineer, Detection",
       "url": "https://jobright.ai/jobs/info/6a57b63befb06a45240dca4f",
       "location": "Reston, VA",
-      "datePosted": 1790600286,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1d21cf9692ca98b04bec2",
-      "company": "Qualcomm",
-      "title": "Machine Learning, Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab1d21cf9692ca98b04bec2",
-      "location": "San Diego, CA",
       "datePosted": 1790600286,
       "source": "newgrad-jobs",
       "season": null,
@@ -212,17 +256,6 @@
       "datePosted": 1790600286,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab87aacba1c25652c61339a",
-      "company": "Microsoft",
-      "title": "Software Engineer - Intune",
-      "url": "https://jobright.ai/jobs/info/6ab87aacba1c25652c61339a",
-      "location": "Cambridge, MA",
-      "datePosted": 1790600217,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -265,17 +298,6 @@
       "url": "https://jobright.ai/jobs/info/6aa842b2930bff471a2a6274",
       "location": "United States",
       "datePosted": 1790600094,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abac558d2914e9273eed2de",
-      "company": "RealList",
-      "title": "Full-Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6abac558d2914e9273eed2de",
-      "location": "United States",
-      "datePosted": 1790599912,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -639,28 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6aba80d8ee0b348be7299d7e",
       "location": "Arlington, VA; Mount Laurel Township, NJ",
       "datePosted": 1790582376,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aba7f0aad8589219ef7d8d5",
-      "company": "Finastra",
-      "title": "AI Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aba7f0aad8589219ef7d8d5",
-      "location": "Atlanta, GA",
-      "datePosted": 1790581914,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aba77e37220f52e62ae66be",
-      "company": "Welo Data",
-      "title": "English (United States) Audio Rater",
-      "url": "https://jobright.ai/jobs/info/6aba77e37220f52e62ae66be",
-      "location": "United States",
-      "datePosted": 1790580083,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
