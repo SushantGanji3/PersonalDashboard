@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-28T11:30:20Z",
+  "generatedAt": "2026-09-28T11:40:16Z",
   "totalOpen": 1163,
-  "totalNewgrad": 263,
-  "totalOther": 900,
+  "totalNewgrad": 261,
+  "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9f8d7ba7ba386c5d675579",
+      "company": "Gilead Sciences",
+      "title": "Intern - CFO - IT (AI Engineer)",
+      "url": "https://jobright.ai/jobs/info/6a9f8d7ba7ba386c5d675579",
+      "location": "Raleigh, NC",
+      "datePosted": 1790566218,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a526d928ef95364ead8e4b6",
       "company": "CLEAR",
@@ -655,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a904c927c32860d14cf8841",
-      "company": "impact.com",
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a904c927c32860d14cf8841",
-      "location": "Seattle, WA",
-      "datePosted": 1790494583,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
       "company": "Tesla",
       "title": "Mobile Application Software Engineer Intern - Energy Engineering",
@@ -980,6 +980,17 @@
       "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
       "location": "Seattle, WA, SF, NYC",
       "datePosted": 1790115654,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:fff73d24-2557-417b-a791-58567415f245",
+      "company": "Rippling",
+      "title": "Software Engineer Intern - Backend Focused",
+      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "location": "Seattle, WA, SF, NYC",
+      "datePosted": 1790115651,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1789683713,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6ed0b949-935d-4322-93b3-8acbe09cda9e",
-      "company": "Abridge",
-      "title": "Software Engineer Intern - Spring",
-      "url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true",
-      "location": "SF",
-      "datePosted": 1789683515,
-      "source": "aggregator",
-      "season": "Spring",
       "isNew": false
     }
   ]
