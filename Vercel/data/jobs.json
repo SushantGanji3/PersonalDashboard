@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T02:10:18Z",
-  "totalOpen": 1184,
-  "totalNewgrad": 273,
+  "generatedAt": "2026-09-28T02:20:22Z",
+  "totalOpen": 1185,
+  "totalNewgrad": 274,
   "totalOther": 911,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790532551,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab9be36d7fde2c08ec8e6df",
@@ -25,7 +25,18 @@
       "datePosted": 1790532550,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab66744c6fe0dec811a4aaf",
+      "company": "McKinsey & Company",
+      "title": "AI Data Engineer Intern - QuantumBlack, AI by McKinsey",
+      "url": "https://jobright.ai/jobs/info/6ab66744c6fe0dec811a4aaf",
+      "location": "Atlanta, GA; Boston, MA; Chicago, IL; New York, NY",
+      "datePosted": 1790532276,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab9b559ba1c25652c614cfc",
@@ -56,17 +67,6 @@
       "url": "https://jobright.ai/jobs/info/6ab9b2fdd7fde2c08ec8e5db",
       "location": "Woodbridge, VA",
       "datePosted": 1790529677,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab66744c6fe0dec811a4aaf",
-      "company": "McKinsey & Company",
-      "title": "AI Data Engineer Intern - QuantumBlack, AI by McKinsey",
-      "url": "https://jobright.ai/jobs/info/6ab66744c6fe0dec811a4aaf",
-      "location": "Atlanta, GA; Boston, MA; Chicago, IL; New York, NY",
-      "datePosted": 1790527527,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
