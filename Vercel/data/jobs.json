@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-28T09:00:27Z",
-  "totalOpen": 1174,
+  "generatedAt": "2026-09-28T09:10:16Z",
+  "totalOpen": 1172,
   "totalNewgrad": 265,
-  "totalOther": 909,
+  "totalOther": 907,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1790556992,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aba09ac3a2ec87116e297f4",
@@ -985,17 +985,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:10410298-5914-4739-a1e4-898dbd865b17",
-      "company": "Hudson River Trading",
-      "title": "Data Scientist Intern",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
-      "location": "NYC",
-      "datePosted": 1790117294,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
       "company": "Rippling",
       "title": "Full Stack Software Engineer Intern",
@@ -1323,6 +1312,17 @@
       "datePosted": 1789694971,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer",
+      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+      "location": "Seattle, WA, Arlington County, Arlington, VA",
+      "datePosted": 1789693504,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
