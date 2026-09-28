@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-09-28T13:10:18Z",
-  "totalOpen": 1160,
-  "totalNewgrad": 259,
+  "generatedAt": "2026-09-28T13:20:19Z",
+  "totalOpen": 1163,
+  "totalNewgrad": 262,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aba602e7220f52e62ae60b5",
+      "company": "Torentify",
+      "title": "Software Engineer,C/C++. (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aba602e7220f52e62ae60b5",
+      "location": "United States",
+      "datePosted": 1790574014,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa7e3be2ed333b4ea5cc415",
+      "company": "Tive",
+      "title": "Software Engineer Co-op",
+      "url": "https://jobright.ai/jobs/info/6aa7e3be2ed333b4ea5cc415",
+      "location": "Boston, MA",
+      "datePosted": 1790573762,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a82aa80b5a0ac0e84a21c4a",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Basic Ranking) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a82aa80b5a0ac0e84a21c4a",
+      "location": "San Jose, CA",
+      "datePosted": 1790573498,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a701a2c41b41d325296dda9",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a701a2c41b41d325296dda9",
+      "location": "Seattle, WA",
+      "datePosted": 1790573496,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aba5e21ee0b348be72993d1",
+      "company": "North Carolina Department of Agriculture and Consumer Services",
+      "title": "Applications Programmer Analyst",
+      "url": "https://jobright.ai/jobs/info/6aba5e21ee0b348be72993d1",
+      "location": "Fort Myers, FL",
+      "datePosted": 1790573489,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a3e325f78237a036d5e388a",
+      "company": "Neuralink",
+      "title": "Firmware Engineer Intern, Robotics and Surgery Engineering",
+      "url": "https://jobright.ai/jobs/info/6a3e325f78237a036d5e388a",
+      "location": "South San Francisco, CA",
+      "datePosted": 1790573362,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a57ed969838a11e5d835aa7",
       "company": "Giga",
@@ -597,72 +663,6 @@
       "datePosted": 1790519241,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab18f6023005eee3545b248",
-      "company": "Amazon",
-      "title": "Data Engineer I, Zappos Analytics",
-      "url": "https://jobright.ai/jobs/info/6ab18f6023005eee3545b248",
-      "location": "New York, NY",
-      "datePosted": 1790519130,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab3de807bd081371331441f",
-      "company": "Amazon",
-      "title": "Data Engineer, Decision Intelligence Technology",
-      "url": "https://jobright.ai/jobs/info/6ab3de807bd081371331441f",
-      "location": "Bellevue, WA",
-      "datePosted": 1790519130,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab416947bd0813713315aac",
-      "company": "Amazon",
-      "title": "Data Engineer, Workforce Solutions - Talent Mobility",
-      "url": "https://jobright.ai/jobs/info/6ab416947bd0813713315aac",
-      "location": "Bellevue, WA",
-      "datePosted": 1790519130,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
-      "company": "Figma",
-      "title": "Data Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790519130,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a704c3aa605182afe22e82c",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a704c3aa605182afe22e82c",
-      "location": "San Jose, CA",
-      "datePosted": 1790508854,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5679dae9b77f668bd638d1",
-      "company": "Amentum",
-      "title": "C or C++ Junior Developer",
-      "url": "https://jobright.ai/jobs/info/6a5679dae9b77f668bd638d1",
-      "location": "Dahlgren, VA",
-      "datePosted": 1790503791,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
