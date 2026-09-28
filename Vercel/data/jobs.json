@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T06:40:19Z",
-  "totalOpen": 1172,
-  "totalNewgrad": 263,
+  "generatedAt": "2026-09-28T06:50:17Z",
+  "totalOpen": 1173,
+  "totalNewgrad": 264,
   "totalOther": 909,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -644,23 +644,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a2a24310c4972328e7e70ef",
-      "company": "Neuralink",
-      "title": "Embedded Software Engineer, Implant Embedded Systems",
-      "url": "https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
-      "location": "Austin, TX",
-      "datePosted": 1790492943,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6a0f484f83d714428981e3d4",
       "company": "Neuralink",
       "title": "Software Engineer Intern, Internal Apps",
       "url": "https://jobright.ai/jobs/info/6a0f484f83d714428981e3d4",
       "location": "South San Francisco, CA",
       "datePosted": 1790492247,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a0f453b619335383fb2a762",
+      "company": "Neuralink",
+      "title": "Software Engineer, BCI Applications",
+      "url": "https://jobright.ai/jobs/info/6a0f453b619335383fb2a762",
+      "location": "San Francisco, CA; South San Francisco, CA",
+      "datePosted": 1790491220,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
