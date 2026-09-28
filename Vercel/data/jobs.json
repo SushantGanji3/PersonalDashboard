@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-28T09:30:17Z",
-  "totalOpen": 1173,
+  "generatedAt": "2026-09-28T09:40:15Z",
+  "totalOpen": 1172,
   "totalNewgrad": 266,
-  "totalOther": 907,
+  "totalOther": 906,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -710,17 +710,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:40bf0d3e-456c-4a73-a81b-3767a13f72ea",
-      "company": "Charles Schwab",
-      "title": "Associate Software Development Engineer",
-      "url": "https://career-schwab.icims.com/jobs/126526/job?mobile=true&needsRedirect=false",
-      "location": "Orlando, FL, Southlake, TX",
-      "datePosted": 1790374138,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
       "company": "Snowflake",
       "title": "Software Engineer Intern - Database Engineering",
@@ -1324,6 +1313,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
+      "company": "General Dynamics",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false",
+      "location": "Salt Lake City, UT, Boise, ID",
+      "datePosted": 1789683713,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     }
   ]
 }
