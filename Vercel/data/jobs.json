@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-09-29T16:10:19Z",
-  "totalOpen": 1108,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-09-29T16:20:18Z",
+  "totalOpen": 1110,
+  "totalNewgrad": 233,
   "totalOther": 877,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abbd980d6acfd3dd29fa247",
+      "company": "Accenture Federal Services",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abbd980d6acfd3dd29fa247",
+      "location": "San Diego, CA",
+      "datePosted": 1790670608,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa0734a3b5aa83237b09340",
+      "company": "IBM",
+      "title": "Intern Application Developer 2027 - ServiceNow",
+      "url": "https://jobright.ai/jobs/info/6aa0734a3b5aa83237b09340",
+      "location": "Baton Rouge, LA",
+      "datePosted": 1790670330,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abbd3eea9a644f965688389",
+      "company": "Marvell Technology",
+      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abbd3eea9a644f965688389",
+      "location": "Santa Clara, CA",
+      "datePosted": 1790670135,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa95db5eff87f571fc99590",
+      "company": "apexanalytix",
+      "title": "Automation Developer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa95db5eff87f571fc99590",
+      "location": "United States",
+      "datePosted": 1790670119,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
+      "company": "Meta AI",
+      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abaac6cee0b348be729ad33",
+      "location": "Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1790670007,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abbd6d43217d1d13329b3a4",
+      "company": "Enova International",
+      "title": "Software Engineer Internship Summer 2027 (Hybrid)",
+      "url": "https://jobright.ai/jobs/info/6abbd6d43217d1d13329b3a4",
+      "location": "Chicago, IL",
+      "datePosted": 1790669924,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abbd524d6acfd3dd29fa18c",
       "company": "Navitus Health Solutions",
@@ -58,17 +124,6 @@
       "datePosted": 1790668802,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abbd0c3b23c6fb2b81a3233",
-      "company": "Enova International",
-      "title": "Software Engineer Internship Summer 2027 (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6abbd0c3b23c6fb2b81a3233",
-      "location": "Chicago, IL",
-      "datePosted": 1790668371,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -611,39 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abb1e3a7220f52e62aea8e6",
-      "company": "RTX",
-      "title": "Software Engineer I  (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abb1e3a7220f52e62aea8e6",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1790648384,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb1e49ee0b348be729dc12",
-      "company": "RTX",
-      "title": "Research Software Engineer I - Onsite",
-      "url": "https://jobright.ai/jobs/info/6abb1e49ee0b348be729dc12",
-      "location": "Cambridge, MA",
-      "datePosted": 1790648379,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a527aaf8ef95364ead8e939",
-      "company": "General Dynamics",
-      "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
-      "url": "https://jobright.ai/jobs/info/6a527aaf8ef95364ead8e939",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1790647780,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:adc756c8-eec3-41e4-b9a6-a13e34b5768f",
       "company": "Cloudflare",
       "title": "Software Engineer Intern",
@@ -655,17 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
-      "company": "Palantir",
-      "title": "Software Engineer - Apollo Platform",
-      "url": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
-      "location": "New York, NY",
-      "datePosted": 1790645445,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:23dfd8e4-f91c-43b3-87fc-4ea57c85e129",
       "company": "SpaceX",
       "title": "Software Engineer New Grad - Software - Starfall",
@@ -673,17 +684,6 @@
       "location": "Hawthorne, CA",
       "datePosted": 1790645193,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aae462d6956574eac8b8a3b",
-      "company": "Pioneering Evolution, LLC",
-      "title": "Junior Software Engineer (.NET/Angular)",
-      "url": "https://jobright.ai/jobs/info/6aae462d6956574eac8b8a3b",
-      "location": "Arlington, VA",
-      "datePosted": 1790643481,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
