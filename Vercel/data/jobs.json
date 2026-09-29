@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T23:10:15Z",
-  "totalOpen": 1145,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-09-29T23:20:16Z",
+  "totalOpen": 1147,
+  "totalNewgrad": 246,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,72 @@
       "datePosted": 1790721596,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc3de392b2612ef0f8dcc3",
+      "company": "Zions Bancorporation",
+      "title": "Intern- Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abc3de392b2612ef0f8dcc3",
+      "location": "Midvale, UT",
+      "datePosted": 1790696307,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a4cb9dec643fd23fed3ad6d",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Platform efficiency) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a4cb9dec643fd23fed3ad6d",
+      "location": "San Jose, CA",
+      "datePosted": 1790695988,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abc3a9fb23c6fb2b81a5ebf",
+      "company": "Panasonic Avionics Corporation",
+      "title": "MTS I, Software Engineer (Embedded Systems & Linux)",
+      "url": "https://jobright.ai/jobs/info/6abc3a9fb23c6fb2b81a5ebf",
+      "location": "Irvine, CA",
+      "datePosted": 1790695471,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abc3a1ba9a644f96568b039",
+      "company": "Gen II Fund Services",
+      "title": "Jr Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6abc3a1ba9a644f96568b039",
+      "location": "New York, NY",
+      "datePosted": 1790695339,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abc3a117119e56191cec2bc",
+      "company": "Iridium",
+      "title": "Iridium Software Engineering Internship \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abc3a117119e56191cec2bc",
+      "location": "Tempe, AZ",
+      "datePosted": 1790695329,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abc3717d6acfd3dd29fcc58",
+      "company": "Tesla",
+      "title": "Internship, AI Software Engineer, Core Infrastructure (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6abc3717d6acfd3dd29fcc58",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790694567,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": true
     },
     {
@@ -22,21 +88,21 @@
       "title": "Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6abc2faaa9a644f96568ad92",
       "location": "Minneapolis, MN",
-      "datePosted": 1790693593,
+      "datePosted": 1790694332,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc32d5d6acfd3dd29fcb61",
-      "company": "Todd",
-      "title": "Frontend Software Developer Intern (Fall '26)",
-      "url": "https://jobright.ai/jobs/info/6abc32d5d6acfd3dd29fcb61",
-      "location": "United States",
-      "datePosted": 1790693477,
+      "id": "newgrad-jobs:6a9740adb22f636c81416f5d",
+      "company": "Eulerity",
+      "title": "Backend Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6a9740adb22f636c81416f5d",
+      "location": "New York, NY",
+      "datePosted": 1790694021,
       "source": "newgrad-jobs",
-      "season": "Fall",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abc3170d6acfd3dd29fcb23",
@@ -89,17 +155,6 @@
       "url": "https://jobright.ai/jobs/info/6abc2e11a9a644f96568ad24",
       "location": "Grand Rapids, MI",
       "datePosted": 1790692257,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc2d9192b2612ef0f8d894",
-      "company": "Gen II Fund Services",
-      "title": "Jr Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6abc2d9192b2612ef0f8d894",
-      "location": "New York, NY",
-      "datePosted": 1790692129,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -270,17 +325,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc1df53217d1d13329d3ad",
-      "company": "Todd",
-      "title": "Frontend Software Developer Intern (Winter '26)",
-      "url": "https://jobright.ai/jobs/info/6abc1df53217d1d13329d3ad",
-      "location": "United States",
-      "datePosted": 1790688133,
-      "source": "newgrad-jobs",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
       "company": "Roblox",
       "title": "[2027] Software Engineer, Early Career",
@@ -413,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbe9033217d1d13329bc34",
+      "id": "newgrad-jobs:6abbeacda9a644f965688dcc",
       "company": "ITC Defense Corp.",
       "title": "Software Developer (.NET/C#) \u2013 NAVSUP Programs",
-      "url": "https://jobright.ai/jobs/info/6abbe9033217d1d13329bc34",
+      "url": "https://jobright.ai/jobs/info/6abbeacda9a644f965688dcc",
       "location": "United States",
       "datePosted": 1790687206,
       "source": "newgrad-jobs",
@@ -633,50 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abab899be5f1e9325116fed",
-      "company": "Cognizant",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6abab899be5f1e9325116fed",
-      "location": "Plano, TX; Teaneck, NJ",
-      "datePosted": 1790683074,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8c581025fc4e7ae3db7b2d",
-      "company": "TikTok",
-      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a8c581025fc4e7ae3db7b2d",
-      "location": "Seattle, WA",
-      "datePosted": 1790683019,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abbbec67119e56191ce905a",
-      "company": "Boston Scientific",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6abbbec67119e56191ce905a",
-      "location": "Maple Grove, MN",
-      "datePosted": 1790682411,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a839b0a2dbaf907b0769e26",
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ",
-      "url": "https://jobright.ai/jobs/info/6a839b0a2dbaf907b0769e26",
-      "location": "Phoenix, AZ",
-      "datePosted": 1790682389,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:adc756c8-eec3-41e4-b9a6-a13e34b5768f",
       "company": "Cloudflare",
       "title": "Software Engineer Intern",
@@ -729,7 +729,7 @@
       "datePosted": 1790640000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:9b9221a8-5e69-4660-8063-88f4d8725352",
@@ -740,7 +740,7 @@
       "datePosted": 1790640000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
@@ -795,7 +795,7 @@
       "datePosted": 1790374554,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
