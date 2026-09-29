@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-29T14:30:19Z",
-  "totalOpen": 1107,
-  "totalNewgrad": 223,
-  "totalOther": 884,
+  "generatedAt": "2026-09-29T14:40:17Z",
+  "totalOpen": 1106,
+  "totalNewgrad": 227,
+  "totalOther": 879,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abbc2373217d1d13329adea",
+      "company": "CACI International Inc",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abbc2373217d1d13329adea",
+      "location": "Omaha, NE",
+      "datePosted": 1790664647,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a8279df379c304e892f2707",
       "company": "GE Aerospace",
@@ -34,6 +45,39 @@
       "url": "https://jobright.ai/jobs/info/6ab567f0d85922de20ce0ddf",
       "location": "King of Prussia, PA",
       "datePosted": 1790661280,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Implant",
+      "url": "https://jobright.ai/jobs/info/6a8ca19725fc4e7ae3db985e",
+      "location": "Austin, TX; South San Francisco, CA",
+      "datePosted": 1790661277,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8cc3e41d96e6541c8c2e6a",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1790661255,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3cbbe3a768473c9369626",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E3",
+      "url": "https://jobright.ai/jobs/info/6aa3cbbe3a768473c9369626",
+      "location": "Longmont, CO",
+      "datePosted": 1790661255,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -114,6 +158,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abbc1edd6acfd3dd29f9bf9",
+      "company": "Ryzoe",
+      "title": "Trainee (Intern) Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6abbc1edd6acfd3dd29f9bf9",
+      "location": "United States",
+      "datePosted": 1790653763,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abb9621f7c0be4619eb1561",
@@ -259,10 +314,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a701a2c41b41d325296dda9",
+      "id": "newgrad-jobs:6a701a35160eda5948e8d48f",
       "company": "TikTok",
       "title": "Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a2c41b41d325296dda9",
+      "url": "https://jobright.ai/jobs/info/6a701a35160eda5948e8d48f",
       "location": "Seattle, WA",
       "datePosted": 1790651601,
       "source": "newgrad-jobs",
@@ -435,17 +490,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a701a37cd3bac13d3709850",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a37cd3bac13d3709850",
-      "location": "San Jose, CA",
-      "datePosted": 1790650037,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a704c3aa605182afe22e82c",
       "company": "TikTok",
       "title": "Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer",
@@ -589,10 +633,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1790630359,
       "source": "newgrad-jobs",
@@ -639,50 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a310b4c524fd5657fe12c80",
       "location": "Annapolis Junction, MD; Columbia, MD; Hanover, MD; Laurel, MD",
       "datePosted": 1790625872,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb26de7220f52e62aeab12",
-      "company": "Via Logic LLC",
-      "title": "Cloud Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6abb26de7220f52e62aeab12",
-      "location": "Washington, DC",
-      "datePosted": 1790625494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb26e7be5f1e9325119d57",
-      "company": "Via Logic LLC",
-      "title": "Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6abb26e7be5f1e9325119d57",
-      "location": "Washington, DC",
-      "datePosted": 1790624887,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8a0bf63bfd4581d7e8865",
-      "company": "D3 Embedded",
-      "title": "Computer Vision and Deep Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa8a0bf63bfd4581d7e8865",
-      "location": "West Henrietta, NY; Rochester, NY",
-      "datePosted": 1790624681,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaf3f6ee0b348be729c5f9",
-      "company": "Clearway Energy Group",
-      "title": "ESM Developer I",
-      "url": "https://jobright.ai/jobs/info/6abaf3f6ee0b348be729c5f9",
-      "location": "San Diego, CA",
-      "datePosted": 1790624467,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
