@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-29T02:00:23Z",
-  "totalOpen": 1127,
+  "generatedAt": "2026-09-29T02:10:17Z",
+  "totalOpen": 1128,
   "totalNewgrad": 232,
-  "totalOther": 895,
+  "totalOther": 896,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:adc756c8-eec3-41e4-b9a6-a13e34b5768f",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958",
+      "location": "Austin, TX",
+      "datePosted": 1790645643,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:23dfd8e4-f91c-43b3-87fc-4ea57c85e129",
+      "company": "SpaceX",
+      "title": "Software Engineer New Grad - Software - Starfall",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002",
+      "location": "Hawthorne, CA",
+      "datePosted": 1790645193,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abb0da41acb8fc6f09c2b04",
       "company": "SwingVision",
@@ -1301,28 +1323,6 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c8ef16e5-048f-4036-aea1-83076c98078c",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer",
-      "url": "https://careers-gdms.icims.com/jobs/75011/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
