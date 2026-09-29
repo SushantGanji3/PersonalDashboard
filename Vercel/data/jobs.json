@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-29T23:00:19Z",
-  "totalOpen": 1138,
+  "generatedAt": "2026-09-29T23:10:15Z",
+  "totalOpen": 1145,
   "totalNewgrad": 244,
-  "totalOther": 894,
+  "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Data Transformations",
+      "url": "https://www.tesla.com/careers/search/job/284925",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790721596,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abc2faaa9a644f96568ad92",
       "company": "Danfoss",
@@ -710,6 +721,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:f1208480-1147-48ce-9646-846da02f7bc8",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer or Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437",
+      "location": "Aurora, CO",
+      "datePosted": 1790640000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:9b9221a8-5e69-4660-8063-88f4d8725352",
+      "company": "RTX",
+      "title": "Embedded Software Security Engineer 1 - S3E",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692",
+      "location": "Tucson, AZ",
+      "datePosted": 1790640000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
       "company": "Tesla",
       "title": "Mobile Application Software Engineer Intern - Energy Engineering",
@@ -754,6 +787,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:5f93c09d-0219-4792-b46b-fd33cf5fa8f9",
+      "company": "Neuralink",
+      "title": "Software Engineer - Hil",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8005730003",
+      "location": "Austin, TX, South SF",
+      "datePosted": 1790374554,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
       "company": "Snowflake",
       "title": "Software Engineer Intern - Database Engineering",
@@ -776,14 +820,14 @@
       "isNew": false
     },
     {
-      "id": "simplify:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358",
-      "location": "West Valley City, UT",
-      "datePosted": 1790294400,
+      "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+      "company": "Apple",
+      "title": "Software Engineer - Applied AI",
+      "url": "https://jobs.apple.com/en-us/details/200684521",
+      "location": "San Diego, CA",
+      "datePosted": 1790298409,
       "source": "aggregator",
-      "season": "Summer 2027",
+      "season": null,
       "isNew": false
     },
     {
@@ -1279,50 +1323,6 @@
       "datePosted": 1789769377,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:50aa2666-a2a3-4da7-8099-d77ee703ebd6",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/283950",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711916,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a0411f20-98d8-4615-8a27-21bcd5d82808",
-      "company": "Tesla",
-      "title": "Site Controller Software Engineer Intern - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/283956",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711910,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:93ef662e-5551-44f1-b92f-7803ee8a3ea1",
-      "company": "Tesla",
-      "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
-      "url": "https://www.tesla.com/careers/search/job/284003",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711767,
-      "source": "aggregator",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5eeb71a2-4362-490d-91b2-80bec3bb466d",
-      "company": "Tesla",
-      "title": "Internship - Software Engineering - People Products - Summer 2027",
-      "url": "https://www.tesla.com/careers/search/job/284004",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789711766,
-      "source": "aggregator",
-      "season": "Summer 2027",
       "isNew": false
     }
   ]
