@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T06:20:17Z",
-  "totalOpen": 1129,
-  "totalNewgrad": 235,
+  "generatedAt": "2026-09-29T06:30:18Z",
+  "totalOpen": 1127,
+  "totalNewgrad": 233,
   "totalOther": 894,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,12 +28,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abb4d051acb8fc6f09c5878",
+      "company": "Leidos",
+      "title": "Embedded Flight Software Developer",
+      "url": "https://jobright.ai/jobs/info/6abb4d051acb8fc6f09c5878",
+      "location": "Huntsville, AL",
+      "datePosted": 1790634645,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abb1b88d2914e9273eef95c",
       "company": "MITRE",
       "title": "Systems Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6abb1b88d2914e9273eef95c",
       "location": "McLean, VA",
-      "datePosted": 1790633209,
+      "datePosted": 1790633802,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -413,22 +424,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3c0a15c11cce3603661ee",
+      "id": "newgrad-jobs:6aa381c25c11cce360364623",
       "company": "Garmin",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3c0a15c11cce3603661ee",
-      "location": "Tulsa, OK",
+      "url": "https://jobright.ai/jobs/info/6aa381c25c11cce360364623",
+      "location": "Cary, NC",
       "datePosted": 1790616587,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
+      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
-      "location": "Chandler, AZ",
+      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
+      "location": "Olathe, KS",
       "datePosted": 1790616587,
       "source": "newgrad-jobs",
       "season": null,
@@ -600,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a872d3325fc4e7ae3dabb2d",
+      "id": "newgrad-jobs:6a872d34cde3717f9e9b094d",
       "company": "Peraton",
       "title": "Cobol Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a872d3325fc4e7ae3dabb2d",
+      "url": "https://jobright.ai/jobs/info/6a872d34cde3717f9e9b094d",
       "location": "United States",
       "datePosted": 1790606567,
       "source": "newgrad-jobs",
@@ -627,17 +638,6 @@
       "title": "Embedded Software Engineer (Lighting)",
       "url": "https://jobright.ai/jobs/info/6ababa5aad8589219ef7ee79",
       "location": "Irvine, CA",
-      "datePosted": 1790606190,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abad293d2914e9273eed7f4",
-      "company": "Leidos",
-      "title": "Embedded Flight Software Developer",
-      "url": "https://jobright.ai/jobs/info/6abad293d2914e9273eed7f4",
-      "location": "Huntsville, AL",
       "datePosted": 1790606190,
       "source": "newgrad-jobs",
       "season": null,
