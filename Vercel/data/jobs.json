@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-29T12:50:19Z",
-  "totalOpen": 1120,
-  "totalNewgrad": 229,
+  "generatedAt": "2026-09-29T13:00:22Z",
+  "totalOpen": 1115,
+  "totalNewgrad": 224,
   "totalOther": 891,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa4cb8e654b2a9424cf1523",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern (Melbourne, FL)",
+      "url": "https://jobright.ai/jobs/info/6aa4cb8e654b2a9424cf1523",
+      "location": "Melbourne, FL",
+      "datePosted": 1790658719,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa7f072654b2a9424cf9e2c",
+      "company": "L3Harris",
+      "title": "Intern, Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa7f072654b2a9424cf9e2c",
+      "location": "Waco, TX",
+      "datePosted": 1790658344,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a3b580f797099171917de74",
       "company": "Baseten",
@@ -14,7 +36,7 @@
       "datePosted": 1790657596,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9677f769b865490a632393",
@@ -149,10 +171,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8863afd34f700f87fc84c5",
+      "id": "newgrad-jobs:6a8da9d725fc4e7ae3dbcd73",
       "company": "TikTok",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6a8863afd34f700f87fc84c5",
+      "url": "https://jobright.ai/jobs/info/6a8da9d725fc4e7ae3dbcd73",
       "location": "San Jose, CA",
       "datePosted": 1790651677,
       "source": "newgrad-jobs",
@@ -512,50 +534,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abb23847220f52e62aeaa8f",
-      "company": "Rhoda AI",
-      "title": "Robot Software Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6abb23847220f52e62aeaa8f",
-      "location": "Mountain View, CA",
-      "datePosted": 1790643290,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
-      "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca4ca25fc4e7ae3db9993",
-      "location": "Olathe, KS",
-      "datePosted": 1790638723,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3c0a15c11cce3603661ee",
-      "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3c0a15c11cce3603661ee",
-      "location": "Tulsa, OK",
-      "datePosted": 1790638723,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a965e6c4c22023a07939065",
-      "company": "K2 Space Corporation",
-      "title": "Software Engineering Intern \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a965e6c4c22023a07939065",
-      "location": "Torrance, CA",
-      "datePosted": 1790637482,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab6b45e9d4843569fe4ef0a",
       "company": "CVS Health",
       "title": "Software Development Engineer",
@@ -567,45 +545,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab557a74873fd3fd85290fa",
-      "company": "Boston Scientific",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab557a74873fd3fd85290fa",
-      "location": "Arden Hills, MN",
-      "datePosted": 1790636573,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb1b88d2914e9273eef95c",
-      "company": "MITRE",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abb1b88d2914e9273eef95c",
-      "location": "McLean, VA",
-      "datePosted": 1790634932,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abb4d051acb8fc6f09c5878",
       "company": "Leidos",
       "title": "Embedded Flight Software Developer",
       "url": "https://jobright.ai/jobs/info/6abb4d051acb8fc6f09c5878",
       "location": "Huntsville, AL",
       "datePosted": 1790634645,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb45d23db4ca81fc7c757c",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "Software Developer Intern 2027 - Bellevue",
-      "url": "https://jobright.ai/jobs/info/6abb45d23db4ca81fc7c757c",
-      "location": "Bellevue, WA",
-      "datePosted": 1790632802,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -685,6 +630,61 @@
       "datePosted": 1790625494,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abb26e7be5f1e9325119d57",
+      "company": "Via Logic LLC",
+      "title": "Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6abb26e7be5f1e9325119d57",
+      "location": "Washington, DC",
+      "datePosted": 1790624887,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa8a0bf63bfd4581d7e8865",
+      "company": "D3 Embedded",
+      "title": "Computer Vision and Deep Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa8a0bf63bfd4581d7e8865",
+      "location": "West Henrietta, NY; Rochester, NY",
+      "datePosted": 1790624681,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abaf3f6ee0b348be729c5f9",
+      "company": "Clearway Energy Group",
+      "title": "ESM Developer I",
+      "url": "https://jobright.ai/jobs/info/6abaf3f6ee0b348be729c5f9",
+      "location": "San Diego, CA",
+      "datePosted": 1790624467,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a714fde9a0ca4480c7d3c2b",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Ads Signal & Measurement) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714fde9a0ca4480c7d3c2b",
+      "location": "San Jose, CA",
+      "datePosted": 1790623859,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abb21d9be5f1e9325119bd6",
+      "company": "Susquehanna International Group",
+      "title": "Machine Learning Engineering Internship: Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abb21d9be5f1e9325119bd6",
+      "location": "Bala Cynwyd, PA",
+      "datePosted": 1790623593,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
