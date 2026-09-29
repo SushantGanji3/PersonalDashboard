@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-29T09:40:16Z",
-  "totalOpen": 1133,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-09-29T09:50:18Z",
+  "totalOpen": 1131,
+  "totalNewgrad": 236,
   "totalOther": 895,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abb42edbe5f1e932511a2e3",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abb42edbe5f1e932511a2e3",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1790648382,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abb79c05716c5ea52d06ba0",
       "company": "TikTok",
@@ -50,22 +61,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "id": "newgrad-jobs:6aa3d3df4238ea18d430e961",
       "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
-      "location": "Chandler, AZ",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
+      "location": "Tulsa, OK",
       "datePosted": 1790638723,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa3c0a15c11cce3603661ee",
+      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
       "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3c0a15c11cce3603661ee",
-      "location": "Tulsa, OK",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
+      "location": "Chandler, AZ",
       "datePosted": 1790638723,
       "source": "newgrad-jobs",
       "season": null,
@@ -102,28 +113,6 @@
       "datePosted": 1790636573,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb39347220f52e62aeae51",
-      "company": "Boston Scientific",
-      "title": "R&D Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abb39347220f52e62aeae51",
-      "location": "Maple Grove, MN",
-      "datePosted": 1790636573,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb472fee0b348be729e485",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Data Transformations (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6abb472fee0b348be729e485",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790635634,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -688,6 +677,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aba71f41acb8fc6f09bf9ae",
+      "company": "RTX",
+      "title": "Flight Control Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aba71f41acb8fc6f09bf9ae",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1790607068,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
       "company": "Tesla",
       "title": "Mobile Application Software Engineer Intern - Energy Engineering",
@@ -993,7 +993,7 @@
       "datePosted": 1790121600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
