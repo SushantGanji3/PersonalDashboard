@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T17:00:22Z",
-  "totalOpen": 1121,
+  "generatedAt": "2026-09-29T17:10:18Z",
+  "totalOpen": 1124,
   "totalNewgrad": 237,
-  "totalOther": 884,
+  "totalOther": 887,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1790672394,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abbe00b92b2612ef0f8b258",
@@ -25,7 +25,7 @@
       "datePosted": 1790672282,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab702033a2ec87116e24fc6",
@@ -36,7 +36,7 @@
       "datePosted": 1790672120,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8384aeb5a0ac0e84a26794",
@@ -47,7 +47,7 @@
       "datePosted": 1790671694,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abbdaf292b2612ef0f8b0ee",
@@ -58,7 +58,7 @@
       "datePosted": 1790670978,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abbda253217d1d13329b448",
@@ -322,7 +322,7 @@
       "datePosted": 1790661236,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7e4c120cd4a0703257f2ca",
@@ -688,6 +688,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:a0778aed-3220-4d8c-9e84-9c474d2f3e73",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Systems Engineer / Software Systems Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Systems-Engineer---Software-Systems-Engineer---Huntsville-AL_R10253385-1",
+      "location": "Huntsville, AL",
+      "datePosted": 1790640000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
       "company": "Tesla",
       "title": "Mobile Application Software Engineer Intern - Energy Engineering",
@@ -751,6 +762,17 @@
       "datePosted": 1790299028,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358",
+      "location": "West Valley City, UT",
+      "datePosted": 1790294400,
+      "source": "aggregator",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1301,28 +1323,6 @@
       "datePosted": 1789693504,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:523ea0ed-2662-4d1c-ab24-7bec4b29dc22",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75013/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c8ef16e5-048f-4036-aea1-83076c98078c",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer",
-      "url": "https://careers-gdms.icims.com/jobs/75011/job?mobile=true&needsRedirect=false",
-      "location": "Salt Lake City, UT, Boise, ID",
-      "datePosted": 1789683713,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
