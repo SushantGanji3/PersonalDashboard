@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T03:40:15Z",
-  "totalOpen": 1129,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-09-29T03:50:17Z",
+  "totalOpen": 1126,
+  "totalNewgrad": 231,
   "totalOther": 895,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,83 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abb27a63db4ca81fc7c6fa6",
+      "company": "Allegheny County Department of Human Services",
+      "title": "2027 Spring | Full Stack Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6abb27a63db4ca81fc7c6fa6",
+      "location": "Pittsburgh, PA",
+      "datePosted": 1790625078,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abb26e7be5f1e9325119d57",
+      "company": "Via Logic LLC",
+      "title": "Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6abb26e7be5f1e9325119d57",
+      "location": "Washington, DC",
+      "datePosted": 1790624887,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abb26de7220f52e62aeab12",
+      "company": "Via Logic LLC",
+      "title": "Cloud Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6abb26de7220f52e62aeab12",
+      "location": "Washington, DC",
+      "datePosted": 1790624878,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa8a0bf63bfd4581d7e8865",
+      "company": "D3 Embedded",
+      "title": "Computer Vision and Deep Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa8a0bf63bfd4581d7e8865",
+      "location": "West Henrietta, NY; Rochester, NY",
+      "datePosted": 1790624681,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abaf3f6ee0b348be729c5f9",
+      "company": "Clearway Energy Group",
+      "title": "ESM Developer I",
+      "url": "https://jobright.ai/jobs/info/6abaf3f6ee0b348be729c5f9",
+      "location": "San Diego, CA",
+      "datePosted": 1790624467,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abaf7a77220f52e62ae92b1",
+      "company": "Kingland",
+      "title": "Advanced Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6abaf7a77220f52e62ae92b1",
+      "location": "Fort Myers, FL; Ames, IA; Clear Lake, IA",
+      "datePosted": 1790624377,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abb23847220f52e62aeaa8f",
+      "company": "Rhoda AI",
+      "title": "Robot Software Engineer Internship",
+      "url": "https://jobright.ai/jobs/info/6abb23847220f52e62aeaa8f",
+      "location": "Mountain View, CA",
+      "datePosted": 1790624020,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a714fde9a0ca4480c7d3c2b",
@@ -83,17 +160,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abb1fecd2914e9273eefa66",
-      "company": "Via Logic LLC",
-      "title": "Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6abb1fecd2914e9273eefa66",
-      "location": "Silver Spring, MD; Washington, DC",
-      "datePosted": 1790623100,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abafb0bd2914e9273eee448",
       "company": "H&R Block",
       "title": "Machine Learning Intern - S",
@@ -127,23 +193,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abb14aa1acb8fc6f09c3574",
+      "company": "SwingVision",
+      "title": "Machine Learning Intern",
+      "url": "https://jobright.ai/jobs/info/6abb14aa1acb8fc6f09c3574",
+      "location": "Berkeley, CA",
+      "datePosted": 1790620967,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abaea8e1acb8fc6f09c23fa",
+      "company": "North Carolina Department of Agriculture and Consumer Services",
+      "title": "Programmer Analyst",
+      "url": "https://jobright.ai/jobs/info/6abaea8e1acb8fc6f09c23fa",
+      "location": "Santa Rosa, CA",
+      "datePosted": 1790620527,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa865963a9f0a4fe6f191c8",
       "company": "Awardco",
       "title": "Back-End Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6aa865963a9f0a4fe6f191c8",
       "location": "Lindon, UT",
       "datePosted": 1790620242,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb14aa1acb8fc6f09c3574",
-      "company": "SwingVision",
-      "title": "Machine Learning Intern",
-      "url": "https://jobright.ai/jobs/info/6abb14aa1acb8fc6f09c3574",
-      "location": "Berkeley, CA",
-      "datePosted": 1790620218,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -166,17 +243,6 @@
       "url": "https://jobright.ai/jobs/info/6abb119e1acb8fc6f09c2b8c",
       "location": "Chantilly, VA; El Segundo, CA",
       "datePosted": 1790619432,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaea8e1acb8fc6f09c23fa",
-      "company": "North Carolina Department of Agriculture and Consumer Services",
-      "title": "Programmer Analyst",
-      "url": "https://jobright.ai/jobs/info/6abaea8e1acb8fc6f09c23fa",
-      "location": "Santa Rosa, CA",
-      "datePosted": 1790619346,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -237,15 +303,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
-      "location": "Chandler, AZ",
+      "url": "https://jobright.ai/jobs/info/6a8ca4ca25fc4e7ae3db9993",
+      "location": "Olathe, KS",
       "datePosted": 1790616587,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abb04f11acb8fc6f09c2973",
@@ -325,34 +391,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abaf7a77220f52e62ae92b1",
-      "company": "Kingland",
-      "title": "Advanced Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abaf7a77220f52e62ae92b1",
-      "location": "Fort Myers, FL; Ames, IA; Clear Lake, IA",
-      "datePosted": 1790612791,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abaf470ee0b348be729c617",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
       "url": "https://jobright.ai/jobs/info/6abaf470ee0b348be729c617",
       "location": "King of Prussia, PA",
       "datePosted": 1790611968,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaf3f6ee0b348be729c5f9",
-      "company": "Clearway Energy Group",
-      "title": "ESM Developer I",
-      "url": "https://jobright.ai/jobs/info/6abaf3f6ee0b348be729c5f9",
-      "location": "San Diego, CA",
-      "datePosted": 1790611846,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -435,15 +479,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a85fbf0cc81eb647e9f0a0b",
+      "id": "newgrad-jobs:6a8ad258d34f700f87fcd392",
       "company": "The National Board for Certified Counselors",
       "title": "Web Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a85fbf0cc81eb647e9f0a0b",
+      "url": "https://jobright.ai/jobs/info/6a8ad258d34f700f87fcd392",
       "location": "Greensboro, NC",
       "datePosted": 1790606888,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a872d34cde3717f9e9b094d",
+      "company": "Peraton",
+      "title": "Cobol Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a872d34cde3717f9e9b094d",
+      "location": "United States",
+      "datePosted": 1790606567,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abadea8be5f1e9325117ddf",
@@ -496,17 +551,6 @@
       "url": "https://jobright.ai/jobs/info/6abaae3aee0b348be729adfe",
       "location": "Annapolis, MD",
       "datePosted": 1790605937,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abadbd5d2914e9273eedb8d",
-      "company": "Peraton",
-      "title": "Cobol Software Developer",
-      "url": "https://jobright.ai/jobs/info/6abadbd5d2914e9273eedb8d",
-      "location": "United States",
-      "datePosted": 1790605669,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -641,50 +685,6 @@
       "datePosted": 1790603882,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5b579ac8e3a473cb8afcc4",
-      "company": "Peraton",
-      "title": "Cloud Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6a5b579ac8e3a473cb8afcc4",
-      "location": "Fort Meade, MD",
-      "datePosted": 1790603768,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a50e087f6097229bfd3f4d8",
-      "company": "Peraton",
-      "title": "Junior Software Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a50e087f6097229bfd3f4d8",
-      "location": "Fort Meade, MD",
-      "datePosted": 1790603718,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaaf09be5f1e9325116ca6",
-      "company": "Veterans United Home Loans",
-      "title": "Intern - Software Engineer - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abaaf09be5f1e9325116ca6",
-      "location": "United States",
-      "datePosted": 1790603612,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1a23b3272060a8e3f129b",
-      "company": "Peraton Labs",
-      "title": "Summer 2027 Cyber Research Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1a23b3272060a8e3f129b",
-      "location": "Bernards, NJ; Silver Spring, MD; Bedford, NH; West Lafayette, IN",
-      "datePosted": 1790603572,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
