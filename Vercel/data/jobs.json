@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-30T12:30:19Z",
-  "totalOpen": 1142,
-  "totalNewgrad": 242,
-  "totalOther": 900,
+  "generatedAt": "2026-09-30T12:42:12Z",
+  "totalOpen": 1141,
+  "totalNewgrad": 240,
+  "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a57fd3872fe7a7b98dcc4d1",
+      "company": "Anything",
+      "title": "Backend Engineer - AI",
+      "url": "https://jobright.ai/jobs/info/6a57fd3872fe7a7b98dcc4d1",
+      "location": "San Francisco, CA",
+      "datePosted": 1790744492,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
       "company": "Neuralink",
@@ -25,7 +36,7 @@
       "datePosted": 1790742195,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa081e93b5aa83237b09a20",
@@ -487,7 +498,7 @@
       "datePosted": 1790735613,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abc94cd62033c231d78113d",
@@ -518,28 +529,6 @@
       "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
       "location": "Chantilly, VA",
       "datePosted": 1790734577,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
-      "company": "Booz Allen Hamilton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
-      "location": "Beavercreek, OH",
-      "datePosted": 1790734500,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa13361b766020e9cd28ffd",
-      "company": "CNH",
-      "title": "Data Engineer Intern - Python",
-      "url": "https://jobright.ai/jobs/info/6aa13361b766020e9cd28ffd",
-      "location": "Sioux Falls, SD; Goodfield, IL; New Holland, PA; Oak Brook, IL",
-      "datePosted": 1790734185,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -727,6 +716,17 @@
       "url": "https://jobright.ai/jobs/info/6a6d23fbca1f933846602bff",
       "location": "United States",
       "datePosted": 1790711459,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a974c59f5337b2cf7321611",
+      "company": "Monarch Investment and Management Group",
+      "title": "Junior Applications Developer",
+      "url": "https://jobright.ai/jobs/info/6a974c59f5337b2cf7321611",
+      "location": "Franktown, CO",
+      "datePosted": 1790708775,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
