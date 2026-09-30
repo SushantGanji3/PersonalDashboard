@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T05:10:15Z",
-  "totalOpen": 1151,
-  "totalNewgrad": 249,
+  "generatedAt": "2026-09-30T05:20:17Z",
+  "totalOpen": 1150,
+  "totalNewgrad": 248,
   "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc90412668e0eab35c27d5",
+      "company": "Tesla",
+      "title": "Internship, Embedded Software Engineer, Vehicle Suspension (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6abc90412668e0eab35c27d5",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790717393,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa426f4c1928370a285cc61",
@@ -696,17 +707,6 @@
       "datePosted": 1790689528,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc230ad6acfd3dd29fc4a9",
-      "company": "Gromelski & Associates, Inc.",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6abc230ad6acfd3dd29fc4a9",
-      "location": "Manassas, VA",
-      "datePosted": 1790689434,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
