@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-30T23:00:21Z",
-  "totalOpen": 1151,
-  "totalNewgrad": 248,
-  "totalOther": 903,
+  "generatedAt": "2026-09-30T23:04:01Z",
+  "totalOpen": 1159,
+  "totalNewgrad": 247,
+  "totalOther": 912,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:aeab4fea-e485-4034-9b78-77335cbd2a83",
+      "company": "Qualcomm",
+      "title": "Verification Software Engineer - ASICS Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721344196",
+      "location": "San Diego, CA",
+      "datePosted": 1790807066,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:af84853a-a797-499a-ae18-410f2991f5bb",
+      "company": "Ramp",
+      "title": "Applied Scientist Intern",
+      "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1790807037,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:3652392f-5646-4168-b539-ac3e5a186acd",
+      "company": "Waymo",
+      "title": "Software Engineering Intern - Labeling",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+      "location": "Mountain View, CA",
+      "datePosted": 1790806994,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
+      "company": "Rivian",
+      "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
+      "url": "https://careers.rivian.com/jobs/33874?icims=1",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790806533,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:04e00d36-839d-4f8d-bad8-082a70f7c73e",
       "company": "Rivian",
@@ -36,7 +80,7 @@
       "datePosted": 1790780799,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd869e0e027c0f3b396388",
@@ -58,7 +102,7 @@
       "datePosted": 1790779706,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd81e1d9621c5b2838cb29",
@@ -556,17 +600,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd6d68372c01f6cd720698",
-      "company": "Ramp",
-      "title": "Applied Scientist Intern",
-      "url": "https://jobright.ai/jobs/info/6abd6d68372c01f6cd720698",
-      "location": "New York, NY",
-      "datePosted": 1790774826,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aad5b136956574eac8b51bc",
       "company": "Battelle",
       "title": "Software Engineering Internship (Summer 2027)",
@@ -688,6 +721,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abd62638ff3fb9b3bc7057b",
+      "company": "Pro Integrate",
+      "title": "Game Designer / Gameplay Developer - Remote",
+      "url": "https://jobright.ai/jobs/info/6abd62638ff3fb9b3bc7057b",
+      "location": "United States",
+      "datePosted": 1790771187,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:b5e54246-5cf1-4854-8ea2-77816df0b012",
       "company": "Tesla",
       "title": "Embedded Software Engineer Intern - Silicon Development",
@@ -763,6 +807,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:8e1c4d71-6011-41b4-8948-e9bef181663f",
+      "company": "RTX",
+      "title": "Software Developer Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
+      "location": "Huntsville, AL",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:bca58c51-be34-45a1-b5f9-44afd1115280",
+      "company": "Intel",
+      "title": "Finance Data Scientist",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625",
+      "location": "Santa Clara, CA, Hillsboro, OR, Phoenix, AZ",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:da5add3d-df09-436a-b370-0fae4cb326df",
+      "company": "RTX",
+      "title": "Software Engineer/Developer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
+      "location": "Woburn, MA",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:7e8877cc-8675-477d-8147-3f5443d85bb6",
+      "company": "RTX",
+      "title": "Software/Developer Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
@@ -1233,94 +1321,6 @@
       "url": "https://careers.rivian.com/jobs/33804?icims=1",
       "location": "Plymouth, MI",
       "datePosted": 1790039653,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2b316c3e-9a1f-4f4d-8a89-0bfaccfe907a",
-      "company": "Rivian",
-      "title": "Software Engineer Intern Co-op - Design Automation",
-      "url": "https://careers.rivian.com/jobs/33748?icims=1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790039652,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:74cf1c10-8e9a-4066-a47c-024ca7ecbf4b",
-      "company": "Tesla",
-      "title": "Residential Energy Device Software Engineer Intern - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/284275",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790039211,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:52e1ca75-9907-44e4-9bde-6834837fe9e3",
-      "company": "Qualcomm",
-      "title": "Backend Software Engineer - Software Engineering",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721162271",
-      "location": "San Diego, CA",
-      "datePosted": 1790029581,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:695c330c-a16f-4490-93fc-2f34b8d874ce",
-      "company": "Fidelity",
-      "title": "Quantitative Research Intern - Multi-Asset Research Team",
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361",
-      "location": "Boston, MA",
-      "datePosted": 1789948800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:159f82a2-c7ed-4eee-8157-6d300f593c83",
-      "company": "RTX",
-      "title": "Systems Engineer Co-op - Spring/Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1789948800,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:ee3c8843-976f-40ef-8c08-493ad8cd764e",
-      "company": "Together AI",
-      "title": "Software Engineer Intern - Winter 2027",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
-      "location": "SF",
-      "datePosted": 1789770003,
-      "source": "aggregator",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
-      "company": "Together AI",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
-      "location": "SF",
-      "datePosted": 1789770003,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:71d40ca7-1546-417c-8bf5-c360ac814bb0",
-      "company": "Together AI",
-      "title": "Systems Research Engineer Intern - GPU Programming",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
-      "location": "SF",
-      "datePosted": 1789770003,
       "source": "aggregator",
       "season": null,
       "isNew": false
