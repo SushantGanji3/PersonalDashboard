@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T13:40:16Z",
-  "totalOpen": 1132,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-09-30T13:50:16Z",
+  "totalOpen": 1133,
+  "totalNewgrad": 232,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,7 +47,7 @@
       "datePosted": 1790746202,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa090faa2266b538d231277",
@@ -72,15 +72,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa04f81500b01124c7782e1",
+      "id": "newgrad-jobs:6aa04e4b500b01124c778261",
       "company": "Beckman Coulter Diagnostics",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa04f81500b01124c7782e1",
+      "url": "https://jobright.ai/jobs/info/6aa04e4b500b01124c778261",
       "location": "Chaska, MN",
       "datePosted": 1790745627,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abb003bbe5f1e9325118624",
@@ -102,7 +102,7 @@
       "datePosted": 1790745130,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0d339ea127c3794699159",
@@ -182,6 +182,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aac294c95c707f49dfefd28",
+      "company": "ConductorAI",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aac294c95c707f49dfefd28",
+      "location": "New York, NY; Washington, DC",
+      "datePosted": 1790744720,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abcfaa88ff3fb9b3bc6dea7",
       "company": "ARA",
       "title": "Graduate Software Developer Intern",
@@ -212,6 +223,17 @@
       "datePosted": 1790744492,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
+      "company": "The Nuclear Company",
+      "title": "Spring 2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f",
+      "location": "Washington, DC",
+      "datePosted": 1790744164,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -705,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6aaa017c3387a3d9b67d87db",
       "location": "Marlborough, MA",
       "datePosted": 1790713182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab404e30e0ae54eeea46070",
-      "company": "RTX",
-      "title": "Systems Engineer I- Onsite Portsmouth, RI",
-      "url": "https://jobright.ai/jobs/info/6ab404e30e0ae54eeea46070",
-      "location": "Portsmouth, RI",
-      "datePosted": 1790713182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc5f58bf15c0ae50138796",
-      "company": "Mercury Insurance",
-      "title": "Data Engineer I",
-      "url": "https://jobright.ai/jobs/info/6abc5f58bf15c0ae50138796",
-      "location": "United States",
-      "datePosted": 1790712372,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
