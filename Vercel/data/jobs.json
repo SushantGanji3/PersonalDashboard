@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:50:18Z",
+  "generatedAt": "2026-09-30T06:00:19Z",
   "totalOpen": 1146,
   "totalNewgrad": 246,
   "totalOther": 900,
@@ -47,6 +47,28 @@
       "datePosted": 1790721596,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc4abe3217d1d13329e224",
+      "company": "BAE Systems",
+      "title": "Programmer Intern, Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abc4abe3217d1d13329e224",
+      "location": "Washington, DC",
+      "datePosted": 1790718465,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc4abc7119e56191cec691",
+      "company": "BAE Systems",
+      "title": "Systems Engineer Intern (Mechanical Focus), Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abc4abc7119e56191cec691",
+      "location": "Rockville, MD",
+      "datePosted": 1790718391,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -358,28 +380,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc4abe3217d1d13329e224",
-      "company": "BAE Systems",
-      "title": "Programmer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abc4abe3217d1d13329e224",
-      "location": "Washington, DC",
-      "datePosted": 1790699598,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc4abc7119e56191cec691",
-      "company": "BAE Systems",
-      "title": "Systems Engineer Intern (Mechanical Focus), Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abc4abc7119e56191cec691",
-      "location": "Rockville, MD",
-      "datePosted": 1790699596,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abc2e11a9a644f96568ad24",
       "company": "BDO USA",
       "title": "Associate Systems Engineer (Hybrid Cloud)",
@@ -468,10 +468,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1790696948,
       "source": "newgrad-jobs",
@@ -565,6 +565,17 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc979562033c231d7811ed",
+      "company": "Society Insurance",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6abc979562033c231d7811ed",
+      "location": "Fond du Lac, WI",
+      "datePosted": 1790694120,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9740adb22f636c81416f5d",
@@ -696,17 +707,6 @@
       "datePosted": 1790689562,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95fec94c22023a07937674",
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://jobright.ai/jobs/info/6a95fec94c22023a07937674",
-      "location": "New York, NY; San Francisco, CA; Seattle, WA; Toronto, ON",
-      "datePosted": 1790689528,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
