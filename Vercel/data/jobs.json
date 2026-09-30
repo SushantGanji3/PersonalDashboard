@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T01:40:16Z",
-  "totalOpen": 1147,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-09-30T01:50:16Z",
+  "totalOpen": 1149,
+  "totalNewgrad": 247,
   "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790731087,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4cfc6f1c-ae9e-447d-8980-a90e98153e86",
@@ -25,7 +25,7 @@
       "datePosted": 1790730716,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bc9e8818-9f8f-4083-9d35-d8f57bc2ddfb",
@@ -36,7 +36,7 @@
       "datePosted": 1790730679,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
@@ -50,6 +50,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abc625773339662c7723bce",
+      "company": "Amca",
+      "title": "Software Engineering Internship (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abc625773339662c7723bce",
+      "location": "El Segundo, CA",
+      "datePosted": 1790705639,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abc5f58bf15c0ae50138796",
       "company": "Mercury Insurance",
       "title": "Data Engineer I",
@@ -58,7 +69,7 @@
       "datePosted": 1790704872,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abc1b403217d1d13329d244",
@@ -70,6 +81,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc5b8f73339662c77239dc",
+      "company": "Mastercard",
+      "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6abc5b8f73339662c77239dc",
+      "location": "O'Fallon, MO; Arlington, VA",
+      "datePosted": 1790703903,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abc5b0f2668e0eab35c1c90",
+      "company": "Zions Bancorporation",
+      "title": "Intern- Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abc5b0f2668e0eab35c1c90",
+      "location": "Midvale, UT",
+      "datePosted": 1790703775,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abc35ca7119e56191cec1a8",
@@ -221,17 +254,6 @@
       "url": "https://jobright.ai/jobs/info/6abc3e957119e56191cec42c",
       "location": "San Diego, CA",
       "datePosted": 1790696485,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc3de392b2612ef0f8dcc3",
-      "company": "Zions Bancorporation",
-      "title": "Intern- Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abc3de392b2612ef0f8dcc3",
-      "location": "Midvale, UT",
-      "datePosted": 1790696307,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -688,28 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc169f92b2612ef0f8cc1f",
-      "company": "Indeed",
-      "title": "Site Reliability Engineer I",
-      "url": "https://jobright.ai/jobs/info/6abc169f92b2612ef0f8cc1f",
-      "location": "United States",
-      "datePosted": 1790686255,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1a0eb191d8c340dbdbf57",
-      "company": "Qualcomm",
-      "title": "#Backend Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57",
-      "location": "San Diego, CA",
-      "datePosted": 1790686077,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:adc756c8-eec3-41e4-b9a6-a13e34b5768f",
       "company": "Cloudflare",
       "title": "Software Engineer Intern",
@@ -740,7 +740,7 @@
       "datePosted": 1790640000,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a0778aed-3220-4d8c-9e84-9c474d2f3e73",
