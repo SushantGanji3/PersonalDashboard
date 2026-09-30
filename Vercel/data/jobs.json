@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T22:20:17Z",
-  "totalOpen": 1150,
-  "totalNewgrad": 249,
+  "generatedAt": "2026-09-30T22:30:18Z",
+  "totalOpen": 1148,
+  "totalNewgrad": 247,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790779249,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd802f372c01f6cd720ef1",
@@ -25,7 +25,7 @@
       "datePosted": 1790778815,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd4dc4d9621c5b2838b745",
@@ -39,12 +39,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a98810183fc633357631dbb",
+      "company": "Accenture Federal Services",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6a98810183fc633357631dbb",
+      "location": "Tampa, FL",
+      "datePosted": 1790778514,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abd7df28ff3fb9b3bc7102e",
       "company": "Punch Through",
       "title": "Mobile Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6abd7df28ff3fb9b3bc7102e",
       "location": "Greater Minneapolis\u2013St. Paul Area, United States",
       "datePosted": 1790778242,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd78aa0e027c0f3b395da2",
+      "company": "Nomura",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abd78aa0e027c0f3b395da2",
+      "location": "New York, NY",
+      "datePosted": 1790778222,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -58,6 +80,50 @@
       "datePosted": 1790778081,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9674309ae03adcacdd333",
+      "company": "Collins Aerospace",
+      "title": "Systems Engineer I - Tac Comm (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa9674309ae03adcacdd333",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1790778020,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abd3bbd4ac55253f5d5bfe1",
+      "company": "RTX",
+      "title": "Software/Developer Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abd3bbd4ac55253f5d5bfe1",
+      "location": "Fort Wayne, IN; Huntsville, AL; Indianapolis, IN",
+      "datePosted": 1790778008,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abd3bc48ff3fb9b3bc6f2e5",
+      "company": "RTX",
+      "title": "Software Engineer/Developer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abd3bc48ff3fb9b3bc6f2e5",
+      "location": "Portsmouth, RI; Tewksbury, MA; Woburn, MA",
+      "datePosted": 1790777999,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abd5ffb372c01f6cd7201ee",
+      "company": "RTX",
+      "title": "Software Engineer/Developer I  (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abd5ffb372c01f6cd7201ee",
+      "location": "Marlborough, MA; Tewksbury, MA",
+      "datePosted": 1790777995,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -67,6 +133,17 @@
       "url": "https://jobright.ai/jobs/info/6abd27c2d9621c5b2838a459",
       "location": "Tewksbury, MA",
       "datePosted": 1790777982,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd75730e027c0f3b395c62",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abd75730e027c0f3b395c62",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1790777945,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -80,7 +157,7 @@
       "datePosted": 1790777841,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd5adcd9621c5b2838bc4d",
@@ -336,23 +413,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abd2e684ac55253f5d5b9d0",
+      "company": "AXS",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abd2e684ac55253f5d5b9d0",
+      "location": "Charlotte, NC",
+      "datePosted": 1790775170,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abd71ea4ac55253f5d5d6da",
       "company": "Jamf",
       "title": "Software Engineer I",
       "url": "https://jobright.ai/jobs/info/6abd71ea4ac55253f5d5d6da",
       "location": "United States",
       "datePosted": 1790775162,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd2e684ac55253f5d5b9d0",
-      "company": "AXS",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd2e684ac55253f5d5b9d0",
-      "location": "Charlotte, NC",
-      "datePosted": 1790775150,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -377,7 +454,7 @@
       "datePosted": 1790775110,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab58b43d85922de20ce1dc4",
@@ -443,7 +520,7 @@
       "datePosted": 1790774782,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aad5b15de327d3e210d1dd5",
@@ -454,7 +531,7 @@
       "datePosted": 1790774780,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd6c8bd9621c5b2838c1d4",
@@ -586,83 +663,6 @@
       "datePosted": 1790771012,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd615f064da25272dfd456",
-      "company": "Southern Company",
-      "title": "Application Developer I (Integrations)",
-      "url": "https://jobright.ai/jobs/info/6abd615f064da25272dfd456",
-      "location": "Atlanta, GA",
-      "datePosted": 1790770927,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab19b65d43eb922ca0c00de",
-      "company": "RentVision",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ab19b65d43eb922ca0c00de",
-      "location": "Lincoln, NE",
-      "datePosted": 1790770853,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd6108064da25272dfd42a",
-      "company": "Rocky Brands, Inc.",
-      "title": "Front End Developer",
-      "url": "https://jobright.ai/jobs/info/6abd6108064da25272dfd42a",
-      "location": "Nelsonville, OH",
-      "datePosted": 1790770840,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a735f7be55c73319eb16cac",
-      "company": "Walleye Capital",
-      "title": "Quantic \u2013 Quantitative Developer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a735f7be55c73319eb16cac",
-      "location": "Boston, MA",
-      "datePosted": 1790770537,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd5f5c8ff3fb9b3bc70405",
-      "company": "ECS",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd5f5c8ff3fb9b3bc70405",
-      "location": "Fairfax, VA",
-      "datePosted": 1790770412,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd552cd9621c5b2838b9f2",
-      "company": "IMC Trading",
-      "title": "Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6abd552cd9621c5b2838b9f2",
-      "location": "Chicago, IL",
-      "datePosted": 1790769943,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd5ab3372c01f6cd7200ad",
-      "company": "DeNOVO Solutions, LLC",
-      "title": "Junior Developer (TS/SCI with Polygraph Required)",
-      "url": "https://jobright.ai/jobs/info/6abd5ab3372c01f6cd7200ad",
-      "location": "Aurora, CO",
-      "datePosted": 1790769219,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
