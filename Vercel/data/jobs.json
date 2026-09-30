@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-30T12:42:12Z",
-  "totalOpen": 1141,
-  "totalNewgrad": 240,
+  "generatedAt": "2026-09-30T12:50:20Z",
+  "totalOpen": 1139,
+  "totalNewgrad": 238,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abcfb1f4ac55253f5d5ab83",
+      "company": "Voir",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6abcfb1f4ac55253f5d5ab83",
+      "location": "United States",
+      "datePosted": 1790744751,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abcfaa88ff3fb9b3bc6dea7",
+      "company": "ARA",
+      "title": "Graduate Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6abcfaa88ff3fb9b3bc6dea7",
+      "location": "Raleigh, NC",
+      "datePosted": 1790744632,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abcfa9c372c01f6cd71dc17",
+      "company": "ARA",
+      "title": "Undergraduate Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6abcfa9c372c01f6cd71dc17",
+      "location": "Raleigh, NC",
+      "datePosted": 1790744620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a57fd3872fe7a7b98dcc4d1",
       "company": "Anything",
@@ -14,7 +47,7 @@
       "datePosted": 1790744492,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
@@ -45,17 +78,6 @@
       "url": "https://jobright.ai/jobs/info/6aa081e93b5aa83237b09a20",
       "location": "Austin, TX",
       "datePosted": 1790740797,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa04f81500b01124c7782e1",
-      "company": "Beckman Coulter Diagnostics",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa04f81500b01124c7782e1",
-      "location": "Chaska, MN",
-      "datePosted": 1790740404,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -391,67 +413,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab95aac39fd8792cb7407ec",
+      "company": "CNH",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab95aac39fd8792cb7407ec",
+      "location": "Sioux Falls, SD",
+      "datePosted": 1790737333,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a75b46f7b3417772ade4eee",
       "company": "TikTok",
       "title": "Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer",
       "url": "https://jobright.ai/jobs/info/6a75b46f7b3417772ade4eee",
       "location": "San Jose, CA",
       "datePosted": 1790737307,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a714fdbcb96192a36848656",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok - Effects Performance) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a714fdbcb96192a36848656",
-      "location": "San Jose, CA",
-      "datePosted": 1790736937,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abcdc6b8ff3fb9b3bc6db65",
-      "company": "Cair Health",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abcdc6b8ff3fb9b3bc6db65",
-      "location": "United States",
-      "datePosted": 1790736891,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a714fd0ee751e0c7934335d",
-      "company": "TikTok",
-      "title": "Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a714fd0ee751e0c7934335d",
-      "location": "Seattle, WA",
-      "datePosted": 1790736815,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a79c504a26ccc369f83abed",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a79c504a26ccc369f83abed",
-      "location": "Seattle, WA",
-      "datePosted": 1790736756,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a79c504b17cba5690363a0d",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a79c504b17cba5690363a0d",
-      "location": "Seattle, WA",
-      "datePosted": 1790736747,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -490,10 +468,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aafbcd03d96632d741b2589",
+      "id": "newgrad-jobs:6abc824c2668e0eab35c263d",
       "company": "TikTok USDS Joint Venture",
       "title": "Machine Learning Engineer Intern (E-Commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6aafbcd03d96632d741b2589",
+      "url": "https://jobright.ai/jobs/info/6abc824c2668e0eab35c263d",
       "location": "San Jose, CA; Seattle, WA",
       "datePosted": 1790735613,
       "source": "newgrad-jobs",
@@ -727,6 +705,28 @@
       "url": "https://jobright.ai/jobs/info/6a974c59f5337b2cf7321611",
       "location": "Franktown, CO",
       "datePosted": 1790708775,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9eb13eff87f571fc9c828",
+      "company": "Tenet3\u00ae",
+      "title": "Junior Frontend Software Engineer- Hybrid",
+      "url": "https://jobright.ai/jobs/info/6aa9eb13eff87f571fc9c828",
+      "location": "Dayton, OH",
+      "datePosted": 1790708097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc1b403217d1d13329d244",
+      "company": "Amazon",
+      "title": "Systems Development Engineer, Managed Edge Compute (Amazon Robotics)",
+      "url": "https://jobright.ai/jobs/info/6abc1b403217d1d13329d244",
+      "location": "Austin, TX",
+      "datePosted": 1790704746,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
