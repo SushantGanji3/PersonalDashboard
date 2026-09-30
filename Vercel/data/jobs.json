@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-30T18:40:17Z",
-  "totalOpen": 1132,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-09-30T18:50:24Z",
+  "totalOpen": 1133,
+  "totalNewgrad": 232,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abd4dc4d9621c5b2838b745",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+      "url": "https://jobright.ai/jobs/info/6abd4dc4d9621c5b2838b745",
+      "location": "Mountain View, CA",
+      "datePosted": 1790765908,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abd46a2372c01f6cd71f8a3",
       "company": "TE Connectivity",
@@ -39,17 +50,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd42c3064da25272dfc834",
-      "company": "ContextPlus",
-      "title": "AI Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abd42c3064da25272dfc834",
-      "location": "United States",
-      "datePosted": 1790763091,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abd419d0e027c0f3b394665",
       "company": "Mission Technologies, a division of HII",
       "title": "Software Engineer Intern (Multiple Levels) - 30069 Job Details | HII's Mission Technologies division",
@@ -80,6 +80,17 @@
       "datePosted": 1790762350,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a0f822183d7144289821054",
+      "company": "Ivo",
+      "title": "Software Engineer, Fullstack",
+      "url": "https://jobright.ai/jobs/info/6a0f822183d7144289821054",
+      "location": "San Francisco, CA",
+      "datePosted": 1790762065,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -325,6 +336,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abcee474ac55253f5d5aad4",
+      "company": "RTX",
+      "title": "Software Engineering  Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abcee474ac55253f5d5aad4",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1790758365,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abd2f84d9621c5b2838a698",
       "company": "General Dynamics",
       "title": "Software Engineer Entry Level",
@@ -347,12 +369,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab14a3dd2a93d5a97eb9a80",
+      "company": "CACI International Inc",
+      "title": "Junior Cyber Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab14a3dd2a93d5a97eb9a80",
+      "location": "Aberdeen, MD",
+      "datePosted": 1790758063,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a7cd26877d5f033c4b90c76",
+      "company": "CACI International Inc",
+      "title": "JR. ServiceNow Developer",
+      "url": "https://jobright.ai/jobs/info/6a7cd26877d5f033c4b90c76",
+      "location": "Chantilly, VA",
+      "datePosted": 1790758059,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abd2e684ac55253f5d5b9d0",
       "company": "AXS",
       "title": "Software Engineer",
       "url": "https://jobright.ai/jobs/info/6abd2e684ac55253f5d5b9d0",
       "location": "Charlotte, NC",
       "datePosted": 1790757880,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd25414ac55253f5d5b652",
+      "company": "AEG",
+      "title": "Software Engineer- CH- AXS",
+      "url": "https://jobright.ai/jobs/info/6abd25414ac55253f5d5b652",
+      "location": "Charlotte, NC; Nashville, TN",
+      "datePosted": 1790757802,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -366,17 +421,6 @@
       "datePosted": 1790757577,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abcee474ac55253f5d5aad4",
-      "company": "RTX",
-      "title": "Software Engineering  Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abcee474ac55253f5d5aad4",
-      "location": "Fort Wayne, IN",
-      "datePosted": 1790757210,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -441,17 +485,6 @@
       "url": "https://jobright.ai/jobs/info/6abd296a4ac55253f5d5b846",
       "location": "New York, NY",
       "datePosted": 1790756602,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd25414ac55253f5d5b652",
-      "company": "AEG",
-      "title": "Software Engineer- CH- AXS",
-      "url": "https://jobright.ai/jobs/info/6abd25414ac55253f5d5b652",
-      "location": "Charlotte, NC; Nashville, TN",
-      "datePosted": 1790756559,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -628,39 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6aa046a95b2d5633ef3bd9d7",
       "location": "San Francisco, CA",
       "datePosted": 1790752339,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaea8e1acb8fc6f09c23fa",
-      "company": "North Carolina Department of Agriculture and Consumer Services",
-      "title": "Programmer Analyst",
-      "url": "https://jobright.ai/jobs/info/6abaea8e1acb8fc6f09c23fa",
-      "location": "Santa Rosa, CA",
-      "datePosted": 1790752302,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa0734a3b5aa83237b09340",
-      "company": "IBM",
-      "title": "Intern Application Developer 2027 - ServiceNow",
-      "url": "https://jobright.ai/jobs/info/6aa0734a3b5aa83237b09340",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1790752295,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a679888d0fb4c3df393da54",
-      "company": "Verkada",
-      "title": "Software Engineer - Computer Vision",
-      "url": "https://jobright.ai/jobs/info/6a679888d0fb4c3df393da54",
-      "location": "San Mateo, CA",
-      "datePosted": 1790752264,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
