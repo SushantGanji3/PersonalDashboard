@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T08:50:19Z",
-  "totalOpen": 1152,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-09-30T09:00:20Z",
+  "totalOpen": 1153,
+  "totalNewgrad": 251,
   "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -35,6 +35,17 @@
       "location": "Palo Alto, CA",
       "datePosted": 1790730679,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
+      "location": "New York, NY",
+      "datePosted": 1790729976,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -369,10 +380,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1790701273,
       "source": "newgrad-jobs",
@@ -545,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9e4272a7ba386c5d671919",
+      "id": "newgrad-jobs:6a9e3b0749f4604c7894decc",
       "company": "Viasat",
       "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "url": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
       "location": "Duluth, GA; Carlsbad, CA",
       "datePosted": 1790696948,
       "source": "newgrad-jobs",
@@ -707,17 +718,6 @@
       "datePosted": 1790691596,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc06723217d1d13329cb7f",
-      "company": "RTX",
-      "title": "Embedded Software Security Engineer I - S3E",
-      "url": "https://jobright.ai/jobs/info/6abc06723217d1d13329cb7f",
-      "location": "Tucson, AZ",
-      "datePosted": 1790691593,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
