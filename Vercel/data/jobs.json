@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-30T22:30:18Z",
-  "totalOpen": 1148,
+  "generatedAt": "2026-09-30T22:40:15Z",
+  "totalOpen": 1150,
   "totalNewgrad": 247,
-  "totalOther": 901,
+  "totalOther": 903,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:04e00d36-839d-4f8d-bad8-082a70f7c73e",
+      "company": "Rivian",
+      "title": "Engineering Intern Co-op - Machine Learning Hardware",
+      "url": "https://careers.rivian.com/jobs/33820?icims=1",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790806532,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:cea6352a-da56-4d24-a4d4-4a5f5833eeec",
+      "company": "Oracle",
+      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357",
+      "location": "Nashville, TN",
+      "datePosted": 1790806019,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abd81e1d9621c5b2838cb29",
       "company": "Punch Through",
@@ -69,7 +91,7 @@
       "datePosted": 1790778222,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd7d93d9621c5b2838c93d",
@@ -91,7 +113,7 @@
       "datePosted": 1790778020,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd3bbd4ac55253f5d5bfe1",
@@ -102,7 +124,7 @@
       "datePosted": 1790778008,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd3bc48ff3fb9b3bc6f2e5",
@@ -113,7 +135,7 @@
       "datePosted": 1790777999,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd5ffb372c01f6cd7201ee",
@@ -124,7 +146,7 @@
       "datePosted": 1790777995,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd27c2d9621c5b2838a459",
@@ -146,7 +168,7 @@
       "datePosted": 1790777945,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd7c61d9621c5b2838c8b8",
@@ -732,6 +754,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:2769aa70-1382-4688-a523-01231176c4df",
+      "company": "Mastercard",
+      "title": "Data Engineer 1",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
+      "location": "Arlington County, Arlington, VA",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
       "company": "Tesla",
       "title": "Software Engineer Intern - Data Transformations",
@@ -1288,39 +1321,6 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
       "location": "SF",
       "datePosted": 1789770003,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:af76c7bd-9c7f-4bb7-8258-217044808327",
-      "company": "Together AI",
-      "title": "Software Engineer New Grad",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
-      "location": "SF",
-      "datePosted": 1789770003,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:efd0e820-6a88-4cc7-9218-b062cf7cf141",
-      "company": "Together AI",
-      "title": "Research Intern - Model Shaping",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
-      "location": "SF",
-      "datePosted": 1789770002,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1d8b7a9a-aad7-445b-8465-b11074c1fc87",
-      "company": "Together AI",
-      "title": "Research Intern - Inference",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238461007",
-      "location": "SF",
-      "datePosted": 1789770002,
       "source": "aggregator",
       "season": null,
       "isNew": false
