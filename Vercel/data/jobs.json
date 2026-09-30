@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-30T10:00:20Z",
-  "totalOpen": 1158,
+  "generatedAt": "2026-09-30T10:10:18Z",
+  "totalOpen": 1157,
   "totalNewgrad": 255,
-  "totalOther": 903,
+  "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abc8f5c73339662c772450e",
+      "company": "RTX",
+      "title": "2027 Systems Engineer Intern (Onsite) - Mission Sensor Manager",
+      "url": "https://jobright.ai/jobs/info/6abc8f5c73339662c772450e",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1790734804,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abc94cd62033c231d78113d",
       "company": "RTX",
@@ -14,6 +25,17 @@
       "datePosted": 1790734802,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc9477fe3d1e10c0200d83",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abc9477fe3d1e10c0200d83",
+      "location": "Richardson, TX",
+      "datePosted": 1790734788,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -23,6 +45,28 @@
       "url": "https://jobright.ai/jobs/info/6abcd4214ac55253f5d5a6c5",
       "location": "San Antonio, TX",
       "datePosted": 1790734769,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abcd231372c01f6cd71d6ee",
+      "company": "CNH",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6abcd231372c01f6cd71d6ee",
+      "location": "Sioux Falls, SD",
+      "datePosted": 1790734273,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa0e3233b5aa83237b0b425",
+      "company": "CNH",
+      "title": "Software Engineer Intern - Python",
+      "url": "https://jobright.ai/jobs/info/6aa0e3233b5aa83237b0b425",
+      "location": "Sioux Falls, SD; Goodfield, IL; New Holland, PA; Oak Brook, IL",
+      "datePosted": 1790734186,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -36,7 +80,7 @@
       "datePosted": 1790734185,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abcd153d9621c5b283893d9",
@@ -45,6 +89,28 @@
       "url": "https://jobright.ai/jobs/info/6abcd153d9621c5b283893d9",
       "location": "Columbus, GA",
       "datePosted": 1790734051,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa053623b5aa83237b08639",
+      "company": "Red Hat",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa053623b5aa83237b08639",
+      "location": "Raleigh, NC; Boston, MA; Lowell, MA; Durham, NC",
+      "datePosted": 1790733873,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abccf3b4ac55253f5d5a647",
+      "company": "Southwire Company",
+      "title": "Spark Research Intern Job Details | Southwire Company LLC",
+      "url": "https://jobright.ai/jobs/info/6abccf3b4ac55253f5d5a647",
+      "location": "United States",
+      "datePosted": 1790733515,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -171,12 +237,23 @@
       "isNew": false
     },
     {
+      "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Data Transformations",
+      "url": "https://www.tesla.com/careers/search/job/284925",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790721596,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abc90412668e0eab35c27d5",
       "company": "Tesla",
       "title": "Internship, Embedded Software Engineer, Vehicle Suspension (Winter/Spring 2027)",
       "url": "https://jobright.ai/jobs/info/6abc90412668e0eab35c27d5",
       "location": "Palo Alto, CA",
-      "datePosted": 1790722037,
+      "datePosted": 1790719200,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
@@ -187,20 +264,9 @@
       "title": "Internship, Software Developer, Integration Tools (Winter/Spring 2027)",
       "url": "https://jobright.ai/jobs/info/6abc98bb2aed40a9546752cb",
       "location": "Palo Alto, CA",
-      "datePosted": 1790722037,
+      "datePosted": 1790719200,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Data Transformations",
-      "url": "https://www.tesla.com/careers/search/job/284925",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790721596,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     },
     {
@@ -663,72 +729,6 @@
       "datePosted": 1790696481,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4cb9dec643fd23fed3ad6d",
-      "company": "TikTok",
-      "title": "Software Engineer Project Intern (Platform efficiency) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6a4cb9dec643fd23fed3ad6d",
-      "location": "San Jose, CA",
-      "datePosted": 1790695988,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc5700752643de1e5d7aa2",
-      "company": "StudyArena",
-      "title": "Research Intern, Agent Experience \u00b7 Student Jobs",
-      "url": "https://jobright.ai/jobs/info/6abc5700752643de1e5d7aa2",
-      "location": "San Francisco, CA",
-      "datePosted": 1790695523,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc3a9fb23c6fb2b81a5ebf",
-      "company": "Panasonic Avionics Corporation",
-      "title": "MTS I, Software Engineer (Embedded Systems & Linux)",
-      "url": "https://jobright.ai/jobs/info/6abc3a9fb23c6fb2b81a5ebf",
-      "location": "Irvine, CA",
-      "datePosted": 1790695471,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc3a1ba9a644f96568b039",
-      "company": "Gen II Fund Services",
-      "title": "Jr Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6abc3a1ba9a644f96568b039",
-      "location": "New York, NY",
-      "datePosted": 1790695339,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc3a117119e56191cec2bc",
-      "company": "Iridium",
-      "title": "Iridium Software Engineering Internship \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abc3a117119e56191cec2bc",
-      "location": "Tempe, AZ",
-      "datePosted": 1790695329,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc3717d6acfd3dd29fcc58",
-      "company": "Tesla",
-      "title": "Internship, AI Software Engineer, Core Infrastructure (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6abc3717d6acfd3dd29fcc58",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790694567,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
