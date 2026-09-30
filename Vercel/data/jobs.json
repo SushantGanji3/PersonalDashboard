@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-30T21:20:18Z",
+  "generatedAt": "2026-09-30T21:30:18Z",
   "totalOpen": 1135,
   "totalNewgrad": 234,
   "totalOther": 901,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abd6c8bd9621c5b2838c1d4",
+      "company": "Muon Space",
+      "title": "Flight Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abd6c8bd9621c5b2838c1d4",
+      "location": "San Jose, CA; Mountain View, CA",
+      "datePosted": 1790773787,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abd6a63064da25272dfd785",
       "company": "Kirkwall",
@@ -14,7 +25,18 @@
       "datePosted": 1790773235,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd573f372c01f6cd71ff3b",
+      "company": "SpaceX",
+      "title": "RF Silicon Software Engineer (RFIC Engineering)",
+      "url": "https://jobright.ai/jobs/info/6abd573f372c01f6cd71ff3b",
+      "location": "Redmond, WA",
+      "datePosted": 1790773103,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd68888ff3fb9b3bc70798",
@@ -80,17 +102,6 @@
       "datePosted": 1790771643,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd63cd064da25272dfd58f",
-      "company": "Oakwood PMS",
-      "title": "AI Software Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6abd63cd064da25272dfd58f",
-      "location": "Philadelphia, PA",
-      "datePosted": 1790771549,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -226,15 +237,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa0790ca2266b538d230a6b",
+      "id": "newgrad-jobs:6aa084793b5aa83237b09a7c",
       "company": "SWBC",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa0790ca2266b538d230a6b",
+      "url": "https://jobright.ai/jobs/info/6aa084793b5aa83237b09a7c",
       "location": "San Antonio, TX",
       "datePosted": 1790768802,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa12d4aef23570cae242f49",
@@ -281,15 +292,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
+      "id": "newgrad-jobs:6abd081d372c01f6cd71df1d",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
+      "url": "https://jobright.ai/jobs/info/6abd081d372c01f6cd71df1d",
       "location": "Salt Lake City, UT",
       "datePosted": 1790768547,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abd58090e027c0f3b395238",
@@ -512,17 +523,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd573f372c01f6cd71ff3b",
-      "company": "SpaceX",
-      "title": "RF Silicon Software Engineer (RFIC Engineering)",
-      "url": "https://jobright.ai/jobs/info/6abd573f372c01f6cd71ff3b",
-      "location": "Redmond, WA",
-      "datePosted": 1790768335,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab32d701508734c1530df4c",
       "company": "Cboe Global Markets",
       "title": "Software Engineer Intern",
@@ -611,17 +611,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd4dc4d9621c5b2838b745",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
-      "url": "https://jobright.ai/jobs/info/6abd4dc4d9621c5b2838b745",
-      "location": "Mountain View, CA",
-      "datePosted": 1790765908,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abd46a2372c01f6cd71f8a3",
       "company": "TE Connectivity",
       "title": "Applied AI Data Engineering Intern",
@@ -663,6 +652,17 @@
       "datePosted": 1790762065,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd175f0e027c0f3b393573",
+      "company": "MFS Investment Management",
+      "title": "Spring 2027 Investment Data Engineer Co-op (January - June)",
+      "url": "https://jobright.ai/jobs/info/6abd175f0e027c0f3b393573",
+      "location": "Boston, MA",
+      "datePosted": 1790761372,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": false
     },
     {
