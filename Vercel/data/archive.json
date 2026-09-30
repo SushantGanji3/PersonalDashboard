@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:10:17Z",
+  "generatedAt": "2026-09-30T07:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1790750418
+    },
+    {
+      "id": "newgrad-jobs:6abcaf118ff3fb9b3bc6d785",
+      "company": "TikTok",
+      "title": "Software Engineer - Data Agent & Agentic Search",
+      "url": "https://jobright.ai/jobs/info/6abcaf118ff3fb9b3bc6d785",
+      "location": "San Jose, CA",
+      "datePosted": 1790725281,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1790752817
     },
     {
       "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
@@ -45319,17 +45330,6 @@
       "location": "Cary, NC",
       "datePosted": 1788214848,
       "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a958c503843db0159905a26",
-      "company": "Avalore.ai",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a958c503843db0159905a26",
-      "location": "Arlington, VA",
-      "datePosted": 1788160480,
-      "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788951625
     }
