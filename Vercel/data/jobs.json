@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:10:17Z",
+  "generatedAt": "2026-09-30T08:20:15Z",
   "totalOpen": 1152,
   "totalNewgrad": 250,
   "totalOther": 902,
@@ -83,23 +83,12 @@
       "isNew": false
     },
     {
-      "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Data Transformations",
-      "url": "https://www.tesla.com/careers/search/job/284925",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790721596,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abc90412668e0eab35c27d5",
       "company": "Tesla",
       "title": "Internship, Embedded Software Engineer, Vehicle Suspension (Winter/Spring 2027)",
       "url": "https://jobright.ai/jobs/info/6abc90412668e0eab35c27d5",
       "location": "Palo Alto, CA",
-      "datePosted": 1790719200,
+      "datePosted": 1790722037,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
@@ -110,9 +99,20 @@
       "title": "Internship, Software Developer, Integration Tools (Winter/Spring 2027)",
       "url": "https://jobright.ai/jobs/info/6abc98bb2aed40a9546752cb",
       "location": "Palo Alto, CA",
-      "datePosted": 1790719200,
+      "datePosted": 1790722037,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Data Transformations",
+      "url": "https://www.tesla.com/careers/search/job/284925",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790721596,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -534,10 +534,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab6adcc4873fd3fd852e984",
+      "id": "newgrad-jobs:6ab6c612b3db59402d102538",
       "company": "Allegion",
       "title": "Summer Intern - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ab6adcc4873fd3fd852e984",
+      "url": "https://jobright.ai/jobs/info/6ab6c612b3db59402d102538",
       "location": "Golden, CO",
       "datePosted": 1790697210,
       "source": "newgrad-jobs",
