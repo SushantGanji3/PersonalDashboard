@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T22:40:15Z",
-  "totalOpen": 1150,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-09-30T22:50:16Z",
+  "totalOpen": 1153,
+  "totalNewgrad": 250,
   "totalOther": 903,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790806532,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cea6352a-da56-4d24-a4d4-4a5f5833eeec",
@@ -25,6 +25,17 @@
       "datePosted": 1790806019,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd869e0e027c0f3b396388",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Applied AI (Spring 2027 Co-Op)",
+      "url": "https://jobright.ai/jobs/info/6abd869e0e027c0f3b396388",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790780462,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": true
     },
     {
@@ -677,17 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd61b4372c01f6cd7202f4",
-      "company": "Allegheny County Department of Human Services",
-      "title": "2027 Spring | Full Stack Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abd61b4372c01f6cd7202f4",
-      "location": "Pittsburgh, PA",
-      "datePosted": 1790771012,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:b5e54246-5cf1-4854-8ea2-77816df0b012",
       "company": "Tesla",
       "title": "Embedded Software Engineer Intern - Silicon Development",
@@ -762,7 +762,7 @@
       "datePosted": 1790726400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5866904c-1ee5-4973-8ca1-2c57ecb0569f",
