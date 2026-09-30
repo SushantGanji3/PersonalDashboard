@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T01:10:16Z",
-  "totalOpen": 1147,
-  "totalNewgrad": 249,
+  "generatedAt": "2026-09-30T01:20:17Z",
+  "totalOpen": 1143,
+  "totalNewgrad": 245,
   "totalOther": 898,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,50 @@
       "location": "Palo Alto, CA",
       "datePosted": 1790721596,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc35ca7119e56191cec1a8",
+      "company": "Fidelity",
+      "title": "April 2027 - Leap Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abc35ca7119e56191cec1a8",
+      "location": "Boston, MA; Durham, NC; Merrimack, NH; Westlake, TX",
+      "datePosted": 1790703123,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abc56ab73339662c77238bc",
+      "company": "Women In Science",
+      "title": "Data Engineer (Specialist)",
+      "url": "https://jobright.ai/jobs/info/6abc56ab73339662c77238bc",
+      "location": "Baltimore, MD",
+      "datePosted": 1790702651,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
+      "datePosted": 1790701273,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc1b807119e56191ceb5e0",
+      "company": "Amazon",
+      "title": "Software Development Engineer, FinTech/Customer Service Tech",
+      "url": "https://jobright.ai/jobs/info/6abc1b807119e56191ceb5e0",
+      "location": "Newark, NJ",
+      "datePosted": 1790701245,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -88,7 +132,7 @@
       "title": "Associate Systems Engineer (Hybrid Cloud)",
       "url": "https://jobright.ai/jobs/info/6abc2e11a9a644f96568ad24",
       "location": "Grand Rapids, MI",
-      "datePosted": 1790697457,
+      "datePosted": 1790697713,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -149,6 +193,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abc5700752643de1e5d7aa2",
+      "company": "StudyArena",
+      "title": "Research Intern, Agent Experience \u00b7 Student Jobs",
+      "url": "https://jobright.ai/jobs/info/6abc5700752643de1e5d7aa2",
+      "location": "San Francisco, CA",
+      "datePosted": 1790695523,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abc3a9fb23c6fb2b81a5ebf",
       "company": "Panasonic Avionics Corporation",
       "title": "MTS I, Software Engineer (Embedded Systems & Linux)",
@@ -193,17 +248,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc2faaa9a644f96568ad92",
-      "company": "Danfoss",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abc2faaa9a644f96568ad92",
-      "location": "Minneapolis, MN",
-      "datePosted": 1790694332,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9740adb22f636c81416f5d",
       "company": "Eulerity",
       "title": "Backend Developer Intern",
@@ -232,17 +276,6 @@
       "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
       "location": "Fort Belvoir, VA",
       "datePosted": 1790693085,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abbe21ea9a644f9656886d4",
-      "company": "Optum",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbe21ea9a644f9656886d4",
-      "location": "United States",
-      "datePosted": 1790693068,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -402,17 +435,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc1fe3a9a644f96568a58e",
-      "company": "Apple",
-      "title": "Software Engineer, Applied AI",
-      "url": "https://jobright.ai/jobs/info/6abc1fe3a9a644f96568a58e",
-      "location": "San Diego, CA",
-      "datePosted": 1790688627,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab57b4b4873fd3fd8529c2d",
       "company": "Aflac",
       "title": "Systems Engineer I",
@@ -534,17 +556,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc1b807119e56191ceb5e0",
-      "company": "Amazon",
-      "title": "Software Development Engineer, FinTech/Customer Service Tech",
-      "url": "https://jobright.ai/jobs/info/6abc1b807119e56191ceb5e0",
-      "location": "Newark, NJ",
-      "datePosted": 1790687504,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abc1b403217d1d13329d244",
       "company": "Amazon",
       "title": "Systems Development Engineer, Managed Edge Compute (Amazon Robotics)",
@@ -556,10 +567,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbeacda9a644f965688dcc",
+      "id": "newgrad-jobs:6abbe9033217d1d13329bc34",
       "company": "ITC Defense Corp.",
       "title": "Software Developer (.NET/C#) \u2013 NAVSUP Programs",
-      "url": "https://jobright.ai/jobs/info/6abbeacda9a644f965688dcc",
+      "url": "https://jobright.ai/jobs/info/6abbe9033217d1d13329bc34",
       "location": "United States",
       "datePosted": 1790687206,
       "source": "newgrad-jobs",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ab1d21cf9692ca98b04bec2",
       "location": "San Diego, CA",
       "datePosted": 1790686077,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a56beaee9b77f668bd65969",
-      "company": "Twitch",
-      "title": "Software Engineer I, Discovery",
-      "url": "https://jobright.ai/jobs/info/6a56beaee9b77f668bd65969",
-      "location": "San Francisco, CA",
-      "datePosted": 1790686004,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
