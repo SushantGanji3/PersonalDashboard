@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T16:10:17Z",
-  "totalOpen": 1143,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-09-30T16:20:19Z",
+  "totalOpen": 1141,
+  "totalNewgrad": 239,
   "totalOther": 902,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790757077,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aaab34540807b73bd39147a",
@@ -25,7 +25,7 @@
       "datePosted": 1790757019,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aaab4cdf6bd9d2d17c18cc2",
@@ -36,7 +36,7 @@
       "datePosted": 1790757017,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab32d701508734c1530df4c",
@@ -47,7 +47,7 @@
       "datePosted": 1790757006,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab7020639fd8792cb73d1b6",
@@ -58,7 +58,7 @@
       "datePosted": 1790756831,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd296a4ac55253f5d5b846",
@@ -69,7 +69,29 @@
       "datePosted": 1790756602,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd25414ac55253f5d5b652",
+      "company": "AEG",
+      "title": "Software Engineer- CH- AXS",
+      "url": "https://jobright.ai/jobs/info/6abd25414ac55253f5d5b652",
+      "location": "Charlotte, NC; Nashville, TN",
+      "datePosted": 1790756559,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9ad6f2138838706059452f",
+      "company": "Anduril",
+      "title": "Mission Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9ad6f2138838706059452f",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1790756466,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9b4216fe45b8490f607a60",
@@ -80,7 +102,7 @@
       "datePosted": 1790756379,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd176b064da25272dfb4c0",
@@ -91,7 +113,7 @@
       "datePosted": 1790756345,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab3014a1508734c1530d3a4",
@@ -100,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6ab3014a1508734c1530d3a4",
       "location": "New York, NY",
       "datePosted": 1790755683,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd25414ac55253f5d5b652",
-      "company": "AEG",
-      "title": "Software Engineer- CH- AXS",
-      "url": "https://jobright.ai/jobs/info/6abd25414ac55253f5d5b652",
-      "location": "Charlotte, NC; Nashville, TN",
-      "datePosted": 1790755537,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -188,6 +199,17 @@
       "url": "https://jobright.ai/jobs/info/6a3d04fe4d047136e093200a",
       "location": "San Jose, CA",
       "datePosted": 1790753582,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a62a7cac28982326de97e9c",
+      "company": "Verkada",
+      "title": "Embedded Software Engineer, Access Control",
+      "url": "https://jobright.ai/jobs/info/6a62a7cac28982326de97e9c",
+      "location": "San Mateo, CA",
+      "datePosted": 1790753507,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -292,17 +314,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a62a7cac28982326de97e9c",
-      "company": "Verkada",
-      "title": "Embedded Software Engineer, Access Control",
-      "url": "https://jobright.ai/jobs/info/6a62a7cac28982326de97e9c",
-      "location": "San Mateo, CA",
-      "datePosted": 1790750435,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abd0ef28ff3fb9b3bc6e332",
       "company": "L3Harris",
       "title": "Intern, Information Security Systems Engineer  (Salt Lake City, UT)",
@@ -347,6 +358,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa046043b5aa83237b08157",
+      "company": "Anthropic",
+      "title": "Research Engineer, Takeoff Intel",
+      "url": "https://jobright.ai/jobs/info/6aa046043b5aa83237b08157",
+      "location": "San Francisco, CA",
+      "datePosted": 1790748883,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aaa7bf8f116e4992553518e",
       "company": "General Dynamics Electric Boat",
       "title": "Information Technology, Software Engineering, & Computer Science - 2027 Summer Internship",
@@ -375,17 +397,6 @@
       "url": "https://jobright.ai/jobs/info/6aac258d95c707f49dfefbdd",
       "location": "Littleton, CO; Valley Forge, PA",
       "datePosted": 1790748627,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa046043b5aa83237b08157",
-      "company": "Anthropic",
-      "title": "Research Engineer, Takeoff Intel",
-      "url": "https://jobright.ai/jobs/info/6aa046043b5aa83237b08157",
-      "location": "San Francisco, CA",
-      "datePosted": 1790748595,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -542,7 +553,7 @@
       "datePosted": 1790745030,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa4cb8e654b2a9424cf1523",
@@ -652,17 +663,6 @@
       "datePosted": 1790740797,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abce75fd9621c5b2838973c",
-      "company": "TikTok",
-      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abce75fd9621c5b2838973c",
-      "location": "San Jose, CA",
-      "datePosted": 1790739695,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
