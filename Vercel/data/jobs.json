@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T06:10:17Z",
-  "totalOpen": 1146,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-09-30T06:20:17Z",
+  "totalOpen": 1147,
+  "totalNewgrad": 247,
   "totalOther": 900,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc98bb2aed40a9546752cb",
+      "company": "Tesla",
+      "title": "Internship, Software Developer, Integration Tools (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6abc98bb2aed40a9546752cb",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790719563,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abc4abe3217d1d13329e224",
@@ -696,17 +707,6 @@
       "datePosted": 1790690238,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc238a7119e56191ceba18",
-      "company": "Birdseye Security Solutions",
-      "title": "Intern Computer Vision (Dallas)",
-      "url": "https://jobright.ai/jobs/info/6abc238a7119e56191ceba18",
-      "location": "Dallas, TX",
-      "datePosted": 1790689562,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
