@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:10:16Z",
+  "generatedAt": "2026-09-30T00:20:20Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1790723415
+    },
+    {
+      "id": "newgrad-jobs:6abc4abe3217d1d13329e224",
+      "company": "BAE Systems",
+      "title": "Programmer Intern, Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abc4abe3217d1d13329e224",
+      "location": "Washington, DC",
+      "datePosted": 1790699598,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1790727620
+    },
+    {
+      "id": "newgrad-jobs:6abc4abc7119e56191cec691",
+      "company": "BAE Systems",
+      "title": "Systems Engineer Intern (Mechanical Focus), Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abc4abc7119e56191cec691",
+      "location": "Rockville, MD",
+      "datePosted": 1790699596,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1790727620
+    },
+    {
+      "id": "newgrad-jobs:6abc4815d6acfd3dd29fd082",
+      "company": "Linde Gas & Equipment",
+      "title": "Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6abc4815d6acfd3dd29fd082",
+      "location": "Tonawanda, NY",
+      "datePosted": 1790698917,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1790727620
     },
     {
       "id": "newgrad-jobs:6abc46377119e56191cec601",
