@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-01T01:30:18Z",
-  "totalOpen": 1150,
+  "generatedAt": "2026-10-01T01:40:18Z",
+  "totalOpen": 1155,
   "totalNewgrad": 237,
-  "totalOther": 913,
+  "totalOther": 918,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:080ae983-f3c6-404a-9df2-ba7e7c54506e",
+      "company": "Tesla",
+      "title": "Data Engineer Intern - Data Engineer - Applications Engineering",
+      "url": "https://www.tesla.com/careers/search/job/285179",
+      "location": "Fremont, CA",
+      "datePosted": 1790817862,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:0bb25d49-891c-45e8-9504-1d5c8d923aa3",
+      "company": "Tesla",
+      "title": "Commercial UI Software Engineer Intern",
+      "url": "https://www.tesla.com/careers/search/job/285202",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790817854,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:df5171fa-1ddf-43a0-ad02-00788d2705f3",
+      "company": "Tesla",
+      "title": "Data Engineer Intern - Data Engineering & Business Intelligence",
+      "url": "https://www.tesla.com/careers/search/job/285291",
+      "location": "Fremont, CA",
+      "datePosted": 1790817569,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:42079b38-2a81-4395-8380-8127f696afaf",
+      "company": "TikTok",
+      "title": "Software Engineer Graduate",
+      "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+      "location": "San Jose, CA",
+      "datePosted": 1790817111,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:aeab4fea-e485-4034-9b78-77335cbd2a83",
       "company": "Qualcomm",
@@ -37,6 +81,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:48975da5-2bb2-4457-8702-de4898cd805e",
+      "company": "Stripe",
+      "title": "Software Engineer Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "location": "Seattle, WA, SF",
+      "datePosted": 1790806682,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
@@ -1266,61 +1321,6 @@
       "url": "https://lifeattiktok.com/search/7681783406632782085",
       "location": "San Jose, CA",
       "datePosted": 1790115275,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d21b7b94-4ec6-4789-9893-f5bcb8a6d2b8",
-      "company": "Tesla",
-      "title": "Robotics Modeling & Simulation Engineer Intern",
-      "url": "https://www.tesla.com/careers/search/job/284436",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790115058,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
-      "company": "Waymo",
-      "title": "Embedded Intern - Software Engineer",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-      "location": "Mountain View, CA",
-      "datePosted": 1790041044,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6747a804-3d64-4369-a51e-9309bb720e0c",
-      "company": "Epic Games",
-      "title": "Engine Programmer Intern",
-      "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
-      "location": "Cary, NC",
-      "datePosted": 1790040161,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:282eda76-ee60-4f60-abe4-e0db76ac4fdb",
-      "company": "Rivian",
-      "title": "Software Engineer Co-op Intern - Product Development Portal",
-      "url": "https://careers.rivian.com/jobs/33745?icims=1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790039990,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e031f965-19f0-4d28-88d1-410fbff55e45",
-      "company": "Rivian",
-      "title": "Software Engineer Intern Co-op - Product Lifecycle Management",
-      "url": "https://careers.rivian.com/jobs/33746?icims=1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790039653,
       "source": "aggregator",
       "season": null,
       "isNew": false
