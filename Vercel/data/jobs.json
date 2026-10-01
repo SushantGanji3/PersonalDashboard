@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:40:18Z",
+  "generatedAt": "2026-10-01T01:50:15Z",
   "totalOpen": 1155,
   "totalNewgrad": 237,
   "totalOther": 918,
@@ -14,7 +14,7 @@
       "datePosted": 1790817862,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0bb25d49-891c-45e8-9504-1d5c8d923aa3",
@@ -25,7 +25,7 @@
       "datePosted": 1790817854,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:df5171fa-1ddf-43a0-ad02-00788d2705f3",
@@ -36,7 +36,7 @@
       "datePosted": 1790817569,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:42079b38-2a81-4395-8380-8127f696afaf",
@@ -47,7 +47,7 @@
       "datePosted": 1790817111,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:aeab4fea-e485-4034-9b78-77335cbd2a83",
@@ -91,7 +91,7 @@
       "datePosted": 1790806682,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
@@ -123,6 +123,72 @@
       "location": "Nashville, TN",
       "datePosted": 1790806019,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2c454326574570a002f6b",
+      "company": "Idaho National Laboratory",
+      "title": "Cyber Security Research Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ab2c454326574570a002f6b",
+      "location": "Idaho Falls, ID",
+      "datePosted": 1790791003,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2c2931e4847ddae916406",
+      "company": "Idaho National Laboratory",
+      "title": "Computer Security Research Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ab2c2931e4847ddae916406",
+      "location": "Idaho Falls, ID",
+      "datePosted": 1790791002,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd5f5c8ff3fb9b3bc70405",
+      "company": "ECS",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6abd5f5c8ff3fb9b3bc70405",
+      "location": "Fairfax, VA",
+      "datePosted": 1790790942,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a714ff19a0ca4480c7d3c3d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Ads Interface) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714ff19a0ca4480c7d3c3d",
+      "location": "San Jose, CA",
+      "datePosted": 1790789429,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a701a19c56c0956e8adda59",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok-Generalized Arch-Code Intelligence & Quality Validation) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a701a19c56c0956e8adda59",
+      "location": "San Jose, CA",
+      "datePosted": 1790789423,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd6108064da25272dfd42a",
+      "company": "Rocky Brands, Inc.",
+      "title": "Front End Developer",
+      "url": "https://jobright.ai/jobs/info/6abd6108064da25272dfd42a",
+      "location": "Nelsonville, OH",
+      "datePosted": 1790789289,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -204,10 +270,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a7ae3d29ee17f276dbf442e",
+      "id": "newgrad-jobs:6a85c0a64afae74a08340f72",
       "company": "TikTok",
       "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6a7ae3d29ee17f276dbf442e",
+      "url": "https://jobright.ai/jobs/info/6a85c0a64afae74a08340f72",
       "location": "San Jose, CA",
       "datePosted": 1790787594,
       "source": "newgrad-jobs",
@@ -699,39 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab66748b3db59402d1004f4",
-      "company": "McKinsey & Company",
-      "title": "Software Engineer Intern - QuantumBlack, AI by McKinsey",
-      "url": "https://jobright.ai/jobs/info/6ab66748b3db59402d1004f4",
-      "location": "Atlanta, GA; Boston, MA; Chicago, IL; New York, NY",
-      "datePosted": 1790776357,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a984018def18223c854e3ec",
-      "company": "Intel",
-      "title": "Software Engineering - Intern, Bachelor\u2019s",
-      "url": "https://jobright.ai/jobs/info/6a984018def18223c854e3ec",
-      "location": "Hillsboro, OR; Folsom, CA; Santa Clara, CA; Austin, TX; Phoenix, AZ",
-      "datePosted": 1790776138,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9c43b3387a3d9b67d6bce",
-      "company": "Johnson & Johnson",
-      "title": "Software Engineering Intern - Robotics R&D",
-      "url": "https://jobright.ai/jobs/info/6aa9c43b3387a3d9b67d6bce",
-      "location": "Santa Clara, CA",
-      "datePosted": 1790776138,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a331b33ce501060b5cec470",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
@@ -762,39 +795,6 @@
       "datePosted": 1790775428,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd2e684ac55253f5d5b9d0",
-      "company": "AXS",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd2e684ac55253f5d5b9d0",
-      "location": "Charlotte, NC",
-      "datePosted": 1790775170,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a55c5fe14f1040fa611ba76",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer, E-commerce Feed Recommendation",
-      "url": "https://jobright.ai/jobs/info/6a55c5fe14f1040fa611ba76",
-      "location": "Seattle, WA",
-      "datePosted": 1790774957,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a837a2f9b859b227766f36e",
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
-      "url": "https://jobright.ai/jobs/info/6a837a2f9b859b227766f36e",
-      "location": "Phoenix, AZ",
-      "datePosted": 1790774880,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
