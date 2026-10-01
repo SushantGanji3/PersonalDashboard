@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T17:30:18Z",
+  "generatedAt": "2026-10-01T17:40:18Z",
   "totalOpen": 1160,
   "totalNewgrad": 240,
   "totalOther": 920,
@@ -15,6 +15,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa16319dbc0e60e37e110ed",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (AI Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa16319dbc0e60e37e110ed",
+      "location": "Vienna, VA",
+      "datePosted": 1790848232,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abe8d3b4ac55253f5d61431",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (AI Platform) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abe8d3b4ac55253f5d61431",
+      "location": "San Jose, CA",
+      "datePosted": 1790847691,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abe8c5d4ac55253f5d613e7",
@@ -661,28 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5",
       "location": "Poughkeepsie, NY; Durham, NC",
       "datePosted": 1790838508,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaea8e1acb8fc6f09c23fa",
-      "company": "North Carolina Department of Agriculture and Consumer Services",
-      "title": "Programmer Analyst",
-      "url": "https://jobright.ai/jobs/info/6abaea8e1acb8fc6f09c23fa",
-      "location": "Santa Rosa, CA",
-      "datePosted": 1790838215,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe61140e027c0f3b398685",
-      "company": "Intel",
-      "title": "Software Engineer \u2013 Datacenter",
-      "url": "https://jobright.ai/jobs/info/6abe61140e027c0f3b398685",
-      "location": "Santa Clara, CA",
-      "datePosted": 1790838014,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
