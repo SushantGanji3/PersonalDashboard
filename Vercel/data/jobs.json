@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-01T09:30:19Z",
-  "totalOpen": 1152,
+  "generatedAt": "2026-10-01T09:40:17Z",
+  "totalOpen": 1159,
   "totalNewgrad": 235,
-  "totalOther": 917,
+  "totalOther": 924,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:da112e4c-4b18-4df4-9cad-95acdd778d6f",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - Azure Databases",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
+      "location": "Redmond, WA",
+      "datePosted": 1790845696,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abe1d8f8ff3fb9b3bc72cbf",
       "company": "Grainger",
@@ -14,7 +25,7 @@
       "datePosted": 1790819103,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a37cd3bac13d3709850",
@@ -36,7 +47,7 @@
       "datePosted": 1790818250,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a714fe8e2b7476e7b20da69",
@@ -1310,17 +1321,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
       "location": "Reston, VA",
       "datePosted": 1790125610,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
-      "company": "Rippling",
-      "title": "Full Stack Software Engineer Intern",
-      "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
-      "location": "Seattle, WA, SF, NYC",
-      "datePosted": 1790115654,
       "source": "aggregator",
       "season": null,
       "isNew": false
