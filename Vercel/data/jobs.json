@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T03:40:15Z",
-  "totalOpen": 1144,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-10-01T03:50:18Z",
+  "totalOpen": 1143,
+  "totalNewgrad": 225,
   "totalOther": 918,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -127,14 +127,47 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abdb895372c01f6cd721cb5",
-      "company": "Tesla",
-      "title": "Internship, Data Engineer, Data Engineering & Business Intelligence (Winter/Spring2027)",
-      "url": "https://jobright.ai/jobs/info/6abdb895372c01f6cd721cb5",
-      "location": "Fremont, CA",
-      "datePosted": 1790793253,
+      "id": "newgrad-jobs:6a95fec94c22023a07937674",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://jobright.ai/jobs/info/6a95fec94c22023a07937674",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Toronto, ON",
+      "datePosted": 1790797186,
       "source": "newgrad-jobs",
-      "season": "Winter",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abdc7968ff3fb9b3bc72117",
+      "company": "Odyssey Space Research, LLC",
+      "title": "LTV Flight and Ground Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abdc7968ff3fb9b3bc72117",
+      "location": "Houston, TX; Boulder, CO",
+      "datePosted": 1790797094,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a714fca71acd469eeda266d",
+      "company": "TikTok",
+      "title": "Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714fca71acd469eeda266d",
+      "location": "San Jose, CA",
+      "datePosted": 1790796617,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd6108064da25272dfd42a",
+      "company": "Rocky Brands, Inc.",
+      "title": "Front End Developer",
+      "url": "https://jobright.ai/jobs/info/6abd6108064da25272dfd42a",
+      "location": "Nelsonville, OH",
+      "datePosted": 1790795958,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -143,9 +176,42 @@
       "title": "Software Engineering Internship - Summer 2027",
       "url": "https://jobright.ai/jobs/info/6abdb6a4064da25272dfee8b",
       "location": "Lowell, MA",
-      "datePosted": 1790792756,
+      "datePosted": 1790795867,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd72f48ff3fb9b3bc70a89",
+      "company": "Schr\u00f6dinger",
+      "title": "Scientific Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6abd72f48ff3fb9b3bc70a89",
+      "location": "New York, NY",
+      "datePosted": 1790795193,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd7c61d9621c5b2838c8b8",
+      "company": "Patch My PC",
+      "title": "Software Engineering Intern \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abd7c61d9621c5b2838c8b8",
+      "location": "Castle Rock, CO",
+      "datePosted": 1790795038,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abdb895372c01f6cd721cb5",
+      "company": "Tesla",
+      "title": "Internship, Data Engineer, Data Engineering & Business Intelligence (Winter/Spring2027)",
+      "url": "https://jobright.ai/jobs/info/6abdb895372c01f6cd721cb5",
+      "location": "Fremont, CA",
+      "datePosted": 1790793253,
+      "source": "newgrad-jobs",
+      "season": "Winter",
       "isNew": false
     },
     {
@@ -212,17 +278,6 @@
       "datePosted": 1790789423,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd6108064da25272dfd42a",
-      "company": "Rocky Brands, Inc.",
-      "title": "Front End Developer",
-      "url": "https://jobright.ai/jobs/info/6abd6108064da25272dfd42a",
-      "location": "Nelsonville, OH",
-      "datePosted": 1790789289,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -312,6 +367,28 @@
       "source": "newgrad-jobs",
       "season": "Fall 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abdc68ed9621c5b2838da97",
+      "company": "Raydar",
+      "title": "Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6abdc68ed9621c5b2838da97",
+      "location": "San Francisco, CA",
+      "datePosted": 1790787600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abdc68a8ff3fb9b3bc720e4",
+      "company": "Raydar",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6abdc68a8ff3fb9b3bc720e4",
+      "location": "San Francisco, CA",
+      "datePosted": 1790787600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7ae3d29ee17f276dbf442e",
@@ -567,45 +644,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd802f372c01f6cd720ef1",
-      "company": "Tesla",
-      "title": "Internship, System Modeling & Infrastructure Engineer, Low Voltage Power Distribution  (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6abd802f372c01f6cd720ef1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790778815,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd4dc4d9621c5b2838b745",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
-      "url": "https://jobright.ai/jobs/info/6abd4dc4d9621c5b2838b745",
-      "location": "Mountain View, CA",
-      "datePosted": 1790778743,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a98810183fc633357631dbb",
       "company": "Accenture Federal Services",
       "title": "Data Engineer",
       "url": "https://jobright.ai/jobs/info/6a98810183fc633357631dbb",
       "location": "Tampa, FL",
       "datePosted": 1790778514,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd7df28ff3fb9b3bc7102e",
-      "company": "Punch Through",
-      "title": "Mobile Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abd7df28ff3fb9b3bc7102e",
-      "location": "Greater Minneapolis\u2013St. Paul Area, United States",
-      "datePosted": 1790778242,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -619,17 +663,6 @@
       "datePosted": 1790778222,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd7d93d9621c5b2838c93d",
-      "company": "Hidden Level",
-      "title": "Embedded Software Engineering Intern \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abd7d93d9621c5b2838c93d",
-      "location": "Syracuse, NY",
-      "datePosted": 1790778081,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -661,17 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6abd5ffb372c01f6cd7201ee",
       "location": "Marlborough, MA; Tewksbury, MA",
       "datePosted": 1790777995,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd27c2d9621c5b2838a459",
-      "company": "RTX",
-      "title": "Systems Engineer - Intern- Onsite",
-      "url": "https://jobright.ai/jobs/info/6abd27c2d9621c5b2838a459",
-      "location": "Tewksbury, MA",
-      "datePosted": 1790777982,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -771,28 +793,6 @@
       "url": "https://jobright.ai/jobs/info/6ab538fa4873fd3fd852849e",
       "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
       "datePosted": 1790775798,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd72f48ff3fb9b3bc70a89",
-      "company": "Schr\u00f6dinger",
-      "title": "Scientific Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd72f48ff3fb9b3bc70a89",
-      "location": "New York, NY",
-      "datePosted": 1790775428,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd2e684ac55253f5d5b9d0",
-      "company": "AXS",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd2e684ac55253f5d5b9d0",
-      "location": "Charlotte, NC",
-      "datePosted": 1790775170,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
