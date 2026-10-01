@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:00:24Z",
+  "generatedAt": "2026-10-01T12:10:17Z",
   "totalOpen": 1173,
   "totalNewgrad": 251,
   "totalOther": 922,
@@ -25,7 +25,7 @@
       "datePosted": 1790825706,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abe3674d9621c5b2838e98a",
@@ -146,7 +146,7 @@
       "datePosted": 1790823415,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa9674309ae03adcacdd333",
@@ -234,7 +234,7 @@
       "datePosted": 1790822222,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a71a407e2b7476e7b20ed87",
@@ -245,7 +245,7 @@
       "datePosted": 1790822214,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a21160eda5948e8d48b",
@@ -256,7 +256,7 @@
       "datePosted": 1790822211,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a71a4229a0ca4480c7d4ef0",
@@ -267,7 +267,7 @@
       "datePosted": 1790822211,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a84194d85e0d023aaea2841",
@@ -278,7 +278,7 @@
       "datePosted": 1790822211,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abe2861372c01f6cd722b43",
@@ -853,6 +853,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:04a691aa-579c-4daf-98c5-87a42434da2b",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "simplify:0a405c15-cc8e-435c-92fb-7fc22c23643b",
       "company": "RTX",
       "title": "Embedded Software Security Engineer Intern - S3E",
@@ -1310,17 +1321,6 @@
       "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
       "location": "Seattle, WA, SF, NYC",
       "datePosted": 1790115654,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fff73d24-2557-417b-a791-58567415f245",
-      "company": "Rippling",
-      "title": "Software Engineer Intern - Backend Focused",
-      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
-      "location": "Seattle, WA, SF, NYC",
-      "datePosted": 1790115651,
       "source": "aggregator",
       "season": null,
       "isNew": false
