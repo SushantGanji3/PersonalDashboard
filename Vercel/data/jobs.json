@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T23:10:16Z",
-  "totalOpen": 1182,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-10-01T23:20:16Z",
+  "totalOpen": 1176,
+  "totalNewgrad": 246,
   "totalOther": 930,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790894268,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1241572f-e197-4dc1-85b5-7e85e15234d8",
@@ -25,7 +25,7 @@
       "datePosted": 1790893938,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d08c50c3-35d4-45a8-b1ab-041d0b5a5a3a",
@@ -36,7 +36,7 @@
       "datePosted": 1790893308,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c1aff4b4-bedf-4c66-b282-a592990ba632",
@@ -47,7 +47,7 @@
       "datePosted": 1790893159,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4fda6f3c-c073-469a-90b9-cb1d79c5f369",
@@ -58,7 +58,7 @@
       "datePosted": 1790893158,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:35d12704-75f4-4a19-8d57-c70563db0263",
@@ -116,14 +116,14 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abeb1c08ff3fb9b3bc751eb",
-      "company": "Notion",
-      "title": "Software Engineer, Mobile Core (Android)",
-      "url": "https://jobright.ai/jobs/info/6abeb1c08ff3fb9b3bc751eb",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790864966,
+      "id": "newgrad-jobs:6abec7a90e027c0f3b39af33",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abec7a90e027c0f3b39af33",
+      "location": "Aurora, CO; Cedar Rapids, IA",
+      "datePosted": 1790865110,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -135,17 +135,6 @@
       "datePosted": 1790864921,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec7a90e027c0f3b39af33",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abec7a90e027c0f3b39af33",
-      "location": "Aurora, CO; Cedar Rapids, IA",
-      "datePosted": 1790864403,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -166,6 +155,17 @@
       "url": "https://jobright.ai/jobs/info/6abecbfe8ff3fb9b3bc76039",
       "location": "Centennial, CO; Denver, CO",
       "datePosted": 1790864248,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abe6dd0064da25272e0088e",
+      "company": "Leidos",
+      "title": "Cloud Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6abe6dd0064da25272e0088e",
+      "location": "Gaithersburg, MD",
+      "datePosted": 1790864196,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -688,10 +688,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa168692f936e4a53dab861",
+      "id": "newgrad-jobs:6aa1634a0ffb3d4fea6b482f",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Mobile Developer)",
-      "url": "https://jobright.ai/jobs/info/6aa168692f936e4a53dab861",
+      "url": "https://jobright.ai/jobs/info/6aa1634a0ffb3d4fea6b482f",
       "location": "Vienna, VA; Pensacola, FL; Winchester, VA; San Diego, CA",
       "datePosted": 1790858476,
       "source": "newgrad-jobs",
@@ -839,7 +839,7 @@
       "datePosted": 1790812800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:aeab4fea-e485-4034-9b78-77335cbd2a83",
