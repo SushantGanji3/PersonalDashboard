@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T18:40:16Z",
-  "totalOpen": 1161,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-10-01T18:50:18Z",
+  "totalOpen": 1166,
+  "totalNewgrad": 247,
   "totalOther": 919,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abe9caa8ff3fb9b3bc74b75",
+      "company": "Navatech",
+      "title": "Jr Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6abe9caa8ff3fb9b3bc74b75",
+      "location": "Austin, TX",
+      "datePosted": 1790851642,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8562d7c1a3fd7120f74ddc",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a8562d7c1a3fd7120f74ddc",
+      "location": "Santa Clara, CA",
+      "datePosted": 1790851295,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa19ee63272060a8e3f10fa",
+      "company": "Tokyo Electron US",
+      "title": "Software Engineer, AI Research Summer 2027 Intern",
+      "url": "https://jobright.ai/jobs/info/6aa19ee63272060a8e3f10fa",
+      "location": "San Jose, CA",
+      "datePosted": 1790851195,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abe96980e027c0f3b399b35",
@@ -650,39 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6ab418c4ef911c35dffa354c",
       "location": "Annapolis Junction, MD",
       "datePosted": 1790843345,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6caccbacb0a61f9dbc6542",
-      "company": "Booz Allen Hamilton",
-      "title": "Agentic AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6a6caccbacb0a61f9dbc6542",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1790843340,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a96fb7e455eaf6a08c19ab8",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Systems Engineer Intern - Ft. Walton Beach, FL",
-      "url": "https://jobright.ai/jobs/info/6a96fb7e455eaf6a08c19ab8",
-      "location": "Fort Walton Beach, FL",
-      "datePosted": 1790843324,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4f9b942411952ff9a64d6",
-      "company": "Booz Allen Hamilton",
-      "title": "Model-Based Systems Engineer, Junior",
-      "url": "https://jobright.ai/jobs/info/6aa4f9b942411952ff9a64d6",
-      "location": "El Segundo, CA",
-      "datePosted": 1790843323,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
