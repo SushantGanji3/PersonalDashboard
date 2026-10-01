@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T00:10:15Z",
-  "totalOpen": 1164,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-10-01T00:20:16Z",
+  "totalOpen": 1160,
+  "totalNewgrad": 247,
   "totalOther": 913,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -68,6 +68,28 @@
       "location": "Nashville, TN",
       "datePosted": 1790806019,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd71ea4ac55253f5d5d6da",
+      "company": "Jamf",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6abd71ea4ac55253f5d5d6da",
+      "location": "United States",
+      "datePosted": 1790785309,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd615f064da25272dfd456",
+      "company": "Southern Company",
+      "title": "Application Developer I (Integrations)",
+      "url": "https://jobright.ai/jobs/info/6abd615f064da25272dfd456",
+      "location": "Atlanta, GA",
+      "datePosted": 1790785305,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -388,7 +410,7 @@
       "datePosted": 1790777853,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd7c61d9621c5b2838c8b8",
@@ -666,17 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd71ea4ac55253f5d5d6da",
-      "company": "Jamf",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6abd71ea4ac55253f5d5d6da",
-      "location": "United States",
-      "datePosted": 1790775162,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
       "company": "Figma",
       "title": "Software Engineer Intern (Summer 2027)",
@@ -729,17 +740,6 @@
       "datePosted": 1790774880,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc3717d6acfd3dd29fcc58",
-      "company": "Tesla",
-      "title": "Internship, AI Software Engineer, Core Infrastructure (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6abc3717d6acfd3dd29fcc58",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790774880,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
