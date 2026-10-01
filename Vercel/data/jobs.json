@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T22:40:15Z",
-  "totalOpen": 1179,
-  "totalNewgrad": 256,
+  "generatedAt": "2026-10-01T22:50:16Z",
+  "totalOpen": 1177,
+  "totalNewgrad": 254,
   "totalOther": 923,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790892579,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e738e999-5fd1-4d8e-a451-bd26b18a0fa0",
@@ -25,7 +25,7 @@
       "datePosted": 1790892578,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:94015ee8-32d2-4ad0-8394-3cb30e464aaa",
@@ -36,7 +36,7 @@
       "datePosted": 1790892464,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abed3848ff3fb9b3bc762e9",
@@ -47,7 +47,7 @@
       "datePosted": 1790865684,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abe90040e027c0f3b39990c",
@@ -91,7 +91,7 @@
       "datePosted": 1790864403,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abeb9add9621c5b28390d35",
@@ -102,7 +102,7 @@
       "datePosted": 1790864360,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abecbfe8ff3fb9b3bc76039",
@@ -113,7 +113,7 @@
       "datePosted": 1790864248,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abecd4c372c01f6cd725eb9",
@@ -124,7 +124,7 @@
       "datePosted": 1790864092,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abecc074ac55253f5d62ec5",
@@ -135,7 +135,7 @@
       "datePosted": 1790863767,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a523a538a74e077472f3a93",
@@ -179,7 +179,7 @@
       "datePosted": 1790863141,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abec9710e027c0f3b39b091",
@@ -622,17 +622,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a51d47857513b72e0c688f3",
-      "company": "Gallatin AI, Inc.",
-      "title": "AI Engineer - Allocation and Packing Systems",
-      "url": "https://jobright.ai/jobs/info/6a51d47857513b72e0c688f3",
-      "location": "El Segundo, CA",
-      "datePosted": 1790859705,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abeb9870e027c0f3b39a53a",
       "company": "Point72",
       "title": "Micro-Intern: Research Technology Developer (IAP)",
@@ -705,6 +694,17 @@
       "url": "https://jobright.ai/jobs/info/6a331b33ce501060b5cec470",
       "location": "Austin, TX; Westborough, MA; Seattle, WA; Arlington, VA; Bellevue, WA; North Reading, MA; Westboro, WI",
       "datePosted": 1790858038,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6d404257120971bf3afa52",
+      "company": "SECUNETICS",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a6d404257120971bf3afa52",
+      "location": "Sterling, VA",
+      "datePosted": 1790857982,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
