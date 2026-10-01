@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T05:20:15Z",
-  "totalOpen": 1143,
-  "totalNewgrad": 228,
+  "generatedAt": "2026-10-01T05:30:18Z",
+  "totalOpen": 1145,
+  "totalNewgrad": 230,
   "totalOther": 915,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -135,7 +135,7 @@
       "datePosted": 1790804157,
       "source": "newgrad-jobs",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abde316d9621c5b2838de80",
@@ -146,7 +146,7 @@
       "datePosted": 1790804134,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd0ef28ff3fb9b3bc6e332",
@@ -160,6 +160,61 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a606491cf6cf477a0560c47",
+      "company": "TikTok",
+      "title": "(General Hire) Machine Learning Engineer (all levels) , TikTok Recommendation",
+      "url": "https://jobright.ai/jobs/info/6a606491cf6cf477a0560c47",
+      "location": "San Jose, CA",
+      "datePosted": 1790803814,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abddde30e027c0f3b3974ef",
+      "company": "Northrop Grumman",
+      "title": "2027 - Associate Software Engineer - McClellan CA",
+      "url": "https://jobright.ai/jobs/info/6abddde30e027c0f3b3974ef",
+      "location": "McClellan Park, CA",
+      "datePosted": 1790802803,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a58f0544da96a42cfd8e22b",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer / Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a58f0544da96a42cfd8e22b",
+      "location": "Melbourne, FL",
+      "datePosted": 1790802726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a6b716b5c54bc4752ce8f6c",
+      "company": "Northrop Grumman",
+      "title": "2027  Associate Software Engineer / Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a6b716b5c54bc4752ce8f6c",
+      "location": "Melbourne, FL",
+      "datePosted": 1790802726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a7c98ff7c52154b59f5aecb",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer/Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7c98ff7c52154b59f5aecb",
+      "location": "Melbourne, FL",
+      "datePosted": 1790802726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abc18093217d1d13329d005",
       "company": "Northrop Grumman",
       "title": "Systems Engineer (SkillBridge) Annapolis MD",
@@ -168,7 +223,7 @@
       "datePosted": 1790802715,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abda42cd9621c5b2838d48c",
@@ -179,6 +234,39 @@
       "datePosted": 1790802517,
       "source": "newgrad-jobs",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abddcac4ac55253f5d5f064",
+      "company": "Noblis",
+      "title": "Software Developer - Multiple Levels (Cleared)",
+      "url": "https://jobright.ai/jobs/info/6abddcac4ac55253f5d5f064",
+      "location": "Reston, VA",
+      "datePosted": 1790802492,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a81a5f7e2030208f277b1d0",
+      "company": "Noblis",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a81a5f7e2030208f277b1d0",
+      "location": "Philadelphia, PA",
+      "datePosted": 1790801812,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac05fc3e3ce93970c7b2a8",
+      "company": "Noblis",
+      "title": "AI/ML Engineer - Multiple levels (Cleared)",
+      "url": "https://jobright.ai/jobs/info/6aac05fc3e3ce93970c7b2a8",
+      "location": "Reston, VA",
+      "datePosted": 1790801812,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -199,6 +287,17 @@
       "url": "https://jobright.ai/jobs/info/6aba8724be5f1e9325115e1f",
       "location": "Houston, TX",
       "datePosted": 1790800813,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
+      "company": "Virtu Financial",
+      "title": "Software Engineer - Desktop Frontend Developer (C#/Winforms)",
+      "url": "https://jobright.ai/jobs/info/6a51d234bf63b66c7997d7d9",
+      "location": "New York, NY",
+      "datePosted": 1790799887,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -490,6 +589,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abde2c88ff3fb9b3bc7250a",
+      "company": "Raydar",
+      "title": "Founding Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abde2c88ff3fb9b3bc7250a",
+      "location": "San Francisco, CA",
+      "datePosted": 1790787600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abde2c14ac55253f5d5f16a",
+      "company": "Raydar",
+      "title": "Mobile Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abde2c14ac55253f5d5f16a",
+      "location": "San Francisco, CA",
+      "datePosted": 1790787600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a7ae3d29ee17f276dbf442e",
       "company": "TikTok",
       "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
@@ -666,105 +787,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a832602b5a0ac0e84a23cb7",
-      "company": "Bectran, Inc.",
-      "title": "Cyber Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6a832602b5a0ac0e84a23cb7",
-      "location": "Schaumburg, IL",
-      "datePosted": 1790781241,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd869e0e027c0f3b396388",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Applied AI (Spring 2027 Co-Op)",
-      "url": "https://jobright.ai/jobs/info/6abd869e0e027c0f3b396388",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790780462,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a81a5f7e2030208f277b1d0",
-      "company": "Noblis",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a81a5f7e2030208f277b1d0",
-      "location": "Philadelphia, PA",
-      "datePosted": 1790780163,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a98810183fc633357631dbb",
-      "company": "Accenture Federal Services",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a98810183fc633357631dbb",
-      "location": "Tampa, FL",
-      "datePosted": 1790778514,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd78aa0e027c0f3b395da2",
-      "company": "Nomura",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd78aa0e027c0f3b395da2",
-      "location": "New York, NY",
-      "datePosted": 1790778222,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd3bbd4ac55253f5d5bfe1",
-      "company": "RTX",
-      "title": "Software/Developer Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abd3bbd4ac55253f5d5bfe1",
-      "location": "Fort Wayne, IN; Huntsville, AL; Indianapolis, IN",
-      "datePosted": 1790778008,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd3bc48ff3fb9b3bc6f2e5",
-      "company": "RTX",
-      "title": "Software Engineer/Developer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abd3bc48ff3fb9b3bc6f2e5",
-      "location": "Portsmouth, RI; Tewksbury, MA; Woburn, MA",
-      "datePosted": 1790777999,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd5ffb372c01f6cd7201ee",
-      "company": "RTX",
-      "title": "Software Engineer/Developer I  (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abd5ffb372c01f6cd7201ee",
-      "location": "Marlborough, MA; Tewksbury, MA",
-      "datePosted": 1790777995,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd75730e027c0f3b395c62",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abd75730e027c0f3b395c62",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1790777945,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:736601ef-d2f7-440f-81d2-25467641ae04",
       "company": "General Dynamics",
       "title": "Software Engineer 1/2",
@@ -772,28 +794,6 @@
       "location": "Middletown, RI",
       "datePosted": 1790777853,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd5adcd9621c5b2838bc4d",
-      "company": "URM Stores Inc",
-      "title": "Programmer Analyst I \u2013 Store Systems",
-      "url": "https://jobright.ai/jobs/info/6abd5adcd9621c5b2838bc4d",
-      "location": "Spokane, WA",
-      "datePosted": 1790776960,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a55ba102ce8bf79a13a0076",
-      "company": "KLA",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a55ba102ce8bf79a13a0076",
-      "location": "Ann Arbor, MI",
-      "datePosted": 1790776832,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
