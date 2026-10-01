@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T07:20:16Z",
-  "totalOpen": 1148,
-  "totalNewgrad": 230,
+  "generatedAt": "2026-10-01T07:30:19Z",
+  "totalOpen": 1151,
+  "totalNewgrad": 233,
   "totalOther": 918,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -50,6 +50,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abdfce2064da25272dff99c",
+      "company": "The D. E. Shaw Group",
+      "title": "Software Developer, Futures",
+      "url": "https://jobright.ai/jobs/info/6abdfce2064da25272dff99c",
+      "location": "New York, NY",
+      "datePosted": 1790810738,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abd8f030e027c0f3b3966cf",
       "company": "Disney",
       "title": "Product Software Engineer I",
@@ -58,6 +69,17 @@
       "datePosted": 1790808250,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abde316d9621c5b2838de80",
+      "company": "Tesla",
+      "title": "Internship, Product Security Engineer (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abde316d9621c5b2838de80",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790807500,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -138,6 +160,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a58f0544da96a42cfd8e22b",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer / Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a58f0544da96a42cfd8e22b",
+      "location": "Melbourne, FL",
+      "datePosted": 1790806082,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6b716b5c54bc4752ce8f6c",
+      "company": "Northrop Grumman",
+      "title": "2027  Associate Software Engineer / Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a6b716b5c54bc4752ce8f6c",
+      "location": "Melbourne, FL",
+      "datePosted": 1790806082,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7c98ff7c52154b59f5aecb",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer/Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7c98ff7c52154b59f5aecb",
+      "location": "Melbourne, FL",
+      "datePosted": 1790806082,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:cea6352a-da56-4d24-a4d4-4a5f5833eeec",
       "company": "Oracle",
       "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure",
@@ -157,17 +212,6 @@
       "datePosted": 1790805600,
       "source": "newgrad-jobs",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abde316d9621c5b2838de80",
-      "company": "Tesla",
-      "title": "Internship, Product Security Engineer (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abde316d9621c5b2838de80",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790805600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -193,39 +237,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a58f0544da96a42cfd8e22b",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a58f0544da96a42cfd8e22b",
-      "location": "Melbourne, FL",
-      "datePosted": 1790802726,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6b716b5c54bc4752ce8f6c",
-      "company": "Northrop Grumman",
-      "title": "2027  Associate Software Engineer / Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a6b716b5c54bc4752ce8f6c",
-      "location": "Melbourne, FL",
-      "datePosted": 1790802726,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7c98ff7c52154b59f5aecb",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer/Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a7c98ff7c52154b59f5aecb",
-      "location": "Melbourne, FL",
-      "datePosted": 1790802726,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abc18093217d1d13329d005",
       "company": "Northrop Grumman",
       "title": "Systems Engineer (SkillBridge) Annapolis MD",
@@ -237,10 +248,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abda42cd9621c5b2838d48c",
+      "id": "newgrad-jobs:6abd9835372c01f6cd7216ce",
       "company": "Allegion",
       "title": "Summer Intern - Software Engineering - Quality Assurance",
-      "url": "https://jobright.ai/jobs/info/6abda42cd9621c5b2838d48c",
+      "url": "https://jobright.ai/jobs/info/6abd9835372c01f6cd7216ce",
       "location": "Golden, CO",
       "datePosted": 1790802517,
       "source": "newgrad-jobs",
@@ -391,10 +402,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac2bef95c707f49dfefe63",
+      "id": "newgrad-jobs:6aac2d2d95c707f49dfefeef",
       "company": "Fusion Academy",
       "title": "Systems Developer",
-      "url": "https://jobright.ai/jobs/info/6aac2bef95c707f49dfefe63",
+      "url": "https://jobright.ai/jobs/info/6aac2d2d95c707f49dfefeef",
       "location": "United States",
       "datePosted": 1790793849,
       "source": "newgrad-jobs",
@@ -611,6 +622,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abdfed60e027c0f3b397a40",
+      "company": "Raydar",
+      "title": "Product Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abdfed60e027c0f3b397a40",
+      "location": "Bellevue, WA",
+      "datePosted": 1790787600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abdfedb372c01f6cd7226fb",
       "company": "Raydar",
       "title": "Software Engineer",
@@ -619,7 +641,7 @@
       "datePosted": 1790787600,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abdfed90e027c0f3b397a43",
@@ -630,7 +652,7 @@
       "datePosted": 1790787600,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abdfedd064da25272dff9c2",
@@ -641,7 +663,7 @@
       "datePosted": 1790787600,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abdf7380e027c0f3b39782e",
@@ -762,28 +784,6 @@
       "datePosted": 1790783926,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd8915d9621c5b2838cce7",
-      "company": "IQVIA",
-      "title": "Systems Support Developer",
-      "url": "https://jobright.ai/jobs/info/6abd8915d9621c5b2838cce7",
-      "location": "Wayne, PA",
-      "datePosted": 1790783419,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1d1cef9692ca98b04beaf",
-      "company": "Amtrak",
-      "title": "Spring 2027 - Software Engineering Intern - 90413037 - Washington",
-      "url": "https://jobright.ai/jobs/info/6ab1d1cef9692ca98b04beaf",
-      "location": "Washington, DC",
-      "datePosted": 1790782858,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
