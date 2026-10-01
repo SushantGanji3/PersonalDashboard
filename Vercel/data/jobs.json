@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T12:10:17Z",
-  "totalOpen": 1173,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-10-01T12:20:17Z",
+  "totalOpen": 1171,
+  "totalNewgrad": 249,
   "totalOther": 922,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa17ab7500b01124c77cd44",
+      "company": "S&P Global",
+      "title": "Software Engineer - Summer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa17ab7500b01124c77cd44",
+      "location": "Cambridge, MA; New York, NY",
+      "datePosted": 1790828727,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a96f83e455eaf6a08c1995f",
+      "company": "Mach Industries",
+      "title": "Flight Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a96f83e455eaf6a08c1995f",
+      "location": "Huntington Beach, CA",
+      "datePosted": 1790828321,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:69fa70230b36ff03547627cf",
+      "company": "Nuro",
+      "title": "Software Engineer, ML Data Infrastructure",
+      "url": "https://jobright.ai/jobs/info/69fa70230b36ff03547627cf",
+      "location": "Mountain View, CA; CA, United States",
+      "datePosted": 1790827722,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa1ca270ffb3d4fea6b725d",
@@ -127,6 +160,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
+      "company": "Deloitte",
+      "title": "Palantir Developer, Consultant",
+      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
+      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
+      "datePosted": 1790823659,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa204740ffb3d4fea6b843b",
       "company": "Epic Games",
       "title": "UI Programmer Intern",
@@ -190,17 +234,6 @@
       "datePosted": 1790823058,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
-      "company": "Deloitte",
-      "title": "Palantir Developer, Consultant",
-      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
-      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
-      "datePosted": 1790822875,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -765,39 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abe2a6e372c01f6cd722b79",
-      "company": "Southwest Airlines",
-      "title": "Summer 2027 Data Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6abe2a6e372c01f6cd722b79",
-      "location": "United States",
-      "datePosted": 1790805600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd0ef28ff3fb9b3bc6e332",
-      "company": "L3Harris",
-      "title": "Intern, Information Security Systems Engineer  (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef28ff3fb9b3bc6e332",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1790803821,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a606491cf6cf477a0560c47",
-      "company": "TikTok",
-      "title": "(General Hire) Machine Learning Engineer (all levels) , TikTok Recommendation",
-      "url": "https://jobright.ai/jobs/info/6a606491cf6cf477a0560c47",
-      "location": "San Jose, CA",
-      "datePosted": 1790803814,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:736601ef-d2f7-440f-81d2-25467641ae04",
       "company": "General Dynamics",
       "title": "Software Engineer 1/2",
@@ -861,7 +861,7 @@
       "datePosted": 1790726400,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0a405c15-cc8e-435c-92fb-7fc22c23643b",
