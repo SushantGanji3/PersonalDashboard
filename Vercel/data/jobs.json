@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-10-01T22:30:18Z",
-  "totalOpen": 1168,
-  "totalNewgrad": 249,
-  "totalOther": 919,
+  "generatedAt": "2026-10-01T22:40:15Z",
+  "totalOpen": 1179,
+  "totalNewgrad": 256,
+  "totalOther": 923,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:35d12704-75f4-4a19-8d57-c70563db0263",
+      "company": "Amazon",
+      "title": "Software Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+      "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO",
+      "datePosted": 1790892579,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:e738e999-5fd1-4d8e-a451-bd26b18a0fa0",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Robotics",
+      "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
+      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
+      "datePosted": 1790892578,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:94015ee8-32d2-4ad0-8394-3cb30e464aaa",
+      "company": "Glean",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+      "location": "Mountain View, CA",
+      "datePosted": 1790892464,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abed3848ff3fb9b3bc762e9",
+      "company": "Nordstrom",
+      "title": "Junior SRE (Seattle,WA)",
+      "url": "https://jobright.ai/jobs/info/6abed3848ff3fb9b3bc762e9",
+      "location": "Seattle, WA",
+      "datePosted": 1790865684,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abe90040e027c0f3b39990c",
+      "company": "B&D Industries, Inc.",
+      "title": "Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6abe90040e027c0f3b39990c",
+      "location": "Albuquerque, NM",
+      "datePosted": 1790865185,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abeb1c08ff3fb9b3bc751eb",
+      "company": "Notion",
+      "title": "Software Engineer, Mobile Core (Android)",
+      "url": "https://jobright.ai/jobs/info/6abeb1c08ff3fb9b3bc751eb",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1790864966,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "simplify:5ca3d9ed-7ea0-42ca-87f3-9791668c9ee4",
       "company": "Old Mission Capital",
@@ -15,6 +81,61 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abec7a90e027c0f3b39af33",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abec7a90e027c0f3b39af33",
+      "location": "Aurora, CO; Cedar Rapids, IA",
+      "datePosted": 1790864403,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abeb9add9621c5b28390d35",
+      "company": "RTX",
+      "title": "Flight Control Software Engineering Intern (Summer 2027) (Open)",
+      "url": "https://jobright.ai/jobs/info/6abeb9add9621c5b28390d35",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1790864360,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abecbfe8ff3fb9b3bc76039",
+      "company": "United Launch Alliance (ULA)",
+      "title": "Embedded Flight Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6abecbfe8ff3fb9b3bc76039",
+      "location": "Centennial, CO; Denver, CO",
+      "datePosted": 1790864248,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abecd4c372c01f6cd725eb9",
+      "company": "SeatGeek",
+      "title": "Security Engineer - Internship",
+      "url": "https://jobright.ai/jobs/info/6abecd4c372c01f6cd725eb9",
+      "location": "New York, NY",
+      "datePosted": 1790864092,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abecc074ac55253f5d62ec5",
+      "company": "Gas South",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6abecc074ac55253f5d62ec5",
+      "location": "Atlanta, GA",
+      "datePosted": 1790863767,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a523a538a74e077472f3a93",
@@ -28,23 +149,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abe8c3e0e027c0f3b399779",
+      "company": "Microsoft",
+      "title": "JavaScript Software Engineer - Web Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6abe8c3e0e027c0f3b399779",
+      "location": "Mountain View, CA",
+      "datePosted": 1790863249,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abe96980e027c0f3b399b35",
+      "company": "Pinterest",
+      "title": "Software Engineer Intern 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6abe96980e027c0f3b399b35",
+      "location": "United States",
+      "datePosted": 1790863249,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abec9954ac55253f5d62d8e",
+      "company": "Innovative Defense Technologies (IDT)",
+      "title": "Software Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6abec9954ac55253f5d62d8e",
+      "location": "San Diego, CA; Arlington, VA; Mount Laurel Township, NJ",
+      "datePosted": 1790863141,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abec9710e027c0f3b39b091",
       "company": "Innovative Defense Technologies (IDT)",
       "title": "Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6abec9710e027c0f3b39b091",
       "location": "Arlington, VA; Mount Laurel Township, NJ; San Diego, CA",
       "datePosted": 1790863105,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec9708ff3fb9b3bc75ee4",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Software Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abec9708ff3fb9b3bc75ee4",
-      "location": "Arlington, VA; Mount Laurel Township, NJ; San Diego, CA",
-      "datePosted": 1790863104,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -100,17 +243,6 @@
       "url": "https://jobright.ai/jobs/info/6abec9190e027c0f3b39b05a",
       "location": "Boulder, CO",
       "datePosted": 1790863017,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec7c6372c01f6cd725bd0",
-      "company": "Gas South",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abec7c6372c01f6cd725bd0",
-      "location": "Atlanta, GA",
-      "datePosted": 1790862678,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -468,23 +600,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abe7b60064da25272e00f1c",
-      "company": "Microsoft",
-      "title": "JavaScript Software Engineer - Web Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6abe7b60064da25272e00f1c",
-      "location": "Mountain View, CA",
-      "datePosted": 1790861170,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abe890c4ac55253f5d612de",
       "company": "Womble Bond Dickinson (US) LLP",
       "title": "AI Engineer",
       "url": "https://jobright.ai/jobs/info/6abe890c4ac55253f5d612de",
       "location": "Atlanta, GA; Charleston, SC; Columbia, SC; Greenville, SC; Greensboro, NC; Winston-Salem, NC; Raleigh, NC; Charlotte, NC; Durham, NC; Nashville, TN; Huntsville, AL; Houston, TX; Boston, MA; New York, NY; Charlottesville, VA; Jacksonville, FL; Washington, DC; McLean, VA; Baltimore, MD; Albany, NY; Cleveland, OH; Denver, CO; Colorado Springs, CO; Reno, NV; Las Vegas, NV; Walnut Creek, CA; Irvine, CA; Glendale, CA; Sunnyvale, CA; San Francisco, CA; Phoenix, AZ; Tucson, AZ",
       "datePosted": 1790860897,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abead3d8ff3fb9b3bc750bc",
+      "company": "Innovative Defense Technologies (IDT)",
+      "title": "IT Security Engineer Intern - JobID-0297",
+      "url": "https://jobright.ai/jobs/info/6abead3d8ff3fb9b3bc750bc",
+      "location": "San Diego, CA",
+      "datePosted": 1790860551,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -501,28 +633,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abebc1c372c01f6cd725221",
-      "company": "Leidos",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6abebc1c372c01f6cd725221",
-      "location": "Huntsville, AL",
-      "datePosted": 1790859692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abead3d8ff3fb9b3bc750bc",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "IT Security Engineer Intern - JobID-0297",
-      "url": "https://jobright.ai/jobs/info/6abead3d8ff3fb9b3bc750bc",
-      "location": "San Diego, CA",
-      "datePosted": 1790859352,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abeb9870e027c0f3b39a53a",
       "company": "Point72",
       "title": "Micro-Intern: Research Technology Developer (IAP)",
@@ -534,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1634a0ffb3d4fea6b482f",
+      "id": "newgrad-jobs:6aa168692f936e4a53dab861",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Mobile Developer)",
-      "url": "https://jobright.ai/jobs/info/6aa1634a0ffb3d4fea6b482f",
+      "url": "https://jobright.ai/jobs/info/6aa168692f936e4a53dab861",
       "location": "Vienna, VA; Pensacola, FL; Winchester, VA; San Diego, CA",
       "datePosted": 1790858476,
       "source": "newgrad-jobs",
@@ -597,83 +707,6 @@
       "datePosted": 1790858038,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe6dd0064da25272e0088e",
-      "company": "Leidos",
-      "title": "Cloud Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6abe6dd0064da25272e0088e",
-      "location": "Gaithersburg, MD",
-      "datePosted": 1790857835,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abeb2274ac55253f5d6203f",
-      "company": "Aira Technologies",
-      "title": "Applied AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abeb2274ac55253f5d6203f",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1790857143,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a32aab5f6b55d12c7914f0e",
-      "company": "Swift",
-      "title": "Software Development Engineer in Test (SDET)",
-      "url": "https://jobright.ai/jobs/info/6a32aab5f6b55d12c7914f0e",
-      "location": "Manassas, VA",
-      "datePosted": 1790857124,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abdeca48ff3fb9b3bc725ee",
-      "company": "Onestream",
-      "title": "Associate AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6abdeca48ff3fb9b3bc725ee",
-      "location": "United States",
-      "datePosted": 1790856924,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abeb14a0e027c0f3b39a328",
-      "company": "Betterment",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abeb14a0e027c0f3b39a328",
-      "location": "New York, NY",
-      "datePosted": 1790856922,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe8bf1d9621c5b2838ffa9",
-      "company": "InterPro Pipe + Steel",
-      "title": "Oracle APEX Developer",
-      "url": "https://jobright.ai/jobs/info/6abe8bf1d9621c5b2838ffa9",
-      "location": "Pueblo, CO",
-      "datePosted": 1790856648,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe86390e027c0f3b3995c3",
-      "company": "Riot Games",
-      "title": "Software Engineering Intern - Summer 2027 (Remote)",
-      "url": "https://jobright.ai/jobs/info/6abe86390e027c0f3b3995c3",
-      "location": "United States",
-      "datePosted": 1790856129,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -957,17 +990,6 @@
       "title": "Software/Developer Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
       "location": "Fort Wayne, IN",
-      "datePosted": 1790726400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9bea948d-dffb-4340-aa5a-3a7fa7ddd92e",
-      "company": "RTX",
-      "title": "Embedded Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013",
-      "location": "East Hartford, CT",
       "datePosted": 1790726400,
       "source": "aggregator",
       "season": null,
@@ -1301,28 +1323,6 @@
       "datePosted": 1790126217,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5b597914-e71c-489d-b3ad-77a3e48f7c58",
-      "company": "Astranis",
-      "title": "Software Engineer Enterprise Systems Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
-      "location": "SF",
-      "datePosted": 1790126216,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
-      "company": "Microsoft",
-      "title": "Software Engineer - Cleared",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
-      "location": "Reston, VA",
-      "datePosted": 1790125610,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
