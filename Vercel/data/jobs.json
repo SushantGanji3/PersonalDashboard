@@ -1,10 +1,340 @@
 {
-  "generatedAt": "2026-10-02T19:30:17Z",
-  "totalOpen": 1164,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-10-02T19:40:14Z",
+  "totalOpen": 1171,
+  "totalNewgrad": 244,
   "totalOther": 927,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abfff6a372c01f6cd72a056",
+      "company": "CACI International Inc",
+      "title": "Systems Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6abfff6a372c01f6cd72a056",
+      "location": "Ashburn, VA",
+      "datePosted": 1790942458,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abff1738ff3fb9b3bc79bd5",
+      "company": "Harvey",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abff1738ff3fb9b3bc79bd5",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1790941802,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abffb344ac55253f5d66de0",
+      "company": "TikTok",
+      "title": "Software Engineer intern (Global Traffic Architecture) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb344ac55253f5d66de0",
+      "location": "San Jose, CA",
+      "datePosted": 1790941380,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb24372c01f6cd729ea8",
+      "company": "TikTok",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb24372c01f6cd729ea8",
+      "location": "Seattle, WA",
+      "datePosted": 1790941364,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb230e027c0f3b39f20d",
+      "company": "TikTok",
+      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb230e027c0f3b39f20d",
+      "location": "Seattle, WA",
+      "datePosted": 1790941363,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb1f064da25272e0713a",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb1f064da25272e0713a",
+      "location": "Seattle, WA",
+      "datePosted": 1790941359,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb16064da25272e07131",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6abffb16064da25272e07131",
+      "location": "San Jose, CA",
+      "datePosted": 1790941350,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb15372c01f6cd729ea0",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Relational Database) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb15372c01f6cd729ea0",
+      "location": "San Jose, CA",
+      "datePosted": 1790941349,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb0e372c01f6cd729e98",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Global Payment - Risk & Compliance) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb0e372c01f6cd729e98",
+      "location": "San Jose, CA",
+      "datePosted": 1790941342,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb0dd9621c5b28395a19",
+      "company": "TikTok",
+      "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb0dd9621c5b28395a19",
+      "location": "San Jose, CA",
+      "datePosted": 1790941341,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb0b0e027c0f3b39f1f9",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Global Payment) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb0b0e027c0f3b39f1f9",
+      "location": "San Jose, CA",
+      "datePosted": 1790941339,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb0b0e027c0f3b39f1f8",
+      "company": "TikTok",
+      "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb0b0e027c0f3b39f1f8",
+      "location": "Seattle, WA",
+      "datePosted": 1790941339,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb0a064da25272e0711c",
+      "company": "TikTok",
+      "title": "Network Security Software Engineer Intern (Security Engineering) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6abffb0a064da25272e0711c",
+      "location": "San Jose, CA",
+      "datePosted": 1790941338,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb07d9621c5b28395a13",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6abffb07d9621c5b28395a13",
+      "location": "Seattle, WA",
+      "datePosted": 1790941335,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb074ac55253f5d66dc7",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (AI Platform) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb074ac55253f5d66dc7",
+      "location": "San Jose, CA",
+      "datePosted": 1790941335,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb050e027c0f3b39f1ee",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb050e027c0f3b39f1ee",
+      "location": "San Jose, CA",
+      "datePosted": 1790941333,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb058ff3fb9b3bc79fc0",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb058ff3fb9b3bc79fc0",
+      "location": "San Jose, CA",
+      "datePosted": 1790941333,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb05d9621c5b28395a0f",
+      "company": "TikTok",
+      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb05d9621c5b28395a0f",
+      "location": "San Jose, CA",
+      "datePosted": 1790941333,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb030e027c0f3b39f1e9",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6abffb030e027c0f3b39f1e9",
+      "location": "San Jose, CA",
+      "datePosted": 1790941331,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb010e027c0f3b39f1e5",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6abffb010e027c0f3b39f1e5",
+      "location": "San Jose, CA",
+      "datePosted": 1790941329,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffb000e027c0f3b39f1e3",
+      "company": "TikTok",
+      "title": "GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffb000e027c0f3b39f1e3",
+      "location": "San Jose, CA",
+      "datePosted": 1790941328,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffafed9621c5b28395a08",
+      "company": "TikTok",
+      "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6abffafed9621c5b28395a08",
+      "location": "San Jose, CA",
+      "datePosted": 1790941326,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffaf48ff3fb9b3bc79fb2",
+      "company": "TikTok",
+      "title": "Student Researcher - (Seed Model - Speech) \u2013 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6abffaf48ff3fb9b3bc79fb2",
+      "location": "San Jose, CA",
+      "datePosted": 1790941316,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffaedd9621c5b283959ed",
+      "company": "TikTok",
+      "title": "Network Software Development Engineer Intern (Network Switch) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffaedd9621c5b283959ed",
+      "location": "San Jose, CA",
+      "datePosted": 1790941309,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffae9064da25272e070fe",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6abffae9064da25272e070fe",
+      "location": "San Jose, CA",
+      "datePosted": 1790941305,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffae88ff3fb9b3bc79fa4",
+      "company": "TikTok",
+      "title": "Multi-Cloud CDN Data Platform Engineer Intern (Global Engineering CDN) - 2026 Fall (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6abffae88ff3fb9b3bc79fa4",
+      "location": "San Jose, CA",
+      "datePosted": 1790941304,
+      "source": "newgrad-jobs",
+      "season": "Fall 2026",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffae5372c01f6cd729e6c",
+      "company": "TikTok",
+      "title": "Network Software Development Engineer Intern(Network  Observation) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffae5372c01f6cd729e6c",
+      "location": "San Jose, CA",
+      "datePosted": 1790941301,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffadf064da25272e070f3",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Traffic Infrastructure) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6abffadf064da25272e070f3",
+      "location": "San Jose, CA",
+      "datePosted": 1790941295,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffad6372c01f6cd729e5c",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (CIS Knowledge Bank) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6abffad6372c01f6cd729e5c",
+      "location": "San Jose, CA",
+      "datePosted": 1790941286,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abffacc0e027c0f3b39f1b4",
+      "company": "TikTok",
+      "title": "Applied Machine Learning Production Engineer Graduate (AML-Production Engineer) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6abffacc0e027c0f3b39f1b4",
+      "location": "San Jose, CA",
+      "datePosted": 1790941276,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a8612e8e459fa3baa865c33",
       "company": "TikTok",
@@ -17,15 +347,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abff1738ff3fb9b3bc79bd5",
-      "company": "Harvey",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abff1738ff3fb9b3bc79bd5",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790938883,
+      "id": "newgrad-jobs:6abd6bc34ac55253f5d5d4f8",
+      "company": "Health Care Service Corporation",
+      "title": "Early Careers - Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6abd6bc34ac55253f5d5d4f8",
+      "location": "Richardson, TX",
+      "datePosted": 1790940700,
       "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abfd6ab0e027c0f3b39e2a3",
@@ -33,10 +363,21 @@
       "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
       "url": "https://jobright.ai/jobs/info/6abfd6ab0e027c0f3b39e2a3",
       "location": "Seattle, WA; Redmond, WA; Santa Clara, CA; Los Angeles, CA; Cupertino, CA; Palo Alto, CA; Los Gatos, CA; San Diego, CA; San Francisco, CA; San Jose, CA; Sunnyvale, CA; Bellevue, WA",
-      "datePosted": 1790938870,
+      "datePosted": 1790940648,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa602a9930bff471a2a1473",
+      "company": "TD",
+      "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)",
+      "url": "https://jobright.ai/jobs/info/6aa602a9930bff471a2a1473",
+      "location": "Mount Laurel Township, NJ",
+      "datePosted": 1790940537,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aad76fc3dbb1f8967ceda44",
@@ -47,17 +388,6 @@
       "datePosted": 1790938624,
       "source": "newgrad-jobs",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfcebc0e027c0f3b39e00b",
-      "company": "Docusign",
-      "title": "Software Engineering Intern \u2013 Self-Service Directory Diagnostics",
-      "url": "https://jobright.ai/jobs/info/6abfcebc0e027c0f3b39e00b",
-      "location": "Seattle, WA",
-      "datePosted": 1790938150,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -127,17 +457,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abfddf9d9621c5b28394d5a",
-      "company": "Enterprise Mobility",
-      "title": "Intern - Systems Engineer, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abfddf9d9621c5b28394d5a",
-      "location": "St. Louis, MO; Brentwood, MO; Richmond Heights, MO; Clayton, MO; Maplewood, MO",
-      "datePosted": 1790935928,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a8618704afae74a083436a4",
       "company": "SpaceX",
       "title": "Software Engineer (Application Software)",
@@ -146,17 +465,6 @@
       "datePosted": 1790935351,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfd052064da25272e05f1d",
-      "company": "BAE Systems",
-      "title": "Software Engineering Intern II, Summer 2027 (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abfd052064da25272e05f1d",
-      "location": "Totowa, NJ",
-      "datePosted": 1790935201,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -204,17 +512,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aad69d16956574eac8b57b4",
-      "company": "Together AI",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aad69d16956574eac8b57b4",
-      "location": "San Francisco, CA",
-      "datePosted": 1790935127,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aad69e0de327d3e210d23e8",
       "company": "Together AI",
       "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
@@ -237,34 +534,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aad69d66956574eac8b57c0",
-      "company": "Together AI",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6aad69d66956574eac8b57c0",
-      "location": "San Francisco, CA",
-      "datePosted": 1790935120,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abfe2094ac55253f5d66366",
       "company": "4G Clinical",
       "title": "Full Stack Software Engineer - (On Site)",
       "url": "https://jobright.ai/jobs/info/6abfe2094ac55253f5d66366",
       "location": "Wellesley, MA",
       "datePosted": 1790934937,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3ba27c5a856ac7e33b3df",
-      "company": "Exegy",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3ba27c5a856ac7e33b3df",
-      "location": "St. Louis, MO",
-      "datePosted": 1790934808,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -278,17 +553,6 @@
       "datePosted": 1790934614,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3865c959a10d7230d2230",
-      "company": "Tanium",
-      "title": "Software Engineering Intern \u2013\u00a0Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa3865c959a10d7230d2230",
-      "location": "Durham, NC; Emeryville, CA",
-      "datePosted": 1790934337,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -311,17 +575,6 @@
       "datePosted": 1790934138,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec5bd8ff3fb9b3bc75b6b",
-      "company": "TikTok",
-      "title": "Software Development Engineer Intern (Network Automation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abec5bd8ff3fb9b3bc75b6b",
-      "location": "San Jose, CA",
-      "datePosted": 1790934091,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -410,259 +663,6 @@
       "datePosted": 1790933543,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
-      "company": "Accenture Federal Services",
-      "title": "ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
-      "location": "Fort Belvoir, VA",
-      "datePosted": 1790933539,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa39919626f9945308b1c89",
-      "company": "Hearst Television",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa39919626f9945308b1c89",
-      "location": "Carmel, IN",
-      "datePosted": 1790932855,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfd8d9064da25272e0627e",
-      "company": "UniFirst Corporation",
-      "title": "Junior Azure Data Engineer - Hybrid Role",
-      "url": "https://jobright.ai/jobs/info/6abfd8d9064da25272e0627e",
-      "location": "Wilmington, MA",
-      "datePosted": 1790932585,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6a9f69d4843569fe4eb75",
-      "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://jobright.ai/jobs/info/6ab6a9f69d4843569fe4eb75",
-      "location": "Yorktown Heights, NY; Albany, NY",
-      "datePosted": 1790932355,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
-      "location": "New York, NY",
-      "datePosted": 1790932239,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8629fdd34f700f87fc0c5a",
-      "company": "Copart",
-      "title": "Site Reliability Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8629fdd34f700f87fc0c5a",
-      "location": "Dallas, TX",
-      "datePosted": 1790932048,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a445911b156014e414bc46b",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink Enterprise)",
-      "url": "https://jobright.ai/jobs/info/6a445911b156014e414bc46b",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790931035,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a556c112084cd792b478a16",
-      "company": "Accenture Federal Services",
-      "title": "Jr. Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a556c112084cd792b478a16",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1790930939,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a87a5ab680f314a29d3a0b0",
-      "company": "SpaceX",
-      "title": "Software Engineer - Simulation & Flight Systems",
-      "url": "https://jobright.ai/jobs/info/6a87a5ab680f314a29d3a0b0",
-      "location": "Hawthorne, CA",
-      "datePosted": 1790930892,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e29e175edfa11b47106c5",
-      "company": "IBM",
-      "title": "Entry Level Software Developer 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5",
-      "location": "Poughkeepsie, NY; Durham, NC",
-      "datePosted": 1790930866,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfd0bb4ac55253f5d65ce8",
-      "company": "CACI International Inc",
-      "title": "Systems Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abfd0bb4ac55253f5d65ce8",
-      "location": "Ashburn, VA",
-      "datePosted": 1790930507,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abeda71372c01f6cd7262a7",
-      "company": "Automation Anywhere",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abeda71372c01f6cd7262a7",
-      "location": "San Jose, CA",
-      "datePosted": 1790930169,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfce2fd9621c5b283947d3",
-      "company": "Softheon",
-      "title": "Data Platform Engineer I",
-      "url": "https://jobright.ai/jobs/info/6abfce2fd9621c5b283947d3",
-      "location": "United States",
-      "datePosted": 1790929855,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa386fa4233a2201a2b1d85",
-      "company": "John Gore Organization",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa386fa4233a2201a2b1d85",
-      "location": "Boca Raton, FL",
-      "datePosted": 1790929787,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfcd7c4ac55253f5d65bf8",
-      "company": "City of New York",
-      "title": "GENERATIVE AI DEVELOPER GRADUATE INTERN",
-      "url": "https://jobright.ai/jobs/info/6abfcd7c4ac55253f5d65bf8",
-      "location": "New York, NY",
-      "datePosted": 1790929676,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfcab00e027c0f3b39deaf",
-      "company": "SAS",
-      "title": "Software Developer in Test Intern",
-      "url": "https://jobright.ai/jobs/info/6abfcab00e027c0f3b39deaf",
-      "location": "Bloomington, MN",
-      "datePosted": 1790928960,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6a83ec6fe0dec811a5f47",
-      "company": "IBM",
-      "title": "Research Intern \u2014 AI and Quantum Algorithms for Optimization 2027",
-      "url": "https://jobright.ai/jobs/info/6ab6a83ec6fe0dec811a5f47",
-      "location": "Yorktown Heights, NY",
-      "datePosted": 1790928674,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a98253d11f73b6462c8cd5d",
-      "company": "Cantor Fitzgerald",
-      "title": "Machine Learning",
-      "url": "https://jobright.ai/jobs/info/6a98253d11f73b6462c8cd5d",
-      "location": "New York, NY",
-      "datePosted": 1790928530,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfc867d9621c5b2839465f",
-      "company": "Elevated Web Design",
-      "title": "ML Product Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6abfc867d9621c5b2839465f",
-      "location": "United States",
-      "datePosted": 1790928375,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfc7184ac55253f5d65a44",
-      "company": "Open Technology Solutions, LLC",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6abfc7184ac55253f5d65a44",
-      "location": "Englewood, CO",
-      "datePosted": 1790928040,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfc615064da25272e05c99",
-      "company": "Somatus",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abfc615064da25272e05c99",
-      "location": "McLean, VA",
-      "datePosted": 1790927781,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa5e978a77a53f5a1572925",
-      "company": "IBM",
-      "title": "AI Native Systems Research Scientist Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa5e978a77a53f5a1572925",
-      "location": "Yorktown Heights, NY",
-      "datePosted": 1790927413,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a872a3125fc4e7ae3daba0a",
-      "company": "Zipline",
-      "title": "Perception Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a872a3125fc4e7ae3daba0a",
-      "location": "South San Francisco, CA",
-      "datePosted": 1790927262,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
