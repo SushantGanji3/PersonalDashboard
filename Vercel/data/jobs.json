@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-02T18:50:15Z",
-  "totalOpen": 1166,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-10-02T19:00:56Z",
+  "totalOpen": 1165,
+  "totalNewgrad": 238,
   "totalOther": 927,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aad76fc3dbb1f8967ceda44",
+      "company": "Rubrik",
+      "title": "Software Engineering Winter Internship",
+      "url": "https://jobright.ai/jobs/info/6aad76fc3dbb1f8967ceda44",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790938624,
+      "source": "newgrad-jobs",
+      "season": "Winter",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abfee57064da25272e06c12",
       "company": "Bedrock Robotics",
@@ -14,7 +25,7 @@
       "datePosted": 1790938087,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a1554a3554b0e12c0581b12",
@@ -237,17 +248,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abec5ae372c01f6cd725932",
-      "company": "TikTok",
-      "title": "Network Software Development Engineer Intern(Network  Observation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abec5ae372c01f6cd725932",
-      "location": "San Jose, CA",
-      "datePosted": 1790934096,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abea9580e027c0f3b39a06e",
       "company": "TikTok",
       "title": "Applied Machine Learning Production Engineer Graduate (AML-Production Engineer) - 2027 Start",
@@ -311,7 +311,7 @@
       "datePosted": 1790934009,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a85d1e274e02153f14587bb",
