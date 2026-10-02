@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T13:40:16Z",
-  "totalOpen": 1155,
-  "totalNewgrad": 227,
+  "generatedAt": "2026-10-02T13:50:17Z",
+  "totalOpen": 1156,
+  "totalNewgrad": 228,
   "totalOther": 928,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,72 @@
       "datePosted": 1790921279,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa39919626f9945308b1c89",
+      "company": "Hearst Television",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa39919626f9945308b1c89",
+      "location": "Carmel, IN",
+      "datePosted": 1790921167,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abfabd8d9621c5b28393fca",
+      "company": "Softheon",
+      "title": "Data Platform Engineer I",
+      "url": "https://jobright.ai/jobs/info/6abfabd8d9621c5b28393fca",
+      "location": "United States",
+      "datePosted": 1790921064,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5cc2ef686b4755d1e1c60b",
+      "company": "Atlas Technica",
+      "title": "Jr. Systems Engineer - Dedicated",
+      "url": "https://jobright.ai/jobs/info/6a5cc2ef686b4755d1e1c60b",
+      "location": "New York, NY",
+      "datePosted": 1790920759,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa39025626f9945308b18bd",
+      "company": "Insulet Corporation",
+      "title": "Co-op, Embedded Software Engineering: January-June 2027 (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa39025626f9945308b18bd",
+      "location": "Acton, MA",
+      "datePosted": 1790919540,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abe7f03372c01f6cd723d5a",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "url": "https://jobright.ai/jobs/info/6abe7f03372c01f6cd723d5a",
+      "location": "Redmond, WA",
+      "datePosted": 1790919226,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a86674974e02153f145bc5a",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a86674974e02153f145bc5a",
+      "location": "San Jose, CA",
+      "datePosted": 1790919054,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -50,10 +116,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
+      "id": "newgrad-jobs:6aa95da028e24cb38513a038",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
+      "url": "https://jobright.ai/jobs/info/6aa95da028e24cb38513a038",
       "location": "Salt Lake City, UT",
       "datePosted": 1790917577,
       "source": "newgrad-jobs",
@@ -111,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6a866763d34f700f87fc1a2d",
       "location": "San Jose, CA",
       "datePosted": 1790912328,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a86674974e02153f145bc5a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a86674974e02153f145bc5a",
-      "location": "San Jose, CA",
-      "datePosted": 1790912291,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -556,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac5cd0636cddf7396f3bf2",
+      "id": "newgrad-jobs:6aac5cd095c707f49dff10b7",
       "company": "Keysight Technologies",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aac5cd0636cddf7396f3bf2",
+      "url": "https://jobright.ai/jobs/info/6aac5cd095c707f49dff10b7",
       "location": "Santa Rosa, CA",
       "datePosted": 1790880926,
       "source": "newgrad-jobs",
@@ -630,17 +685,6 @@
       "datePosted": 1790877261,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec44a064da25272e02b39",
-      "company": "InComm Payments",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abec44a064da25272e02b39",
-      "location": "Sandy, UT",
-      "datePosted": 1790877144,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -727,50 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6abec5a78ff3fb9b3bc75b3c",
       "location": "San Jose, CA",
       "datePosted": 1790873947,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd57fa064da25272dfd190",
-      "company": "TikTok",
-      "title": "Network Security Software Engineer Intern (Security Engineering) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6abd57fa064da25272dfd190",
-      "location": "San Jose, CA",
-      "datePosted": 1790873869,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a99f26f90a313642c653b41",
-      "company": "Self Financial, Inc.",
-      "title": "Associate Software Engineer (UI)",
-      "url": "https://jobright.ai/jobs/info/6a99f26f90a313642c653b41",
-      "location": "Austin, TX",
-      "datePosted": 1790871870,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abee88bd9621c5b283924b1",
-      "company": "GE Vernova",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abee88bd9621c5b283924b1",
-      "location": "Roanoke, VA",
-      "datePosted": 1790871826,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6a988b3db59402d101997",
-      "company": "Georgia Institute of Technology",
-      "title": "Web Developer",
-      "url": "https://jobright.ai/jobs/info/6ab6a988b3db59402d101997",
-      "location": "Atlanta metropolitan area, United States",
-      "datePosted": 1790871112,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
