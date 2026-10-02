@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T04:30:18Z",
-  "totalOpen": 1148,
-  "totalNewgrad": 217,
+  "generatedAt": "2026-10-02T04:40:15Z",
+  "totalOpen": 1150,
+  "totalNewgrad": 219,
   "totalOther": 931,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -103,6 +103,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abee648d9621c5b2839245d",
+      "company": "Cincinnati Children's",
+      "title": "Software Engineer I - Web Services",
+      "url": "https://jobright.ai/jobs/info/6abee648d9621c5b2839245d",
+      "location": "United States",
+      "datePosted": 1790888350,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaca8d03d96632d741ab9c1",
+      "company": "ITA International",
+      "title": "Junior Power Platform Developer",
+      "url": "https://jobright.ai/jobs/info/6aaca8d03d96632d741ab9c1",
+      "location": "Newport News, VA",
+      "datePosted": 1790887890,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abf2574372c01f6cd7274fb",
@@ -512,6 +534,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab6a988b3db59402d101997",
+      "company": "Georgia Institute of Technology",
+      "title": "Web Developer",
+      "url": "https://jobright.ai/jobs/info/6ab6a988b3db59402d101997",
+      "location": "Atlanta metropolitan area, United States",
+      "datePosted": 1790871112,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a874f3ad34f700f87fc4b78",
       "company": "Impulse Space",
       "title": "Embedded Software Engineer",
@@ -738,39 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
       "location": "San Mateo, CA",
       "datePosted": 1790861580,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6cb6a39fd8792cb73c19e",
-      "company": "Roblox",
-      "title": "Software Engineer, GenAI Platform",
-      "url": "https://jobright.ai/jobs/info/6ab6cb6a39fd8792cb73c19e",
-      "location": "San Mateo, CA",
-      "datePosted": 1790861580,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe8359d9621c5b2838fc3f",
-      "company": "AXS",
-      "title": "Product Developer - Carbonhouse",
-      "url": "https://jobright.ai/jobs/info/6abe8359d9621c5b2838fc3f",
-      "location": "Charlotte, NC",
-      "datePosted": 1790861486,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abedf3d064da25272e03746",
-      "company": "Booz Allen Hamilton",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6abedf3d064da25272e03746",
-      "location": "United States",
-      "datePosted": 1790861469,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
