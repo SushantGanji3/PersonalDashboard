@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-02T16:10:17Z",
-  "totalOpen": 1157,
-  "totalNewgrad": 229,
+  "generatedAt": "2026-10-02T16:20:16Z",
+  "totalOpen": 1154,
+  "totalNewgrad": 226,
   "totalOther": 928,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abfd052064da25272e05f1d",
+      "company": "BAE Systems",
+      "title": "Software Engineering Intern II, Summer 2027 (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abfd052064da25272e05f1d",
+      "location": "Totowa, NJ",
+      "datePosted": 1790930402,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abfcebc0e027c0f3b39e00b",
+      "company": "Docusign",
+      "title": "Software Engineering Intern \u2013 Self-Service Directory Diagnostics",
+      "url": "https://jobright.ai/jobs/info/6abfcebc0e027c0f3b39e00b",
+      "location": "Seattle, WA",
+      "datePosted": 1790929996,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abfce2fd9621c5b283947d3",
+      "company": "Softheon",
+      "title": "Data Platform Engineer I",
+      "url": "https://jobright.ai/jobs/info/6abfce2fd9621c5b283947d3",
+      "location": "United States",
+      "datePosted": 1790929855,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa386fa4233a2201a2b1d85",
+      "company": "John Gore Organization",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa386fa4233a2201a2b1d85",
+      "location": "Boca Raton, FL",
+      "datePosted": 1790929787,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abfcd7c4ac55253f5d65bf8",
       "company": "City of New York",
@@ -12,6 +56,39 @@
       "url": "https://jobright.ai/jobs/info/6abfcd7c4ac55253f5d65bf8",
       "location": "New York, NY",
       "datePosted": 1790929676,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a445911b156014e414bc46b",
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink Enterprise)",
+      "url": "https://jobright.ai/jobs/info/6a445911b156014e414bc46b",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790929653,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abeda71372c01f6cd7262a7",
+      "company": "Automation Anywhere",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abeda71372c01f6cd7262a7",
+      "location": "San Jose, CA",
+      "datePosted": 1790929413,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abfcab00e027c0f3b39deaf",
+      "company": "SAS",
+      "title": "Software Developer in Test Intern",
+      "url": "https://jobright.ai/jobs/info/6abfcab00e027c0f3b39deaf",
+      "location": "Bloomington, MN",
+      "datePosted": 1790928960,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -23,6 +100,17 @@
       "url": "https://jobright.ai/jobs/info/6ab6a83ec6fe0dec811a5f47",
       "location": "Yorktown Heights, NY",
       "datePosted": 1790928674,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a98253d11f73b6462c8cd5d",
+      "company": "Cantor Fitzgerald",
+      "title": "Machine Learning",
+      "url": "https://jobright.ai/jobs/info/6a98253d11f73b6462c8cd5d",
+      "location": "New York, NY",
+      "datePosted": 1790928530,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -113,17 +201,6 @@
       "datePosted": 1790926986,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfc27c064da25272e05b69",
-      "company": "SAS",
-      "title": "Software Developer in Test Intern",
-      "url": "https://jobright.ai/jobs/info/6abfc27c064da25272e05b69",
-      "location": "Bloomington, MN",
-      "datePosted": 1790926860,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -556,17 +633,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abf45c6d9621c5b283934f6",
-      "company": "Profluent",
-      "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6abf45c6d9621c5b283934f6",
-      "location": "Emeryville, CA",
-      "datePosted": 1790894934,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aadb051de327d3e210d3e8d",
       "company": "RTC",
       "title": "Applications Developer",
@@ -666,28 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abca21b62033c231d781308",
-      "company": "Northrop Grumman",
-      "title": "2027 Embedded Software Engineer Intern \u2013 Rolling Meadows IL",
-      "url": "https://jobright.ai/jobs/info/6abca21b62033c231d781308",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1790892102,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abf33aad9621c5b28393329",
-      "company": "Tesphase",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abf33aad9621c5b28393329",
-      "location": "United States",
-      "datePosted": 1790890298,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abca235639bf40e93d36c0e",
       "company": "Northrop Grumman",
       "title": "2027 Associate Embedded Software Engineer",
@@ -705,17 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6abca21b62033c231d781309",
       "location": "Rolling Meadows, IL",
       "datePosted": 1790889120,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abca218639bf40e93d36c0a",
-      "company": "Northrop Grumman",
-      "title": "2027 Systems Engineer Intern \u2013 Rolling Meadows IL",
-      "url": "https://jobright.ai/jobs/info/6abca218639bf40e93d36c0a",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1790889077,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -740,39 +773,6 @@
       "datePosted": 1790887104,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abf25798ff3fb9b3bc77713",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
-      "url": "https://jobright.ai/jobs/info/6abf25798ff3fb9b3bc77713",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1790887057,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abedefd8ff3fb9b3bc7664b",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (Recommendations and Search) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abedefd8ff3fb9b3bc7664b",
-      "location": "Seattle, WA",
-      "datePosted": 1790886580,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abf1d91064da25272e04709",
-      "company": "Striveworks",
-      "title": "Junior Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abf1d91064da25272e04709",
-      "location": "Austin, TX",
-      "datePosted": 1790884641,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
