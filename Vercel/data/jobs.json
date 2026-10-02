@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T22:50:16Z",
-  "totalOpen": 1185,
-  "totalNewgrad": 256,
+  "generatedAt": "2026-10-02T23:00:21Z",
+  "totalOpen": 1184,
+  "totalNewgrad": 255,
   "totalOther": 929,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -69,7 +69,7 @@
       "datePosted": 1790953224,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac028eb4ac55253f5d67f3b",
@@ -91,7 +91,18 @@
       "datePosted": 1790953081,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab57921d85922de20ce1433",
+      "company": "Noblis",
+      "title": "Control Systems Programmer",
+      "url": "https://jobright.ai/jobs/info/6ab57921d85922de20ce1433",
+      "location": "Philadelphia, PA",
+      "datePosted": 1790953052,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac0282e064da25272e0820a",
@@ -102,7 +113,7 @@
       "datePosted": 1790952894,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac027434ac55253f5d67ef1",
@@ -113,7 +124,7 @@
       "datePosted": 1790952659,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac020ac0e027c0f3b3a0031",
@@ -127,12 +138,56 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abbd980d6acfd3dd29fa247",
+      "company": "Accenture Federal Services",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abbd980d6acfd3dd29fa247",
+      "location": "San Diego, CA",
+      "datePosted": 1790952116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac0248a4ac55253f5d67e0c",
+      "company": "Viant Technology",
+      "title": "Applied Scientist",
+      "url": "https://jobright.ai/jobs/info/6ac0248a4ac55253f5d67e0c",
+      "location": "Irvine, CA; Los Angeles, CA",
+      "datePosted": 1790951962,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac020c6d9621c5b28396872",
       "company": "Axon",
       "title": "Embedded Software Engineer I",
       "url": "https://jobright.ai/jobs/info/6ac020c6d9621c5b28396872",
       "location": "Seattle, WA; Scottsdale, AZ; Boston, MA",
       "datePosted": 1790950998,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aba8724be5f1e9325115e1f",
+      "company": "Amentum",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aba8724be5f1e9325115e1f",
+      "location": "Houston, TX",
+      "datePosted": 1790950967,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac00b988ff3fb9b3bc7a592",
+      "company": "Amentum",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac00b988ff3fb9b3bc7a592",
+      "location": "Dahlgren, VA",
+      "datePosted": 1790950921,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -210,28 +265,6 @@
       "url": "https://jobright.ai/jobs/info/6ac00b93064da25272e076fd",
       "location": "Dahlgren, VA",
       "datePosted": 1790948767,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac00b988ff3fb9b3bc7a592",
-      "company": "Amentum",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac00b988ff3fb9b3bc7a592",
-      "location": "Dahlgren, VA",
-      "datePosted": 1790948711,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aba8724be5f1e9325115e1f",
-      "company": "Amentum",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aba8724be5f1e9325115e1f",
-      "location": "Houston, TX",
-      "datePosted": 1790948695,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -320,6 +353,17 @@
       "url": "https://jobright.ai/jobs/info/6ac00f348ff3fb9b3bc7a6ce",
       "location": "Morgan Hill, CA",
       "datePosted": 1790946500,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac026160e027c0f3b3a0207",
+      "company": "TikTok",
+      "title": "Software Engineer - Data Agent & Agentic Search",
+      "url": "https://jobright.ai/jobs/info/6ac026160e027c0f3b3a0207",
+      "location": "Seattle, WA",
+      "datePosted": 1790945147,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -487,17 +531,6 @@
       "datePosted": 1790943332,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9754abf5337b2cf7321948",
-      "company": "TikTok",
-      "title": "Software Engineer - Data Agent & Agentic Search",
-      "url": "https://jobright.ai/jobs/info/6a9754abf5337b2cf7321948",
-      "location": "Seattle, WA",
-      "datePosted": 1790943167,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -685,39 +718,6 @@
       "datePosted": 1790941333,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb010e027c0f3b39f1e5",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6abffb010e027c0f3b39f1e5",
-      "location": "San Jose, CA",
-      "datePosted": 1790941329,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffafed9621c5b28395a08",
-      "company": "TikTok",
-      "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abffafed9621c5b28395a08",
-      "location": "San Jose, CA",
-      "datePosted": 1790941326,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffaf80e027c0f3b39f1d9",
-      "company": "TikTok",
-      "title": "Research Engineer/Scientist(all levels), Efficient Models",
-      "url": "https://jobright.ai/jobs/info/6abffaf80e027c0f3b39f1d9",
-      "location": "San Jose, CA",
-      "datePosted": 1790941320,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
