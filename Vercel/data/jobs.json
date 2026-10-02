@@ -1,20 +1,53 @@
 {
-  "generatedAt": "2026-10-02T22:10:16Z",
-  "totalOpen": 1179,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-10-02T22:20:19Z",
+  "totalOpen": 1181,
+  "totalNewgrad": 255,
   "totalOther": 926,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6ac01e214ac55253f5d67b7f",
-      "company": "State Farm",
-      "title": "Summer 2027 Intern - HR&D - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac01e214ac55253f5d67b7f",
-      "location": "Atlanta, GA; Bloomington, IL; Dunwoody, GA; Richardson, TX; Tempe, AZ",
-      "datePosted": 1790950321,
+      "id": "newgrad-jobs:6ac020c6d9621c5b28396872",
+      "company": "Axon",
+      "title": "Embedded Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac020c6d9621c5b28396872",
+      "location": "Seattle, WA; Scottsdale, AZ; Boston, MA",
+      "datePosted": 1790950998,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac020ac0e027c0f3b3a0031",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, Perception - Perception Data Foundations",
+      "url": "https://jobright.ai/jobs/info/6ac020ac0e027c0f3b3a0031",
+      "location": "Mountain View, CA",
+      "datePosted": 1790950972,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac02059d9621c5b28396848",
+      "company": "State Farm",
+      "title": "Summer 2027 Intern - HR&D - Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac02059d9621c5b28396848",
+      "location": "Atlanta, GA; Bloomington, IL; Dunwoody, GA; Richardson, TX; Tempe, AZ",
+      "datePosted": 1790950889,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac01f1a8ff3fb9b3bc7ad7c",
+      "company": "Docusign",
+      "title": "Software Engineering Intern \u2013 Self-Service Directory Diagnostics",
+      "url": "https://jobright.ai/jobs/info/6ac01f1a8ff3fb9b3bc7ad7c",
+      "location": "Seattle, WA",
+      "datePosted": 1790950570,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac01cfc4ac55253f5d67afe",
@@ -72,6 +105,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac00b988ff3fb9b3bc7a592",
+      "company": "Amentum",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac00b988ff3fb9b3bc7a592",
+      "location": "Dahlgren, VA",
+      "datePosted": 1790948711,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aba8724be5f1e9325115e1f",
       "company": "Amentum",
       "title": "Systems Engineer",
@@ -100,6 +144,17 @@
       "url": "https://jobright.ai/jobs/info/6ac0168a0e027c0f3b39fb58",
       "location": "United States",
       "datePosted": 1790948378,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abfcbde8ff3fb9b3bc78cdf",
+      "company": "Booz Allen Hamilton",
+      "title": "AI and ML Engineer",
+      "url": "https://jobright.ai/jobs/info/6abfcbde8ff3fb9b3bc78cdf",
+      "location": "McLean, VA; Chantilly, VA",
+      "datePosted": 1790947979,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -146,17 +201,6 @@
       "datePosted": 1790947044,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfcbde8ff3fb9b3bc78cdf",
-      "company": "Booz Allen Hamilton",
-      "title": "AI and ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6abfcbde8ff3fb9b3bc78cdf",
-      "location": "McLean, VA; Chantilly, VA",
-      "datePosted": 1790946841,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -567,17 +611,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abffb030e027c0f3b39f1e9",
-      "company": "TikTok",
-      "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abffb030e027c0f3b39f1e9",
-      "location": "San Jose, CA",
-      "datePosted": 1790941331,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abffb010e027c0f3b39f1e5",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
@@ -628,39 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6abffaf48ff3fb9b3bc79fb2",
       "location": "San Jose, CA",
       "datePosted": 1790941316,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffae9064da25272e070fe",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abffae9064da25272e070fe",
-      "location": "San Jose, CA",
-      "datePosted": 1790941305,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffae88ff3fb9b3bc79fa4",
-      "company": "TikTok",
-      "title": "Multi-Cloud CDN Data Platform Engineer Intern (Global Engineering CDN) - 2026 Fall (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abffae88ff3fb9b3bc79fa4",
-      "location": "San Jose, CA",
-      "datePosted": 1790941304,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9b0468fe45b8490f6066e8",
-      "company": "Accenture Federal Services",
-      "title": "Appian Developer",
-      "url": "https://jobright.ai/jobs/info/6a9b0468fe45b8490f6066e8",
-      "location": "Washington, DC",
-      "datePosted": 1790941282,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
