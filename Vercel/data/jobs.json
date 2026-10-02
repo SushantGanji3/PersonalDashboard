@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T12:10:15Z",
-  "totalOpen": 1154,
-  "totalNewgrad": 225,
+  "generatedAt": "2026-10-02T12:20:18Z",
+  "totalOpen": 1157,
+  "totalNewgrad": 228,
   "totalOther": 929,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -17,6 +17,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abf9623064da25272e05464",
+      "company": "Qualcomm",
+      "title": "Entry Level & Senior Software Engineer, AI Software Platform (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abf9623064da25272e05464",
+      "location": "San Diego, CA",
+      "datePosted": 1790915507,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abf95b7d9621c5b28393d26",
       "company": "Berkeley Industrial Engineering & Operations Research",
       "title": "AI Data Engineer Intern - QuantumBlack, AI by McKinsey at McKinsey & Company",
@@ -25,7 +36,18 @@
       "datePosted": 1790915399,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3d3df4238ea18d430e961",
+      "company": "Garmin",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
+      "location": "Tulsa, OK",
+      "datePosted": 1790914315,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa3ac3e5c11cce3603658d8",
@@ -749,28 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6abdeca48ff3fb9b3bc725ee",
       "location": "United States",
       "datePosted": 1790866728,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe6dd0064da25272e0088e",
-      "company": "Leidos",
-      "title": "Cloud Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6abe6dd0064da25272e0088e",
-      "location": "Gaithersburg, MD",
-      "datePosted": 1790866374,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abed3848ff3fb9b3bc762e9",
-      "company": "Nordstrom",
-      "title": "Junior SRE (Seattle,WA)",
-      "url": "https://jobright.ai/jobs/info/6abed3848ff3fb9b3bc762e9",
-      "location": "Seattle, WA",
-      "datePosted": 1790865684,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
