@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:40:16Z",
+  "generatedAt": "2026-10-02T01:50:15Z",
   "totalOpen": 1153,
   "totalNewgrad": 222,
   "totalOther": 931,
@@ -14,7 +14,7 @@
       "datePosted": 1790903947,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d24f3415-d7f3-4935-8bed-730bae30d68d",
@@ -101,6 +101,17 @@
       "location": "Mountain View, CA",
       "datePosted": 1790892464,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abec44a064da25272e02b39",
+      "company": "InComm Payments",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6abec44a064da25272e02b39",
+      "location": "Sandy, UT",
+      "datePosted": 1790877144,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -248,15 +259,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd5887064da25272dfd1ee",
+      "id": "newgrad-jobs:6abec5970e027c0f3b39acc9",
       "company": "TikTok",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abd5887064da25272dfd1ee",
+      "url": "https://jobright.ai/jobs/info/6abec5970e027c0f3b39acc9",
       "location": "San Jose, CA",
       "datePosted": 1790874023,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abec59f0e027c0f3b39acdc",
@@ -281,10 +292,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abec59a0e027c0f3b39acd2",
+      "id": "newgrad-jobs:6abec5a7064da25272e02c0b",
       "company": "TikTok",
       "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abec59a0e027c0f3b39acd2",
+      "url": "https://jobright.ai/jobs/info/6abec5a7064da25272e02c0b",
       "location": "San Jose, CA",
       "datePosted": 1790873975,
       "source": "newgrad-jobs",
@@ -760,17 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6abeb2274ac55253f5d6203f",
       "location": "San Francisco Bay Area, United States",
       "datePosted": 1790857143,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a32aab5f6b55d12c7914f0e",
-      "company": "Swift",
-      "title": "Software Development Engineer in Test (SDET)",
-      "url": "https://jobright.ai/jobs/info/6a32aab5f6b55d12c7914f0e",
-      "location": "Manassas, VA",
-      "datePosted": 1790857124,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
