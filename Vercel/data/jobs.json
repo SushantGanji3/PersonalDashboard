@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-02T06:30:18Z",
-  "totalOpen": 1153,
+  "generatedAt": "2026-10-02T06:40:17Z",
+  "totalOpen": 1154,
   "totalNewgrad": 223,
-  "totalOther": 930,
+  "totalOther": 931,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
+      "company": "Amazon",
+      "title": "Software Development Engineer \u2013 Early Career - Amazon Dedicated Cloud - ADC",
+      "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
+      "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA",
+      "datePosted": 1790921279,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:7e635a7d-4a28-41ba-a06c-d0b08875dfae",
       "company": "Walleye Capital",
@@ -25,7 +36,7 @@
       "datePosted": 1790894934,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abee648d9621c5b2839245d",
@@ -501,10 +512,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abec5970e027c0f3b39acc9",
+      "id": "newgrad-jobs:6abd5887064da25272dfd1ee",
       "company": "TikTok",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abec5970e027c0f3b39acc9",
+      "url": "https://jobright.ai/jobs/info/6abd5887064da25272dfd1ee",
       "location": "San Jose, CA",
       "datePosted": 1790874023,
       "source": "newgrad-jobs",
@@ -1310,17 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/284448",
       "location": "Palo Alto, CA",
       "datePosted": 1790213512,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:be11dc29-6925-4c06-99a2-79e488a51c35",
-      "company": "Tesla",
-      "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
-      "url": "https://www.tesla.com/careers/search/job/284593",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790213098,
       "source": "aggregator",
       "season": null,
       "isNew": false
