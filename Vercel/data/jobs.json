@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T06:40:17Z",
-  "totalOpen": 1154,
-  "totalNewgrad": 223,
+  "generatedAt": "2026-10-02T06:50:20Z",
+  "totalOpen": 1153,
+  "totalNewgrad": 222,
   "totalOther": 931,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790921279,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:7e635a7d-4a28-41ba-a06c-d0b08875dfae",
@@ -402,17 +402,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abed3ff0e027c0f3b39b4a1",
-      "company": "Federal Reserve Bank of Chicago",
-      "title": "Summer 2027 Intern-Computer Science and Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6abed3ff0e027c0f3b39b4a1",
-      "location": "Chicago, IL",
-      "datePosted": 1790874550,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a548e1be726ec56126aaa69",
       "company": "New York Mets",
       "title": "Software Engineering Associate, Baseball Systems",
@@ -784,6 +773,17 @@
       "datePosted": 1790862126,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abec59d8ff3fb9b3bc75b2d",
+      "company": "TikTok",
+      "title": "Multi-Cloud CDN Data Platform Engineer Intern (Global Engineering CDN) - 2026 Fall (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6abec59d8ff3fb9b3bc75b2d",
+      "location": "San Jose, CA",
+      "datePosted": 1790862125,
+      "source": "newgrad-jobs",
+      "season": "Fall 2026",
       "isNew": false
     },
     {
