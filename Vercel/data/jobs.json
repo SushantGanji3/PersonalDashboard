@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T06:20:16Z",
-  "totalOpen": 1152,
-  "totalNewgrad": 222,
+  "generatedAt": "2026-10-02T06:30:18Z",
+  "totalOpen": 1153,
+  "totalNewgrad": 223,
   "totalOther": 930,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,28 @@
       "location": "NYC",
       "datePosted": 1790903947,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abf45c6d9621c5b283934f6",
+      "company": "Profluent",
+      "title": "Intern, Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6abf45c6d9621c5b283934f6",
+      "location": "Emeryville, CA",
+      "datePosted": 1790894934,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abee648d9621c5b2839245d",
+      "company": "Cincinnati Children's",
+      "title": "Software Engineer I - Web Services",
+      "url": "https://jobright.ai/jobs/info/6abee648d9621c5b2839245d",
+      "location": "United States",
+      "datePosted": 1790894868,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -155,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6abca218639bf40e93d36c0a",
       "location": "Rolling Meadows, IL",
       "datePosted": 1790889077,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abee648d9621c5b2839245d",
-      "company": "Cincinnati Children's",
-      "title": "Software Engineer I - Web Services",
-      "url": "https://jobright.ai/jobs/info/6abee648d9621c5b2839245d",
-      "location": "United States",
-      "datePosted": 1790888350,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -490,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd5887064da25272dfd1ee",
+      "id": "newgrad-jobs:6abec5970e027c0f3b39acc9",
       "company": "TikTok",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abd5887064da25272dfd1ee",
+      "url": "https://jobright.ai/jobs/info/6abec5970e027c0f3b39acc9",
       "location": "San Jose, CA",
       "datePosted": 1790874023,
       "source": "newgrad-jobs",
@@ -762,17 +773,6 @@
       "datePosted": 1790862126,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec59d8ff3fb9b3bc75b2d",
-      "company": "TikTok",
-      "title": "Multi-Cloud CDN Data Platform Engineer Intern (Global Engineering CDN) - 2026 Fall (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abec59d8ff3fb9b3bc75b2d",
-      "location": "San Jose, CA",
-      "datePosted": 1790862125,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
       "isNew": false
     },
     {
