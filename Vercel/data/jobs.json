@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T23:10:17Z",
-  "totalOpen": 1190,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-10-02T23:20:20Z",
+  "totalOpen": 1189,
+  "totalNewgrad": 254,
   "totalOther": 935,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790979923,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b884d6ac-a1a0-4677-80ed-ce53c57be6e9",
@@ -25,7 +25,7 @@
       "datePosted": 1790979918,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2149ec11-ebea-44e9-95ff-a9ef69ecacdf",
@@ -36,7 +36,7 @@
       "datePosted": 1790979917,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6f49e470-0a16-4b21-86e6-7a8a8a5cd275",
@@ -47,7 +47,7 @@
       "datePosted": 1790979739,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b7368293-9c8c-4b02-8787-dddbcf2af626",
@@ -103,6 +103,72 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac03127064da25272e0844b",
+      "company": "Trailer Ops",
+      "title": "Frontend Developer - Client Relations",
+      "url": "https://jobright.ai/jobs/info/6ac03127064da25272e0844b",
+      "location": "St. George, UT",
+      "datePosted": 1790955191,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aad5080de327d3e210d1b68",
+      "company": "Redwire",
+      "title": "Software Engineer (Engineer, Software)",
+      "url": "https://jobright.ai/jobs/info/6aad5080de327d3e210d1b68",
+      "location": "Littleton, CO",
+      "datePosted": 1790955062,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a71a42402d93145bf89023c",
+      "company": "TikTok",
+      "title": "Software Development Engineer in Test Intern\uff08TikTok-Testing\uff09- 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71a42402d93145bf89023c",
+      "location": "San Jose, CA",
+      "datePosted": 1790954960,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac02d410e027c0f3b3a03fc",
+      "company": "Zions Bancorporation",
+      "title": "Intern- Process Automation Developer",
+      "url": "https://jobright.ai/jobs/info/6ac02d410e027c0f3b3a03fc",
+      "location": "Midvale, UT",
+      "datePosted": 1790954193,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac02b50d9621c5b28396bb3",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "url": "https://jobright.ai/jobs/info/6ac02b50d9621c5b28396bb3",
+      "location": "Redmond, WA",
+      "datePosted": 1790953696,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac02b25372c01f6cd72b037",
+      "company": "Microsoft",
+      "title": "Security Engineer - Red Team",
+      "url": "https://jobright.ai/jobs/info/6ac02b25372c01f6cd72b037",
+      "location": "Redmond, WA",
+      "datePosted": 1790953653,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac02978372c01f6cd72af9f",
@@ -688,78 +754,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abffb0e372c01f6cd729e98",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global Payment - Risk & Compliance) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abffb0e372c01f6cd729e98",
-      "location": "San Jose, CA",
-      "datePosted": 1790941342,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abffb0dd9621c5b28395a19",
       "company": "TikTok",
       "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
       "url": "https://jobright.ai/jobs/info/6abffb0dd9621c5b28395a19",
       "location": "San Jose, CA",
       "datePosted": 1790941341,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb0b0e027c0f3b39f1f9",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global Payment) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abffb0b0e027c0f3b39f1f9",
-      "location": "San Jose, CA",
-      "datePosted": 1790941339,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb0b0e027c0f3b39f1f8",
-      "company": "TikTok",
-      "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abffb0b0e027c0f3b39f1f8",
-      "location": "Seattle, WA",
-      "datePosted": 1790941339,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb0a064da25272e0711c",
-      "company": "TikTok",
-      "title": "Network Security Software Engineer Intern (Security Engineering) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6abffb0a064da25272e0711c",
-      "location": "San Jose, CA",
-      "datePosted": 1790941338,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb074ac55253f5d66dc7",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (AI Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abffb074ac55253f5d66dc7",
-      "location": "San Jose, CA",
-      "datePosted": 1790941335,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb05d9621c5b28395a0f",
-      "company": "TikTok",
-      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abffb05d9621c5b28395a0f",
-      "location": "San Jose, CA",
-      "datePosted": 1790941333,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
