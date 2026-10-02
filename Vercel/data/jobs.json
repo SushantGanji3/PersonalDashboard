@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T13:10:15Z",
+  "generatedAt": "2026-10-02T13:20:17Z",
   "totalOpen": 1156,
   "totalNewgrad": 227,
   "totalOther": 929,
@@ -13,6 +13,50 @@
       "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA",
       "datePosted": 1790921279,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8458157b33d72276255582",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6a8458157b33d72276255582",
+      "location": "Greenville, TX",
+      "datePosted": 1790917712,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6a9e2119d76667a2ac0860",
+      "company": "Qualcomm",
+      "title": "Software Engineer - Modem",
+      "url": "https://jobright.ai/jobs/info/6a6a9e2119d76667a2ac0860",
+      "location": "San Diego, CA",
+      "datePosted": 1790917587,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8420cae124744552738f26",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8420cae124744552738f26",
+      "location": "Palm Bay, FL; Troutman, NC",
+      "datePosted": 1790917577,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1790917577,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -89,17 +133,6 @@
       "url": "https://jobright.ai/jobs/info/6aa3ac3e5c11cce3603658d8",
       "location": "San Jose, CA",
       "datePosted": 1790911953,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3b3ec4238ea18d430d91a",
-      "company": "Emerson",
-      "title": "Software Engineering Co-op (Jun-Dec 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa3b3ec4238ea18d430d91a",
-      "location": "Eden Prairie, MN",
-      "datePosted": 1790911500,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -633,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abec59e0e027c0f3b39acd9",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global Payment) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abec59e0e027c0f3b39acd9",
-      "location": "San Jose, CA",
-      "datePosted": 1790875041,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abea977d9621c5b28390909",
       "company": "TikTok",
       "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
@@ -749,28 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6ab6a988b3db59402d101997",
       "location": "Atlanta metropolitan area, United States",
       "datePosted": 1790871112,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a874f3ad34f700f87fc4b78",
-      "company": "Impulse Space",
-      "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a874f3ad34f700f87fc4b78",
-      "location": "Redondo Beach, CA",
-      "datePosted": 1790870515,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a986377c8ed473c5c763c71",
-      "company": "Sun West Mortgage Company, Inc.",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a986377c8ed473c5c763c71",
-      "location": "United States",
-      "datePosted": 1790869427,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
