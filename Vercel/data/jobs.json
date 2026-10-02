@@ -1,10 +1,109 @@
 {
-  "generatedAt": "2026-10-02T22:30:19Z",
-  "totalOpen": 1180,
-  "totalNewgrad": 254,
-  "totalOther": 926,
+  "generatedAt": "2026-10-02T22:40:16Z",
+  "totalOpen": 1184,
+  "totalNewgrad": 255,
+  "totalOther": 929,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b7368293-9c8c-4b02-8787-dddbcf2af626",
+      "company": "Affirm",
+      "title": "Software Engineer Intern - Machine Learning",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+      "location": "SF",
+      "datePosted": 1790979178,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:55d83f42-3073-4394-a485-5f539341ffe1",
+      "company": "Affirm",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+      "location": "SF",
+      "datePosted": 1790979177,
+      "source": "aggregator",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:3f0ab4da-e520-442d-bc93-8ead777699cd",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
+      "location": "Redmond, WA",
+      "datePosted": 1790979173,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:507939af-b1b0-42a5-b103-4c941f8ec184",
+      "company": "xAI",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790979149,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:d9fd892f-4128-4b27-8d13-be649b77a0ba",
+      "company": "xAI",
+      "title": "Software Engineering Intern Co-op",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790979147,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac028eb4ac55253f5d67f3b",
+      "company": "Affirm",
+      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac028eb4ac55253f5d67f3b",
+      "location": "San Francisco, CA",
+      "datePosted": 1790953083,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab57921d85922de20ce1433",
+      "company": "Noblis",
+      "title": "Control Systems Programmer",
+      "url": "https://jobright.ai/jobs/info/6ab57921d85922de20ce1433",
+      "location": "Philadelphia, PA",
+      "datePosted": 1790953052,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abbd980d6acfd3dd29fa247",
+      "company": "Accenture Federal Services",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abbd980d6acfd3dd29fa247",
+      "location": "San Diego, CA",
+      "datePosted": 1790952116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac0248a4ac55253f5d67e0c",
+      "company": "Viant Technology",
+      "title": "Applied Scientist",
+      "url": "https://jobright.ai/jobs/info/6ac0248a4ac55253f5d67e0c",
+      "location": "Irvine, CA; Los Angeles, CA",
+      "datePosted": 1790951962,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac020c6d9621c5b28396872",
       "company": "Axon",
@@ -25,6 +124,28 @@
       "datePosted": 1790950972,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aba8724be5f1e9325115e1f",
+      "company": "Amentum",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aba8724be5f1e9325115e1f",
+      "location": "Houston, TX",
+      "datePosted": 1790950967,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac00b988ff3fb9b3bc7a592",
+      "company": "Amentum",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac00b988ff3fb9b3bc7a592",
+      "location": "Dahlgren, VA",
+      "datePosted": 1790950921,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -100,28 +221,6 @@
       "url": "https://jobright.ai/jobs/info/6ac00b93064da25272e076fd",
       "location": "Dahlgren, VA",
       "datePosted": 1790948767,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac00b988ff3fb9b3bc7a592",
-      "company": "Amentum",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac00b988ff3fb9b3bc7a592",
-      "location": "Dahlgren, VA",
-      "datePosted": 1790948711,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aba8724be5f1e9325115e1f",
-      "company": "Amentum",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aba8724be5f1e9325115e1f",
-      "location": "Houston, TX",
-      "datePosted": 1790948695,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -213,6 +312,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac026160e027c0f3b3a0207",
+      "company": "TikTok",
+      "title": "Software Engineer - Data Agent & Agentic Search",
+      "url": "https://jobright.ai/jobs/info/6ac026160e027c0f3b3a0207",
+      "location": "Seattle, WA",
+      "datePosted": 1790945147,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
@@ -377,17 +487,6 @@
       "datePosted": 1790943332,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9754abf5337b2cf7321948",
-      "company": "TikTok",
-      "title": "Software Engineer - Data Agent & Agentic Search",
-      "url": "https://jobright.ai/jobs/info/6a9754abf5337b2cf7321948",
-      "location": "Seattle, WA",
-      "datePosted": 1790943167,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -617,50 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6abffb010e027c0f3b39f1e5",
       "location": "San Jose, CA",
       "datePosted": 1790941329,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffafed9621c5b28395a08",
-      "company": "TikTok",
-      "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abffafed9621c5b28395a08",
-      "location": "San Jose, CA",
-      "datePosted": 1790941326,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffaf80e027c0f3b39f1d9",
-      "company": "TikTok",
-      "title": "Research Engineer/Scientist(all levels), Efficient Models",
-      "url": "https://jobright.ai/jobs/info/6abffaf80e027c0f3b39f1d9",
-      "location": "San Jose, CA",
-      "datePosted": 1790941320,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffaf40e027c0f3b39f1d6",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer, AML - Engine (Multiple Positions)",
-      "url": "https://jobright.ai/jobs/info/6abffaf40e027c0f3b39f1d6",
-      "location": "San Jose, CA",
-      "datePosted": 1790941316,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffaf48ff3fb9b3bc79fb2",
-      "company": "TikTok",
-      "title": "Student Researcher - (Seed Model - Speech) \u2013 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6abffaf48ff3fb9b3bc79fb2",
-      "location": "San Jose, CA",
-      "datePosted": 1790941316,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1266,61 +1321,6 @@
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
       "location": "SF",
       "datePosted": 1790287587,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b5c59c2b-f39f-4ece-91bc-4b3f46d293b3",
-      "company": "Astranis",
-      "title": "Software Developer \u2013 Network Software Intern",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006",
-      "location": "SF",
-      "datePosted": 1790287587,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d0f85828-c8e8-42fb-a47d-3f46e18db9d1",
-      "company": "Tesla",
-      "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/284448",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790213512,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:be11dc29-6925-4c06-99a2-79e488a51c35",
-      "company": "Tesla",
-      "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
-      "url": "https://www.tesla.com/careers/search/job/284593",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790213098,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a6ca4015-b83d-4606-a189-7a9fe9f86aa3",
-      "company": "Ramp",
-      "title": "Software Engineer Intern - Android",
-      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1790212862,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2470b381-61c4-4e0a-9a0b-dcc58f4956bd",
-      "company": "Ramp",
-      "title": "Software Engineer Intern - Frontend",
-      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1790212861,
       "source": "aggregator",
       "season": null,
       "isNew": false
