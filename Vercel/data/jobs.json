@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T12:40:18Z",
-  "totalOpen": 1155,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-10-02T12:50:17Z",
+  "totalOpen": 1157,
+  "totalNewgrad": 228,
   "totalOther": 929,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abf97114ac55253f5d651d4",
+      "company": "Baselayer",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6abf97114ac55253f5d651d4",
+      "location": "San Francisco, CA",
+      "datePosted": 1790915745,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abf9623064da25272e05464",
@@ -47,6 +58,28 @@
       "datePosted": 1790914315,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a866763d34f700f87fc1a2d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a866763d34f700f87fc1a2d",
+      "location": "San Jose, CA",
+      "datePosted": 1790912328,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a86674974e02153f145bc5a",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a86674974e02153f145bc5a",
+      "location": "San Jose, CA",
+      "datePosted": 1790912291,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -738,39 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6a986377c8ed473c5c763c71",
       "location": "United States",
       "datePosted": 1790869427,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7608cf4817aa43070464d8",
-      "company": "TikTok",
-      "title": "Data Engineer, PDPO - Offense & Defense",
-      "url": "https://jobright.ai/jobs/info/6a7608cf4817aa43070464d8",
-      "location": "San Jose, CA",
-      "datePosted": 1790868636,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac05fc3e3ce93970c7b2a8",
-      "company": "Noblis",
-      "title": "AI/ML Engineer - Multiple levels (Cleared)",
-      "url": "https://jobright.ai/jobs/info/6aac05fc3e3ce93970c7b2a8",
-      "location": "Reston, VA",
-      "datePosted": 1790868464,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abdeca48ff3fb9b3bc725ee",
-      "company": "Onestream",
-      "title": "Associate AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6abdeca48ff3fb9b3bc725ee",
-      "location": "United States",
-      "datePosted": 1790866728,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
