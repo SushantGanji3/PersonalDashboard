@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T08:10:16Z",
+  "generatedAt": "2026-10-02T08:20:18Z",
   "totalOpen": 1152,
   "totalNewgrad": 223,
   "totalOther": 929,
@@ -24,6 +24,17 @@
       "location": "NYC",
       "datePosted": 1790903947,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a863807e459fa3baa866d31",
+      "company": "Infineon Technologies",
+      "title": "Internship - Embedded Systems EngineerInternship - Embedded Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a863807e459fa3baa866d31",
+      "location": "Austin, TX",
+      "datePosted": 1790899826,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -369,6 +380,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abed3ff0e027c0f3b39b4a1",
+      "company": "Federal Reserve Bank of Chicago",
+      "title": "Summer 2027 Intern-Computer Science and Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6abed3ff0e027c0f3b39b4a1",
+      "location": "Chicago, IL",
+      "datePosted": 1790876280,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abea974372c01f6cd724d2d",
       "company": "TikTok",
       "title": "Software Engineer Intern (Relational Database) - 2027 Summer",
@@ -490,32 +512,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abea957064da25272e01fe9",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abea957064da25272e01fe9",
-      "location": "Seattle, WA",
-      "datePosted": 1790874079,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec59bd9621c5b283914e3",
-      "company": "TikTok",
-      "title": "Network Software Development Engineer Intern (Network Switch) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abec59bd9621c5b283914e3",
-      "location": "San Jose, CA",
-      "datePosted": 1790874079,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec5970e027c0f3b39acc9",
+      "id": "newgrad-jobs:6abec5acd9621c5b2839150a",
       "company": "TikTok",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abec5970e027c0f3b39acc9",
+      "url": "https://jobright.ai/jobs/info/6abec5acd9621c5b2839150a",
       "location": "San Jose, CA",
       "datePosted": 1790874023,
       "source": "newgrad-jobs",
