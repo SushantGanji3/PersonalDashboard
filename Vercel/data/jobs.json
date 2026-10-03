@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T17:10:19Z",
-  "totalOpen": 1171,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-10-03T17:20:14Z",
+  "totalOpen": 1176,
+  "totalNewgrad": 247,
   "totalOther": 929,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6b61b65c54bc4752ce8944",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a6b61b65c54bc4752ce8944",
+      "location": "Dallas, TX",
+      "datePosted": 1791018068,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac0367b0e027c0f3b3a084e",
@@ -72,11 +83,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbc2373217d1d13329adea",
+      "id": "newgrad-jobs:6a9b31ea138838706059712f",
       "company": "CACI International Inc",
       "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abbc2373217d1d13329adea",
-      "location": "Omaha, NE",
+      "url": "https://jobright.ai/jobs/info/6a9b31ea138838706059712f",
+      "location": "Ypsilanti, MI",
       "datePosted": 1791015604,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -177,17 +188,6 @@
       "url": "https://jobright.ai/jobs/info/6aa606a6930bff471a2a1633",
       "location": "Edwards Air Force Base, CA",
       "datePosted": 1791012717,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6b61bc5c54bc4752ce894c",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a6b61bc5c54bc4752ce894c",
-      "location": "Dallas, TX",
-      "datePosted": 1791012671,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -344,17 +344,6 @@
       "datePosted": 1791006088,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac0f7f4064da25272e09f31",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac0f7f4064da25272e09f31",
-      "location": "San Jose, CA",
-      "datePosted": 1791006084,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -754,12 +743,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abed9688ff3fb9b3bc76469",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Colorado Springs CO",
-      "url": "https://jobright.ai/jobs/info/6abed9688ff3fb9b3bc76469",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1790976314,
+      "id": "newgrad-jobs:6ac045c9064da25272e0896d",
+      "company": "General Motors",
+      "title": "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
+      "url": "https://jobright.ai/jobs/info/6ac045c9064da25272e0896d",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1790972986,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac0168a0e027c0f3b39fb58",
+      "company": "OppFi",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac0168a0e027c0f3b39fb58",
+      "location": "United States",
+      "datePosted": 1790972569,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
