@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T08:30:53Z",
-  "totalOpen": 1170,
+  "generatedAt": "2026-10-03T08:40:20Z",
+  "totalOpen": 1169,
   "totalNewgrad": 238,
-  "totalOther": 932,
+  "totalOther": 931,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1790986750,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac02978372c01f6cd72af9f",
@@ -1095,17 +1095,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:04a691aa-579c-4daf-98c5-87a42434da2b",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
-      "location": "Fort Wayne, IN",
-      "datePosted": 1790726400,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:0a405c15-cc8e-435c-92fb-7fc22c23643b",
       "company": "RTX",
       "title": "Embedded Software Security Engineer Intern - S3E",
@@ -1321,6 +1310,17 @@
       "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
       "location": "San Francisco Bay Area, CA",
       "datePosted": 1790288564,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:4ebbeec3-7c6e-4921-bd4a-0131e3cc0c04",
+      "company": "Notion",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
+      "location": "SF, NYC",
+      "datePosted": 1790288407,
       "source": "aggregator",
       "season": null,
       "isNew": false
