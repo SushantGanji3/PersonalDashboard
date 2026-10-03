@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T03:40:17Z",
+  "generatedAt": "2026-10-03T03:50:16Z",
   "totalOpen": 1172,
   "totalNewgrad": 239,
   "totalOther": 933,
@@ -102,6 +102,28 @@
       "datePosted": 1790979147,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac068600e027c0f3b3a12de",
+      "company": "Lemma",
+      "title": "AI/ML Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac068600e027c0f3b3a12de",
+      "location": "San Francisco, CA",
+      "datePosted": 1790969328,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac055e88ff3fb9b3bc7bb14",
+      "company": "Electronic Arts (EA)",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ac055e88ff3fb9b3bc7bb14",
+      "location": "Austin, TX",
+      "datePosted": 1790969007,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -226,17 +248,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac055e88ff3fb9b3bc7bb14",
-      "company": "Electronic Arts (EA)",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ac055e88ff3fb9b3bc7bb14",
-      "location": "Austin, TX",
-      "datePosted": 1790964600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abea965372c01f6cd724d1c",
       "company": "TikTok",
       "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
@@ -259,15 +270,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa12d4aef23570cae242f49",
+      "id": "newgrad-jobs:6aaabff0c85610f4a484157a",
       "company": "CNH",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa12d4aef23570cae242f49",
-      "location": "Sioux Falls, SD",
+      "url": "https://jobright.ai/jobs/info/6aaabff0c85610f4a484157a",
+      "location": "Sioux Falls, SD; Oak Brook, IL; Tempe, AZ",
       "datePosted": 1790963122,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aadd4b40ebc8fb2313eb95a",
@@ -330,17 +341,6 @@
       "title": "R&D Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6ab557a74873fd3fd85290fa",
       "location": "Arden Hills, MN",
-      "datePosted": 1790962135,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb39347220f52e62aeae51",
-      "company": "Boston Scientific",
-      "title": "R&D Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abb39347220f52e62aeae51",
-      "location": "Maple Grove, MN",
       "datePosted": 1790962135,
       "source": "newgrad-jobs",
       "season": null,
@@ -556,10 +556,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abffafed9621c5b28395a08",
+      "id": "newgrad-jobs:6abd58068ff3fb9b3bc70204",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6abd58068ff3fb9b3bc70204",
+      "location": "San Jose, CA",
+      "datePosted": 1790960388,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abec5970e027c0f3b39acc9",
       "company": "TikTok",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6abffafed9621c5b28395a08",
+      "url": "https://jobright.ai/jobs/info/6abec5970e027c0f3b39acc9",
       "location": "San Jose, CA",
       "datePosted": 1790960372,
       "source": "newgrad-jobs",
@@ -749,17 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ac00b988ff3fb9b3bc7a592",
       "location": "Dahlgren, VA",
       "datePosted": 1790950921,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac01cb68ff3fb9b3bc7ac8b",
-      "company": "L3Harris",
-      "title": "Intern, Information Security Systems Engineer Job Details | L3HHCM20",
-      "url": "https://jobright.ai/jobs/info/6ac01cb68ff3fb9b3bc7ac8b",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1790949958,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
