@@ -1,32 +1,10 @@
 {
-  "generatedAt": "2026-10-03T22:40:16Z",
+  "generatedAt": "2026-10-03T22:50:14Z",
   "totalOpen": 1169,
   "totalNewgrad": 238,
   "totalOther": 931,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
-      "company": "Roblox",
-      "title": "[2027] Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
-      "location": "San Mateo, CA",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a7f8148e51a1e18a2413669",
-      "company": "Twitch",
-      "title": "Software Engineer I, Payments",
-      "url": "https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669",
-      "location": "San Francisco, CA",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
     {
       "id": "newgrad-jobs:6aa06a0b3b5aa83237b08ec8",
       "company": "Two Sigma",
@@ -91,7 +69,7 @@
       "datePosted": 1791040326,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab538f0634ec6aa7c0cdad9",
@@ -102,7 +80,7 @@
       "datePosted": 1791040326,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac030b4372c01f6cd72b19c",
@@ -113,7 +91,7 @@
       "datePosted": 1791040326,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab208a523005eee3545d4f0",
@@ -157,7 +135,7 @@
       "datePosted": 1791040033,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab538ed4873fd3fd852848d",
@@ -661,6 +639,28 @@
       "url": "https://jobright.ai/jobs/info/6abeac230e027c0f3b39a198",
       "location": "Redmond, WA",
       "datePosted": 1791018175,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6b61b65c54bc4752ce8944",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a6b61b65c54bc4752ce8944",
+      "location": "Dallas, TX",
+      "datePosted": 1791018068,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac0367b0e027c0f3b3a084e",
+      "company": "Boeing",
+      "title": "Systems Software Engineer (Associate or Experienced)",
+      "url": "https://jobright.ai/jobs/info/6ac0367b0e027c0f3b3a084e",
+      "location": "Chantilly, VA; Aurora, CO; Mesa, AZ",
+      "datePosted": 1791017332,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1301,7 +1301,7 @@
       "datePosted": 1790374554,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:797b4661-998f-4ea6-8778-a92417262718",
@@ -1312,7 +1312,7 @@
       "datePosted": 1790374554,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
