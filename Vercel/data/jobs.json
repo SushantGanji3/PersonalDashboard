@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T09:30:54Z",
-  "totalOpen": 1167,
+  "generatedAt": "2026-10-03T09:40:17Z",
+  "totalOpen": 1168,
   "totalNewgrad": 238,
-  "totalOther": 929,
+  "totalOther": 930,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1790991220,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac0b8870e027c0f3b3a1a1e",
@@ -25,7 +25,7 @@
       "datePosted": 1790989847,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac0ac6ed9621c5b283981ab",
@@ -996,6 +996,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:48975da5-2bb2-4457-8702-de4898cd805e",
+      "company": "Stripe",
+      "title": "Software Engineer Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "location": "Seattle, WA, SF",
+      "datePosted": 1790806682,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
       "company": "Rivian",
       "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
@@ -1310,17 +1321,6 @@
       "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
       "location": "San Francisco Bay Area, CA",
       "datePosted": 1790288564,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4ebbeec3-7c6e-4921-bd4a-0131e3cc0c04",
-      "company": "Notion",
-      "title": "Mobile Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
-      "location": "SF, NYC",
-      "datePosted": 1790288407,
       "source": "aggregator",
       "season": null,
       "isNew": false
