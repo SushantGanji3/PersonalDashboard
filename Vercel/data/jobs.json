@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T11:50:18Z",
-  "totalOpen": 1167,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-10-03T12:00:19Z",
+  "totalOpen": 1168,
+  "totalNewgrad": 237,
   "totalOther": 931,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1790998653,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7019eaf5953013637f7266",
@@ -61,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abfc627372c01f6cd7289e6",
+      "company": "Gartner",
+      "title": "Associate Data Scientist",
+      "url": "https://jobright.ai/jobs/info/6abfc627372c01f6cd7289e6",
+      "location": "Stamford, CT; Arlington, VA; Irving, TX; Fort Myers, FL",
+      "datePosted": 1790996059,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a880d2525fc4e7ae3daf2d4",
       "company": "TikTok",
       "title": "Data Engineer Intern (E-commerce) - 2027 Summer",
@@ -89,17 +100,6 @@
       "url": "https://jobright.ai/jobs/info/6aa088e2ea127c3794697b9f",
       "location": "Oak Brook, IL",
       "datePosted": 1790993357,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfc627372c01f6cd7289e6",
-      "company": "Gartner",
-      "title": "Associate Data Scientist",
-      "url": "https://jobright.ai/jobs/info/6abfc627372c01f6cd7289e6",
-      "location": "Stamford, CT; Arlington, VA; Irving, TX; Fort Myers, FL",
-      "datePosted": 1790993243,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
