@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-03T13:50:17Z",
-  "totalOpen": 1166,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-10-03T14:00:20Z",
+  "totalOpen": 1167,
+  "totalNewgrad": 238,
   "totalOther": 929,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa50b2042411952ff9a6b12",
+      "company": "Trace3",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa50b2042411952ff9a6b12",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1791007347,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ac0f807372c01f6cd72cc62",
       "company": "TikTok",
@@ -14,7 +25,7 @@
       "datePosted": 1791006103,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac0f7ffd9621c5b283987e3",
@@ -25,7 +36,7 @@
       "datePosted": 1791006095,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac0f7fd372c01f6cd72cc5b",
@@ -36,7 +47,7 @@
       "datePosted": 1791006093,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a6beef057120971bf3a992b",
@@ -47,7 +58,7 @@
       "datePosted": 1791006088,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac0f7f8064da25272e09f34",
@@ -58,7 +69,7 @@
       "datePosted": 1791006088,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac0f7f4064da25272e09f31",
@@ -69,7 +80,40 @@
       "datePosted": 1791006084,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a88bd184afae74a0834d5d7",
+      "company": "Garmin",
+      "title": "Embedded Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
+      "location": "Yarmouth, ME",
+      "datePosted": 1791005610,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac02b50d9621c5b28396bb3",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "url": "https://jobright.ai/jobs/info/6ac02b50d9621c5b28396bb3",
+      "location": "Redmond, WA",
+      "datePosted": 1791005508,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac02b25372c01f6cd72b037",
+      "company": "Microsoft",
+      "title": "Security Engineer - Red Team",
+      "url": "https://jobright.ai/jobs/info/6ac02b25372c01f6cd72b037",
+      "location": "Redmond, WA",
+      "datePosted": 1791005479,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a21160eda5948e8d48b",
@@ -716,50 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6a779187b17cba56903606c2",
       "location": "San Jose, CA",
       "datePosted": 1790962171,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab557a74873fd3fd85290fa",
-      "company": "Boston Scientific",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab557a74873fd3fd85290fa",
-      "location": "Arden Hills, MN",
-      "datePosted": 1790962135,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb0a064da25272e0711c",
-      "company": "TikTok",
-      "title": "Network Security Software Engineer Intern (Security Engineering) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6abffb0a064da25272e0711c",
-      "location": "San Jose, CA",
-      "datePosted": 1790961516,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb0b0e027c0f3b39f1f8",
-      "company": "TikTok",
-      "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abffb0b0e027c0f3b39f1f8",
-      "location": "Seattle, WA",
-      "datePosted": 1790961514,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abffb058ff3fb9b3bc79fc0",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abffb058ff3fb9b3bc79fc0",
-      "location": "San Jose, CA",
-      "datePosted": 1790961514,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
