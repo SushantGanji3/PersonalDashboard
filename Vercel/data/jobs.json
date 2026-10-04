@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T18:50:15Z",
-  "totalOpen": 1193,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-10-04T19:00:19Z",
+  "totalOpen": 1192,
+  "totalNewgrad": 249,
   "totalOther": 943,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791112346,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac285ced9621c5b2839b37f",
@@ -26,6 +26,17 @@
       "source": "newgrad-jobs",
       "season": "Fall 2026",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
+      "company": "Spotify",
+      "title": "Research Scientist - Generative Audio",
+      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
+      "location": "United States",
+      "datePosted": 1791107408,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac281b6d9621c5b2839acf9",
@@ -287,17 +298,6 @@
       "url": "https://jobright.ai/jobs/info/6ac2497b0e027c0f3b3a3846",
       "location": "San Jose, CA",
       "datePosted": 1791092491,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac249790e027c0f3b3a3844",
-      "company": "TikTok",
-      "title": "Applied Machine Learning Production Engineer Graduate (AML-Production Engineer) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac249790e027c0f3b3a3844",
-      "location": "San Jose, CA",
-      "datePosted": 1791092489,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
