@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T17:10:27Z",
-  "totalOpen": 1194,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-10-04T17:20:17Z",
+  "totalOpen": 1193,
+  "totalNewgrad": 249,
   "totalOther": 944,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791106886,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac281b0064da25272e0c541",
@@ -25,7 +25,7 @@
       "datePosted": 1791106880,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac281ac372c01f6cd72f185",
@@ -36,7 +36,7 @@
       "datePosted": 1791106876,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a55cb94ef22935f2e3f72b0",
@@ -47,7 +47,7 @@
       "datePosted": 1791106333,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a75b46f7b3417772ade4eee",
@@ -314,17 +314,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac24971064da25272e0b752",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac24971064da25272e0b752",
-      "location": "San Jose, CA",
-      "datePosted": 1791092481,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a712e37e2b7476e7b20d3e5",
       "company": "Northwestern University",
       "title": "Developer Associate",
@@ -468,17 +457,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac22d4d0e027c0f3b3a374c",
-      "company": "TikTok",
-      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac22d4d0e027c0f3b3a374c",
-      "location": "Seattle, WA",
-      "datePosted": 1791085277,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a3f67e34d047136e09394eb",
       "company": "Nuro",
       "title": "Software Engineer, Data Platform",
@@ -518,17 +496,6 @@
       "url": "https://jobright.ai/jobs/info/6abedcd8064da25272e03668",
       "location": "Arlington, VA; Norfolk, VA",
       "datePosted": 1791080797,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
-      "company": "Booz Allen Hamilton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
-      "location": "Beavercreek, OH",
-      "datePosted": 1791080677,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -663,6 +630,39 @@
       "datePosted": 1791062723,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac1a8f18ff3fb9b3bc7dce6",
+      "company": "DayToDay Health",
+      "title": "Research Intern - Protein Therapeutics and Computational Biologics Engineering",
+      "url": "https://jobright.ai/jobs/info/6ac1a8f18ff3fb9b3bc7dce6",
+      "location": "Foster City, CA",
+      "datePosted": 1791051393,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac1a5554ac55253f5d6a8a5",
+      "company": "Leidos",
+      "title": "Embedded Flight Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac1a5554ac55253f5d6a8a5",
+      "location": "Huntsville, AL",
+      "datePosted": 1791050469,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac1a549372c01f6cd72d857",
+      "company": "Leidos",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac1a549372c01f6cd72d857",
+      "location": "Huntsville, AL",
+      "datePosted": 1791050457,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
