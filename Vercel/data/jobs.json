@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T12:30:15Z",
-  "totalOpen": 1164,
-  "totalNewgrad": 245,
-  "totalOther": 919,
+  "generatedAt": "2026-10-04T12:40:16Z",
+  "totalOpen": 1169,
+  "totalNewgrad": 244,
+  "totalOther": 925,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1791086113,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a45726148d2f00f2a86d969",
@@ -545,17 +545,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa4aa93c1928370a285edde",
-      "company": "L3Harris",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa4aa93c1928370a285edde",
-      "location": "Carlsbad, CA",
-      "datePosted": 1791029462,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac01cfc4ac55253f5d67afe",
       "company": "L3Harris",
       "title": "Software Engineer Intern Job Details | L3HHCM20",
@@ -663,6 +652,17 @@
       "datePosted": 1791027725,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac14c7d064da25272e0a6dd",
+      "company": "TikTok",
+      "title": "Network Security Software Engineer Intern (Security Engineering) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6ac14c7d064da25272e0a6dd",
+      "location": "San Jose, CA",
+      "datePosted": 1791027725,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
       "isNew": false
     },
     {
