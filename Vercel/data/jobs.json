@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-04T08:00:21Z",
+  "generatedAt": "2026-10-04T08:10:15Z",
   "totalOpen": 1186,
-  "totalNewgrad": 243,
-  "totalOther": 943,
+  "totalNewgrad": 244,
+  "totalOther": 942,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac1dea3372c01f6cd72df41",
+      "company": "WoodmenLife",
+      "title": "2027 Summer AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac1dea3372c01f6cd72df41",
+      "location": "Omaha, NE",
+      "datePosted": 1791074762,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a57469bf7517b519ad59b5d",
+      "company": "Jump Trading",
+      "title": "Campus AI Research Engineer - Deep Learning (Intern)",
+      "url": "https://jobright.ai/jobs/info/6a57469bf7517b519ad59b5d",
+      "location": "Chicago, IL; New York, NY",
+      "datePosted": 1791074761,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac1deb28ff3fb9b3bc7e0aa",
       "company": "WoodmenLife",
@@ -12,17 +34,6 @@
       "url": "https://jobright.ai/jobs/info/6ac1deb28ff3fb9b3bc7e0aa",
       "location": "Omaha, NE",
       "datePosted": 1791071720,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac1dea3372c01f6cd72df41",
-      "company": "WoodmenLife",
-      "title": "2027 Summer AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac1dea3372c01f6cd72df41",
-      "location": "Omaha, NE",
-      "datePosted": 1791071718,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -655,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a34ac64ce501060b5cf21b8",
-      "company": "CGI",
-      "title": "SAP Fiori UX Consultant/Developer (Jr.) - U.S. Citizenship Required",
-      "url": "https://jobright.ai/jobs/info/6a34ac64ce501060b5cf21b8",
-      "location": "Fairfax, VA; Lebanon, VA; Lafayette, LA; Knoxville, TN",
-      "datePosted": 1791024715,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
       "company": "Harvey",
       "title": "Software Engineer New Grad",
@@ -1227,17 +1227,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:5e53dcd6-2301-48d9-8010-f0ddb4a2a434",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer - McClellan CA",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394",
-      "location": "McClellan Park, CA",
-      "datePosted": 1790640000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
       "company": "NVIDIA",
       "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
@@ -1321,6 +1310,17 @@
       "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
       "location": "San Francisco Bay Area, CA",
       "datePosted": 1790288564,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:4ebbeec3-7c6e-4921-bd4a-0131e3cc0c04",
+      "company": "Notion",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
+      "location": "SF, NYC",
+      "datePosted": 1790288407,
       "source": "aggregator",
       "season": null,
       "isNew": false
