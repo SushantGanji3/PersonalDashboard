@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-04T14:20:51Z",
-  "totalOpen": 1189,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-10-04T14:30:18Z",
+  "totalOpen": 1190,
+  "totalNewgrad": 253,
   "totalOther": 937,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a51263378e364789ca5958e",
+      "company": "AXQ Capital",
+      "title": "Quantitative Developer",
+      "url": "https://jobright.ai/jobs/info/6a51263378e364789ca5958e",
+      "location": "New York, NY",
+      "datePosted": 1791096363,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a680f9f2bf1fb2b719283ca",
       "company": "Center for AI Safety",
@@ -12,6 +23,17 @@
       "url": "https://jobright.ai/jobs/info/6a680f9f2bf1fb2b719283ca",
       "location": "San Francisco, CA",
       "datePosted": 1791095933,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a88c600d34f700f87fca7d2",
+      "company": "iCapital",
+      "title": "Python Engineer and Developer - Associate",
+      "url": "https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
+      "location": "Stamford, CT",
+      "datePosted": 1791095231,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -641,28 +663,6 @@
       "datePosted": 1791040642,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe96980e027c0f3b399b35",
-      "company": "Pinterest",
-      "title": "Software Engineer Intern 2027 (USA)",
-      "url": "https://jobright.ai/jobs/info/6abe96980e027c0f3b399b35",
-      "location": "United States",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac003048ff3fb9b3bc7a2b5",
-      "company": "SpaceXAI",
-      "title": "Spring 2027 Software Engineering Internship/Co-op",
-      "url": "https://jobright.ai/jobs/info/6ac003048ff3fb9b3bc7a2b5",
-      "location": "Palo Alto, CA",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
