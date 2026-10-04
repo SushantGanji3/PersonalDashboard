@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T09:30:18Z",
-  "totalOpen": 1168,
+  "generatedAt": "2026-10-04T09:40:17Z",
+  "totalOpen": 1148,
   "totalNewgrad": 244,
-  "totalOther": 924,
+  "totalOther": 904,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1791078104,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac21142064da25272e0b455",
@@ -25,7 +25,7 @@
       "datePosted": 1791078098,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8667454afae74a08344c4f",
@@ -1051,17 +1051,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:0a405c15-cc8e-435c-92fb-7fc22c23643b",
-      "company": "RTX",
-      "title": "Embedded Software Security Engineer Intern - S3E",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Eng-Intern---S3E_01878712",
-      "location": "Tucson, AZ",
-      "datePosted": 1790726400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e8c586d7-f281-4ffc-bd41-078c7158f059",
       "company": "Northrop Grumman",
       "title": "Software Engineer Intern",
@@ -1194,34 +1183,12 @@
       "isNew": false
     },
     {
-      "id": "simplify:81966fa3-a10b-4a7d-bba2-f75b0ec0c239",
-      "company": "Atlassian",
-      "title": "Research Intern",
-      "url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job",
-      "location": "Seattle, WA",
-      "datePosted": 1790384804,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:bbd4a42f-6c50-4ff9-b375-0a5c0ec60aea",
       "company": "Rivian",
       "title": "Embedded Systems Software Engineering Intern - January - August 2027",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e/application?embed=true",
       "location": "Champaign, IL",
       "datePosted": 1790374818,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:44631389-4603-4cbc-bb24-596433854282",
-      "company": "Waymo",
-      "title": "Software Engineer Intern - Driver Refinement Foundations",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
-      "location": "Mountain View, CA",
-      "datePosted": 1790374584,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1321,6 +1288,39 @@
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
       "location": "SF",
       "datePosted": 1790287587,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:d0f85828-c8e8-42fb-a47d-3f46e18db9d1",
+      "company": "Tesla",
+      "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/284448",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790213512,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:be11dc29-6925-4c06-99a2-79e488a51c35",
+      "company": "Tesla",
+      "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
+      "url": "https://www.tesla.com/careers/search/job/284593",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790213098,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:a6ca4015-b83d-4606-a189-7a9fe9f86aa3",
+      "company": "Ramp",
+      "title": "Software Engineer Intern - Android",
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1790212862,
       "source": "aggregator",
       "season": null,
       "isNew": false
