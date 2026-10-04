@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-04T15:00:19Z",
-  "totalOpen": 1195,
-  "totalNewgrad": 252,
-  "totalOther": 943,
+  "generatedAt": "2026-10-04T15:10:18Z",
+  "totalOpen": 1194,
+  "totalNewgrad": 250,
+  "totalOther": 944,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a88a7aed34f700f87fc9c31",
+      "company": "XPO",
+      "title": "Machine Learning Engineer - Hybrid",
+      "url": "https://jobright.ai/jobs/info/6a88a7aed34f700f87fc9c31",
+      "location": "Boston, MA",
+      "datePosted": 1791099805,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac265a30e027c0f3b3a39f5",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer, AML - Engine (Multiple Positions)",
+      "url": "https://jobright.ai/jobs/info/6ac265a30e027c0f3b3a39f5",
+      "location": "San Jose, CA",
+      "datePosted": 1791099699,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac26598372c01f6cd72e5a5",
+      "company": "TikTok",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ac26598372c01f6cd72e5a5",
+      "location": "Seattle, WA",
+      "datePosted": 1791099688,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac265950e027c0f3b3a39f2",
+      "company": "TikTok",
+      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ac265950e027c0f3b3a39f2",
+      "location": "Seattle, WA",
+      "datePosted": 1791099685,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a3da6a58bfad862bc99e17f",
+      "company": "Aechelon Technology Inc.",
+      "title": "Junior Software Engineer - Internship",
+      "url": "https://jobright.ai/jobs/info/6a3da6a58bfad862bc99e17f",
+      "location": "Overland Park, KS",
+      "datePosted": 1791099460,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a8885924afae74a0834c293",
       "company": "Zipline",
@@ -611,61 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abe772c372c01f6cd723ac5",
-      "company": "Cisco",
-      "title": "Software Engineer I (Co-op) - United States",
-      "url": "https://jobright.ai/jobs/info/6abe772c372c01f6cd723ac5",
-      "location": "Maynard, MA",
-      "datePosted": 1791040920,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
-      "company": "Roblox",
-      "title": "[2027] Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
-      "location": "San Mateo, CA",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7f8148e51a1e18a2413669",
-      "company": "Twitch",
-      "title": "Software Engineer I, Payments",
-      "url": "https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669",
-      "location": "San Francisco, CA",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa06a0b3b5aa83237b08ec8",
-      "company": "Two Sigma",
-      "title": "Software Engineering Internship (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa06a0b3b5aa83237b08ec8",
-      "location": "New York, NY",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab4719f7bd0813713317a30",
-      "company": "Ramp",
-      "title": "Software Engineering Intern, Backend",
-      "url": "https://jobright.ai/jobs/info/6ab4719f7bd0813713317a30",
-      "location": "New York, NY",
-      "datePosted": 1791040642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
       "company": "Harvey",
       "title": "Software Engineer New Grad",
@@ -1150,6 +1150,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5",
+      "company": "RTX",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
+      "location": "East Hartford, CT",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:142dab0a-1dc8-4019-b25f-4e4439bafa24",
       "company": "Northrop Grumman",
       "title": "Associate Embedded Software Engineer",
@@ -1310,17 +1321,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
       "location": "Austin, TX, South SF",
       "datePosted": 1790374554,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
-      "company": "Block",
-      "title": "Data Scientist - Payments",
-      "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
-      "location": "San Francisco Bay Area, CA",
-      "datePosted": 1790288564,
       "source": "aggregator",
       "season": null,
       "isNew": false
