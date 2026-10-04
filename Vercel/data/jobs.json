@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-04T14:40:18Z",
-  "totalOpen": 1196,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-10-04T14:50:15Z",
+  "totalOpen": 1195,
+  "totalNewgrad": 252,
   "totalOther": 943,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a8885924afae74a0834c293",
+      "company": "Zipline",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a8885924afae74a0834c293",
+      "location": "South San Francisco, CA",
+      "datePosted": 1791097262,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a51263378e364789ca5958e",
       "company": "AXQ Capital",
@@ -375,17 +386,6 @@
       "url": "https://jobright.ai/jobs/info/6abedcd8064da25272e03668",
       "location": "Arlington, VA; Norfolk, VA",
       "datePosted": 1791080797,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
-      "company": "Booz Allen Hamilton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
-      "location": "Beavercreek, OH",
-      "datePosted": 1791080677,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -861,7 +861,7 @@
       "datePosted": 1790892628,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:35d12704-75f4-4a19-8d57-c70563db0263",
@@ -1257,7 +1257,7 @@
       "datePosted": 1790553600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
