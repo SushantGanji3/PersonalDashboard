@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-05T00:10:19Z",
-  "totalOpen": 1197,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-10-05T00:20:17Z",
+  "totalOpen": 1196,
+  "totalNewgrad": 253,
   "totalOther": 943,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6abe8c5d4ac55253f5d613e7",
-      "company": "Microsoft",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6abe8c5d4ac55253f5d613e7",
-      "location": "Mountain View, CA; Sunnyvale, CA; San Francisco, CA; New York, NY",
-      "datePosted": 1791128745,
+      "id": "newgrad-jobs:6abe9bcc372c01f6cd724925",
+      "company": "Glean",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abe9bcc372c01f6cd724925",
+      "location": "Mountain View, CA; San Francisco, CA",
+      "datePosted": 1791130799,
       "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a984018def18223c854e3ec",
@@ -22,6 +22,50 @@
       "title": "Software Engineering - Intern, Bachelor\u2019s",
       "url": "https://jobright.ai/jobs/info/6a984018def18223c854e3ec",
       "location": "Hillsboro, OR; Folsom, CA; Santa Clara, CA; Austin, TX; Phoenix, AZ",
+      "datePosted": 1791129579,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8791cd25fc4e7ae3dadd36",
+      "company": "Databricks",
+      "title": "Software Engineering Intern (2027 Start) - Winter",
+      "url": "https://jobright.ai/jobs/info/6a8791cd25fc4e7ae3dadd36",
+      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA",
+      "datePosted": 1791129364,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab538ed4873fd3fd852848d",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer I (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab538ed4873fd3fd852848d",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1791129364,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac02b25372c01f6cd72b037",
+      "company": "Microsoft",
+      "title": "Security Engineer - Red Team",
+      "url": "https://jobright.ai/jobs/info/6ac02b25372c01f6cd72b037",
+      "location": "Redmond, WA",
+      "datePosted": 1791129099,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abe8c5d4ac55253f5d613e7",
+      "company": "Microsoft",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6abe8c5d4ac55253f5d613e7",
+      "location": "Mountain View, CA; Sunnyvale, CA; San Francisco, CA; New York, NY",
       "datePosted": 1791128745,
       "source": "newgrad-jobs",
       "season": null,
@@ -135,17 +179,6 @@
       "datePosted": 1791127531,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8791cd25fc4e7ae3dadd36",
-      "company": "Databricks",
-      "title": "Software Engineering Intern (2027 Start) - Winter",
-      "url": "https://jobright.ai/jobs/info/6a8791cd25fc4e7ae3dadd36",
-      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA",
-      "datePosted": 1791127407,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -628,39 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a3da6a58bfad862bc99e17f",
       "location": "Overland Park, KS",
       "datePosted": 1791099460,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8885924afae74a0834c293",
-      "company": "Zipline",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a8885924afae74a0834c293",
-      "location": "South San Francisco, CA",
-      "datePosted": 1791097262,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a51263378e364789ca5958e",
-      "company": "AXQ Capital",
-      "title": "Quantitative Developer",
-      "url": "https://jobright.ai/jobs/info/6a51263378e364789ca5958e",
-      "location": "New York, NY",
-      "datePosted": 1791096363,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a680f9f2bf1fb2b719283ca",
-      "company": "Center for AI Safety",
-      "title": "Research Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a680f9f2bf1fb2b719283ca",
-      "location": "San Francisco, CA",
-      "datePosted": 1791095933,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
