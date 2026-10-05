@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T13:50:17Z",
-  "totalOpen": 1193,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-10-05T14:00:21Z",
+  "totalOpen": 1192,
+  "totalNewgrad": 252,
   "totalOther": 940,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1791179950,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a46a7d1971cd25b06f8f97b",
@@ -36,7 +36,7 @@
       "datePosted": 1791179947,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5776fdefb06a45240da823",
@@ -47,7 +47,7 @@
       "datePosted": 1791179935,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a44e68c824ecd73beef1a50",
@@ -58,7 +58,7 @@
       "datePosted": 1791179934,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a591d083ac7627fe9ffd570",
@@ -67,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6a591d083ac7627fe9ffd570",
       "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1791179925,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac39e328ff3fb9b3bc8158a",
+      "company": "Netrolynx AI",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac39e328ff3fb9b3bc8158a",
+      "location": "United States",
+      "datePosted": 1791179714,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -663,17 +674,6 @@
       "datePosted": 1791128241,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
-      "company": "Figma",
-      "title": "Data Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1791127728,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
