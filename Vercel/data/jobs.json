@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-05T17:40:14Z",
-  "totalOpen": 1199,
-  "totalNewgrad": 259,
+  "generatedAt": "2026-10-05T17:50:17Z",
+  "totalOpen": 1203,
+  "totalNewgrad": 263,
   "totalOther": 940,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac3d7e4372c01f6cd732732",
+      "company": "Docusign",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac3d7e4372c01f6cd732732",
+      "location": "Seattle, WA",
+      "datePosted": 1791194484,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3061c4ac55253f5d6d75e",
+      "company": "TD",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac3061c4ac55253f5d6d75e",
+      "location": "Mount Laurel Township, NJ",
+      "datePosted": 1791194365,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3d7284ac55253f5d6f648",
+      "company": "Innovative Defense Technologies (IDT)",
+      "title": "Software Engineer - JobID-0198",
+      "url": "https://jobright.ai/jobs/info/6ac3d7284ac55253f5d6f648",
+      "location": "Arlington, VA; Mount Laurel Township, NJ",
+      "datePosted": 1791194296,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3bb61064da25272e0f0ba",
+      "company": "Khan Academy",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac3bb61064da25272e0f0ba",
+      "location": "United States; Canada",
+      "datePosted": 1791193665,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ac3d3460e027c0f3b3a7a40",
       "company": "TikTok",
@@ -94,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa173cb0ffb3d4fea6b4cb6",
-      "company": "RTX",
-      "title": "Systems Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa173cb0ffb3d4fea6b4cb6",
-      "location": "Cedar Rapids, IA; Warner Robins, GA",
-      "datePosted": 1791191564,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aaa017c3387a3d9b67d87db",
       "company": "RTX",
       "title": "Systems Engineer I",
@@ -138,15 +171,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac3cc32372c01f6cd7321ce",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Software Engineer - JobID-0198",
-      "url": "https://jobright.ai/jobs/info/6ac3cc32372c01f6cd7321ce",
-      "location": "Arlington, VA; Mount Laurel Township, NJ",
-      "datePosted": 1791191490,
+      "id": "newgrad-jobs:6ac0c2e3064da25272e09a19",
+      "company": "RTX",
+      "title": "Systems Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac0c2e3064da25272e09a19",
+      "location": "Cedar Rapids, IA; Warner Robins, GA",
+      "datePosted": 1791191564,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac3061b372c01f6cd73076d",
@@ -179,17 +212,6 @@
       "datePosted": 1791187807,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3bb61064da25272e0f0ba",
-      "company": "Khan Academy",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac3bb61064da25272e0f0ba",
-      "location": "United States; Canada",
-      "datePosted": 1791187185,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -490,6 +512,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac3d3c3064da25272e0f9d2",
+      "company": "Altron, Inc.",
+      "title": "Software Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac3d3c3064da25272e0f9d2",
+      "location": "Middletown, RI",
+      "datePosted": 1791172693,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3d3ccd9621c5b2839e0c7",
+      "company": "Altron, Inc.",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac3d3ccd9621c5b2839e0c7",
+      "location": "Middletown, RI",
+      "datePosted": 1791172609,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a3f83b8651404064c02ad77",
       "company": "Nuro",
       "title": "Software Engineer, Autonomy Visualization",
@@ -622,39 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
-      "company": "Accenture Federal Services",
-      "title": "ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
-      "location": "Fort Belvoir, VA",
-      "datePosted": 1791159729,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a557088268af95237bebe1f",
-      "company": "Accenture Federal Services",
-      "title": "Jr. Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a557088268af95237bebe1f",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1791159724,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a71f7e402d93145bf891a4b",
-      "company": "Upstart",
-      "title": "Applied Scientist",
-      "url": "https://jobright.ai/jobs/info/6a71f7e402d93145bf891a4b",
-      "location": "United States",
-      "datePosted": 1791159464,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
       "company": "NVIDIA",
       "title": "Software Engineer Intern",
@@ -662,17 +673,6 @@
       "location": "Santa Clara, CA",
       "datePosted": 1791158400,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a63b874e8d8d22e3292a48f",
-      "company": "BlackEdge Capital",
-      "title": "Quantitative Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a63b874e8d8d22e3292a48f",
-      "location": "Chicago, IL",
-      "datePosted": 1791152602,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
