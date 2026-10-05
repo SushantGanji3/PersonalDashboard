@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-05T22:30:19Z",
-  "totalOpen": 1204,
+  "generatedAt": "2026-10-05T22:40:20Z",
+  "totalOpen": 1209,
   "totalNewgrad": 268,
-  "totalOther": 936,
+  "totalOther": 941,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+      "company": "Atlassian",
+      "title": "Data Engineer New Grad",
+      "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+      "location": "Seattle, WA",
+      "datePosted": 1791237839,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:2d3cd1b8-063f-41a1-a9ba-c834e3114c68",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern",
+      "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
+      "location": "Seattle, WA",
+      "datePosted": 1791237838,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac418f70e027c0f3b3a9413",
       "company": "Tesla",
@@ -677,6 +699,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:b5be1176-4a77-4aa0-a229-cb9959886d0a",
+      "company": "Expedia",
+      "title": "Software Development Engineer Intern",
+      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
+      "location": "Seattle, WA, Austin, TX, San Jose, CA",
+      "datePosted": 1791158400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
       "company": "Harvey",
       "title": "Software Engineer New Grad",
@@ -1288,39 +1321,6 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
       "location": "Austin, TX, South SF",
       "datePosted": 1790374554,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
-      "company": "Block",
-      "title": "Data Scientist - Payments",
-      "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
-      "location": "San Francisco Bay Area, CA",
-      "datePosted": 1790288564,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4ebbeec3-7c6e-4921-bd4a-0131e3cc0c04",
-      "company": "Notion",
-      "title": "Mobile Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
-      "location": "SF, NYC",
-      "datePosted": 1790288407,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b60dd607-5a1b-423f-a318-f333734e8063",
-      "company": "Susquehanna International Group",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false",
-      "location": "Bala Cynwyd, PA",
-      "datePosted": 1790288170,
       "source": "aggregator",
       "season": null,
       "isNew": false
