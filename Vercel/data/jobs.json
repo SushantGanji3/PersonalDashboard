@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:40:20Z",
+  "generatedAt": "2026-10-05T22:50:16Z",
   "totalOpen": 1209,
   "totalNewgrad": 268,
   "totalOther": 941,
@@ -14,7 +14,7 @@
       "datePosted": 1791237839,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2d3cd1b8-063f-41a1-a9ba-c834e3114c68",
@@ -25,7 +25,40 @@
       "datePosted": 1791237838,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac41c724ac55253f5d70f98",
+      "company": "Chenega MIOS SBU",
+      "title": "Software Developer (Intern)",
+      "url": "https://jobright.ai/jobs/info/6ac41c724ac55253f5d70f98",
+      "location": "United States",
+      "datePosted": 1791212034,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac41543064da25272e111f5",
+      "company": "Bobyard",
+      "title": "Computer Vision Research Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ac41543064da25272e111f5",
+      "location": "San Francisco, CA",
+      "datePosted": 1791211796,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac415eb0e027c0f3b3a9358",
+      "company": "General Motors",
+      "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
+      "url": "https://jobright.ai/jobs/info/6ac415eb0e027c0f3b3a9358",
+      "location": "Warren, MI; Milford Charter Township, MI",
+      "datePosted": 1791211788,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac418f70e027c0f3b3a9413",
@@ -39,12 +72,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac415eb0e027c0f3b3a9358",
-      "company": "General Motors",
-      "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
-      "url": "https://jobright.ai/jobs/info/6ac415eb0e027c0f3b3a9358",
-      "location": "Warren, MI; Milford Charter Township, MI",
-      "datePosted": 1791210588,
+      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
+      "location": "Seattle, WA",
+      "datePosted": 1791210802,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -111,17 +144,6 @@
       "url": "https://jobright.ai/jobs/info/6ac415aa4ac55253f5d70d7c",
       "location": "Monroe, LA",
       "datePosted": 1791210298,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac41543064da25272e111f5",
-      "company": "Bobyard",
-      "title": "Computer Vision Research Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6ac41543064da25272e111f5",
-      "location": "San Francisco, CA",
-      "datePosted": 1791210194,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -666,28 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab161a3f9692ca98b0493dd",
-      "company": "Wellmark Blue Cross and Blue Shield",
-      "title": "Software Engineer Internship - Technology Healthcare Innovation",
-      "url": "https://jobright.ai/jobs/info/6ab161a3f9692ca98b0493dd",
-      "location": "Des Moines, IA",
-      "datePosted": 1791201956,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8c3f62581f2d7bfdfe28b5",
-      "company": "BNY",
-      "title": "2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY",
-      "url": "https://jobright.ai/jobs/info/6a8c3f62581f2d7bfdfe28b5",
-      "location": "New York, NY",
-      "datePosted": 1791201504,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
       "company": "NVIDIA",
       "title": "Software Engineer Intern",
@@ -707,7 +707,7 @@
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
