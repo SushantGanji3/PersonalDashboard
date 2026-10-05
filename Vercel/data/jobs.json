@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-05T18:00:20Z",
+  "generatedAt": "2026-10-05T18:10:16Z",
   "totalOpen": 1203,
-  "totalNewgrad": 263,
-  "totalOther": 940,
+  "totalNewgrad": 264,
+  "totalOther": 939,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a8c3ab4581f2d7bfdfe2771",
+      "company": "BNY",
+      "title": "2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA",
+      "url": "https://jobright.ai/jobs/info/6a8c3ab4581f2d7bfdfe2771",
+      "location": "Pittsburgh, PA",
+      "datePosted": 1791195059,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3d9ce064da25272e0fc11",
+      "company": "TensorWave",
+      "title": "Security Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac3d9ce064da25272e0fc11",
+      "location": "Las Vegas, NV",
+      "datePosted": 1791194974,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3d9c7d9621c5b2839e317",
+      "company": "TensorWave",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac3d9c7d9621c5b2839e317",
+      "location": "Las Vegas, NV",
+      "datePosted": 1791194967,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac3d7e4372c01f6cd732732",
       "company": "Docusign",
@@ -14,6 +47,17 @@
       "datePosted": 1791194484,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3bb61064da25272e0f0ba",
+      "company": "Khan Academy",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac3bb61064da25272e0f0ba",
+      "location": "United States; Canada",
+      "datePosted": 1791194399,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -39,15 +83,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac3bb61064da25272e0f0ba",
-      "company": "Khan Academy",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac3bb61064da25272e0f0ba",
-      "location": "United States; Canada",
-      "datePosted": 1791193665,
+      "id": "newgrad-jobs:6a9aff359c24314c35f973c8",
+      "company": "CIBC",
+      "title": "2027 Summer Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a9aff359c24314c35f973c8",
+      "location": "Chicago, IL",
+      "datePosted": 1791194057,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac3d3460e027c0f3b3a7a40",
@@ -622,50 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac366f64ac55253f5d6de32",
-      "company": "Bloom",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac366f64ac55253f5d6de32",
-      "location": "United States",
-      "datePosted": 1791165574,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac362b0064da25272e0e179",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac362b0064da25272e0e179",
-      "location": "San Jose, CA",
-      "datePosted": 1791164480,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a701a40f5953013637f727c",
-      "company": "TikTok",
-      "title": "Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a40f5953013637f727c",
-      "location": "San Jose, CA",
-      "datePosted": 1791164061,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5e8574050c423c792efbe2",
-      "company": "TikTok",
-      "title": "Frontend Software Engineer, Global CRM Platform",
-      "url": "https://jobright.ai/jobs/info/6a5e8574050c423c792efbe2",
-      "location": "San Jose, CA",
-      "datePosted": 1791163808,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
       "company": "NVIDIA",
       "title": "Software Engineer Intern",
@@ -1128,17 +1128,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:0a405c15-cc8e-435c-92fb-7fc22c23643b",
-      "company": "RTX",
-      "title": "Embedded Software Security Engineer Intern - S3E",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Eng-Intern---S3E_01878712",
-      "location": "Tucson, AZ",
-      "datePosted": 1790726400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e8c586d7-f281-4ffc-bd41-078c7158f059",
       "company": "Northrop Grumman",
       "title": "Software Engineer Intern",
@@ -1321,6 +1310,17 @@
       "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
       "location": "San Francisco Bay Area, CA",
       "datePosted": 1790288564,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:4ebbeec3-7c6e-4921-bd4a-0131e3cc0c04",
+      "company": "Notion",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
+      "location": "SF, NYC",
+      "datePosted": 1790288407,
       "source": "aggregator",
       "season": null,
       "isNew": false
