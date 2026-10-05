@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-10-05T19:10:27Z",
-  "totalOpen": 1200,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-10-05T19:21:03Z",
+  "totalOpen": 1198,
+  "totalNewgrad": 259,
   "totalOther": 939,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6ac3eb6bd9621c5b2839e949",
-      "company": "Enterprise Mobility",
-      "title": "Intern - Data Engineer (EFM IT), Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ac3eb6bd9621c5b2839e949",
-      "location": "St. Louis, MO; Brentwood, MO; Richmond Heights, MO; Clayton, MO; Maplewood, MO",
-      "datePosted": 1791199483,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": true
-    },
     {
       "id": "newgrad-jobs:6a5808db8f51964c040466c5",
       "company": "The D. E. Shaw Group",
@@ -25,7 +14,7 @@
       "datePosted": 1791199481,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3b628064da25272e0eea0",
@@ -661,6 +650,17 @@
       "url": "https://jobright.ai/jobs/info/6ac3d3c3064da25272e0f9d2",
       "location": "Middletown, RI",
       "datePosted": 1791172693,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3d3ccd9621c5b2839e0c7",
+      "company": "Altron, Inc.",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac3d3ccd9621c5b2839e0c7",
+      "location": "Middletown, RI",
+      "datePosted": 1791172609,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
