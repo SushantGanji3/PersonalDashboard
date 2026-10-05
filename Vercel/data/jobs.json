@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-05T05:30:19Z",
-  "totalOpen": 1198,
-  "totalNewgrad": 254,
-  "totalOther": 944,
+  "generatedAt": "2026-10-05T05:40:16Z",
+  "totalOpen": 1199,
+  "totalNewgrad": 256,
+  "totalOther": 943,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a51e21902522b5b722ecfda",
+      "company": "True Anomaly",
+      "title": "Platform Engineer, AI (Levels I, II, III)",
+      "url": "https://jobright.ai/jobs/info/6a51e21902522b5b722ecfda",
+      "location": "Denver, CO; Long Beach, CA",
+      "datePosted": 1791152498,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abe8c5d4ac55253f5d613e7",
       "company": "Microsoft",
@@ -490,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abfdf558ff3fb9b3bc793b0",
+      "id": "newgrad-jobs:6abfe7e0064da25272e0696d",
       "company": "Temple University",
       "title": "Web Developer (Enrollment Management)",
-      "url": "https://jobright.ai/jobs/info/6abfdf558ff3fb9b3bc793b0",
+      "url": "https://jobright.ai/jobs/info/6abfe7e0064da25272e0696d",
       "location": "Philadelphia, PA",
       "datePosted": 1791116064,
       "source": "newgrad-jobs",
@@ -652,17 +663,6 @@
       "datePosted": 1791107934,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
-      "company": "Spotify",
-      "title": "Research Scientist - Generative Audio",
-      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
-      "location": "United States",
-      "datePosted": 1791107408,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1161,17 +1161,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:142dab0a-1dc8-4019-b25f-4e4439bafa24",
-      "company": "Northrop Grumman",
-      "title": "Associate Embedded Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Embedded-Software-Engineer_R10252185",
-      "location": "Rolling Meadows, IL",
-      "datePosted": 1790726400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:2769aa70-1382-4688-a523-01231176c4df",
       "company": "Mastercard",
       "title": "Data Engineer 1",
@@ -1321,6 +1310,17 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
       "location": "Austin, TX, South SF",
       "datePosted": 1790374554,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:98a6c5ef-8092-4dd4-b01c-ec1e567f5c20",
+      "company": "Block",
+      "title": "Data Scientist - Payments",
+      "url": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
+      "location": "San Francisco Bay Area, CA",
+      "datePosted": 1790288564,
       "source": "aggregator",
       "season": null,
       "isNew": false
