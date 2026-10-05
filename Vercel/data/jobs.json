@@ -1,10 +1,164 @@
 {
-  "generatedAt": "2026-10-05T20:45:28Z",
-  "totalOpen": 1200,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-10-05T21:15:30Z",
+  "totalOpen": 1207,
+  "totalNewgrad": 268,
   "totalOther": 939,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abea6c1d9621c5b283907de",
+      "company": "Apple",
+      "title": "AI Software Engineer, Apple Cloud AI Platform",
+      "url": "https://jobright.ai/jobs/info/6abea6c1d9621c5b283907de",
+      "location": "Seattle, WA",
+      "datePosted": 1791206537,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab58a199d4843569fe4a772",
+      "company": "IBM",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ab58a199d4843569fe4a772",
+      "location": "Bellevue, WA",
+      "datePosted": 1791206459,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa808192ed333b4ea5ccd27",
+      "company": "IBM",
+      "title": "Entry Level Software Developer-Tucson, AZ",
+      "url": "https://jobright.ai/jobs/info/6aa808192ed333b4ea5ccd27",
+      "location": "Tucson, AZ",
+      "datePosted": 1791206450,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab811c939fd8792cb73ed03",
+      "company": "IBM",
+      "title": "Application Developer - IT Service Management",
+      "url": "https://jobright.ai/jobs/info/6ab811c939fd8792cb73ed03",
+      "location": "Baton Rouge, LA",
+      "datePosted": 1791206440,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7f8148e51a1e18a2413669",
+      "company": "Twitch",
+      "title": "Software Engineer I, Payments",
+      "url": "https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669",
+      "location": "San Francisco, CA",
+      "datePosted": 1791205988,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3f1188ff3fb9b3bc831b0",
+      "company": "Booz Allen Hamilton",
+      "title": "Back End Developer",
+      "url": "https://jobright.ai/jobs/info/6ac3f1188ff3fb9b3bc831b0",
+      "location": "McLean, VA; Fort Belvoir, VA",
+      "datePosted": 1791205933,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac4043d0e027c0f3b3a8b05",
+      "company": "Amazon",
+      "title": "Data Engineer I , WW Ops Finance S&A",
+      "url": "https://jobright.ai/jobs/info/6ac4043d0e027c0f3b3a8b05",
+      "location": "Bellevue, WA",
+      "datePosted": 1791205837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac4042b8ff3fb9b3bc8379d",
+      "company": "ScoutBetter",
+      "title": "Software Engineer(Nationwide)",
+      "url": "https://jobright.ai/jobs/info/6ac4042b8ff3fb9b3bc8379d",
+      "location": "Columbus, OH",
+      "datePosted": 1791205819,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac4041e064da25272e109f0",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Consumer Domains",
+      "url": "https://jobright.ai/jobs/info/6ac4041e064da25272e109f0",
+      "location": "Newark, NJ",
+      "datePosted": 1791205806,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac40364064da25272e1099e",
+      "company": "MUFG Capital Analytics",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac40364064da25272e1099e",
+      "location": "United States",
+      "datePosted": 1791205620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3cd4e0e027c0f3b3a774d",
+      "company": "Chewy",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac3cd4e0e027c0f3b3a774d",
+      "location": "Bellevue, WA; Boston, MA; Plantation, FL",
+      "datePosted": 1791205259,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac40167d9621c5b2839f092",
+      "company": "Capgemini Engineering",
+      "title": "Products & Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac40167d9621c5b2839f092",
+      "location": "Modena, UT",
+      "datePosted": 1791205111,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab1d21cf9692ca98b04bec2",
+      "company": "Qualcomm",
+      "title": "Machine Learning, Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab1d21cf9692ca98b04bec2",
+      "location": "San Diego, CA",
+      "datePosted": 1791205090,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3e571372c01f6cd732bbd",
+      "company": "Pave Finance",
+      "title": "Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6ac3e571372c01f6cd732bbd",
+      "location": "New York, NY",
+      "datePosted": 1791204698,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ac3ff910e027c0f3b3a897c",
       "company": "Texas Instruments",
@@ -14,7 +168,7 @@
       "datePosted": 1791204641,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3fdd90e027c0f3b3a8917",
@@ -25,7 +179,7 @@
       "datePosted": 1791204201,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3fc4b4ac55253f5d702f1",
@@ -36,7 +190,7 @@
       "datePosted": 1791203803,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3fc14372c01f6cd7333af",
@@ -47,7 +201,7 @@
       "datePosted": 1791203748,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac07029d9621c5b28397bc8",
@@ -204,17 +358,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac3e571372c01f6cd732bbd",
-      "company": "Pave Finance",
-      "title": "Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6ac3e571372c01f6cd732bbd",
-      "location": "New York, NY",
-      "datePosted": 1791197953,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac3e4d90e027c0f3b3a80c4",
       "company": "Conquer Nation Inc.",
       "title": "Software Engineer Intern",
@@ -267,7 +410,7 @@
       "datePosted": 1791195059,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3d9ce064da25272e0fc11",
@@ -479,17 +622,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa808192ed333b4ea5ccd27",
-      "company": "IBM",
-      "title": "Entry Level Software Developer-Tucson, AZ",
-      "url": "https://jobright.ai/jobs/info/6aa808192ed333b4ea5ccd27",
-      "location": "Tucson, AZ",
-      "datePosted": 1791188899,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac3beb4372c01f6cd731db3",
       "company": "General Dynamics",
       "title": "Software Developer Associate - TS/SCI with Polygraph",
@@ -523,147 +655,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac3b37a372c01f6cd7319dd",
-      "company": "CBTS",
-      "title": "ETL DataStage Developer 1 (Only W2) - $40 on W2",
-      "url": "https://jobright.ai/jobs/info/6ac3b37a372c01f6cd7319dd",
-      "location": "Cincinnati, OH",
-      "datePosted": 1791185162,
+      "id": "newgrad-jobs:6aa460281d92e2d05d1148ad",
+      "company": "Demiurge Studios",
+      "title": "2027 Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa460281d92e2d05d1148ad",
+      "location": "United States",
+      "datePosted": 1791185346,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6cd2ccacb0a61f9dbc744e",
-      "company": "New York Life",
-      "title": "2027 Technology, Data, AI & Ventures Summer Internship Program - Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a6cd2ccacb0a61f9dbc744e",
-      "location": "New York, NY",
-      "datePosted": 1791185117,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3cb1b0e027c0f3b3a75fb",
-      "company": "BAE Systems",
-      "title": "Programmer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ac3cb1b0e027c0f3b3a75fb",
-      "location": "Washington, DC",
-      "datePosted": 1791183807,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3cb144ac55253f5d6f078",
-      "company": "BAE Systems",
-      "title": "Systems Engineer Intern (Mechanical Focus), Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ac3cb144ac55253f5d6f078",
-      "location": "Rockville, MD",
-      "datePosted": 1791183807,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3ac00372c01f6cd73176d",
-      "company": "MESO SCALE DIAGNOSTICS, LLC.",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac3ac00372c01f6cd73176d",
-      "location": "Gaithersburg, MD",
-      "datePosted": 1791183248,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8c674bd34f700f87fd02eb",
-      "company": "Motorola Solutions",
-      "title": "Android Applications Developer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a8c674bd34f700f87fd02eb",
-      "location": "Chicago, IL",
-      "datePosted": 1791182641,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa7c13b82e82a31997c27af",
-      "company": "Guardian Life",
-      "title": "2027 Guardian Summer Intern, Digital & Technology \u2013 AI & Machine Learning",
-      "url": "https://jobright.ai/jobs/info/6aa7c13b82e82a31997c27af",
-      "location": "New York, NY; Bethlehem, PA; Holmdel, NJ",
-      "datePosted": 1791181602,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac37c5bd9621c5b2839cb5b",
-      "company": "Google DeepMind",
-      "title": "Software Engineer, Gemini Everywhere, DeepMind",
-      "url": "https://jobright.ai/jobs/info/6ac37c5bd9621c5b2839cb5b",
-      "location": "Mountain View, CA",
-      "datePosted": 1791181286,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3a0a6372c01f6cd731501",
-      "company": "Corning Incorporated",
-      "title": "Division Digital Software Engineer Job Details | Corning",
-      "url": "https://jobright.ai/jobs/info/6ac3a0a6372c01f6cd731501",
-      "location": "Concord, NC",
-      "datePosted": 1791180342,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a44e690f1ab552f90d077f9",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Spanish Speakers",
-      "url": "https://jobright.ai/jobs/info/6a44e690f1ab552f90d077f9",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791179977,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a508b25f4a6e7316717d44f",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - French Speakers",
-      "url": "https://jobright.ai/jobs/info/6a508b25f4a6e7316717d44f",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791179950,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a46a7d1971cd25b06f8f97b",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Russian Speakers",
-      "url": "https://jobright.ai/jobs/info/6a46a7d1971cd25b06f8f97b",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791179947,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5776fdefb06a45240da823",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Polish Speakers",
-      "url": "https://jobright.ai/jobs/info/6a5776fdefb06a45240da823",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Boston, MA; Chicago, IL; Bellevue, WA",
-      "datePosted": 1791179935,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
