@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-05T09:30:19Z",
-  "totalOpen": 1195,
-  "totalNewgrad": 256,
-  "totalOther": 939,
+  "generatedAt": "2026-10-05T09:40:17Z",
+  "totalOpen": 1197,
+  "totalNewgrad": 257,
+  "totalOther": 940,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac366f64ac55253f5d6de32",
+      "company": "Bloom",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac366f64ac55253f5d6de32",
+      "location": "United States",
+      "datePosted": 1791165574,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac362b0064da25272e0e179",
       "company": "TikTok",
@@ -36,7 +47,7 @@
       "datePosted": 1791163808,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
@@ -655,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac29dda372c01f6cd72fefc",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac29dda372c01f6cd72fefc",
-      "location": "San Jose, CA",
-      "datePosted": 1791114090,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
       "company": "Harvey",
       "title": "Software Engineer New Grad",
@@ -1018,6 +1018,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:48975da5-2bb2-4457-8702-de4898cd805e",
+      "company": "Stripe",
+      "title": "Software Engineer Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "location": "Seattle, WA, SF",
+      "datePosted": 1790806682,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
       "company": "Rivian",
       "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true",
       "location": "SF, NYC",
       "datePosted": 1790288407,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b60dd607-5a1b-423f-a318-f333734e8063",
-      "company": "Susquehanna International Group",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://careers-sig.icims.com/jobs/11555/job?mobile=true&needsRedirect=false",
-      "location": "Bala Cynwyd, PA",
-      "datePosted": 1790288170,
       "source": "aggregator",
       "season": null,
       "isNew": false
