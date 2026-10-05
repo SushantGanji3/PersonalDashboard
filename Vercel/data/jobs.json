@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T18:50:18Z",
-  "totalOpen": 1201,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-10-05T19:00:22Z",
+  "totalOpen": 1200,
+  "totalNewgrad": 261,
   "totalOther": 939,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791197953,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3e53b8ff3fb9b3bc82d39",
@@ -23,6 +23,17 @@
       "url": "https://jobright.ai/jobs/info/6ac3e53b8ff3fb9b3bc82d39",
       "location": "United States",
       "datePosted": 1791197899,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3e4d90e027c0f3b3a80c4",
+      "company": "Conquer Nation Inc.",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac3e4d90e027c0f3b3a80c4",
+      "location": "Los Angeles metropolitan area, United States",
+      "datePosted": 1791197801,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -61,15 +72,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8c3ab4581f2d7bfdfe2771",
+      "id": "newgrad-jobs:6a8c3f591d96e6541c8bfb88",
       "company": "BNY",
       "title": "2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA",
-      "url": "https://jobright.ai/jobs/info/6a8c3ab4581f2d7bfdfe2771",
+      "url": "https://jobright.ai/jobs/info/6a8c3f591d96e6541c8bfb88",
       "location": "Pittsburgh, PA",
       "datePosted": 1791195059,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac3d9ce064da25272e0fc11",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
       "location": "Mountain View, CA",
       "datePosted": 1791172467,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a51e685bf63b66c7997ea6b",
-      "company": "Radix Metasystems, Inc.",
-      "title": "Software Engineer - SkillBridge/Hiring-Our-Heroes Intern",
-      "url": "https://jobright.ai/jobs/info/6a51e685bf63b66c7997ea6b",
-      "location": "Englewood, CO; Aurora, CO",
-      "datePosted": 1791171938,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
