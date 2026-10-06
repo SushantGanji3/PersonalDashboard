@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-06T14:50:17Z",
-  "totalOpen": 1231,
-  "totalNewgrad": 279,
+  "generatedAt": "2026-10-06T15:00:21Z",
+  "totalOpen": 1229,
+  "totalNewgrad": 277,
   "totalOther": 952,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac501284ac55253f5d73e3a",
+      "company": "Navatech",
+      "title": "Entry-Level AI/ML Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac501284ac55253f5d73e3a",
+      "location": "Washington, DC",
+      "datePosted": 1791270584,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa89116a77a53f5a157a0c1",
       "company": "Superhuman",
@@ -25,7 +36,7 @@
       "datePosted": 1791270002,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac4fe58064da25272e141cc",
@@ -34,6 +45,28 @@
       "url": "https://jobright.ai/jobs/info/6ac4fe58064da25272e141cc",
       "location": "Atlanta, GA",
       "datePosted": 1791269982,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abac40d3db4ca81fc7c4654",
+      "company": "RTX",
+      "title": "Software Engineer I -(Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abac40d3db4ca81fc7c4654",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1791269839,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab6de6fd7fde2c08ec89e29",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ab6de6fd7fde2c08ec89e29",
+      "location": "Tucson, AZ",
+      "datePosted": 1791269613,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -165,10 +198,43 @@
       "title": "Software Engineer Asc - Early Career",
       "url": "https://jobright.ai/jobs/info/6ac3fc514ac55253f5d702f4",
       "location": "Orlando, FL",
-      "datePosted": 1791266072,
+      "datePosted": 1791266167,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
+      "location": "Fort Worth, TX",
+      "datePosted": 1791266163,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3fc4b4ac55253f5d702f1",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - E1",
+      "url": "https://jobright.ai/jobs/info/6ac3fc4b4ac55253f5d702f1",
+      "location": "Littleton, CO",
+      "datePosted": 1791266163,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3c193372c01f6cd731e8f",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer-IT Asc - Orlando Fl- Secret Clearance",
+      "url": "https://jobright.ai/jobs/info/6ac3c193372c01f6cd731e8f",
+      "location": "Orlando, FL",
+      "datePosted": 1791266155,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac443ee8ff3fb9b3bc851eb",
@@ -226,10 +292,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1791263807,
       "source": "newgrad-jobs",
@@ -567,6 +633,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1791252920,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa85f8a2ed333b4ea5cf132",
       "company": "General Dynamics",
       "title": "ServiceNow Developer",
@@ -611,39 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac4b43ed9621c5b283a1d32",
-      "company": "TikTok",
-      "title": "Network Software Development Engineer Intern (Network Switch) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac4b43ed9621c5b283a1d32",
-      "location": "San Jose, CA",
-      "datePosted": 1791250894,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac4b11dd9621c5b283a1d05",
-      "company": "Avum Inc.",
-      "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6ac4b11dd9621c5b283a1d05",
-      "location": "United States",
-      "datePosted": 1791250093,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac487784ac55253f5d72cee",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Research Scientist Intern (Enterprise AI Agent) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac487784ac55253f5d72cee",
-      "location": "San Jose, CA",
-      "datePosted": 1791250067,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:69c7639c-c15d-4df3-8d5b-a8df024bd29e",
       "company": "JPMorgan Chase",
       "title": "Software Engineer 1",
@@ -651,50 +695,6 @@
       "location": "Plano, TX",
       "datePosted": 1791248812,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac4a441372c01f6cd736221",
-      "company": "Leidos",
-      "title": "Real-Time Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac4a441372c01f6cd736221",
-      "location": "Arlington, VA",
-      "datePosted": 1791246801,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5550632084cd792b477b8f",
-      "company": "Auria Space",
-      "title": "Systems Engineer - Sentinel",
-      "url": "https://jobright.ai/jobs/info/6a5550632084cd792b477b8f",
-      "location": "Huntsville, AL",
-      "datePosted": 1791244266,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a552a674119652ff3863ceb",
-      "company": "Tyler Technologies",
-      "title": "Software Engineer, Enterprise Corrections - Courts & Justice",
-      "url": "https://jobright.ai/jobs/info/6a552a674119652ff3863ceb",
-      "location": "Plano, TX; Franklin, TN",
-      "datePosted": 1791241724,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac4813b8ff3fb9b3bc85e25",
-      "company": "Boston Scientific",
-      "title": "Equipment Engineering Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac4813b8ff3fb9b3bc85e25",
-      "location": "Arden Hills, MN",
-      "datePosted": 1791241327,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
