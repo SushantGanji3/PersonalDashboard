@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:40:20Z",
+  "generatedAt": "2026-10-06T08:50:18Z",
   "totalOpen": 1224,
   "totalNewgrad": 269,
   "totalOther": 955,
@@ -39,6 +39,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac4ac110e027c0f3b3ab70e",
+      "company": "Todd",
+      "title": "Frontend Developer Intern (Spring '27)",
+      "url": "https://jobright.ai/jobs/info/6ac4ac110e027c0f3b3ab70e",
+      "location": "United States",
+      "datePosted": 1791248801,
+      "source": "newgrad-jobs",
+      "season": "Spring",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac4a441372c01f6cd736221",
       "company": "Leidos",
       "title": "Real-Time Software Engineer",
@@ -47,7 +58,7 @@
       "datePosted": 1791246801,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5550632084cd792b477b8f",
@@ -56,17 +67,6 @@
       "url": "https://jobright.ai/jobs/info/6a5550632084cd792b477b8f",
       "location": "Huntsville, AL",
       "datePosted": 1791244266,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac499860e027c0f3b3ab44e",
-      "company": "XenonAI",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac499860e027c0f3b3ab44e",
-      "location": "Minneapolis, MN",
-      "datePosted": 1791244054,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -567,15 +567,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abb049b3db4ca81fc7c58fb",
+      "id": "newgrad-jobs:6abb048c3db4ca81fc7c58f5",
       "company": "Spectrum",
       "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abb049b3db4ca81fc7c58fb",
-      "location": "Maryland Heights, MO",
+      "url": "https://jobright.ai/jobs/info/6abb048c3db4ca81fc7c58f5",
+      "location": "Charlotte, NC; St. Louis, MO",
       "datePosted": 1791215281,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac3fdd90e027c0f3b3a8917",
