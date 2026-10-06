@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-06T15:40:15Z",
-  "totalOpen": 1230,
-  "totalNewgrad": 276,
+  "generatedAt": "2026-10-06T15:50:18Z",
+  "totalOpen": 1227,
+  "totalNewgrad": 273,
   "totalOther": 954,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac50c18d9621c5b283a2d65",
+      "company": "Marotta Controls",
+      "title": "Spring 2027 Machine Learning Co-Op",
+      "url": "https://jobright.ai/jobs/info/6ac50c18d9621c5b283a2d65",
+      "location": "Parsippany-Troy Hills, NJ",
+      "datePosted": 1791273384,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa05a635b2d5633ef3be15e",
+      "company": "IBM",
+      "title": "Entry Level Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aa05a635b2d5633ef3be15e",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1791272977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa059deea127c3794696902",
+      "company": "IBM",
+      "title": "Entry Level QA/Test Developer",
+      "url": "https://jobright.ai/jobs/info/6aa059deea127c3794696902",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1791272965,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac509bad9621c5b283a2ca5",
       "company": "H&R Block",
@@ -28,15 +61,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aad963e3d96632d741aeca9",
+      "id": "newgrad-jobs:6aad9ac60ebc8fb2313ea8bb",
       "company": "Boeing",
       "title": "Embedded Software Engineer (Associate, Experienced or Lead)",
-      "url": "https://jobright.ai/jobs/info/6aad963e3d96632d741aeca9",
+      "url": "https://jobright.ai/jobs/info/6aad9ac60ebc8fb2313ea8bb",
       "location": "El Segundo, CA",
       "datePosted": 1791272308,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abad945ee0b348be729be09",
@@ -50,12 +83,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab5a6d6d85922de20ce2e16",
+      "id": "newgrad-jobs:6ab5ad169d4843569fe4bbf2",
       "company": "Boeing",
       "title": "Associate Software Engineer - Developers",
-      "url": "https://jobright.ai/jobs/info/6ab5a6d6d85922de20ce2e16",
+      "url": "https://jobright.ai/jobs/info/6ab5ad169d4843569fe4bbf2",
       "location": "Oklahoma City, OK",
       "datePosted": 1791272299,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac046450e027c0f3b3a0a58",
+      "company": "Boeing",
+      "title": "Systems Software Engineer (Associate or Experienced)",
+      "url": "https://jobright.ai/jobs/info/6ac046450e027c0f3b3a0a58",
+      "location": "Chantilly, VA; Aurora, CO; Mesa, AZ",
+      "datePosted": 1791272297,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -72,26 +116,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac4102bd9621c5b2839f794",
+      "id": "newgrad-jobs:6ab189a5191d8c340dbdb472",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6ac4102bd9621c5b2839f794",
-      "location": "Seal Beach, CA",
+      "url": "https://jobright.ai/jobs/info/6ab189a5191d8c340dbdb472",
+      "location": "Colorado Springs, CO",
       "datePosted": 1791272288,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa13393500b01124c77bc24",
-      "company": "Boeing",
-      "title": "Boeing - Wichita Summer 2027 Internship Program (Paid) - Programmer Analyst / Developer - IDT&S",
-      "url": "https://jobright.ai/jobs/info/6aa13393500b01124c77bc24",
-      "location": "Wichita, KS",
-      "datePosted": 1791272262,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac506158ff3fb9b3bc8715c",
@@ -113,17 +146,6 @@
       "datePosted": 1791271363,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac501284ac55253f5d73e3a",
-      "company": "Navatech",
-      "title": "Entry-Level AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac501284ac55253f5d73e3a",
-      "location": "Washington, DC",
-      "datePosted": 1791270584,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -177,6 +199,17 @@
       "url": "https://jobright.ai/jobs/info/6ab6de6fd7fde2c08ec89e29",
       "location": "Tucson, AZ",
       "datePosted": 1791269613,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac501284ac55253f5d73e3a",
+      "company": "Navatech",
+      "title": "Entry-Level AI/ML Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac501284ac55253f5d73e3a",
+      "location": "Washington, DC",
+      "datePosted": 1791268677,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -650,39 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a50dfe22b161c5241662944",
       "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
       "datePosted": 1791255124,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7597766b9def3e9e1f87d0",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst- Korean Speakers",
-      "url": "https://jobright.ai/jobs/info/6a7597766b9def3e9e1f87d0",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791255119,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a44e68c824ecd73beef1a4f",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Turkish Speakers",
-      "url": "https://jobright.ai/jobs/info/6a44e68c824ecd73beef1a4f",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Washington, DC; Los Angeles, CA; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791255118,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a577700efb06a45240da825",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Italian Speakers",
-      "url": "https://jobright.ai/jobs/info/6a577700efb06a45240da825",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791255114,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
