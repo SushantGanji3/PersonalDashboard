@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T07:30:19Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 267,
+  "generatedAt": "2026-10-06T07:40:16Z",
+  "totalOpen": 1223,
+  "totalNewgrad": 268,
   "totalOther": 955,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -37,6 +37,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5550632084cd792b477b8f",
+      "company": "Auria Space",
+      "title": "Systems Engineer - Sentinel",
+      "url": "https://jobright.ai/jobs/info/6a5550632084cd792b477b8f",
+      "location": "Huntsville, AL",
+      "datePosted": 1791244266,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac499860e027c0f3b3ab44e",
@@ -762,17 +773,6 @@
       "datePosted": 1791207706,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac40b82d9621c5b2839f4b9",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6ac40b82d9621c5b2839f4b9",
-      "location": "Seattle, WA",
-      "datePosted": 1791207698,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
       "isNew": false
     },
     {
