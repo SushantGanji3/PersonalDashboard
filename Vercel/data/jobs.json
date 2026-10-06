@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-06T18:40:16Z",
-  "totalOpen": 1215,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-10-06T18:50:17Z",
+  "totalOpen": 1216,
+  "totalNewgrad": 263,
   "totalOther": 953,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac53202372c01f6cd738303",
+      "company": "RA Capital Management",
+      "title": "Software Engineer, Data",
+      "url": "https://jobright.ai/jobs/info/6ac53202372c01f6cd738303",
+      "location": "Boston, MA",
+      "datePosted": 1791283090,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3b87c372c01f6cd731be2",
+      "company": "WEX",
+      "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+      "url": "https://jobright.ai/jobs/info/6ac3b87c372c01f6cd731be2",
+      "location": "United States",
+      "datePosted": 1791282907,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac530b10e027c0f3b3ad6f8",
       "company": "Rubrik",
@@ -14,7 +36,40 @@
       "datePosted": 1791282753,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac530448ff3fb9b3bc882b8",
+      "company": "Clark Associates",
+      "title": "Front-End Developer Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6ac530448ff3fb9b3bc882b8",
+      "location": "United States",
+      "datePosted": 1791282644,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa03605ea127c3794695818",
+      "company": "Gallup",
+      "title": "Site Reliability Engineer Intern \u2014 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa03605ea127c3794695818",
+      "location": "San Francisco, CA",
+      "datePosted": 1791282187,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac40dbc0e027c0f3b3a9064",
+      "company": "Systems Planning & Analysis",
+      "title": "Systems Engineer (Washington Navy Yard)",
+      "url": "https://jobright.ai/jobs/info/6ac40dbc0e027c0f3b3a9064",
+      "location": "Washington, DC",
+      "datePosted": 1791282131,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa8a7bc4cb6b0e0b828dffb",
@@ -23,6 +78,17 @@
       "url": "https://jobright.ai/jobs/info/6aa8a7bc4cb6b0e0b828dffb",
       "location": "Hawthorne, CA; Palo Alto, CA; Washington, DC",
       "datePosted": 1791282088,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a860428d34f700f87fbfb14",
+      "company": "SpaceX",
+      "title": "Wi-Fi Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a860428d34f700f87fbfb14",
+      "location": "Palo Alto, CA",
+      "datePosted": 1791282067,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -171,6 +237,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa82c57930bff471a2a5a4d",
+      "company": "RTX",
+      "title": "Systems Engineer I - Signal Processing (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa82c57930bff471a2a5a4d",
+      "location": "Tucson, AZ",
+      "datePosted": 1791278771,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac4f93fd9621c5b283a2769",
       "company": "Building Service 32BJ Benefit Funds",
       "title": "Junior Full Stack Developer",
@@ -287,28 +364,6 @@
       "url": "https://jobright.ai/jobs/info/6aa075ddea127c3794697478",
       "location": "Austin, TX",
       "datePosted": 1791277570,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a860428d34f700f87fbfb14",
-      "company": "SpaceX",
-      "title": "Wi-Fi Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a860428d34f700f87fbfb14",
-      "location": "Palo Alto, CA",
-      "datePosted": 1791277317,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac51b4d8ff3fb9b3bc878d1",
-      "company": "Viasat",
-      "title": "Associate Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6ac51b4d8ff3fb9b3bc878d1",
-      "location": "Carlsbad, CA",
-      "datePosted": 1791277277,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -457,10 +512,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abfdf558ff3fb9b3bc793b0",
+      "id": "newgrad-jobs:6abfe7e0064da25272e0696d",
       "company": "Temple University",
       "title": "Web Developer (Enrollment Management)",
-      "url": "https://jobright.ai/jobs/info/6abfdf558ff3fb9b3bc793b0",
+      "url": "https://jobright.ai/jobs/info/6abfe7e0064da25272e0696d",
       "location": "Philadelphia, PA",
       "datePosted": 1791275609,
       "source": "newgrad-jobs",
@@ -589,15 +644,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab189c632552369083e2bb8",
+      "id": "newgrad-jobs:6ab19a5823005eee3545b7db",
       "company": "Boeing",
       "title": "Software Systems Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6ab189c632552369083e2bb8",
-      "location": "Colorado Springs, CO",
+      "url": "https://jobright.ai/jobs/info/6ab19a5823005eee3545b7db",
+      "location": "Seal Beach, CA",
       "datePosted": 1791272365,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aad963e3d96632d741aeca9",
@@ -608,61 +663,6 @@
       "datePosted": 1791272308,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abad945ee0b348be729be09",
-      "company": "Boeing",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abad945ee0b348be729be09",
-      "location": "Hazelwood, MO",
-      "datePosted": 1791272307,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5ad169d4843569fe4bbf2",
-      "company": "Boeing",
-      "title": "Associate Software Engineer - Developers",
-      "url": "https://jobright.ai/jobs/info/6ab5ad169d4843569fe4bbf2",
-      "location": "Oklahoma City, OK",
-      "datePosted": 1791272299,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac046450e027c0f3b3a0a58",
-      "company": "Boeing",
-      "title": "Systems Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6ac046450e027c0f3b3a0a58",
-      "location": "Chantilly, VA; Aurora, CO; Mesa, AZ",
-      "datePosted": 1791272297,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab189a5191d8c340dbdb472",
-      "company": "Boeing",
-      "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6ab189a5191d8c340dbdb472",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1791272288,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa83600654b2a9424cfb529",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1791271890,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
