@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T23:10:16Z",
-  "totalOpen": 1227,
-  "totalNewgrad": 267,
+  "generatedAt": "2026-10-06T23:20:16Z",
+  "totalOpen": 1228,
+  "totalNewgrad": 268,
   "totalOther": 960,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791325545,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4bed7671-153b-4cbc-84ad-30fbb5e3f1f1",
@@ -25,7 +25,7 @@
       "datePosted": 1791325536,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:913185e4-c0b8-46bb-add7-d4de9eb77339",
@@ -36,7 +36,7 @@
       "datePosted": 1791325529,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:7f1252c2-2dd8-4334-9c9c-8ace10b21273",
@@ -47,7 +47,7 @@
       "datePosted": 1791325529,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e458bd10-4f0d-449d-9f51-dcb595087eb9",
@@ -58,7 +58,7 @@
       "datePosted": 1791325529,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f28161fe-bd49-4abe-9430-703600ec69d6",
@@ -69,7 +69,7 @@
       "datePosted": 1791325522,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b6b8cf0c-a8a7-4903-8545-78efcd157fc0",
@@ -80,7 +80,7 @@
       "datePosted": 1791325413,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5c6be41f-80e3-44af-86bc-77aa2568dd4d",
@@ -91,7 +91,7 @@
       "datePosted": 1791325244,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:51ba20ce-fa42-44f4-8918-7f1f063dabb3",
@@ -102,18 +102,95 @@
       "datePosted": 1791325046,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5704f372c01f6cd739b40",
+      "company": "Salt City Games",
+      "title": "Software Engineer / System Administrator",
+      "url": "https://jobright.ai/jobs/info/6ac5704f372c01f6cd739b40",
+      "location": "Taylorsville, UT",
+      "datePosted": 1791299039,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
-      "id": "newgrad-jobs:6ac56eeb372c01f6cd739ad3",
-      "company": "SciTec",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac56eeb372c01f6cd739ad3",
-      "location": "Boulder, CO",
-      "datePosted": 1791298683,
+      "id": "newgrad-jobs:6ac52da4064da25272e1540c",
+      "company": "Aurora",
+      "title": "Software Engineer, Performance Engineering Optimization",
+      "url": "https://jobright.ai/jobs/info/6ac52da4064da25272e1540c",
+      "location": "Mountain View, CA",
+      "datePosted": 1791298787,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac55154372c01f6cd73908f",
+      "company": "AV",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f",
+      "location": "Moorpark, CA",
+      "datePosted": 1791298746,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac53fc00e027c0f3b3adb9b",
+      "company": "AV",
+      "title": "Software Engineer (EMB) I",
+      "url": "https://jobright.ai/jobs/info/6ac53fc00e027c0f3b3adb9b",
+      "location": "Moorpark, CA",
+      "datePosted": 1791298697,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac51cc00e027c0f3b3acdc3",
+      "company": "Courier Health",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac51cc00e027c0f3b3acdc3",
+      "location": "New York, NY",
+      "datePosted": 1791298696,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac53fc70e027c0f3b3adba0",
+      "company": "AV",
+      "title": "Hypersonic RF Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac53fc70e027c0f3b3adba0",
+      "location": "Germantown, MD",
+      "datePosted": 1791298696,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac53fc3372c01f6cd73875e",
+      "company": "AV",
+      "title": "Software Engineer (EMB), I",
+      "url": "https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
+      "location": "Moorpark, CA",
+      "datePosted": 1791298693,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac05fc3e3ce93970c7b2a8",
+      "company": "Noblis",
+      "title": "AI/ML Engineer - Multiple levels (Cleared)",
+      "url": "https://jobright.ai/jobs/info/6aac05fc3e3ce93970c7b2a8",
+      "location": "Reston, VA",
+      "datePosted": 1791298552,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac56dc4d9621c5b283a5491",
@@ -232,28 +309,6 @@
       "url": "https://jobright.ai/jobs/info/6abe7f03372c01f6cd723d5a",
       "location": "Redmond, WA",
       "datePosted": 1791297882,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac53fc3372c01f6cd73875e",
-      "company": "AV",
-      "title": "Software Engineer (EMB), I",
-      "url": "https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
-      "location": "Moorpark, CA",
-      "datePosted": 1791297875,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac55154372c01f6cd73908f",
-      "company": "AV",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f",
-      "location": "Moorpark, CA",
-      "datePosted": 1791297868,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -411,6 +466,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac53e920e027c0f3b3adb38",
+      "company": "Leidos",
+      "title": "Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac53e920e027c0f3b3adb38",
+      "location": "Arlington, VA",
+      "datePosted": 1791296375,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac517c50e027c0f3b3acc49",
@@ -694,72 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ac52f4e0e027c0f3b3ad622",
       "location": "Washington, DC",
       "datePosted": 1791292533,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac556080e027c0f3b3ae6b5",
-      "company": "KnowBe4",
-      "title": "Software Engineer Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6ac556080e027c0f3b3ae6b5",
-      "location": "Clearwater, FL",
-      "datePosted": 1791292312,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac555b34ac55253f5d7610e",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
-      "url": "https://jobright.ai/jobs/info/6ac555b34ac55253f5d7610e",
-      "location": "Austin, TX; Sunnyvale, CA; Seattle, WA; San Francisco, CA; Bellevue, WA",
-      "datePosted": 1791292227,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac54321372c01f6cd7388f7",
-      "company": "Waters Corporation",
-      "title": "Support Programmer",
-      "url": "https://jobright.ai/jobs/info/6ac54321372c01f6cd7388f7",
-      "location": "Golden, CO",
-      "datePosted": 1791292006,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5428a4ac55253f5d757d7",
-      "company": "Rivet Industries",
-      "title": "Intern, Software Engineering (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac5428a4ac55253f5d757d7",
-      "location": "San Jose, CA",
-      "datePosted": 1791291988,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9187e29864261ccd29d581",
-      "company": "MSA - The Safety Company",
-      "title": "Co-op: Software Engineer, Product Development (Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6a9187e29864261ccd29d581",
-      "location": "Cranberry Township, PA",
-      "datePosted": 1791291858,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac517f48ff3fb9b3bc8782c",
-      "company": "Dryft",
-      "title": "Full-Stack Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac517f48ff3fb9b3bc8782c",
-      "location": "San Francisco, CA",
-      "datePosted": 1791291711,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
