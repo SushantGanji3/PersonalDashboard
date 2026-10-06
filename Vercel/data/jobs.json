@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T23:40:16Z",
-  "totalOpen": 1229,
-  "totalNewgrad": 268,
+  "generatedAt": "2026-10-06T23:50:16Z",
+  "totalOpen": 1228,
+  "totalNewgrad": 267,
   "totalOther": 961,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -105,25 +105,47 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2eeba78c69ff506c41382",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ab2eeba78c69ff506c41382",
-      "location": "Frisco, TX",
-      "datePosted": 1791302936,
+      "id": "newgrad-jobs:6ac580708ff3fb9b3bc8a1d7",
+      "company": "Cloudflare",
+      "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac580708ff3fb9b3bc8a1d7",
+      "location": "Austin, TX",
+      "datePosted": 1791303168,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac57d2c8ff3fb9b3bc8a13f",
+      "company": "Figure AI",
+      "title": "Security Engineer Intern [Winter 2027]",
+      "url": "https://jobright.ai/jobs/info/6ac57d2c8ff3fb9b3bc8a13f",
+      "location": "San Jose, CA",
+      "datePosted": 1791302332,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac57b4fd9621c5b283a5a84",
+      "company": "F5",
+      "title": "Software Development Engineer Intern (Seattle, WA)",
+      "url": "https://jobright.ai/jobs/info/6ac57b4fd9621c5b283a5a84",
+      "location": "Seattle, WA",
+      "datePosted": 1791301855,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
     {
-      "id": "newgrad-jobs:6ac57b69372c01f6cd73a07e",
-      "company": "Optimum",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac57b69372c01f6cd73a07e",
-      "location": "Bethpage, NY",
-      "datePosted": 1791302932,
+      "id": "newgrad-jobs:6ac57a990e027c0f3b3af4b1",
+      "company": "Sigma",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac57a990e027c0f3b3af4b1",
+      "location": "New York, NY; San Francisco, CA",
+      "datePosted": 1791301673,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -545,17 +567,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac5616c8ff3fb9b3bc897be",
-      "company": "Elevated Web Design",
-      "title": "Founding Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6ac5616c8ff3fb9b3bc897be",
-      "location": "United States",
-      "datePosted": 1791295228,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a4a63e6f9cbb100d1ab4a1e",
       "company": "Seven Research, LLC",
       "title": "Deep Learning Researcher - Intern",
@@ -754,17 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac55790064da25272e165ed",
-      "company": "Verizon",
-      "title": "Junior Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac55790064da25272e165ed",
-      "location": "Bernards, NJ",
-      "datePosted": 1791292704,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6293dd37-4fdd-4c11-b3f9-b55360f7b93a",
       "company": "Whoop",
       "title": "Software Engineer 1 - Backend",
@@ -784,7 +784,7 @@
       "datePosted": 1791244800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fbb35820-5f6d-46ad-b912-0db35c744da1",
