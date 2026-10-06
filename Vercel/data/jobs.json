@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-06T20:10:16Z",
+  "generatedAt": "2026-10-06T20:20:17Z",
   "totalOpen": 1215,
   "totalNewgrad": 263,
   "totalOther": 952,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac548198ff3fb9b3bc88c89",
+      "company": "TriNet",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac548198ff3fb9b3bc88c89",
+      "location": "Dunwoody, GA",
+      "datePosted": 1791288745,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac51f3f4ac55253f5d74968",
       "company": "Pure Storage",
@@ -14,6 +25,28 @@
       "datePosted": 1791288317,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac546664ac55253f5d759a2",
+      "company": "RGP",
+      "title": "NetSuite Developer",
+      "url": "https://jobright.ai/jobs/info/6ac546664ac55253f5d759a2",
+      "location": "New York, NY; Parsippany-Troy Hills, NJ",
+      "datePosted": 1791288310,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac53202372c01f6cd738303",
+      "company": "RA Capital Management",
+      "title": "Software Engineer, Data",
+      "url": "https://jobright.ai/jobs/info/6ac53202372c01f6cd738303",
+      "location": "Boston, MA",
+      "datePosted": 1791287948,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -289,17 +322,6 @@
       "datePosted": 1791283313,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac53202372c01f6cd738303",
-      "company": "RA Capital Management",
-      "title": "Software Engineer, Data",
-      "url": "https://jobright.ai/jobs/info/6ac53202372c01f6cd738303",
-      "location": "Boston, MA",
-      "datePosted": 1791283090,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -639,28 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6aa865963a9f0a4fe6f191c8",
       "location": "Lindon, UT",
       "datePosted": 1791276808,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a75977cbb6ca93ae560f020",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst- Japanese Speakers",
-      "url": "https://jobright.ai/jobs/info/6a75977cbb6ca93ae560f020",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791276706,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4b44fc971cd25b06f97194",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst- Swedish Speakers",
-      "url": "https://jobright.ai/jobs/info/6a4b44fc971cd25b06f97194",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791276704,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
