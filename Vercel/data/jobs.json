@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T05:40:15Z",
-  "totalOpen": 1217,
-  "totalNewgrad": 264,
+  "generatedAt": "2026-10-06T05:50:16Z",
+  "totalOpen": 1215,
+  "totalNewgrad": 262,
   "totalOther": 953,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -90,6 +90,28 @@
       "location": "Seattle, WA",
       "datePosted": 1791237838,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac420944ac55253f5d710e0",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Embedded Software (Spring 2027 Co-op)",
+      "url": "https://jobright.ai/jobs/info/6ac420944ac55253f5d710e0",
+      "location": "Palo Alto, CA",
+      "datePosted": 1791237440,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a560dc3f7517b519ad5374e",
+      "company": "Sev1Tech LLC",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6a560dc3f7517b519ad5374e",
+      "location": "United States",
+      "datePosted": 1791237107,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -292,6 +314,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac4813b8ff3fb9b3bc85e25",
+      "company": "Boston Scientific",
+      "title": "Equipment Engineering Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac4813b8ff3fb9b3bc85e25",
+      "location": "Arden Hills, MN",
+      "datePosted": 1791219600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac47b380e027c0f3b3ab16b",
       "company": "Hakk\u014dda, an IBM Company",
       "title": "AI/ML Engineer Intern 2027 - SAN JOSE",
@@ -325,10 +358,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac40edb064da25272e10fb1",
+      "id": "newgrad-jobs:6ac40f5b8ff3fb9b3bc83daf",
       "company": "Atoms",
       "title": "Machine Learning Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac40edb064da25272e10fb1",
+      "url": "https://jobright.ai/jobs/info/6ac40f5b8ff3fb9b3bc83daf",
       "location": "San Francisco, CA",
       "datePosted": 1791216371,
       "source": "newgrad-jobs",
@@ -384,7 +417,7 @@
       "company": "Spectrum",
       "title": "2027 Summer Intern: Software Engineer",
       "url": "https://jobright.ai/jobs/info/6abb04e01acb8fc6f09c296f",
-      "location": "Charlotte, NC; Maryland Heights, MO; St. Louis, MO",
+      "location": "Charlotte, NC; Maryland Heights, MO",
       "datePosted": 1791215281,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -421,17 +454,6 @@
       "datePosted": 1791214206,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac423ff372c01f6cd7342d3",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Embedded Software (Spring 2027 Co-op)",
-      "url": "https://jobright.ai/jobs/info/6ac423ff372c01f6cd7342d3",
-      "location": "Palo Alto, CA",
-      "datePosted": 1791213967,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -727,28 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6aa9c43b3387a3d9b67d6bce",
       "location": "Santa Clara, CA",
       "datePosted": 1791206450,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6a9f69d4843569fe4eb75",
-      "company": "IBM",
-      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
-      "url": "https://jobright.ai/jobs/info/6ab6a9f69d4843569fe4eb75",
-      "location": "Yorktown Heights, NY; Albany, NY",
-      "datePosted": 1791206450,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1ac973272060a8e3f1769",
-      "company": "Texas Instruments",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1ac973272060a8e3f1769",
-      "location": "Dallas, TX",
-      "datePosted": 1791206397,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
