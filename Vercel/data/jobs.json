@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-06T02:30:17Z",
-  "totalOpen": 1213,
+  "generatedAt": "2026-10-06T02:40:16Z",
+  "totalOpen": 1215,
   "totalNewgrad": 262,
-  "totalOther": 951,
+  "totalOther": 953,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:69c7639c-c15d-4df3-8d5b-a8df024bd29e",
+      "company": "JPMorgan Chase",
+      "title": "Software Engineer 1",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232",
+      "location": "Plano, TX",
+      "datePosted": 1791248812,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:fbb35820-5f6d-46ad-b912-0db35c744da1",
       "company": "Nuro",
@@ -102,7 +113,7 @@
       "datePosted": 1791224229,
       "source": "newgrad-jobs",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac41f4e064da25272e114b0",
@@ -267,7 +278,7 @@
       "datePosted": 1791215281,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3fdd90e027c0f3b3a8917",
@@ -787,6 +798,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:74f23be6-961c-4635-8a88-b9779934f8a5",
+      "company": "General Dynamics",
+      "title": "Software Developer Associate",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
+      "location": "Chantilly, VA",
+      "datePosted": 1791158400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
       "company": "Harvey",
       "title": "Software Engineer New Grad",
@@ -1299,28 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/284925",
       "location": "Palo Alto, CA",
       "datePosted": 1790721596,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:adc756c8-eec3-41e4-b9a6-a13e34b5768f",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958",
-      "location": "Austin, TX",
-      "datePosted": 1790645643,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:23dfd8e4-f91c-43b3-87fc-4ea57c85e129",
-      "company": "SpaceX",
-      "title": "Software Engineer New Grad - Software - Starfall",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002",
-      "location": "Hawthorne, CA",
-      "datePosted": 1790645193,
       "source": "aggregator",
       "season": null,
       "isNew": false
