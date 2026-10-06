@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:30:17Z",
+  "generatedAt": "2026-10-06T06:40:17Z",
   "totalOpen": 1218,
   "totalNewgrad": 265,
   "totalOther": 953,
@@ -13,6 +13,17 @@
       "location": "Plano, TX",
       "datePosted": 1791248812,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a626309846162391c935914",
+      "company": "Appian",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a626309846162391c935914",
+      "location": "McLean, VA",
+      "datePosted": 1791240992,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -391,17 +402,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac47b380e027c0f3b3ab16b",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "AI/ML Engineer Intern 2027 - SAN JOSE",
-      "url": "https://jobright.ai/jobs/info/6ac47b380e027c0f3b3ab16b",
-      "location": "San Jose, CA",
-      "datePosted": 1791218280,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac40dbc0e027c0f3b3a9064",
       "company": "Systems Planning & Analysis",
       "title": "Systems Engineer (Washington Navy Yard)",
@@ -424,10 +424,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac40edb064da25272e10fb1",
+      "id": "newgrad-jobs:6ac40f5b8ff3fb9b3bc83daf",
       "company": "Atoms",
       "title": "Machine Learning Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac40edb064da25272e10fb1",
+      "url": "https://jobright.ai/jobs/info/6ac40f5b8ff3fb9b3bc83daf",
       "location": "San Francisco, CA",
       "datePosted": 1791216371,
       "source": "newgrad-jobs",
