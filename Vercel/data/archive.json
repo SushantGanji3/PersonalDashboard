@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T23:30:18Z",
+  "generatedAt": "2026-10-06T23:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -100,6 +100,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ab2eeba78c69ff506c41382",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ab2eeba78c69ff506c41382",
+      "location": "Frisco, TX",
+      "datePosted": 1791302936,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791330016
+    },
+    {
+      "id": "newgrad-jobs:6ac57b69372c01f6cd73a07e",
+      "company": "Optimum",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac57b69372c01f6cd73a07e",
+      "location": "Bethpage, NY",
+      "datePosted": 1791302932,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791330016
     },
     {
       "id": "newgrad-jobs:6ac5704f372c01f6cd739b40",
@@ -1541,6 +1563,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791276020
+    },
+    {
+      "id": "simplify:549f3317-e3f3-4cb9-941f-293c4c097a51",
+      "company": "RTX",
+      "title": "Software Engineer - ARINC661 Graphics",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer---ARINC661-Graphics_01880175",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791244800,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791330016
     },
     {
       "id": "newgrad-jobs:6a5550632084cd792b477b8f",
@@ -54967,39 +55000,6 @@
       "datePosted": 1788877583,
       "source": "newgrad-jobs",
       "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa07ce1500b01124c7796f6",
-      "company": "Demiurge Studios",
-      "title": "2027 Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa07ce1500b01124c7796f6",
-      "location": "United States",
-      "datePosted": 1788877425,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa07c3f3b5aa83237b097e6",
-      "company": "Collins Aerospace",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa07c3f3b5aa83237b097e6",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788877263,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa07c3eea127c3794697796",
-      "company": "Collins Aerospace",
-      "title": "Software Engineer Intern ( Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa07c3eea127c3794697796",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788877262,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "firstSeenAt": 1788951625
     }
   ]

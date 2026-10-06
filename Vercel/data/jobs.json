@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T23:30:18Z",
-  "totalOpen": 1228,
+  "generatedAt": "2026-10-06T23:40:16Z",
+  "totalOpen": 1229,
   "totalNewgrad": 268,
-  "totalOther": 960,
+  "totalOther": 961,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -103,6 +103,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2eeba78c69ff506c41382",
+      "company": "CyberProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ab2eeba78c69ff506c41382",
+      "location": "Frisco, TX",
+      "datePosted": 1791302936,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac57b69372c01f6cd73a07e",
+      "company": "Optimum",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac57b69372c01f6cd73a07e",
+      "location": "Bethpage, NY",
+      "datePosted": 1791302932,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac5704f372c01f6cd739b40",
@@ -743,28 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8de08225fc4e7ae3dbe4ea",
-      "company": "True Anomaly",
-      "title": "Flight Software Engineer I (Temp-to-hire)",
-      "url": "https://jobright.ai/jobs/info/6a8de08225fc4e7ae3dbe4ea",
-      "location": "Denver, CO; Long Beach, CA",
-      "datePosted": 1791292643,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac52f4e0e027c0f3b3ad622",
-      "company": "Booz Allen Hamilton",
-      "title": "Power Platform Developer",
-      "url": "https://jobright.ai/jobs/info/6ac52f4e0e027c0f3b3ad622",
-      "location": "Washington, DC",
-      "datePosted": 1791292533,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6293dd37-4fdd-4c11-b3f9-b55360f7b93a",
       "company": "Whoop",
       "title": "Software Engineer 1 - Backend",
@@ -774,6 +774,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:549f3317-e3f3-4cb9-941f-293c4c097a51",
+      "company": "RTX",
+      "title": "Software Engineer - ARINC661 Graphics",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer---ARINC661-Graphics_01880175",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791244800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:fbb35820-5f6d-46ad-b912-0db35c744da1",
@@ -1312,17 +1323,6 @@
       "datePosted": 1790730679,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:04a691aa-579c-4daf-98c5-87a42434da2b",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
-      "location": "Fort Wayne, IN",
-      "datePosted": 1790726400,
-      "source": "aggregator",
-      "season": "Summer 2027",
       "isNew": false
     }
   ]
