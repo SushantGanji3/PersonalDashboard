@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-06T21:00:21Z",
-  "totalOpen": 1213,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-10-06T21:10:16Z",
+  "totalOpen": 1212,
+  "totalNewgrad": 261,
   "totalOther": 951,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac556080e027c0f3b3ae6b5",
+      "company": "KnowBe4",
+      "title": "Software Engineer Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6ac556080e027c0f3b3ae6b5",
+      "location": "Clearwater, FL",
+      "datePosted": 1791292312,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac555b34ac55253f5d7610e",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6ac555b34ac55253f5d7610e",
+      "location": "Austin, TX; Sunnyvale, CA; Seattle, WA; San Francisco, CA; Bellevue, WA",
+      "datePosted": 1791292227,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac517f48ff3fb9b3bc8782c",
+      "company": "Dryft",
+      "title": "Full-Stack Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac517f48ff3fb9b3bc8782c",
+      "location": "San Francisco, CA",
+      "datePosted": 1791291473,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ac5510d064da25272e163e9",
       "company": "LGNDX",
@@ -105,6 +138,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac51f3f4ac55253f5d74968",
+      "company": "Pure Storage",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac51f3f4ac55253f5d74968",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791288959,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac548198ff3fb9b3bc88c89",
       "company": "TriNet",
       "title": "Software Engineer",
@@ -113,17 +157,6 @@
       "datePosted": 1791288745,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac51f3f4ac55253f5d74968",
-      "company": "Pure Storage",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac51f3f4ac55253f5d74968",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791288317,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -147,6 +180,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8c3f5425fc4e7ae3db738d",
+      "company": "BNY",
+      "title": "2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL",
+      "url": "https://jobright.ai/jobs/info/6a8c3f5425fc4e7ae3db738d",
+      "location": "Lake Mary, FL",
+      "datePosted": 1791287550,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac54321372c01f6cd7388f7",
@@ -347,11 +391,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
+      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8ca4ca25fc4e7ae3db9993",
-      "location": "Olathe, KS",
+      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
+      "location": "Chandler, AZ",
       "datePosted": 1791286016,
       "source": "newgrad-jobs",
       "season": null,
@@ -619,50 +663,6 @@
       "datePosted": 1791279975,
       "source": "newgrad-jobs",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac522b8d9621c5b283a35c1",
-      "company": "TaxRise",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac522b8d9621c5b283a35c1",
-      "location": "Irvine, CA",
-      "datePosted": 1791279807,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5248f0e027c0f3b3ad16e",
-      "company": "H&R Block",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac5248f0e027c0f3b3ad16e",
-      "location": "United States",
-      "datePosted": 1791279647,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa82c57930bff471a2a5a4d",
-      "company": "RTX",
-      "title": "Systems Engineer I - Signal Processing (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa82c57930bff471a2a5a4d",
-      "location": "Tucson, AZ",
-      "datePosted": 1791279363,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa05930dbc0e60e37e0d120",
-      "company": "IBM",
-      "title": "Back End Developer Intern 2027 - RTP",
-      "url": "https://jobright.ai/jobs/info/6aa05930dbc0e60e37e0d120",
-      "location": "Durham, NC",
-      "datePosted": 1791278827,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
