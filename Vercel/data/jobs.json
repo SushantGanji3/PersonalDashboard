@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T11:00:20Z",
-  "totalOpen": 1232,
+  "generatedAt": "2026-10-06T11:10:16Z",
+  "totalOpen": 1229,
   "totalNewgrad": 278,
-  "totalOther": 954,
+  "totalOther": 951,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1791256302,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa86a4d654b2a9424cfcae4",
@@ -47,7 +47,7 @@
       "datePosted": 1791256093,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a50dfe22b161c5241662944",
@@ -102,7 +102,7 @@
       "datePosted": 1791254577,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a970d90e4e60e4b8da5bcb8",
@@ -113,7 +113,7 @@
       "datePosted": 1791253571,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa81cb8930bff471a2a5247",
@@ -124,7 +124,7 @@
       "datePosted": 1791253495,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa86447654b2a9424cfc952",
@@ -135,7 +135,7 @@
       "datePosted": 1791253439,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
@@ -146,7 +146,7 @@
       "datePosted": 1791253377,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac499ae4ac55253f5d72e33",
@@ -1007,17 +1007,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
-      "company": "Microsoft",
-      "title": "Software Engineer - Forward Deployed Engineer",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
-      "location": "Redmond, WA",
-      "datePosted": 1790892628,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:35d12704-75f4-4a19-8d57-c70563db0263",
       "company": "Amazon",
       "title": "Software Engineer Intern",
@@ -1320,6 +1309,17 @@
       "title": "Software Engineer/Developer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
       "location": "Woburn, MA",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:7e8877cc-8675-477d-8147-3f5443d85bb6",
+      "company": "RTX",
+      "title": "Software/Developer Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
+      "location": "Fort Wayne, IN",
       "datePosted": 1790726400,
       "source": "aggregator",
       "season": null,
