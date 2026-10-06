@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:10:16Z",
+  "generatedAt": "2026-10-06T02:20:18Z",
   "totalOpen": 1214,
   "totalNewgrad": 263,
   "totalOther": 951,
@@ -81,6 +81,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
+      "company": "The Tatitlek Corporation",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
+      "location": "United States",
+      "datePosted": 1791225655,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac41002d9621c5b2839f768",
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6ac40364064da25272e1099e",
       "location": "United States",
       "datePosted": 1791205620,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8562d7c1a3fd7120f74ddc",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a8562d7c1a3fd7120f74ddc",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791205328,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
