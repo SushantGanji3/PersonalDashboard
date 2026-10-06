@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T07:10:16Z",
-  "totalOpen": 1220,
-  "totalNewgrad": 265,
+  "generatedAt": "2026-10-06T07:20:17Z",
+  "totalOpen": 1222,
+  "totalNewgrad": 267,
   "totalOther": 955,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791267680,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8dc34a98-6cba-4361-b5ab-d5e64d0e8b2e",
@@ -25,7 +25,7 @@
       "datePosted": 1791267680,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:69c7639c-c15d-4df3-8d5b-a8df024bd29e",
@@ -35,6 +35,50 @@
       "location": "Plano, TX",
       "datePosted": 1791248812,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac499860e027c0f3b3ab44e",
+      "company": "XenonAI",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac499860e027c0f3b3ab44e",
+      "location": "Minneapolis, MN",
+      "datePosted": 1791244054,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac490ecd9621c5b283a1946",
+      "company": "American Express",
+      "title": "Software Engineer-Python/ GO/ Java/ JavaScript (Cyber Security)",
+      "url": "https://jobright.ai/jobs/info/6ac490ecd9621c5b283a1946",
+      "location": "Phoenix, AZ",
+      "datePosted": 1791241852,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a552a674119652ff3863ceb",
+      "company": "Tyler Technologies",
+      "title": "Software Engineer, Enterprise Corrections - Courts & Justice",
+      "url": "https://jobright.ai/jobs/info/6a552a674119652ff3863ceb",
+      "location": "Plano, TX; Franklin, TN",
+      "datePosted": 1791241724,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac4813b8ff3fb9b3bc85e25",
+      "company": "Boston Scientific",
+      "title": "Equipment Engineering Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac4813b8ff3fb9b3bc85e25",
+      "location": "Arden Hills, MN",
+      "datePosted": 1791241327,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -413,15 +457,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac4813b8ff3fb9b3bc85e25",
-      "company": "Boston Scientific",
-      "title": "Equipment Engineering Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac4813b8ff3fb9b3bc85e25",
-      "location": "Arden Hills, MN",
-      "datePosted": 1791219600,
+      "id": "newgrad-jobs:6ac4905c372c01f6cd735f1a",
+      "company": "Hakk\u014dda, an IBM Company",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ac4905c372c01f6cd735f1a",
+      "location": "Armonk, NY",
+      "datePosted": 1791218521,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac40dbc0e027c0f3b3a9064",
@@ -446,10 +490,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac40f5b8ff3fb9b3bc83daf",
+      "id": "newgrad-jobs:6ac40edb064da25272e10fb1",
       "company": "Atoms",
       "title": "Machine Learning Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac40f5b8ff3fb9b3bc83daf",
+      "url": "https://jobright.ai/jobs/info/6ac40edb064da25272e10fb1",
       "location": "San Francisco, CA",
       "datePosted": 1791216371,
       "source": "newgrad-jobs",
@@ -501,11 +545,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abb04f11acb8fc6f09c2973",
+      "id": "newgrad-jobs:6abb04e01acb8fc6f09c296f",
       "company": "Spectrum",
       "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abb04f11acb8fc6f09c2973",
-      "location": "St. Louis, MO",
+      "url": "https://jobright.ai/jobs/info/6abb04e01acb8fc6f09c296f",
+      "location": "Charlotte, NC; Maryland Heights, MO; St. Louis, MO",
       "datePosted": 1791215281,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -729,50 +773,6 @@
       "datePosted": 1791207698,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac40b7cd9621c5b2839f4b2",
-      "company": "TikTok",
-      "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac40b7cd9621c5b2839f4b2",
-      "location": "San Jose, CA",
-      "datePosted": 1791207692,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac40b78372c01f6cd7339d1",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac40b78372c01f6cd7339d1",
-      "location": "Seattle, WA",
-      "datePosted": 1791207688,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac40b740e027c0f3b3a8e89",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac40b740e027c0f3b3a8e89",
-      "location": "San Jose, CA",
-      "datePosted": 1791207684,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3e5bcd9621c5b2839e732",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer Intern (Agentic Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac3e5bcd9621c5b2839e732",
-      "location": "San Jose, CA",
-      "datePosted": 1791207615,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
