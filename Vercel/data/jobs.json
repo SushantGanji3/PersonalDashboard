@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-06T22:30:19Z",
-  "totalOpen": 1214,
-  "totalNewgrad": 264,
-  "totalOther": 950,
+  "generatedAt": "2026-10-06T22:40:17Z",
+  "totalOpen": 1216,
+  "totalNewgrad": 265,
+  "totalOther": 951,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abe09d28ff3fb9b3bc72acf",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "url": "https://jobright.ai/jobs/info/6abe09d28ff3fb9b3bc72acf",
+      "location": "Redmond, WA",
+      "datePosted": 1791297772,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abeac230e027c0f3b39a198",
       "company": "Microsoft",
@@ -655,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac53202372c01f6cd738303",
-      "company": "RA Capital Management",
-      "title": "Software Engineer, Data",
-      "url": "https://jobright.ai/jobs/info/6ac53202372c01f6cd738303",
-      "location": "Boston, MA",
-      "datePosted": 1791287948,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6293dd37-4fdd-4c11-b3f9-b55360f7b93a",
       "company": "Whoop",
       "title": "Software Engineer 1 - Backend",
@@ -803,17 +803,6 @@
       "title": "Software Engineer 1",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
       "location": "O'Fallon, MO",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:74f23be6-961c-4635-8a88-b9779934f8a5",
-      "company": "General Dynamics",
-      "title": "Software Developer Associate",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
-      "location": "Chantilly, VA",
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
@@ -1320,6 +1309,17 @@
       "title": "Software/Developer Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
       "location": "Fort Wayne, IN",
+      "datePosted": 1790726400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:9bea948d-dffb-4340-aa5a-3a7fa7ddd92e",
+      "company": "RTX",
+      "title": "Embedded Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013",
+      "location": "East Hartford, CT",
       "datePosted": 1790726400,
       "source": "aggregator",
       "season": null,
