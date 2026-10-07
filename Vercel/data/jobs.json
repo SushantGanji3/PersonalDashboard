@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-07T20:10:16Z",
-  "totalOpen": 1219,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-10-07T20:20:17Z",
+  "totalOpen": 1221,
+  "totalNewgrad": 257,
   "totalOther": 964,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac69be24ac55253f5d7b293",
+      "company": "Pro Integrate",
+      "title": "Software Engineer, Data Platforms",
+      "url": "https://jobright.ai/jobs/info/6ac69be24ac55253f5d7b293",
+      "location": "United States",
+      "datePosted": 1791375730,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac69b99372c01f6cd73e2e0",
+      "company": "Pro Integrate",
+      "title": "Software Engineer, Internal Platforms",
+      "url": "https://jobright.ai/jobs/info/6ac69b99372c01f6cd73e2e0",
+      "location": "United States",
+      "datePosted": 1791375657,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa989953387a3d9b67d55ca",
+      "company": "EY",
+      "title": "SDC Front End Engineer--Analyst----Raleigh, NC or Dallas, TX",
+      "url": "https://jobright.ai/jobs/info/6aa989953387a3d9b67d55ca",
+      "location": "United States; United Kingdom",
+      "datePosted": 1791374920,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd5f5c8ff3fb9b3bc70405",
+      "company": "ECS",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6abd5f5c8ff3fb9b3bc70405",
+      "location": "Fairfax, VA",
+      "datePosted": 1791374176,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8da5a2d34f700f87fd4f60",
+      "company": "Alarm.com",
+      "title": "Embedded Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a8da5a2d34f700f87fd4f60",
+      "location": "Tysons, VA",
+      "datePosted": 1791373696,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac691bfd9621c5b283a989f",
       "company": "Carter Machinery",
@@ -12,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6ac691bfd9621c5b283a989f",
       "location": "Mechanicsville, VA; Richmond, VA",
       "datePosted": 1791373135,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac1a549372c01f6cd72d857",
+      "company": "Leidos",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac1a549372c01f6cd72d857",
+      "location": "Huntsville, AL",
+      "datePosted": 1791373116,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -248,6 +314,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac67cf34ac55253f5d7a662",
+      "company": "OPENDataJobs",
+      "title": "Junior Data Engineer (SQL)",
+      "url": "https://jobright.ai/jobs/info/6ac67cf34ac55253f5d7a662",
+      "location": "Washington, DC",
+      "datePosted": 1791366688,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a72950702d93145bf895467",
       "company": "SpaceX",
       "title": "Full Stack Engineer (Application Software)",
@@ -314,10 +391,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac670580e027c0f3b3b25d3",
+      "id": "newgrad-jobs:6ac4230c8ff3fb9b3bc843fc",
       "company": "Mastercard",
       "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac670580e027c0f3b3b25d3",
+      "url": "https://jobright.ai/jobs/info/6ac4230c8ff3fb9b3bc843fc",
       "location": "O'Fallon, MO",
       "datePosted": 1791365935,
       "source": "newgrad-jobs",
@@ -336,23 +413,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa95ef13387a3d9b67d4bfb",
+      "company": "Analog Devices",
+      "title": "Associate Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa95ef13387a3d9b67d4bfb",
+      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
+      "datePosted": 1791365693,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a2a2a23c07d4b6ae1c4482d",
       "company": "Anduril",
       "title": "2027 Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6a2a2a23c07d4b6ae1c4482d",
       "location": "Atlanta, GA; Boston, MA; Costa Mesa, CA; Irvine, CA; Seattle, WA; Reston, VA",
       "datePosted": 1791365199,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac671f18ff3fb9b3bc8d21a",
-      "company": "OPENDataJobs",
-      "title": "Junior Data Engineer (SQL)",
-      "url": "https://jobright.ai/jobs/info/6ac671f18ff3fb9b3bc8d21a",
-      "location": "Washington, DC; Washington, DC metropolitan area",
-      "datePosted": 1791364993,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -380,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac52cd4064da25272e153be",
+      "id": "newgrad-jobs:6ac5149a4ac55253f5d745c7",
       "company": "Boeing",
       "title": "Embedded Software Engineer - Entry-Level",
-      "url": "https://jobright.ai/jobs/info/6ac52cd4064da25272e153be",
+      "url": "https://jobright.ai/jobs/info/6ac5149a4ac55253f5d745c7",
       "location": "Hazelwood, MO; Berkeley, MO",
       "datePosted": 1791363718,
       "source": "newgrad-jobs",
@@ -419,17 +496,6 @@
       "url": "https://jobright.ai/jobs/info/6aa17413dbc0e60e37e11592",
       "location": "Poughkeepsie, NY; Rochester, NY; Tucson, AZ; San Jose, CA; Austin, TX; Minnesota, United States",
       "datePosted": 1791362604,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa989953387a3d9b67d55ca",
-      "company": "EY",
-      "title": "SDC Front End Engineer--Analyst----Raleigh, NC or Dallas, TX",
-      "url": "https://jobright.ai/jobs/info/6aa989953387a3d9b67d55ca",
-      "location": "United States; United Kingdom",
-      "datePosted": 1791362400,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -606,72 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ab6a592c6fe0dec811a5dc8",
       "location": "Marlborough, MA; Tewksbury, MA",
       "datePosted": 1791355919,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa95db5eff87f571fc99590",
-      "company": "apexanalytix",
-      "title": "Automation Developer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa95db5eff87f571fc99590",
-      "location": "United States",
-      "datePosted": 1791355848,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb1825fc4e7ae3dbe343",
-      "company": "Verkada",
-      "title": "Frontend Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb1825fc4e7ae3dbe343",
-      "location": "San Mateo, CA",
-      "datePosted": 1791355642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb0ea5639a4810328145",
-      "company": "Verkada",
-      "title": "Security Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb0ea5639a4810328145",
-      "location": "San Mateo, CA",
-      "datePosted": 1791355562,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb48a5639a4810328164",
-      "company": "Verkada",
-      "title": "Embedded Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb48a5639a4810328164",
-      "location": "San Mateo, CA",
-      "datePosted": 1791355410,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a44e69d824ecd73beef1a56",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Dutch Speakers",
-      "url": "https://jobright.ai/jobs/info/6a44e69d824ecd73beef1a56",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Washington, DC; Los Angeles, CA; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791355097,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab7457839fd8792cb73df83",
-      "company": "Internet Brands",
-      "title": "Associate AI Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab7457839fd8792cb73df83",
-      "location": "Newark, NJ",
-      "datePosted": 1791355005,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

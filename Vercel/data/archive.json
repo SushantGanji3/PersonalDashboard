@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-10-07T20:10:16Z",
+  "generatedAt": "2026-10-07T20:20:17Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "newgrad-jobs:6ac69be24ac55253f5d7b293",
+      "company": "Pro Integrate",
+      "title": "Software Engineer, Data Platforms",
+      "url": "https://jobright.ai/jobs/info/6ac69be24ac55253f5d7b293",
+      "location": "United States",
+      "datePosted": 1791375730,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791404417
+    },
+    {
+      "id": "newgrad-jobs:6ac69b99372c01f6cd73e2e0",
+      "company": "Pro Integrate",
+      "title": "Software Engineer, Internal Platforms",
+      "url": "https://jobright.ai/jobs/info/6ac69b99372c01f6cd73e2e0",
+      "location": "United States",
+      "datePosted": 1791375657,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791404417
+    },
     {
       "id": "newgrad-jobs:6ac691bfd9621c5b283a989f",
       "company": "Carter Machinery",
@@ -166,6 +188,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791394818
+    },
+    {
+      "id": "newgrad-jobs:6ac67cf34ac55253f5d7a662",
+      "company": "OPENDataJobs",
+      "title": "Junior Data Engineer (SQL)",
+      "url": "https://jobright.ai/jobs/info/6ac67cf34ac55253f5d7a662",
+      "location": "Washington, DC",
+      "datePosted": 1791366688,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791404417
     },
     {
       "id": "newgrad-jobs:6aa9b6a4eff87f571fc9ae36",
@@ -1068,6 +1101,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791396020
+    },
+    {
+      "id": "newgrad-jobs:6ac69eee372c01f6cd73e453",
+      "company": "Axos Bank",
+      "title": "JBATA - AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac69eee372c01f6cd73e453",
+      "location": "San Diego, CA",
+      "datePosted": 1791306000,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791404417
+    },
+    {
+      "id": "newgrad-jobs:6ac693a7064da25272e1b3a5",
+      "company": "ICF",
+      "title": "2027 Summer Intern, Data Engineer (Reston, VA or Remote)",
+      "url": "https://jobright.ai/jobs/info/6ac693a7064da25272e1b3a5",
+      "location": "United States",
+      "datePosted": 1791306000,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791404417
     },
     {
       "id": "newgrad-jobs:6ac56636372c01f6cd7398fa",
@@ -54946,61 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788990017
-    },
-    {
-      "id": "simplify:52c6c00b-0538-4eae-ba83-7a32198496a7",
-      "company": "Coinbase",
-      "title": "Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8168315",
-      "location": "SF",
-      "datePosted": 1788916882,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "simplify:96af2834-7e64-41a6-b0d4-d000f97b76cb",
-      "company": "Coinbase",
-      "title": "Data Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8175459",
-      "location": "SF",
-      "datePosted": 1788916844,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa02f92dbc0e60e37e0bd1b",
-      "company": "Steelhead Technologies",
-      "title": "Software Engineer Co-op",
-      "url": "https://jobright.ai/jobs/info/6aa02f92dbc0e60e37e0bd1b",
-      "location": "Calumet, MI",
-      "datePosted": 1788913945,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788970820
-    },
-    {
-      "id": "newgrad-jobs:6aa1065bb45c1b325c20dae8",
-      "company": "One Trading",
-      "title": "Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1065bb45c1b325c20dae8",
-      "location": "Chicago, IL",
-      "datePosted": 1788912619,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788970820
-    },
-    {
-      "id": "newgrad-jobs:6aa1053d97d0340e3dbae7d5",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa1053d97d0340e3dbae7d5",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1788912333,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788970820
     }
   ]
 }
