@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T08:20:17Z",
+  "generatedAt": "2026-10-07T08:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -177,6 +177,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ac5f4a4372c01f6cd73b7eb",
+      "company": "News Corp",
+      "title": "Software Engineer - Data Architecture & Platform Engineering",
+      "url": "https://jobright.ai/jobs/info/6ac5f4a4372c01f6cd73b7eb",
+      "location": "New York, NY",
+      "datePosted": 1791324000,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791362416
     },
     {
       "id": "newgrad-jobs:6ac59d50064da25272e17aee",
@@ -54989,17 +55000,6 @@
       "datePosted": 1788886169,
       "source": "newgrad-jobs",
       "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a7f67a1927c79391ad08af0",
-      "company": "Notion",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6a7f67a1927c79391ad08af0",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1788886169,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "firstSeenAt": 1788951625
     }
   ]

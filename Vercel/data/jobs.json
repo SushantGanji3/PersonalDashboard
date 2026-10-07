@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-07T08:20:17Z",
-  "totalOpen": 1219,
+  "generatedAt": "2026-10-07T08:40:16Z",
+  "totalOpen": 1218,
   "totalNewgrad": 256,
-  "totalOther": 963,
+  "totalOther": 962,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -191,6 +191,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5f4a4372c01f6cd73b7eb",
+      "company": "News Corp",
+      "title": "Software Engineer - Data Architecture & Platform Engineering",
+      "url": "https://jobright.ai/jobs/info/6ac5f4a4372c01f6cd73b7eb",
+      "location": "New York, NY",
+      "datePosted": 1791324000,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac59d50064da25272e17aee",
@@ -556,10 +567,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
       "location": "Ashburn, VA",
       "datePosted": 1791304707,
       "source": "newgrad-jobs",
@@ -655,10 +666,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac57b69372c01f6cd73a07e",
+      "id": "newgrad-jobs:6ac57b664ac55253f5d77011",
       "company": "Optimum",
       "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac57b69372c01f6cd73a07e",
+      "url": "https://jobright.ai/jobs/info/6ac57b664ac55253f5d77011",
       "location": "Bethpage, NY",
       "datePosted": 1791302932,
       "source": "newgrad-jobs",
@@ -793,17 +804,6 @@
       "url": "https://jobright.ai/jobs/info/6ac56db08ff3fb9b3bc89b13",
       "location": "Los Angeles, CA; San Francisco, CA",
       "datePosted": 1791298368,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac4230c8ff3fb9b3bc843fc",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac4230c8ff3fb9b3bc843fc",
-      "location": "O'Fallon, MO",
-      "datePosted": 1791298320,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1172,17 +1172,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:da112e4c-4b18-4df4-9cad-95acdd778d6f",
-      "company": "Microsoft",
-      "title": "Software Engineer Intern - Azure Databases",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
-      "location": "Redmond, WA",
-      "datePosted": 1790845696,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:080ae983-f3c6-404a-9df2-ba7e7c54506e",
       "company": "Tesla",
       "title": "Data Engineer Intern - Data Engineer - Applications Engineering",
@@ -1321,6 +1310,17 @@
       "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false",
       "location": "Middletown, RI",
       "datePosted": 1790777853,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:b5e54246-5cf1-4854-8ea2-77816df0b012",
+      "company": "Tesla",
+      "title": "Embedded Software Engineer Intern - Silicon Development",
+      "url": "https://www.tesla.com/careers/search/job/285084",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790731087,
       "source": "aggregator",
       "season": null,
       "isNew": false
