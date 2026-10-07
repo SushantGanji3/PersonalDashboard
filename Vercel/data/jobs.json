@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:40:51Z",
+  "generatedAt": "2026-10-07T01:50:15Z",
   "totalOpen": 1218,
   "totalNewgrad": 264,
   "totalOther": 954,
@@ -14,7 +14,7 @@
       "datePosted": 1791335260,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
@@ -25,7 +25,7 @@
       "datePosted": 1791335194,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
@@ -123,6 +123,17 @@
       "location": "Bloomington, MN",
       "datePosted": 1791325046,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac54dbcd9621c5b283a4921",
+      "company": "Space Dynamics Laboratory",
+      "title": "Computer Vision Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac54dbcd9621c5b283a4921",
+      "location": "North Logan, UT",
+      "datePosted": 1791308066,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -325,10 +336,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac57b69372c01f6cd73a07e",
+      "id": "newgrad-jobs:6ac57b664ac55253f5d77011",
       "company": "Optimum",
       "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac57b69372c01f6cd73a07e",
+      "url": "https://jobright.ai/jobs/info/6ac57b664ac55253f5d77011",
       "location": "Bethpage, NY",
       "datePosted": 1791302932,
       "source": "newgrad-jobs",
@@ -771,17 +782,6 @@
       "url": "https://jobright.ai/jobs/info/6ac562d2064da25272e16b96",
       "location": "United States",
       "datePosted": 1791295586,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4a63e6f9cbb100d1ab4a1e",
-      "company": "Seven Research, LLC",
-      "title": "Deep Learning Researcher - Intern",
-      "url": "https://jobright.ai/jobs/info/6a4a63e6f9cbb100d1ab4a1e",
-      "location": "New York, NY",
-      "datePosted": 1791294862,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
