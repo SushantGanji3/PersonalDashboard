@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-07T09:30:21Z",
+  "generatedAt": "2026-10-07T09:40:16Z",
   "totalOpen": 1217,
   "totalNewgrad": 255,
   "totalOther": 962,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:7ef78771-a2e4-4642-88ef-6a719ad563eb",
+      "company": "L3Harris",
+      "title": "Associate Systems Engineer",
+      "url": "https://jobs.l3harris.com/job/Waco-Associate,-Systems-Engineering-TX-76705/1437638600/?ats=successfactors",
+      "location": "Waco, TX",
+      "datePosted": 1791364025,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
       "company": "Apple",
@@ -47,7 +58,7 @@
       "datePosted": 1791335553,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5d67cf04-fc5c-491b-9cb4-99484583ff17",
@@ -1310,17 +1321,6 @@
       "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false",
       "location": "Middletown, RI",
       "datePosted": 1790777853,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b5e54246-5cf1-4854-8ea2-77816df0b012",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern - Silicon Development",
-      "url": "https://www.tesla.com/careers/search/job/285084",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790731087,
       "source": "aggregator",
       "season": null,
       "isNew": false
