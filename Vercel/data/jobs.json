@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T10:10:16Z",
-  "totalOpen": 1219,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-10-07T10:20:18Z",
+  "totalOpen": 1216,
+  "totalNewgrad": 251,
   "totalOther": 965,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,12 +28,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac60f850e027c0f3b3b106b",
+      "company": "RRS Group & Co",
+      "title": "2027 Software Engineer Intern Placement Year",
+      "url": "https://jobright.ai/jobs/info/6ac60f850e027c0f3b3b106b",
+      "location": "United States",
+      "datePosted": 1791339797,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1791339650,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a67c2aa872eb74f9eadadad",
       "company": "Tax Relief Advocates",
       "title": "Junior Machine Learning Engineer",
       "url": "https://jobright.ai/jobs/info/6a67c2aa872eb74f9eadadad",
       "location": "Irvine, CA; Newport Beach, CA",
       "datePosted": 1791339552,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac561b8064da25272e16b14",
+      "company": "Leidos",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac561b8064da25272e16b14",
+      "location": "Arlington, VA",
+      "datePosted": 1791339366,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -787,39 +820,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac52da4064da25272e1540c",
-      "company": "Aurora",
-      "title": "Software Engineer, Performance Engineering Optimization",
-      "url": "https://jobright.ai/jobs/info/6ac52da4064da25272e1540c",
-      "location": "Mountain View, CA",
-      "datePosted": 1791298787,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac55154372c01f6cd73908f",
-      "company": "AV",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f",
-      "location": "Moorpark, CA",
-      "datePosted": 1791298746,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac53fc00e027c0f3b3adb9b",
-      "company": "AV",
-      "title": "Software Engineer (EMB) I",
-      "url": "https://jobright.ai/jobs/info/6ac53fc00e027c0f3b3adb9b",
-      "location": "Moorpark, CA",
-      "datePosted": 1791298697,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6293dd37-4fdd-4c11-b3f9-b55360f7b93a",
       "company": "Whoop",
       "title": "Software Engineer 1 - Backend",
@@ -850,7 +850,7 @@
       "datePosted": 1791244800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fbb35820-5f6d-46ad-b912-0db35c744da1",
