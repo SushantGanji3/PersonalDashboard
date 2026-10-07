@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-07T17:50:18Z",
-  "totalOpen": 1229,
-  "totalNewgrad": 263,
+  "generatedAt": "2026-10-07T18:00:20Z",
+  "totalOpen": 1228,
+  "totalNewgrad": 262,
   "totalOther": 966,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac678f1d9621c5b283a8fa0",
+      "company": "Esri",
+      "title": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise",
+      "url": "https://jobright.ai/jobs/info/6ac678f1d9621c5b283a8fa0",
+      "location": "Redlands, CA",
+      "datePosted": 1791366785,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a72950702d93145bf895467",
+      "company": "SpaceX",
+      "title": "Full Stack Engineer (Application Software)",
+      "url": "https://jobright.ai/jobs/info/6a72950702d93145bf895467",
+      "location": "Hawthorne, CA",
+      "datePosted": 1791366680,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac64b724ac55253f5d79635",
+      "company": "BAE Systems",
+      "title": "Software Engineering Intern III, Summer 2027 (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac64b724ac55253f5d79635",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1791366462,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aa9b6a4eff87f571fc9ae36",
       "company": "SpaceX",
@@ -61,15 +94,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa16835500b01124c77c797",
+      "id": "newgrad-jobs:6aa163172f936e4a53dab770",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Product Security Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa16835500b01124c77c797",
+      "url": "https://jobright.ai/jobs/info/6aa163172f936e4a53dab770",
       "location": "Vienna, VA",
       "datePosted": 1791365852,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac671f18ff3fb9b3bc8d21a",
@@ -94,10 +127,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac52cd4064da25272e153be",
+      "id": "newgrad-jobs:6ac5149a4ac55253f5d745c7",
       "company": "Boeing",
       "title": "Embedded Software Engineer - Entry-Level",
-      "url": "https://jobright.ai/jobs/info/6ac52cd4064da25272e153be",
+      "url": "https://jobright.ai/jobs/info/6ac5149a4ac55253f5d745c7",
       "location": "Hazelwood, MO; Berkeley, MO",
       "datePosted": 1791363718,
       "source": "newgrad-jobs",
@@ -237,15 +270,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa996566d0edc2d91b0a61c",
+      "id": "newgrad-jobs:6aa9a46b28e24cb38513b3d3",
       "company": "NOV",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa996566d0edc2d91b0a61c",
+      "url": "https://jobright.ai/jobs/info/6aa9a46b28e24cb38513b3d3",
       "location": "Houston, TX",
       "datePosted": 1791360548,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aab5740c85610f4a4844791",
@@ -270,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9e2a96d0edc2d91b0c400",
+      "id": "newgrad-jobs:6aa9e17a3387a3d9b67d7a48",
       "company": "CesiumAstro",
       "title": "Summer 2027 - Embedded Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6aa9e2a96d0edc2d91b0c400",
+      "url": "https://jobright.ai/jobs/info/6aa9e17a3387a3d9b67d7a48",
       "location": "Austin, TX; Westminster, CO",
       "datePosted": 1791360008,
       "source": "newgrad-jobs",
@@ -377,17 +410,6 @@
       "datePosted": 1791355410,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac64b724ac55253f5d79635",
-      "company": "BAE Systems",
-      "title": "Software Engineering Intern III, Summer 2027 (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ac64b724ac55253f5d79635",
-      "location": "Fort Wayne, IN",
-      "datePosted": 1791355138,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -661,28 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6aaa35d2120c360b6bd4ad87",
       "location": "Torrance, CA",
       "datePosted": 1791347483,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a70f79fe2b7476e7b20c161",
-      "company": "Persona AI",
-      "title": "Autonomy Software Engineering Internship, World Modeling",
-      "url": "https://jobright.ai/jobs/info/6a70f79fe2b7476e7b20c161",
-      "location": "Houston, TX",
-      "datePosted": 1791345494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8c64b9581f2d7bfdfe3458",
-      "company": "MSA - The Safety Company",
-      "title": "Intern: Software Engineer, Product Development (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a8c64b9581f2d7bfdfe3458",
-      "location": "Cranberry Township, PA",
-      "datePosted": 1791345244,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
