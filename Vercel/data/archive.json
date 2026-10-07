@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T10:00:17Z",
+  "generatedAt": "2026-10-07T10:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791355216
+    },
+    {
+      "id": "newgrad-jobs:6a67c2aa872eb74f9eadadad",
+      "company": "Tax Relief Advocates",
+      "title": "Junior Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6a67c2aa872eb74f9eadadad",
+      "location": "Irvine, CA; Newport Beach, CA",
+      "datePosted": 1791339552,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791367816
     },
     {
       "id": "newgrad-jobs:6ac60c9d8ff3fb9b3bc8ba96",
@@ -2014,6 +2025,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791330016
+    },
+    {
+      "id": "simplify:be3d4ee8-4dc8-4c20-bae9-49826174e869",
+      "company": "NVIDIA",
+      "title": "Systems Software Engineer - AI and Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791244800,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791367816
     },
     {
       "id": "newgrad-jobs:6a5550632084cd792b477b8f",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer",
       "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa0fc0d3b5aa83237b0b7f7",
-      "company": "Moog Inc.",
-      "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa0fc0d3b5aa83237b0b7f7",
-      "location": "Mineral Wells, TX",
-      "datePosted": 1788886800,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788970820
-    },
-    {
-      "id": "newgrad-jobs:6aa0fccc5b2d5633ef3c0f2a",
-      "company": "Group One Trading",
-      "title": "Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa0fccc5b2d5633ef3c0f2a",
-      "location": "Chicago, IL",
-      "datePosted": 1788886800,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788970820
     }
   ]
 }
