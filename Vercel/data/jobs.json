@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T16:10:16Z",
-  "totalOpen": 1223,
-  "totalNewgrad": 257,
+  "generatedAt": "2026-10-07T16:20:18Z",
+  "totalOpen": 1224,
+  "totalNewgrad": 258,
   "totalOther": 966,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -17,15 +17,114 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa996566d0edc2d91b0a61c",
+      "id": "newgrad-jobs:6aa17413dbc0e60e37e11592",
+      "company": "IBM",
+      "title": "Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa17413dbc0e60e37e11592",
+      "location": "Poughkeepsie, NY; Rochester, NY; Tucson, AZ; San Jose, CA; Austin, TX; Minnesota, United States",
+      "datePosted": 1791362604,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa989953387a3d9b67d55ca",
+      "company": "EY",
+      "title": "SDC Front End Engineer--Analyst----Raleigh, NC or Dallas, TX",
+      "url": "https://jobright.ai/jobs/info/6aa989953387a3d9b67d55ca",
+      "location": "United States; United Kingdom",
+      "datePosted": 1791362400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa07486500b01124c7792ac",
+      "company": "IBM",
+      "title": "Software Test Developer-Intern",
+      "url": "https://jobright.ai/jobs/info/6aa07486500b01124c7792ac",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1791362258,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9577f6d0edc2d91b091e2",
+      "company": "York Space Systems",
+      "title": "Ground Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa9577f6d0edc2d91b091e2",
+      "location": "Greenwood Village, CO",
+      "datePosted": 1791361956,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6657d0e027c0f3b3b22ae",
+      "company": "Seagate Technology",
+      "title": "Embedded Software Engineer (Bachelor's Level, Early Career)",
+      "url": "https://jobright.ai/jobs/info/6ac6657d0e027c0f3b3b22ae",
+      "location": "Longmont, CO; Shakopee, MN",
+      "datePosted": 1791361805,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa05bd35b2d5633ef3be1cb",
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie",
+      "url": "https://jobright.ai/jobs/info/6aa05bd35b2d5633ef3be1cb",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1791361782,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa05a085b2d5633ef3be121",
+      "company": "IBM",
+      "title": "Firmware Developer Intern - Poughkeepsie - 2027",
+      "url": "https://jobright.ai/jobs/info/6aa05a085b2d5633ef3be121",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1791361144,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa05a8e5b2d5633ef3be170",
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin",
+      "url": "https://jobright.ai/jobs/info/6aa05a8e5b2d5633ef3be170",
+      "location": "Austin, TX",
+      "datePosted": 1791361003,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa05930dbc0e60e37e0d120",
+      "company": "IBM",
+      "title": "Back End Developer Intern 2027 - RTP",
+      "url": "https://jobright.ai/jobs/info/6aa05930dbc0e60e37e0d120",
+      "location": "Durham, NC",
+      "datePosted": 1791360870,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aaa08b66d0edc2d91b0d3a0",
       "company": "NOV",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa996566d0edc2d91b0a61c",
+      "url": "https://jobright.ai/jobs/info/6aaa08b66d0edc2d91b0d3a0",
       "location": "Houston, TX",
       "datePosted": 1791360548,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aab5740c85610f4a4844791",
@@ -69,17 +168,6 @@
       "datePosted": 1791359031,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac65887d9621c5b283a854f",
-      "company": "Elevated Web Design",
-      "title": "Backend Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6ac65887d9621c5b283a854f",
-      "location": "United States",
-      "datePosted": 1791358487,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -402,10 +490,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1791349310,
       "source": "newgrad-jobs",
@@ -501,10 +589,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
+      "id": "newgrad-jobs:6aa9b81aeff87f571fc9af06",
       "company": "Q2",
       "title": "2027 Summer Internship - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
+      "url": "https://jobright.ai/jobs/info/6aa9b81aeff87f571fc9af06",
       "location": "Austin, TX; Cary, NC",
       "datePosted": 1791344876,
       "source": "newgrad-jobs",
@@ -600,94 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8c93c8d34f700f87fd16ca",
-      "company": "Springs Window Fashions",
-      "title": "Software Engineering Internship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a8c93c8d34f700f87fd16ca",
-      "location": "Long Island City, NY",
-      "datePosted": 1791341868,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe8db1064da25272e01750",
-      "company": "Freddie Mac",
-      "title": "Single-Family Software Developer Intern- Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abe8db1064da25272e01750",
-      "location": "McLean, VA",
-      "datePosted": 1791341340,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac553f7064da25272e164b3",
-      "company": "Deloitte",
-      "title": "Cyber Full-Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac553f7064da25272e164b3",
-      "location": "Greater Cleveland, United States",
-      "datePosted": 1791341254,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
-      "company": "Booz Allen Hamilton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
-      "location": "Beavercreek, OH",
-      "datePosted": 1791341062,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3f1188ff3fb9b3bc831b0",
-      "company": "Booz Allen Hamilton",
-      "title": "Back End Developer",
-      "url": "https://jobright.ai/jobs/info/6ac3f1188ff3fb9b3bc831b0",
-      "location": "McLean, VA; Fort Belvoir, VA",
-      "datePosted": 1791339805,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac60f850e027c0f3b3b106b",
-      "company": "RRS Group & Co",
-      "title": "2027 Software Engineer Intern Placement Year",
-      "url": "https://jobright.ai/jobs/info/6ac60f850e027c0f3b3b106b",
-      "location": "United States",
-      "datePosted": 1791339797,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a67c2aa872eb74f9eadadad",
-      "company": "Tax Relief Advocates",
-      "title": "Junior Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a67c2aa872eb74f9eadadad",
-      "location": "Irvine, CA; Newport Beach, CA",
-      "datePosted": 1791339552,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac60c9d8ff3fb9b3bc8ba96",
-      "company": "Capgemini",
-      "title": "Junior Frontend Developer Job Details | Capgemini",
-      "url": "https://jobright.ai/jobs/info/6ac60c9d8ff3fb9b3bc8ba96",
-      "location": "Atlanta, GA",
-      "datePosted": 1791339053,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
       "company": "Akuna Capital",
       "title": "Entry-Level C++ Software Engineer Intern",
@@ -729,7 +729,7 @@
       "datePosted": 1791331200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
