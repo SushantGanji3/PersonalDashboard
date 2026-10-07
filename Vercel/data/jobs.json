@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-07T16:00:21Z",
-  "totalOpen": 1222,
+  "generatedAt": "2026-10-07T16:10:16Z",
+  "totalOpen": 1223,
   "totalNewgrad": 257,
-  "totalOther": 965,
+  "totalOther": 966,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -47,7 +47,7 @@
       "datePosted": 1791360028,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa9e2a96d0edc2d91b0c400",
@@ -721,6 +721,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:78a00951-890f-474e-94ee-6e0cc1a2b9f7",
+      "company": "Northrop Grumman",
+      "title": "Software Developer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+      "location": "Chantilly, VA",
+      "datePosted": 1791331200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
       "company": "Pure Storage",
       "title": "Software Engineer New Grad",
@@ -1310,17 +1321,6 @@
       "url": "https://careers.rivian.com/jobs/33820?icims=1",
       "location": "Palo Alto, CA",
       "datePosted": 1790806532,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:cea6352a-da56-4d24-a4d4-4a5f5833eeec",
-      "company": "Oracle",
-      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357",
-      "location": "Nashville, TN",
-      "datePosted": 1790806019,
       "source": "aggregator",
       "season": null,
       "isNew": false
