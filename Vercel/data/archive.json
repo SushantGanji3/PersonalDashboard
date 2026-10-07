@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:40:16Z",
+  "generatedAt": "2026-10-07T06:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791337251
+    },
+    {
+      "id": "newgrad-jobs:6ac5df94064da25272e18989",
+      "company": "youbloom",
+      "title": "Laravel Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5df94064da25272e18989",
+      "location": "United States",
+      "datePosted": 1791327524,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791355816
     },
     {
       "id": "newgrad-jobs:6ac5d8fe4ac55253f5d78526",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Winter 2027",
       "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a9c361dc1d6f91bc3883f65",
-      "company": "Barclays Bank US",
-      "title": "2027 Technology Developer Summer Internship Program Wilmington",
-      "url": "https://jobright.ai/jobs/info/6a9c361dc1d6f91bc3883f65",
-      "location": "Wilmington, DE",
-      "datePosted": 1788886021,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1788970820
     }
   ]
 }
