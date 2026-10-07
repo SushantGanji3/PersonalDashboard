@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-07T06:00:17Z",
-  "totalOpen": 1221,
+  "generatedAt": "2026-10-07T06:10:15Z",
+  "totalOpen": 1220,
   "totalNewgrad": 258,
-  "totalOther": 963,
+  "totalOther": 962,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -146,7 +146,7 @@
       "datePosted": 1791323119,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac5cb174ac55253f5d78277",
@@ -1227,17 +1227,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:363f7dd7-e0e6-4d7c-ac40-d5bd75bc50e3",
-      "company": "RTX",
-      "title": "Flight Control Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1790812800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:aeab4fea-e485-4034-9b78-77335cbd2a83",
       "company": "Qualcomm",
       "title": "Verification Software Engineer - ASICS Engineering",
@@ -1321,6 +1310,17 @@
       "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false",
       "location": "Middletown, RI",
       "datePosted": 1790777853,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:b5e54246-5cf1-4854-8ea2-77816df0b012",
+      "company": "Tesla",
+      "title": "Embedded Software Engineer Intern - Silicon Development",
+      "url": "https://www.tesla.com/careers/search/job/285084",
+      "location": "Palo Alto, CA",
+      "datePosted": 1790731087,
       "source": "aggregator",
       "season": null,
       "isNew": false
