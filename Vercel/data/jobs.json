@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T02:10:17Z",
-  "totalOpen": 1227,
-  "totalNewgrad": 264,
+  "generatedAt": "2026-10-07T02:20:17Z",
+  "totalOpen": 1226,
+  "totalNewgrad": 263,
   "totalOther": 963,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791337377,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5d67cf04-fc5c-491b-9cb4-99484583ff17",
@@ -134,6 +134,50 @@
       "location": "Bloomington, MN",
       "datePosted": 1791325046,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac598a74ac55253f5d77614",
+      "company": "Elevated Web Design",
+      "title": "App Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ac598a74ac55253f5d77614",
+      "location": "United States",
+      "datePosted": 1791309367,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac580708ff3fb9b3bc8a1d7",
+      "company": "Cloudflare",
+      "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac580708ff3fb9b3bc8a1d7",
+      "location": "Austin, TX",
+      "datePosted": 1791308845,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac562d2064da25272e16b96",
+      "company": "Cook Medical",
+      "title": "Intern, Applied AI & Full Stack Development",
+      "url": "https://jobright.ai/jobs/info/6ac562d2064da25272e16b96",
+      "location": "United States",
+      "datePosted": 1791308789,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac556080e027c0f3b3ae6b5",
+      "company": "KnowBe4",
+      "title": "Software Engineer Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6ac556080e027c0f3b3ae6b5",
+      "location": "Clearwater, FL",
+      "datePosted": 1791308561,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -322,17 +366,6 @@
       "datePosted": 1791303488,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac580708ff3fb9b3bc8a1d7",
-      "company": "Cloudflare",
-      "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac580708ff3fb9b3bc8a1d7",
-      "location": "Austin, TX",
-      "datePosted": 1791303168,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -732,39 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac5273f372c01f6cd737e46",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac5273f372c01f6cd737e46",
-      "location": "Morrisville, NC",
-      "datePosted": 1791296387,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac53e920e027c0f3b3adb38",
-      "company": "Leidos",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac53e920e027c0f3b3adb38",
-      "location": "Arlington, VA",
-      "datePosted": 1791296375,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac517c50e027c0f3b3acc49",
-      "company": "RTX",
-      "title": "Software Engineer Co-op (January 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac517c50e027c0f3b3acc49",
-      "location": "Marlborough, MA; Tewksbury, MA",
-      "datePosted": 1791296372,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a59409bc8e3a473cb8a5edd",
       "company": "Primefocus Health",
       "title": "Software Engineer - Solutions",
@@ -787,12 +787,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac562d2064da25272e16b96",
-      "company": "Cook Medical",
-      "title": "Intern, Applied AI & Full Stack Development",
-      "url": "https://jobright.ai/jobs/info/6ac562d2064da25272e16b96",
-      "location": "United States",
-      "datePosted": 1791295586,
+      "id": "newgrad-jobs:6a4a63e6f9cbb100d1ab4a1e",
+      "company": "Seven Research, LLC",
+      "title": "Deep Learning Researcher - Intern",
+      "url": "https://jobright.ai/jobs/info/6a4a63e6f9cbb100d1ab4a1e",
+      "location": "New York, NY",
+      "datePosted": 1791294862,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -949,7 +949,7 @@
       "datePosted": 1790990823,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",

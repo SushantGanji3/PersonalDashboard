@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T02:10:17Z",
+  "generatedAt": "2026-10-07T02:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ac598a74ac55253f5d77614",
+      "company": "Elevated Web Design",
+      "title": "App Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ac598a74ac55253f5d77614",
+      "location": "United States",
+      "datePosted": 1791309367,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791339617
     },
     {
       "id": "newgrad-jobs:6aa03d56dbc0e60e37e0c46e",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa08bc1ea127c3794697c67",
-      "company": "Coinbase",
-      "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa08bc1ea127c3794697c67",
-      "location": "San Francisco, CA; United States",
-      "datePosted": 1788881233,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789168817
     }
   ]
 }
