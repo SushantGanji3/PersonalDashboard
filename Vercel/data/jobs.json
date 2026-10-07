@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T21:40:15Z",
-  "totalOpen": 1232,
-  "totalNewgrad": 270,
+  "generatedAt": "2026-10-07T21:50:18Z",
+  "totalOpen": 1231,
+  "totalNewgrad": 269,
   "totalOther": 962,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791381720,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
@@ -36,7 +36,7 @@
       "datePosted": 1791381532,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6b1618ff3fb9b3bc8e979",
@@ -47,6 +47,17 @@
       "datePosted": 1791381233,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6ab6d372c01f6cd73e7c3",
+      "company": "nou Systems, Inc.",
+      "title": "Junior AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac6ab6d372c01f6cd73e7c3",
+      "location": "Colorado Springs, CO; Huntsville, AL; Boston, MA; Lexington, MA",
+      "datePosted": 1791381057,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -474,17 +485,6 @@
       "url": "https://jobright.ai/jobs/info/6a8da5a2d34f700f87fd4f60",
       "location": "Tysons, VA",
       "datePosted": 1791373696,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac691bfd9621c5b283a989f",
-      "company": "Carter Machinery",
-      "title": "FULL STACK DEVELOPER",
-      "url": "https://jobright.ai/jobs/info/6ac691bfd9621c5b283a989f",
-      "location": "Mechanicsville, VA; Richmond, VA",
-      "datePosted": 1791373135,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
