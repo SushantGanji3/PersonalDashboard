@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T03:10:18Z",
+  "generatedAt": "2026-10-07T03:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ac5aa25372c01f6cd73ae4a",
+      "company": "Amazon",
+      "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6ac5aa25372c01f6cd73ae4a",
+      "location": "Redmond, WA; Los Angeles, CA; Sunnyvale, CA; San Diego, CA; Santa Monica, CA; Seattle, WA",
+      "datePosted": 1791313845,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791343216
+    },
+    {
+      "id": "newgrad-jobs:6ac5a7fa0e027c0f3b3afc72",
+      "company": "Sigma",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac5a7fa0e027c0f3b3afc72",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1791313290,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791343216
     },
     {
       "id": "newgrad-jobs:6ac58099d9621c5b283a5b8c",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788970820
-    },
-    {
-      "id": "newgrad-jobs:6aa046a95b2d5633ef3bd9d7",
-      "company": "Semgrep",
-      "title": "Software Engineer Intern, Cloud Platform",
-      "url": "https://jobright.ai/jobs/info/6aa046a95b2d5633ef3bd9d7",
-      "location": "San Francisco, CA",
-      "datePosted": 1788882681,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa04eee500b01124c7782b0",
-      "company": "Red Alpha",
-      "title": "Junior Systems Engineer (1 day telework/week, TS/SCI with Polygraph required)",
-      "url": "https://jobright.ai/jobs/info/6aa04eee500b01124c7782b0",
-      "location": "Columbia, MD",
-      "datePosted": 1788881816,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
     }
   ]
 }
