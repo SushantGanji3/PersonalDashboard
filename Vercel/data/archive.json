@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:10:15Z",
+  "generatedAt": "2026-10-07T06:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791337251
+    },
+    {
+      "id": "newgrad-jobs:6ac5d87bd9621c5b283a6ffe",
+      "company": "Todd",
+      "title": "Backend Developer Intern (Fall '26)",
+      "url": "https://jobright.ai/jobs/info/6ac5d87bd9621c5b283a6ffe",
+      "location": "United States",
+      "datePosted": 1791325707,
+      "source": "newgrad-jobs",
+      "season": "Fall",
+      "firstSeenAt": 1791354016
     },
     {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
@@ -133,6 +144,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ac59d50064da25272e17aee",
+      "company": "F5",
+      "title": "Software Development Engineer Intern (San Jose, CA)",
+      "url": "https://jobright.ai/jobs/info/6ac59d50064da25272e17aee",
+      "location": "San Jose, CA",
+      "datePosted": 1791323937,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791354016
     },
     {
       "id": "newgrad-jobs:6ac5ce5f372c01f6cd73b41b",
@@ -54978,28 +55000,6 @@
       "datePosted": 1788885916,
       "source": "newgrad-jobs",
       "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a59eafa856af468ab005b0b",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026",
-      "url": "https://jobright.ai/jobs/info/6a59eafa856af468ab005b0b",
-      "location": "Palo Alto, CA; Irvine, CA",
-      "datePosted": 1788885916,
-      "source": "newgrad-jobs",
-      "season": "Summer 2026",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a58e71fc8e3a473cb8a3a94",
-      "company": "Rivian",
-      "title": "Software Engineering Intern, Vehicle Controls - Summer 2026",
-      "url": "https://jobright.ai/jobs/info/6a58e71fc8e3a473cb8a3a94",
-      "location": "Palo Alto, CA; Irvine, CA",
-      "datePosted": 1788885668,
-      "source": "newgrad-jobs",
-      "season": "Summer 2026",
       "firstSeenAt": 1788951625
     }
   ]

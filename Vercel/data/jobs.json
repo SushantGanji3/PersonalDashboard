@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T06:10:15Z",
-  "totalOpen": 1220,
-  "totalNewgrad": 258,
+  "generatedAt": "2026-10-07T06:20:16Z",
+  "totalOpen": 1223,
+  "totalNewgrad": 261,
   "totalOther": 962,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -37,6 +37,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5d87bd9621c5b283a6ffe",
+      "company": "Todd",
+      "title": "Backend Developer Intern (Fall '26)",
+      "url": "https://jobright.ai/jobs/info/6ac5d87bd9621c5b283a6ffe",
+      "location": "United States",
+      "datePosted": 1791325707,
+      "source": "newgrad-jobs",
+      "season": "Fall",
+      "isNew": true
     },
     {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
@@ -136,6 +147,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac59d50064da25272e17aee",
+      "company": "F5",
+      "title": "Software Development Engineer Intern (San Jose, CA)",
+      "url": "https://jobright.ai/jobs/info/6ac59d50064da25272e17aee",
+      "location": "San Jose, CA",
+      "datePosted": 1791323937,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac5ce5f372c01f6cd73b41b",
@@ -773,28 +795,6 @@
       "datePosted": 1791298157,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
-      "company": "Meta AI",
-      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abaac6cee0b348be729ad33",
-      "location": "Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1791298157,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe9bcc372c01f6cd724925",
-      "company": "Glean",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abe9bcc372c01f6cd724925",
-      "location": "Mountain View, CA; San Francisco, CA",
-      "datePosted": 1791298157,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
