@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T15:50:17Z",
-  "totalOpen": 1223,
-  "totalNewgrad": 258,
+  "generatedAt": "2026-10-07T16:00:21Z",
+  "totalOpen": 1222,
+  "totalNewgrad": 257,
   "totalOther": 965,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1791360548,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aab5740c85610f4a4844791",
@@ -34,6 +34,17 @@
       "url": "https://jobright.ai/jobs/info/6aab5740c85610f4a4844791",
       "location": "Durham, NC",
       "datePosted": 1791360453,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a52af448576ec69c014cff4",
+      "company": "Spatial Front, Inc",
+      "title": "Associate Software Developer \u2014 Recent Graduates",
+      "url": "https://jobright.ai/jobs/info/6a52af448576ec69c014cff4",
+      "location": "Arlington, VA",
+      "datePosted": 1791360028,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -47,7 +58,7 @@
       "datePosted": 1791360008,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8df844cc0cf270685265e4",
@@ -58,7 +69,7 @@
       "datePosted": 1791359031,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac65887d9621c5b283a854f",
@@ -69,7 +80,7 @@
       "datePosted": 1791358487,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac65641d9621c5b283a847f",
@@ -672,17 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6ac60c9d8ff3fb9b3bc8ba96",
       "location": "Atlanta, GA",
       "datePosted": 1791339053,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac60c8c0e027c0f3b3b0faa",
-      "company": "Capgemini",
-      "title": "Salesforce Developer Job Details | Capgemini",
-      "url": "https://jobright.ai/jobs/info/6ac60c8c0e027c0f3b3b0faa",
-      "location": "Irving, TX",
-      "datePosted": 1791339036,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
