@@ -1,20 +1,75 @@
 {
-  "generatedAt": "2026-10-07T22:30:19Z",
-  "totalOpen": 1234,
+  "generatedAt": "2026-10-07T22:40:15Z",
+  "totalOpen": 1236,
   "totalNewgrad": 272,
-  "totalOther": 962,
+  "totalOther": 964,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:f3b1a57c-3417-445f-a783-33548934141a",
+      "company": "L3Harris",
+      "title": "Associate Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1437963000/?ats=successfactors",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1791410998,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6be3d372c01f6cd73edf5",
+      "company": "IXL Learning",
+      "title": "Software Engineer, Intern",
+      "url": "https://jobright.ai/jobs/info/6ac6be3d372c01f6cd73edf5",
+      "location": "San Mateo, CA",
+      "datePosted": 1791384525,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6b12a372c01f6cd73e9e7",
+      "company": "AV",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac6b12a372c01f6cd73e9e7",
+      "location": "Petaluma, CA",
+      "datePosted": 1791384226,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa1ca270ffb3d4fea6b725d",
+      "company": "Pacific Fusion",
+      "title": "Summer 2027 Internship- Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6aa1ca270ffb3d4fea6b725d",
+      "location": "San Leandro, CA; Fremont, CA; Los Lunas, NM",
+      "datePosted": 1791384101,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6a518372c01f6cd73e5cc",
+      "company": "Dow Jones",
+      "title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac6a518372c01f6cd73e5cc",
+      "location": "New York, NY",
+      "datePosted": 1791384050,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
       "company": "Accenture Federal Services",
       "title": "ServiceNow Developer",
       "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
       "location": "Fort Belvoir, VA",
-      "datePosted": 1791383327,
+      "datePosted": 1791383350,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4ccf0bc643fd23fed3aecc",
@@ -36,7 +91,7 @@
       "datePosted": 1791382975,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac66a720e027c0f3b3b23c9",
@@ -47,7 +102,7 @@
       "datePosted": 1791382794,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6a51b0e027c0f3b3b3964",
@@ -58,7 +113,7 @@
       "datePosted": 1791382778,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6b09bd9621c5b283aa3a2",
@@ -69,7 +124,7 @@
       "datePosted": 1791382761,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6b042064da25272e1bd4d",
@@ -80,7 +135,7 @@
       "datePosted": 1791382753,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6b6c2372c01f6cd73ec09",
@@ -534,17 +589,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac69168d9621c5b283a984e",
-      "company": "Echo Global Logistics",
-      "title": "Software Engineering Intern- Chicago",
-      "url": "https://jobright.ai/jobs/info/6ac69168d9621c5b283a984e",
-      "location": "Chicago, IL",
-      "datePosted": 1791374652,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abd5f5c8ff3fb9b3bc70405",
       "company": "ECS",
       "title": "Data Engineer",
@@ -633,39 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac676354ac55253f5d7a3b6",
-      "company": "MAHLE",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac676354ac55253f5d7a3b6",
-      "location": "Lockport, NY",
-      "datePosted": 1791371459,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb1b88d2914e9273eef95c",
-      "company": "MITRE",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abb1b88d2914e9273eef95c",
-      "location": "McLean, VA",
-      "datePosted": 1791371149,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
-      "company": "Spotify",
-      "title": "Research Scientist - Generative Audio",
-      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
-      "location": "United States",
-      "datePosted": 1791371025,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:7ef78771-a2e4-4642-88ef-6a719ad563eb",
       "company": "L3Harris",
       "title": "Associate Systems Engineer",
@@ -730,6 +741,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:bcda5eeb-196c-4f8a-a46a-519f22b3a082",
+      "company": "Mastercard",
+      "title": "Data Engineer Intern",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993",
+      "location": "SF",
+      "datePosted": 1791331200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
@@ -1299,28 +1321,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8241260",
       "location": "Seattle, WA, SF",
       "datePosted": 1790806682,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
-      "company": "Rivian",
-      "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
-      "url": "https://careers.rivian.com/jobs/33874?icims=1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790806533,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:04e00d36-839d-4f8d-bad8-082a70f7c73e",
-      "company": "Rivian",
-      "title": "Engineering Intern Co-op - Machine Learning Hardware",
-      "url": "https://careers.rivian.com/jobs/33820?icims=1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790806532,
       "source": "aggregator",
       "season": null,
       "isNew": false
