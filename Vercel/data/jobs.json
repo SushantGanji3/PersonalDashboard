@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-07T22:20:16Z",
-  "totalOpen": 1232,
-  "totalNewgrad": 270,
+  "generatedAt": "2026-10-07T22:30:19Z",
+  "totalOpen": 1234,
+  "totalNewgrad": 272,
   "totalOther": 962,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
+      "company": "Accenture Federal Services",
+      "title": "ServiceNow Developer",
+      "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
+      "location": "Fort Belvoir, VA",
+      "datePosted": 1791383327,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a4ccf0bc643fd23fed3aecc",
       "company": "Oratomic",
@@ -14,6 +25,61 @@
       "datePosted": 1791383101,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6935cd9621c5b283a997e",
+      "company": "PayPal",
+      "title": "Software Engineer - Android",
+      "url": "https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e",
+      "location": "San Jose, CA; Austin, TX",
+      "datePosted": 1791382975,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac66a720e027c0f3b3b23c9",
+      "company": "RTX",
+      "title": "Embedded Software Developer I  (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac66a720e027c0f3b3b23c9",
+      "location": "El Segundo, CA",
+      "datePosted": 1791382794,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6a51b0e027c0f3b3b3964",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Summer /Fall 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac6a51b0e027c0f3b3b3964",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791382778,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6b09bd9621c5b283aa3a2",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac6b09bd9621c5b283aa3a2",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791382761,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6b042064da25272e1bd4d",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Summer/Fall 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac6b042064da25272e1bd4d",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791382753,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
       "isNew": true
     },
     {
@@ -25,7 +91,18 @@
       "datePosted": 1791382610,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6ac0cd9621c5b283aa1e1",
+      "company": "State Affairs",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac6ac0cd9621c5b283aa1e1",
+      "location": "Washington, DC",
+      "datePosted": 1791382090,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e2d3575edfa11b47106fd",
@@ -77,7 +154,7 @@
       "title": "Junior AI Engineer",
       "url": "https://jobright.ai/jobs/info/6ac6ab6d372c01f6cd73e7c3",
       "location": "Colorado Springs, CO; Huntsville, AL; Boston, MA; Lexington, MA",
-      "datePosted": 1791381057,
+      "datePosted": 1791381108,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -221,17 +298,6 @@
       "url": "https://jobright.ai/jobs/info/6aa1bcd0dbc0e60e37e13491",
       "location": "Chicago, IL",
       "datePosted": 1791380341,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6ac0cd9621c5b283aa1e1",
-      "company": "State Affairs",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac6ac0cd9621c5b283aa1e1",
-      "location": "Washington, DC",
-      "datePosted": 1791379868,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -490,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab40f40ef911c35dffa3198",
+      "id": "newgrad-jobs:6ab419f40e0ae54eeea46a56",
       "company": "Sonos, Inc.",
       "title": "Software Engineering Co-op (Cloud)",
-      "url": "https://jobright.ai/jobs/info/6ab40f40ef911c35dffa3198",
+      "url": "https://jobright.ai/jobs/info/6ab419f40e0ae54eeea46a56",
       "location": "Boston, MA",
       "datePosted": 1791374151,
       "source": "newgrad-jobs",
@@ -595,72 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
       "location": "United States",
       "datePosted": 1791371025,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8e149ecc0cf27068527092",
-      "company": "Honeywell Technologies",
-      "title": "Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)",
-      "url": "https://jobright.ai/jobs/info/6a8e149ecc0cf27068527092",
-      "location": "United States",
-      "datePosted": 1791369655,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8e14c4cc0cf270685270a8",
-      "company": "Honeywell Technologies",
-      "title": "Software Engineer & Computer Science - Summer 2027 Intern",
-      "url": "https://jobright.ai/jobs/info/6a8e14c4cc0cf270685270a8",
-      "location": "United States",
-      "datePosted": 1791369655,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac683854ac55253f5d7a8c3",
-      "company": "Persona",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac683854ac55253f5d7a8c3",
-      "location": "San Francisco, CA",
-      "datePosted": 1791369493,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaa16ff3387a3d9b67d8fa7",
-      "company": "Analog Devices",
-      "title": "AI/ML Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aaa16ff3387a3d9b67d8fa7",
-      "location": "Wilmington, MA; San Jose, CA",
-      "datePosted": 1791369393,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac60c6b0e027c0f3b3b0f8d",
-      "company": "Capgemini",
-      "title": "Data Scientist Job Details | Capgemini",
-      "url": "https://jobright.ai/jobs/info/6ac60c6b0e027c0f3b3b0f8d",
-      "location": "Houston, TX",
-      "datePosted": 1791369278,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a0f822183d7144289821054",
-      "company": "Ivo",
-      "title": "Software Engineer, Fullstack",
-      "url": "https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "location": "San Francisco, CA",
-      "datePosted": 1791368601,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
