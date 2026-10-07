@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:20:16Z",
+  "generatedAt": "2026-10-07T05:30:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ac5cb174ac55253f5d78277",
+      "company": "Siemens EDA (Siemens Digital Industries Software)",
+      "title": "Software Engineer - C++ / Compiler",
+      "url": "https://jobright.ai/jobs/info/6ac5cb174ac55253f5d78277",
+      "location": "Burlington, MA",
+      "datePosted": 1791322279,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791351017
+    },
+    {
+      "id": "newgrad-jobs:6ac5caef8ff3fb9b3bc8b24d",
+      "company": "Apple",
+      "title": "Software Engineer, Siri User Experiences",
+      "url": "https://jobright.ai/jobs/info/6ac5caef8ff3fb9b3bc8b24d",
+      "location": "Cupertino, CA",
+      "datePosted": 1791322239,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791351017
     },
     {
       "id": "newgrad-jobs:6ac5c1e1372c01f6cd73b193",
@@ -54978,28 +55000,6 @@
       "datePosted": 1788885211,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
-      "company": "The Nuclear Company",
-      "title": "Spring 2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f",
-      "location": "Washington, DC",
-      "datePosted": 1788885108,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
-      "company": "Virtu Financial",
-      "title": "Software Engineer - Desktop Frontend Developer (C#/Winforms)",
-      "url": "https://jobright.ai/jobs/info/6a51d234bf63b66c7997d7d9",
-      "location": "New York, NY",
-      "datePosted": 1788885022,
-      "source": "newgrad-jobs",
-      "season": null,
       "firstSeenAt": 1788951625
     }
   ]
