@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-10-07T17:10:17Z",
-  "totalOpen": 1224,
-  "totalNewgrad": 258,
+  "generatedAt": "2026-10-07T17:20:16Z",
+  "totalOpen": 1230,
+  "totalNewgrad": 264,
   "totalOther": 966,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa9b6a4eff87f571fc9ae36",
+      "company": "SpaceX",
+      "title": "Software Engineer, C++ - Top Secret Clearance",
+      "url": "https://jobright.ai/jobs/info/6aa9b6a4eff87f571fc9ae36",
+      "location": "Hawthorne, CA",
+      "datePosted": 1791366055,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa9d9466d0edc2d91b0bfb8",
+      "company": "SpaceX",
+      "title": "Software Engineer, Internal Applications",
+      "url": "https://jobright.ai/jobs/info/6aa9d9466d0edc2d91b0bfb8",
+      "location": "Hawthorne, CA",
+      "datePosted": 1791366039,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a96c059246d697dcee01226",
+      "company": "SRC",
+      "title": "Machine Learning Engineer (Intern - Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a96c059246d697dcee01226",
+      "location": "Syracuse, NY; Fairborn, OH",
+      "datePosted": 1791365996,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac65641d9621c5b283a847f",
+      "company": "S&C Electric Company",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac65641d9621c5b283a847f",
+      "location": "Chicago, IL",
+      "datePosted": 1791365966,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac670580e027c0f3b3b25d3",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac670580e027c0f3b3b25d3",
+      "location": "O'Fallon, MO",
+      "datePosted": 1791365935,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa16835500b01124c77c797",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa16835500b01124c77c797",
+      "location": "Vienna, VA",
+      "datePosted": 1791365852,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac671f18ff3fb9b3bc8d21a",
+      "company": "OPENDataJobs",
+      "title": "Junior Data Engineer (SQL)",
+      "url": "https://jobright.ai/jobs/info/6ac671f18ff3fb9b3bc8d21a",
+      "location": "Washington, DC; Washington, DC metropolitan area",
+      "datePosted": 1791364993,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:7ef78771-a2e4-4642-88ef-6a719ad563eb",
       "company": "L3Harris",
@@ -13,6 +90,17 @@
       "location": "Waco, TX",
       "datePosted": 1791364025,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac52cd4064da25272e153be",
+      "company": "Boeing",
+      "title": "Embedded Software Engineer - Entry-Level",
+      "url": "https://jobright.ai/jobs/info/6ac52cd4064da25272e153be",
+      "location": "Hazelwood, MO; Berkeley, MO",
+      "datePosted": 1791363718,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -39,23 +127,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abadca43db4ca81fc7c4f8d",
+      "id": "newgrad-jobs:6ac5690b372c01f6cd7399be",
       "company": "Boeing",
       "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d",
-      "location": "Hazelwood, MO",
+      "url": "https://jobright.ai/jobs/info/6ac5690b372c01f6cd7399be",
+      "location": "Heath, OH",
       "datePosted": 1791362940,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac52cd4064da25272e153be",
-      "company": "Boeing",
-      "title": "Embedded Software Engineer - Entry-Level",
-      "url": "https://jobright.ai/jobs/info/6ac52cd4064da25272e153be",
-      "location": "Hazelwood, MO; Berkeley, MO",
-      "datePosted": 1791362880,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -193,10 +270,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9e17a3387a3d9b67d7a48",
+      "id": "newgrad-jobs:6aa9e2a96d0edc2d91b0c400",
       "company": "CesiumAstro",
       "title": "Summer 2027 - Embedded Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6aa9e17a3387a3d9b67d7a48",
+      "url": "https://jobright.ai/jobs/info/6aa9e2a96d0edc2d91b0c400",
       "location": "Austin, TX; Westminster, CO",
       "datePosted": 1791360008,
       "source": "newgrad-jobs",
@@ -212,17 +289,6 @@
       "datePosted": 1791359031,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac65641d9621c5b283a847f",
-      "company": "S&C Electric Company",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac65641d9621c5b283a847f",
-      "location": "Chicago, IL",
-      "datePosted": 1791357905,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -617,72 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a8c64b9581f2d7bfdfe3458",
       "location": "Cranberry Township, PA",
       "datePosted": 1791345244,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a71023dee751e0c793420a1",
-      "company": "Bart & Associates, Inc.",
-      "title": "Application Developer/Programmer",
-      "url": "https://jobright.ai/jobs/info/6a71023dee751e0c793420a1",
-      "location": "Alexandria, VA",
-      "datePosted": 1791344932,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
-      "company": "Q2",
-      "title": "2027 Summer Internship - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
-      "location": "Austin, TX; Cary, NC",
-      "datePosted": 1791344876,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa2003fef23570cae247442",
-      "company": "Westinghouse Electric Company",
-      "title": "Summer Intern -Computer Engineering / Software Engineering Job Details | Westinghouse Electric Company, LLC",
-      "url": "https://jobright.ai/jobs/info/6aa2003fef23570cae247442",
-      "location": "Cranberry Township, PA; Warrendale, PA; Blairsville, PA; New Stanton, PA",
-      "datePosted": 1791344440,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a52e7dc9fbdab22fe13d88e",
-      "company": "DRW",
-      "title": "Research Engineer (Options)",
-      "url": "https://jobright.ai/jobs/info/6a52e7dc9fbdab22fe13d88e",
-      "location": "Chicago, IL",
-      "datePosted": 1791344401,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a71a4079a0ca4480c7d4ee7",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok-Intelligent Creation-Camera) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a4079a0ca4480c7d4ee7",
-      "location": "San Jose, CA",
-      "datePosted": 1791343805,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9b7033387a3d9b67d646f",
-      "company": "Q2",
-      "title": "2027 Summer Internship - Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa9b7033387a3d9b67d646f",
-      "location": "Austin, TX",
-      "datePosted": 1791343449,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
