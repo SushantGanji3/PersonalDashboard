@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T10:30:20Z",
-  "totalOpen": 1216,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-10-07T10:40:16Z",
+  "totalOpen": 1215,
+  "totalNewgrad": 250,
   "totalOther": 965,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,28 @@
       "datePosted": 1791353230,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac54a344ac55253f5d75c3d",
+      "company": "Overland AI",
+      "title": "Internship - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6ac54a344ac55253f5d75c3d",
+      "location": "Seattle, WA",
+      "datePosted": 1791342109,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8c93c8d34f700f87fd16ca",
+      "company": "Springs Window Fashions",
+      "title": "Software Engineering Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a8c93c8d34f700f87fd16ca",
+      "location": "Long Island City, NY",
+      "datePosted": 1791341868,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -765,17 +787,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab30c54326574570a004bb7",
-      "company": "Astranis Space Technologies",
-      "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab30c54326574570a004bb7",
-      "location": "San Francisco, CA",
-      "datePosted": 1791303488,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab2eeba78c69ff506c41382",
       "company": "CyberProof",
       "title": "Junior Full Stack Developer",
@@ -793,17 +804,6 @@
       "url": "https://jobright.ai/jobs/info/6ac57b664ac55253f5d77011",
       "location": "Bethpage, NY",
       "datePosted": 1791302932,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac57b4fd9621c5b283a5a84",
-      "company": "F5",
-      "title": "Software Development Engineer Intern (Seattle, WA)",
-      "url": "https://jobright.ai/jobs/info/6ac57b4fd9621c5b283a5a84",
-      "location": "Seattle, WA",
-      "datePosted": 1791301855,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
