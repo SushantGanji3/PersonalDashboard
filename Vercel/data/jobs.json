@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:10:16Z",
+  "generatedAt": "2026-10-07T04:20:17Z",
   "totalOpen": 1221,
   "totalNewgrad": 258,
   "totalOther": 963,
@@ -136,6 +136,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac56f98372c01f6cd739af8",
+      "company": "Dow Jones",
+      "title": "Software Engineer - Data Architecture & Platform Engineering",
+      "url": "https://jobright.ai/jobs/info/6ac56f98372c01f6cd739af8",
+      "location": "New York, NY",
+      "datePosted": 1791319323,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a98810183fc633357631dbb",
+      "company": "Accenture Federal Services",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6a98810183fc633357631dbb",
+      "location": "Tampa, FL",
+      "datePosted": 1791318588,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac59725372c01f6cd73a62b",
@@ -773,28 +795,6 @@
       "datePosted": 1791297202,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac562aa0e027c0f3b3aec9b",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
-      "url": "https://jobright.ai/jobs/info/6ac562aa0e027c0f3b3aec9b",
-      "location": "Mountain View, CA",
-      "datePosted": 1791297111,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa7ec7e3a9f0a4fe6f16530",
-      "company": "Robinhood",
-      "title": "Software Engineering Intern, Web (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa7ec7e3a9f0a4fe6f16530",
-      "location": "Menlo Park, CA; New York, NY",
-      "datePosted": 1791296873,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
