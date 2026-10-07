@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:40:18Z",
+  "generatedAt": "2026-10-07T15:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791366016
+    },
+    {
+      "id": "newgrad-jobs:6ac65887d9621c5b283a854f",
+      "company": "Elevated Web Design",
+      "title": "Backend Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ac65887d9621c5b283a854f",
+      "location": "United States",
+      "datePosted": 1791358487,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791388217
     },
     {
       "id": "newgrad-jobs:6ac65641d9621c5b283a847f",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1788970820
-    },
-    {
-      "id": "newgrad-jobs:6a9a7baafe45b8490f603c59",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6a9a7baafe45b8490f603c59",
-      "location": "Marlborough, MA",
-      "datePosted": 1788898796,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
     }
   ]
 }
