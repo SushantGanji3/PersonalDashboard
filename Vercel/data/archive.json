@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T02:40:18Z",
+  "generatedAt": "2026-10-07T02:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ac58099d9621c5b283a5b8c",
+      "company": "The Kendall Group",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac58099d9621c5b283a5b8c",
+      "location": "Grand Rapids, MI",
+      "datePosted": 1791311720,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791341417
     },
     {
       "id": "newgrad-jobs:6ac58da00e027c0f3b3af845",
@@ -54989,17 +55000,6 @@
       "datePosted": 1788881816,
       "source": "newgrad-jobs",
       "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6a52dc25e726ec56126a4c9b",
-      "company": "Anduril",
-      "title": "2027 Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a52dc25e726ec56126a4c9b",
-      "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
-      "datePosted": 1788881513,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "firstSeenAt": 1788951625
     }
   ]
