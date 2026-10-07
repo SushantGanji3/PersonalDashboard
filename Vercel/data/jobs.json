@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T14:10:19Z",
-  "totalOpen": 1218,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-10-07T14:20:17Z",
+  "totalOpen": 1217,
+  "totalNewgrad": 251,
   "totalOther": 966,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,17 @@
       "location": "Waco, TX",
       "datePosted": 1791364025,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab3cd04ef911c35dffa1a09",
+      "company": "Tripleseat",
+      "title": "Software Engineer-1",
+      "url": "https://jobright.ai/jobs/info/6ab3cd04ef911c35dffa1a09",
+      "location": "United States; Canada",
+      "datePosted": 1791354116,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -39,26 +50,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8bce854afae74a08351874",
+      "id": "newgrad-jobs:6ac412398ff3fb9b3bc83ec5",
       "company": "Gulfstream Aerospace",
       "title": "Summer 2027 - IEF - Software Engineer Collegiate Associate Intern",
-      "url": "https://jobright.ai/jobs/info/6a8bce854afae74a08351874",
+      "url": "https://jobright.ai/jobs/info/6ac412398ff3fb9b3bc83ec5",
       "location": "Savannah, GA",
       "datePosted": 1791353227,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab3cd04ef911c35dffa1a09",
-      "company": "Tripleseat",
-      "title": "Software Engineer-1",
-      "url": "https://jobright.ai/jobs/info/6ab3cd04ef911c35dffa1a09",
-      "location": "United States; Canada",
-      "datePosted": 1791352497,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
@@ -171,10 +171,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1791349310,
       "source": "newgrad-jobs",
@@ -248,10 +248,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
+      "id": "newgrad-jobs:6aa9b81aeff87f571fc9af06",
       "company": "Q2",
       "title": "2027 Summer Internship - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
+      "url": "https://jobright.ai/jobs/info/6aa9b81aeff87f571fc9af06",
       "location": "Austin, TX; Cary, NC",
       "datePosted": 1791344876,
       "source": "newgrad-jobs",
