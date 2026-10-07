@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T14:40:17Z",
+  "generatedAt": "2026-10-07T14:50:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791366016
+    },
+    {
+      "id": "newgrad-jobs:6ab7457839fd8792cb73df83",
+      "company": "Internet Brands",
+      "title": "Associate AI Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab7457839fd8792cb73df83",
+      "location": "Newark, NJ",
+      "datePosted": 1791355005,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791384618
     },
     {
       "id": "newgrad-jobs:6a8bc96525fc4e7ae3db6472",
@@ -122,6 +133,28 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1791373217
+    },
+    {
+      "id": "newgrad-jobs:6aaa03da3387a3d9b67d891c",
+      "company": "Microsoft",
+      "title": "Software Engineer - AI Platform",
+      "url": "https://jobright.ai/jobs/info/6aaa03da3387a3d9b67d891c",
+      "location": "Mountain View, CA",
+      "datePosted": 1791343434,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791384618
+    },
+    {
+      "id": "newgrad-jobs:6ac553f7064da25272e164b3",
+      "company": "Deloitte",
+      "title": "Cyber Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac553f7064da25272e164b3",
+      "location": "Greater Cleveland, United States",
+      "datePosted": 1791341254,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791384618
     },
     {
       "id": "newgrad-jobs:6ac60f850e027c0f3b3b106b",
@@ -562,6 +595,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791339617
+    },
+    {
+      "id": "newgrad-jobs:6a8604654afae74a08342c82",
+      "company": "Prometheum",
+      "title": "Software Engineer 1 (Full-Stack)",
+      "url": "https://jobright.ai/jobs/info/6a8604654afae74a08342c82",
+      "location": "United States",
+      "datePosted": 1791309264,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791384618
     },
     {
       "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
@@ -54957,50 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa081e93b5aa83237b09a20",
-      "company": "Allen Control Systems",
-      "title": "Computer Vision/Machine Learning Intern, 2027",
-      "url": "https://jobright.ai/jobs/info/6aa081e93b5aa83237b09a20",
-      "location": "Austin, TX",
-      "datePosted": 1788894271,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa0819aa2266b538d230da4",
-      "company": "Allen Control Systems",
-      "title": "Software Engineering Inten, 2027",
-      "url": "https://jobright.ai/jobs/info/6aa0819aa2266b538d230da4",
-      "location": "Austin, TX",
-      "datePosted": 1788894266,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa0790ca2266b538d230a6b",
-      "company": "SWBC",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa0790ca2266b538d230a6b",
-      "location": "San Antonio, TX",
-      "datePosted": 1788893893,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa084793b5aa83237b09a7c",
-      "company": "SWBC",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa084793b5aa83237b09a7c",
-      "location": "San Antonio, TX",
-      "datePosted": 1788893893,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788953421
     }
   ]
 }
