@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T15:20:19Z",
-  "totalOpen": 1217,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-10-07T15:30:22Z",
+  "totalOpen": 1221,
+  "totalNewgrad": 256,
   "totalOther": 965,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -17,6 +17,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac65641d9621c5b283a847f",
+      "company": "S&C Electric Company",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac65641d9621c5b283a847f",
+      "location": "Chicago, IL",
+      "datePosted": 1791357905,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac652d2d9621c5b283a8395",
+      "company": "Deloitte",
+      "title": "Agentic Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac652d2d9621c5b283a8395",
+      "location": "Austin, TX; Tampa, FL; Miami, FL; Morristown, NJ; Chicago, IL; Dallas, TX; San Antonio, TX; New York, NY; Jacksonville, FL",
+      "datePosted": 1791357026,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab69c8b4873fd3fd852e013",
       "company": "RTX",
       "title": "Internship \u2013 Raytheon Systems Security Engineer-Onsite",
@@ -25,7 +47,18 @@
       "datePosted": 1791356941,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8ddd32581f2d7bfdfe998f",
+      "company": "Verkada",
+      "title": "Mobile Software Engineering Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a8ddd32581f2d7bfdfe998f",
+      "location": "San Mateo, CA",
+      "datePosted": 1791356274,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab6a592c6fe0dec811a5dc8",
@@ -48,6 +81,39 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8ddb1825fc4e7ae3dbe343",
+      "company": "Verkada",
+      "title": "Frontend Software Engineering Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a8ddb1825fc4e7ae3dbe343",
+      "location": "San Mateo, CA",
+      "datePosted": 1791355642,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8ddb0ea5639a4810328145",
+      "company": "Verkada",
+      "title": "Security Software Engineering Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a8ddb0ea5639a4810328145",
+      "location": "San Mateo, CA",
+      "datePosted": 1791355562,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8ddb48a5639a4810328164",
+      "company": "Verkada",
+      "title": "Embedded Software Engineering Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a8ddb48a5639a4810328164",
+      "location": "San Mateo, CA",
+      "datePosted": 1791355410,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac64b724ac55253f5d79635",
@@ -127,10 +193,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8bce854afae74a08351874",
+      "id": "newgrad-jobs:6ac412398ff3fb9b3bc83ec5",
       "company": "Gulfstream Aerospace",
       "title": "Summer 2027 - IEF - Software Engineer Collegiate Associate Intern",
-      "url": "https://jobright.ai/jobs/info/6a8bce854afae74a08351874",
+      "url": "https://jobright.ai/jobs/info/6ac412398ff3fb9b3bc83ec5",
       "location": "Savannah, GA",
       "datePosted": 1791353227,
       "source": "newgrad-jobs",
@@ -270,15 +336,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1791349310,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa991b009ae03adcacddd21",
@@ -501,6 +567,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1791341062,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac3f1188ff3fb9b3bc831b0",
       "company": "Booz Allen Hamilton",
       "title": "Back End Developer",
@@ -622,28 +699,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a759781b17cba569035aa59",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst- Simplified Chinese Speakers",
-      "url": "https://jobright.ai/jobs/info/6a759781b17cba569035aa59",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1791335559,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a473469971cd25b06f9164f",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Danish Speakers",
-      "url": "https://jobright.ai/jobs/info/6a473469971cd25b06f9164f",
-      "location": "New York, NY; Seattle, WA; Bellevue, WA; Redmond, WA; San Francisco, CA; Sunnyvale, CA; Burlingame, CA; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA",
-      "datePosted": 1791335553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:5d67cf04-fc5c-491b-9cb4-99484583ff17",
       "company": "Amazon",
       "title": "Software Engineer Intern - Embedded Systems",
@@ -662,39 +717,6 @@
       "location": "Austin, TX",
       "datePosted": 1791335194,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a67771dd0fb4c3df393cf48",
-      "company": "Appian",
-      "title": "Information Security Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a67771dd0fb4c3df393cf48",
-      "location": "McLean, VA",
-      "datePosted": 1791330377,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac555bc4ac55253f5d76111",
-      "company": "Deloitte",
-      "title": "Data Scientist - AI and Data Science Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac555bc4ac55253f5d76111",
-      "location": "Morristown, NJ; Jersey City, NJ",
-      "datePosted": 1791329660,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5d8fe4ac55253f5d78526",
-      "company": "North Carolina Department of Agriculture and Consumer Services",
-      "title": "Programmer Analyst 1",
-      "url": "https://jobright.ai/jobs/info/6ac5d8fe4ac55253f5d78526",
-      "location": "Kanawha County, West Virginia, United States",
-      "datePosted": 1791325838,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -794,28 +816,6 @@
       "location": "Bloomington, MN",
       "datePosted": 1791325046,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5f4a4372c01f6cd73b7eb",
-      "company": "News Corp",
-      "title": "Software Engineer - Data Architecture & Platform Engineering",
-      "url": "https://jobright.ai/jobs/info/6ac5f4a4372c01f6cd73b7eb",
-      "location": "New York, NY",
-      "datePosted": 1791324000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac59d50064da25272e17aee",
-      "company": "F5",
-      "title": "Software Development Engineer Intern (San Jose, CA)",
-      "url": "https://jobright.ai/jobs/info/6ac59d50064da25272e17aee",
-      "location": "San Jose, CA",
-      "datePosted": 1791323937,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
