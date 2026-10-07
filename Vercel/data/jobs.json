@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T05:50:17Z",
-  "totalOpen": 1223,
-  "totalNewgrad": 260,
+  "generatedAt": "2026-10-07T06:00:17Z",
+  "totalOpen": 1221,
+  "totalNewgrad": 258,
   "totalOther": 963,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -136,6 +136,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5ce5f372c01f6cd73b41b",
+      "company": "E80 Group",
+      "title": "CS Software Engineer Job Details | elettricsp",
+      "url": "https://jobright.ai/jobs/info/6ac5ce5f372c01f6cd73b41b",
+      "location": "Chicago, IL",
+      "datePosted": 1791323119,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac5cb174ac55253f5d78277",
@@ -432,7 +443,7 @@
       "datePosted": 1791306000,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab4686f64816213f2d9907d",
@@ -784,17 +795,6 @@
       "datePosted": 1791298157,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8791cd25fc4e7ae3dadd36",
-      "company": "Databricks",
-      "title": "Software Engineering Intern (2027 Start) - Winter",
-      "url": "https://jobright.ai/jobs/info/6a8791cd25fc4e7ae3dadd36",
-      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA",
-      "datePosted": 1791297882,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
