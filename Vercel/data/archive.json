@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-10-07T01:30:19Z",
+  "generatedAt": "2026-10-07T01:40:51Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:5d67cf04-fc5c-491b-9cb4-99484583ff17",
+      "company": "Amazon",
+      "title": "Software Engineer Intern - Embedded Systems",
+      "url": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+      "location": "Redmond, WA, Northridge, LA",
+      "datePosted": 1791335260,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791337251
+    },
+    {
+      "id": "simplify:4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
+      "company": "Visa",
+      "title": "Software Engineer Operations and Infrastructure",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
+      "location": "Austin, TX",
+      "datePosted": 1791335194,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791337251
+    },
     {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
       "company": "Pure Storage",
@@ -11353,6 +11375,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790782817
+    },
+    {
+      "id": "newgrad-jobs:6aa0083d500b01124c77670c",
+      "company": "PepsiCo",
+      "title": "Analytics Platform Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa0083d500b01124c77670c",
+      "location": "New York, NY",
+      "datePosted": 1790746890,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791337251
     },
     {
       "id": "newgrad-jobs:6abd00f10e027c0f3b392f80",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788954621
-    },
-    {
-      "id": "newgrad-jobs:6aa059ed3b5aa83237b088fc",
-      "company": "Grant Street Group",
-      "title": "Data Conversion Developer",
-      "url": "https://jobright.ai/jobs/info/6aa059ed3b5aa83237b088fc",
-      "location": "United States",
-      "datePosted": 1788880095,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa03670500b01124c7775d5",
-      "company": "Syska Hennessy Group",
-      "title": "Software Developer (Innovation) Summer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa03670500b01124c7775d5",
-      "location": "New York, NY",
-      "datePosted": 1788879939,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa07b94a2266b538d230b79",
-      "company": "Allegion",
-      "title": "Summer Intern - Software Engineering - DevOps",
-      "url": "https://jobright.ai/jobs/info/6aa07b94a2266b538d230b79",
-      "location": "Carmel, IN; Golden, CO",
-      "datePosted": 1788879903,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1788951625
     }
   ]
 }

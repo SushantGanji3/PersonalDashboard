@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-07T01:30:19Z",
-  "totalOpen": 1224,
+  "generatedAt": "2026-10-07T01:40:51Z",
+  "totalOpen": 1218,
   "totalNewgrad": 264,
-  "totalOther": 960,
+  "totalOther": 954,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:5d67cf04-fc5c-491b-9cb4-99484583ff17",
+      "company": "Amazon",
+      "title": "Software Engineer Intern - Embedded Systems",
+      "url": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+      "location": "Redmond, WA, Northridge, LA",
+      "datePosted": 1791335260,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
+      "company": "Visa",
+      "title": "Software Engineer Operations and Infrastructure",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
+      "location": "Austin, TX",
+      "datePosted": 1791335194,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
       "company": "Pure Storage",
@@ -113,7 +135,7 @@
       "datePosted": 1791307276,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac01cfc4ac55253f5d67afe",
@@ -179,7 +201,7 @@
       "datePosted": 1791305770,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8295ae9b859b227766a80b",
@@ -303,10 +325,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac57b664ac55253f5d77011",
+      "id": "newgrad-jobs:6ac57b69372c01f6cd73a07e",
       "company": "Optimum",
       "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac57b664ac55253f5d77011",
+      "url": "https://jobright.ai/jobs/info/6ac57b69372c01f6cd73a07e",
       "location": "Bethpage, NY",
       "datePosted": 1791302932,
       "source": "newgrad-jobs",
@@ -1299,28 +1321,6 @@
       "url": "https://www.tesla.com/careers/search/job/285084",
       "location": "Palo Alto, CA",
       "datePosted": 1790731087,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4cfc6f1c-ae9e-447d-8980-a90e98153e86",
-      "company": "Tesla",
-      "title": "Software Developer Intern - Integration Tools",
-      "url": "https://www.tesla.com/careers/search/job/284924",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790730716,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bc9e8818-9f8f-4083-9d35-d8f57bc2ddfb",
-      "company": "Tesla",
-      "title": "Embedded Software Developer Intern - Vehicle Suspension",
-      "url": "https://www.tesla.com/careers/search/job/285153",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790730679,
       "source": "aggregator",
       "season": null,
       "isNew": false
