@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T16:40:43Z",
+  "generatedAt": "2026-10-07T16:50:33Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791366016
+    },
+    {
+      "id": "newgrad-jobs:6ac66c668ff3fb9b3bc8cfe1",
+      "company": "Mensa Philosophical Circle",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac66c668ff3fb9b3bc8cfe1",
+      "location": "United States",
+      "datePosted": 1791363574,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791391833
     },
     {
       "id": "newgrad-jobs:6ac6657d0e027c0f3b3b22ae",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788970820
-    },
-    {
-      "id": "newgrad-jobs:6aa08c1f5b2d5633ef3bf46c",
-      "company": "OneStream Software",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa08c1f5b2d5633ef3bf46c",
-      "location": "Birmingham, MI; Chicago, IL; Fort Lauderdale, FL; New York, NY",
-      "datePosted": 1788903969,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
     }
   ]
 }
