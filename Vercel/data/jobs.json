@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-07T11:30:19Z",
-  "totalOpen": 1214,
-  "totalNewgrad": 252,
-  "totalOther": 962,
+  "generatedAt": "2026-10-07T11:40:17Z",
+  "totalOpen": 1219,
+  "totalNewgrad": 253,
+  "totalOther": 966,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -26,6 +26,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a70f79fe2b7476e7b20c161",
+      "company": "Persona AI",
+      "title": "Autonomy Software Engineering Internship, World Modeling",
+      "url": "https://jobright.ai/jobs/info/6a70f79fe2b7476e7b20c161",
+      "location": "Houston, TX",
+      "datePosted": 1791345494,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
+      "company": "Q2",
+      "title": "2027 Summer Internship - Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
+      "location": "Austin, TX; Cary, NC",
+      "datePosted": 1791344876,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a52e7dc9fbdab22fe13d88e",
@@ -798,28 +820,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac54610064da25272e15d9e",
-      "company": "Pampered Chef",
-      "title": "Junior Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac54610064da25272e15d9e",
-      "location": "Addison, IL",
-      "datePosted": 1791303940,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac538320e027c0f3b3ad8ed",
-      "company": "Roblox",
-      "title": "Software Engineer, Test Frameworks & Tooling",
-      "url": "https://jobright.ai/jobs/info/6ac538320e027c0f3b3ad8ed",
-      "location": "San Mateo, CA",
-      "datePosted": 1791303582,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6293dd37-4fdd-4c11-b3f9-b55360f7b93a",
       "company": "Whoop",
       "title": "Software Engineer 1 - Backend",
@@ -946,6 +946,17 @@
       "title": "Software Development Engineer Intern",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
       "location": "Seattle, WA, Austin, TX, San Jose, CA",
+      "datePosted": 1791158400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:75269b0a-c784-4fec-94a8-afe657a39877",
+      "company": "Micron",
+      "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
+      "location": "Boise, ID",
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
@@ -1310,17 +1321,6 @@
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357",
       "location": "Nashville, TN",
       "datePosted": 1790806019,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:736601ef-d2f7-440f-81d2-25467641ae04",
-      "company": "General Dynamics",
-      "title": "Software Engineer 1/2",
-      "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false",
-      "location": "Middletown, RI",
-      "datePosted": 1790777853,
       "source": "aggregator",
       "season": null,
       "isNew": false
