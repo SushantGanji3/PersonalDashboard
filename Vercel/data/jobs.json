@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T09:40:16Z",
-  "totalOpen": 1217,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-10-07T09:50:17Z",
+  "totalOpen": 1216,
+  "totalNewgrad": 254,
   "totalOther": 962,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791364025,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
@@ -26,6 +26,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac60c9d8ff3fb9b3bc8ba96",
+      "company": "Capgemini",
+      "title": "Junior Frontend Developer Job Details | Capgemini",
+      "url": "https://jobright.ai/jobs/info/6ac60c9d8ff3fb9b3bc8ba96",
+      "location": "Atlanta, GA",
+      "datePosted": 1791339053,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac60c8c0e027c0f3b3b0faa",
+      "company": "Capgemini",
+      "title": "Salesforce Developer Job Details | Capgemini",
+      "url": "https://jobright.ai/jobs/info/6ac60c8c0e027c0f3b3b0faa",
+      "location": "Irving, TX",
+      "datePosted": 1791339036,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac60c6b0e027c0f3b3b0f8d",
+      "company": "Capgemini",
+      "title": "Data Scientist Job Details | Capgemini",
+      "url": "https://jobright.ai/jobs/info/6ac60c6b0e027c0f3b3b0f8d",
+      "location": "Houston, TX",
+      "datePosted": 1791339003,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac60be2d9621c5b283a7514",
+      "company": "Capgemini",
+      "title": "Junior Salesforce Developer Job Details | Capgemini",
+      "url": "https://jobright.ai/jobs/info/6ac60be2d9621c5b283a7514",
+      "location": "New York, NY; Dallas, TX; Atlanta, GA; Chicago, IL; Nashville, TN",
+      "datePosted": 1791338866,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
@@ -600,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
       "location": "Ashburn, VA",
       "datePosted": 1791304707,
       "source": "newgrad-jobs",
@@ -773,50 +817,6 @@
       "datePosted": 1791298696,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac53fc70e027c0f3b3adba0",
-      "company": "AV",
-      "title": "Hypersonic RF Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac53fc70e027c0f3b3adba0",
-      "location": "Germantown, MD",
-      "datePosted": 1791298696,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac53fc3372c01f6cd73875e",
-      "company": "AV",
-      "title": "Software Engineer (EMB), I",
-      "url": "https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
-      "location": "Moorpark, CA",
-      "datePosted": 1791298693,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac05fc3e3ce93970c7b2a8",
-      "company": "Noblis",
-      "title": "AI/ML Engineer - Multiple levels (Cleared)",
-      "url": "https://jobright.ai/jobs/info/6aac05fc3e3ce93970c7b2a8",
-      "location": "Reston, VA",
-      "datePosted": 1791298552,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac56dc4d9621c5b283a5491",
-      "company": "Revel",
-      "title": "Internship: Software Engineer, Test",
-      "url": "https://jobright.ai/jobs/info/6ac56dc4d9621c5b283a5491",
-      "location": "Los Angeles, CA; San Francisco, CA",
-      "datePosted": 1791298388,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
