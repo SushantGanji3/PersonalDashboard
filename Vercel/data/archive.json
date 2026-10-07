@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-10-07T23:00:18Z",
+  "generatedAt": "2026-10-07T23:10:17Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:4a6bf39f-096b-480d-b7f0-2ad50e2998df",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2026806",
+      "location": "SF",
+      "datePosted": 1791411876,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791414617
+    },
+    {
+      "id": "simplify:9dfe7746-ba68-48c6-8d73-9a3e54ea661f",
+      "company": "General Dynamics",
+      "title": "Embedded Software Engineer Entry Level",
+      "url": "https://careers-gdms.icims.com/jobs/75161/job?mobile=true&needsRedirect=false",
+      "location": "Bloomington, MN",
+      "datePosted": 1791411440,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791414617
+    },
+    {
+      "id": "simplify:24901885-b792-4344-a66a-26907a743ebc",
+      "company": "Otter.ai",
+      "title": "Software Engineer New Grad - Front-End",
+      "url": "https://otter.ai/careers?gh_jid=8016078003",
+      "location": "Mountain View, CA",
+      "datePosted": 1791411293,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791414617
+    },
     {
       "id": "simplify:f3b1a57c-3417-445f-a783-33548934141a",
       "company": "L3Harris",
@@ -12,6 +45,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "newgrad-jobs:6ac6c5a9372c01f6cd73f0ce",
+      "company": "Infosys",
+      "title": "Talend & Snowflake Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac6c5a9372c01f6cd73f0ce",
+      "location": "Atlanta, GA; Charlotte, NC; Raleigh, NC; Richardson, TX; Richmond, VA",
+      "datePosted": 1791386425,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791414617
+    },
+    {
+      "id": "newgrad-jobs:6a614adbeaa37f43e7587f78",
+      "company": "FieldAI",
+      "title": "Embedded Systems Engineer, Autonomous Vehicles (Federal)",
+      "url": "https://jobright.ai/jobs/info/6a614adbeaa37f43e7587f78",
+      "location": "Mission Viejo, CA",
+      "datePosted": 1791386021,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791414617
+    },
+    {
+      "id": "newgrad-jobs:6ac67519d9621c5b283a8dd2",
+      "company": "Bose Corporation",
+      "title": "Embedded Software Engineer Co-op  - Audio Tech",
+      "url": "https://jobright.ai/jobs/info/6ac67519d9621c5b283a8dd2",
+      "location": "Framingham, MA; Atlanta, GA; Bloomfield Hills, MI; Troy, MI",
+      "datePosted": 1791385332,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791414617
     },
     {
       "id": "newgrad-jobs:6ac6be3d372c01f6cd73edf5",
@@ -1024,6 +1090,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "simplify:cd27a28a-afa5-420b-9dec-9dda2b442c94",
+      "company": "RTX",
+      "title": "Software Engineering Co-op - Summer/Fall 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791331200,
+      "source": "aggregator",
+      "season": "Fall 2027",
+      "firstSeenAt": 1791414617
+    },
+    {
+      "id": "simplify:c943982c-f621-426b-aa3e-90f0098b70f2",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Level",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Software-Engineer--Level-1-2-_R10251286",
+      "location": "El Segundo, CA",
+      "datePosted": 1791331200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791414617
+    },
+    {
+      "id": "simplify:e5467def-2b54-4bda-90a0-cdb22e92de7f",
+      "company": "RTX",
+      "title": "Embedded Software Developer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
+      "location": "El Segundo, CA",
+      "datePosted": 1791331200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791414617
     },
     {
       "id": "newgrad-jobs:6ac5df94064da25272e18989",
@@ -54899,105 +54998,6 @@
       "url": "https://jobright.ai/jobs/info/6aa0e04dea127c3794699354",
       "location": "Manassas, VA",
       "datePosted": 1788934769,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6a7388d9e55c73319eb17e8d",
-      "company": "Curtiss-Wright Corporation",
-      "title": "Associate Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a7388d9e55c73319eb17e8d",
-      "location": "Tewksbury, MA",
-      "datePosted": 1788934727,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6aa15a9c500b01124c77c52d",
-      "company": "Interstate Waste Services, Inc.",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa15a9c500b01124c77c52d",
-      "location": "Teaneck, NJ",
-      "datePosted": 1788934188,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6aa158e62f936e4a53dab5b9",
-      "company": "CNH",
-      "title": "AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa158e62f936e4a53dab5b9",
-      "location": "Tempe, AZ",
-      "datePosted": 1788933750,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990295
-    },
-    {
-      "id": "newgrad-jobs:6aa156bc3272060a8e3ef63b",
-      "company": "CNH",
-      "title": "Soil & Crop Modeling Engineering Intern - Combine Surrogate Model from CFD Using Machine Learning",
-      "url": "https://jobright.ai/jobs/info/6aa156bc3272060a8e3ef63b",
-      "location": "New Holland, PA",
-      "datePosted": 1788933196,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990295
-    },
-    {
-      "id": "newgrad-jobs:6aa156aeef23570cae243787",
-      "company": "Adacel",
-      "title": "Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aa156aeef23570cae243787",
-      "location": "Orlando, FL",
-      "datePosted": 1788933182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6a84a8f9e459fa3baa85fd56",
-      "company": "Zipline",
-      "title": "Enterprise Systems Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a84a8f9e459fa3baa85fd56",
-      "location": "South San Francisco, CA",
-      "datePosted": 1788932607,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1788990617
-    },
-    {
-      "id": "newgrad-jobs:6a679e7e872eb74f9ead9f8d",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Application Developer Level 1-5 - PeopleSoft (TCU)",
-      "url": "https://jobright.ai/jobs/info/6a679e7e872eb74f9ead9f8d",
-      "location": "New York, NY",
-      "datePosted": 1788932477,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6a4c6564c2d11a6a4667ac9e",
-      "company": "KLA",
-      "title": "Linux Systems Engineer for Image Computer Product Development",
-      "url": "https://jobright.ai/jobs/info/6a4c6564c2d11a6a4667ac9e",
-      "location": "Milpitas, CA",
-      "datePosted": 1788931375,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6a521b278ef95364ead8cde4",
-      "company": "MANTECH",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a521b278ef95364ead8cde4",
-      "location": "Saint Inigoes, MD",
-      "datePosted": 1788931277,
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788990017
