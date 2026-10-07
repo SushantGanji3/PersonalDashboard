@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T02:20:17Z",
+  "generatedAt": "2026-10-07T02:30:53Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791328216
+    },
+    {
+      "id": "newgrad-jobs:6ac58da00e027c0f3b3af845",
+      "company": "Modular, a Qualcomm company",
+      "title": "Platform Engineer, Data",
+      "url": "https://jobright.ai/jobs/info/6ac58da00e027c0f3b3af845",
+      "location": "Los Altos, CA",
+      "datePosted": 1791311446,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791340253
+    },
+    {
+      "id": "newgrad-jobs:6ac59da4064da25272e17af5",
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Employee Experience",
+      "url": "https://jobright.ai/jobs/info/6ac59da4064da25272e17af5",
+      "location": "Hawthorne, CA",
+      "datePosted": 1791310644,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791340253
     },
     {
       "id": "newgrad-jobs:6ac598a74ac55253f5d77614",
@@ -54978,28 +55000,6 @@
       "datePosted": 1788881513,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa08caa5b2d5633ef3bf48a",
-      "company": "Trellis",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aa08caa5b2d5633ef3bf48a",
-      "location": "Round Rock, TX",
-      "datePosted": 1788881273,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
-    },
-    {
-      "id": "newgrad-jobs:6aa040733b5aa83237b07e99",
-      "company": "Mayo Clinic",
-      "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa040733b5aa83237b07e99",
-      "location": "Rochester, MN",
-      "datePosted": 1788881236,
-      "source": "newgrad-jobs",
-      "season": null,
       "firstSeenAt": 1788951625
     }
   ]
