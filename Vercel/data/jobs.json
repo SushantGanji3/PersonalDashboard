@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-07T06:30:18Z",
-  "totalOpen": 1223,
+  "generatedAt": "2026-10-07T06:40:16Z",
+  "totalOpen": 1224,
   "totalNewgrad": 261,
-  "totalOther": 962,
+  "totalOther": 963,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
+      "company": "Apple",
+      "title": "Software Engineer - Siri User Experiences",
+      "url": "https://jobs.apple.com/en-us/details/200687375",
+      "location": "Cupertino, CA",
+      "datePosted": 1791353230,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
       "company": "Akuna Capital",
@@ -523,10 +534,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
       "location": "Ashburn, VA",
       "datePosted": 1791304707,
       "source": "newgrad-jobs",
@@ -1310,17 +1321,6 @@
       "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false",
       "location": "Middletown, RI",
       "datePosted": 1790777853,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b5e54246-5cf1-4854-8ea2-77816df0b012",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern - Silicon Development",
-      "url": "https://www.tesla.com/careers/search/job/285084",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790731087,
       "source": "aggregator",
       "season": null,
       "isNew": false

@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-07T06:30:18Z",
+  "generatedAt": "2026-10-07T06:40:16Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
+      "company": "Apple",
+      "title": "Software Engineer - Siri User Experiences",
+      "url": "https://jobs.apple.com/en-us/details/200687375",
+      "location": "Cupertino, CA",
+      "datePosted": 1791353230,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791355216
+    },
     {
       "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
       "company": "Akuna Capital",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1788970820
-    },
-    {
-      "id": "newgrad-jobs:6a978c11e4e60e4b8da5e61f",
-      "company": "MetLife",
-      "title": "Junior Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a978c11e4e60e4b8da5e61f",
-      "location": "Tampa, FL",
-      "datePosted": 1788885916,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788951625
     }
   ]
 }
