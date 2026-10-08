@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-08T23:00:19Z",
-  "totalOpen": 1227,
-  "totalNewgrad": 264,
-  "totalOther": 963,
+  "generatedAt": "2026-10-08T23:10:20Z",
+  "totalOpen": 1231,
+  "totalNewgrad": 262,
+  "totalOther": 969,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b84cde68-8811-482e-ad0d-fb3108bad985",
+      "company": "Replit",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application?embed=true",
+      "location": "Foster City, CA",
+      "datePosted": 1791498667,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:c81df585-c144-4df1-8111-2a31dee7970f",
+      "company": "IMC Trading",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
+      "location": "NYC",
+      "datePosted": 1791497959,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:e2182c1b-5804-476c-b3e7-fd9a76bfa949",
       "company": "TikTok",
@@ -26,6 +48,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab5a5a44873fd3fd852b4b4",
+      "company": "AppLovin",
+      "title": "ML Data Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab5a5a44873fd3fd852b4b4",
+      "location": "Palo Alto, CA",
+      "datePosted": 1791474131,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab58a199d4843569fe4a772",
+      "company": "IBM",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ab58a199d4843569fe4a772",
+      "location": "Bellevue, WA",
+      "datePosted": 1791473796,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac8162a51a1b3e4219f0416",
+      "company": "Docusign",
+      "title": "Software Engineer Intern - Observability (Platform)",
+      "url": "https://jobright.ai/jobs/info/6ac8162a51a1b3e4219f0416",
+      "location": "Seattle, WA",
+      "datePosted": 1791472570,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac815d044d6e65604a05ff4",
+      "company": "Ryzoe",
+      "title": "Trainee (Intern) Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ac815d044d6e65604a05ff4",
+      "location": "United States",
+      "datePosted": 1791472480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac8140d44d6e65604a05f83",
@@ -369,10 +435,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8baf010b1cd4f41603ba5",
+      "id": "newgrad-jobs:6ac7eaebfe8f33a85d4fe018",
       "company": "Booz Allen Hamilton",
       "title": "University, Applied AI Software Development Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8baf010b1cd4f41603ba5",
+      "url": "https://jobright.ai/jobs/info/6ac7eaebfe8f33a85d4fe018",
       "location": "McLean, VA",
       "datePosted": 1791465106,
       "source": "newgrad-jobs",
@@ -408,17 +474,6 @@
       "url": "https://jobright.ai/jobs/info/6abc174092b2612ef0f8cc57",
       "location": "Torrance, CA",
       "datePosted": 1791464148,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7f45751a1b3e4219ef89f",
-      "company": "Docusign",
-      "title": "Software Engineer Intern - Observability (Platform)",
-      "url": "https://jobright.ai/jobs/info/6ac7f45751a1b3e4219ef89f",
-      "location": "Seattle, WA",
-      "datePosted": 1791463911,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -498,17 +553,6 @@
       "datePosted": 1791462759,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7e3bd51a1b3e4219ef37c",
-      "company": "Replit",
-      "title": "Software Engineering Intern \u2013 Winter 2027 (U.S. Based)",
-      "url": "https://jobright.ai/jobs/info/6ac7e3bd51a1b3e4219ef37c",
-      "location": "Foster City, CA",
-      "datePosted": 1791461782,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -655,36 +699,14 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac7cc47fcdafb60c6a45cda",
-      "company": "Capgemini",
-      "title": "Lead Java Full Stack with React",
-      "url": "https://jobright.ai/jobs/info/6ac7cc47fcdafb60c6a45cda",
-      "location": "New York, NY",
-      "datePosted": 1791455666,
+      "id": "newgrad-jobs:6ac7e3bd51a1b3e4219ef37c",
+      "company": "Replit",
+      "title": "Software Engineering Intern \u2013 Winter 2027 (U.S. Based)",
+      "url": "https://jobright.ai/jobs/info/6ac7e3bd51a1b3e4219ef37c",
+      "location": "Foster City, CA",
+      "datePosted": 1791455691,
       "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7d39644d6e65604a04882",
-      "company": "CHEManager International",
-      "title": "Research Associate, Equities Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac7d39644d6e65604a04882",
-      "location": "New York, NY",
-      "datePosted": 1791455526,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a563233e9b77f668bd61cc2",
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer (SkillBridge Intern) - 23875",
-      "url": "https://jobright.ai/jobs/info/6a563233e9b77f668bd61cc2",
-      "location": "Roanoke, VA",
-      "datePosted": 1791454662,
-      "source": "newgrad-jobs",
-      "season": null,
+      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -708,6 +730,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:42bb1506-58e5-4744-a89f-7bfd250d0115",
+      "company": "Northrop Grumman",
+      "title": "Systems Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163",
+      "location": "McClellan Park, CA",
+      "datePosted": 1791417600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:9199e425-2144-4178-bac6-c9f1802f9f1e",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370",
+      "location": "Tucson, AZ",
+      "datePosted": 1791417600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:e0a34853-b9e7-41f5-b226-89fda1f5aadc",
+      "company": "Micron",
+      "title": "AI Engineer",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1",
+      "location": "Boise, ID",
+      "datePosted": 1791417600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:da4364e0-b8b0-4dd0-be28-f45380d6a895",
+      "company": "Boeing",
+      "title": "Ground Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Ground-Software-Engineer----Millennium-Space-Systems_JR2026525674-1",
+      "location": "Chantilly, VA, El Segundo, CA",
+      "datePosted": 1791417600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:4a6bf39f-096b-480d-b7f0-2ad50e2998df",
@@ -1255,72 +1321,6 @@
       "url": "https://boards.greenhouse.io/point72/jobs/8236734002",
       "location": "NYC",
       "datePosted": 1790893938,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d08c50c3-35d4-45a8-b1ab-041d0b5a5a3a",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Robotics",
-      "url": "https://www.metacareers.com/jobs/1940312740718917",
-      "location": "Menlo Park, CA",
-      "datePosted": 1790893308,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c1aff4b4-bedf-4c66-b282-a592990ba632",
-      "company": "Pinterest",
-      "title": "University Grad Software Engineer",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
-      "location": "SF, Remote in USA",
-      "datePosted": 1790893159,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4fda6f3c-c073-469a-90b9-cb1d79c5f369",
-      "company": "Pinterest",
-      "title": "Software Engineer Intern",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
-      "location": "SF, Remote in USA",
-      "datePosted": 1790893158,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:35d12704-75f4-4a19-8d57-c70563db0263",
-      "company": "Amazon",
-      "title": "Software Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
-      "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO",
-      "datePosted": 1790892579,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e738e999-5fd1-4d8e-a451-bd26b18a0fa0",
-      "company": "Amazon",
-      "title": "Software Development Engineer - Robotics",
-      "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
-      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
-      "datePosted": 1790892578,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:94015ee8-32d2-4ad0-8394-3cb30e464aaa",
-      "company": "Glean",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
-      "location": "Mountain View, CA",
-      "datePosted": 1790892464,
       "source": "aggregator",
       "season": null,
       "isNew": false
