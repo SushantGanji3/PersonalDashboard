@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-08T17:40:17Z",
-  "totalOpen": 1227,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-10-08T17:50:19Z",
+  "totalOpen": 1230,
+  "totalNewgrad": 264,
   "totalOther": 966,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac7ccfe44d6e65604a044ad",
+      "company": "Capgemini",
+      "title": "Junior Frontend developer",
+      "url": "https://jobright.ai/jobs/info/6ac7ccfe44d6e65604a044ad",
+      "location": "Chicago, IL",
+      "datePosted": 1791453838,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:66fcf084-7f7c-43ed-8947-83179031963c",
       "company": "DoorDash",
@@ -15,6 +26,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac7bc0ffcdafb60c6a45626",
+      "company": "Badger Meter",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac7bc0ffcdafb60c6a45626",
+      "location": "Escondido, CA",
+      "datePosted": 1791453521,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab554724873fd3fd8528f5b",
+      "company": "Mill",
+      "title": "Computer Vision Intern, Fall/Winter 2026",
+      "url": "https://jobright.ai/jobs/info/6ab554724873fd3fd8528f5b",
+      "location": "San Bruno, CA",
+      "datePosted": 1791453468,
+      "source": "newgrad-jobs",
+      "season": "Winter 2026",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac7b63251a1b3e4219ee124",
+      "company": "Gordon Food Service",
+      "title": "Software Engineer Intern (Transportation Routing )",
+      "url": "https://jobright.ai/jobs/info/6ac7b63251a1b3e4219ee124",
+      "location": "Wyoming, MI",
+      "datePosted": 1791453086,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac4edb58ff3fb9b3bc86b12",
+      "company": "RTX",
+      "title": "Software Engineer I - Test",
+      "url": "https://jobright.ai/jobs/info/6ac4edb58ff3fb9b3bc86b12",
+      "location": "Tucson, AZ",
+      "datePosted": 1791453048,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac7c94f51a1b3e4219ee799",
@@ -61,15 +116,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a29c9582cde2824469be98f",
+      "id": "newgrad-jobs:6a57d1c7a791c6211bf013a8",
       "company": "Metropolitan Transportation Authority",
       "title": "Application Developer Levels 1 - 5 - Enterprise Document Migration",
-      "url": "https://jobright.ai/jobs/info/6a29c9582cde2824469be98f",
+      "url": "https://jobright.ai/jobs/info/6a57d1c7a791c6211bf013a8",
       "location": "New York, NY",
       "datePosted": 1791452420,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abec71b0e027c0f3b39ae8d",
@@ -628,61 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a7cb7c583621355407ab728",
       "location": "San Diego, CA",
       "datePosted": 1791436235,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e30db2c964816f65ebe38",
-      "company": "IBM",
-      "title": "Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e30db2c964816f65ebe38",
-      "location": "Rochester, MN; Austin, TX",
-      "datePosted": 1791436176,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e309e68f82b4036738d34",
-      "company": "IBM",
-      "title": "Power Firmware Developer Intern - Rochester, MN & Austin, TX - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e309e68f82b4036738d34",
-      "location": "Rochester, MN; Austin, TX",
-      "datePosted": 1791436176,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac782e951a1b3e4219ed2ef",
-      "company": "IBM",
-      "title": "Microservices Developer",
-      "url": "https://jobright.ai/jobs/info/6ac782e951a1b3e4219ed2ef",
-      "location": "Lowell, MA; Cambridge, MA",
-      "datePosted": 1791434873,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa05a8e5b2d5633ef3be170",
-      "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin",
-      "url": "https://jobright.ai/jobs/info/6aa05a8e5b2d5633ef3be170",
-      "location": "Austin, TX",
-      "datePosted": 1791434690,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa05bd35b2d5633ef3be1cb",
-      "company": "IBM",
-      "title": "Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie",
-      "url": "https://jobright.ai/jobs/info/6aa05bd35b2d5633ef3be1cb",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1791434678,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
