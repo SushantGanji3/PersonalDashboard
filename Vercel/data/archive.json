@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:00:18Z",
+  "generatedAt": "2026-10-08T12:10:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791452417
+    },
+    {
+      "id": "newgrad-jobs:6a9e250b2c964816f65ebcda",
+      "company": "IBM",
+      "title": "Co-Op Data Engineer 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e250b2c964816f65ebcda",
+      "location": "State College, PA",
+      "datePosted": 1791432257,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791461419
     },
     {
       "id": "newgrad-jobs:6ac774b70e573df8adc72ca1",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788999619
-    },
-    {
-      "id": "newgrad-jobs:6a8477d52f4f0014cae20c1d",
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL",
-      "url": "https://jobright.ai/jobs/info/6a8477d52f4f0014cae20c1d",
-      "location": "Phoenix, AZ; Sunrise, FL",
-      "datePosted": 1788949798,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789000222
     }
   ]
 }
