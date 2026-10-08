@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T15:40:17Z",
+  "generatedAt": "2026-10-08T15:50:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791452417
+    },
+    {
+      "id": "newgrad-jobs:6ac60e52064da25272e18f55",
+      "company": "Celestica",
+      "title": "Student Intern, AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac60e52064da25272e18f55",
+      "location": "United States",
+      "datePosted": 1791444808,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791474618
+    },
+    {
+      "id": "newgrad-jobs:6ac7a943a444ac5d36f8514f",
+      "company": "Google DeepMind",
+      "title": "Security Engineer, Platforms and Devices",
+      "url": "https://jobright.ai/jobs/info/6ac7a943a444ac5d36f8514f",
+      "location": "Mountain View, CA",
+      "datePosted": 1791444691,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791474618
     },
     {
       "id": "newgrad-jobs:6abd50a34ac55253f5d5cbc4",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789000222
-    },
-    {
-      "id": "newgrad-jobs:6aa17ab7500b01124c77cd44",
-      "company": "S&P Global",
-      "title": "Software Engineer - Summer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa17ab7500b01124c77cd44",
-      "location": "Cambridge, MA; New York, NY",
-      "datePosted": 1788962177,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789000222
-    },
-    {
-      "id": "newgrad-jobs:6a8dc84525fc4e7ae3dbdc87",
-      "company": "TheGuarantors",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8dc84525fc4e7ae3dbdc87",
-      "location": "New York, NY",
-      "datePosted": 1788961854,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790263217
     }
   ]
 }
