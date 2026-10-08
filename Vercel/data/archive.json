@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:40:16Z",
+  "generatedAt": "2026-10-08T07:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1791445216
+    },
+    {
+      "id": "newgrad-jobs:6ac6cccb064da25272e1c8a1",
+      "company": "AAA Auto Club Enterprises",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac6cccb064da25272e1c8a1",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1791414259,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791445816
     },
     {
       "id": "simplify:4a6bf39f-096b-480d-b7f0-2ad50e2998df",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1788990617
-    },
-    {
-      "id": "newgrad-jobs:6aa175b13272060a8e3efdd2",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa175b13272060a8e3efdd2",
-      "location": "Overland Park, KS; Bellevue, WA",
-      "datePosted": 1788941121,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
     }
   ]
 }
