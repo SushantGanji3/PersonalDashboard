@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T08:40:18Z",
+  "generatedAt": "2026-10-08T08:50:24Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791423615
+    },
+    {
+      "id": "newgrad-jobs:6ac74dcc744463a18c9315df",
+      "company": "Leidos",
+      "title": "Jr Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac74dcc744463a18c9315df",
+      "location": "Newport News, VA",
+      "datePosted": 1791421276,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791449424
+    },
+    {
+      "id": "newgrad-jobs:6ac745ab316e89f61e8af40f",
+      "company": "Motorola Solutions",
+      "title": "Software Engineer - Summer 2027 Internship",
+      "url": "https://jobright.ai/jobs/info/6ac745ab316e89f61e8af40f",
+      "location": "Westminster, CO",
+      "datePosted": 1791420198,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791449424
     },
     {
       "id": "newgrad-jobs:6ac6fbc5d9621c5b283ab63f",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788990617
-    },
-    {
-      "id": "newgrad-jobs:6a988529af954907d6573ca1",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a988529af954907d6573ca1",
-      "location": "Dallas, TX",
-      "datePosted": 1788942504,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788993618
-    },
-    {
-      "id": "newgrad-jobs:6a6b61b65c54bc4752ce8944",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a6b61b65c54bc4752ce8944",
-      "location": "Dallas, TX",
-      "datePosted": 1788942504,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789003557
     }
   ]
 }
