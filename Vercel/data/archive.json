@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:40:17Z",
+  "generatedAt": "2026-10-08T00:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "newgrad-jobs:6ac6db38372c01f6cd73f6d7",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - E1",
+      "url": "https://jobright.ai/jobs/info/6ac6db38372c01f6cd73f6d7",
+      "location": "Fort Worth, TX",
+      "datePosted": 1791391944,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791420617
+    },
+    {
+      "id": "newgrad-jobs:6ac566114ac55253f5d7684d",
+      "company": "Docusign",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac566114ac55253f5d7684d",
+      "location": "San Francisco, CA",
+      "datePosted": 1791391782,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791420617
     },
     {
       "id": "newgrad-jobs:6ac6d8ec0e027c0f3b3b4ab3",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer",
       "firstSeenAt": 1788990617
-    },
-    {
-      "id": "newgrad-jobs:6aa168330ffb3d4fea6b48e9",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (AI Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa168330ffb3d4fea6b48e9",
-      "location": "Vienna, VA",
-      "datePosted": 1788937667,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1788990295
-    },
-    {
-      "id": "newgrad-jobs:6aa1682c3272060a8e3ef935",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1682c3272060a8e3ef935",
-      "location": "Vienna, VA",
-      "datePosted": 1788937660,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1788990295
     }
   ]
 }
