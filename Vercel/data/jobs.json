@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T13:10:17Z",
-  "totalOpen": 1270,
-  "totalNewgrad": 305,
+  "generatedAt": "2026-10-08T13:20:30Z",
+  "totalOpen": 1267,
+  "totalNewgrad": 302,
   "totalOther": 965,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1791436669,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa3845e959a10d7230d20ff",
@@ -47,7 +47,7 @@
       "datePosted": 1791436647,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
@@ -61,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a7cb7c583621355407ab728",
+      "company": "Trabus Technologies",
+      "title": "Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7cb7c583621355407ab728",
+      "location": "San Diego, CA",
+      "datePosted": 1791436235,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a9e30db2c964816f65ebe38",
       "company": "IBM",
       "title": "Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027",
@@ -69,7 +80,7 @@
       "datePosted": 1791436176,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e309e68f82b4036738d34",
@@ -78,6 +89,17 @@
       "url": "https://jobright.ai/jobs/info/6a9e309e68f82b4036738d34",
       "location": "Rochester, MN; Austin, TX",
       "datePosted": 1791436176,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac787a551a1b3e4219ed352",
+      "company": "Metropolitan Transportation Authority",
+      "title": "Application Developer Levels 1-5",
+      "url": "https://jobright.ai/jobs/info/6ac787a551a1b3e4219ed352",
+      "location": "New York, NY",
+      "datePosted": 1791436085,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -661,28 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e237c75edfa11b471062d",
       "location": "Baton Rouge, LA",
       "datePosted": 1791431637,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e22e368f82b4036738bd3",
-      "company": "IBM",
-      "title": "Associate Application Developer AWS - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e22e368f82b4036738bd3",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1791431632,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a580f963330ca6f993c31ca",
-      "company": "Auria Space",
-      "title": "Software Engineer - Sentinel",
-      "url": "https://jobright.ai/jobs/info/6a580f963330ca6f993c31ca",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1791431553,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
