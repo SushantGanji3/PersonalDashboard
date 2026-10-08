@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:50:18Z",
+  "generatedAt": "2026-10-08T13:00:23Z",
   "totalOpen": 1265,
   "totalNewgrad": 300,
   "totalOther": 965,
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac782e951a1b3e4219ed2ef",
+      "company": "IBM",
+      "title": "Microservices Developer",
+      "url": "https://jobright.ai/jobs/info/6ac782e951a1b3e4219ed2ef",
+      "location": "Lowell, MA; Cambridge, MA",
+      "datePosted": 1791434873,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa05a8e5b2d5633ef3be170",
@@ -58,7 +69,7 @@
       "datePosted": 1791434668,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e2d6e27c94c3d5a1cb637",
@@ -69,7 +80,7 @@
       "datePosted": 1791434667,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e2d492c964816f65ebd76",
@@ -80,7 +91,7 @@
       "datePosted": 1791434662,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e2d3575edfa11b47106fd",
@@ -102,7 +113,7 @@
       "datePosted": 1791434586,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e2db32c964816f65ebd7e",
@@ -113,7 +124,7 @@
       "datePosted": 1791434586,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0734a3b5aa83237b09340",
@@ -135,7 +146,7 @@
       "datePosted": 1791434583,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e2d7da7ba386c5d670ec0",
@@ -146,7 +157,7 @@
       "datePosted": 1791434572,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac77f7051a1b3e4219ed2d1",
@@ -672,17 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6ab1799523005eee3545aad5",
       "location": "Yorktown Heights, NY; San Jose, CA; Cambridge, MA",
       "datePosted": 1791430664,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac771e80dcbf8c485fd23a8",
-      "company": "IBM",
-      "title": "2027 Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac771e80dcbf8c485fd23a8",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1791430520,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
