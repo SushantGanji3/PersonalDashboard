@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:40:52Z",
+  "generatedAt": "2026-10-08T12:50:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791452417
+    },
+    {
+      "id": "newgrad-jobs:6a9e2d492c964816f65ebd76",
+      "company": "IBM",
+      "title": "Intern Data Engineer - Data Services - 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e2d492c964816f65ebd76",
+      "location": "Monroe, LA",
+      "datePosted": 1791434662,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791463818
+    },
+    {
+      "id": "newgrad-jobs:6aa0734a3b5aa83237b09340",
+      "company": "IBM",
+      "title": "Intern Application Developer 2027 - ServiceNow",
+      "url": "https://jobright.ai/jobs/info/6aa0734a3b5aa83237b09340",
+      "location": "Baton Rouge, LA",
+      "datePosted": 1791434585,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791463818
     },
     {
       "id": "newgrad-jobs:6ac77f7051a1b3e4219ed2d1",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789000222
-    },
-    {
-      "id": "newgrad-jobs:6aa163130ffb3d4fea6b481a",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa163130ffb3d4fea6b481a",
-      "location": "Vienna, VA",
-      "datePosted": 1788957368,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1789000222
-    },
-    {
-      "id": "newgrad-jobs:6aa1630cdbc0e60e37e110e4",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Associate Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1630cdbc0e60e37e110e4",
-      "location": "Vienna, VA",
-      "datePosted": 1788957368,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1789001422
     }
   ]
 }
