@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T08:10:21Z",
+  "generatedAt": "2026-10-08T08:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791423615
+    },
+    {
+      "id": "newgrad-jobs:6ac6fbc5d9621c5b283ab63f",
+      "company": "Axos Bank",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac6fbc5d9621c5b283ab63f",
+      "location": "San Diego, CA",
+      "datePosted": 1791419480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791447615
+    },
+    {
+      "id": "newgrad-jobs:6ac745858ff3fb9b3bc907a9",
+      "company": "Astera Labs",
+      "title": "Applied AI Intern (Non-Silicon)",
+      "url": "https://jobright.ai/jobs/info/6ac745858ff3fb9b3bc907a9",
+      "location": "San Jose, CA",
+      "datePosted": 1791419157,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791447615
+    },
+    {
+      "id": "newgrad-jobs:6ac7457e316e89f61e8af3cf",
+      "company": "Astera Labs",
+      "title": "Applied AI Engineer Intern (Silicon Engineering)",
+      "url": "https://jobright.ai/jobs/info/6ac7457e316e89f61e8af3cf",
+      "location": "San Jose, CA",
+      "datePosted": 1791419150,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791447615
     },
     {
       "id": "newgrad-jobs:6ac73dab744463a18c93146c",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789003557
-    },
-    {
-      "id": "newgrad-jobs:6a7a4a43a26ccc369f83dad3",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a7a4a43a26ccc369f83dad3",
-      "location": "Dallas, TX",
-      "datePosted": 1788942504,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789010417
-    },
-    {
-      "id": "newgrad-jobs:6a21bf7e7c30cc2cc516af30",
-      "company": "Amazon",
-      "title": "Cloud Systems Engineer I, ADC System Security Engineering",
-      "url": "https://jobright.ai/jobs/info/6a21bf7e7c30cc2cc516af30",
-      "location": "Herndon, VA",
-      "datePosted": 1788942164,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789045818
-    },
-    {
-      "id": "newgrad-jobs:6aa1770a500b01124c77cc6f",
-      "company": "CACI International Inc",
-      "title": "Software Engineering Intern \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa1770a500b01124c77cc6f",
-      "location": "Lisle, IL",
-      "datePosted": 1788941466,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1788990617
     }
   ]
 }
