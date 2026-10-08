@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:40:15Z",
+  "generatedAt": "2026-10-08T01:50:49Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "newgrad-jobs:6a8f7afe8ffa38557e6c9722",
+      "company": "Zipline",
+      "title": "Embedded Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a8f7afe8ffa38557e6c9722",
+      "location": "South San Francisco, CA",
+      "datePosted": 1791395163,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791424249
     },
     {
       "id": "newgrad-jobs:6ac6c13b064da25272e1c287",
@@ -298,6 +309,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "newgrad-jobs:6ac6ee444ac55253f5d7c9ad",
+      "company": "Quadric",
+      "title": "Deep Learning Compiler Intern",
+      "url": "https://jobright.ai/jobs/info/6ac6ee444ac55253f5d7c9ad",
+      "location": "Burlingame, CA; Pune, MH",
+      "datePosted": 1791384089,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791424249
     },
     {
       "id": "newgrad-jobs:6ac6a518372c01f6cd73e5cc",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6aa170de2f936e4a53dabb37",
-      "company": "Peraton",
-      "title": "Summer 2027 Cyber Research Intern",
-      "url": "https://jobright.ai/jobs/info/6aa170de2f936e4a53dabb37",
-      "location": "Silver Spring, MD; Bernards, NJ; Bedford, NH; West Lafayette, IN",
-      "datePosted": 1788939886,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1788990295
-    },
-    {
-      "id": "newgrad-jobs:6a84b3a42f4f0014cae2241b",
-      "company": "Relativity Space",
-      "title": "AI Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a84b3a42f4f0014cae2241b",
-      "location": "Long Beach, CA",
-      "datePosted": 1788939885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789000222
     }
   ]
 }
