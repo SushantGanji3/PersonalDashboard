@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:10:15Z",
+  "generatedAt": "2026-10-08T05:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "newgrad-jobs:6ac52f3b8ff3fb9b3bc8821d",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - CLOUDworks (SkillBridge Conversion)",
+      "url": "https://jobright.ai/jobs/info/6ac52f3b8ff3fb9b3bc8821d",
+      "location": "Dayton, OH; Beavercreek, OH",
+      "datePosted": 1791407523,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791436816
     },
     {
       "id": "newgrad-jobs:6ac69737064da25272e1b55a",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788999619
-    },
-    {
-      "id": "newgrad-jobs:6a70f59ecb96192a36846b41",
-      "company": "Amazon",
-      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
-      "url": "https://jobright.ai/jobs/info/6a70f59ecb96192a36846b41",
-      "location": "Cupertino, CA",
-      "datePosted": 1788941027,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
     }
   ]
 }
