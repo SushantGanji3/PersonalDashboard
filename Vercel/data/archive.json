@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:40:16Z",
+  "generatedAt": "2026-10-08T16:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791452417
+    },
+    {
+      "id": "newgrad-jobs:6ac7c03dfe8f33a85d4fce98",
+      "company": "SoloPulse",
+      "title": "Software Engineer Intern/Co-op - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6ac7c03dfe8f33a85d4fce98",
+      "location": "Peachtree Corners, GA",
+      "datePosted": 1791450573,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1791478217
+    },
+    {
+      "id": "newgrad-jobs:6a89b420cde3717f9e9b88f9",
+      "company": "Faraday Future",
+      "title": "Robotics Operations & SW Test Engineer",
+      "url": "https://jobright.ai/jobs/info/6a89b420cde3717f9e9b88f9",
+      "location": "Fremont, CA",
+      "datePosted": 1791450015,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791478217
+    },
+    {
+      "id": "newgrad-jobs:6ac7bb1544d6e65604a03dc7",
+      "company": "General Dynamics",
+      "title": "Junior Embedded RUST Software Engineer (cleared)",
+      "url": "https://jobright.ai/jobs/info/6ac7bb1544d6e65604a03dc7",
+      "location": "Dedham, MA",
+      "datePosted": 1791449253,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791478217
     },
     {
       "id": "newgrad-jobs:6aae4419de327d3e210d55cc",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789005016
-    },
-    {
-      "id": "newgrad-jobs:6aa1cdf8ef23570cae246586",
-      "company": "RTX",
-      "title": "Systems Engineer I- Onsite Portsmouth, RI",
-      "url": "https://jobright.ai/jobs/info/6aa1cdf8ef23570cae246586",
-      "location": "Portsmouth, RI",
-      "datePosted": 1788963720,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788999619
-    },
-    {
-      "id": "newgrad-jobs:6aa1cde8ef23570cae246582",
-      "company": "RTX",
-      "title": "Software Engineer I  (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa1cde8ef23570cae246582",
-      "location": "Tewksbury, MA",
-      "datePosted": 1788963704,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788999619
-    },
-    {
-      "id": "newgrad-jobs:6aa1cdd90ffb3d4fea6b73e6",
-      "company": "RTX",
-      "title": "Systems Engineer Intern -Portsmouth, RI",
-      "url": "https://jobright.ai/jobs/info/6aa1cdd90ffb3d4fea6b73e6",
-      "location": "Portsmouth, RI",
-      "datePosted": 1788963689,
-      "source": "newgrad-jobs",
-      "season": "Summer 2026",
-      "firstSeenAt": 1789000222
     }
   ]
 }
