@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-08T10:30:21Z",
-  "totalOpen": 1245,
-  "totalNewgrad": 280,
+  "generatedAt": "2026-10-08T10:40:18Z",
+  "totalOpen": 1244,
+  "totalNewgrad": 279,
   "totalOther": 965,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:66fcf084-7f7c-43ed-8947-83179031963c",
+      "company": "DoorDash",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+      "location": "SF, Sunnyvale, CA",
+      "datePosted": 1791453827,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:5b324f86-93db-4206-a6be-2406d36267e0",
       "company": "TikTok",
@@ -622,10 +633,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac6d3d98ff3fb9b3bc8f5d1",
+      "id": "newgrad-jobs:6ac6c24b4ac55253f5d7be87",
       "company": "State Street",
       "title": "Software Developer - Officer",
-      "url": "https://jobright.ai/jobs/info/6ac6d3d98ff3fb9b3bc8f5d1",
+      "url": "https://jobright.ai/jobs/info/6ac6c24b4ac55253f5d7be87",
       "location": "Princeton, NJ; Quincy, MA",
       "datePosted": 1791392593,
       "source": "newgrad-jobs",
@@ -1310,17 +1321,6 @@
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
       "location": "Chicago, IL",
       "datePosted": 1790864921,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:080ae983-f3c6-404a-9df2-ba7e7c54506e",
-      "company": "Tesla",
-      "title": "Data Engineer Intern - Data Engineer - Applications Engineering",
-      "url": "https://www.tesla.com/careers/search/job/285179",
-      "location": "Fremont, CA",
-      "datePosted": 1790817862,
       "source": "aggregator",
       "season": null,
       "isNew": false
