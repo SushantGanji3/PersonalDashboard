@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:40:16Z",
+  "generatedAt": "2026-10-08T22:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791499216
+    },
+    {
+      "id": "newgrad-jobs:6ac8140d44d6e65604a05f83",
+      "company": "RFA Engineering",
+      "title": "Software Engineer - Test and Validation",
+      "url": "https://jobright.ai/jobs/info/6ac8140d44d6e65604a05f83",
+      "location": "Urbandale, IA",
+      "datePosted": 1791472028,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791499816
+    },
+    {
+      "id": "newgrad-jobs:6ac80ba151a1b3e4219f01cf",
+      "company": "AV",
+      "title": "Associate Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac80ba151a1b3e4219f01cf",
+      "location": "Simi Valley, CA",
+      "datePosted": 1791470837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791499816
     },
     {
       "id": "newgrad-jobs:6ac80e10a444ac5d36f876af",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789014016
-    },
-    {
-      "id": "newgrad-jobs:6aa3dd72f3aa936e2cdae4c4",
-      "company": "Akamai Technologies",
-      "title": "Software Engineer - Netstats Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa3dd72f3aa936e2cdae4c4",
-      "location": "United States",
-      "datePosted": 1788981970,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789131622
-    },
-    {
-      "id": "newgrad-jobs:6aa204740ffb3d4fea6b843b",
-      "company": "Epic Games",
-      "title": "UI Programmer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa204740ffb3d4fea6b843b",
-      "location": "Cary, NC",
-      "datePosted": 1788979047,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789006821
     }
   ]
 }
