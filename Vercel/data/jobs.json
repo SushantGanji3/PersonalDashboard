@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T07:30:23Z",
-  "totalOpen": 1256,
-  "totalNewgrad": 284,
+  "generatedAt": "2026-10-08T07:40:16Z",
+  "totalOpen": 1257,
+  "totalNewgrad": 285,
   "totalOther": 972,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,28 @@
       "location": "Seattle, WA",
       "datePosted": 1791421646,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac73dab744463a18c93146c",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern - Labs (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac73dab744463a18c93146c",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "datePosted": 1791417147,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac555bc4ac55253f5d76111",
+      "company": "Deloitte",
+      "title": "Data Scientist - AI and Data Science Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac555bc4ac55253f5d76111",
+      "location": "Morristown, NJ; Jersey City, NJ",
+      "datePosted": 1791415008,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -391,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a58747972fe7a7b98dce6e6",
+      "id": "newgrad-jobs:6a429849ff87fd527f984c59",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Defense Tech",
-      "url": "https://jobright.ai/jobs/info/6a58747972fe7a7b98dce6e6",
+      "url": "https://jobright.ai/jobs/info/6a429849ff87fd527f984c59",
       "location": "Palo Alto, CA; Washington, DC",
       "datePosted": 1791392279,
       "source": "newgrad-jobs",
@@ -705,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
       "location": "Fort Belvoir, VA",
       "datePosted": 1791383350,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4ccf0bc643fd23fed3aecc",
-      "company": "Oratomic",
-      "title": "Software and AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4ccf0bc643fd23fed3aecc",
-      "location": "Pasadena, CA",
-      "datePosted": 1791383123,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab32ad51508734c1530de68",
-      "company": "DCS Corp",
-      "title": "Intern - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ab32ad51508734c1530de68",
-      "location": "Dayton, OH",
-      "datePosted": 1791383028,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
