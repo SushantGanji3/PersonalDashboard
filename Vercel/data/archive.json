@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:40:19Z",
+  "generatedAt": "2026-10-08T14:50:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791452417
+    },
+    {
+      "id": "newgrad-jobs:6abd50a34ac55253f5d5cbc4",
+      "company": "AbbVie",
+      "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+      "url": "https://jobright.ai/jobs/info/6abd50a34ac55253f5d5cbc4",
+      "location": "Irvine, CA; Lake County, IL, United States",
+      "datePosted": 1791442393,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791471019
     },
     {
       "id": "newgrad-jobs:6ac79b06fe8f33a85d4fc1ef",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788999619
-    },
-    {
-      "id": "newgrad-jobs:6aa1aa9ddbc0e60e37e12f4b",
-      "company": "Hypertherm Associates",
-      "title": "Summer Intern - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa1aa9ddbc0e60e37e12f4b",
-      "location": "Lebanon, NH",
-      "datePosted": 1788961262,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1789005016
     }
   ]
 }
