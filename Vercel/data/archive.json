@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T18:20:18Z",
+  "generatedAt": "2026-10-08T18:30:21Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791483618
+    },
+    {
+      "id": "newgrad-jobs:6ac7ce67fe8f33a85d4fd418",
+      "company": "Barrett Solutions",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac7ce67fe8f33a85d4fd418",
+      "location": "Ann Arbor, MI",
+      "datePosted": 1791454199,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791484221
     },
     {
       "id": "newgrad-jobs:6ac7ccfe44d6e65604a044ad",
@@ -1090,6 +1101,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791477018
+    },
+    {
+      "id": "newgrad-jobs:6ac7ce5dfcdafb60c6a45d8a",
+      "company": "MIT Lincoln Laboratory",
+      "title": "Summer Research Program Intern 2027, AI & Machine Learning Researcher (Group 05-52)",
+      "url": "https://jobright.ai/jobs/info/6ac7ce5dfcdafb60c6a45d8a",
+      "location": "Lexington, MA",
+      "datePosted": 1791392400,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "firstSeenAt": 1791484221
     },
     {
       "id": "newgrad-jobs:6ac6db38372c01f6cd73f6d7",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789005016
-    },
-    {
-      "id": "newgrad-jobs:6aa1f354500b01124c77fbe3",
-      "company": "General Dynamics",
-      "title": "Systems Engineer Entry Level - clearance required",
-      "url": "https://jobright.ai/jobs/info/6aa1f354500b01124c77fbe3",
-      "location": "Dedham, MA",
-      "datePosted": 1788966015,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789005016
-    },
-    {
-      "id": "newgrad-jobs:6aa1d650500b01124c77f476",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Real Time Aviation Data",
-      "url": "https://jobright.ai/jobs/info/6aa1d650500b01124c77f476",
-      "location": "Chanhassen, MN",
-      "datePosted": 1788965856,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789003557
     }
   ]
 }
