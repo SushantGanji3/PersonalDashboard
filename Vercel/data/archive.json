@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:40:15Z",
+  "generatedAt": "2026-10-08T23:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791499216
+    },
+    {
+      "id": "newgrad-jobs:6ac8211c0e573df8adc76465",
+      "company": "Mach9",
+      "title": "Perception Intern, Fall 2026",
+      "url": "https://jobright.ai/jobs/info/6ac8211c0e573df8adc76465",
+      "location": "San Francisco, CA",
+      "datePosted": 1791475372,
+      "source": "newgrad-jobs",
+      "season": "Fall 2026",
+      "firstSeenAt": 1791503415
     },
     {
       "id": "newgrad-jobs:6ac8162a51a1b3e4219f0416",
@@ -54990,17 +55001,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1789036821
-    },
-    {
-      "id": "simplify:fad8dfc2-103b-425b-923f-9e4176ee1e3d",
-      "company": "ServiceNow",
-      "title": "Software Engineer - AI Developer Products",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148580489",
-      "location": "San Diego, CA",
-      "datePosted": 1788991641,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788993618
     }
   ]
 }
