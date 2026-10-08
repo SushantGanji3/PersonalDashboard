@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:00:19Z",
+  "generatedAt": "2026-10-08T00:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "newgrad-jobs:6ac6d8a60e027c0f3b3b4aa0",
+      "company": "Niantic Spatial, Inc.",
+      "title": "AI Engineer, Computer Vision",
+      "url": "https://jobright.ai/jobs/info/6ac6d8a60e027c0f3b3b4aa0",
+      "location": "San Francisco, CA",
+      "datePosted": 1791391286,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791418217
+    },
+    {
+      "id": "newgrad-jobs:6ac69ac00e027c0f3b3b365f",
+      "company": "ITW",
+      "title": "Summer 2027 Software Engineer Intern (Application Software)",
+      "url": "https://jobright.ai/jobs/info/6ac69ac00e027c0f3b3b365f",
+      "location": "Eden Prairie, MN",
+      "datePosted": 1791390120,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791418217
     },
     {
       "id": "newgrad-jobs:6ac6cbb48ff3fb9b3bc8f414",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6a75d5eaa26ccc369f832468",
-      "company": "Leonardo DRS",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a75d5eaa26ccc369f832468",
-      "location": "Bridgeton, MO",
-      "datePosted": 1788936482,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990617
-    },
-    {
-      "id": "newgrad-jobs:6a8a62e2d34f700f87fccc29",
-      "company": "Leonardo DRS",
-      "title": "Embedded Software Engineer Intern Job Details | Leonardo DRS, Inc.",
-      "url": "https://jobright.ai/jobs/info/6a8a62e2d34f700f87fccc29",
-      "location": "Bridgeton, MO",
-      "datePosted": 1788936482,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990617
     }
   ]
 }
