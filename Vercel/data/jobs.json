@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:10:17Z",
+  "generatedAt": "2026-10-08T00:20:31Z",
   "totalOpen": 1249,
   "totalNewgrad": 278,
   "totalOther": 971,
@@ -50,12 +50,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac6d8ec0e027c0f3b3b4ab3",
+      "company": "Oratomic",
+      "title": "Embedded Hardware & Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac6d8ec0e027c0f3b3b4ab3",
+      "location": "Pasadena, CA",
+      "datePosted": 1791391356,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac6d8a60e027c0f3b3b4aa0",
       "company": "Niantic Spatial, Inc.",
       "title": "AI Engineer, Computer Vision",
       "url": "https://jobright.ai/jobs/info/6ac6d8a60e027c0f3b3b4aa0",
       "location": "San Francisco, CA",
       "datePosted": 1791391286,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6d3d98ff3fb9b3bc8f5d1",
+      "company": "State Street",
+      "title": "Software Developer - Officer",
+      "url": "https://jobright.ai/jobs/info/6ac6d3d98ff3fb9b3bc8f5d1",
+      "location": "Princeton, NJ; Quincy, MA",
+      "datePosted": 1791391250,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "company": "Capgemini",
+      "title": "JOB ID 12239: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "location": "Ashburn, VA",
+      "datePosted": 1791391147,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -69,6 +102,17 @@
       "datePosted": 1791390120,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3cb754233a2201a2b3bc4",
+      "company": "Madison Metropolitan School District",
+      "title": "Programmer I - Doyle - 1.0 FTE - SY 26-27",
+      "url": "https://jobright.ai/jobs/info/6aa3cb754233a2201a2b3bc4",
+      "location": "Madison, WI",
+      "datePosted": 1791389839,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -81,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6b316064da25272e1be77",
+      "company": "Capgemini",
+      "title": "Microsoft Dynamics Developer",
+      "url": "https://jobright.ai/jobs/info/6ac6b316064da25272e1be77",
+      "location": "Atlanta, GA",
+      "datePosted": 1791389047,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac6a2f14ac55253f5d7b4d5",
@@ -149,15 +204,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac6993e8ff3fb9b3bc8e1a6",
+      "id": "newgrad-jobs:6ac69660d9621c5b283a9b15",
       "company": "Abbott",
       "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac6993e8ff3fb9b3bc8e1a6",
+      "url": "https://jobright.ai/jobs/info/6ac69660d9621c5b283a9b15",
       "location": "Plymouth, MN",
       "datePosted": 1791387366,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a755424c95371686f9b824c",
@@ -650,61 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ac6aad84ac55253f5d7b6fd",
       "location": "Hanover, MD",
       "datePosted": 1791379560,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a99bbeead752e2ad550187b",
-      "company": "Zefr",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a99bbeead752e2ad550187b",
-      "location": "Marina del Rey, CA",
-      "datePosted": 1791379285,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6a9b98ff3fb9b3bc8e6f1",
-      "company": "CACI International Inc",
-      "title": "Entry Level C# Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac6a9b98ff3fb9b3bc8e6f1",
-      "location": "Virginia Beach, VA",
-      "datePosted": 1791379273,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac55154372c01f6cd73908f",
-      "company": "AV",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f",
-      "location": "Moorpark, CA",
-      "datePosted": 1791379056,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac53fc3372c01f6cd73875e",
-      "company": "AV",
-      "title": "Software Engineer (EMB), I",
-      "url": "https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
-      "location": "Moorpark, CA",
-      "datePosted": 1791379011,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5f5224f68dd368023e5e1f",
-      "company": "CNF Technologies",
-      "title": "SOFTWARE DEVELOPER - TS/SCI in MD",
-      "url": "https://jobright.ai/jobs/info/6a5f5224f68dd368023e5e1f",
-      "location": "Fort Meade, MD",
-      "datePosted": 1791378915,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
