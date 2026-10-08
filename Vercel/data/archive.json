@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:20:14Z",
+  "generatedAt": "2026-10-08T16:30:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791452417
+    },
+    {
+      "id": "newgrad-jobs:6aae4419de327d3e210d55cc",
+      "company": "Rincon Research Corporation",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aae4419de327d3e210d55cc",
+      "location": "Centennial, CO; Tucson, AZ; Colorado Springs, CO; Chantilly, VA",
+      "datePosted": 1791448047,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791477018
+    },
+    {
+      "id": "newgrad-jobs:6a9fcd7968f82b403673dcd8",
+      "company": "Farm Credit Services of America",
+      "title": "Application Developer - Intern",
+      "url": "https://jobright.ai/jobs/info/6a9fcd7968f82b403673dcd8",
+      "location": "Omaha, NE",
+      "datePosted": 1791447429,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791477018
     },
     {
       "id": "newgrad-jobs:6ac60e52064da25272e18f55",
@@ -903,6 +925,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791423020
+    },
+    {
+      "id": "newgrad-jobs:6ac7b63251a1b3e4219ee124",
+      "company": "Gordon Food Service",
+      "title": "Software Engineer Intern (Transportation Routing )",
+      "url": "https://jobright.ai/jobs/info/6ac7b63251a1b3e4219ee124",
+      "location": "Wyoming, MI",
+      "datePosted": 1791392400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791477018
     },
     {
       "id": "newgrad-jobs:6ac6db38372c01f6cd73f6d7",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2026",
       "firstSeenAt": 1789000222
-    },
-    {
-      "id": "newgrad-jobs:6aa1cdd62f936e4a53dae38f",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027) (Open)",
-      "url": "https://jobright.ai/jobs/info/6aa1cdd62f936e4a53dae38f",
-      "location": "Aurora, CO",
-      "datePosted": 1788963686,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789000222
-    },
-    {
-      "id": "newgrad-jobs:6aa1cdd1ef23570cae246570",
-      "company": "Collins Aerospace",
-      "title": "Software Engineering I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa1cdd1ef23570cae246570",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1788963681,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788999619
-    },
-    {
-      "id": "newgrad-jobs:6aa1cadb0ffb3d4fea6b72b1",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa1cadb0ffb3d4fea6b72b1",
-      "location": "Overland Park, KS; Bellevue, WA",
-      "datePosted": 1788962923,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788999619
     }
   ]
 }
