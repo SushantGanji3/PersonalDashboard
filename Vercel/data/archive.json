@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T04:40:16Z",
+  "generatedAt": "2026-10-08T04:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791412815
+    },
+    {
+      "id": "newgrad-jobs:6ac69737064da25272e1b55a",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac69737064da25272e1b55a",
+      "location": "Berkeley, MO",
+      "datePosted": 1791406145,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791435016
+    },
+    {
+      "id": "newgrad-jobs:6ac6fa82064da25272e1cfa9",
+      "company": "Powertown",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac6fa82064da25272e1cfa9",
+      "location": "Boston, MA",
+      "datePosted": 1791402055,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791435016
     },
     {
       "id": "newgrad-jobs:6ac6fed5d9621c5b283ab6c7",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6aa17461500b01124c77cb9b",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Systems Engineer - JobID-0196",
-      "url": "https://jobright.ai/jobs/info/6aa17461500b01124c77cb9b",
-      "location": "Mount Laurel Township, NJ; Arlington, VA",
-      "datePosted": 1788940785,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990017
-    },
-    {
-      "id": "newgrad-jobs:6aa17413dbc0e60e37e11592",
-      "company": "IBM",
-      "title": "Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa17413dbc0e60e37e11592",
-      "location": "Poughkeepsie, NY; Rochester, NY; Tucson, AZ; San Jose, CA; Austin, TX; Minnesota, United States; Texas, United States; NY, United States; AZ, United States; California, United States",
-      "datePosted": 1788940707,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1788990617
     }
   ]
 }
