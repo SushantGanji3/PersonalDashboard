@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:40:15Z",
+  "generatedAt": "2026-10-09T20:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791556816
+    },
+    {
+      "id": "newgrad-jobs:6ac94823fe8f33a85d5031c1",
+      "company": "Loram UK Ltd",
+      "title": "Machine Learning / Artificial Intelligence (AI) Intern",
+      "url": "https://jobright.ai/jobs/info/6ac94823fe8f33a85d5031c1",
+      "location": "Medina, MN",
+      "datePosted": 1791550899,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791579015
     },
     {
       "id": "newgrad-jobs:6ac91117d4a5a03707410887",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789104017
-    },
-    {
-      "id": "newgrad-jobs:6a32aab5f6b55d12c7914f0e",
-      "company": "Swift",
-      "title": "Software Development Engineer in Test (SDET)",
-      "url": "https://jobright.ai/jobs/info/6a32aab5f6b55d12c7914f0e",
-      "location": "Manassas, VA",
-      "datePosted": 1789039739,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789067416
     }
   ]
 }
