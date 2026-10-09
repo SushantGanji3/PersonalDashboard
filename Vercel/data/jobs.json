@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-09T02:00:30Z",
-  "totalOpen": 1239,
-  "totalNewgrad": 270,
+  "generatedAt": "2026-10-09T02:10:16Z",
+  "totalOpen": 1240,
+  "totalNewgrad": 271,
   "totalOther": 969,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:120709b5-ed04-4080-906e-7c8a7adfb299",
+      "company": "Lucid Motors",
+      "title": "Software Engineer - ADAS Behavior Planning and Integration",
+      "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
+      "location": "Newark, CA",
+      "datePosted": 1791509800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:07705204-70be-436b-85af-c48fd1f5e63d",
       "company": "Snowflake",
@@ -59,6 +70,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac8437d44d6e65604a06bcb",
+      "company": "MOOD Content",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac8437d44d6e65604a06bcb",
+      "location": "North Chicago, IL",
+      "datePosted": 1791484173,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac8430ffcdafb60c6a4838e",
+      "company": "MOOD Content",
+      "title": "Junior CRM Developer",
+      "url": "https://jobright.ai/jobs/info/6ac8430ffcdafb60c6a4838e",
+      "location": "United States",
+      "datePosted": 1791484063,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac841b20e573df8adc76b11",
@@ -699,28 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab57afeb3db59402d0fcdee",
-      "company": "Astranis Space Technologies",
-      "title": "Software Developer, Network Software Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab57afeb3db59402d0fcdee",
-      "location": "San Francisco, CA",
-      "datePosted": 1791463075,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab57ae9c6fe0dec811a140e",
-      "company": "Astranis Space Technologies",
-      "title": "Software Developer, Network Software Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab57ae9c6fe0dec811a140e",
-      "location": "San Francisco, CA",
-      "datePosted": 1791463069,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:5b324f86-93db-4206-a6be-2406d36267e0",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
@@ -1310,17 +1321,6 @@
       "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
       "location": "NYC",
       "datePosted": 1790903947,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:33ae8cab-9f3b-486e-9f60-5c43fd1f1e48",
-      "company": "Riot Games",
-      "title": "Software Engineer Intern",
-      "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014",
-      "location": "LA",
-      "datePosted": 1790894254,
       "source": "aggregator",
       "season": null,
       "isNew": false
