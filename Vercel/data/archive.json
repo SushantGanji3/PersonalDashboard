@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:10:34Z",
+  "generatedAt": "2026-10-09T21:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791556816
+    },
+    {
+      "id": "newgrad-jobs:6ac94d85fcdafb60c6a4bc3a",
+      "company": "IBM",
+      "title": "Research Scientist - R&D Internship \u2013 2027 Yorktown Heights & Cambridge",
+      "url": "https://jobright.ai/jobs/info/6ac94d85fcdafb60c6a4bc3a",
+      "location": "Cambridge, MA; Yorktown Heights, NY",
+      "datePosted": 1791552277,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791580816
     },
     {
       "id": "newgrad-jobs:6ac94823fe8f33a85d5031c1",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789121418
-    },
-    {
-      "id": "newgrad-jobs:6aa3865c959a10d7230d2230",
-      "company": "Tanium",
-      "title": "Software Engineering Intern \u2013\u00a0Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa3865c959a10d7230d2230",
-      "location": "Durham, NC; Emeryville, CA",
-      "datePosted": 1789040706,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789104017
     }
   ]
 }
