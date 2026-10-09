@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:40:17Z",
+  "generatedAt": "2026-10-09T12:50:18Z",
   "totalOpen": 1233,
   "totalNewgrad": 266,
   "totalOther": 967,
@@ -15,6 +15,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a62e0b1185082502f484326",
+      "company": "Brellium",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a62e0b1185082502f484326",
+      "location": "New York, NY",
+      "datePosted": 1791520409,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac8d05bc3a8af9c54a07c30",
@@ -144,6 +155,17 @@
       "url": "https://jobright.ai/jobs/info/6ac8b4a3af788e6ad3b582c1",
       "location": "McLean, VA",
       "datePosted": 1791513139,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1791512987,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -705,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6ac8162a51a1b3e4219f0416",
       "location": "Seattle, WA",
       "datePosted": 1791478124,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac88e60fcdafb60c6a48cd2",
-      "company": "Berkeley Industrial Engineering & Operations Research",
-      "title": "Software Engineer Intern - Software, AI, & Machine Learning at Space Dynamics Laboratory",
-      "url": "https://jobright.ai/jobs/info/6ac88e60fcdafb60c6a48cd2",
-      "location": "Indianapolis, IN",
-      "datePosted": 1791478119,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7f97e0e573df8adc755e6",
-      "company": "Roblox",
-      "title": "Software Engineer, Engine Systems",
-      "url": "https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
-      "location": "San Mateo, CA",
-      "datePosted": 1791476447,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
