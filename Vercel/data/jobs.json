@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T14:20:17Z",
-  "totalOpen": 1230,
-  "totalNewgrad": 263,
+  "generatedAt": "2026-10-09T14:30:19Z",
+  "totalOpen": 1229,
+  "totalNewgrad": 262,
   "totalOther": 967,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791526178,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aada2f13d96632d741af0fa",
@@ -25,6 +25,28 @@
       "datePosted": 1791525867,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
+      "location": "Fort Worth, TX",
+      "datePosted": 1791525272,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3fc514ac55253f5d702f4",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - Early Career",
+      "url": "https://jobright.ai/jobs/info/6ac3fc514ac55253f5d702f4",
+      "location": "Orlando, FL",
+      "datePosted": 1791525255,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -37,6 +59,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3aedb4649fdf162930671e",
+      "company": "HBK - Hottinger Br\u00fcel & Kj\u00e6r",
+      "title": "RedHawk Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a3aedb4649fdf162930671e",
+      "location": "Pompano Beach, FL",
+      "datePosted": 1791524484,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
@@ -545,10 +578,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a1f707b804915678116a3af",
+      "id": "newgrad-jobs:6a1f7077804915678116a389",
       "company": "Baseten",
       "title": "Software Engineer, Model Performance Systems",
-      "url": "https://jobright.ai/jobs/info/6a1f707b804915678116a3af",
+      "url": "https://jobright.ai/jobs/info/6a1f7077804915678116a389",
       "location": "New York, NY; San Francisco, CA",
       "datePosted": 1791486005,
       "source": "newgrad-jobs",
@@ -688,45 +721,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac83471fcdafb60c6a48113",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ac83471fcdafb60c6a48113",
-      "location": "Boulder, CO; Herndon, VA; Longmont, CO",
-      "datePosted": 1791480321,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac8344bfcdafb60c6a48111",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
       "url": "https://jobright.ai/jobs/info/6ac8344bfcdafb60c6a48111",
       "location": "Littleton, CO",
       "datePosted": 1791480283,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8344944d6e65604a06936",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6ac8344944d6e65604a06936",
-      "location": "Littleton, CO",
-      "datePosted": 1791480281,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab598509d4843569fe4b2cd",
-      "company": "Cotiviti",
-      "title": "Intern AI Engineer, Early-Career \u2013 LLM Context & Data Layer (Healthcare)",
-      "url": "https://jobright.ai/jobs/info/6ab598509d4843569fe4b2cd",
-      "location": "United States",
-      "datePosted": 1791479768,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
