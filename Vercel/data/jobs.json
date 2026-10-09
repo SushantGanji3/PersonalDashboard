@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T07:00:55Z",
-  "totalOpen": 1234,
-  "totalNewgrad": 266,
+  "generatedAt": "2026-10-09T07:10:26Z",
+  "totalOpen": 1233,
+  "totalNewgrad": 265,
   "totalOther": 968,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1791500520,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac87de3af788e6ad3b57bba",
@@ -59,6 +59,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac8393d0e573df8adc769eb",
+      "company": "Rocket",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6ac8393d0e573df8adc769eb",
+      "location": "Seattle, WA",
+      "datePosted": 1791498437,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac855ac0e573df8adc76caa",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Storage Systems/Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac855ac0e573df8adc76caa",
+      "location": "Andover, MA",
+      "datePosted": 1791497978,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:c81df585-c144-4df1-8111-2a31dee7970f",
@@ -103,6 +125,61 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac68255372c01f6cd73d8b8",
+      "company": "Northrop Grumman",
+      "title": "Sentinel - Systems Engineer - Post Flight Data Analysis - 20143",
+      "url": "https://jobright.ai/jobs/info/6ac68255372c01f6cd73d8b8",
+      "location": "Roy, UT",
+      "datePosted": 1791497103,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac8382e44d6e65604a06a0f",
+      "company": "AV",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac8382e44d6e65604a06a0f",
+      "location": "Albuquerque, NM",
+      "datePosted": 1791495422,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac888bcfe8f33a85d5002f4",
+      "company": "Boeing",
+      "title": "Ground Software Engineer - Millennium Space Systems",
+      "url": "https://jobright.ai/jobs/info/6ac888bcfe8f33a85d5002f4",
+      "location": "Chantilly, VA",
+      "datePosted": 1791494689,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abad945ee0b348be729be09",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abad945ee0b348be729be09",
+      "location": "Hazelwood, MO",
+      "datePosted": 1791493866,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac8285144d6e65604a06654",
+      "company": "AV",
+      "title": "Software Engineer (Apps), I",
+      "url": "https://jobright.ai/jobs/info/6ac8285144d6e65604a06654",
+      "location": "San Diego, CA",
+      "datePosted": 1791493631,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac8064244d6e65604a05c4a",
@@ -226,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
       "location": "Ashburn, VA",
       "datePosted": 1791480412,
       "source": "newgrad-jobs",
@@ -446,10 +523,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa19aeb500b01124c77dd33",
+      "id": "newgrad-jobs:6a81a5f9e51a1e18a241fab4",
       "company": "Noblis",
       "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa19aeb500b01124c77dd33",
+      "url": "https://jobright.ai/jobs/info/6a81a5f9e51a1e18a241fab4",
       "location": "Philadelphia, PA",
       "datePosted": 1791471327,
       "source": "newgrad-jobs",
@@ -650,83 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6ac7fdc951a1b3e4219efbd6",
       "location": "United States",
       "datePosted": 1791466939,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa5e978a77a53f5a1572925",
-      "company": "IBM",
-      "title": "AI Native Systems Research Scientist Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa5e978a77a53f5a1572925",
-      "location": "Yorktown Heights, NY",
-      "datePosted": 1791466558,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab66744c6fe0dec811a4aaf",
-      "company": "McKinsey & Company",
-      "title": "AI Data Engineer Intern - QuantumBlack, AI by McKinsey",
-      "url": "https://jobright.ai/jobs/info/6ab66744c6fe0dec811a4aaf",
-      "location": "Atlanta, GA; Boston, MA; Chicago, IL; New York, NY",
-      "datePosted": 1791466550,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a714fe071acd469eeda2677",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok - Shoot Experience Optimization) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a714fe071acd469eeda2677",
-      "location": "San Jose, CA",
-      "datePosted": 1791466181,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7cce8a444ac5d36f85d19",
-      "company": "Capgemini",
-      "title": "Junior Frontend developer",
-      "url": "https://jobright.ai/jobs/info/6ac7cce8a444ac5d36f85d19",
-      "location": "Chicago, IL",
-      "datePosted": 1791465229,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8baf010b1cd4f41603ba5",
-      "company": "Booz Allen Hamilton",
-      "title": "University, Applied AI Software Development Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8baf010b1cd4f41603ba5",
-      "location": "McLean, VA",
-      "datePosted": 1791465106,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7e45444d6e65604a04f61",
-      "company": "Cloud and Things",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac7e45444d6e65604a04f61",
-      "location": "Albany, NY",
-      "datePosted": 1791464699,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7c2f4a444ac5d36f858bd",
-      "company": "Veryable",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac7c2f4a444ac5d36f858bd",
-      "location": "Dallas, TX",
-      "datePosted": 1791464391,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
