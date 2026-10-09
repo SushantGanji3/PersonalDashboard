@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-09T06:00:19Z",
+  "generatedAt": "2026-10-09T06:10:16Z",
   "totalOpen": 1234,
-  "totalNewgrad": 265,
-  "totalOther": 969,
+  "totalNewgrad": 266,
+  "totalOther": 968,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac87de3af788e6ad3b57bba",
+      "company": "American Express",
+      "title": "Cyber Security Engineer-Application Security Tooling (SCA/SAST/ DAST/ MAST/ API Security)",
+      "url": "https://jobright.ai/jobs/info/6ac87de3af788e6ad3b57bba",
+      "location": "Phoenix, AZ",
+      "datePosted": 1791499123,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:b84cde68-8811-482e-ad0d-fb3108bad985",
@@ -716,17 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6abc174092b2612ef0f8cc57",
       "location": "Torrance, CA",
       "datePosted": 1791464148,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7f35b44d6e65604a05406",
-      "company": "Figure AI",
-      "title": "Associate AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac7f35b44d6e65604a05406",
-      "location": "United States",
-      "datePosted": 1791463659,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
