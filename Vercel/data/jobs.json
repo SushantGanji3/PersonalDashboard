@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-09T14:30:19Z",
-  "totalOpen": 1229,
+  "generatedAt": "2026-10-09T14:40:16Z",
+  "totalOpen": 1230,
   "totalNewgrad": 262,
-  "totalOther": 967,
+  "totalOther": 968,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:babf8103-ce88-446d-ae83-d600bf03ebdc",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+      "url": "https://www.metacareers.com/jobs/2211974449401350",
+      "location": "Burlingame, CA, Redmond, WA",
+      "datePosted": 1791555240,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a729020e2b7476e7b213e61",
       "company": "Asure Software",
@@ -36,7 +47,7 @@
       "datePosted": 1791525272,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3fc514ac55253f5d702f4",
@@ -47,7 +58,7 @@
       "datePosted": 1791525255,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac7e18f51a1b3e4219ef2ae",
@@ -69,7 +80,7 @@
       "datePosted": 1791524484,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
@@ -1310,17 +1321,6 @@
       "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
       "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA",
       "datePosted": 1790921279,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7e635a7d-4a28-41ba-a06c-d0b08875dfae",
-      "company": "Walleye Capital",
-      "title": "Special Projects Developer Intern",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
-      "location": "NYC",
-      "datePosted": 1790903947,
       "source": "aggregator",
       "season": null,
       "isNew": false
