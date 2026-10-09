@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-09T23:00:19Z",
+  "generatedAt": "2026-10-09T23:10:16Z",
   "totalOpen": 1232,
-  "totalNewgrad": 262,
-  "totalOther": 970,
+  "totalNewgrad": 260,
+  "totalOther": 972,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -35,6 +35,17 @@
       "location": "Menlo Park, CA",
       "datePosted": 1791584161,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
+      "company": "Faraday Future",
+      "title": "Robotics Data Operator Intern",
+      "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
+      "location": "El Segundo, CA; Los Angeles, CA",
+      "datePosted": 1791560411,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -633,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
-      "company": "Faraday Future",
-      "title": "Robotics Data Operator Intern",
-      "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
-      "location": "El Segundo, CA; Los Angeles, CA",
-      "datePosted": 1791546004,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac934f4af788e6ad3b5a77d",
       "company": "Fusion Technology LLC",
       "title": "Software Developer Intern",
@@ -785,6 +785,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:66fcf084-7f7c-43ed-8947-83179031963c",
+      "company": "DoorDash",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+      "location": "SF, Sunnyvale, CA",
+      "datePosted": 1791453827,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:5b324f86-93db-4206-a6be-2406d36267e0",
@@ -1312,17 +1323,6 @@
       "datePosted": 1790979917,
       "source": "aggregator",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b7368293-9c8c-4b02-8787-dddbcf2af626",
-      "company": "Affirm",
-      "title": "Software Engineer Intern - Machine Learning",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-      "location": "SF",
-      "datePosted": 1790979178,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
