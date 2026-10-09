@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T00:00:19Z",
-  "totalOpen": 1229,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-10-09T00:10:16Z",
+  "totalOpen": 1230,
+  "totalNewgrad": 262,
   "totalOther": 968,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -46,6 +46,17 @@
       "location": "Seattle, WA",
       "datePosted": 1791497917,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac7f97e0e573df8adc755e6",
+      "company": "Roblox",
+      "title": "Software Engineer, Engine Systems",
+      "url": "https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
+      "location": "San Mateo, CA",
+      "datePosted": 1791476447,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -116,15 +127,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a81a5f9e51a1e18a241fab4",
+      "id": "newgrad-jobs:6aa19aeb500b01124c77dd33",
       "company": "Noblis",
       "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a81a5f9e51a1e18a241fab4",
+      "url": "https://jobright.ai/jobs/info/6aa19aeb500b01124c77dd33",
       "location": "Philadelphia, PA",
       "datePosted": 1791471327,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac80ba151a1b3e4219f01cf",
@@ -413,17 +424,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac7f97e0e573df8adc755e6",
-      "company": "Roblox",
-      "title": "Software Engineer, Engine Systems",
-      "url": "https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
-      "location": "San Mateo, CA",
-      "datePosted": 1791465230,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac7cce8a444ac5d36f85d19",
       "company": "Capgemini",
       "title": "Junior Frontend developer",
@@ -435,10 +435,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8baf010b1cd4f41603ba5",
+      "id": "newgrad-jobs:6ac7eaebfe8f33a85d4fe018",
       "company": "Booz Allen Hamilton",
       "title": "University, Applied AI Software Development Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8baf010b1cd4f41603ba5",
+      "url": "https://jobright.ai/jobs/info/6ac7eaebfe8f33a85d4fe018",
       "location": "McLean, VA",
       "datePosted": 1791465106,
       "source": "newgrad-jobs",

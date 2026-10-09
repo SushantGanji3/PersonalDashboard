@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:00:19Z",
+  "generatedAt": "2026-10-09T00:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -89,6 +89,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791499816
+    },
+    {
+      "id": "newgrad-jobs:6aa19aeb500b01124c77dd33",
+      "company": "Noblis",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa19aeb500b01124c77dd33",
+      "location": "Philadelphia, PA",
+      "datePosted": 1791471327,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791504616
     },
     {
       "id": "newgrad-jobs:6ac80ba151a1b3e4219f01cf",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789020021
-    },
-    {
-      "id": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",
-      "company": "Apple",
-      "title": "Software Engineer - Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200682706",
-      "location": "Austin, TX",
-      "datePosted": 1788991789,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789036821
     }
   ]
 }
