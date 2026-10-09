@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T19:40:15Z",
-  "totalOpen": 1239,
-  "totalNewgrad": 272,
+  "generatedAt": "2026-10-09T19:50:15Z",
+  "totalOpen": 1236,
+  "totalNewgrad": 269,
   "totalOther": 967,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,83 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abad1a37220f52e62ae8668",
+      "company": "FIS",
+      "title": "Software Engineering Intern Pipeline",
+      "url": "https://jobright.ai/jobs/info/6abad1a37220f52e62ae8668",
+      "location": "Jacksonville, FL; Atlanta, GA; Brown Deer, WI",
+      "datePosted": 1791547530,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac93a4eaf788e6ad3b5a920",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6ac93a4eaf788e6ad3b5a920",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1791547358,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab6a83ec6fe0dec811a5f47",
+      "company": "IBM",
+      "title": "Research Intern \u2014 AI and Quantum Algorithms for Optimization 2027",
+      "url": "https://jobright.ai/jobs/info/6ab6a83ec6fe0dec811a5f47",
+      "location": "Yorktown Heights, NY",
+      "datePosted": 1791547075,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab6a7dbd85922de20ce6018",
+      "company": "IBM",
+      "title": "Quantum Algorithms and Quantum Machine Learning Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6ab6a7dbd85922de20ce6018",
+      "location": "Chicago, IL",
+      "datePosted": 1791547041,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa439f31d92e2d05d113ee7",
+      "company": "IBM",
+      "title": "QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://jobright.ai/jobs/info/6aa439f31d92e2d05d113ee7",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1791547033,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac935b1af788e6ad3b5a7d2",
+      "company": "Rivian",
+      "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
+      "url": "https://jobright.ai/jobs/info/6ac935b1af788e6ad3b5a7d2",
+      "location": "Palo Alto, CA; Irvine, CA; Atlanta, GA; Normal, IL; Plymouth, MI",
+      "datePosted": 1791546177,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aac27f13d96632d741a9765",
+      "company": "GM Financial",
+      "title": "Intern - Oracle Application Developer",
+      "url": "https://jobright.ai/jobs/info/6aac27f13d96632d741a9765",
+      "location": "Irving, TX",
+      "datePosted": 1791546064,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac9353dfe8f33a85d502d55",
@@ -72,6 +149,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aac27ea2e757fcb5c8b4005",
+      "company": "GM Financial",
+      "title": "Intern - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4005",
+      "location": "Arlington, TX",
+      "datePosted": 1791545809,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac9314efe8f33a85d502ba1",
       "company": "Amentum",
       "title": "Software Developer - Junior (Team 01)",
@@ -124,17 +212,6 @@
       "datePosted": 1791544370,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac27ea2e757fcb5c8b4004",
-      "company": "GM Financial",
-      "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4004",
-      "location": "Arlington, TX",
-      "datePosted": 1791544167,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -589,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac907defcdafb60c6a4a5e5",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6ac907defcdafb60c6a4a5e5",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1791534446,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aac53413e3ce93970c7cfe2",
       "company": "IBM",
       "title": "Site Reliability Engineer Network Intern - OneIT - Austin, TX",
@@ -608,72 +674,6 @@
       "datePosted": 1791534252,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac90670c3a8af9c54a089d4",
-      "company": "General Dynamics",
-      "title": "Software Engineer \u2013 Junior Level for Cross Domain Solutions",
-      "url": "https://jobright.ai/jobs/info/6ac90670c3a8af9c54a089d4",
-      "location": "Taunton, MA",
-      "datePosted": 1791534080,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8e24cc3a8af9c54a08107",
-      "company": "RTX",
-      "title": "Full Stack Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ac8e24cc3a8af9c54a08107",
-      "location": "San Diego, CA",
-      "datePosted": 1791534006,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8e2d3fcdafb60c6a49bda",
-      "company": "RTX",
-      "title": "Web/Full Stack Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ac8e2d3fcdafb60c6a49bda",
-      "location": "Fullerton, CA",
-      "datePosted": 1791533990,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8e2d2d4a5a0370740fac5",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ac8e2d2d4a5a0370740fac5",
-      "location": "Fullerton, CA; San Diego, CA",
-      "datePosted": 1791533980,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8e249c3a8af9c54a08106",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ac8e249c3a8af9c54a08106",
-      "location": "Tewksbury, MA",
-      "datePosted": 1791533977,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac90374d4a5a0370741032b",
-      "company": "GCM Grosvenor",
-      "title": "2027 Software Engineering Summer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac90374d4a5a0370741032b",
-      "location": "Chicago, IL",
-      "datePosted": 1791533316,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {

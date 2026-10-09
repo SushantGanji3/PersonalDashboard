@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:40:15Z",
+  "generatedAt": "2026-10-09T19:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791556816
+    },
+    {
+      "id": "newgrad-jobs:6abad1a37220f52e62ae8668",
+      "company": "FIS",
+      "title": "Software Engineering Intern Pipeline",
+      "url": "https://jobright.ai/jobs/info/6abad1a37220f52e62ae8668",
+      "location": "Jacksonville, FL; Atlanta, GA; Brown Deer, WI",
+      "datePosted": 1791547530,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791575415
+    },
+    {
+      "id": "newgrad-jobs:6ac93a4eaf788e6ad3b5a920",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6ac93a4eaf788e6ad3b5a920",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1791547358,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791575415
+    },
+    {
+      "id": "newgrad-jobs:6ac935b1af788e6ad3b5a7d2",
+      "company": "Rivian",
+      "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
+      "url": "https://jobright.ai/jobs/info/6ac935b1af788e6ad3b5a7d2",
+      "location": "Palo Alto, CA; Irvine, CA; Atlanta, GA; Normal, IL; Plymouth, MI",
+      "datePosted": 1791546177,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791575415
     },
     {
       "id": "newgrad-jobs:6ac9353dfe8f33a85d502d55",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789104621
-    },
-    {
-      "id": "newgrad-jobs:6a85630fe12474455273e11d",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a85630fe12474455273e11d",
-      "location": "Santa Clara, CA",
-      "datePosted": 1789039352,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789086017
-    },
-    {
-      "id": "newgrad-jobs:6aa3788ee38fb65a7df533cc",
-      "company": "ETAP Software",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3788ee38fb65a7df533cc",
-      "location": "Irvine, CA",
-      "datePosted": 1789038888,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789102217
-    },
-    {
-      "id": "newgrad-jobs:6a0f822183d7144289821054",
-      "company": "Ivo",
-      "title": "Software Engineer, Fullstack",
-      "url": "https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "location": "San Francisco, CA",
-      "datePosted": 1789038756,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789095017
     }
   ]
 }
