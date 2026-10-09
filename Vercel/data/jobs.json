@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-09T22:30:18Z",
-  "totalOpen": 1226,
+  "generatedAt": "2026-10-09T22:40:15Z",
+  "totalOpen": 1230,
   "totalNewgrad": 260,
-  "totalOther": 966,
+  "totalOther": 970,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Graduate - Conversational AI",
+      "url": "https://lifeattiktok.com/search/7670685495206857013",
+      "location": "Seattle, WA",
+      "datePosted": 1791584202,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:87c12d78-b4ea-404f-bbdb-ed520fbd0363",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
+      "url": "https://www.metacareers.com/jobs/1674394627579563",
+      "location": "Redmond, WA",
+      "datePosted": 1791584162,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:3e1a9b0c-a147-4224-97ba-2a5ca77abd2f",
+      "company": "Meta AI",
+      "title": "Production Systems Engineer Intern",
+      "url": "https://www.metacareers.com/jobs/1772445513807075",
+      "location": "Menlo Park, CA",
+      "datePosted": 1791584161,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac95df6af788e6ad3b5b44f",
       "company": "Tesla",
@@ -25,7 +58,7 @@
       "datePosted": 1791556375,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac95d3cfcdafb60c6a4c27a",
@@ -36,7 +69,7 @@
       "datePosted": 1791556300,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac95c226355f8776ff18c91",
@@ -47,7 +80,7 @@
       "datePosted": 1791556018,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:babf8103-ce88-446d-ae83-d600bf03ebdc",
@@ -157,7 +190,7 @@
       "datePosted": 1791553704,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab6d884d7fde2c08ec89bc8",
@@ -487,7 +520,7 @@
       "datePosted": 1791547122,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab6a83ec6fe0dec811a5f47",
@@ -1288,39 +1321,6 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
       "location": "SF",
       "datePosted": 1790979178,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:55d83f42-3073-4394-a485-5f539341ffe1",
-      "company": "Affirm",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
-      "location": "SF",
-      "datePosted": 1790979177,
-      "source": "aggregator",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:507939af-b1b0-42a5-b103-4c941f8ec184",
-      "company": "xAI",
-      "title": "Software Engineer Intern/Co-op",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790979149,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d9fd892f-4128-4b27-8d13-be649b77a0ba",
-      "company": "xAI",
-      "title": "Software Engineering Intern Co-op",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790979147,
       "source": "aggregator",
       "season": null,
       "isNew": false
