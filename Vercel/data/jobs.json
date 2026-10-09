@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T23:10:16Z",
-  "totalOpen": 1232,
-  "totalNewgrad": 260,
+  "generatedAt": "2026-10-09T23:20:16Z",
+  "totalOpen": 1234,
+  "totalNewgrad": 262,
   "totalOther": 972,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -35,17 +35,6 @@
       "location": "Menlo Park, CA",
       "datePosted": 1791584161,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
-      "company": "Faraday Future",
-      "title": "Robotics Data Operator Intern",
-      "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
-      "location": "El Segundo, CA; Los Angeles, CA",
-      "datePosted": 1791560411,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -644,6 +633,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
+      "company": "Faraday Future",
+      "title": "Robotics Data Operator Intern",
+      "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
+      "location": "El Segundo, CA; Los Angeles, CA",
+      "datePosted": 1791546004,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac934f4af788e6ad3b5a77d",
       "company": "Fusion Technology LLC",
       "title": "Software Developer Intern",
@@ -795,7 +795,7 @@
       "datePosted": 1791453827,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5b324f86-93db-4206-a6be-2406d36267e0",
