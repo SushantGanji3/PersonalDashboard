@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:20:16Z",
+  "generatedAt": "2026-10-09T23:30:22Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791585615
+    },
+    {
+      "id": "newgrad-jobs:6ac96bad6355f8776ff18f79",
+      "company": "Roblox",
+      "title": "Software Engineer, ROS",
+      "url": "https://jobright.ai/jobs/info/6ac96bad6355f8776ff18f79",
+      "location": "San Mateo, CA",
+      "datePosted": 1791559997,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791588622
+    },
+    {
+      "id": "newgrad-jobs:6ac96b62fe8f33a85d503cfc",
+      "company": "Toyota Automated Logistics",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac96b62fe8f33a85d503cfc",
+      "location": "Meridian, ID",
+      "datePosted": 1791559922,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791588622
     },
     {
       "id": "newgrad-jobs:6ac95f82c3a8af9c54a0a89c",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789077620
-    },
-    {
-      "id": "newgrad-jobs:6a90876e7c32860d14cf9ed6",
-      "company": "FEG Investment Advisors",
-      "title": "Intern, Software Engineer (Fall 2026)",
-      "url": "https://jobright.ai/jobs/info/6a90876e7c32860d14cf9ed6",
-      "location": "Cincinnati, OH",
-      "datePosted": 1789048362,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
-      "firstSeenAt": 1789131622
-    },
-    {
-      "id": "newgrad-jobs:6aa37c036b9ea4538f928bf3",
-      "company": "SpaceX",
-      "title": "Software Engineer, Test Engineering and Operations",
-      "url": "https://jobright.ai/jobs/info/6aa37c036b9ea4538f928bf3",
-      "location": "Hawthorne, CA",
-      "datePosted": 1789048304,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789102217
     }
   ]
 }
