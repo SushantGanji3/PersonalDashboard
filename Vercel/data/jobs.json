@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T22:40:15Z",
-  "totalOpen": 1230,
-  "totalNewgrad": 260,
+  "generatedAt": "2026-10-09T22:50:16Z",
+  "totalOpen": 1232,
+  "totalNewgrad": 262,
   "totalOther": 970,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791584202,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:87c12d78-b4ea-404f-bbdb-ed520fbd0363",
@@ -25,7 +25,7 @@
       "datePosted": 1791584162,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3e1a9b0c-a147-4224-97ba-2a5ca77abd2f",
@@ -35,6 +35,28 @@
       "location": "Menlo Park, CA",
       "datePosted": 1791584161,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab51991b3db59402d0faeb4",
+      "company": "Viasat",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab51991b3db59402d0faeb4",
+      "location": "Duluth, GA",
+      "datePosted": 1791557937,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac95f82c3a8af9c54a0a89c",
+      "company": "Ohio BWC (official)",
+      "title": "Programmer- IT Applications",
+      "url": "https://jobright.ai/jobs/info/6ac95f82c3a8af9c54a0a89c",
+      "location": "Columbus, OH",
+      "datePosted": 1791557429,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -265,6 +287,17 @@
       "url": "https://jobright.ai/jobs/info/6ab6d5a581e327c4bf20165f",
       "location": "United States",
       "datePosted": 1791552270,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6a75a4ac55253f5d7b604",
+      "company": "University of Michigan",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac6a75a4ac55253f5d7b604",
+      "location": "Ann Arbor, MI",
+      "datePosted": 1791552154,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -672,39 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ac8c593af788e6ad3b5874f",
       "location": "Irving, TX",
       "datePosted": 1791544799,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac91772d4a5a03707410aa7",
-      "company": "Advanced Space",
-      "title": "Software Engineer (0-2 yrs)",
-      "url": "https://jobright.ai/jobs/info/6ac91772d4a5a03707410aa7",
-      "location": "Westminster, CO",
-      "datePosted": 1791544469,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aad46732e757fcb5c8b7643",
-      "company": "AMERICAN SYSTEMS",
-      "title": "Software Engineer, Mid-Level",
-      "url": "https://jobright.ai/jobs/info/6aad46732e757fcb5c8b7643",
-      "location": "Orlando, FL",
-      "datePosted": 1791543955,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a3c3921982bb239f812edc3",
-      "company": "Esri",
-      "title": "Software Development Engineer I",
-      "url": "https://jobright.ai/jobs/info/6a3c3921982bb239f812edc3",
-      "location": "St. Louis, MO - Westport",
-      "datePosted": 1791542690,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

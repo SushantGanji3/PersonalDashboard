@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:40:15Z",
+  "generatedAt": "2026-10-09T22:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791585615
+    },
+    {
+      "id": "newgrad-jobs:6ac95f82c3a8af9c54a0a89c",
+      "company": "Ohio BWC (official)",
+      "title": "Programmer- IT Applications",
+      "url": "https://jobright.ai/jobs/info/6ac95f82c3a8af9c54a0a89c",
+      "location": "Columbus, OH",
+      "datePosted": 1791557429,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791586216
     },
     {
       "id": "newgrad-jobs:6ac95df6af788e6ad3b5b44f",
@@ -463,6 +474,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791573616
+    },
+    {
+      "id": "newgrad-jobs:6ac16f88d9621c5b28399165",
+      "company": "Abridge",
+      "title": "Member of Technical Staff, Intern (Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac16f88d9621c5b28399165",
+      "location": "San Francisco, CA",
+      "datePosted": 1791540116,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1791586216
     },
     {
       "id": "newgrad-jobs:6ac91a0cfcdafb60c6a4acab",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789102217
-    },
-    {
-      "id": "newgrad-jobs:6a4c0a6b5d7b097d2df3f2d2",
-      "company": "Notion",
-      "title": "Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6a4c0a6b5d7b097d2df3f2d2",
-      "location": "San Francisco, CA",
-      "datePosted": 1789048269,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789077054
-    },
-    {
-      "id": "newgrad-jobs:6a9a2881551435518ebf3188",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
-      "url": "https://jobright.ai/jobs/info/6a9a2881551435518ebf3188",
-      "location": "Austin, TX; Nashville, TN; Arlington, VA; Bellevue, WA; Seattle, WA; North Reading, MA; Westborough, MA",
-      "datePosted": 1789047970,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789077620
     }
   ]
 }
