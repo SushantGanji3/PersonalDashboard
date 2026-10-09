@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:20:16Z",
+  "generatedAt": "2026-10-09T16:29:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,50 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791556816
+    },
+    {
+      "id": "newgrad-jobs:6ac909076355f8776ff170ae",
+      "company": "Jabil",
+      "title": "IT Programmer Analyst Intern",
+      "url": "https://jobright.ai/jobs/info/6ac909076355f8776ff170ae",
+      "location": "Florence, KY",
+      "datePosted": 1791534743,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791563356
+    },
+    {
+      "id": "newgrad-jobs:6ac907defcdafb60c6a4a5e5",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6ac907defcdafb60c6a4a5e5",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1791534446,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791563356
+    },
+    {
+      "id": "newgrad-jobs:6ac90670c3a8af9c54a089d4",
+      "company": "General Dynamics",
+      "title": "Software Engineer \u2013 Junior Level for Cross Domain Solutions",
+      "url": "https://jobright.ai/jobs/info/6ac90670c3a8af9c54a089d4",
+      "location": "Taunton, MA",
+      "datePosted": 1791534080,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791563356
+    },
+    {
+      "id": "newgrad-jobs:6ac8e249c3a8af9c54a08106",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac8e249c3a8af9c54a08106",
+      "location": "Tewksbury, MA",
+      "datePosted": 1791533977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791563356
     },
     {
       "id": "newgrad-jobs:6ac90374d4a5a0370741032b",
@@ -221,6 +265,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791548417
+    },
+    {
+      "id": "newgrad-jobs:6ac905acc3a8af9c54a0899f",
+      "company": "Apogee Research, LLC",
+      "title": "Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac905acc3a8af9c54a0899f",
+      "location": "Arlington, VA",
+      "datePosted": 1791519120,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791563356
     },
     {
       "id": "newgrad-jobs:6ac8c2a1d4a5a0370740f385",
@@ -54946,61 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789109417
-    },
-    {
-      "id": "newgrad-jobs:6a51e21902522b5b722ecfda",
-      "company": "True Anomaly",
-      "title": "Platform Engineer, AI (Levels I, II, III)",
-      "url": "https://jobright.ai/jobs/info/6a51e21902522b5b722ecfda",
-      "location": "Denver, CO; Long Beach, CA",
-      "datePosted": 1789033099,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789085416
-    },
-    {
-      "id": "newgrad-jobs:6aa38777626f9945308b1489",
-      "company": "Zachary Piper Solutions",
-      "title": "Software Engineer I (Secret)",
-      "url": "https://jobright.ai/jobs/info/6aa38777626f9945308b1489",
-      "location": "San Diego, CA",
-      "datePosted": 1789032650,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789104621
-    },
-    {
-      "id": "newgrad-jobs:6a445911b156014e414bc46b",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink Enterprise)",
-      "url": "https://jobright.ai/jobs/info/6a445911b156014e414bc46b",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789032388,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789063219
-    },
-    {
-      "id": "newgrad-jobs:6a85d1e274e02153f14587bb",
-      "company": "SpaceX",
-      "title": "Software Engineer, Inference (AI Data Engineering)",
-      "url": "https://jobright.ai/jobs/info/6a85d1e274e02153f14587bb",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789032241,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789063219
-    },
-    {
-      "id": "newgrad-jobs:6a58747972fe7a7b98dce6e6",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Defense Tech",
-      "url": "https://jobright.ai/jobs/info/6a58747972fe7a7b98dce6e6",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789032120,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789064417
     }
   ]
 }
