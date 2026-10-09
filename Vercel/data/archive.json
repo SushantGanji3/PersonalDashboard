@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T04:00:19Z",
+  "generatedAt": "2026-10-09T04:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791499216
+    },
+    {
+      "id": "newgrad-jobs:6ac83a3cfe8f33a85d4ff969",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac83a3cfe8f33a85d4ff969",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1791490822,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791519017
     },
     {
       "id": "newgrad-jobs:6aa0ac87dbc0e60e37e0f23f",
@@ -54990,17 +55001,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1789004417
-    },
-    {
-      "id": "newgrad-jobs:6aa1c4852f936e4a53dadf28",
-      "company": "Gravitate",
-      "title": "Software Engineer - Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa1c4852f936e4a53dadf28",
-      "location": "Dallas, TX",
-      "datePosted": 1789001631,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789045818
     }
   ]
 }
