@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:00:19Z",
+  "generatedAt": "2026-10-09T03:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791499216
+    },
+    {
+      "id": "newgrad-jobs:6ac7eaf751a1b3e4219ef5b4",
+      "company": "Booz Allen Hamilton",
+      "title": "AI Software Developer, Junior",
+      "url": "https://jobright.ai/jobs/info/6ac7eaf751a1b3e4219ef5b4",
+      "location": "San Diego, CA",
+      "datePosted": 1791486021,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791515416
     },
     {
       "id": "newgrad-jobs:6ac8437d44d6e65604a06bcb",
@@ -54990,17 +55001,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1789080014
-    },
-    {
-      "id": "simplify:be27b5dd-685b-43e7-bac8-46a5a43d6f34",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
-      "location": "Burnsville, MN",
-      "datePosted": 1788998400,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789427416
     }
   ]
 }
