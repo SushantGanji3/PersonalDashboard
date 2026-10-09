@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:10:18Z",
+  "generatedAt": "2026-10-09T19:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791556816
+    },
+    {
+      "id": "newgrad-jobs:6ac9314efe8f33a85d502ba1",
+      "company": "Amentum",
+      "title": "Software Developer - Junior (Team 01)",
+      "url": "https://jobright.ai/jobs/info/6ac9314efe8f33a85d502ba1",
+      "location": "Washington, DC",
+      "datePosted": 1791545054,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791573616
     },
     {
       "id": "newgrad-jobs:6ac929116355f8776ff17ae8",
@@ -45,6 +56,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791569417
+    },
+    {
+      "id": "newgrad-jobs:6ac91ad5fcdafb60c6a4acfc",
+      "company": "T. Rowe Price",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac91ad5fcdafb60c6a4acfc",
+      "location": "Owings Mills, MD",
+      "datePosted": 1791540729,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791573616
     },
     {
       "id": "newgrad-jobs:6ac91a0cfcdafb60c6a4acab",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789114817
-    },
-    {
-      "id": "newgrad-jobs:6a959603f28891320e85c98b",
-      "company": "CACI International Inc",
-      "title": "Software Engineering Co-op - Summer & Fall 2027",
-      "url": "https://jobright.ai/jobs/info/6a959603f28891320e85c98b",
-      "location": "Danbury, CT",
-      "datePosted": 1789036529,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "firstSeenAt": 1789086017
-    },
-    {
-      "id": "newgrad-jobs:6a95a2e34c22023a07934c1c",
-      "company": "CACI International Inc",
-      "title": "Software Engineering Co-op - Spring & Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a95a2e34c22023a07934c1c",
-      "location": "Danbury, CT",
-      "datePosted": 1789036529,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789086017
     }
   ]
 }
