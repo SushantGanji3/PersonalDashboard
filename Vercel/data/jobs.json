@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-09T11:30:19Z",
-  "totalOpen": 1234,
-  "totalNewgrad": 267,
+  "generatedAt": "2026-10-09T11:40:18Z",
+  "totalOpen": 1233,
+  "totalNewgrad": 266,
   "totalOther": 967,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a56c164e9b77f668bd65a9e",
+      "company": "Ascend",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a56c164e9b77f668bd65a9e",
+      "location": "San Francisco, CA",
+      "datePosted": 1791518392,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a90cc262e254e06fb9f2f1c",
       "company": "Dolby",
@@ -47,7 +58,7 @@
       "datePosted": 1791516721,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa3b9de4233a2201a2b3280",
@@ -69,7 +80,7 @@
       "datePosted": 1791516643,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac8bdcac3a8af9c54a07930",
@@ -391,11 +402,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac684360e027c0f3b3b2cf3",
+      "id": "newgrad-jobs:6ac5690b372c01f6cd7399be",
       "company": "Boeing",
       "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac684360e027c0f3b3b2cf3",
-      "location": "Berkeley, MO",
+      "url": "https://jobright.ai/jobs/info/6ac5690b372c01f6cd7399be",
+      "location": "Heath, OH",
       "datePosted": 1791493866,
       "source": "newgrad-jobs",
       "season": null,
@@ -567,10 +578,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
       "location": "Ashburn, VA",
       "datePosted": 1791480412,
       "source": "newgrad-jobs",
@@ -644,6 +655,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac8c593af788e6ad3b5874f",
+      "company": "7-Eleven",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac8c593af788e6ad3b5874f",
+      "location": "Irving, TX",
+      "datePosted": 1791478800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac7c03dfe8f33a85d4fce98",
       "company": "SoloPulse",
       "title": "Software Engineer Intern/Co-op - Spring 2027",
@@ -707,28 +729,6 @@
       "datePosted": 1791475879,
       "source": "newgrad-jobs",
       "season": "Fall 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5a5a44873fd3fd852b4b4",
-      "company": "AppLovin",
-      "title": "ML Data Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab5a5a44873fd3fd852b4b4",
-      "location": "Palo Alto, CA",
-      "datePosted": 1791474131,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab58a199d4843569fe4a772",
-      "company": "IBM",
-      "title": "Application Developer",
-      "url": "https://jobright.ai/jobs/info/6ab58a199d4843569fe4a772",
-      "location": "Bellevue, WA",
-      "datePosted": 1791473796,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {

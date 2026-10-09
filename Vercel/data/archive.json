@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:30:19Z",
+  "generatedAt": "2026-10-09T11:40:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -430,6 +430,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791538230
+    },
+    {
+      "id": "newgrad-jobs:6ac8c593af788e6ad3b5874f",
+      "company": "7-Eleven",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac8c593af788e6ad3b5874f",
+      "location": "Irving, TX",
+      "datePosted": 1791478800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791546018
     },
     {
       "id": "newgrad-jobs:6ac88e60fcdafb60c6a48cd2",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789059018
-    },
-    {
-      "id": "newgrad-jobs:6a8da9d225fc4e7ae3dbcd68",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a8da9d225fc4e7ae3dbcd68",
-      "location": "Seattle, WA",
-      "datePosted": 1789013537,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "firstSeenAt": 1789064417
     }
   ]
 }
