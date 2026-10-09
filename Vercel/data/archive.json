@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:40:15Z",
+  "generatedAt": "2026-10-09T03:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -69,6 +69,17 @@
       "firstSeenAt": 1791499216
     },
     {
+      "id": "newgrad-jobs:6aa0ac87dbc0e60e37e0f23f",
+      "company": "DCS Corp",
+      "title": "Team Hornet Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa0ac87dbc0e60e37e0f23f",
+      "location": "Ridgecrest, CA",
+      "datePosted": 1791486707,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791517817
+    },
+    {
       "id": "newgrad-jobs:6ac7eaf751a1b3e4219ef5b4",
       "company": "Booz Allen Hamilton",
       "title": "AI Software Developer, Junior",
@@ -78,6 +89,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791515416
+    },
+    {
+      "id": "newgrad-jobs:6ac83866fcdafb60c6a48202",
+      "company": "SpaceX",
+      "title": "Software Engineer (AI Data Engineering)",
+      "url": "https://jobright.ai/jobs/info/6ac83866fcdafb60c6a48202",
+      "location": "Hawthorne, CA",
+      "datePosted": 1791485923,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791517817
     },
     {
       "id": "newgrad-jobs:6ac8437d44d6e65604a06bcb",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789045818
-    },
-    {
-      "id": "newgrad-jobs:6aa1f9172f936e4a53daefae",
-      "company": "Boston Scientific",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa1f9172f936e4a53daefae",
-      "location": "Arden Hills, MN",
-      "datePosted": 1789001603,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789045818
-    },
-    {
-      "id": "simplify:a5205150-c68d-4b65-b961-cd54d104ac76",
-      "company": "Zoom",
-      "title": "Software Development Engineer",
-      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer_R19357-1",
-      "location": "San Jose, CA",
-      "datePosted": 1788998400,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789080014
     }
   ]
 }
