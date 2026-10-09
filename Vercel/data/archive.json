@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:40:16Z",
+  "generatedAt": "2026-10-09T01:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791499216
+    },
+    {
+      "id": "newgrad-jobs:6ac841b20e573df8adc76b11",
+      "company": "Louisiana Economic Development",
+      "title": "Site Reliability Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac841b20e573df8adc76b11",
+      "location": "Lafayette, LA",
+      "datePosted": 1791483714,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791510616
+    },
+    {
+      "id": "newgrad-jobs:6ab5c00f634ec6aa7c0d116a",
+      "company": "SpaceX",
+      "title": "Software Engineer (AI Data Engineering)",
+      "url": "https://jobright.ai/jobs/info/6ab5c00f634ec6aa7c0d116a",
+      "location": "Hawthorne, CA",
+      "datePosted": 1791481338,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791510616
     },
     {
       "id": "newgrad-jobs:6ac836c9a444ac5d36f8820e",
@@ -54979,28 +55001,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1788997216
-    },
-    {
-      "id": "simplify:dac9504d-3656-4127-972c-fc70bc04666a",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Autonomy Systems Foundations",
-      "url": "https://www.tesla.com/careers/search/job/282825",
-      "location": "Palo Alto, CA",
-      "datePosted": 1788993498,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788997216
-    },
-    {
-      "id": "simplify:f19b1b6b-457a-436b-9a2a-d6488e452bbd",
-      "company": "General Dynamics",
-      "title": "Software Engineer Entry Level",
-      "url": "https://careers-gdms.icims.com/jobs/74828/job?mobile=true&needsRedirect=false",
-      "location": "Taunton, MA",
-      "datePosted": 1788993330,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1788996731
     }
   ]
 }
