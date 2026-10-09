@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:40:15Z",
+  "generatedAt": "2026-10-09T23:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791585615
+    },
+    {
+      "id": "newgrad-jobs:6ac97248fe8f33a85d503ec0",
+      "company": "Atlassian",
+      "title": "Research Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ac97248fe8f33a85d503ec0",
+      "location": "Seattle, WA",
+      "datePosted": 1791561688,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791589816
+    },
+    {
+      "id": "newgrad-jobs:6ac9720baf788e6ad3b5b872",
+      "company": "L3Harris",
+      "title": "Intern, Information Security Systems Engineer  (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6ac9720baf788e6ad3b5b872",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1791561627,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791589816
+    },
+    {
+      "id": "newgrad-jobs:6ac9713dd4a5a0370741262e",
+      "company": "Gallatin AI, Inc.",
+      "title": "Backend Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac9713dd4a5a0370741262e",
+      "location": "El Segundo, CA; Washington, DC; Palo Alto, CA; San Francisco, CA; Austin, TX; New York, NY",
+      "datePosted": 1791561421,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791589816
     },
     {
       "id": "newgrad-jobs:6ac96bad6355f8776ff18f79",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789135222
-    },
-    {
-      "id": "newgrad-jobs:6aa3b467c5a856ac7e33b175",
-      "company": "Toyota Material Handling",
-      "title": "Data Analytics Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6aa3b467c5a856ac7e33b175",
-      "location": "Columbus, IN",
-      "datePosted": 1789048548,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789116017
-    },
-    {
-      "id": "newgrad-jobs:6aa3c85e4233a2201a2b39bf",
-      "company": "Toyota Material Handling",
-      "title": "Computer Vision Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3c85e4233a2201a2b39bf",
-      "location": "Columbus, IN",
-      "datePosted": 1789048543,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789123816
-    },
-    {
-      "id": "newgrad-jobs:6a95ac6ec8763a3a87ffb3ee",
-      "company": "Google DeepMind",
-      "title": "Software Engineering Intern, BS, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a95ac6ec8763a3a87ffb3ee",
-      "location": "Mountain View, CA; Austin, TX; Cambridge, MA; Chicago, IL; Houston, TX; Irvine, CA; Kirkland, WA; Portland, OR; Pittsburgh, PA; Raleigh, NC; San Diego, CA; Seattle, WA; South San Francisco, CA; Sunnyvale, CA; Atlanta, GA; Boulder, CO; Bellevue, WA; Los Angeles, CA; Madison, WI; New York, NY; Palo Alto, CA; Reston, VA; Redmond, WA; Redwood City, CA; Goleta, CA; San Bruno, CA; Santa Barbara, CA; Santa Cruz, CA; San Jose, CA; Durham, NC; San Francisco, CA",
-      "datePosted": 1789048471,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789077620
     }
   ]
 }
