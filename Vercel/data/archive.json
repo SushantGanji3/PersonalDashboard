@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:40:16Z",
+  "generatedAt": "2026-10-09T21:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791556816
+    },
+    {
+      "id": "newgrad-jobs:6ab6d884d7fde2c08ec89bc8",
+      "company": "Neuralink",
+      "title": "Software Engineer - HIL",
+      "url": "https://jobright.ai/jobs/info/6ab6d884d7fde2c08ec89bc8",
+      "location": "Austin, TX; South San Francisco, CA",
+      "datePosted": 1791553563,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791582616
+    },
+    {
+      "id": "newgrad-jobs:6ac950edaf788e6ad3b5af6d",
+      "company": "IBM",
+      "title": "Research Engineer - R&D Internship \u2013 2027 Yorktown Heights & Cambridge",
+      "url": "https://jobright.ai/jobs/info/6ac950edaf788e6ad3b5af6d",
+      "location": "Yorktown Heights, NY; Cambridge, MA",
+      "datePosted": 1791553149,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791582616
+    },
+    {
+      "id": "newgrad-jobs:6ac9172dd4a5a03707410a86",
+      "company": "CriticalSolutions, LLC",
+      "title": "Site Reliability Automation and Orchestration Engineer \u2013 Junior \u2013 (w/ active Secret)",
+      "url": "https://jobright.ai/jobs/info/6ac9172dd4a5a03707410a86",
+      "location": "Norfolk, VA",
+      "datePosted": 1791552795,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791582616
     },
     {
       "id": "newgrad-jobs:6ac94e36af788e6ad3b5adfc",
@@ -1222,6 +1255,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1791567018
+    },
+    {
+      "id": "newgrad-jobs:6ac952256355f8776ff188b4",
+      "company": "SEPHORA",
+      "title": "Intern, Applied AI & Automation",
+      "url": "https://jobright.ai/jobs/info/6ac952256355f8776ff188b4",
+      "location": "San Francisco, CA",
+      "datePosted": 1791478800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791582616
     },
     {
       "id": "newgrad-jobs:6ac88e60fcdafb60c6a48cd2",
@@ -54957,50 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789073419
-    },
-    {
-      "id": "newgrad-jobs:6aa387c3c5a856ac7e339d81",
-      "company": "PACCAR",
-      "title": "2027 Winter Internship - Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa387c3c5a856ac7e339d81",
-      "location": "Renton, WA",
-      "datePosted": 1789043885,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "firstSeenAt": 1789104017
-    },
-    {
-      "id": "newgrad-jobs:6aa3b9145c11cce360365e66",
-      "company": "VCS HR",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aa3b9145c11cce360365e66",
-      "location": "Freehold Township, NJ",
-      "datePosted": 1789043216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789120219
-    },
-    {
-      "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
-      "company": "SpaceX",
-      "title": "Software Engineer, Telemetry (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
-      "location": "Hawthorne, CA",
-      "datePosted": 1789041216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789808418
-    },
-    {
-      "id": "newgrad-jobs:6a0ada69a203b1052e44f414",
-      "company": "Ivo",
-      "title": "Software Engineer, Backend",
-      "url": "https://jobright.ai/jobs/info/6a0ada69a203b1052e44f414",
-      "location": "San Francisco, CA",
-      "datePosted": 1789041084,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789077054
     }
   ]
 }

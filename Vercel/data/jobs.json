@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:40:16Z",
+  "generatedAt": "2026-10-09T21:50:16Z",
   "totalOpen": 1227,
   "totalNewgrad": 261,
   "totalOther": 966,
@@ -15,6 +15,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab6d884d7fde2c08ec89bc8",
+      "company": "Neuralink",
+      "title": "Software Engineer - HIL",
+      "url": "https://jobright.ai/jobs/info/6ab6d884d7fde2c08ec89bc8",
+      "location": "Austin, TX; South San Francisco, CA",
+      "datePosted": 1791553563,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab6da0339fd8792cb73c5eb",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "url": "https://jobright.ai/jobs/info/6ab6da0339fd8792cb73c5eb",
+      "location": "Mountain View, CA",
+      "datePosted": 1791553263,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac950edaf788e6ad3b5af6d",
+      "company": "IBM",
+      "title": "Research Engineer - R&D Internship \u2013 2027 Yorktown Heights & Cambridge",
+      "url": "https://jobright.ai/jobs/info/6ac950edaf788e6ad3b5af6d",
+      "location": "Yorktown Heights, NY; Cambridge, MA",
+      "datePosted": 1791553149,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac9172dd4a5a03707410a86",
+      "company": "CriticalSolutions, LLC",
+      "title": "Site Reliability Automation and Orchestration Engineer \u2013 Junior \u2013 (w/ active Secret)",
+      "url": "https://jobright.ai/jobs/info/6ac9172dd4a5a03707410a86",
+      "location": "Norfolk, VA",
+      "datePosted": 1791552795,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a701a0fc56c0956e8adda58",
@@ -114,6 +158,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a432cbdb0f2553559ece38b",
+      "company": "Veryable",
+      "title": "Platform Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a432cbdb0f2553559ece38b",
+      "location": "Dallas, TX",
+      "datePosted": 1791550807,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
@@ -534,28 +589,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab6b3b2634ec6aa7c0d40e2",
-      "company": "Mantari Industries, Inc.",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab6b3b2634ec6aa7c0d40e2",
-      "location": "Torrance, CA; Los Angeles, CA",
-      "datePosted": 1791543285,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac929116355f8776ff17ae8",
-      "company": "Tenet3\u00ae",
-      "title": "Software Developer (Full Stack) Intern (Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac929116355f8776ff17ae8",
-      "location": "Dayton, OH",
-      "datePosted": 1791542945,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a3c3921982bb239f812edc3",
       "company": "Esri",
       "title": "Software Development Engineer I",
@@ -641,39 +674,6 @@
       "datePosted": 1791540643,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8f972fe8f33a85d50183b",
-      "company": "Software Engineering Institute | Carnegie Mellon University",
-      "title": "AI Security Research Intern \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ac8f972fe8f33a85d50183b",
-      "location": "Pittsburgh, PA",
-      "datePosted": 1791540610,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7f6419e2030208f276db06",
-      "company": "Crowe",
-      "title": "Machine Learning Intern",
-      "url": "https://jobright.ai/jobs/info/6a7f6419e2030208f276db06",
-      "location": "Chicago, IL; Washington, DC; Tallahassee, FL; Sarasota, FL; Hartford, CT; Nashville, TN; Costa Mesa, CA; San Jose, CA; Atlanta, GA; Boston, MA; Burlington, VT; Cleveland, OH; Columbus, OH; Dallas, TX; Denver, CO; Fort Lauderdale, FL; Fort Wayne, IN; Grand Rapids, MI; Indianapolis, IN; Knoxville, TN; Lexington, KY; Livingston, NJ; Plano, TX; Louisville, KY; Los Angeles, CA; Miami, FL; The Woodlands, TX; New York, NY; Oakbrook Terrace, IL; Sacramento, CA; San Francisco, CA; South Bend, IN; Springfield, IL; Tampa, FL; Houston, TX; Austin, TX; Charlotte, NC",
-      "datePosted": 1791539740,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
-      "datePosted": 1791539448,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
