@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T03:10:16Z",
+  "generatedAt": "2026-10-10T03:20:14Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791585615
+    },
+    {
+      "id": "newgrad-jobs:6a7fbbdee2030208f2771093",
+      "company": "Freeform",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a7fbbdee2030208f2771093",
+      "location": "Los Angeles, CA; Hawthorne, CA",
+      "datePosted": 1791574686,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791602414
+    },
+    {
+      "id": "newgrad-jobs:6ac951406355f8776ff1881f",
+      "company": "Cboe Global Markets",
+      "title": "Associate Software Engineer, Web",
+      "url": "https://jobright.ai/jobs/info/6ac951406355f8776ff1881f",
+      "location": "Kansas City, MO; Chicago, IL",
+      "datePosted": 1791574127,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791602414
+    },
+    {
+      "id": "newgrad-jobs:6ac99efbb359df915566aa48",
+      "company": "Career Launch Tech Initiative",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac99efbb359df915566aa48",
+      "location": "United States",
+      "datePosted": 1791573131,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791602414
     },
     {
       "id": "newgrad-jobs:6ac98c51d4a5a03707412b37",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789109417
-    },
-    {
-      "id": "newgrad-jobs:6aa384a4959a10d7230d212a",
-      "company": "Ridgeline",
-      "title": "Software Engineer Intern Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa384a4959a10d7230d212a",
-      "location": "Reno, NV",
-      "datePosted": 1789051924,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789104017
-    },
-    {
-      "id": "newgrad-jobs:6a970054246d697dcee029ca",
-      "company": "AV",
-      "title": "Summer 2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a970054246d697dcee029ca",
-      "location": "Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA; San Diego, CA",
-      "datePosted": 1789051407,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789080617
-    },
-    {
-      "id": "newgrad-jobs:6aa383164233a2201a2b1b6e",
-      "company": "AV",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa383164233a2201a2b1b6e",
-      "location": "Melbourne, FL",
-      "datePosted": 1789051375,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789104017
     }
   ]
 }
