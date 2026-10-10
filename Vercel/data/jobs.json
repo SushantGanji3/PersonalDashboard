@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T11:30:19Z",
-  "totalOpen": 1223,
+  "generatedAt": "2026-10-10T11:40:15Z",
+  "totalOpen": 1222,
   "totalNewgrad": 249,
-  "totalOther": 974,
+  "totalOther": 973,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aca1bafa56e5406e57bad6e",
+      "company": "ECS",
+      "title": "Junior Data Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6aca1bafa56e5406e57bad6e",
+      "location": "Fairfax, VA",
+      "datePosted": 1791605055,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aad6a320ebc8fb2313e9539",
@@ -699,17 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac93a0dfcdafb60c6a4b7af",
-      "company": "Vizient",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac93a0dfcdafb60c6a4b7af",
-      "location": "Irving, TX; Cape Girardeau, MO",
-      "datePosted": 1791558257,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:babf8103-ce88-446d-ae83-d600bf03ebdc",
       "company": "Meta AI",
       "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
@@ -895,6 +895,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:afaa987d-d54c-4cdc-8c41-ada69f27d011",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+      "location": "McClellan Park, CA",
+      "datePosted": 1791417600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:9199e425-2144-4178-bac6-c9f1802f9f1e",
@@ -1309,17 +1320,6 @@
       "title": "Software Development Engineer Intern",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
       "location": "Seattle, WA, Austin, TX, San Jose, CA",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:75269b0a-c784-4fec-94a8-afe657a39877",
-      "company": "Micron",
-      "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
-      "location": "Boise, ID",
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,

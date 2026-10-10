@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:30:19Z",
+  "generatedAt": "2026-10-10T11:40:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791614415
+    },
+    {
+      "id": "newgrad-jobs:6aca1bafa56e5406e57bad6e",
+      "company": "ECS",
+      "title": "Junior Data Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6aca1bafa56e5406e57bad6e",
+      "location": "Fairfax, VA",
+      "datePosted": 1791605055,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791632415
     },
     {
       "id": "newgrad-jobs:6ac91b61c3a8af9c54a09269",
@@ -3312,6 +3323,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791501020
+    },
+    {
+      "id": "simplify:afaa987d-d54c-4cdc-8c41-ada69f27d011",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+      "location": "McClellan Park, CA",
+      "datePosted": 1791417600,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791632415
     },
     {
       "id": "newgrad-jobs:6ac73dab744463a18c93146c",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789098617
-    },
-    {
-      "id": "newgrad-jobs:6a7e5b8c0cd4a0703257f552",
-      "company": "Fastly",
-      "title": "Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a7e5b8c0cd4a0703257f552",
-      "location": "United States",
-      "datePosted": 1789062911,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789131018
-    },
-    {
-      "id": "newgrad-jobs:6aa3b87d5c11cce360365e15",
-      "company": "Super Micro Computer Spain, S.L.",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3b87d5c11cce360365e15",
-      "location": "San Jose, CA",
-      "datePosted": 1789061795,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789120219
     }
   ]
 }
