@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:50:16Z",
+  "generatedAt": "2026-10-10T08:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791614415
+    },
+    {
+      "id": "newgrad-jobs:6ac9359e6355f8776ff18057",
+      "company": "Yext",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac9359e6355f8776ff18057",
+      "location": "Washington, DC; Arlington, VA",
+      "datePosted": 1791590560,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791619219
     },
     {
       "id": "newgrad-jobs:6a71a42dcb96192a368499a0",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789417215
-    },
-    {
-      "id": "newgrad-jobs:6aa3ac3e5c11cce3603658d8",
-      "company": "SK hynix memory solutions America Inc.",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3ac3e5c11cce3603658d8",
-      "location": "San Jose, CA",
-      "datePosted": 1789059279,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789114817
     }
   ]
 }

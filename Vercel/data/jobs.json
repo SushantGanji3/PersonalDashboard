@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:50:16Z",
+  "generatedAt": "2026-10-10T08:00:19Z",
   "totalOpen": 1229,
   "totalNewgrad": 254,
   "totalOther": 975,
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac9359e6355f8776ff18057",
+      "company": "Yext",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac9359e6355f8776ff18057",
+      "location": "Washington, DC; Arlington, VA",
+      "datePosted": 1791590560,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
@@ -124,7 +135,7 @@
       "datePosted": 1791582167,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7d450e7c52154b59f5e384",
@@ -707,17 +718,6 @@
       "datePosted": 1791552599,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9187e29864261ccd29d581",
-      "company": "MSA - The Safety Company",
-      "title": "Co-op: Software Engineer, Product Development (Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6a9187e29864261ccd29d581",
-      "location": "Cranberry Township, PA",
-      "datePosted": 1791552360,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
