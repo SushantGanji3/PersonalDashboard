@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:40:16Z",
+  "generatedAt": "2026-10-10T07:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791585615
+    },
+    {
+      "id": "newgrad-jobs:6ac7e0880e573df8adc74df5",
+      "company": "Northrop Grumman",
+      "title": "2027-Systems Engineer Intern - McClellan CA",
+      "url": "https://jobright.ai/jobs/info/6ac7e0880e573df8adc74df5",
+      "location": "McClellan Park, CA",
+      "datePosted": 1791582167,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791618616
     },
     {
       "id": "newgrad-jobs:6a971af3246d697dcee0365e",
@@ -4346,6 +4357,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791407416
+    },
+    {
+      "id": "newgrad-jobs:6ac9e0d554d2d210b6dd13b1",
+      "company": "nou Systems, Inc.",
+      "title": "Junior AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac9e0d554d2d210b6dd13b1",
+      "location": "Colorado Springs, CO; Huntsville, AL; Boston, MA; Lexington, MA",
+      "datePosted": 1791359880,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791618616
     },
     {
       "id": "newgrad-jobs:6ac65887d9621c5b283a854f",
@@ -54979,28 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789114817
-    },
-    {
-      "id": "newgrad-jobs:6aa3ede0422289703bd642a3",
-      "company": "Cognizant",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3ede0422289703bd642a3",
-      "location": "Dallas, TX",
-      "datePosted": 1789055826,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789257622
-    },
-    {
-      "id": "newgrad-jobs:6aa394ba4233a2201a2b235c",
-      "company": "Tata Consultancy Services",
-      "title": "Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa394ba4233a2201a2b235c",
-      "location": "Arlington, VA",
-      "datePosted": 1789055785,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789109417
     }
   ]
 }
