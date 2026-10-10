@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T09:10:17Z",
+  "generatedAt": "2026-10-10T09:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791614415
+    },
+    {
+      "id": "newgrad-jobs:6ac9f3100d836be0507a2c89",
+      "company": "Loram Maintenance of Way, Inc.",
+      "title": "Machine Learning / Artificial Intelligence (AI) Intern",
+      "url": "https://jobright.ai/jobs/info/6ac9f3100d836be0507a2c89",
+      "location": "Medina, MN",
+      "datePosted": 1791594656,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791624016
     },
     {
       "id": "newgrad-jobs:6ac9359e6355f8776ff18057",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789415416
-    },
-    {
-      "id": "newgrad-jobs:6aa841303a9f0a4fe6f1825c",
-      "company": "Amgen",
-      "title": "Grad Intern \u2013 Data Engineer \u2013 Technology, AI & Data (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa841303a9f0a4fe6f1825c",
-      "location": "Washington, DC",
-      "datePosted": 1789059600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789417215
     }
   ]
 }
