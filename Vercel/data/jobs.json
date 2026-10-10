@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T10:40:17Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 248,
+  "generatedAt": "2026-10-10T10:50:17Z",
+  "totalOpen": 1221,
+  "totalNewgrad": 247,
   "totalOther": 974,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -17,15 +17,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aca0795e7a1d9333210b2ac",
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
       "company": "Booz Allen Hamilton",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aca0795e7a1d9333210b2ac",
-      "location": "United States",
-      "datePosted": 1791599909,
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1791600072,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4034e422289703bd64a7b",
+      "company": "RTX",
+      "title": "Systems Engineer I - Secure Systems (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aa4034e422289703bd64a7b",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791599837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac9c3d254d2d210b6dd0ff0",
@@ -706,17 +717,6 @@
       "location": "Burlingame, CA, Redmond, WA",
       "datePosted": 1791555240,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac95900d4a5a0370741210c",
-      "company": "Campus Collective",
-      "title": "Paid Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac95900d4a5a0370741210c",
-      "location": "United States",
-      "datePosted": 1791555216,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
