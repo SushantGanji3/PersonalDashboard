@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T04:50:14Z",
+  "generatedAt": "2026-10-10T05:00:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791585615
+    },
+    {
+      "id": "newgrad-jobs:6a971af3246d697dcee0365e",
+      "company": "Hermeus",
+      "title": "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a971af3246d697dcee0365e",
+      "location": "Los Angeles, CA",
+      "datePosted": 1791580131,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791608417
+    },
+    {
+      "id": "newgrad-jobs:6a992af2138838706058c9ae",
+      "company": "Hermeus",
+      "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a992af2138838706058c9ae",
+      "location": "Atlanta, GA",
+      "datePosted": 1791580127,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791608417
+    },
+    {
+      "id": "newgrad-jobs:6ac9b9d2b359df915566ae0b",
+      "company": "Ragle Inc",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac9b9d2b359df915566ae0b",
+      "location": "North Richland Hills, TX",
+      "datePosted": 1791580002,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791608417
     },
     {
       "id": "newgrad-jobs:6a7fbbdee2030208f2771093",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789081816
-    },
-    {
-      "id": "newgrad-jobs:6aa37cf3cb2e99857c27073f",
-      "company": "Dpro GmbH",
-      "title": "Frontend Developer Intern (React / Next.js)",
-      "url": "https://jobright.ai/jobs/info/6aa37cf3cb2e99857c27073f",
-      "location": "United States",
-      "datePosted": 1789052067,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789102217
-    },
-    {
-      "id": "newgrad-jobs:6aa381224238ea18d430c10b",
-      "company": "RF-SMART",
-      "title": "Product Engineering Software Developer Internship - Spring & Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa381224238ea18d430c10b",
-      "location": "Jacksonville, FL",
-      "datePosted": 1789052005,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789104017
-    },
-    {
-      "id": "newgrad-jobs:6aa39622626f9945308b1b32",
-      "company": "Echo Global Logistics",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa39622626f9945308b1b32",
-      "location": "Chicago, IL",
-      "datePosted": 1789051948,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789109417
     }
   ]
 }
