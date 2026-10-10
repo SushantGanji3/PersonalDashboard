@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:20:17Z",
+  "generatedAt": "2026-10-10T00:30:16Z",
   "totalOpen": 1227,
   "totalNewgrad": 255,
   "totalOther": 972,
@@ -35,6 +35,17 @@
       "location": "Menlo Park, CA",
       "datePosted": 1791584161,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac96bad6355f8776ff18f79",
+      "company": "Roblox",
+      "title": "Software Engineer, ROS",
+      "url": "https://jobright.ai/jobs/info/6ac96bad6355f8776ff18f79",
+      "location": "San Mateo, CA",
+      "datePosted": 1791562492,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -111,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
       "location": "El Segundo, CA; Los Angeles, CA",
       "datePosted": 1791560411,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac96bad6355f8776ff18f79",
-      "company": "Roblox",
-      "title": "Software Engineer, ROS",
-      "url": "https://jobright.ai/jobs/info/6ac96bad6355f8776ff18f79",
-      "location": "San Mateo, CA",
-      "datePosted": 1791559997,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
