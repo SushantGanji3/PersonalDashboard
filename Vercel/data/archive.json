@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:10:15Z",
+  "generatedAt": "2026-10-10T13:18:55Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791614415
+    },
+    {
+      "id": "newgrad-jobs:6ac95232d4a5a03707411e3c",
+      "company": "SEPHORA",
+      "title": "Intern, Technology, DevOps & Site Reliability Engineering (SRE)",
+      "url": "https://jobright.ai/jobs/info/6ac95232d4a5a03707411e3c",
+      "location": "San Francisco, CA",
+      "datePosted": 1791608546,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791638335
     },
     {
       "id": "newgrad-jobs:6aca1c11002e496d4beebbb8",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789136418
-    },
-    {
-      "id": "newgrad-jobs:6aa3b4315c11cce360365c35",
-      "company": "Planview",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3b4315c11cce360365c35",
-      "location": "Austin, TX",
-      "datePosted": 1789066264,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789116017
     }
   ]
 }
