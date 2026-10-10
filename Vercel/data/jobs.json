@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T06:50:16Z",
-  "totalOpen": 1228,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-10-10T06:54:59Z",
+  "totalOpen": 1232,
+  "totalNewgrad": 257,
   "totalOther": 975,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,28 @@
       "location": "Washington, DC",
       "datePosted": 1791612416,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab7459381e327c4bf2031a3",
+      "company": "Metropolitan Transportation Authority",
+      "title": "Associate Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab7459381e327c4bf2031a3",
+      "location": "New York, NY",
+      "datePosted": 1791587312,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab7502ed7fde2c08ec8b7be",
+      "company": "ECS",
+      "title": "Junior Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ab7502ed7fde2c08ec8b7be",
+      "location": "Fairfax, VA",
+      "datePosted": 1791586001,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -83,15 +105,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a992af2138838706058c9ae",
+      "id": "newgrad-jobs:6a99ea6c13883870605915ef",
       "company": "Hermeus",
       "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a992af2138838706058c9ae",
+      "url": "https://jobright.ai/jobs/info/6a99ea6c13883870605915ef",
       "location": "Atlanta, GA",
       "datePosted": 1791580127,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a972279d13b4819f39df4d4",
@@ -132,7 +154,7 @@
       "title": "Full Stack Web Developer Intern",
       "url": "https://jobright.ai/jobs/info/6ac953ebd4a5a03707411ef7",
       "location": "Garner, NC",
-      "datePosted": 1791578134,
+      "datePosted": 1791578807,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -694,28 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6ab6d5a581e327c4bf20165f",
       "location": "United States",
       "datePosted": 1791552270,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6a75a4ac55253f5d7b604",
-      "company": "University of Michigan",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac6a75a4ac55253f5d7b604",
-      "location": "Ann Arbor, MI",
-      "datePosted": 1791552154,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac91a0cfcdafb60c6a4acab",
-      "company": "IBM",
-      "title": "Entry Level Software Developer 2027 SAN JOSE",
-      "url": "https://jobright.ai/jobs/info/6ac91a0cfcdafb60c6a4acab",
-      "location": "San Jose, CA",
-      "datePosted": 1791552013,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
