@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T18:20:17Z",
+  "generatedAt": "2026-10-10T18:30:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -958,6 +958,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791571817
+    },
+    {
+      "id": "newgrad-jobs:6aca753fa56e5406e57bb347",
+      "company": "NextToken",
+      "title": "Applied Research Intern",
+      "url": "https://jobright.ai/jobs/info/6aca753fa56e5406e57bb347",
+      "location": "San Francisco, CA",
+      "datePosted": 1791541565,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791657015
     },
     {
       "id": "newgrad-jobs:6ac9208bfe8f33a85d5025fe",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789123816
-    },
-    {
-      "id": "newgrad-jobs:6aa3aa0e4238ea18d430d45b",
-      "company": "Collins Aerospace",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa3aa0e4238ea18d430d45b",
-      "location": "Burnsville, MN",
-      "datePosted": 1789071576,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789114817
     }
   ]
 }
