@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T01:30:17Z",
-  "totalOpen": 1221,
+  "generatedAt": "2026-10-10T01:40:15Z",
+  "totalOpen": 1225,
   "totalNewgrad": 249,
-  "totalOther": 972,
+  "totalOther": 976,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -721,6 +721,39 @@
       "isNew": false
     },
     {
+      "id": "simplify:cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
+      "company": "Micron",
+      "title": "IT Software Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
+      "location": "Boise, ID",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:7d29e9a8-e116-43c5-a3b9-267f864cddfc",
+      "company": "Workday",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+      "location": "Pleasanton, CA",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
+      "company": "Workday",
+      "title": "Software Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+      "location": "Pleasanton, CA",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:64798a92-22e3-405a-93b7-ccded7db1b4e",
       "company": "RTX",
       "title": "Web/Full Stack Software Engineer 1",
@@ -741,6 +774,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:82fb089b-e0cb-414d-9953-9f5d35538486",
+      "company": "NVIDIA",
+      "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:b84cde68-8811-482e-ad0d-fb3108bad985",
@@ -1279,50 +1323,6 @@
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f9c39daf-9f62-4431-bf7d-acc89559372a",
-      "company": "SpaceX",
-      "title": "Software Engineer - Starshield Products",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8865057002",
-      "location": "Washington, DC",
-      "datePosted": 1790990823,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
-      "company": "Harvey",
-      "title": "Software Engineer New Grad",
-      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
-      "location": "SF",
-      "datePosted": 1790979923,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b884d6ac-a1a0-4677-80ed-ce53c57be6e9",
-      "company": "Harvey",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1790979918,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2149ec11-ebea-44e9-95ff-a9ef69ecacdf",
-      "company": "Harvey",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application?embed=true",
-      "location": "SF",
-      "datePosted": 1790979917,
-      "source": "aggregator",
-      "season": "Summer 2027",
       "isNew": false
     }
   ]

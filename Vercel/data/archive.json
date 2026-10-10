@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:30:17Z",
+  "generatedAt": "2026-10-10T01:40:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -1079,6 +1079,50 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791562214
+    },
+    {
+      "id": "simplify:cedb1575-2b84-471a-8de3-e8f8bb3be3ce",
+      "company": "Micron",
+      "title": "IT Software Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
+      "location": "Boise, ID",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791596415
+    },
+    {
+      "id": "simplify:7d29e9a8-e116-43c5-a3b9-267f864cddfc",
+      "company": "Workday",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+      "location": "Pleasanton, CA",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791596415
+    },
+    {
+      "id": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
+      "company": "Workday",
+      "title": "Software Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+      "location": "Pleasanton, CA",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791596415
+    },
+    {
+      "id": "simplify:82fb089b-e0cb-414d-9953-9f5d35538486",
+      "company": "NVIDIA",
+      "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791504000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1791596415
     },
     {
       "id": "newgrad-jobs:6ac88358fcdafb60c6a48ae6",
@@ -54957,50 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789114817
-    },
-    {
-      "id": "newgrad-jobs:6aa41254f3aa936e2cdaf976",
-      "company": "Amentum",
-      "title": "C/C++Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aa41254f3aa936e2cdaf976",
-      "location": "Dahlgren, VA",
-      "datePosted": 1789050839,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789142419
-    },
-    {
-      "id": "newgrad-jobs:6aa3b9de4233a2201a2b3280",
-      "company": "Rover.com",
-      "title": "Entry Level Software Engineer, Recommendations",
-      "url": "https://jobright.ai/jobs/info/6aa3b9de4233a2201a2b3280",
-      "location": "Seattle, WA",
-      "datePosted": 1789050128,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789120219
-    },
-    {
-      "id": "newgrad-jobs:6aa39d4f626f9945308b1ecf",
-      "company": "Bedrock Robotics",
-      "title": "Internship 2027 Onboard Infrastructure Engineer, ML Inference",
-      "url": "https://jobright.ai/jobs/info/6aa39d4f626f9945308b1ecf",
-      "location": "San Francisco, CA",
-      "datePosted": 1789050125,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789114817
-    },
-    {
-      "id": "simplify:56f4272c-eb9c-4641-ae79-27f09b8c78a4",
-      "company": "L3Harris",
-      "title": "Software Engineer Intern - Software Engineering",
-      "url": "https://jobs.l3harris.com/job/Lynchburg-Software-Engineer-Intern-VA-24501-6952/1428447700/?ats=successfactors",
-      "location": "Lynchburg, VA",
-      "datePosted": 1789049790,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789051216
     }
   ]
 }
