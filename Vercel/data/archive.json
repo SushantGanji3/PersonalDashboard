@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T09:50:15Z",
+  "generatedAt": "2026-10-10T10:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791614415
+    },
+    {
+      "id": "newgrad-jobs:6ac9fff5ddd23cce28a0bd16",
+      "company": "Torentify",
+      "title": "AI Engineer - WFH",
+      "url": "https://jobright.ai/jobs/info/6ac9fff5ddd23cce28a0bd16",
+      "location": "San Diego, CA",
+      "datePosted": 1791597957,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791626419
     },
     {
       "id": "newgrad-jobs:6ac9f3100d836be0507a2c89",
@@ -54990,17 +55001,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789191617
-    },
-    {
-      "id": "newgrad-jobs:6aa4bd6c930bff471a29b5f3",
-      "company": "Amgen",
-      "title": "Grad Intern \u2013 Data Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa4bd6c930bff471a29b5f3",
-      "location": "United States",
-      "datePosted": 1789059600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789194017
     }
   ]
 }
