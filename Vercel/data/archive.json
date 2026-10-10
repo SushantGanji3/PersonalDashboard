@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:00:17Z",
+  "generatedAt": "2026-10-10T11:10:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791614415
+    },
+    {
+      "id": "newgrad-jobs:6ac91b61c3a8af9c54a09269",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac91b61c3a8af9c54a09269",
+      "location": "Cedar Rapids, IA; St. Petersburg, FL",
+      "datePosted": 1791602018,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791630615
+    },
+    {
+      "id": "newgrad-jobs:6ac91b77d4a5a03707410c51",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac91b77d4a5a03707410c51",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791601654,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791630615
+    },
+    {
+      "id": "newgrad-jobs:6abd17a6064da25272dfb4d1",
+      "company": "Athene",
+      "title": "Software Developer Internship",
+      "url": "https://jobright.ai/jobs/info/6abd17a6064da25272dfb4d1",
+      "location": "West Des Moines, IA",
+      "datePosted": 1791601572,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791630615
     },
     {
       "id": "newgrad-jobs:6aca0795e7a1d9333210b2ac",
@@ -54968,39 +55001,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789120219
-    },
-    {
-      "id": "newgrad-jobs:6aa3a6ca626f9945308b2290",
-      "company": "Super Micro Computer Spain, S.L.",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3a6ca626f9945308b2290",
-      "location": "San Jose, CA",
-      "datePosted": 1789061791,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789114817
-    },
-    {
-      "id": "newgrad-jobs:6aa3a43d959a10d7230d2ec5",
-      "company": "AAA Auto Club Enterprises",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3a43d959a10d7230d2ec5",
-      "location": "Costa Mesa, CA",
-      "datePosted": 1789060902,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789114817
-    },
-    {
-      "id": "newgrad-jobs:6aa410b98275e3a21175ebd7",
-      "company": "Ditch Witch",
-      "title": "Embedded Software Engineering Intern - The Toro Company",
-      "url": "https://jobright.ai/jobs/info/6aa410b98275e3a21175ebd7",
-      "location": "Bloomington, MN",
-      "datePosted": 1789059600,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789140017
     }
   ]
 }
