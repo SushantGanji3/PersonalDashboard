@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T02:50:14Z",
-  "totalOpen": 1226,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-10-10T03:00:19Z",
+  "totalOpen": 1225,
+  "totalNewgrad": 249,
   "totalOther": 976,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -37,6 +37,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac97cdbfcdafb60c6a4c8b8",
+      "company": "Booz Allen Hamilton",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac97cdbfcdafb60c6a4c8b8",
+      "location": "Arlington, VA; San Diego, CA",
+      "datePosted": 1791572196,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac98c51d4a5a03707412b37",
@@ -600,6 +611,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a8724d425fc4e7ae3dab818",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8724d425fc4e7ae3dab818",
+      "location": "Beavercreek, OH",
+      "datePosted": 1791550686,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac7fdc951a1b3e4219efbd6",
       "company": "iFIT",
       "title": "Junior AI Engineer",
@@ -683,28 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6a8562d7c1a3fd7120f74ddc",
       "location": "Santa Clara, CA",
       "datePosted": 1791549361,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab46b0aef911c35dffa52bc",
-      "company": "Qualcomm",
-      "title": "#Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab46b0aef911c35dffa52bc",
-      "location": "San Diego, CA",
-      "datePosted": 1791549267,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac4230c8ff3fb9b3bc843fc",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac4230c8ff3fb9b3bc843fc",
-      "location": "O'Fallon, MO",
-      "datePosted": 1791549267,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
