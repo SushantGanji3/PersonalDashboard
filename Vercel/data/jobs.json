@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-10T14:30:19Z",
+  "generatedAt": "2026-10-10T14:40:15Z",
   "totalOpen": 1234,
   "totalNewgrad": 260,
   "totalOther": 974,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a71f7e402d93145bf891a4b",
+      "company": "Upstart",
+      "title": "Applied Scientist",
+      "url": "https://jobright.ai/jobs/info/6a71f7e402d93145bf891a4b",
+      "location": "United States",
+      "datePosted": 1791613554,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
       "company": "Shield AI",
@@ -13,6 +24,39 @@
       "location": "Washington, DC",
       "datePosted": 1791612416,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a591107686b4755d1e0e384",
+      "company": "Together AI",
+      "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+      "url": "https://jobright.ai/jobs/info/6a591107686b4755d1e0e384",
+      "location": "San Francisco, CA",
+      "datePosted": 1791611892,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac952256355f8776ff188b4",
+      "company": "SEPHORA",
+      "title": "Intern, Applied AI & Automation",
+      "url": "https://jobright.ai/jobs/info/6ac952256355f8776ff188b4",
+      "location": "San Francisco, CA",
+      "datePosted": 1791611628,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac95232d4a5a03707411e3c",
+      "company": "SEPHORA",
+      "title": "Intern, Technology, DevOps & Site Reliability Engineering (SRE)",
+      "url": "https://jobright.ai/jobs/info/6ac95232d4a5a03707411e3c",
+      "location": "San Francisco, CA",
+      "datePosted": 1791611615,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -61,10 +105,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1791609367,
       "source": "newgrad-jobs",
@@ -122,28 +166,6 @@
       "url": "https://jobright.ai/jobs/info/6aad8db73d96632d741ae9b9",
       "location": "St. Petersburg, FL",
       "datePosted": 1791608572,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac95232d4a5a03707411e3c",
-      "company": "SEPHORA",
-      "title": "Intern, Technology, DevOps & Site Reliability Engineering (SRE)",
-      "url": "https://jobright.ai/jobs/info/6ac95232d4a5a03707411e3c",
-      "location": "San Francisco, CA",
-      "datePosted": 1791608546,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac952256355f8776ff188b4",
-      "company": "SEPHORA",
-      "title": "Intern, Applied AI & Automation",
-      "url": "https://jobright.ai/jobs/info/6ac952256355f8776ff188b4",
-      "location": "San Francisco, CA",
-      "datePosted": 1791608543,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -683,28 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
       "location": "Saint Inigoes, MD",
       "datePosted": 1791579502,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac953ebd4a5a03707411ef7",
-      "company": "WingSwept",
-      "title": "Full Stack Web Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac953ebd4a5a03707411ef7",
-      "location": "Garner, NC",
-      "datePosted": 1791578807,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac94e36af788e6ad3b5adfc",
-      "company": "JourneyTeam",
-      "title": "Associate Developer, Business Central",
-      "url": "https://jobright.ai/jobs/info/6ac94e36af788e6ad3b5adfc",
-      "location": "United States",
-      "datePosted": 1791574921,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
