@@ -1,43 +1,10 @@
 {
-  "generatedAt": "2026-10-10T16:40:15Z",
-  "totalOpen": 1243,
-  "totalNewgrad": 270,
+  "generatedAt": "2026-10-10T16:50:15Z",
+  "totalOpen": 1238,
+  "totalNewgrad": 265,
   "totalOther": 973,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6a9e3965a7ba386c5d671171",
-      "company": "IBM",
-      "title": "Site Reliability Engineer Intern 2027 -Tucson, AZ",
-      "url": "https://jobright.ai/jobs/info/6a9e3965a7ba386c5d671171",
-      "location": "Tucson, AZ",
-      "datePosted": 1791622722,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aa874bf3a9f0a4fe6f196bb",
-      "company": "IBM",
-      "title": "Back End Developer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6aa874bf3a9f0a4fe6f196bb",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1791622573,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa43cd9f7baf881567cdfa0",
-      "company": "IBM",
-      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://jobright.ai/jobs/info/6aa43cd9f7baf881567cdfa0",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1791622496,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
     {
       "id": "newgrad-jobs:6a9e2a3c75edfa11b47106cd",
       "company": "IBM",
@@ -69,17 +36,6 @@
       "datePosted": 1791621683,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aa439f31d92e2d05d113ee7",
-      "company": "IBM",
-      "title": "QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
-      "url": "https://jobright.ai/jobs/info/6aa439f31d92e2d05d113ee7",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1791621647,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -89,17 +45,6 @@
       "url": "https://jobright.ai/jobs/info/6aa8756ca77a53f5a15798fc",
       "location": "Poughkeepsie, NY",
       "datePosted": 1791621447,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa434461d92e2d05d113c98",
-      "company": "IBM",
-      "title": "IBM System Test SW Developer Intern - Poughkeepsie, NY - 2027",
-      "url": "https://jobright.ai/jobs/info/6aa434461d92e2d05d113c98",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1791621267,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -380,17 +325,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aad966c0ebc8fb2313ea745",
-      "company": "Gemini",
-      "title": "Software Engineering Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6aad966c0ebc8fb2313ea745",
-      "location": "New York, NY",
-      "datePosted": 1791609900,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6a90a904a19886486676284b",
       "company": "New York Life",
       "title": "Associate - Full-Stack AI Engineer",
@@ -454,6 +388,17 @@
       "datePosted": 1791608752,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aada1316956574eac8b6cb8",
+      "company": "Gemini",
+      "title": "Software Engineering Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aada1316956574eac8b6cb8",
+      "location": "New York, NY",
+      "datePosted": 1791608615,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -586,7 +531,7 @@
       "datePosted": 1791605332,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7ad6a0ab1385611f900364",
@@ -672,6 +617,61 @@
       "url": "https://jobright.ai/jobs/info/6aad8dc40ebc8fb2313ea44f",
       "location": "St. Petersburg, FL",
       "datePosted": 1791603431,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad6a320ebc8fb2313e9539",
+      "company": "Together AI",
+      "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad6a320ebc8fb2313e9539",
+      "location": "San Francisco, CA",
+      "datePosted": 1791603267,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac91b61c3a8af9c54a09269",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac91b61c3a8af9c54a09269",
+      "location": "Cedar Rapids, IA; St. Petersburg, FL",
+      "datePosted": 1791602018,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac91b77d4a5a03707410c51",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac91b77d4a5a03707410c51",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791601654,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd17a6064da25272dfb4d1",
+      "company": "Athene",
+      "title": "Software Developer Internship",
+      "url": "https://jobright.ai/jobs/info/6abd17a6064da25272dfb4d1",
+      "location": "West Des Moines, IA",
+      "datePosted": 1791601572,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1791600072,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
