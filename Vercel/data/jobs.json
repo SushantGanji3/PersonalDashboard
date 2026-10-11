@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-11T03:20:16Z",
-  "totalOpen": 1233,
-  "totalNewgrad": 260,
+  "generatedAt": "2026-10-11T03:30:17Z",
+  "totalOpen": 1234,
+  "totalNewgrad": 261,
   "totalOther": 973,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa5303d2ed333b4ea5c5f48",
+      "company": "Rosenbauer America",
+      "title": "RMN Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa5303d2ed333b4ea5c5f48",
+      "location": "Wyoming, MN",
+      "datePosted": 1791661571,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
       "company": "Meta AI",
@@ -23,6 +34,17 @@
       "url": "https://jobright.ai/jobs/info/6acae7ff3c831dc4086bcb97",
       "location": "Pennsylvania, United States",
       "datePosted": 1791658522,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abaea8e1acb8fc6f09c23fa",
+      "company": "North Carolina Department of Agriculture and Consumer Services",
+      "title": "Programmer Analyst",
+      "url": "https://jobright.ai/jobs/info/6abaea8e1acb8fc6f09c23fa",
+      "location": "Santa Rosa, CA",
+      "datePosted": 1791656562,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -58,7 +80,7 @@
       "datePosted": 1791650827,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abea6c1d9621c5b283907de",
@@ -457,10 +479,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac9208bfe8f33a85d5025fe",
+      "id": "newgrad-jobs:6ac90c12fe8f33a85d501eb8",
       "company": "Ford Motor Company",
       "title": "Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac9208bfe8f33a85d5025fe",
+      "url": "https://jobright.ai/jobs/info/6ac90c12fe8f33a85d501eb8",
       "location": "Dearborn, MI",
       "datePosted": 1791621983,
       "source": "newgrad-jobs",
@@ -639,28 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a591107686b4755d1e0e384",
       "location": "San Francisco, CA",
       "datePosted": 1791615285,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aca41f33c831dc4086bbfea",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (E-Commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6aca41f33c831dc4086bbfea",
-      "location": "Seattle, WA",
-      "datePosted": 1791614851,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4298496faf756060967309",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a4298496faf756060967309",
-      "location": "Washington, DC",
-      "datePosted": 1791614782,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
