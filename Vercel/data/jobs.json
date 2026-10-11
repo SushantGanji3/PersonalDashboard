@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-11T11:00:33Z",
-  "totalOpen": 1234,
-  "totalNewgrad": 262,
-  "totalOther": 972,
+  "generatedAt": "2026-10-11T11:10:15Z",
+  "totalOpen": 1232,
+  "totalNewgrad": 261,
+  "totalOther": 971,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a591107686b4755d1e0e384",
+      "company": "Together AI",
+      "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+      "url": "https://jobright.ai/jobs/info/6a591107686b4755d1e0e384",
+      "location": "San Francisco, CA",
+      "datePosted": 1791689582,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6acb5792002e496d4beed062",
       "company": "Spectrum",
@@ -402,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac9720baf788e6ad3b5b872",
+      "id": "newgrad-jobs:6abd0ef28ff3fb9b3bc6e332",
       "company": "L3Harris",
       "title": "Intern, Information Security Systems Engineer  (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6ac9720baf788e6ad3b5b872",
+      "url": "https://jobright.ai/jobs/info/6abd0ef28ff3fb9b3bc6e332",
       "location": "Salt Lake City, UT",
       "datePosted": 1791630521,
       "source": "newgrad-jobs",
@@ -567,10 +578,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac90c12fe8f33a85d501eb8",
+      "id": "newgrad-jobs:6ac9208bfe8f33a85d5025fe",
       "company": "Ford Motor Company",
       "title": "Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac90c12fe8f33a85d501eb8",
+      "url": "https://jobright.ai/jobs/info/6ac9208bfe8f33a85d5025fe",
       "location": "Dearborn, MI",
       "datePosted": 1791621983,
       "source": "newgrad-jobs",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
       "location": "San Mateo, CA",
       "datePosted": 1791618497,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a511bc68d7d3e6cf1cbefff",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starship)",
-      "url": "https://jobright.ai/jobs/info/6a511bc68d7d3e6cf1cbefff",
-      "location": "Hawthorne, CA",
-      "datePosted": 1791617907,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -890,17 +890,6 @@
       "company": "Northrop Grumman",
       "title": "Systems Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163",
-      "location": "McClellan Park, CA",
-      "datePosted": 1791417600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:afaa987d-d54c-4cdc-8c41-ada69f27d011",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
       "location": "McClellan Park, CA",
       "datePosted": 1791417600,
       "source": "aggregator",
@@ -1320,6 +1309,17 @@
       "title": "Software Development Engineer Intern",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
       "location": "Seattle, WA, Austin, TX, San Jose, CA",
+      "datePosted": 1791158400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:75269b0a-c784-4fec-94a8-afe657a39877",
+      "company": "Micron",
+      "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
+      "location": "Boise, ID",
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
