@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:50:16Z",
+  "generatedAt": "2026-10-11T12:00:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -243,6 +243,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791715221
+    },
+    {
+      "id": "newgrad-jobs:6aa46ff8f7baf881567ceba9",
+      "company": "IBM",
+      "title": "Research AI Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa46ff8f7baf881567ceba9",
+      "location": "Yorktown Heights, NY",
+      "datePosted": 1791617179,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791720018
     },
     {
       "id": "newgrad-jobs:6aca41f33c831dc4086bbfea",
@@ -53791,39 +53802,6 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1789158017
-    },
-    {
-      "id": "newgrad-jobs:6aa514cb2ed333b4ea5c55dd",
-      "company": "SRI",
-      "title": "Research Engineer I / II - Embedded Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa514cb2ed333b4ea5c55dd",
-      "location": "Boulder, CO",
-      "datePosted": 1789127825,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789206616
-    },
-    {
-      "id": "newgrad-jobs:6aa46bf5422289703bd668e4",
-      "company": "ECS",
-      "title": "Junior Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6aa46bf5422289703bd668e4",
-      "location": "Fairfax, VA",
-      "datePosted": 1789127596,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789164021
-    },
-    {
-      "id": "newgrad-jobs:6aa4720d1d92e2d05d114cb4",
-      "company": "ECS",
-      "title": "Junior Data Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6aa4720d1d92e2d05d114cb4",
-      "location": "Fairfax, VA",
-      "datePosted": 1789127559,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789165218
     }
   ]
 }
