@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:40:15Z",
+  "generatedAt": "2026-10-12T18:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -298,6 +298,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791775215
+    },
+    {
+      "id": "newgrad-jobs:6acd1c11d113c967e3c7c2bb",
+      "company": "UF ECE Ambassadors",
+      "title": "Application Programmer I",
+      "url": "https://jobright.ai/jobs/info/6acd1c11d113c967e3c7c2bb",
+      "location": "Gainesville, FL",
+      "datePosted": 1791740537,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791831017
     },
     {
       "id": "newgrad-jobs:6acc6338ddd23cce28a0e90c",
@@ -52515,17 +52526,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789271418
-    },
-    {
-      "id": "newgrad-jobs:6aa6015242411952ff9ab301",
-      "company": "The Global Institute for Health and Human Rights",
-      "title": "Machine Learning MLOps Intern (Global SRE) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6aa6015242411952ff9ab301",
-      "location": "Omaha, NE; San Jose, CA",
-      "datePosted": 1789239010,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789267215
     }
   ]
 }

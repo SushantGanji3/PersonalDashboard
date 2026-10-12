@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T18:40:15Z",
-  "totalOpen": 1233,
-  "totalNewgrad": 265,
+  "generatedAt": "2026-10-12T18:50:17Z",
+  "totalOpen": 1235,
+  "totalNewgrad": 267,
   "totalOther": 968,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,17 @@
       "location": "Chicago, IL",
       "datePosted": 1791814756,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac90f856355f8776ff17325",
+      "company": "General Dynamics",
+      "title": "Software Engineer Junior Level for Cross Domain Solutions",
+      "url": "https://jobright.ai/jobs/info/6ac90f856355f8776ff17325",
+      "location": "Taunton, MA",
+      "datePosted": 1791802344,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -468,6 +479,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acd1c11d113c967e3c7c2bb",
+      "company": "UF ECE Ambassadors",
+      "title": "Application Programmer I",
+      "url": "https://jobright.ai/jobs/info/6acd1c11d113c967e3c7c2bb",
+      "location": "Gainesville, FL",
+      "datePosted": 1791740537,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6acc6338ddd23cce28a0e90c",
       "company": "Raydar",
       "title": "Research Engineer",
@@ -650,28 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e393f27c94c3d5a1cb8db",
       "location": "Tucson, AZ",
       "datePosted": 1791736771,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac580708ff3fb9b3bc8a1d7",
-      "company": "Cloudflare",
-      "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac580708ff3fb9b3bc8a1d7",
-      "location": "Austin, TX",
-      "datePosted": 1791736771,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
-      "company": "Figma",
-      "title": "Data Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1791736308,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
