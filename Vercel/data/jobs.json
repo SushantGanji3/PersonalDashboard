@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T20:30:19Z",
-  "totalOpen": 1231,
-  "totalNewgrad": 264,
+  "generatedAt": "2026-10-12T20:40:16Z",
+  "totalOpen": 1232,
+  "totalNewgrad": 265,
   "totalOther": 967,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,28 @@
       "datePosted": 1791814756,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
+      "company": "Meta AI",
+      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abaac6cee0b348be729ad33",
+      "location": "Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1791809372,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
+      "location": "Seattle, WA",
+      "datePosted": 1791808849,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -58,7 +80,7 @@
       "datePosted": 1791807941,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd3425a56e5406e57c02a3",
@@ -69,7 +91,7 @@
       "datePosted": 1791807925,
       "source": "newgrad-jobs",
       "season": "Spring",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6accfeebe7a1d9333210f69f",
@@ -91,7 +113,7 @@
       "datePosted": 1791807381,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abec96c0e027c0f3b39b08e",
@@ -113,7 +135,7 @@
       "datePosted": 1791807279,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abec9954ac55253f5d62d8e",
@@ -124,7 +146,7 @@
       "datePosted": 1791807279,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4556f34f64ba41dcb4d0e7",
@@ -650,28 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6acd31cb3c831dc4086c1114",
       "location": "United States",
       "datePosted": 1791738892,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acc6338ddd23cce28a0e90c",
-      "company": "Raydar",
-      "title": "Research Engineer",
-      "url": "https://jobright.ai/jobs/info/6acc6338ddd23cce28a0e90c",
-      "location": "San Francisco, CA",
-      "datePosted": 1791738000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd0c0bd113c967e3c7bd3d",
-      "company": "Raydar",
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6acd0c0bd113c967e3c7bd3d",
-      "location": "New York, NY",
-      "datePosted": 1791738000,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
