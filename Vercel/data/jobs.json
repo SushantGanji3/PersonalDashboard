@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:30:17Z",
+  "generatedAt": "2026-10-12T18:40:15Z",
   "totalOpen": 1233,
   "totalNewgrad": 265,
   "totalOther": 968,
@@ -34,6 +34,17 @@
       "url": "https://jobright.ai/jobs/info/6ab6a80d9d4843569fe4eaa4",
       "location": "McLean, VA",
       "datePosted": 1791799057,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1c08e191d8c340dbdcbc3",
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "title": "Application Developer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ab1c08e191d8c340dbdcbc3",
+      "location": "Topeka, KS",
+      "datePosted": 1791798948,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -125,17 +136,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1c08e191d8c340dbdcbc3",
-      "company": "Blue Cross and Blue Shield of Kansas",
-      "title": "Application Developer - Intern",
-      "url": "https://jobright.ai/jobs/info/6ab1c08e191d8c340dbdcbc3",
-      "location": "Topeka, KS",
-      "datePosted": 1791797453,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
     },
     {
       "id": "newgrad-jobs:6accd52de7a1d9333210eb6f",
@@ -575,7 +575,7 @@
       "datePosted": 1791738000,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acc20eea56e5406e57bd1f4",
