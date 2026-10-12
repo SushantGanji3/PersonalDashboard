@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:40:19Z",
+  "generatedAt": "2026-10-12T15:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791816020
+    },
+    {
+      "id": "newgrad-jobs:6accf5cce7a1d9333210f37f",
+      "company": "Wolverine Trading",
+      "title": "C++ Software Engineer (Early Career)",
+      "url": "https://jobright.ai/jobs/info/6accf5cce7a1d9333210f37f",
+      "location": "Chicago, IL",
+      "datePosted": 1791791964,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791820217
     },
     {
       "id": "newgrad-jobs:6accf1e0ddd23cce28a0fcb5",
@@ -221,6 +232,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791782415
+    },
+    {
+      "id": "newgrad-jobs:6accf631002e496d4beefc12",
+      "company": "Barclays Investment Bank",
+      "title": "Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6accf631002e496d4beefc12",
+      "location": "Hanover, NJ",
+      "datePosted": 1791738000,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791820217
+    },
+    {
+      "id": "newgrad-jobs:6accf41ea56e5406e57becc2",
+      "company": "GE Aerospace",
+      "title": "Engines Engineering Intern \u2013 Computer or Software Engineering \u2013 US \u2013 Summer 2027 - Returning Students",
+      "url": "https://jobright.ai/jobs/info/6accf41ea56e5406e57becc2",
+      "location": "Evendale, OH; Lynn, MA; Cincinnati, OH",
+      "datePosted": 1791738000,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791820217
+    },
+    {
+      "id": "newgrad-jobs:6accf42dd113c967e3c7b511",
+      "company": "GE Aerospace",
+      "title": "Engines Engineering Co-op \u2013 Computer or Software Engineering \u2013 US \u2013 Fall 2027 - Returning Students",
+      "url": "https://jobright.ai/jobs/info/6accf42dd113c967e3c7b511",
+      "location": "Evendale, OH; Lynn, MA; Cincinnati, OH",
+      "datePosted": 1791738000,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "firstSeenAt": 1791820217
     },
     {
       "id": "newgrad-jobs:6acc20eea56e5406e57bd1f4",
@@ -52449,17 +52493,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789257622
-    },
-    {
-      "id": "newgrad-jobs:6aa62f262ed333b4ea5ca063",
-      "company": "Qishi Club",
-      "title": "One Month AI Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6aa62f262ed333b4ea5ca063",
-      "location": "Princeton, NJ",
-      "datePosted": 1789227877,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789278015
     }
   ]
 }
