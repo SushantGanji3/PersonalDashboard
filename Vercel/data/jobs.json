@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-12T22:00:24Z",
-  "totalOpen": 1226,
+  "generatedAt": "2026-10-12T22:10:16Z",
+  "totalOpen": 1224,
   "totalNewgrad": 261,
-  "totalOther": 965,
+  "totalOther": 963,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,7 +25,7 @@
       "datePosted": 1791814328,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd36533c831dc4086c1223",
@@ -80,7 +80,7 @@
       "datePosted": 1791812906,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aba8724be5f1e9325115e1f",
@@ -168,7 +168,7 @@
       "datePosted": 1791811833,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd296ba56e5406e57c0012",
@@ -476,7 +476,7 @@
       "datePosted": 1791802767,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac8226844d6e65604a0650a",
@@ -487,7 +487,7 @@
       "datePosted": 1791802767,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac90f856355f8776ff17325",
@@ -1282,17 +1282,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:b5be1176-4a77-4aa0-a229-cb9959886d0a",
       "company": "Expedia",
       "title": "Software Development Engineer Intern",
@@ -1321,6 +1310,17 @@
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
       "location": "O'Fallon, MO",
       "datePosted": 1791158400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:f9c39daf-9f62-4431-bf7d-acc89559372a",
+      "company": "SpaceX",
+      "title": "Software Engineer - Starshield Products",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865057002",
+      "location": "Washington, DC",
+      "datePosted": 1790990823,
       "source": "aggregator",
       "season": null,
       "isNew": false
