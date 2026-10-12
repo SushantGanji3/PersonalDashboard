@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:10:20Z",
+  "generatedAt": "2026-10-12T18:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -386,6 +386,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1791827420
+    },
+    {
+      "id": "newgrad-jobs:6acd1b20ddd23cce28a10a47",
+      "company": "Thomson Reuters",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6acd1b20ddd23cce28a10a47",
+      "location": "Eagan, MN",
+      "datePosted": 1791738000,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791829216
     },
     {
       "id": "newgrad-jobs:6acc20eea56e5406e57bd1f4",
@@ -52515,17 +52526,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789266017
-    },
-    {
-      "id": "newgrad-jobs:6aa5f800930bff471a2a0f21",
-      "company": "Leidos",
-      "title": "Software Engineer (Tactical Decision Aids \u2013 Entry-Level)",
-      "url": "https://jobright.ai/jobs/info/6aa5f800930bff471a2a0f21",
-      "location": "Takoma Park, MD; Bethesda, MD",
-      "datePosted": 1789236624,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789264216
     }
   ]
 }
