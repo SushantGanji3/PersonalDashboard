@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T23:10:17Z",
-  "totalOpen": 1232,
-  "totalNewgrad": 264,
+  "generatedAt": "2026-10-12T23:20:14Z",
+  "totalOpen": 1225,
+  "totalNewgrad": 257,
   "totalOther": 968,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791843002,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd5d3cd113c967e3c7d92e",
@@ -25,7 +25,7 @@
       "datePosted": 1791818444,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd5c5fa56e5406e57c10d0",
@@ -36,7 +36,7 @@
       "datePosted": 1791818223,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd36533c831dc4086c1223",
@@ -45,6 +45,28 @@
       "url": "https://jobright.ai/jobs/info/6acd36533c831dc4086c1223",
       "location": "United States",
       "datePosted": 1791817902,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1791817894,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac9a942a3291db11df049dc",
+      "company": "Workday",
+      "title": "Software Development Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac9a942a3291db11df049dc",
+      "location": "Pleasanton, CA",
+      "datePosted": 1791817886,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -265,28 +287,6 @@
       "url": "https://jobright.ai/jobs/info/6aba8724be5f1e9325115e1f",
       "location": "Houston, TX",
       "datePosted": 1791812790,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac9a942a3291db11df049dc",
-      "company": "Workday",
-      "title": "Software Development Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac9a942a3291db11df049dc",
-      "location": "Pleasanton, CA",
-      "datePosted": 1791812184,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1791812172,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -707,7 +707,7 @@
       "datePosted": 1791763200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8944e3f6-18d2-4e20-b86a-23223ceba88f",
