@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:40:16Z",
+  "generatedAt": "2026-10-12T17:50:20Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791816020
+    },
+    {
+      "id": "newgrad-jobs:6acd1039ddd23cce28a106f6",
+      "company": "Blue Yonder",
+      "title": "Software Engineer (Java backend)",
+      "url": "https://jobright.ai/jobs/info/6acd1039ddd23cce28a106f6",
+      "location": "Dallas, TX",
+      "datePosted": 1791799263,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791827420
     },
     {
       "id": "newgrad-jobs:6acd0f023c831dc4086c052a",
@@ -364,6 +375,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791826219
+    },
+    {
+      "id": "newgrad-jobs:6acd10b3e7a1d9333210fcf6",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6acd10b3e7a1d9333210fcf6",
+      "location": "Fullerton, CA",
+      "datePosted": 1791738000,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791827420
     },
     {
       "id": "newgrad-jobs:6acc20eea56e5406e57bd1f4",
