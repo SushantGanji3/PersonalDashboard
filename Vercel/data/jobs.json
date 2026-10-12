@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:40:20Z",
+  "generatedAt": "2026-10-12T14:50:16Z",
   "totalOpen": 1239,
   "totalNewgrad": 269,
   "totalOther": 970,
@@ -13,6 +13,39 @@
       "location": "Chicago, IL",
       "datePosted": 1791814756,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6accea8eddd23cce28a0fb01",
+      "company": "CapTech",
+      "title": "Consulting Internship: Software Engineering (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6accea8eddd23cce28a0fb01",
+      "location": "Richmond, VA",
+      "datePosted": 1791789086,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a7645caa26ccc369f8348f3",
+      "company": "Verkada",
+      "title": "Software Engineer - Data Platform",
+      "url": "https://jobright.ai/jobs/info/6a7645caa26ccc369f8348f3",
+      "location": "San Mateo, CA",
+      "datePosted": 1791788608,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5c6f864da96a42cfd9c8e8",
+      "company": "SpaceX",
+      "title": "Software Engineer, Mobile Apps (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a5c6f864da96a42cfd9c8e8",
+      "location": "Redmond, WA",
+      "datePosted": 1791788505,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -424,6 +457,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6accdf4e3c831dc4086bf687",
+      "company": "talentpluto",
+      "title": "Software Engineer - Strala",
+      "url": "https://jobright.ai/jobs/info/6accdf4e3c831dc4086bf687",
+      "location": "San Francisco, CA",
+      "datePosted": 1791727098,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a704c3aa605182afe22e82c",
       "company": "TikTok",
       "title": "Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer",
@@ -433,6 +477,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acce884002e496d4beef874",
+      "company": "Intezra, Inc.",
+      "title": "Junior Cyber Operator / Developer / Analyst",
+      "url": "https://jobright.ai/jobs/info/6acce884002e496d4beef874",
+      "location": "Columbia, MD",
+      "datePosted": 1791723340,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6accdec3e7a1d9333210ed91",
@@ -617,61 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6a93639ec12c90443efcc07d",
       "location": "Chantilly, VA",
       "datePosted": 1791710091,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a91c4d7d18f75674827a1e0",
-      "company": "York Space Systems",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a91c4d7d18f75674827a1e0",
-      "location": "Austin, TX; Greenwood Village, CO",
-      "datePosted": 1791709702,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e29c168f82b4036738c50",
-      "company": "IBM",
-      "title": "Back-End Software Developer-Tucson-AZ",
-      "url": "https://jobright.ai/jobs/info/6a9e29c168f82b4036738c50",
-      "location": "Tucson, AZ",
-      "datePosted": 1791708065,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa7bbe6a77a53f5a1575eb7",
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer - Junior / Mid / Senior / SME - 28332 * Job Details | HII's Mission Technologies division",
-      "url": "https://jobright.ai/jobs/info/6aa7bbe6a77a53f5a1575eb7",
-      "location": "Dayton, OH",
-      "datePosted": 1791707912,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e29d827c94c3d5a1cb5f3",
-      "company": "IBM",
-      "title": "Entry Level Site Reliability Engineer -Tucson-AZ",
-      "url": "https://jobright.ai/jobs/info/6a9e29d827c94c3d5a1cb5f3",
-      "location": "Tucson, AZ",
-      "datePosted": 1791707177,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a74ee91972ac843c6998098",
-      "company": "CGI",
-      "title": "SAP S/4HANA ABAP Developer (Jr.) - U.S. Citizenship Required",
-      "url": "https://jobright.ai/jobs/info/6a74ee91972ac843c6998098",
-      "location": "Fairfax, VA; Lafayette, LA; Virginia, United States; Lebanon, VA; Knoxville, TN",
-      "datePosted": 1791705657,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
