@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T20:10:19Z",
-  "totalOpen": 1229,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-10-12T20:20:16Z",
+  "totalOpen": 1228,
+  "totalNewgrad": 261,
   "totalOther": 967,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1791808103,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6accfeebe7a1d9333210f69f",
@@ -36,17 +36,6 @@
       "datePosted": 1791807399,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4556f34f64ba41dcb4d0e7",
-      "company": "IMC Trading",
-      "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
-      "url": "https://jobright.ai/jobs/info/6a4556f34f64ba41dcb4d0e7",
-      "location": "Chicago, IL; New York, NY",
-      "datePosted": 1791806762,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -597,7 +586,7 @@
       "datePosted": 1791738892,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acc6338ddd23cce28a0e90c",
@@ -674,6 +663,17 @@
       "datePosted": 1791738000,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acd10b3e7a1d9333210fcf6",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6acd10b3e7a1d9333210fcf6",
+      "location": "Fullerton, CA",
+      "datePosted": 1791738000,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1059,7 +1059,7 @@
       "datePosted": 1791331200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cd27a28a-afa5-420b-9dec-9dda2b442c94",
