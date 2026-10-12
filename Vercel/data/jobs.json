@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T22:20:14Z",
-  "totalOpen": 1226,
-  "totalNewgrad": 263,
+  "generatedAt": "2026-10-12T22:30:16Z",
+  "totalOpen": 1225,
+  "totalNewgrad": 262,
   "totalOther": 963,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791815760,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd52623c831dc4086c1bc8",
@@ -25,7 +25,51 @@
       "datePosted": 1791815666,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3f4c6778237a036d5e6df5",
+      "company": "Aquatic Capital Management",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a3f4c6778237a036d5e6df5",
+      "location": "Chicago, IL",
+      "datePosted": 1791815183,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acd4f7ca56e5406e57c0c55",
+      "company": "Seagate Technology",
+      "title": "Research Intern (Summer 2027), ML and Security",
+      "url": "https://jobright.ai/jobs/info/6acd4f7ca56e5406e57c0c55",
+      "location": "Shakopee, MN",
+      "datePosted": 1791814924,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acd4f5ba56e5406e57c0c4a",
+      "company": "Seagate Technology",
+      "title": "Research Intern (Summer 2027) - Formal Methods and Security",
+      "url": "https://jobright.ai/jobs/info/6acd4f5ba56e5406e57c0c4a",
+      "location": "Shakopee, MN",
+      "datePosted": 1791814891,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acd10b3e7a1d9333210fcf6",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6acd10b3e7a1d9333210fcf6",
+      "location": "Fullerton, CA",
+      "datePosted": 1791814817,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd47c9a56e5406e57c094f",
@@ -36,6 +80,17 @@
       "datePosted": 1791814805,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acd4843002e496d4bef188d",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6acd4843002e496d4bef188d",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791814801,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -91,17 +146,6 @@
       "datePosted": 1791813525,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd4832a56e5406e57c098f",
-      "company": "Todd",
-      "title": "Frontend Software Engineer Intern (Winter 26)",
-      "url": "https://jobright.ai/jobs/info/6acd4832a56e5406e57c098f",
-      "location": "United States",
-      "datePosted": 1791813058,
-      "source": "newgrad-jobs",
-      "season": "Winter",
       "isNew": false
     },
     {
@@ -628,50 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6acd4023a56e5406e57c0649",
       "location": "Washington, DC; Reston, VA",
       "datePosted": 1791792216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6accf5cce7a1d9333210f37f",
-      "company": "Wolverine Trading",
-      "title": "C++ Software Engineer (Early Career)",
-      "url": "https://jobright.ai/jobs/info/6accf5cce7a1d9333210f37f",
-      "location": "Chicago, IL",
-      "datePosted": 1791791964,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6accf1e0ddd23cce28a0fcb5",
-      "company": "IBM",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6accf1e0ddd23cce28a0fcb5",
-      "location": "Yorktown Heights, NY; Charlotte, NC; Austin, TX",
-      "datePosted": 1791790960,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
-      "company": "Faraday Future",
-      "title": "Robotics Data Operator Intern",
-      "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
-      "location": "El Segundo, CA; Los Angeles, CA",
-      "datePosted": 1791790890,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6accefb6a56e5406e57beb86",
-      "company": "University of Florida",
-      "title": "Application Programmer I",
-      "url": "https://jobright.ai/jobs/info/6accefb6a56e5406e57beb86",
-      "location": "Gainesville, FL",
-      "datePosted": 1791790406,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
