@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-12T14:30:20Z",
-  "totalOpen": 1238,
+  "generatedAt": "2026-10-12T14:40:20Z",
+  "totalOpen": 1239,
   "totalNewgrad": 269,
-  "totalOther": 969,
+  "totalOther": 970,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
+      "company": "Wolverine Trading",
+      "title": "Early Career C++ Software Engineer",
+      "url": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq",
+      "location": "Chicago, IL",
+      "datePosted": 1791814756,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa7ec9182e82a31997c2ee5",
       "company": "Robinhood",
@@ -14,7 +25,7 @@
       "datePosted": 1791785867,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7ec8ca77a53f5a1576698",
@@ -36,7 +47,7 @@
       "datePosted": 1791785861,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa7eceaa77a53f5a15766b1",
@@ -47,7 +58,7 @@
       "datePosted": 1791785860,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6accd52de7a1d9333210eb6f",
@@ -1309,17 +1320,6 @@
       "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
       "location": "Boise, ID",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0904ada8-dd5b-47ed-b6b2-f23cdd66fb39",
-      "company": "Mastercard",
-      "title": "Software Engineer 1",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
-      "location": "O'Fallon, MO",
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
