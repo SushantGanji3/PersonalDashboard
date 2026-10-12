@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:00:17Z",
+  "generatedAt": "2026-10-12T20:10:19Z",
   "totalOpen": 1229,
   "totalNewgrad": 262,
   "totalOther": 967,
@@ -17,6 +17,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac670580e027c0f3b3b25d3",
+      "company": "Mastercard",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ac670580e027c0f3b3b25d3",
+      "location": "O'Fallon, MO",
+      "datePosted": 1791808103,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6accfeebe7a1d9333210f69f",
+      "company": "TriNet",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6accfeebe7a1d9333210f69f",
+      "location": "Dunwoody, GA",
+      "datePosted": 1791807399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4556f34f64ba41dcb4d0e7",
+      "company": "IMC Trading",
+      "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
+      "url": "https://jobright.ai/jobs/info/6a4556f34f64ba41dcb4d0e7",
+      "location": "Chicago, IL; New York, NY",
+      "datePosted": 1791806762,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
       "company": "Figma",
       "title": "Software Engineer Intern (Summer 2027)",
@@ -25,17 +58,6 @@
       "datePosted": 1791806449,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6accfeebe7a1d9333210f69f",
-      "company": "TriNet",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6accfeebe7a1d9333210f69f",
-      "location": "Dunwoody, GA",
-      "datePosted": 1791806334,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -567,6 +589,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acd31cb3c831dc4086c1114",
+      "company": "Westport Properties, Inc.",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6acd31cb3c831dc4086c1114",
+      "location": "United States",
+      "datePosted": 1791738892,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6acc6338ddd23cce28a0e90c",
       "company": "Raydar",
       "title": "Research Engineer",
@@ -638,39 +671,6 @@
       "title": "Software Engineer",
       "url": "https://jobright.ai/jobs/info/6acd285ce7a1d933321105d6",
       "location": "San Francisco, CA",
-      "datePosted": 1791738000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd10b3e7a1d9333210fcf6",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6acd10b3e7a1d9333210fcf6",
-      "location": "Fullerton, CA",
-      "datePosted": 1791738000,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd20cfd113c967e3c7c502",
-      "company": "CBRE",
-      "title": "Software Engineer Intern (C++)",
-      "url": "https://jobright.ai/jobs/info/6acd20cfd113c967e3c7c502",
-      "location": "Kansas City, MO",
-      "datePosted": 1791738000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd296ba56e5406e57c0012",
-      "company": "Cboe Global Markets",
-      "title": "Software Engineer Intern (C++)",
-      "url": "https://jobright.ai/jobs/info/6acd296ba56e5406e57c0012",
-      "location": "Kansas City, MO",
       "datePosted": 1791738000,
       "source": "newgrad-jobs",
       "season": null,
@@ -1051,6 +1051,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:d145d88e-f6ed-460e-b257-a01adef1548e",
+      "company": "RTX",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1791331200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:cd27a28a-afa5-420b-9dec-9dda2b442c94",
       "company": "RTX",
       "title": "Software Engineering Co-op - Summer/Fall 2027",
@@ -1309,17 +1320,6 @@
       "title": "Software Development Engineer Intern",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
       "location": "Seattle, WA, Austin, TX, San Jose, CA",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:75269b0a-c784-4fec-94a8-afe657a39877",
-      "company": "Micron",
-      "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
-      "location": "Boise, ID",
       "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
