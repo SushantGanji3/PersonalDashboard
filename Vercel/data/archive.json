@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:20:16Z",
+  "generatedAt": "2026-10-12T18:30:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -397,6 +397,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791829216
+    },
+    {
+      "id": "newgrad-jobs:6acd184dd113c967e3c7c101",
+      "company": "AtkinsR\u00e9alis",
+      "title": "Software Developer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6acd184dd113c967e3c7c101",
+      "location": "Denver, CO",
+      "datePosted": 1791738000,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791829817
     },
     {
       "id": "newgrad-jobs:6acc20eea56e5406e57bd1f4",
@@ -52515,17 +52526,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789267215
-    },
-    {
-      "id": "newgrad-jobs:6aa5fa842ed333b4ea5c90d5",
-      "company": "Leidos",
-      "title": "Software Engineer (Tactical Decision Aids \u2013 Entry-Level)",
-      "url": "https://jobright.ai/jobs/info/6aa5fa842ed333b4ea5c90d5",
-      "location": "Bethesda, MD",
-      "datePosted": 1789237268,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789266017
     }
   ]
 }
