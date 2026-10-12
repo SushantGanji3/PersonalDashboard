@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T21:10:14Z",
-  "totalOpen": 1231,
-  "totalNewgrad": 264,
+  "generatedAt": "2026-10-12T21:20:16Z",
+  "totalOpen": 1229,
+  "totalNewgrad": 262,
   "totalOther": 967,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,50 @@
       "location": "Chicago, IL",
       "datePosted": 1791814756,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acd3d66ddd23cce28a115a9",
+      "company": "Todd",
+      "title": "Fullstack Software Engineer Intern (Winter 26)",
+      "url": "https://jobright.ai/jobs/info/6acd3d66ddd23cce28a115a9",
+      "location": "United States",
+      "datePosted": 1791810294,
+      "source": "newgrad-jobs",
+      "season": "Winter",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9e393f27c94c3d5a1cb8db",
+      "company": "IBM",
+      "title": "Software Developer Intern -Tucson, AZ",
+      "url": "https://jobright.ai/jobs/info/6a9e393f27c94c3d5a1cb8db",
+      "location": "Tucson, AZ",
+      "datePosted": 1791809977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa7ec9182e82a31997c2ee5",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern, Backend (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa7ec9182e82a31997c2ee5",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "datePosted": 1791809977,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9c43b3387a3d9b67d6bce",
+      "company": "Johnson & Johnson",
+      "title": "Software Engineering Intern - Robotics R&D",
+      "url": "https://jobright.ai/jobs/info/6aa9c43b3387a3d9b67d6bce",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791809977,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -102,17 +146,6 @@
       "datePosted": 1791809031,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd3807ddd23cce28a1141c",
-      "company": "Todd",
-      "title": "Fullstack Software Engineer Intern (Fall 26)",
-      "url": "https://jobright.ai/jobs/info/6acd3807ddd23cce28a1141c",
-      "location": "United States",
-      "datePosted": 1791808919,
-      "source": "newgrad-jobs",
-      "season": "Fall",
       "isNew": false
     },
     {
@@ -242,17 +275,6 @@
       "title": "Software Systems Engineer Intern - JobID-0299",
       "url": "https://jobright.ai/jobs/info/6abec96c0e027c0f3b39b08e",
       "location": "Arlington, VA; San Diego, CA; Mount Laurel Township, NJ",
-      "datePosted": 1791807279,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abec95d4ac55253f5d62d65",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Software Systems Engineer Intern - JobID-0304",
-      "url": "https://jobright.ai/jobs/info/6abec95d4ac55253f5d62d65",
-      "location": "Arlington, VA",
       "datePosted": 1791807279,
       "source": "newgrad-jobs",
       "season": null,
@@ -457,6 +479,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acd4023a56e5406e57c0649",
+      "company": "Concept Solutions, LLC",
+      "title": "Associates Software Engineer \u2013 Go (Golang)",
+      "url": "https://jobright.ai/jobs/info/6acd4023a56e5406e57c0649",
+      "location": "Washington, DC; Reston, VA",
+      "datePosted": 1791792216,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6accf5cce7a1d9333210f37f",
       "company": "Wolverine Trading",
       "title": "C++ Software Engineer (Early Career)",
@@ -556,17 +589,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa7ec9182e82a31997c2ee5",
-      "company": "Robinhood",
-      "title": "Software Engineering Intern, Backend (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa7ec9182e82a31997c2ee5",
-      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-      "datePosted": 1791785867,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa7ec7e3a9f0a4fe6f16530",
       "company": "Robinhood",
       "title": "Software Engineering Intern, Web (Summer 2027)",
@@ -652,28 +674,6 @@
       "datePosted": 1791776493,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6accad78ddd23cce28a0f0b8",
-      "company": "Astronics Corporation",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6accad78ddd23cce28a0f0b8",
-      "location": "Kirkland, WA",
-      "datePosted": 1791773448,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a900e320bd89e205d24861b",
-      "company": "Palantir",
-      "title": "Information Security Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a900e320bd89e205d24861b",
-      "location": "New York, NY",
-      "datePosted": 1791772074,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
