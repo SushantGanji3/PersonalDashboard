@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-12T09:30:19Z",
-  "totalOpen": 1244,
-  "totalNewgrad": 272,
+  "generatedAt": "2026-10-12T09:40:15Z",
+  "totalOpen": 1243,
+  "totalNewgrad": 271,
   "totalOther": 972,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a6caccbacb0a61f9dbc6542",
+      "company": "Booz Allen Hamilton",
+      "title": "Agentic AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6a6caccbacb0a61f9dbc6542",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1791770891,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6acc9be8e7a1d9333210e553",
       "company": "Code-Gang",
@@ -14,7 +25,7 @@
       "datePosted": 1791768952,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a609b51cf6cf477a0561778",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a591107686b4755d1e0e384",
       "location": "San Francisco, CA",
       "datePosted": 1791689582,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acc3b26a56e5406e57bd463",
-      "company": "Clera",
-      "title": "AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6acc3b26a56e5406e57bd463",
-      "location": "San Francisco, CA",
-      "datePosted": 1791689312,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
