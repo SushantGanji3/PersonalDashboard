@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:00:47Z",
+  "generatedAt": "2026-10-13T07:10:15Z",
   "totalOpen": 1212,
   "totalNewgrad": 246,
   "totalOther": 966,
@@ -35,6 +35,17 @@
       "location": "Falls Church, VA",
       "datePosted": 1791849600,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acdbc1d7c7bc52e04f55aed",
+      "company": "Teradyne",
+      "title": "Software Engineer (Memory Test, San Jose, CA)",
+      "url": "https://jobright.ai/jobs/info/6acdbc1d7c7bc52e04f55aed",
+      "location": "San Jose, CA",
+      "datePosted": 1791847722,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -265,17 +276,6 @@
       "url": "https://jobright.ai/jobs/info/6acd75183c831dc4086c23dc",
       "location": "Chantilly, VA",
       "datePosted": 1791824552,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acdbc1d7c7bc52e04f55aed",
-      "company": "Teradyne",
-      "title": "Software Engineer (Memory Test, San Jose, CA)",
-      "url": "https://jobright.ai/jobs/info/6acdbc1d7c7bc52e04f55aed",
-      "location": "San Jose, CA",
-      "datePosted": 1791824400,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
