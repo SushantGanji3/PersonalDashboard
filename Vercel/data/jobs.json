@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T05:50:17Z",
+  "generatedAt": "2026-10-13T06:00:18Z",
   "totalOpen": 1213,
   "totalNewgrad": 246,
   "totalOther": 967,
@@ -39,12 +39,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acda6bf09635d4ede00a8c9",
+      "company": "Regeneron",
+      "title": "Assoc IOPS AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6acda6bf09635d4ede00a8c9",
+      "location": "Troy, NY",
+      "datePosted": 1791841978,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1791841978,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6acd9691e7a1d93332112287",
       "company": "CGI",
       "title": "Jr.-Level Full-Stack AI Engineer",
       "url": "https://jobright.ai/jobs/info/6acd9691e7a1d93332112287",
       "location": "United States",
-      "datePosted": 1791841296,
+      "datePosted": 1791841971,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -94,34 +116,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1791838364,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6acdaa443e2155b545aa1810",
       "company": "Teradyne",
       "title": "Software Engineer",
       "url": "https://jobright.ai/jobs/info/6acdaa443e2155b545aa1810",
       "location": "San Jose, CA",
       "datePosted": 1791838164,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acda6bf09635d4ede00a8c9",
-      "company": "Regeneron",
-      "title": "Assoc IOPS AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6acda6bf09635d4ede00a8c9",
-      "location": "Troy, NY",
-      "datePosted": 1791837263,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -246,6 +246,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acdbc1d7c7bc52e04f55aed",
+      "company": "Teradyne",
+      "title": "Software Engineer (Memory Test, San Jose, CA)",
+      "url": "https://jobright.ai/jobs/info/6acdbc1d7c7bc52e04f55aed",
+      "location": "San Jose, CA",
+      "datePosted": 1791824400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acd742da56e5406e57c14f9",
@@ -696,17 +707,6 @@
       "datePosted": 1791808849,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd0d11002e496d4bef03f5",
-      "company": "Databricks",
-      "title": "Software Engineering Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6acd0d11002e496d4bef03f5",
-      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, BC",
-      "datePosted": 1791808752,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
