@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:30:18Z",
+  "generatedAt": "2026-10-13T06:40:15Z",
   "totalOpen": 1212,
   "totalNewgrad": 246,
   "totalOther": 966,
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:d3d8fa9f-12a2-4620-98c7-26daefe083e2",
+      "company": "General Dynamics",
+      "title": "Software Developer Intern - Defense Agencies - Software Development",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--SW-DEV-_RQ230270",
+      "location": "Falls Church, VA",
+      "datePosted": 1791849600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acda6bf09635d4ede00a8c9",
@@ -69,7 +80,7 @@
       "datePosted": 1791844494,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
@@ -1018,23 +1029,23 @@
       "isNew": false
     },
     {
+      "id": "simplify:4f1c3a3a-978c-456b-855b-50eaf8efdb9e",
+      "company": "L3Harris",
+      "title": "Associate Systems Engineer",
+      "url": "https://jobs.l3harris.com/job/Plano-Associate,-Systems-Engineering-TX-75074/1437945300/?ats=successfactors",
+      "location": "Plano, TX",
+      "datePosted": 1791410998,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:f3b1a57c-3417-445f-a783-33548934141a",
       "company": "L3Harris",
       "title": "Associate Software Engineering",
       "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1437963000/?ats=successfactors",
       "location": "Fort Wayne, IN",
       "datePosted": 1791410998,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7ef78771-a2e4-4642-88ef-6a719ad563eb",
-      "company": "L3Harris",
-      "title": "Associate Systems Engineer",
-      "url": "https://jobs.l3harris.com/job/Waco-Associate,-Systems-Engineering-TX-76705/1437638600/?ats=successfactors",
-      "location": "Waco, TX",
-      "datePosted": 1791364025,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1310,17 +1321,6 @@
       "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
       "location": "Seattle, WA",
       "datePosted": 1791237839,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2d3cd1b8-063f-41a1-a9ba-c834e3114c68",
-      "company": "Atlassian",
-      "title": "Data Engineer Intern",
-      "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
-      "location": "Seattle, WA",
-      "datePosted": 1791237838,
       "source": "aggregator",
       "season": null,
       "isNew": false
