@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-13T01:30:17Z",
-  "totalOpen": 1215,
+  "generatedAt": "2026-10-13T01:40:17Z",
+  "totalOpen": 1216,
   "totalNewgrad": 247,
-  "totalOther": 968,
+  "totalOther": 969,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:22b439fe-1f57-4be3-b47f-046920ffad7a",
+      "company": "TikTok",
+      "title": "Research Scientist Graduate",
+      "url": "https://lifeattiktok.com/search/7695929967028750645",
+      "location": "Seattle, WA",
+      "datePosted": 1791854064,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:4f41f3de-17ab-49df-b857-cb501dbde8e5",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Language and Agents",
+      "url": "https://www.metacareers.com/jobs/2168438160696161",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1791853825,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
       "company": "Microsoft",
@@ -47,7 +69,7 @@
       "datePosted": 1791825927,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd4d283c831dc4086c1a6e",
@@ -1018,17 +1040,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
-      "company": "Apple",
-      "title": "Software Engineer - Siri User Experiences",
-      "url": "https://jobs.apple.com/en-us/details/200687375",
-      "location": "Cupertino, CA",
-      "datePosted": 1791353230,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
       "company": "Akuna Capital",
       "title": "Entry-Level C++ Software Engineer Intern",
@@ -1310,17 +1321,6 @@
       "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
       "location": "Seattle, WA",
       "datePosted": 1791237838,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791158400,
       "source": "aggregator",
       "season": null,
       "isNew": false
