@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T23:10:16Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-10-13T23:20:17Z",
+  "totalOpen": 1221,
+  "totalNewgrad": 243,
   "totalOther": 978,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -134,6 +134,28 @@
       "location": "Menlo Park, CA",
       "datePosted": 1791929213,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aba90e17220f52e62ae6de3",
+      "company": "DataRobot",
+      "title": "Deep Learning Research Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aba90e17220f52e62ae6de3",
+      "location": "United States",
+      "datePosted": 1791905337,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ace925e680c80c8753bd9e5",
+      "company": "Infosys",
+      "title": "AI ML Developer for Teamcenter PLM",
+      "url": "https://jobright.ai/jobs/info/6ace925e680c80c8753bd9e5",
+      "location": "San Jose, CA",
+      "datePosted": 1791905240,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -408,17 +430,6 @@
       "url": "https://jobright.ai/jobs/info/6ac68333064da25272e1ac96",
       "location": "Marina del Rey, CA",
       "datePosted": 1791897716,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace925e680c80c8753bd9e5",
-      "company": "Infosys",
-      "title": "AI ML Developer for Teamcenter PLM",
-      "url": "https://jobright.ai/jobs/info/6ace925e680c80c8753bd9e5",
-      "location": "San Jose, CA",
-      "datePosted": 1791897582,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -710,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ace463eba99f15ef4123e4a",
-      "company": "STERIS",
-      "title": "Software Engineering Co-op - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ace463eba99f15ef4123e4a",
-      "location": "Mentor, OH",
-      "datePosted": 1791889812,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ace69b74f3229123da3be90",
       "company": "Murphy Door",
       "title": "Full-Stack Software Developer - Utah; Onsite",
@@ -754,17 +754,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ace6cd84391691a335ac772",
-      "company": "TaxRise",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ace6cd84391691a335ac772",
-      "location": "Irvine, CA",
-      "datePosted": 1791888111,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a961cb73843db015990973a",
       "company": "One Call",
       "title": "Application Software Engineer",
@@ -793,6 +782,17 @@
       "url": "https://jobright.ai/jobs/info/6acc4e92d113c967e3c79e3a",
       "location": "New York, NY",
       "datePosted": 1791886556,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa514cb2ed333b4ea5c55dd",
+      "company": "SRI",
+      "title": "Research Engineer I / II - Embedded Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa514cb2ed333b4ea5c55dd",
+      "location": "Boulder, CO",
+      "datePosted": 1791886502,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1235,7 +1235,7 @@
       "datePosted": 1791331200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e5467def-2b54-4bda-90a0-cdb22e92de7f",
