@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:40:15Z",
+  "generatedAt": "2026-10-13T06:50:17Z",
   "totalOpen": 1212,
   "totalNewgrad": 246,
   "totalOther": 966,
@@ -36,7 +36,7 @@
       "datePosted": 1791849600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acda6bf09635d4ede00a8c9",
@@ -44,7 +44,18 @@
       "title": "Assoc IOPS AI Engineer",
       "url": "https://jobright.ai/jobs/info/6acda6bf09635d4ede00a8c9",
       "location": "Troy, NY",
-      "datePosted": 1791845004,
+      "datePosted": 1791845667,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1791845666,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -94,12 +105,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1791841978,
+      "id": "newgrad-jobs:6acdaa443e2155b545aa1810",
+      "company": "Teradyne",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6acdaa443e2155b545aa1810",
+      "location": "San Jose, CA",
+      "datePosted": 1791842400,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -144,17 +155,6 @@
       "url": "https://jobright.ai/jobs/info/6a310b4c524fd5657fe12c80",
       "location": "Annapolis Junction, MD; Columbia, MD; Hanover, MD; Laurel, MD",
       "datePosted": 1791838658,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acdaa443e2155b545aa1810",
-      "company": "Teradyne",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6acdaa443e2155b545aa1810",
-      "location": "San Jose, CA",
-      "datePosted": 1791838164,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1037,7 +1037,7 @@
       "datePosted": 1791410998,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f3b1a57c-3417-445f-a783-33548934141a",
