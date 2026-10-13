@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-13T17:49:20Z",
-  "totalOpen": 1217,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-10-13T17:50:20Z",
+  "totalOpen": 1213,
+  "totalNewgrad": 249,
   "totalOther": 964,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa8a7bd58d9ccf2690b599d",
+      "company": "SpaceX",
+      "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
+      "url": "https://jobright.ai/jobs/info/6aa8a7bd58d9ccf2690b599d",
+      "location": "Redmond, WA",
+      "datePosted": 1791885099,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac6c9bf8ff3fb9b3bc8f2df",
       "company": "Sierra Space",
@@ -490,15 +501,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa0e04dea127c3794699354",
+      "id": "newgrad-jobs:6abea3728ff3fb9b3bc74d22",
       "company": "Lockheed Martin",
       "title": "Software Engineer Asc",
-      "url": "https://jobright.ai/jobs/info/6aa0e04dea127c3794699354",
+      "url": "https://jobright.ai/jobs/info/6abea3728ff3fb9b3bc74d22",
       "location": "Manassas, VA",
       "datePosted": 1791874052,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9b0987fe45b8490f606863",
@@ -652,17 +663,6 @@
       "datePosted": 1791867666,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1c433d43eb922ca0c0fd8",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab1c433d43eb922ca0c0fd8",
-      "location": "Mountain View, CA",
-      "datePosted": 1791867215,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
