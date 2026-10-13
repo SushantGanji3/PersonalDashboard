@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T12:50:23Z",
-  "totalOpen": 1209,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-10-13T13:00:21Z",
+  "totalOpen": 1210,
+  "totalNewgrad": 245,
   "totalOther": 965,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1791867900,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab13e64d43eb922ca0bd911",
@@ -25,7 +25,40 @@
       "datePosted": 1791867666,
       "source": "newgrad-jobs",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1c433d43eb922ca0c0fd8",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab1c433d43eb922ca0c0fd8",
+      "location": "Mountain View, CA",
+      "datePosted": 1791867215,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a968641455eaf6a08c17d4e",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Software Engineer Intern (Security & Privacy) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a968641455eaf6a08c17d4e",
+      "location": "San Jose, CA",
+      "datePosted": 1791866934,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
+      "company": "Garmin",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
+      "location": "Chandler, AZ",
+      "datePosted": 1791866372,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa9da58eff87f571fc9c09f",
@@ -674,39 +707,6 @@
       "datePosted": 1791817156,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd5664002e496d4bef1d21",
-      "company": "Dewberry",
-      "title": "Junior GIS Developer",
-      "url": "https://jobright.ai/jobs/info/6acd5664002e496d4bef1d21",
-      "location": "Tampa, FL; Fairfax, VA",
-      "datePosted": 1791816692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa7ec9182e82a31997c2ee5",
-      "company": "Robinhood",
-      "title": "Software Engineering Intern, Backend (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa7ec9182e82a31997c2ee5",
-      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-      "datePosted": 1791816380,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac94e36af788e6ad3b5adfc",
-      "company": "JourneyTeam",
-      "title": "Associate Developer, Business Central",
-      "url": "https://jobright.ai/jobs/info/6ac94e36af788e6ad3b5adfc",
-      "location": "United States",
-      "datePosted": 1791815760,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
