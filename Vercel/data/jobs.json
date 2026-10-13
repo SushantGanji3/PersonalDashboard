@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:40:17Z",
+  "generatedAt": "2026-10-13T00:50:16Z",
   "totalOpen": 1222,
   "totalNewgrad": 254,
   "totalOther": 968,
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acd6b8ba56e5406e57c1416",
+      "company": "Voyager Technologies",
+      "title": "2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6acd6b8ba56e5406e57c1416",
+      "location": "San Diego, CA; El Segundo, CA; Folsom, CA; Reno, NV; Long Beach, CA; Pittsburgh, PA; Houston, TX",
+      "datePosted": 1791822107,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6accfeebe7a1d9333210f69f",
@@ -674,17 +685,6 @@
       "datePosted": 1791798621,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5c6f8b856af468ab00f107",
-      "company": "SpaceX",
-      "title": "Software Engineer, Applied AI (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a5c6f8b856af468ab00f107",
-      "location": "Redmond, WA",
-      "datePosted": 1791798601,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
