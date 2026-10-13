@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:20:16Z",
+  "generatedAt": "2026-10-13T06:30:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791855617
+    },
+    {
+      "id": "newgrad-jobs:6acdc2fe09635d4ede00adaa",
+      "company": "BeamSphere",
+      "title": "Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6acdc2fe09635d4ede00adaa",
+      "location": "United States",
+      "datePosted": 1791844494,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791873018
     },
     {
       "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
@@ -53087,17 +53098,6 @@
       "source": "newgrad-jobs",
       "season": "Summer",
       "firstSeenAt": 1789312816
-    },
-    {
-      "id": "newgrad-jobs:6a552a674119652ff3863ceb",
-      "company": "Tyler Technologies",
-      "title": "Software Engineer, Enterprise Corrections - Courts & Justice",
-      "url": "https://jobright.ai/jobs/info/6a552a674119652ff3863ceb",
-      "location": "Plano, TX; Franklin, TN",
-      "datePosted": 1789280722,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789309817
     }
   ]
 }
