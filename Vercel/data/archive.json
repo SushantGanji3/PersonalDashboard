@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:10:16Z",
+  "generatedAt": "2026-10-14T19:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792005016
+    },
+    {
+      "id": "newgrad-jobs:6acfc32a2cc4e9d17e90a406",
+      "company": "Brain Corp",
+      "title": "Software Engineer I, Firmware",
+      "url": "https://jobright.ai/jobs/info/6acfc32a2cc4e9d17e90a406",
+      "location": "San Diego, CA",
+      "datePosted": 1791976074,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792005617
     },
     {
       "id": "newgrad-jobs:6acfc476c9f40bec907fdfd7",
@@ -124,6 +135,28 @@
       "firstSeenAt": 1792002016
     },
     {
+      "id": "newgrad-jobs:6abde4934ac55253f5d5f1a2",
+      "company": "E80 Group",
+      "title": "CS Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abde4934ac55253f5d5f1a2",
+      "location": "Chicago, IL",
+      "datePosted": 1791972501,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792005617
+    },
+    {
+      "id": "newgrad-jobs:6ab2f17d30340229a323081d",
+      "company": "Tencent",
+      "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ab2f17d30340229a323081d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1791971906,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792005617
+    },
+    {
       "id": "newgrad-jobs:6acfb41b12303667b989fc2b",
       "company": "Amentum",
       "title": "C/C++ Software Developer",
@@ -188,6 +221,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791997819
+    },
+    {
+      "id": "newgrad-jobs:6a9b31ea138838706059712f",
+      "company": "CACI International Inc",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a9b31ea138838706059712f",
+      "location": "Ypsilanti, MI",
+      "datePosted": 1791969027,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792005617
     },
     {
       "id": "newgrad-jobs:6a9e396468f82b4036738f88",
@@ -51448,39 +51492,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789443617
-    },
-    {
-      "id": "newgrad-jobs:6a7ef9c619ce4e6e9d9351e0",
-      "company": "Toyota Material Handling",
-      "title": "Telematics Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a7ef9c619ce4e6e9d9351e0",
-      "location": "Greene, NY",
-      "datePosted": 1789413483,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789443019
-    },
-    {
-      "id": "newgrad-jobs:6aa8a9714cb6b0e0b828e1a0",
-      "company": "Anyura",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8a9714cb6b0e0b828e1a0",
-      "location": "United States",
-      "datePosted": 1789413121,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789442417
-    },
-    {
-      "id": "newgrad-jobs:6aa8a917f5332f8b86243de7",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8a917f5332f8b86243de7",
-      "location": "Redmond, WA; Mountain View, CA",
-      "datePosted": 1789413031,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789442417
     }
   ]
 }
