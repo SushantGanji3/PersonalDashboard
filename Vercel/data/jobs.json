@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-10-14T11:40:16Z",
-  "totalOpen": 1209,
-  "totalNewgrad": 232,
+  "generatedAt": "2026-10-14T11:45:32Z",
+  "totalOpen": 1208,
+  "totalNewgrad": 231,
   "totalOther": 977,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6ab2e14e8254c44790e57cfd",
-      "company": "Emerson",
-      "title": "Graduate Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ab2e14e8254c44790e57cfd",
-      "location": "Round Rock, TX",
-      "datePosted": 1791951082,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
     {
       "id": "newgrad-jobs:6aa2003a3272060a8e3f32fe",
       "company": "Westinghouse Electric Company",
@@ -36,7 +25,7 @@
       "datePosted": 1791948232,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acf556ab3384bdb2f88798d",
@@ -67,39 +56,6 @@
       "url": "https://jobright.ai/jobs/info/6aa9da58eff87f571fc9c09f",
       "location": "Austin, TX",
       "datePosted": 1791947214,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1791946494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab3120e78c69ff506c42436",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ab3120e78c69ff506c42436",
-      "location": "Frisco, TX",
-      "datePosted": 1791946485,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ac93a0dfcdafb60c6a4b7af",
-      "company": "Vizient",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac93a0dfcdafb60c6a4b7af",
-      "location": "Irving, TX; Cape Girardeau, MO",
-      "datePosted": 1791945916,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -188,6 +144,17 @@
       "url": "https://jobright.ai/jobs/info/6a2f9ba289f8f147d373233e",
       "location": "San Jose, CA",
       "datePosted": 1791941365,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1791939449,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -710,6 +677,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abc417d7119e56191cec541",
+      "company": "GITAI",
+      "title": "Field-Deployed Software Engineering Intern \u2013 Fall 2026 / Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6abc417d7119e56191cec541",
+      "location": "Los Angeles, CA; Torrance, CA",
+      "datePosted": 1791908511,
+      "source": "newgrad-jobs",
+      "season": "Fall 2026",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6acb84afa56e5406e57bc50a",
       "company": "Naval Nuclear Laboratory (FMP)",
       "title": "Software Engineer, Entry Level",
@@ -815,6 +793,28 @@
       "url": "https://jobright.ai/jobs/info/6a55ba102ce8bf79a13a0076",
       "location": "Ann Arbor, MI",
       "datePosted": 1791900543,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ace9569680c80c8753bdab9",
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Machine Learning Engineer-Internship",
+      "url": "https://jobright.ai/jobs/info/6ace9569680c80c8753bdab9",
+      "location": "United States",
+      "datePosted": 1791900160,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ace96444391691a335ad8e6",
+      "company": "KLA",
+      "title": "Software Engineer ( Embedded Software/Firmware Development | Embedded Image Processing )",
+      "url": "https://jobright.ai/jobs/info/6ace96444391691a335ad8e6",
+      "location": "Ann Arbor, MI",
+      "datePosted": 1791899967,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
