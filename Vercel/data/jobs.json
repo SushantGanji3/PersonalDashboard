@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T18:40:20Z",
+  "generatedAt": "2026-10-14T18:50:17Z",
   "totalOpen": 1210,
   "totalNewgrad": 235,
   "totalOther": 975,
@@ -17,6 +17,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acfc23ffe7a9bd5a6b99c1f",
+      "company": "Cvent",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6acfc23ffe7a9bd5a6b99c1f",
+      "location": "Tysons, VA",
+      "datePosted": 1791975375,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6acfc21bc0dd9da253cf4571",
       "company": "Origin Medical",
       "title": "AI Research Intern (Deep Learning & Medical Imaging)",
@@ -25,7 +36,7 @@
       "datePosted": 1791975339,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a965f92cabc9f6703e1d210",
@@ -36,7 +47,7 @@
       "datePosted": 1791974834,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd450e4ac55253f5d5c69f",
@@ -47,6 +58,17 @@
       "datePosted": 1791974774,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acfbd9ffe7a9bd5a6b99995",
+      "company": "Meijer",
+      "title": "Developer - Analyst",
+      "url": "https://jobright.ai/jobs/info/6acfbd9ffe7a9bd5a6b99995",
+      "location": "United States",
+      "datePosted": 1791974201,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -58,7 +80,7 @@
       "datePosted": 1791974153,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfbc9cc0dd9da253cf42f4",
@@ -314,6 +336,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acfa3ddc9f40bec907fd406",
+      "company": "Gen II Fund Services",
+      "title": "Jr Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6acfa3ddc9f40bec907fd406",
+      "location": "New York, NY",
+      "datePosted": 1791968098,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acf7c4e12303667b989e825",
+      "company": "Nomura",
+      "title": "Software Development Engineer in Test",
+      "url": "https://jobright.ai/jobs/info/6acf7c4e12303667b989e825",
+      "location": "New York, NY",
+      "datePosted": 1791968083,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab2a6708254c44790e5649b",
       "company": "GuideStone Financial Resources",
       "title": "Summer Intern - Software Developer",
@@ -441,17 +485,6 @@
       "url": "https://jobright.ai/jobs/info/6acf9bf7fe7a9bd5a6b9903a",
       "location": "Menlo Park, CA; New York, NY",
       "datePosted": 1791965575,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acf995012303667b989f3ed",
-      "company": "Gen II Fund Services",
-      "title": "Jr Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
-      "location": "New York, NY",
-      "datePosted": 1791964896,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -639,39 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ab2e08f1e4847ddae916e53",
       "location": "Yarmouth, ME",
       "datePosted": 1791956383,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab30d6f1508734c1530d92d",
-      "company": "West Bend Insurance Company",
-      "title": "Summer 2027 Intern - IT Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab30d6f1508734c1530d92d",
-      "location": "West Bend, WI; Madison, WI",
-      "datePosted": 1791954872,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab35a2d5d482753f3e68b5b",
-      "company": "KLA",
-      "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "url": "https://jobright.ai/jobs/info/6ab35a2d5d482753f3e68b5b",
-      "location": "Milpitas, CA",
-      "datePosted": 1791954827,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1a0eb191d8c340dbdbf57",
-      "company": "Qualcomm",
-      "title": "#Backend Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57",
-      "location": "San Diego, CA",
-      "datePosted": 1791954359,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
