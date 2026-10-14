@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:00:25Z",
+  "generatedAt": "2026-10-14T19:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791988816
+    },
+    {
+      "id": "newgrad-jobs:6a7df146e2030208f27668f0",
+      "company": "Kyndryl",
+      "title": "Early Career Consult Program - Associate AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7df146e2030208f27668f0",
+      "location": "Frisco, TX",
+      "datePosted": 1791976856,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792005016
+    },
+    {
+      "id": "newgrad-jobs:6acfc476c9f40bec907fdfd7",
+      "company": "Meta AI",
+      "title": "Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)",
+      "url": "https://jobright.ai/jobs/info/6acfc476c9f40bec907fdfd7",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1791975942,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792005016
     },
     {
       "id": "newgrad-jobs:6acfc23ffe7a9bd5a6b99c1f",
@@ -925,6 +947,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792001417
+    },
+    {
+      "id": "newgrad-jobs:6acfc7f92cc4e9d17e90a6c7",
+      "company": "General Motors",
+      "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+      "url": "https://jobright.ai/jobs/info/6acfc7f92cc4e9d17e90a6c7",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1791910800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792005016
+    },
+    {
+      "id": "newgrad-jobs:6acfc7fafe7a9bd5a6b99f33",
+      "company": "General Motors",
+      "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6acfc7fafe7a9bd5a6b99f33",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1791910800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792005016
     },
     {
       "id": "newgrad-jobs:6acec0924f3229123da3de9a",
@@ -51437,17 +51481,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789442417
-    },
-    {
-      "id": "newgrad-jobs:6aa8a7bd58d9ccf2690b599d",
-      "company": "SpaceX",
-      "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
-      "url": "https://jobright.ai/jobs/info/6aa8a7bd58d9ccf2690b599d",
-      "location": "Redmond, WA",
-      "datePosted": 1789412995,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789443019
     }
   ]
 }
