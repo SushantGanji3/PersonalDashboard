@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T17:40:17Z",
-  "totalOpen": 1212,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-10-14T17:50:16Z",
+  "totalOpen": 1213,
+  "totalNewgrad": 237,
   "totalOther": 976,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acfb16ac9f40bec907fd8b1",
+      "company": "California Correctional Health Care Services",
+      "title": "Enterprise Web Services Engineer (Developer and Site Reliability Engineer)",
+      "url": "https://jobright.ai/jobs/info/6acfb16ac9f40bec907fd8b1",
+      "location": "Sacramento, CA",
+      "datePosted": 1791971066,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2c76f1508734c1530be1d",
+      "company": "Tencent",
+      "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ab2c76f1508734c1530be1d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1791970432,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac0c3f24ac55253f5d6973b",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Software Engineer Intern (Multiple Levels) - 30069",
+      "url": "https://jobright.ai/jobs/info/6ac0c3f24ac55253f5d6973b",
+      "location": "Columbia, MD",
+      "datePosted": 1791970365,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acf8f7ec9f40bec907fcbde",
@@ -56,6 +89,17 @@
       "url": "https://jobright.ai/jobs/info/6acfaa2ec0dd9da253cf3d2e",
       "location": "Camden, NJ",
       "datePosted": 1791969214,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e24182c964816f65ebcbb",
+      "company": "IBM",
+      "title": "Back End Developer Intern 2027 - Dallas",
+      "url": "https://jobright.ai/jobs/info/6a9e24182c964816f65ebcbb",
+      "location": "Dallas, TX",
+      "datePosted": 1791969213,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -589,17 +633,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2ea9a326574570a003ae7",
-      "company": "Grow Therapy",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab2ea9a326574570a003ae7",
-      "location": "New York, NY",
-      "datePosted": 1791957081,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab2e08f1e4847ddae916e53",
       "company": "Tyler Technologies",
       "title": "Application Developer",
@@ -622,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab35e3916511e254891bf5e",
+      "id": "newgrad-jobs:6ab35a2d5d482753f3e68b5b",
       "company": "KLA",
       "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "url": "https://jobright.ai/jobs/info/6ab35e3916511e254891bf5e",
+      "url": "https://jobright.ai/jobs/info/6ab35a2d5d482753f3e68b5b",
       "location": "Milpitas, CA",
       "datePosted": 1791954827,
       "source": "newgrad-jobs",
@@ -639,39 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57",
       "location": "San Diego, CA",
       "datePosted": 1791954359,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9c9faeff87f571fc9b92a",
-      "company": "Skild AI",
-      "title": "Deep Learning Manipulation Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa9c9faeff87f571fc9b92a",
-      "location": "San Francisco, CA",
-      "datePosted": 1791952929,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9754bed13b4819f39e09ee",
-      "company": "Creative Artists Agency",
-      "title": "Jr. Data Scientist",
-      "url": "https://jobright.ai/jobs/info/6a9754bed13b4819f39e09ee",
-      "location": "Los Angeles, CA",
-      "datePosted": 1791948232,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab30802326574570a004a3f",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ab30802326574570a004a3f",
-      "location": "Frisco, TX",
-      "datePosted": 1791947826,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -938,7 +938,7 @@
       "datePosted": 1791763200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0de20248-a35f-4a5d-96df-053574c2078e",

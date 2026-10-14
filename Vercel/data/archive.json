@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:40:17Z",
+  "generatedAt": "2026-10-14T17:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791988816
+    },
+    {
+      "id": "newgrad-jobs:6acfb16ac9f40bec907fd8b1",
+      "company": "California Correctional Health Care Services",
+      "title": "Enterprise Web Services Engineer (Developer and Site Reliability Engineer)",
+      "url": "https://jobright.ai/jobs/info/6acfb16ac9f40bec907fd8b1",
+      "location": "Sacramento, CA",
+      "datePosted": 1791971066,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792000216
+    },
+    {
+      "id": "newgrad-jobs:6ac0c3f24ac55253f5d6973b",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Software Engineer Intern (Multiple Levels) - 30069",
+      "url": "https://jobright.ai/jobs/info/6ac0c3f24ac55253f5d6973b",
+      "location": "Columbia, MD",
+      "datePosted": 1791970365,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792000216
     },
     {
       "id": "newgrad-jobs:6acfab4cc0dd9da253cf3d7f",
@@ -51459,28 +51481,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789446617
-    },
-    {
-      "id": "newgrad-jobs:6aa89563930bff471a2a7f47",
-      "company": "Mastercard",
-      "title": "Software Engineer Intern, Summer 2027 \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6aa89563930bff471a2a7f47",
-      "location": "O'Fallon, MO; Arlington, VA; New York, NY; Atlanta, GA",
-      "datePosted": 1789407987,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789436814
-    },
-    {
-      "id": "newgrad-jobs:6a4ec9b09469c0662034cabb",
-      "company": "Jump Trading",
-      "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://jobright.ai/jobs/info/6a4ec9b09469c0662034cabb",
-      "location": "Chicago, IL",
-      "datePosted": 1789407650,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789435818
     }
   ]
 }
