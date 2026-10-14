@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:08:36Z",
+  "generatedAt": "2026-10-14T20:10:21Z",
   "totalOpen": 1216,
   "totalNewgrad": 241,
   "totalOther": 975,
@@ -15,6 +15,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acf9bf7fe7a9bd5a6b9903a",
+      "company": "Robinhood",
+      "title": "Software Engineer, Backend",
+      "url": "https://jobright.ai/jobs/info/6acf9bf7fe7a9bd5a6b9903a",
+      "location": "Menlo Park, CA; New York, NY",
+      "datePosted": 1791981003,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acfd74a12303667b98a08dc",
+      "company": "IBM",
+      "title": "Back-End Developer",
+      "url": "https://jobright.ai/jobs/info/6acfd74a12303667b98a08dc",
+      "location": "Tucson, AZ",
+      "datePosted": 1791980762,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acfd5142cc4e9d17e90ab31",
+      "company": "CACI International Inc",
+      "title": "Cyber Security Engineer, Jr.",
+      "url": "https://jobright.ai/jobs/info/6acfd5142cc4e9d17e90ab31",
+      "location": "Florham Park, NJ",
+      "datePosted": 1791980196,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acfd3e5c0dd9da253cf4ce4",
@@ -556,17 +589,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acfa2a9fe7a9bd5a6b991a9",
-      "company": "CACI International Inc",
-      "title": "Cyber Security Engineer, Jr.",
-      "url": "https://jobright.ai/jobs/info/6acfa2a9fe7a9bd5a6b991a9",
-      "location": "Florham Park, NJ",
-      "datePosted": 1791967289,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9e2417dacf777321a90a01",
       "company": "IBM",
       "title": "Back-End Developer Intern 2027 - Austin",
@@ -650,28 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ac560d5372c01f6cd7396f6",
       "location": "United States",
       "datePosted": 1791966126,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acf9bf7fe7a9bd5a6b9903a",
-      "company": "Robinhood",
-      "title": "Software Engineer, Backend",
-      "url": "https://jobright.ai/jobs/info/6acf9bf7fe7a9bd5a6b9903a",
-      "location": "Menlo Park, CA; New York, NY",
-      "datePosted": 1791965575,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acf949878d51ae69ce06e04",
-      "company": "General Atomics Aeronautical Systems",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6acf949878d51ae69ce06e04",
-      "location": "Poway, CA",
-      "datePosted": 1791963688,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
