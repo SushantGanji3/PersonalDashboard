@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T14:40:16Z",
-  "totalOpen": 1216,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-10-14T14:50:19Z",
+  "totalOpen": 1210,
+  "totalNewgrad": 233,
   "totalOther": 977,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,17 @@
       "datePosted": 1791987659,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2c3ff326574570a002f38",
+      "company": "SpaceX",
+      "title": "AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
+      "url": "https://jobright.ai/jobs/info/6ab2c3ff326574570a002f38",
+      "location": "Washington, DC",
+      "datePosted": 1791961435,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -25,7 +36,7 @@
       "datePosted": 1791961073,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aaa7bf8f116e4992553518e",
@@ -36,7 +47,7 @@
       "datePosted": 1791960106,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a962810c8763a3a87ffec45",
@@ -47,7 +58,7 @@
       "datePosted": 1791959327,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a974545e4e60e4b8da5d4f6",
@@ -58,7 +69,7 @@
       "datePosted": 1791959185,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab30bdc30340229a323159f",
@@ -413,6 +424,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6978d8a739f7f96cc6d13443",
+      "company": "The D. E. Shaw Group",
+      "title": "Quant Systems: Systems Developer (New York)",
+      "url": "https://jobright.ai/jobs/info/6978d8a739f7f96cc6d13443",
+      "location": "New York, NY",
+      "datePosted": 1791945526,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab19fe0f9692ca98b04ac8a",
       "company": "Eaton",
       "title": "Internship: Software Engineering",
@@ -688,6 +710,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acf126a70e50ec1b37f2af1",
+      "company": "Waybox",
+      "title": "LLM Post-training Research Intern",
+      "url": "https://jobright.ai/jobs/info/6acf126a70e50ec1b37f2af1",
+      "location": "San Francisco Bay Area, United States",
+      "datePosted": 1791929068,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6acf0ca870e50ec1b37f2a33",
       "company": "Mphasis",
       "title": "Developer",
@@ -721,15 +754,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ace34ceba99f15ef41237f5",
-      "company": "Ford Motor Company",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ace34ceba99f15ef41237f5",
-      "location": "Dearborn, MI",
-      "datePosted": 1791925265,
+      "id": "newgrad-jobs:6acf8660c0dd9da253cf3030",
+      "company": "New Jersey Resources",
+      "title": "40333 Associate Business Application Developer - 1503 Application Development",
+      "url": "https://jobright.ai/jobs/info/6acf8660c0dd9da253cf3030",
+      "location": "Wall Township, NJ",
+      "datePosted": 1791925200,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a6d23fbca1f933846602bff",
@@ -795,39 +828,6 @@
       "datePosted": 1791916109,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acecc3bbb78de94580d829b",
-      "company": "Brain Co.",
-      "title": "AI Security Engineer Co-Op Intern, Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acecc3bbb78de94580d829b",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1791915361,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acecc3aba99f15ef4126db2",
-      "company": "Brain Co.",
-      "title": "Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acecc3aba99f15ef4126db2",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1791915337,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acecc3c4391691a335ae9eb",
-      "company": "Brain Co.",
-      "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acecc3c4391691a335ae9eb",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1791915327,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
