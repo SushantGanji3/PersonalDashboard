@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:00:19Z",
+  "generatedAt": "2026-10-14T15:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,94 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791988816
+    },
+    {
+      "id": "newgrad-jobs:6acf949878d51ae69ce06e04",
+      "company": "General Atomics Aeronautical Systems",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6acf949878d51ae69ce06e04",
+      "location": "Poway, CA",
+      "datePosted": 1791963688,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791990617
+    },
+    {
+      "id": "newgrad-jobs:6aaaa0adf6bd9d2d17c18782",
+      "company": "Accenture Federal Services",
+      "title": "Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6aaaa0adf6bd9d2d17c18782",
+      "location": "Washington, DC",
+      "datePosted": 1791963671,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791990617
+    },
+    {
+      "id": "newgrad-jobs:6acf93f0c9f40bec907fce32",
+      "company": "IBM",
+      "title": "Back-End Developer Intern 2027 -Houston, TX",
+      "url": "https://jobright.ai/jobs/info/6acf93f0c9f40bec907fce32",
+      "location": "Houston, TX",
+      "datePosted": 1791963520,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791990617
+    },
+    {
+      "id": "newgrad-jobs:6acf920812303667b989ef72",
+      "company": "Apple",
+      "title": "Software Engineer,",
+      "url": "https://jobright.ai/jobs/info/6acf920812303667b989ef72",
+      "location": "New York, NY",
+      "datePosted": 1791963032,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791990617
+    },
+    {
+      "id": "newgrad-jobs:6acf91e312303667b989ef5f",
+      "company": "Central Insurance",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6acf91e312303667b989ef5f",
+      "location": "Van Wert, OH",
+      "datePosted": 1791962995,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791990617
+    },
+    {
+      "id": "newgrad-jobs:6acf905e78d51ae69ce06baa",
+      "company": "Point72",
+      "title": "2027 Summer Internship \u2013 Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6acf905e78d51ae69ce06baa",
+      "location": "New York, NY",
+      "datePosted": 1791962606,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791990617
+    },
+    {
+      "id": "newgrad-jobs:6acf8f7ec9f40bec907fcbde",
+      "company": "Infosys",
+      "title": "AI ML Developer for Teamcenter PLM",
+      "url": "https://jobright.ai/jobs/info/6acf8f7ec9f40bec907fcbde",
+      "location": "San Jose, CA",
+      "datePosted": 1791962382,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791990617
+    },
+    {
+      "id": "newgrad-jobs:6ace7fee4f3229123da3c639",
+      "company": "Qualcomm",
+      "title": "#Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ace7fee4f3229123da3c639",
+      "location": "San Diego, CA",
+      "datePosted": 1791962321,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791990617
     },
     {
       "id": "newgrad-jobs:6acf8a6112303667b989ec49",
@@ -51756,50 +51844,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789601417
-    },
-    {
-      "id": "newgrad-jobs:6aa86e68a77a53f5a1579667",
-      "company": "Defense Unicorns",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa86e68a77a53f5a1579667",
-      "location": "United States",
-      "datePosted": 1789398444,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789428016
-    },
-    {
-      "id": "newgrad-jobs:6aa86fd8930bff471a2a74ca",
-      "company": "University of Maryland, Baltimore (UMB)",
-      "title": "Associate Developer for IT Enterprise Applications",
-      "url": "https://jobright.ai/jobs/info/6aa86fd8930bff471a2a74ca",
-      "location": "Baltimore, MD; Maryland, United States; Washington, DC; Delaware, United States; Pennsylvania, United States; Virginia, United States; West Virginia, United States",
-      "datePosted": 1789398376,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789428016
-    },
-    {
-      "id": "newgrad-jobs:6aa8278582e82a31997c4305",
-      "company": "Intuit",
-      "title": "Summer 2027: Software Engineering Intern - Cybersecurity",
-      "url": "https://jobright.ai/jobs/info/6aa8278582e82a31997c4305",
-      "location": "Mountain View, CA",
-      "datePosted": 1789398215,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789428390
-    },
-    {
-      "id": "newgrad-jobs:6aa86ea082e82a31997c5e4a",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "url": "https://jobright.ai/jobs/info/6aa86ea082e82a31997c5e4a",
-      "location": "Mountain View, CA; San Francisco, CA",
-      "datePosted": 1789398064,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789428390
     }
   ]
 }
