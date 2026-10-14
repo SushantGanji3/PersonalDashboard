@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-14T02:00:19Z",
-  "totalOpen": 1210,
-  "totalNewgrad": 234,
-  "totalOther": 976,
+  "generatedAt": "2026-10-14T02:10:18Z",
+  "totalOpen": 1214,
+  "totalNewgrad": 235,
+  "totalOther": 979,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:82b6632f-b168-481a-8a24-958666999060",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
+      "url": "https://lifeattiktok.com/search/7694357619162532149",
+      "location": "Seattle, WA",
+      "datePosted": 1791942515,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:468b0b25-a717-4435-bfd6-105806b9b5e4",
+      "company": "L3Harris",
+      "title": "Associate Software Engineering Intern",
+      "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors",
+      "location": "Chantilly, VA",
+      "datePosted": 1791941818,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
       "company": "Amazon",
@@ -138,6 +160,72 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acecc3bbb78de94580d829b",
+      "company": "Brain Co.",
+      "title": "AI Security Engineer Co-Op Intern, Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6acecc3bbb78de94580d829b",
+      "location": "San Francisco Bay Area, United States",
+      "datePosted": 1791915361,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acecc3aba99f15ef4126db2",
+      "company": "Brain Co.",
+      "title": "Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6acecc3aba99f15ef4126db2",
+      "location": "San Francisco Bay Area, United States",
+      "datePosted": 1791915337,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acecc3c4391691a335ae9eb",
+      "company": "Brain Co.",
+      "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6acecc3c4391691a335ae9eb",
+      "location": "San Francisco Bay Area, United States",
+      "datePosted": 1791915327,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aba90e17220f52e62ae6de3",
+      "company": "DataRobot",
+      "title": "Deep Learning Research Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aba90e17220f52e62ae6de3",
+      "location": "United States",
+      "datePosted": 1791915153,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ace9d724f3229123da3d3a0",
+      "company": "ServiceNow",
+      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
+      "url": "https://jobright.ai/jobs/info/6ace9d724f3229123da3d3a0",
+      "location": "Santa Clara, CA; San Diego, CA; Kirkland, WA; West Palm Beach, FL",
+      "datePosted": 1791914917,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aced0b44391691a335aeae1",
+      "company": "IBM",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin",
+      "url": "https://jobright.ai/jobs/info/6aced0b44391691a335aeae1",
+      "location": "Austin, TX",
+      "datePosted": 1791913540,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6acece204f3229123da3e22b",
       "company": "Vagaro",
       "title": "Jr. AI Engineer",
@@ -157,17 +245,6 @@
       "datePosted": 1791912348,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aba90e17220f52e62ae6de3",
-      "company": "DataRobot",
-      "title": "Deep Learning Research Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aba90e17220f52e62ae6de3",
-      "location": "United States",
-      "datePosted": 1791912024,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -432,17 +509,6 @@
       "datePosted": 1791900543,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace9d724f3229123da3d3a0",
-      "company": "ServiceNow",
-      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
-      "url": "https://jobright.ai/jobs/info/6ace9d724f3229123da3d3a0",
-      "location": "Santa Clara, CA; San Diego, CA; Kirkland, WA; West Palm Beach, FL",
-      "datePosted": 1791900418,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -743,56 +809,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ace7e264391691a335acdd4",
-      "company": "METER Group",
-      "title": "Software Engineering Intern for QA",
-      "url": "https://jobright.ai/jobs/info/6ace7e264391691a335acdd4",
-      "location": "Pullman, WA",
-      "datePosted": 1791892406,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6acea3a64f3229123da3d63f",
       "company": "Eightfold AI",
       "title": "Software Engineer - AI Agentic Product Dev Team (US)",
       "url": "https://jobright.ai/jobs/info/6acea3a64f3229123da3d63f",
       "location": "Santa Clara, CA",
       "datePosted": 1791891189,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a71a409ee751e0c7934463a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (AI Agent & Global Revenue Platform) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a409ee751e0c7934463a",
-      "location": "San Jose, CA",
-      "datePosted": 1791891070,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace74b14391691a335ac995",
-      "company": "ID.me",
-      "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
-      "url": "https://jobright.ai/jobs/info/6ace74b14391691a335ac995",
-      "location": "Mountain View, CA",
-      "datePosted": 1791889985,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace69b74f3229123da3be90",
-      "company": "Murphy Door",
-      "title": "Full-Stack Software Developer - Utah; Onsite",
-      "url": "https://jobright.ai/jobs/info/6ace69b74f3229123da3be90",
-      "location": "Ogden, UT",
-      "datePosted": 1791889514,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -862,6 +884,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:664f484e-e080-4fb3-be9b-ace5f9872240",
+      "company": "NVIDIA",
+      "title": "SoC Software Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791849600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
@@ -1288,39 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1633096478817942",
       "location": "Menlo Park, CA, NYC",
       "datePosted": 1791325529,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e458bd10-4f0d-449d-9f51-dcb595087eb9",
-      "company": "Meta AI",
-      "title": "Software Engineer Intern - Machine Learning",
-      "url": "https://www.metacareers.com/jobs/2180490782513668",
-      "location": "Seattle, WA, Burlingame, CA, Redmond, WA, Menlo Park, CA, NYC, Bellevue, WA, Sunnyvale, CA",
-      "datePosted": 1791325529,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f28161fe-bd49-4abe-9430-703600ec69d6",
-      "company": "Shield AI",
-      "title": "Software Development Engineer New Grad",
-      "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply",
-      "location": "San Diego, CA",
-      "datePosted": 1791325522,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b6b8cf0c-a8a7-4903-8545-78efcd157fc0",
-      "company": "Whoop",
-      "title": "Software Engineer 1 (Frontend) - AI Platform",
-      "url": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application?embed=true",
-      "location": "Boston, MA",
-      "datePosted": 1791325413,
       "source": "aggregator",
       "season": null,
       "isNew": false
