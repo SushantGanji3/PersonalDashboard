@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:30:21Z",
+  "generatedAt": "2026-10-14T15:40:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791988816
+    },
+    {
+      "id": "newgrad-jobs:6acf9bf7fe7a9bd5a6b9903a",
+      "company": "Robinhood",
+      "title": "Software Engineer, Backend",
+      "url": "https://jobright.ai/jobs/info/6acf9bf7fe7a9bd5a6b9903a",
+      "location": "Menlo Park, CA; New York, NY",
+      "datePosted": 1791965575,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791992418
+    },
+    {
+      "id": "newgrad-jobs:6acf995012303667b989f3ed",
+      "company": "Gen II Fund Services",
+      "title": "Jr Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
+      "location": "New York, NY",
+      "datePosted": 1791964896,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791992418
+    },
+    {
+      "id": "newgrad-jobs:6acf988c12303667b989f392",
+      "company": "United States Cold Storage, Inc.",
+      "title": "Java Developer I",
+      "url": "https://jobright.ai/jobs/info/6acf988c12303667b989f392",
+      "location": "Camden, NJ",
+      "datePosted": 1791964700,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791992418
     },
     {
       "id": "newgrad-jobs:6acf949878d51ae69ce06e04",
@@ -210,6 +243,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791976819
+    },
+    {
+      "id": "newgrad-jobs:6acf9b64fe7a9bd5a6b99015",
+      "company": "Lightology",
+      "title": "PHP Full-Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6acf9b64fe7a9bd5a6b99015",
+      "location": "Chicago, IL",
+      "datePosted": 1791946824,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791992418
     },
     {
       "id": "newgrad-jobs:6ab3120e78c69ff506c42436",
@@ -51756,72 +51800,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789602616
-    },
-    {
-      "id": "newgrad-jobs:6aa877a6930bff471a2a779d",
-      "company": "Bechtel Corporation",
-      "title": "Data Scientist / AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa877a6930bff471a2a779d",
-      "location": "Reston, VA",
-      "datePosted": 1789400374,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789428016
-    },
-    {
-      "id": "newgrad-jobs:6aa847a6654b2a9424cfbcda",
-      "company": "WEX",
-      "title": "Fullstack Software Engineer Intern (Undergraduate)",
-      "url": "https://jobright.ai/jobs/info/6aa847a6654b2a9424cfbcda",
-      "location": "United States",
-      "datePosted": 1789400335,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789429816
-    },
-    {
-      "id": "newgrad-jobs:6aa837af930bff471a2a5d34",
-      "company": "WEX",
-      "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
-      "url": "https://jobright.ai/jobs/info/6aa837af930bff471a2a5d34",
-      "location": "United States",
-      "datePosted": 1789400325,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789429816
-    },
-    {
-      "id": "newgrad-jobs:6aa847a6654b2a9424cfbcdb",
-      "company": "WEX",
-      "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
-      "url": "https://jobright.ai/jobs/info/6aa847a6654b2a9424cfbcdb",
-      "location": "United States",
-      "datePosted": 1789400323,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789429816
-    },
-    {
-      "id": "newgrad-jobs:6aa847ac82e82a31997c4ec9",
-      "company": "WEX",
-      "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
-      "url": "https://jobright.ai/jobs/info/6aa847ac82e82a31997c4ec9",
-      "location": "United States",
-      "datePosted": 1789400319,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789429816
-    },
-    {
-      "id": "newgrad-jobs:6aa876442ed333b4ea5cf99f",
-      "company": "OneStream Software",
-      "title": "Associate AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa876442ed333b4ea5cf99f",
-      "location": "Fort Lauderdale, FL; Birmingham, MI; Chicago, IL; New York, NY",
-      "datePosted": 1789400020,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789428016
     }
   ]
 }
