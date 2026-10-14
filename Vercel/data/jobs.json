@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-14T22:30:18Z",
-  "totalOpen": 1201,
-  "totalNewgrad": 231,
-  "totalOther": 970,
+  "generatedAt": "2026-10-14T22:40:16Z",
+  "totalOpen": 1208,
+  "totalNewgrad": 230,
+  "totalOther": 978,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:dafc249b-2c6d-433d-9420-560205cd6a93",
+      "company": "Anduril",
+      "title": "Research Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007",
+      "location": "Santa Ana, CA",
+      "datePosted": 1792015976,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a79f7fb4-d7b1-4429-a9e6-94c1462ee5d1",
+      "company": "Skydio",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true",
+      "location": "San Mateo, CA",
+      "datePosted": 1792015412,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:320e6968-10fc-43e7-9cda-ef3bd156161c",
+      "company": "Skydio",
+      "title": "Manufacturing Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true",
+      "location": "San Mateo, CA",
+      "datePosted": 1792015412,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6acfc7f92cc4e9d17e90a6c7",
       "company": "General Motors",
@@ -699,6 +732,61 @@
       "isNew": false
     },
     {
+      "id": "simplify:46b35ec8-88e8-4800-ad1a-d17665e52fa1",
+      "company": "RTX",
+      "title": "Electro-Optics Systems Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960",
+      "location": "Goleta, CA",
+      "datePosted": 1791936000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:cffd6ec4-0af4-4f8a-9510-a43b93ec0b6b",
+      "company": "Boeing",
+      "title": "Entry-Level Flight Simulation Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1",
+      "location": "Berkeley, MO",
+      "datePosted": 1791936000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:9f5b5e00-8c43-4dc8-af33-7fc02cb821f4",
+      "company": "Boeing",
+      "title": "B1 Software Systems Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2",
+      "location": "Oklahoma City, OK, Tinker Air Force Base, Oklahoma City, OK",
+      "datePosted": 1791936000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:2834c42b-eb29-4665-86b5-a65ef7b48f9f",
+      "company": "Boeing",
+      "title": "Entry Level Software Engineer-Developer - Development",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1",
+      "location": "Tinker Air Force Base, Oklahoma City, OK",
+      "datePosted": 1791936000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:acbb275f-fe6f-4f39-af1a-c079a2a2e18a",
+      "company": "RTX",
+      "title": "Electro-Optics Systems Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-I--Onsite-_01880578",
+      "location": "El Segundo, CA",
+      "datePosted": 1791936000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
       "company": "Amazon",
       "title": "Hardware Development Engineer Intern Co-op - Robotics",
@@ -1233,94 +1321,6 @@
       "url": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
       "location": "Redmond, WA, Northridge, LA",
       "datePosted": 1791335260,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
-      "company": "Visa",
-      "title": "Software Engineer Operations and Infrastructure",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
-      "location": "Austin, TX",
-      "datePosted": 1791335194,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bcda5eeb-196c-4f8a-a46a-519f22b3a082",
-      "company": "Mastercard",
-      "title": "Data Engineer Intern",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993",
-      "location": "SF",
-      "datePosted": 1791331200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e5467def-2b54-4bda-90a0-cdb22e92de7f",
-      "company": "RTX",
-      "title": "Embedded Software Developer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
-      "location": "El Segundo, CA",
-      "datePosted": 1791331200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:99fee0ad-92bd-4ac6-99a0-d812ab1776d0",
-      "company": "Pure Storage",
-      "title": "Software Engineer New Grad",
-      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791325545,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4bed7671-153b-4cbc-84ad-30fbb5e3f1f1",
-      "company": "Pure Storage",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791325536,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:913185e4-c0b8-46bb-add7-d4de9eb77339",
-      "company": "Meta AI",
-      "title": "Software Engineer Intern",
-      "url": "https://www.metacareers.com/jobs/1952991802037374",
-      "location": "Seattle, WA, Menlo Park, CA, NYC, Bellevue, WA",
-      "datePosted": 1791325529,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7f1252c2-2dd8-4334-9c9c-8ace10b21273",
-      "company": "Meta AI",
-      "title": "Data Scientist Intern - Product Analytics",
-      "url": "https://www.metacareers.com/jobs/1633096478817942",
-      "location": "Menlo Park, CA, NYC",
-      "datePosted": 1791325529,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e458bd10-4f0d-449d-9f51-dcb595087eb9",
-      "company": "Meta AI",
-      "title": "Software Engineer Intern - Machine Learning",
-      "url": "https://www.metacareers.com/jobs/2180490782513668",
-      "location": "Seattle, WA, Burlingame, CA, Redmond, WA, Menlo Park, CA, NYC, Bellevue, WA, Sunnyvale, CA",
-      "datePosted": 1791325529,
       "source": "aggregator",
       "season": null,
       "isNew": false
