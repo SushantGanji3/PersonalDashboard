@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-14T22:10:15Z",
-  "totalOpen": 1207,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-10-14T22:20:16Z",
+  "totalOpen": 1201,
+  "totalNewgrad": 231,
   "totalOther": 970,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6acfc7f92cc4e9d17e90a6c7",
+      "company": "General Motors",
+      "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+      "url": "https://jobright.ai/jobs/info/6acfc7f92cc4e9d17e90a6c7",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1791988191,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acfc7fafe7a9bd5a6b99f33",
+      "company": "General Motors",
+      "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6acfc7fafe7a9bd5a6b99f33",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1791988187,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acfd6bdc9f40bec907fe6bb",
+      "company": "GCI Incorporated",
+      "title": "Software Developer Summer 2027 Intern (paid)",
+      "url": "https://jobright.ai/jobs/info/6acfd6bdc9f40bec907fe6bb",
+      "location": "Virginia, United States",
+      "datePosted": 1791988144,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6acf9debc0dd9da253cf3a12",
       "company": "Sonos, Inc.",
@@ -28,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aceacef680c80c8753be35d",
+      "company": "Netflix",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aceacef680c80c8753be35d",
+      "location": "Los Gatos, CA; Los Angeles, CA",
+      "datePosted": 1791988103,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:bcdcec45-2483-4ebd-8b02-b763219eecec",
       "company": "Point72",
       "title": "Software Engineer Intern",
@@ -47,7 +91,7 @@
       "datePosted": 1791987450,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ace4ec84391691a335abd0c",
@@ -259,17 +303,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aceacef680c80c8753be35d",
-      "company": "Netflix",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aceacef680c80c8753be35d",
-      "location": "Los Gatos, CA; Los Angeles, CA",
-      "datePosted": 1791984857,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a765d2f4817aa43070480b4",
       "company": "TikTok",
       "title": "Frontend Engineer Intern (Ads Interface) - 2027 Summer",
@@ -322,17 +355,6 @@
       "datePosted": 1791982663,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfd6bdc9f40bec907fe6bb",
-      "company": "GCI Incorporated",
-      "title": "Software Developer Summer 2027 Intern (paid)",
-      "url": "https://jobright.ai/jobs/info/6acfd6bdc9f40bec907fe6bb",
-      "location": "Virginia, United States",
-      "datePosted": 1791982438,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -479,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9754a1e4e60e4b8da5da4d",
+      "id": "newgrad-jobs:6aa8a43158d9ccf2690b5676",
       "company": "Ingredion Incorporated",
       "title": "AI & Data Scientist Intern",
-      "url": "https://jobright.ai/jobs/info/6a9754a1e4e60e4b8da5da4d",
+      "url": "https://jobright.ai/jobs/info/6aa8a43158d9ccf2690b5676",
       "location": "Westchester, IL",
       "datePosted": 1791976775,
       "source": "newgrad-jobs",
@@ -650,28 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
       "location": "North Reading, MA; Westboro, WI",
       "datePosted": 1791972004,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e30db2c964816f65ebe38",
-      "company": "IBM",
-      "title": "Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e30db2c964816f65ebe38",
-      "location": "Rochester, MN; Austin, TX",
-      "datePosted": 1791971921,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2c76f1508734c1530be1d",
-      "company": "Tencent",
-      "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ab2c76f1508734c1530be1d",
-      "location": "Palo Alto, CA",
-      "datePosted": 1791971906,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
