@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:30:18Z",
+  "generatedAt": "2026-10-14T20:40:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791988816
+    },
+    {
+      "id": "newgrad-jobs:6acfdeb72cc4e9d17e90ad24",
+      "company": "Figure AI",
+      "title": "Embedded Software Engineering Intern, Platform",
+      "url": "https://jobright.ai/jobs/info/6acfdeb72cc4e9d17e90ad24",
+      "location": "San Jose, CA",
+      "datePosted": 1791982663,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792010417
+    },
+    {
+      "id": "newgrad-jobs:6acfdd19fe7a9bd5a6b9a54b",
+      "company": "Horizon Lane",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6acfdd19fe7a9bd5a6b9a54b",
+      "location": "New York, NY; Rochester, NY",
+      "datePosted": 1791982249,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792010417
     },
     {
       "id": "newgrad-jobs:6acfd89a78d51ae69ce0865e",
@@ -51525,28 +51547,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789446617
-    },
-    {
-      "id": "newgrad-jobs:6aa8be1583a6750b1adfa026",
-      "company": "Principal M\u00e9xico",
-      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa8be1583a6750b1adfa026",
-      "location": "Des Moines, IA",
-      "datePosted": 1789418405,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789446016
-    },
-    {
-      "id": "newgrad-jobs:6a970d90e4e60e4b8da5bcb8",
-      "company": "Atlassian",
-      "title": "Software Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6a970d90e4e60e4b8da5bcb8",
-      "location": "San Francisco, CA; Seattle, WA",
-      "datePosted": 1789418036,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789446016
     }
   ]
 }
