@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:10:17Z",
+  "generatedAt": "2026-10-14T00:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791931217
+    },
+    {
+      "id": "newgrad-jobs:6acebc5f4391691a335ae620",
+      "company": "TaxRise",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6acebc5f4391691a335ae620",
+      "location": "Irvine, CA",
+      "datePosted": 1791908335,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791937216
     },
     {
       "id": "newgrad-jobs:6acb84afa56e5406e57bc50a",
@@ -21284,7 +21295,7 @@
       "location": "Los Angeles, CA; Torrance, CA",
       "datePosted": 1790697229,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Fall 2026",
       "firstSeenAt": 1790725217
     },
     {
