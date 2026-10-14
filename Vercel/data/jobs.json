@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T16:40:18Z",
-  "totalOpen": 1210,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-10-14T16:50:16Z",
+  "totalOpen": 1211,
+  "totalNewgrad": 235,
   "totalOther": 976,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1791968541,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e3bd149f4604c7894df6e",
@@ -36,7 +36,7 @@
       "datePosted": 1791968541,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfa517fe7a9bd5a6b99229",
@@ -47,7 +47,7 @@
       "datePosted": 1791967911,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab2a6708254c44790e5649b",
@@ -61,23 +61,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a2d6349f1751b183c81ad54",
+      "company": "SpaceX",
+      "title": "Kubernetes Platform Infrastructure Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a2d6349f1751b183c81ad54",
+      "location": "Redmond, WA",
+      "datePosted": 1791967644,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab2c3f878c69ff506c4061d",
       "company": "SpaceX",
       "title": "AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
       "url": "https://jobright.ai/jobs/info/6ab2c3f878c69ff506c4061d",
       "location": "Palo Alto, CA",
       "datePosted": 1791967617,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfa3ddc0dd9da253cf3b69",
-      "company": "Gen II Fund Services",
-      "title": "Jr Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6acfa3ddc0dd9da253cf3b69",
-      "location": "New York, NY",
-      "datePosted": 1791967597,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -188,6 +188,17 @@
       "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
       "location": "El Segundo, CA; Los Angeles, CA",
       "datePosted": 1791965427,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acf995012303667b989f3ed",
+      "company": "Gen II Fund Services",
+      "title": "Jr Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
+      "location": "New York, NY",
+      "datePosted": 1791964896,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -600,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab35e3916511e254891bf5e",
+      "id": "newgrad-jobs:6ab35a2d5d482753f3e68b5b",
       "company": "KLA",
       "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "url": "https://jobright.ai/jobs/info/6ab35e3916511e254891bf5e",
+      "url": "https://jobright.ai/jobs/info/6ab35a2d5d482753f3e68b5b",
       "location": "Milpitas, CA",
       "datePosted": 1791954827,
       "source": "newgrad-jobs",
@@ -622,6 +633,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa9c9faeff87f571fc9b92a",
+      "company": "Skild AI",
+      "title": "Deep Learning Manipulation Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa9c9faeff87f571fc9b92a",
+      "location": "San Francisco, CA",
+      "datePosted": 1791952929,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a9754bed13b4819f39e09ee",
       "company": "Creative Artists Agency",
       "title": "Jr. Data Scientist",
@@ -633,6 +655,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab30802326574570a004a3f",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ab30802326574570a004a3f",
+      "location": "Frisco, TX",
+      "datePosted": 1791947826,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6acf9b64fe7a9bd5a6b99015",
       "company": "Lightology",
       "title": "PHP Full-Stack Developer",
@@ -641,39 +674,6 @@
       "datePosted": 1791946824,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1791946494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac93a0dfcdafb60c6a4b7af",
-      "company": "Vizient",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac93a0dfcdafb60c6a4b7af",
-      "location": "Irving, TX; Cape Girardeau, MO",
-      "datePosted": 1791945916,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7a7e3967a1ad0bc53d3979",
-      "company": "Medpace",
-      "title": "Data Engineer Intern - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6a7a7e3967a1ad0bc53d3979",
-      "location": "Cincinnati, OH",
-      "datePosted": 1791945803,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
