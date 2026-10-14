@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:40:16Z",
+  "generatedAt": "2026-10-14T19:50:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "newgrad-jobs",
       "season": "Spring",
       "firstSeenAt": 1792006816
+    },
+    {
+      "id": "newgrad-jobs:6acfcdb2c0dd9da253cf4b38",
+      "company": "Xtillion",
+      "title": "2027 Internship Program: Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6acfcdb2c0dd9da253cf4b38",
+      "location": "San Juan, PR",
+      "datePosted": 1791978306,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792007418
     },
     {
       "id": "newgrad-jobs:6acf9947c9f40bec907fd16a",
@@ -51492,28 +51503,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789446016
-    },
-    {
-      "id": "simplify:34ec0b27-bbab-4d78-9eb3-2900f2f91255",
-      "company": "Figma",
-      "title": "Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/figma/jobs/6143238004",
-      "location": "SF, NYC",
-      "datePosted": 1789415235,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789416617
-    },
-    {
-      "id": "newgrad-jobs:6a71a41f71acd469eeda3931",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation-Global E-Commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a41f71acd469eeda3931",
-      "location": "Seattle, WA",
-      "datePosted": 1789414967,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789443617
     }
   ]
 }

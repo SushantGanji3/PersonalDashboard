@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T19:40:16Z",
-  "totalOpen": 1220,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-10-14T19:50:18Z",
+  "totalOpen": 1217,
+  "totalNewgrad": 242,
   "totalOther": 975,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1791979424,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfd1e22cc4e9d17e90aa52",
@@ -36,7 +36,18 @@
       "datePosted": 1791979378,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acfbd7978d51ae69ce07b3a",
+      "company": "Skydio",
+      "title": "Manufacturing Software Engineer Intern - Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6acfbd7978d51ae69ce07b3a",
+      "location": "San Mateo, CA",
+      "datePosted": 1791978581,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfceb1c0dd9da253cf4b7b",
@@ -47,6 +58,17 @@
       "datePosted": 1791978561,
       "source": "newgrad-jobs",
       "season": "Spring",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acfcdb2c0dd9da253cf4b38",
+      "company": "Xtillion",
+      "title": "2027 Internship Program: Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6acfcdb2c0dd9da253cf4b38",
+      "location": "San Juan, PR",
+      "datePosted": 1791978306,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -69,7 +91,7 @@
       "datePosted": 1791977968,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfcc08c0dd9da253cf4a68",
@@ -80,7 +102,7 @@
       "datePosted": 1791977880,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a65006f8d5360344960763e",
@@ -102,7 +124,7 @@
       "datePosted": 1791976856,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9754a1e4e60e4b8da5da4d",
@@ -113,7 +135,7 @@
       "datePosted": 1791976775,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7fea63e2030208f27723c4",
@@ -171,17 +193,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acfa985c0dd9da253cf3cd8",
-      "company": "Amazon",
-      "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
-      "url": "https://jobright.ai/jobs/info/6acfa985c0dd9da253cf3cd8",
-      "location": "Westborough, MA; North Reading, MA; Seattle, WA",
-      "datePosted": 1791975642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6acfc21bc0dd9da253cf4571",
       "company": "Origin Medical",
       "title": "AI Research Intern (Deep Learning & Medical Imaging)",
@@ -223,17 +234,6 @@
       "datePosted": 1791974201,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfbd7978d51ae69ce07b3a",
-      "company": "Skydio",
-      "title": "Manufacturing Software Engineer Intern - Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acfbd7978d51ae69ce07b3a",
-      "location": "San Mateo, CA",
-      "datePosted": 1791974153,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -287,17 +287,6 @@
       "url": "https://jobright.ai/jobs/info/6aa8fb5117ddad6a8a47d985",
       "location": "Bluffdale, UT; Riverton, UT; Lehi, UT",
       "datePosted": 1791972724,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfb776fe7a9bd5a6b99857",
-      "company": "Valency Networks Private Limited",
-      "title": "WordPress Website Developer Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6acfb776fe7a9bd5a6b99857",
-      "location": "United States",
-      "datePosted": 1791972614,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -468,15 +457,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abfff6a372c01f6cd72a056",
+      "id": "newgrad-jobs:6abfd0bb4ac55253f5d65ce8",
       "company": "CACI International Inc",
       "title": "Systems Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abfff6a372c01f6cd72a056",
+      "url": "https://jobright.ai/jobs/info/6abfd0bb4ac55253f5d65ce8",
       "location": "Ashburn, VA",
       "datePosted": 1791969097,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9b31ea138838706059712f",
@@ -666,14 +655,25 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a7a560c67a1ad0bc53d3024",
-      "company": "DV Trading LLC",
-      "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
-      "url": "https://jobright.ai/jobs/info/6a7a560c67a1ad0bc53d3024",
-      "location": "New York, NY",
-      "datePosted": 1791965693,
+      "id": "newgrad-jobs:6acf9bf7fe7a9bd5a6b9903a",
+      "company": "Robinhood",
+      "title": "Software Engineer, Backend",
+      "url": "https://jobright.ai/jobs/info/6acf9bf7fe7a9bd5a6b9903a",
+      "location": "Menlo Park, CA; New York, NY",
+      "datePosted": 1791965575,
       "source": "newgrad-jobs",
-      "season": "Summer 2027",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acf949878d51ae69ce06e04",
+      "company": "General Atomics Aeronautical Systems",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6acf949878d51ae69ce06e04",
+      "location": "Poway, CA",
+      "datePosted": 1791963688,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
