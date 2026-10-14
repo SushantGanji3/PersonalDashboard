@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:00:24Z",
+  "generatedAt": "2026-10-14T17:10:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791988816
+    },
+    {
+      "id": "newgrad-jobs:6acfab4cc0dd9da253cf3d7f",
+      "company": "Stripe",
+      "title": "High School Internship, Software Engineering (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6acfab4cc0dd9da253cf3d7f",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1791969500,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791997819
+    },
+    {
+      "id": "newgrad-jobs:6acfaa2ec0dd9da253cf3d2e",
+      "company": "United States Cold Storage, Inc.",
+      "title": "Java Developer I",
+      "url": "https://jobright.ai/jobs/info/6acfaa2ec0dd9da253cf3d2e",
+      "location": "Camden, NJ",
+      "datePosted": 1791969214,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791997819
+    },
+    {
+      "id": "newgrad-jobs:6acfa985c0dd9da253cf3cd8",
+      "company": "Amazon",
+      "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
+      "url": "https://jobright.ai/jobs/info/6acfa985c0dd9da253cf3cd8",
+      "location": "Westborough, MA; North Reading, MA; Seattle, WA",
+      "datePosted": 1791969045,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791997819
     },
     {
       "id": "newgrad-jobs:6a9e396468f82b4036738f88",
@@ -51591,28 +51624,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789435818
-    },
-    {
-      "id": "newgrad-jobs:6a960ee7c8763a3a87ffe2c7",
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://jobright.ai/jobs/info/6a960ee7c8763a3a87ffe2c7",
-      "location": "New York, NY; San Francisco, CA; Seattle, WA; Toronto, ON",
-      "datePosted": 1789405589,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1789435818
-    },
-    {
-      "id": "newgrad-jobs:6aa84ced2ed333b4ea5ce843",
-      "company": "Univera Healthcare",
-      "title": "Salesforce Developer",
-      "url": "https://jobright.ai/jobs/info/6aa84ced2ed333b4ea5ce843",
-      "location": "Rochester, NY; Albany, NY; Binghamton, NY; Buffalo, NY; DeWitt, NY; Utica, NY",
-      "datePosted": 1789405412,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789436416
     }
   ]
 }
