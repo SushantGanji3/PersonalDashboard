@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:10:16Z",
+  "generatedAt": "2026-10-14T04:20:14Z",
   "windowDays": 30,
   "items": [
     {
@@ -155,6 +155,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791931217
+    },
+    {
+      "id": "newgrad-jobs:6ac9a342b51e7a444b6a97ff",
+      "company": "Collins Aerospace",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac9a342b51e7a444b6a97ff",
+      "location": "Richardson, TX",
+      "datePosted": 1791922787,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1791951614
+    },
+    {
+      "id": "newgrad-jobs:6acef2dd680c80c8753bf463",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (E-Commerce User Growth) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6acef2dd680c80c8753bf463",
+      "location": "Seattle, WA",
+      "datePosted": 1791922285,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1791951614
     },
     {
       "id": "newgrad-jobs:6acee3d370e50ec1b37f20dc",
@@ -53505,17 +53527,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789562416
-    },
-    {
-      "id": "newgrad-jobs:6aa7d6e62ed333b4ea5cc14b",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aa7d6e62ed333b4ea5cc14b",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789359222,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789389018
     }
   ]
 }
