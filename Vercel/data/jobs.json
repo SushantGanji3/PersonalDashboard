@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T23:10:16Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 230,
+  "generatedAt": "2026-10-14T23:12:49Z",
+  "totalOpen": 1225,
+  "totalNewgrad": 233,
   "totalOther": 992,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792018295,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6a52bbeb-8e4d-4bdc-a47d-146909ee1af7",
@@ -25,7 +25,7 @@
       "datePosted": 1792017957,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e8eec34a-bd13-454c-b322-cab784a820fa",
@@ -36,7 +36,7 @@
       "datePosted": 1792017649,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d55e2c80-cc43-4f0d-b77b-2bb8884e57b0",
@@ -47,7 +47,7 @@
       "datePosted": 1792017648,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5dc52d6c-5a68-444c-93ad-dada1108efae",
@@ -58,7 +58,7 @@
       "datePosted": 1792017648,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2a4e1069-9cf2-40f7-8610-0110cfc1fdeb",
@@ -69,7 +69,7 @@
       "datePosted": 1792017648,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c440c071-0612-4db0-b149-50dcb1876b45",
@@ -80,7 +80,7 @@
       "datePosted": 1792017648,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0db77cad-7627-4766-bd99-7c9e76aebc99",
@@ -91,7 +91,7 @@
       "datePosted": 1792017647,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:82b9b534-5821-4221-a411-921d4751ae32",
@@ -102,7 +102,7 @@
       "datePosted": 1792017457,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2acdcd90-8b9e-4836-9f89-88b79316d9ec",
@@ -113,7 +113,7 @@
       "datePosted": 1792017153,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5dda5cf0-7ad7-41aa-9942-9cccb3a303b8",
@@ -124,7 +124,7 @@
       "datePosted": 1792017027,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:dafc249b-2c6d-433d-9420-560205cd6a93",
@@ -158,6 +158,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acffd3878d51ae69ce093e7",
+      "company": "General Dynamics",
+      "title": "Software Engineer Intern for Crypto and Cross Domain Solutions",
+      "url": "https://jobright.ai/jobs/info/6acffd3878d51ae69ce093e7",
+      "location": "Taunton, MA",
+      "datePosted": 1791990472,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acffc8d12303667b98a1682",
+      "company": "Mc Research Academy",
+      "title": "Full Stack Independent Application Development \u2013 Training Cum Internship",
+      "url": "https://jobright.ai/jobs/info/6acffc8d12303667b98a1682",
+      "location": "United States",
+      "datePosted": 1791990301,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acffbbbc0dd9da253cf5ad7",
+      "company": "Peraton",
+      "title": "Mission Systems Software & Edge Computing Intern \u2013 Norman, OK",
+      "url": "https://jobright.ai/jobs/info/6acffbbbc0dd9da253cf5ad7",
+      "location": "United States",
+      "datePosted": 1791990091,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acfc7f92cc4e9d17e90a6c7",
@@ -798,39 +831,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acfa517fe7a9bd5a6b99229",
-      "company": "Atoms",
-      "title": "Software Engineering Intern - 2027 Winter Term",
-      "url": "https://jobright.ai/jobs/info/6acfa517fe7a9bd5a6b99229",
-      "location": "New York, NY; Seattle, WA; Los Angeles, CA; Mountain View, CA; San Francisco, CA",
-      "datePosted": 1791972334,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e24182c964816f65ebcbb",
-      "company": "IBM",
-      "title": "Back End Developer Intern 2027 - Dallas",
-      "url": "https://jobright.ai/jobs/info/6a9e24182c964816f65ebcbb",
-      "location": "Dallas, TX",
-      "datePosted": 1791972176,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95fbc4cabc9f6703e1b604",
-      "company": "Amazon",
-      "title": "Robotics - Embedded Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
-      "location": "North Reading, MA; Westboro, WI",
-      "datePosted": 1791972004,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:82b6632f-b168-481a-8a24-958666999060",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
@@ -872,7 +872,7 @@
       "datePosted": 1791936000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cffd6ec4-0af4-4f8a-9510-a43b93ec0b6b",
@@ -927,7 +927,7 @@
       "datePosted": 1791936000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
