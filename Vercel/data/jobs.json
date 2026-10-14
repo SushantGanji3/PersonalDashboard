@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-14T11:45:32Z",
+  "generatedAt": "2026-10-14T11:50:15Z",
   "totalOpen": 1208,
   "totalNewgrad": 231,
   "totalOther": 977,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ab2e14e8254c44790e57cfd",
+      "company": "Emerson",
+      "title": "Graduate Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ab2e14e8254c44790e57cfd",
+      "location": "Round Rock, TX",
+      "datePosted": 1791951082,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aa2003a3272060a8e3f32fe",
       "company": "Westinghouse Electric Company",
@@ -14,17 +25,6 @@
       "datePosted": 1791948627,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9754bed13b4819f39e09ee",
-      "company": "Creative Artists Agency",
-      "title": "Jr. Data Scientist",
-      "url": "https://jobright.ai/jobs/info/6a9754bed13b4819f39e09ee",
-      "location": "Los Angeles, CA",
-      "datePosted": 1791948232,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -677,17 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc417d7119e56191cec541",
-      "company": "GITAI",
-      "title": "Field-Deployed Software Engineering Intern \u2013 Fall 2026 / Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6abc417d7119e56191cec541",
-      "location": "Los Angeles, CA; Torrance, CA",
-      "datePosted": 1791908511,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6acb84afa56e5406e57bc50a",
       "company": "Naval Nuclear Laboratory (FMP)",
       "title": "Software Engineer, Entry Level",
@@ -815,6 +804,17 @@
       "url": "https://jobright.ai/jobs/info/6ace96444391691a335ad8e6",
       "location": "Ann Arbor, MI",
       "datePosted": 1791899967,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9b47a790a313642c659808",
+      "company": "CGI",
+      "title": "AI Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6a9b47a790a313642c659808",
+      "location": "Lebanon, VA; Knoxville, TN",
+      "datePosted": 1791899943,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
