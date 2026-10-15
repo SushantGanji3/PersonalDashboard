@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T17:20:16Z",
-  "totalOpen": 1238,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-10-15T17:30:18Z",
+  "totalOpen": 1240,
+  "totalNewgrad": 252,
   "totalOther": 988,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1792055730,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad0fad13d3a5aa909b368f4",
@@ -36,7 +36,7 @@
       "datePosted": 1792055393,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfd89a78d51ae69ce0865e",
@@ -50,12 +50,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad0f91f3d3a5aa909b36829",
+      "company": "Tech Jobs for Good",
+      "title": "Software Engineer (Early Career)",
+      "url": "https://jobright.ai/jobs/info/6ad0f91f3d3a5aa909b36829",
+      "location": "United States",
+      "datePosted": 1792054959,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acfd74478d51ae69ce0860c",
+      "company": "Boeing",
+      "title": "Entry Level B1 Software Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6acfd74478d51ae69ce0860c",
+      "location": "Oklahoma City, OK",
+      "datePosted": 1792054911,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a9e396468f82b4036738f88",
       "company": "IBM",
       "title": "Software Developer Intern 2027",
       "url": "https://jobright.ai/jobs/info/6a9e396468f82b4036738f88",
       "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX; North Carolina, United States; Massachusetts, United States; California, United States",
       "datePosted": 1792054694,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e29dc27c94c3d5a1cb5f6",
+      "company": "IBM",
+      "title": "Entry Level Back-End Developer - Dallas 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e29dc27c94c3d5a1cb5f6",
+      "location": "Dallas, TX",
+      "datePosted": 1792054692,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -69,7 +102,7 @@
       "datePosted": 1792054661,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad0f67118608b6f36f8016f",
@@ -169,6 +202,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad0db05256e49282e650610",
+      "company": "General Atomics Aeronautical Systems",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ad0db05256e49282e650610",
+      "location": "Poway, CA",
+      "datePosted": 1792051159,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab3de807bd081371331441f",
@@ -628,50 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6aab00a2f6bd9d2d17c1ad97",
       "location": "Rosemont, IL",
       "datePosted": 1792033046,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6acd4f7ca56e5406e57c0c55",
-      "company": "Seagate Technology",
-      "title": "Research Intern (Summer 2027), ML and Security",
-      "url": "https://jobright.ai/jobs/info/6acd4f7ca56e5406e57c0c55",
-      "location": "Shakopee, MN",
-      "datePosted": 1792032895,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab43f12ef911c35dffa42b7",
-      "company": "SeatGeek",
-      "title": "Software Engineer - Internship",
-      "url": "https://jobright.ai/jobs/info/6ab43f12ef911c35dffa42b7",
-      "location": "New York, NY",
-      "datePosted": 1792032634,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9b8fe28e24cb38513bad2",
-      "company": "Atlassian",
-      "title": "Software Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6aa9b8fe28e24cb38513bad2",
-      "location": "San Francisco, CA; Seattle, WA",
-      "datePosted": 1792031622,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aacb22795c707f49dff20b9",
-      "company": "Clearwater Analytics",
-      "title": "Quant Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aacb22795c707f49dff20b9",
-      "location": "New York, NY",
-      "datePosted": 1792031555,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
