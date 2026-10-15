@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:40:15Z",
+  "generatedAt": "2026-10-15T01:50:31Z",
   "windowDays": 30,
   "items": [
     {
@@ -155,6 +155,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792017616
+    },
+    {
+      "id": "newgrad-jobs:6acfc5a412303667b98a02ac",
+      "company": "Amazon",
+      "title": "Software Development Engineer I, Amazon Connect Customer Data & Insights",
+      "url": "https://jobright.ai/jobs/info/6acfc5a412303667b98a02ac",
+      "location": "Seattle, WA",
+      "datePosted": 1792000837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792029031
+    },
+    {
+      "id": "newgrad-jobs:6ad025552cc4e9d17e90c36a",
+      "company": "SirenOpt",
+      "title": "Software Engineer (Early Career) \u2013 C++ & Systems",
+      "url": "https://jobright.ai/jobs/info/6ad025552cc4e9d17e90c36a",
+      "location": "San Leandro, CA",
+      "datePosted": 1792000741,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792029031
     },
     {
       "id": "newgrad-jobs:6ad0206a12303667b98a202a",
@@ -51448,17 +51470,6 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1789489818
-    },
-    {
-      "id": "newgrad-jobs:6a9677f769b865490a632393",
-      "company": "Kearney",
-      "title": "Kearney Activate - Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6a9677f769b865490a632393",
-      "location": "Washington, DC; Arlington, VA; Boston, MA",
-      "datePosted": 1789436952,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789464618
     }
   ]
 }
