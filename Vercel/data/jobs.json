@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T16:10:17Z",
-  "totalOpen": 1234,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-10-15T16:20:15Z",
+  "totalOpen": 1233,
+  "totalNewgrad": 246,
   "totalOther": 987,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a989a3e83fc633357632819",
+      "company": "Hadrian",
+      "title": "Data Science/ Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a989a3e83fc633357632819",
+      "location": "Los Angeles, CA",
+      "datePosted": 1792052890,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab3de807bd081371331441f",
+      "company": "Amazon",
+      "title": "Data Engineer, Decision Intelligence Technology",
+      "url": "https://jobright.ai/jobs/info/6ab3de807bd081371331441f",
+      "location": "Bellevue, WA",
+      "datePosted": 1792050786,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad0e795e2d41540d4a6c76b",
@@ -787,17 +809,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
-      "company": "Faraday Future",
-      "title": "Robotics Data Operator Intern",
-      "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
-      "location": "El Segundo, CA",
-      "datePosted": 1792015662,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:a79f7fb4-d7b1-4429-a9e6-94c1462ee5d1",
       "company": "Skydio",
       "title": "Software Engineer Intern",
@@ -816,17 +827,6 @@
       "location": "San Mateo, CA",
       "datePosted": 1792015412,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6657d0e027c0f3b3b22ae",
-      "company": "Seagate Technology",
-      "title": "Embedded Software Engineer (Bachelor's Level, Early Career)",
-      "url": "https://jobright.ai/jobs/info/6ac6657d0e027c0f3b3b22ae",
-      "location": "Longmont, CO; Shakopee, MN",
-      "datePosted": 1792014812,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
