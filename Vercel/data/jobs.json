@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T04:20:16Z",
-  "totalOpen": 1235,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-10-15T04:30:19Z",
+  "totalOpen": 1237,
+  "totalNewgrad": 244,
   "totalOther": 993,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -168,7 +168,7 @@
       "datePosted": 1792008837,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa3c5d64238ea18d430e19b",
@@ -254,6 +254,17 @@
       "url": "https://jobright.ai/jobs/info/6ad025552cc4e9d17e90c36a",
       "location": "San Leandro, CA",
       "datePosted": 1792007441,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "company": "Capgemini",
+      "title": "JOB ID 12239: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "location": "Ashburn, VA",
+      "datePosted": 1792006368,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -817,17 +828,6 @@
       "datePosted": 1791986845,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfebf212303667b98a1164",
-      "company": "Harvard Medical School and Massachusetts General Hospital",
-      "title": "Scientific research intern: Quantum Computing for Medical Imaging",
-      "url": "https://jobright.ai/jobs/info/6acfebf212303667b98a1164",
-      "location": "Boston, MA",
-      "datePosted": 1791986050,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
