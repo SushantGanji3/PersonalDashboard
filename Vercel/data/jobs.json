@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T11:10:20Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 235,
+  "generatedAt": "2026-10-15T11:20:17Z",
+  "totalOpen": 1223,
+  "totalNewgrad": 236,
   "totalOther": 987,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abdfce2064da25272dff99c",
+      "company": "The D. E. Shaw Group",
+      "title": "Software Developer, Futures",
+      "url": "https://jobright.ai/jobs/info/6abdfce2064da25272dff99c",
+      "location": "New York, NY",
+      "datePosted": 1792034623,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acfc476c9f40bec907fdfd7",
@@ -116,10 +127,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
       "location": "Ashburn, VA",
       "datePosted": 1792020407,
       "source": "newgrad-jobs",
@@ -815,17 +826,6 @@
       "url": "https://jobright.ai/jobs/info/6a3ea4b0d261407de9803cdc",
       "location": "San Jose, CA",
       "datePosted": 1791992349,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
-      "company": "Accenture Federal Services",
-      "title": "ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
-      "location": "Fort Belvoir, VA",
-      "datePosted": 1791991951,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
