@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:00:19Z",
+  "generatedAt": "2026-10-15T01:10:28Z",
   "windowDays": 30,
   "items": [
     {
@@ -1299,6 +1299,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1791931217
+    },
+    {
+      "id": "simplify:a1e15fde-7252-4c7b-b527-90064ced009b",
+      "company": "Meta AI",
+      "title": "Production Systems Engineer Intern",
+      "url": "https://www.metacareers.com/jobs/1423159169992675",
+      "location": "Menlo Park, CA",
+      "datePosted": 1791929222,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792026628
     },
     {
       "id": "simplify:d6a59007-c376-4c64-b058-0ba8d130fb04",
@@ -51447,39 +51458,6 @@
       "datePosted": 1789435263,
       "source": "aggregator",
       "season": "Summer 2027",
-      "firstSeenAt": 1789436416
-    },
-    {
-      "id": "simplify:8d49edaf-5e5e-49b5-8b0e-1c75d2c04f76",
-      "company": "Tesla",
-      "title": "Computer Vision Engineer Intern - Cell Engineering",
-      "url": "https://www.tesla.com/careers/search/job/283290",
-      "location": "Palo Alto, CA",
-      "datePosted": 1789434627,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789436416
-    },
-    {
-      "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
-      "company": "Atlassian",
-      "title": "Software Engineer",
-      "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
-      "location": "Seattle, WA",
-      "datePosted": 1789434532,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789436416
-    },
-    {
-      "id": "simplify:f55553b1-9d7d-499d-98ac-d78d07cfb143",
-      "company": "Apple",
-      "title": "Hardware Systems Engineer - Board Design",
-      "url": "https://jobs.apple.com/en-us/details/200683615",
-      "location": "Cupertino, CA",
-      "datePosted": 1789434270,
-      "source": "aggregator",
-      "season": null,
       "firstSeenAt": 1789436416
     }
   ]
