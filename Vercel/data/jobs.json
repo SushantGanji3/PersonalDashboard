@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T19:10:16Z",
-  "totalOpen": 1226,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-10-15T19:20:17Z",
+  "totalOpen": 1225,
+  "totalNewgrad": 238,
   "totalOther": 987,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad1163d3d3a5aa909b37a37",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Audible AI Voice Production",
+      "url": "https://jobright.ai/jobs/info/6ad1163d3d3a5aa909b37a37",
+      "location": "Cambridge, MA",
+      "datePosted": 1792062413,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad105c6a4f99fef81941228",
@@ -377,7 +388,7 @@
       "datePosted": 1792052287,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad0db05256e49282e650610",
@@ -589,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
+      "id": "newgrad-jobs:6acf7cff2cc4e9d17e908b79",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
+      "url": "https://jobright.ai/jobs/info/6acf7cff2cc4e9d17e908b79",
       "location": "Fort Worth, TX; Orlando, FL",
       "datePosted": 1792044920,
       "source": "newgrad-jobs",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
       "location": "Owego, NY",
       "datePosted": 1792043632,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42f2c55e9168cf5ea4e0e",
-      "company": "MANTECH",
-      "title": "Junior RPA Developer",
-      "url": "https://jobright.ai/jobs/info/6ab42f2c55e9168cf5ea4e0e",
-      "location": "United States",
-      "datePosted": 1792042001,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
