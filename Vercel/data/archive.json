@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:10:15Z",
+  "generatedAt": "2026-10-15T00:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -155,6 +155,83 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792017616
+    },
+    {
+      "id": "newgrad-jobs:6ad00bd178d51ae69ce09987",
+      "company": "TE Connectivity",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ad00bd178d51ae69ce09987",
+      "location": "Webster, NY",
+      "datePosted": 1791994209,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792023616
+    },
+    {
+      "id": "newgrad-jobs:6ad00a9412303667b98a1c5a",
+      "company": "General Dynamics",
+      "title": "Software Engineer Intern for Crypto & Cross Domain Solutions",
+      "url": "https://jobright.ai/jobs/info/6ad00a9412303667b98a1c5a",
+      "location": "Scottsdale, AZ",
+      "datePosted": 1791993892,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792023616
+    },
+    {
+      "id": "newgrad-jobs:6ad005f1c0dd9da253cf5e6b",
+      "company": "Ascend Analytics",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad005f1c0dd9da253cf5e6b",
+      "location": "Boulder, CO; Raleigh, NC",
+      "datePosted": 1791992705,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792023616
+    },
+    {
+      "id": "newgrad-jobs:6ad004fa78d51ae69ce09641",
+      "company": "Macy's Retail Holdings, Inc.",
+      "title": "Macy's 2027 Tech Early Careers - Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad004fa78d51ae69ce09641",
+      "location": "Johns Creek, GA",
+      "datePosted": 1791992458,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792023616
+    },
+    {
+      "id": "newgrad-jobs:6a3ea4b0d261407de9803cdc",
+      "company": "TetraMem - Accelerate The World",
+      "title": "Software Engineer I \u2013 Compiler & Runtime",
+      "url": "https://jobright.ai/jobs/info/6a3ea4b0d261407de9803cdc",
+      "location": "San Jose, CA",
+      "datePosted": 1791992349,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792023616
+    },
+    {
+      "id": "newgrad-jobs:6ad00353c0dd9da253cf5d8b",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall)- 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ad00353c0dd9da253cf5d8b",
+      "location": "Seattle, WA",
+      "datePosted": 1791992035,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792023616
+    },
+    {
+      "id": "newgrad-jobs:6ad0034dc0dd9da253cf5d88",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (E-Commerce Governance)- 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ad0034dc0dd9da253cf5d88",
+      "location": "Seattle, WA",
+      "datePosted": 1791992029,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792023616
     },
     {
       "id": "newgrad-jobs:6ad000602cc4e9d17e90ba36",
@@ -342,6 +419,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792009216
+    },
+    {
+      "id": "newgrad-jobs:6ad0100078d51ae69ce09a70",
+      "company": "Amazon",
+      "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
+      "url": "https://jobright.ai/jobs/info/6ad0100078d51ae69ce09a70",
+      "location": "Westboro, WI; Westborough, MA; North Reading, MA; Seattle, WA",
+      "datePosted": 1791980852,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792023616
     },
     {
       "id": "newgrad-jobs:6acfd74a12303667b98a08dc",
@@ -51426,39 +51514,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789460417
-    },
-    {
-      "id": "newgrad-jobs:6aa8f17383a6750b1adfa7f6",
-      "company": "Textron Aviation",
-      "title": "2027 Intern - Software Engineer (Howe & Howe) - Waterboro, ME",
-      "url": "https://jobright.ai/jobs/info/6aa8f17383a6750b1adfa7f6",
-      "location": "Waterboro, ME",
-      "datePosted": 1789431555,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789460417
-    },
-    {
-      "id": "newgrad-jobs:6a96653b69b865490a631cd1",
-      "company": "Textron Aviation",
-      "title": "2027 Co-Op - Software Engineer (Uncrewed Land & Air) - Hunt Valley, MD",
-      "url": "https://jobright.ai/jobs/info/6a96653b69b865490a631cd1",
-      "location": "Cockeysville, MD",
-      "datePosted": 1789431387,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789460417
-    },
-    {
-      "id": "newgrad-jobs:6aa8efb33387a3d9b67d3624",
-      "company": "Textron",
-      "title": "2027 Intern - Software Engineer (Crewed Land) - Slidell, LA",
-      "url": "https://jobright.ai/jobs/info/6aa8efb33387a3d9b67d3624",
-      "location": "Slidell, LA",
-      "datePosted": 1789431107,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789458617
     }
   ]
 }
