@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:30:17Z",
+  "generatedAt": "2026-10-15T15:40:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792059015
+    },
+    {
+      "id": "newgrad-jobs:6ad0e795e2d41540d4a6c76b",
+      "company": "SubCom",
+      "title": "Applications Developer Intern (7936)",
+      "url": "https://jobright.ai/jobs/info/6ad0e795e2d41540d4a6c76b",
+      "location": "Newington, NH",
+      "datePosted": 1792050469,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792078817
+    },
+    {
+      "id": "newgrad-jobs:6a9882b2af954907d6573b9f",
+      "company": "Watchfire",
+      "title": "Intern Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a9882b2af954907d6573b9f",
+      "location": "Danville, IL",
+      "datePosted": 1792048361,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792078817
     },
     {
       "id": "newgrad-jobs:6ad0dee018608b6f36f7f6a9",
@@ -49303,39 +49325,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789531218
-    },
-    {
-      "id": "newgrad-jobs:6aaa0fe63387a3d9b67d8e8b",
-      "company": "Qishi Club",
-      "title": "One Month AI Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6aaa0fe63387a3d9b67d8e8b",
-      "location": "Princeton, NJ",
-      "datePosted": 1789486801,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789534818
-    },
-    {
-      "id": "newgrad-jobs:6a9aeff2d5ff1f3f1c39bd7a",
-      "company": "Vestwell",
-      "title": "Associate, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9aeff2d5ff1f3f1c39bd7a",
-      "location": "Austin, TX",
-      "datePosted": 1789486378,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789523417
-    },
-    {
-      "id": "newgrad-jobs:6aa9c74528e24cb38513c2f9",
-      "company": "Apple",
-      "title": "Software Engineer - Customer Feedback",
-      "url": "https://jobright.ai/jobs/info/6aa9c74528e24cb38513c2f9",
-      "location": "San Diego, CA",
-      "datePosted": 1789486293,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789516215
     }
   ]
 }
