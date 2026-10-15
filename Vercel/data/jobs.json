@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-15T22:00:19Z",
-  "totalOpen": 1237,
+  "generatedAt": "2026-10-15T22:10:16Z",
+  "totalOpen": 1235,
   "totalNewgrad": 253,
-  "totalOther": 984,
+  "totalOther": 982,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,7 +25,7 @@
       "datePosted": 1792072145,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad13ae318608b6f36f82838",
@@ -69,7 +69,7 @@
       "datePosted": 1792071045,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad1379118608b6f36f82617",
@@ -80,7 +80,7 @@
       "datePosted": 1792070945,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad1367118608b6f36f825ad",
@@ -355,7 +355,7 @@
       "datePosted": 1792064839,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad11f8b18608b6f36f81b5a",
@@ -941,17 +941,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:a6635562-b768-4870-a2d2-3e1802de470d",
-      "company": "RTX",
-      "title": "Software Engineer/Developer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028-1",
-      "location": "Woburn, MA",
-      "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:5a07cf07-d410-41af-b750-23e449367969",
       "company": "RTX",
       "title": "Software Engineer 1 - Next Gen Systems",
@@ -1321,6 +1310,17 @@
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
       "location": "NYC",
       "datePosted": 1791497959,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
+      "url": "https://lifeattiktok.com/search/7694352871949682997",
+      "location": "San Jose, CA",
+      "datePosted": 1791497917,
       "source": "aggregator",
       "season": null,
       "isNew": false
