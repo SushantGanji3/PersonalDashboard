@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-15T22:30:24Z",
-  "totalOpen": 1229,
-  "totalNewgrad": 247,
-  "totalOther": 982,
+  "generatedAt": "2026-10-15T22:40:16Z",
+  "totalOpen": 1233,
+  "totalNewgrad": 246,
+  "totalOther": 987,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:5a0765ab-4584-4368-a6b7-5253647fb5f1",
+      "company": "1Password",
+      "title": "Junior Developer",
+      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e/application?embed=true",
+      "location": "Remote in USA, Remote in Canada",
+      "datePosted": 1792102700,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:265e1dc0-f078-4530-86f1-f998666a2322",
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Fullstack - Search",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+      "location": "Remote in USA",
+      "datePosted": 1792102176,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:4b4cb315-35f7-4668-ac34-a05ba134f9ae",
+      "company": "Duolingo",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+      "location": "Pittsburgh, PA, NYC",
+      "datePosted": 1792101723,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ad14675256e49282e65411d",
       "company": "General Motors",
@@ -89,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
       "location": "New York, NY; Westlake, TX",
       "datePosted": 1792071895,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad13ae318608b6f36f82838",
-      "company": "1Password",
-      "title": "Junior Developer",
-      "url": "https://jobright.ai/jobs/info/6ad13ae318608b6f36f82838",
-      "location": "United States; Canada",
-      "datePosted": 1792071795,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -675,6 +697,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a79c504b17cba5690363a0d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a79c504b17cba5690363a0d",
+      "location": "Seattle, WA",
+      "datePosted": 1792056640,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "simplify:b88b4d25-8905-40c6-8911-eeb59632c125",
+      "company": "Northrop Grumman",
+      "title": "Associate / Embedded Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027--Associate--Embedded-Software-Engineer---Dulles-VA_R10256217",
+      "location": "Dulles, VA",
+      "datePosted": 1792022400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:894104d6-66ef-4390-a36e-71f2891576fc",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineer-Dulles-VA_R10256306",
+      "location": "McLean, VA, Dulles, VA",
+      "datePosted": 1792022400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:b7a2ad59-b10e-44b4-bc5c-53410f04e335",
@@ -1266,61 +1321,6 @@
       "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
       "location": "Newark, CA",
       "datePosted": 1791509800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7d29e9a8-e116-43c5-a3b9-267f864cddfc",
-      "company": "Workday",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
-      "location": "Pleasanton, CA",
-      "datePosted": 1791504000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
-      "company": "Workday",
-      "title": "Software Engineer Intern",
-      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
-      "location": "Pleasanton, CA",
-      "datePosted": 1791504000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b84cde68-8811-482e-ad0d-fb3108bad985",
-      "company": "Replit",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application?embed=true",
-      "location": "Foster City, CA",
-      "datePosted": 1791498667,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c81df585-c144-4df1-8111-2a31dee7970f",
-      "company": "IMC Trading",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
-      "location": "NYC",
-      "datePosted": 1791497959,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e2182c1b-5804-476c-b3e7-fd9a76bfa949",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
-      "url": "https://lifeattiktok.com/search/7694352871949682997",
-      "location": "San Jose, CA",
-      "datePosted": 1791497917,
       "source": "aggregator",
       "season": null,
       "isNew": false
