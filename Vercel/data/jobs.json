@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T16:40:17Z",
-  "totalOpen": 1234,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-10-15T16:50:18Z",
+  "totalOpen": 1236,
+  "totalNewgrad": 248,
   "totalOther": 988,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad0f67118608b6f36f8016f",
+      "company": "Accenture Federal Services",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ad0f67118608b6f36f8016f",
+      "location": "United States",
+      "datePosted": 1792054273,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acfd89a78d51ae69ce0865e",
@@ -47,7 +58,7 @@
       "datePosted": 1792053623,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad0f311ae21edea94fd2275",
@@ -58,7 +69,7 @@
       "datePosted": 1792053409,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab17988f9692ca98b049dc5",
@@ -113,7 +124,7 @@
       "datePosted": 1792052487,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abbec9da9a644f965688eb2",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ac3f1188ff3fb9b3bc831b0",
       "location": "McLean, VA; Fort Belvoir, VA",
       "datePosted": 1792030497,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac759fdf93c2e91aeb1fe72",
-      "company": "Ascend Learning",
-      "title": "Intern - Software Engineering Job Details | Ascend Learning, LLC",
-      "url": "https://jobright.ai/jobs/info/6ac759fdf93c2e91aeb1fe72",
-      "location": "Leawood, KS",
-      "datePosted": 1792029647,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
