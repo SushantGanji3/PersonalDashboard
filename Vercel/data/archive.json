@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:10:16Z",
+  "generatedAt": "2026-10-15T06:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -155,6 +155,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792017616
+    },
+    {
+      "id": "newgrad-jobs:6ad05bf652a37835d5e3fc68",
+      "company": "Tessera Labs",
+      "title": "Software Engineering Intern, Full Stack",
+      "url": "https://jobright.ai/jobs/info/6ad05bf652a37835d5e3fc68",
+      "location": "United States",
+      "datePosted": 1792014726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792045215
     },
     {
       "id": "newgrad-jobs:6ad044f552a37835d5e3f81b",
@@ -50986,61 +50997,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789482017
-    },
-    {
-      "id": "newgrad-jobs:6aa9460509ae03adcacdc841",
-      "company": "AFP Cuprum",
-      "title": "Software Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa9460509ae03adcacdc841",
-      "location": "Des Moines, IA",
-      "datePosted": 1789453205,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789482017
-    },
-    {
-      "id": "newgrad-jobs:6aa9460210b1cd4f4160525b",
-      "company": "AFP Cuprum",
-      "title": "Information Security Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa9460210b1cd4f4160525b",
-      "location": "Des Moines, IA",
-      "datePosted": 1789453202,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789482017
-    },
-    {
-      "id": "newgrad-jobs:6aa945c6eff87f571fc98da5",
-      "company": "AFP Cuprum",
-      "title": "Data Engineer Internship - Des Moines, IA (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa945c6eff87f571fc98da5",
-      "location": "Des Moines, IA",
-      "datePosted": 1789453142,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789481419
-    },
-    {
-      "id": "newgrad-jobs:6aa945b828e24cb385139803",
-      "company": "AFP Cuprum",
-      "title": "Software Engineer Internship - Charlotte, NC (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa945b828e24cb385139803",
-      "location": "Charlotte, NC",
-      "datePosted": 1789453128,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789482017
-    },
-    {
-      "id": "newgrad-jobs:6a8c880025fc4e7ae3db8eca",
-      "company": "CarGurus",
-      "title": "Application Security Engineer I",
-      "url": "https://jobright.ai/jobs/info/6a8c880025fc4e7ae3db8eca",
-      "location": "Boston, MA",
-      "datePosted": 1789453042,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789481419
     }
   ]
 }
