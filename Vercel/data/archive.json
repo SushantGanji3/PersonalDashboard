@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:10:15Z",
+  "generatedAt": "2026-10-15T03:20:27Z",
   "windowDays": 30,
   "items": [
     {
@@ -155,6 +155,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792017616
+    },
+    {
+      "id": "newgrad-jobs:6acffce8c9f40bec907ff40a",
+      "company": "Light & Wonder",
+      "title": "Intern Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6acffce8c9f40bec907ff40a",
+      "location": "Reno, NV",
+      "datePosted": 1792006140,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792034427
+    },
+    {
+      "id": "newgrad-jobs:6acff9512cc4e9d17e90b7d6",
+      "company": "The Coca-Cola Company",
+      "title": "Integration Developer, Azure",
+      "url": "https://jobright.ai/jobs/info/6acff9512cc4e9d17e90b7d6",
+      "location": "Atlanta, GA",
+      "datePosted": 1792005043,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792034427
+    },
+    {
+      "id": "newgrad-jobs:6a567a7b53b3962b910b062f",
+      "company": "Applied Systems",
+      "title": "Associate Software Engineer / Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a567a7b53b3962b910b062f",
+      "location": "United States; Canada",
+      "datePosted": 1792003856,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792034427
     },
     {
       "id": "newgrad-jobs:6ad01eeb2cc4e9d17e90c266",
@@ -353,6 +386,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1792023616
+    },
+    {
+      "id": "newgrad-jobs:6a510d9eae4052672fe966f4",
+      "company": "Accenture Federal Services",
+      "title": "ServiceNow Developer",
+      "url": "https://jobright.ai/jobs/info/6a510d9eae4052672fe966f4",
+      "location": "Fort Belvoir, VA",
+      "datePosted": 1791991951,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792034427
     },
     {
       "id": "newgrad-jobs:6ad000602cc4e9d17e90ba36",
@@ -51327,17 +51371,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789487415
-    },
-    {
-      "id": "newgrad-jobs:6aa91bbceff87f571fc985b1",
-      "company": "Booz Allen Hamilton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa91bbceff87f571fc985b1",
-      "location": "Beavercreek, OH",
-      "datePosted": 1789442380,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789471217
     }
   ]
 }
