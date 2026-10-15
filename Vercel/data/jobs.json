@@ -1,19 +1,52 @@
 {
-  "generatedAt": "2026-10-15T18:30:20Z",
-  "totalOpen": 1232,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-10-15T18:40:18Z",
+  "totalOpen": 1228,
+  "totalNewgrad": 241,
   "totalOther": 987,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6ad10acfe2d41540d4a6da5d",
-      "company": "BAE Systems, Inc.",
-      "title": "C4ISR - Software Engineering Intern, Summer 2027 (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ad10acfe2d41540d4a6da5d",
-      "location": "Wayne, NJ",
-      "datePosted": 1792059487,
+      "id": "newgrad-jobs:6ad105c6a4f99fef81941228",
+      "company": "Capgemini",
+      "title": "C# Developer | AI Solutions",
+      "url": "https://jobright.ai/jobs/info/6ad105c6a4f99fef81941228",
+      "location": "Atlanta, GA",
+      "datePosted": 1792060641,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad10f193d3a5aa909b37671",
+      "company": "Muon Space",
+      "title": "Ground Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad10f193d3a5aa909b37671",
+      "location": "San Jose, CA; Mountain View, CA",
+      "datePosted": 1792060585,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3c5d64238ea18d430e19b",
+      "company": "Impulse Space",
+      "title": "Flight/Embedded Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa3c5d64238ea18d430e19b",
+      "location": "Redondo Beach, CA",
+      "datePosted": 1792059926,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad0d213ae21edea94fd13ff",
+      "company": "Arcfield",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad0d213ae21edea94fd13ff",
+      "location": "Rome, NY",
+      "datePosted": 1792059807,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -89,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6a79c504b17cba5690363a0d",
       "location": "Seattle, WA",
       "datePosted": 1792056640,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3c5d64238ea18d430e19b",
-      "company": "Impulse Space",
-      "title": "Flight/Embedded Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa3c5d64238ea18d430e19b",
-      "location": "Redondo Beach, CA",
-      "datePosted": 1792056236,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -210,17 +232,6 @@
       "url": "https://jobright.ai/jobs/info/6acfd74478d51ae69ce0860c",
       "location": "Oklahoma City, OK",
       "datePosted": 1792054911,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad0d213ae21edea94fd13ff",
-      "company": "Arcfield",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad0d213ae21edea94fd13ff",
-      "location": "Rome, NY",
-      "datePosted": 1792054910,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -402,23 +413,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a970608d13b4819f39de986",
+      "company": "SpaceX",
+      "title": "Full Stack Engineer, Flight Software",
+      "url": "https://jobright.ai/jobs/info/6a970608d13b4819f39de986",
+      "location": "Hawthorne, CA",
+      "datePosted": 1792049802,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ab47b2964816213f2d99494",
       "company": "Roblox",
       "title": "Software Engineer, Data Access",
       "url": "https://jobright.ai/jobs/info/6ab47b2964816213f2d99494",
       "location": "San Mateo, CA",
       "datePosted": 1792049420,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a970608d13b4819f39de986",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer, Flight Software",
-      "url": "https://jobright.ai/jobs/info/6a970608d13b4819f39de986",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792049018,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -578,10 +589,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9860a483fc633357631306",
+      "id": "newgrad-jobs:6a986188def18223c854f1ca",
       "company": "PepsiCo",
       "title": "2027 Summer Intern: Technology Data & Analytics, Data Engineer & Data Science",
-      "url": "https://jobright.ai/jobs/info/6a9860a483fc633357631306",
+      "url": "https://jobright.ai/jobs/info/6a986188def18223c854f1ca",
       "location": "Harrison, NY; Plano, TX",
       "datePosted": 1792044889,
       "source": "newgrad-jobs",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ab471a20e0ae54eeea488b9",
       "location": "New York, NY",
       "datePosted": 1792042835,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42f2c55e9168cf5ea4e0e",
-      "company": "MANTECH",
-      "title": "Junior RPA Developer",
-      "url": "https://jobright.ai/jobs/info/6ab42f2c55e9168cf5ea4e0e",
-      "location": "United States",
-      "datePosted": 1792042001,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
