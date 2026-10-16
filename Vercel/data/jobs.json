@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-16T16:40:14Z",
+  "generatedAt": "2026-10-16T16:50:16Z",
   "totalOpen": 1223,
   "totalNewgrad": 234,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9e236a2c964816f65ebcac",
+      "company": "IBM",
+      "title": "Associates Application Developer 2027 - ServiceNow",
+      "url": "https://jobright.ai/jobs/info/6a9e236a2c964816f65ebcac",
+      "location": "Baton Rouge, LA",
+      "datePosted": 1792141552,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a9e2d4a27c94c3d5a1cb631",
       "company": "IBM",
@@ -14,7 +25,7 @@
       "datePosted": 1792141551,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab5bc02b3db59402d0fecc2",
@@ -25,6 +36,39 @@
       "datePosted": 1792141219,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5ee720f29acc1a11749d72",
+      "company": "SpaceX",
+      "title": "Software Engineer (Starfall)",
+      "url": "https://jobright.ai/jobs/info/6a5ee720f29acc1a11749d72",
+      "location": "Hawthorne, CA",
+      "datePosted": 1792140918,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6accf1e0ddd23cce28a0fcb5",
+      "company": "IBM",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6accf1e0ddd23cce28a0fcb5",
+      "location": "Yorktown Heights, NY; Charlotte, NC; Austin, TX",
+      "datePosted": 1792140609,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac83bd551a1b3e4219f0eb2",
+      "company": "RTX",
+      "title": "Systems Engineer I-onsite",
+      "url": "https://jobright.ai/jobs/info/6ac83bd551a1b3e4219f0eb2",
+      "location": "Tewksbury, MA; Andover, MA",
+      "datePosted": 1792140478,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -36,6 +80,17 @@
       "datePosted": 1792140348,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab58a199d4843569fe4a772",
+      "company": "IBM",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ab58a199d4843569fe4a772",
+      "location": "Bellevue, WA",
+      "datePosted": 1792139946,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -58,17 +113,6 @@
       "datePosted": 1792139078,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6accf1e0ddd23cce28a0fcb5",
-      "company": "IBM",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6accf1e0ddd23cce28a0fcb5",
-      "location": "Yorktown Heights, NY; Charlotte, NC; Austin, TX",
-      "datePosted": 1792139051,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -113,7 +157,7 @@
       "datePosted": 1792137737,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7d1c637c52154b59f5dfeb",
@@ -413,15 +457,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac6d3d98ff3fb9b3bc8f5d1",
+      "id": "newgrad-jobs:6ac6c24b4ac55253f5d7be87",
       "company": "State Street",
       "title": "Software Developer - Officer",
-      "url": "https://jobright.ai/jobs/info/6ac6d3d98ff3fb9b3bc8f5d1",
+      "url": "https://jobright.ai/jobs/info/6ac6c24b4ac55253f5d7be87",
       "location": "Princeton, NJ; Quincy, MA",
       "datePosted": 1792131183,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad10f193d3a5aa909b37671",
@@ -586,7 +630,7 @@
       "datePosted": 1792120691,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad1f882977ae951c8e018ae",
@@ -617,50 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6ab575c5c6fe0dec811a12bb",
       "location": "Bellevue, WA",
       "datePosted": 1792120159,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a52e7dc9fbdab22fe13d88e",
-      "company": "DRW",
-      "title": "Research Engineer (Options)",
-      "url": "https://jobright.ai/jobs/info/6a52e7dc9fbdab22fe13d88e",
-      "location": "Chicago, IL",
-      "datePosted": 1792119509,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1792119486,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab5a5a44873fd3fd852b4b4",
-      "company": "AppLovin",
-      "title": "ML Data Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab5a5a44873fd3fd852b4b4",
-      "location": "Palo Alto, CA",
-      "datePosted": 1792119486,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7b6e0db933773d16be7349",
-      "company": "Booz Allen Hamilton",
-      "title": "AI Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a7b6e0db933773d16be7349",
-      "location": "San Diego, CA",
-      "datePosted": 1792119453,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
