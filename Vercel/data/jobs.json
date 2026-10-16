@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-16T15:50:17Z",
-  "totalOpen": 1212,
-  "totalNewgrad": 223,
+  "generatedAt": "2026-10-16T16:00:19Z",
+  "totalOpen": 1216,
+  "totalNewgrad": 227,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a9e393bdacf777321a90d32",
+      "company": "IBM",
+      "title": "Site Reliability Engineer Spring Co-op 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e393bdacf777321a90d32",
+      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX",
+      "datePosted": 1792137449,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a988529af954907d6573ca1",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a988529af954907d6573ca1",
+      "location": "Dallas, TX",
+      "datePosted": 1792136923,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab5833cb3db59402d0fd10e",
+      "company": "Notion",
+      "title": "Software Engineer Intern, Mobile (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab5833cb3db59402d0fd10e",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1792136868,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab17988f9692ca98b049dc5",
       "company": "IBM",
@@ -15,6 +48,50 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab538f0634ec6aa7c0cdad9",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer II (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab538f0634ec6aa7c0cdad9",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1792136136,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a989a41def18223c855067c",
+      "company": "Hadrian",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a989a41def18223c855067c",
+      "location": "Los Angeles, CA",
+      "datePosted": 1792136067,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab538fa4873fd3fd852849e",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab538fa4873fd3fd852849e",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1792135986,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7e391f0cd4a0703257ec58",
+      "company": "Tenaska",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a7e391f0cd4a0703257ec58",
+      "location": "Omaha, NE",
+      "datePosted": 1792135212,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad230c225289a0b3bf5497b",
@@ -36,7 +113,7 @@
       "datePosted": 1792134373,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a91d94dc12c90443efc8873",
@@ -47,7 +124,7 @@
       "datePosted": 1792134373,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6db38372c01f6cd73f6d7",
@@ -100,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6ab538ee9d4843569fe487d1",
       "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
       "datePosted": 1792133207,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab538f0634ec6aa7c0cdad9",
-      "company": "Cisco",
-      "title": "Machine Learning Engineer II (Intern) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6ab538f0634ec6aa7c0cdad9",
-      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
-      "datePosted": 1792133195,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -182,17 +248,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab538fa4873fd3fd852849e",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI II (Intern) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6ab538fa4873fd3fd852849e",
-      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
-      "datePosted": 1792132420,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a982fd511f73b6462c8d0de",
       "company": "Genuine Parts Company",
       "title": "Software Engineer - QA Analyst Intern",
@@ -223,7 +278,7 @@
       "datePosted": 1792131183,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a983015dd171c7285790a65",
@@ -696,61 +751,6 @@
       "datePosted": 1792094710,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad13539a4f99fef81942b0c",
-      "company": "S&P Global",
-      "title": "Machine Learning Operations Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad13539a4f99fef81942b0c",
-      "location": "United States",
-      "datePosted": 1792094123,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad18a9e304865221f2f3a05",
-      "company": "IBM",
-      "title": "z/OS Core Technologies Back End Developer Intern 2027 - Poughkeepsie",
-      "url": "https://jobright.ai/jobs/info/6ad18a9e304865221f2f3a05",
-      "location": "Poughkeepsie, AR",
-      "datePosted": 1792092206,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad14f12a4f99fef8194382c",
-      "company": "Expedition Technology",
-      "title": "Summer 2027 Internship in Digital Signal Processng and Machine Learning - R148",
-      "url": "https://jobright.ai/jobs/info/6ad14f12a4f99fef8194382c",
-      "location": "Herndon, VA",
-      "datePosted": 1792091179,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad17b0be2d41540d4a70f47",
-      "company": "AnySignal",
-      "title": "Associate Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad17b0be2d41540d4a70f47",
-      "location": "Los Angeles, CA",
-      "datePosted": 1792090734,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1466318608b6f36f82eca",
-      "company": "Affirm",
-      "title": "Software Engineer I, Fullstack (Search)",
-      "url": "https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
-      "location": "United States",
-      "datePosted": 1792090552,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
