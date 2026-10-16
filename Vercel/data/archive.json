@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:10:15Z",
+  "generatedAt": "2026-10-16T04:20:14Z",
   "windowDays": 30,
   "items": [
     {
@@ -89,6 +89,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792104016
+    },
+    {
+      "id": "newgrad-jobs:6ad11e94256e49282e652c50",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Summer/Fall 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad11e94256e49282e652c50",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792095648,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "firstSeenAt": 1792124414
+    },
+    {
+      "id": "newgrad-jobs:6ad17520a4f99fef8194483d",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad17520a4f99fef8194483d",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792095644,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792124414
+    },
+    {
+      "id": "newgrad-jobs:6ad1745d3d3a5aa909b3a882",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad1745d3d3a5aa909b3a882",
+      "location": "McKinney, TX",
+      "datePosted": 1792095608,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792124414
     },
     {
       "id": "newgrad-jobs:6ad18a9e304865221f2f3a05",
@@ -254,6 +287,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792110014
+    },
+    {
+      "id": "newgrad-jobs:6ad19990c24514d0596cd341",
+      "company": "Hakk\u014dda, an IBM Company",
+      "title": "Back End Developer Intern - NY POK CC - 2027",
+      "url": "https://jobright.ai/jobs/info/6ad19990c24514d0596cd341",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1792081569,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792124414
     },
     {
       "id": "newgrad-jobs:6ad195f3304865221f2f3dbf",
@@ -49300,83 +49344,6 @@
       "url": "https://jobright.ai/jobs/info/6aaa7b708e1bf0f764af4efe",
       "location": "Slidell, LA",
       "datePosted": 1789532416,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6a97eb32d356304a026886d8",
-      "company": "Textron Specialized Vehicles",
-      "title": "2027 IT Programmer Intern",
-      "url": "https://jobright.ai/jobs/info/6a97eb32d356304a026886d8",
-      "location": "Augusta, GA",
-      "datePosted": 1789532301,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6a97eb2cc8ed473c5c761914",
-      "company": "Textron",
-      "title": "2027 IT Programmer Intern",
-      "url": "https://jobright.ai/jobs/info/6a97eb2cc8ed473c5c761914",
-      "location": "Augusta, GA",
-      "datePosted": 1789532287,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6a97eae3af954907d6570dcb",
-      "company": "Textron",
-      "title": "2027 Internship - Information Technology (Developer)",
-      "url": "https://jobright.ai/jobs/info/6a97eae3af954907d6570dcb",
-      "location": "Wichita, KS",
-      "datePosted": 1789532218,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6a97ebb1af954907d6570df7",
-      "company": "Textron",
-      "title": "2027 Internship - Software Engineer - Avionics and Systems (TRU Simulation - Lutz, FL)",
-      "url": "https://jobright.ai/jobs/info/6a97ebb1af954907d6570df7",
-      "location": "Lutz, FL",
-      "datePosted": 1789532180,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6a97eae0d356304a026886c3",
-      "company": "Textron",
-      "title": "2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD",
-      "url": "https://jobright.ai/jobs/info/6a97eae0d356304a026886c3",
-      "location": "Cockeysville, MD",
-      "datePosted": 1789532156,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6a97ebaad356304a026886e5",
-      "company": "Textron",
-      "title": "2027 Internship - Software Engineer - Aftermarket Programs (TRU Simulation - Lutz, FL)",
-      "url": "https://jobright.ai/jobs/info/6a97ebaad356304a026886e5",
-      "location": "Lutz, FL",
-      "datePosted": 1789532140,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6aaa7a5a8e1bf0f764af4e72",
-      "company": "Textron",
-      "title": "2027 Co-Op - Software Engineer (Uncrewed Land & Air) - Hunt Valley, MD",
-      "url": "https://jobright.ai/jobs/info/6aaa7a5a8e1bf0f764af4e72",
-      "location": "Cockeysville, MD",
-      "datePosted": 1789532138,
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789561216
