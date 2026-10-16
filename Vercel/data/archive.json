@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:10:15Z",
+  "generatedAt": "2026-10-16T03:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -89,6 +89,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792104016
+    },
+    {
+      "id": "newgrad-jobs:6ad18a9e304865221f2f3a05",
+      "company": "IBM",
+      "title": "z/OS Core Technologies Back End Developer Intern 2027 - Poughkeepsie",
+      "url": "https://jobright.ai/jobs/info/6ad18a9e304865221f2f3a05",
+      "location": "Poughkeepsie, AR",
+      "datePosted": 1792092206,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792120816
     },
     {
       "id": "newgrad-jobs:6ad17b0be2d41540d4a70f47",
@@ -49380,17 +49391,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789561216
-    },
-    {
-      "id": "newgrad-jobs:6a8da63da5639a4810326954",
-      "company": "The Voleon Group",
-      "title": "Software Engineer Intern - (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a8da63da5639a4810326954",
-      "location": "Berkeley, CA; New York, NY",
-      "datePosted": 1789528777,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789555219
     }
   ]
 }
