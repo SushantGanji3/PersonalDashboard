@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T02:10:15Z",
-  "totalOpen": 1241,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-10-16T02:20:15Z",
+  "totalOpen": 1243,
+  "totalNewgrad": 254,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792114830,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6dee80eb-5b2d-4684-8dd3-8c5324036443",
@@ -25,7 +25,7 @@
       "datePosted": 1792114389,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
@@ -92,6 +92,83 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3c5d64238ea18d430e19b",
+      "company": "Impulse Space",
+      "title": "Flight/Embedded Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa3c5d64238ea18d430e19b",
+      "location": "Redondo Beach, CA",
+      "datePosted": 1792087922,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad177a1ae21edea94fd64db",
+      "company": "Abridge",
+      "title": "Member of Technical Staff, Intern",
+      "url": "https://jobright.ai/jobs/info/6ad177a1ae21edea94fd64db",
+      "location": "San Francisco, CA",
+      "datePosted": 1792087345,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad1466318608b6f36f82eca",
+      "company": "Affirm",
+      "title": "Software Engineer I, Fullstack (Search)",
+      "url": "https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
+      "location": "United States",
+      "datePosted": 1792087049,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad17613e2d41540d4a70da7",
+      "company": "Homes.com",
+      "title": "Software Engineer I - BizBuySell - San Francisco, CA",
+      "url": "https://jobright.ai/jobs/info/6ad17613e2d41540d4a70da7",
+      "location": "San Francisco, CA",
+      "datePosted": 1792086947,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad17531ae21edea94fd63d0",
+      "company": "hussh \ud83e\udd2b",
+      "title": "Software Engineering Internship (Mobile, Web, Wallet)",
+      "url": "https://jobright.ai/jobs/info/6ad17531ae21edea94fd63d0",
+      "location": "Seattle, WA; Kirkland, WA",
+      "datePosted": 1792086721,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad1742fae21edea94fd6389",
+      "company": "AiDASH",
+      "title": "Software Engineering Intern, Backend",
+      "url": "https://jobright.ai/jobs/info/6ad1742fae21edea94fd6389",
+      "location": "Palo Alto, CA",
+      "datePosted": 1792086463,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad13cb5256e49282e653b6e",
+      "company": "American Century Investments",
+      "title": "Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad13cb5256e49282e653b6e",
+      "location": "Kansas City, MO",
+      "datePosted": 1792086207,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad1709e3d3a5aa909b3a755",
@@ -278,17 +355,6 @@
       "datePosted": 1792081876,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3c5d64238ea18d430e19b",
-      "company": "Impulse Space",
-      "title": "Flight/Embedded Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa3c5d64238ea18d430e19b",
-      "location": "Redondo Beach, CA",
-      "datePosted": 1792080616,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -501,17 +567,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad1466318608b6f36f82eca",
-      "company": "Affirm",
-      "title": "Software Engineer I, Fullstack (Search)",
-      "url": "https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
-      "location": "United States",
-      "datePosted": 1792074739,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad1465b3d3a5aa909b39486",
       "company": "Seagate Technology",
       "title": "Software Engineer - Early Career",
@@ -694,61 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6ad130a5e2d41540d4a6ee20",
       "location": "New York, NY",
       "datePosted": 1792069173,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5677e1f7517b519ad55dae",
-      "company": "Five Rings",
-      "title": "Summer Intern 2027 - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a5677e1f7517b519ad55dae",
-      "location": "New York, NY",
-      "datePosted": 1792069106,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac52f4e0e027c0f3b3ad622",
-      "company": "Booz Allen Hamilton",
-      "title": "Power Platform Developer",
-      "url": "https://jobright.ai/jobs/info/6ac52f4e0e027c0f3b3ad622",
-      "location": "Washington, DC",
-      "datePosted": 1792069048,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abeb9870e027c0f3b39a53a",
-      "company": "Point72",
-      "title": "Micro-Intern: Research Technology Developer (IAP)",
-      "url": "https://jobright.ai/jobs/info/6abeb9870e027c0f3b39a53a",
-      "location": "New York, NY",
-      "datePosted": 1792068832,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
-      "company": "Figma",
-      "title": "Data Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1792068793,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad12ef4256e49282e6534ae",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Intern - Puerto Rico",
-      "url": "https://jobright.ai/jobs/info/6ad12ef4256e49282e6534ae",
-      "location": "Aguadilla, PR",
-      "datePosted": 1792068740,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
