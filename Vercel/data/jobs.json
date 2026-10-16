@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T11:10:20Z",
-  "totalOpen": 1233,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-10-16T11:20:17Z",
+  "totalOpen": 1234,
+  "totalNewgrad": 245,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792121337,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad1f882977ae951c8e018ae",
@@ -25,6 +25,17 @@
       "datePosted": 1792120338,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a456b453dbab558e29a135c",
+      "company": "Optiver",
+      "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+      "url": "https://jobright.ai/jobs/info/6a456b453dbab558e29a135c",
+      "location": "Chicago, IL; Austin, TX",
+      "datePosted": 1792120328,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -545,6 +556,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad1f84d6b3a581bc8818035",
+      "company": "Medtronic",
+      "title": "Software Engineering Intern \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad1f84d6b3a581bc8818035",
+      "location": "Fridley, MN; Tempe, AZ; Eatontown, NJ; Santa Rosa, CA; Lafayette, CO; Boulder, CO; Plymouth, MN; Mounds View, MN; Irvine, CA; North Haven, CT; Memphis, TN; Newton, MA; Dexter, MI; Santa Ana, CA; Mansfield, MA; Fort Worth, TX; Minneapolis, MN; Brooklyn Center, MN; Jacksonville, FL; Boston, MA; Brooklyn Park, MN",
+      "datePosted": 1792083600,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad1451ae2d41540d4a6f943",
       "company": "Kensho Technologies",
       "title": "Machine Learning Operations Engineer I",
@@ -727,28 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6ad13ad2e2d41540d4a6f366",
       "location": "United States; Canada",
       "datePosted": 1792078893,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a866758d34f700f87fc1a2a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a866758d34f700f87fc1a2a",
-      "location": "San Jose, CA",
-      "datePosted": 1792078183,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad11938a4f99fef81941d3c",
-      "company": "Infosys",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad11938a4f99fef81941d3c",
-      "location": "Bernards, NJ",
-      "datePosted": 1792078010,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
