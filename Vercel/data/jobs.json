@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T08:10:16Z",
-  "totalOpen": 1232,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-10-16T08:20:18Z",
+  "totalOpen": 1231,
+  "totalNewgrad": 243,
   "totalOther": 988,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -46,6 +46,28 @@
       "location": "SF",
       "datePosted": 1792113271,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad1a9fc53547a88ce9eab31",
+      "company": "Together AI",
+      "title": "Hardware Security Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad1a9fc53547a88ce9eab31",
+      "location": "San Francisco, CA",
+      "datePosted": 1792110722,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad1a9f653547a88ce9eab30",
+      "company": "Together AI",
+      "title": "Hardware Security Engineer, New Grad (2027)",
+      "url": "https://jobright.ai/jobs/info/6ad1a9f653547a88ce9eab30",
+      "location": "San Francisco, CA",
+      "datePosted": 1792110681,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -122,28 +144,6 @@
       "url": "https://jobright.ai/jobs/info/6ad1aa94af5019c7f0623477",
       "location": "Midvale, UT",
       "datePosted": 1792100388,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1a9fc53547a88ce9eab31",
-      "company": "Together AI",
-      "title": "Hardware Security Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad1a9fc53547a88ce9eab31",
-      "location": "San Francisco, CA",
-      "datePosted": 1792100236,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1a9f653547a88ce9eab30",
-      "company": "Together AI",
-      "title": "Hardware Security Engineer, New Grad (2027)",
-      "url": "https://jobright.ai/jobs/info/6ad1a9f653547a88ce9eab30",
-      "location": "San Francisco, CA",
-      "datePosted": 1792100230,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -479,10 +479,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
       "location": "Ashburn, VA",
       "datePosted": 1792082046,
       "source": "newgrad-jobs",
