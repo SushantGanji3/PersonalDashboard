@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:40:18Z",
+  "generatedAt": "2026-10-16T08:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792140018
+    },
+    {
+      "id": "newgrad-jobs:6ad1d846097baf4fb049e28a",
+      "company": "Torentify",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad1d846097baf4fb049e28a",
+      "location": "Los Angeles, CA",
+      "datePosted": 1792112086,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792140617
     },
     {
       "id": "simplify:5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
@@ -48918,39 +48929,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789577415
-    },
-    {
-      "id": "newgrad-jobs:6aaab9ae40807b73bd391894",
-      "company": "Scientific Systems",
-      "title": "Autonomy Software Engineer I - MAGE",
-      "url": "https://jobright.ai/jobs/info/6aaab9ae40807b73bd391894",
-      "location": "Burlington, MA",
-      "datePosted": 1789548350,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789577415
-    },
-    {
-      "id": "newgrad-jobs:6aaab9118e1bf0f764af5f78",
-      "company": "Westinghouse Electric Company",
-      "title": "Common Q Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aaab9118e1bf0f764af5f78",
-      "location": "Warrendale, PA",
-      "datePosted": 1789548193,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789577415
-    },
-    {
-      "id": "newgrad-jobs:6aaab88cf6bd9d2d17c18f3d",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Associate Software Engineer - JobID-0186",
-      "url": "https://jobright.ai/jobs/info/6aaab88cf6bd9d2d17c18f3d",
-      "location": "Mount Laurel Township, NJ",
-      "datePosted": 1789548060,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789575616
     }
   ]
 }
