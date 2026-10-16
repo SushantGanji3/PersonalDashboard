@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-16T18:40:16Z",
-  "totalOpen": 1230,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-10-16T18:50:16Z",
+  "totalOpen": 1234,
+  "totalNewgrad": 245,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aad59670ebc8fb2313e8eaf",
+      "company": "Cotiviti",
+      "title": "Intern - Gen AI Research Engineer (Hiring Now!)",
+      "url": "https://jobright.ai/jobs/info/6aad59670ebc8fb2313e8eaf",
+      "location": "United States",
+      "datePosted": 1792147872,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a99b3a690a313642c652281",
       "company": "V2X Inc",
@@ -14,6 +25,105 @@
       "datePosted": 1792147775,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aab280f4be87a72913a388d",
+      "company": "BAE Systems",
+      "title": "Software Engineering Intern III, Summer 2027 (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6aab280f4be87a72913a388d",
+      "location": "San Diego, CA",
+      "datePosted": 1792147360,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab5bc02b3db59402d0fecc2",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+      "url": "https://jobright.ai/jobs/info/6ab5bc02b3db59402d0fecc2",
+      "location": "Jessup, MD; Seattle, WA; Arlington, VA; Denver, CO",
+      "datePosted": 1792147024,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a989dfb83fc633357632942",
+      "company": "Shure",
+      "title": "Automated Test Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a989dfb83fc633357632942",
+      "location": "Niles, IL",
+      "datePosted": 1792146943,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aad69e23d96632d741adab1",
+      "company": "Together AI",
+      "title": "Research Intern, Inference (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69e23d96632d741adab1",
+      "location": "San Francisco, CA",
+      "datePosted": 1792146163,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aad69e0de327d3e210d23e8",
+      "company": "Together AI",
+      "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69e0de327d3e210d23e8",
+      "location": "San Francisco, CA",
+      "datePosted": 1792146163,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad69e9de327d3e210d23f2",
+      "company": "Together AI",
+      "title": "Research Intern, Model Shaping (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69e9de327d3e210d23f2",
+      "location": "San Francisco, CA",
+      "datePosted": 1792146159,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aad6a320ebc8fb2313e9539",
+      "company": "Together AI",
+      "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad6a320ebc8fb2313e9539",
+      "location": "San Francisco, CA",
+      "datePosted": 1792146157,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad69fcde327d3e210d23fd",
+      "company": "Together AI",
+      "title": "Research Intern, Model Shaping (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69fcde327d3e210d23fd",
+      "location": "San Francisco, CA",
+      "datePosted": 1792146157,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad69f96956574eac8b57ef",
+      "company": "Together AI",
+      "title": "Research Intern, Inference (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69f96956574eac8b57ef",
+      "location": "San Francisco, CA",
+      "datePosted": 1792146157,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
       "isNew": true
     },
     {
@@ -171,17 +281,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab5bc02b3db59402d0fecc2",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
-      "url": "https://jobright.ai/jobs/info/6ab5bc02b3db59402d0fecc2",
-      "location": "Jessup, MD; Seattle, WA; Arlington, VA; Denver, CO",
-      "datePosted": 1792141219,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a5ee720f29acc1a11749d72",
       "company": "SpaceX",
       "title": "Software Engineer (Starfall)",
@@ -292,10 +391,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a99082811f73b6462c9012a",
+      "id": "newgrad-jobs:6a989de6c8ed473c5c765202",
       "company": "Shure",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a99082811f73b6462c9012a",
+      "url": "https://jobright.ai/jobs/info/6a989de6c8ed473c5c765202",
       "location": "Niles, IL",
       "datePosted": 1792137737,
       "source": "newgrad-jobs",
@@ -562,105 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6ad22a92f04335fc70ed3362",
       "location": "United States",
       "datePosted": 1792133154,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd184dd113c967e3c7c101",
-      "company": "AtkinsR\u00e9alis",
-      "title": "Software Developer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6acd184dd113c967e3c7c101",
-      "location": "Denver, CO",
-      "datePosted": 1792132987,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab57afeb3db59402d0fcdee",
-      "company": "Astranis Space Technologies",
-      "title": "Software Developer, Network Software Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab57afeb3db59402d0fcdee",
-      "location": "San Francisco, CA",
-      "datePosted": 1792132954,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a982fd511f73b6462c8d0de",
-      "company": "Genuine Parts Company",
-      "title": "Software Engineer - QA Analyst Intern",
-      "url": "https://jobright.ai/jobs/info/6a982fd511f73b6462c8d0de",
-      "location": "Birmingham, AL",
-      "datePosted": 1792132047,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6d3d98ff3fb9b3bc8f5d1",
-      "company": "State Street",
-      "title": "Software Developer - Officer",
-      "url": "https://jobright.ai/jobs/info/6ac6d3d98ff3fb9b3bc8f5d1",
-      "location": "Princeton, NJ; Quincy, MA",
-      "datePosted": 1792131183,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad10f193d3a5aa909b37671",
-      "company": "Muon Space",
-      "title": "Ground Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad10f193d3a5aa909b37671",
-      "location": "San Jose, CA; Mountain View, CA",
-      "datePosted": 1792129703,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a983015dd171c7285790a65",
-      "company": "Genuine Parts Company",
-      "title": "Web Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a983015dd171c7285790a65",
-      "location": "Birmingham, AL",
-      "datePosted": 1792129073,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab554724873fd3fd8528f5b",
-      "company": "Mill",
-      "title": "Computer Vision Intern, Fall/Winter 2026",
-      "url": "https://jobright.ai/jobs/info/6ab554724873fd3fd8528f5b",
-      "location": "San Bruno, CA",
-      "datePosted": 1792128934,
-      "source": "newgrad-jobs",
-      "season": "Winter 2026",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad214ebf04335fc70ed2bd6",
-      "company": "Capgemini",
-      "title": "Software Engineer C++",
-      "url": "https://jobright.ai/jobs/info/6ad214ebf04335fc70ed2bd6",
-      "location": "Milano, TX",
-      "datePosted": 1792127611,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad25b2d83ada13a9da055f7",
-      "company": "Amalgamated Bank",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad25b2d83ada13a9da055f7",
-      "location": "New York, NY",
-      "datePosted": 1792127340,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

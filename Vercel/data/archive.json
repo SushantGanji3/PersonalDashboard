@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:40:16Z",
+  "generatedAt": "2026-10-16T18:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -716,6 +716,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792170617
+    },
+    {
+      "id": "newgrad-jobs:6ad261c4810010ec72f57b53",
+      "company": "State Street",
+      "title": "Junior SIEM Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad261c4810010ec72f57b53",
+      "location": "Quincy, MA",
+      "datePosted": 1792083600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792176616
     },
     {
       "id": "newgrad-jobs:6ad167383d3a5aa909b3a4cd",
@@ -47950,28 +47961,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789647616
-    },
-    {
-      "id": "newgrad-jobs:6a44e68a824ecd73beef1a4e",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Finnish Speakers",
-      "url": "https://jobright.ai/jobs/info/6a44e68a824ecd73beef1a4e",
-      "location": "California, United States; Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Austin, TX; Los Angeles, CA; Washington, DC; Chicago, IL; Boston, MA; Bellevue, WA",
-      "datePosted": 1789584133,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789613415
-    },
-    {
-      "id": "newgrad-jobs:6aab45428e1bf0f764af922d",
-      "company": "General Dynamics",
-      "title": "Systems Engineer \u2013 Secret Clearance required",
-      "url": "https://jobright.ai/jobs/info/6aab45428e1bf0f764af922d",
-      "location": "Dedham, MA",
-      "datePosted": 1789584082,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789613415
     }
   ]
 }
