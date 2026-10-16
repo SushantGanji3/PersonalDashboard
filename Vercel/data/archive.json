@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:50:17Z",
+  "generatedAt": "2026-10-16T00:00:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792104016
+    },
+    {
+      "id": "newgrad-jobs:6ad140abe2d41540d4a6f718",
+      "company": "Safran Defense & Space, Inc.",
+      "title": "Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ad140abe2d41540d4a6f718",
+      "location": "Bedford, NH",
+      "datePosted": 1792079170,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792108818
     },
     {
       "id": "newgrad-jobs:6a8fd5727c32860d14cf6d92",
@@ -49336,61 +49347,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789545620
-    },
-    {
-      "id": "simplify:28e7cce7-67d2-4001-b60a-26951a04ee0e",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
-      "location": "Marlborough, MA",
-      "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1789571415
-    },
-    {
-      "id": "simplify:9f477186-5000-4fe3-8151-4971b1c4abfb",
-      "company": "RTX",
-      "title": "Software Engineer Co-op - Winter/Spring 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": "Spring 2027",
-      "firstSeenAt": 1789600215
-    },
-    {
-      "id": "simplify:06c5700d-2702-4f7a-a7c1-e713c7de94a4",
-      "company": "RTX",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282",
-      "location": "Tucson, AZ",
-      "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790682016
-    },
-    {
-      "id": "simplify:f4abd014-83a4-4f62-b404-1fe28a2f422a",
-      "company": "RTX",
-      "title": "Receiver \u2013 Exciter - & Processing Architecture Software Engineer I",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475",
-      "location": "Marlborough, MA",
-      "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791123016
-    },
-    {
-      "id": "simplify:6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
-      "company": "RTX",
-      "title": "Software Engineer 1 - Test",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
-      "location": "Tucson, AZ",
-      "datePosted": 1789516800,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791299416
     }
   ]
 }
