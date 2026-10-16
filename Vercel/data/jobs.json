@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-16T01:30:21Z",
-  "totalOpen": 1240,
+  "generatedAt": "2026-10-16T01:40:20Z",
+  "totalOpen": 1239,
   "totalNewgrad": 252,
-  "totalOther": 988,
+  "totalOther": 987,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+      "location": "Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA",
+      "datePosted": 1792113725,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:abedfbfb-5d56-4e56-a4bc-2ce1b5424f8d",
+      "company": "Abridge",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
+      "location": "SF",
+      "datePosted": 1792113271,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
       "company": "Cisco",
@@ -46,6 +68,50 @@
       "location": "Pittsburgh, PA, NYC",
       "datePosted": 1792101723,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad1709e3d3a5aa909b3a755",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ad1709e3d3a5aa909b3a755",
+      "location": "San Jose, CA",
+      "datePosted": 1792085550,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a7608cf4817aa43070464d8",
+      "company": "TikTok",
+      "title": "Backend Software Engineer - PDPO - Offense & Defense - PDPO",
+      "url": "https://jobright.ai/jobs/info/6a7608cf4817aa43070464d8",
+      "location": "San Jose, CA",
+      "datePosted": 1792085521,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a701a1ef5953013637f726e",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a701a1ef5953013637f726e",
+      "location": "San Jose, CA",
+      "datePosted": 1792085400,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad14fed256e49282e654574",
+      "company": "Etched",
+      "title": "Internal Acceleration, Research Engineer (ASIC)",
+      "url": "https://jobright.ai/jobs/info/6ad14fed256e49282e654574",
+      "location": "San Jose, CA",
+      "datePosted": 1792084927,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -358,17 +424,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad14fed256e49282e654574",
-      "company": "Etched",
-      "title": "Internal Acceleration, Research Engineer (ASIC)",
-      "url": "https://jobright.ai/jobs/info/6ad14fed256e49282e654574",
-      "location": "San Jose, CA",
-      "datePosted": 1792077181,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad14f12a4f99fef8194382c",
       "company": "Expedition Technology",
       "title": "Summer 2027 Internship in Digital Signal Processng and Machine Learning - R148",
@@ -463,17 +518,6 @@
       "url": "https://jobright.ai/jobs/info/6ad14552256e49282e654082",
       "location": "Baton Rouge, LA",
       "datePosted": 1792074466,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad13c41a4f99fef81942efb",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ad13c41a4f99fef81942efb",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792072145,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -683,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6ad12ef4256e49282e6534ae",
       "location": "Aguadilla, PR",
       "datePosted": 1792068740,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab538f0634ec6aa7c0cdad9",
-      "company": "Cisco",
-      "title": "Machine Learning Engineer II (Intern) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6ab538f0634ec6aa7c0cdad9",
-      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
-      "datePosted": 1792068295,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab538ed4873fd3fd852848d",
-      "company": "Cisco",
-      "title": "Machine Learning Engineer I (Intern) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6ab538ed4873fd3fd852848d",
-      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
-      "datePosted": 1792068295,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1299,28 +1321,6 @@
       "url": "https://lifeattiktok.com/search/7670685495206857013",
       "location": "Seattle, WA",
       "datePosted": 1791584202,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:87c12d78-b4ea-404f-bbdb-ed520fbd0363",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
-      "url": "https://www.metacareers.com/jobs/1674394627579563",
-      "location": "Redmond, WA",
-      "datePosted": 1791584162,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:babf8103-ce88-446d-ae83-d600bf03ebdc",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
-      "url": "https://www.metacareers.com/jobs/2211974449401350",
-      "location": "Burlingame, CA, Redmond, WA",
-      "datePosted": 1791555240,
       "source": "aggregator",
       "season": null,
       "isNew": false
