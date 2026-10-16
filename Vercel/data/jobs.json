@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-16T10:54:57Z",
-  "totalOpen": 1234,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-10-16T11:00:21Z",
+  "totalOpen": 1233,
+  "totalNewgrad": 244,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792118809,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ab56fb9d85922de20ce113b",
       "company": "Equinix",
@@ -14,6 +25,17 @@
       "datePosted": 1792118486,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7cd1d6d77e8156a8e34665",
+      "company": "WD",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a7cd1d6d77e8156a8e34665",
+      "location": "Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN; San Jose, CA",
+      "datePosted": 1792118344,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -534,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
       "location": "Ashburn, VA",
       "datePosted": 1792082046,
       "source": "newgrad-jobs",
@@ -727,28 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6ad1520a256e49282e654665",
       "location": "Brisbane, CA",
       "datePosted": 1792077722,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad150e5256e49282e6545ec",
-      "company": "Ryzoe",
-      "title": "Trainee (Intern) Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad150e5256e49282e6545ec",
-      "location": "United States",
-      "datePosted": 1792077429,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad125c9e2d41540d4a6ea39",
-      "company": "OpenGov Inc.",
-      "title": "Intern, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad125c9e2d41540d4a6ea39",
-      "location": "Boston, MA",
-      "datePosted": 1792075861,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
