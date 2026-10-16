@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-16T15:10:15Z",
-  "totalOpen": 1220,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-10-16T15:15:31Z",
+  "totalOpen": 1221,
+  "totalNewgrad": 232,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad22f4b25289a0b3bf548d7",
+      "company": "Atlas Air",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad22f4b25289a0b3bf548d7",
+      "location": "Erlanger, KY; Miami, FL",
+      "datePosted": 1792134363,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ad22c53c4290cef14128b6c",
       "company": "Nelson Tree Service, LLC",
@@ -23,6 +34,17 @@
       "url": "https://jobright.ai/jobs/info/6ab538ee9d4843569fe487d1",
       "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
       "datePosted": 1792133207,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab538f0634ec6aa7c0cdad9",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer II (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab538f0634ec6aa7c0cdad9",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1792133195,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -727,28 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6ad14fed256e49282e654574",
       "location": "San Jose, CA",
       "datePosted": 1792084927,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1500ae2d41540d4a6fe15",
-      "company": "Etched",
-      "title": "Internal Acceleration, Research Engineer (Production)",
-      "url": "https://jobright.ai/jobs/info/6ad1500ae2d41540d4a6fe15",
-      "location": "San Jose, CA",
-      "datePosted": 1792084182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad14fffe2d41540d4a6fe0d",
-      "company": "Etched",
-      "title": "Internal Acceleration, Research Engineer (Kernels)",
-      "url": "https://jobright.ai/jobs/info/6ad14fffe2d41540d4a6fe0d",
-      "location": "San Jose, CA",
-      "datePosted": 1792084125,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
