@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:30:19Z",
+  "generatedAt": "2026-10-16T13:40:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -408,6 +408,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1792153216
+    },
+    {
+      "id": "newgrad-jobs:6ad21da425289a0b3bf54345",
+      "company": "Altice USA",
+      "title": "Site Reliability Engineer, IP",
+      "url": "https://jobright.ai/jobs/info/6ad21da425289a0b3bf54345",
+      "location": "Bethpage, NY",
+      "datePosted": 1792083600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792158017
     },
     {
       "id": "newgrad-jobs:6ad167383d3a5aa909b3a4cd",
@@ -48467,39 +48478,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789595416
-    },
-    {
-      "id": "newgrad-jobs:6a680f9f2bf1fb2b719283ca",
-      "company": "Center for AI Safety",
-      "title": "Research Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a680f9f2bf1fb2b719283ca",
-      "location": "San Francisco, CA",
-      "datePosted": 1789565985,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789595416
-    },
-    {
-      "id": "newgrad-jobs:6aaafcb576707040fb0836db",
-      "company": "Renesas Electronics",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aaafcb576707040fb0836db",
-      "location": "San Jose, CA",
-      "datePosted": 1789565509,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789594217
-    },
-    {
-      "id": "newgrad-jobs:6a765c34a26ccc369f834fee",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a765c34a26ccc369f834fee",
-      "location": "San Jose, CA",
-      "datePosted": 1789565490,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789594217
     }
   ]
 }
