@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-16T15:20:19Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-10-16T15:30:18Z",
+  "totalOpen": 1219,
+  "totalNewgrad": 230,
   "totalOther": 989,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad230c225289a0b3bf5497b",
+      "company": "Horizon Lane",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad230c225289a0b3bf5497b",
+      "location": "Rochester, NY",
+      "datePosted": 1792134738,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ad22f4b25289a0b3bf548d7",
       "company": "Atlas Air",
@@ -61,6 +72,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab538f0634ec6aa7c0cdad9",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer II (Intern) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ab538f0634ec6aa7c0cdad9",
+      "location": "San Jose, CA; Milpitas, CA; Durham, NC; San Francisco, CA",
+      "datePosted": 1792133195,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ad22a9e810010ec72f55b33",
       "company": "Torentify",
       "title": "Data Engineer I - Remote",
@@ -102,6 +124,17 @@
       "datePosted": 1792132954,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab57ae9c6fe0dec811a140e",
+      "company": "Astranis Space Technologies",
+      "title": "Software Developer, Network Software Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab57ae9c6fe0dec811a140e",
+      "location": "San Francisco, CA",
+      "datePosted": 1792132835,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -234,7 +267,7 @@
       "datePosted": 1792124311,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab596344873fd3fd852aed3",
@@ -268,6 +301,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7ccc65d77e8156a8e34520",
+      "company": "WD",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a7ccc65d77e8156a8e34520",
+      "location": "San Jose, CA; Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN",
+      "datePosted": 1792120777,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad1f882977ae951c8e018ae",
@@ -366,17 +410,6 @@
       "datePosted": 1792118452,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7cd1d6d77e8156a8e34665",
-      "company": "WD",
-      "title": "Summer 2027 Intern - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a7cd1d6d77e8156a8e34665",
-      "location": "Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN; San Jose, CA",
-      "datePosted": 1792118344,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -622,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acf8ec4c0dd9da253cf32b8",
-      "company": "Assurant",
-      "title": "Summer 2027 Intern: Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6acf8ec4c0dd9da253cf32b8",
-      "location": "Atlanta, GA; Chicago, IL; Miami, FL",
-      "datePosted": 1792094455,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad13539a4f99fef81942b0c",
       "company": "S&P Global",
       "title": "Machine Learning Operations Engineer I",
@@ -688,34 +710,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac6c753dbb1f8967cea9d1",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineer, Intern",
-      "url": "https://jobright.ai/jobs/info/6aac6c753dbb1f8967cea9d1",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1792089844,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad13a5dae21edea94fd4950",
       "company": "Holland, L.P.",
       "title": "Computer Vision Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6ad13a5dae21edea94fd4950",
       "location": "University Park, IL",
       "datePosted": 1792088377,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1742fae21edea94fd6389",
-      "company": "AiDASH",
-      "title": "Software Engineering Intern, Backend",
-      "url": "https://jobright.ai/jobs/info/6ad1742fae21edea94fd6389",
-      "location": "Palo Alto, CA",
-      "datePosted": 1792087910,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
