@@ -1,20 +1,31 @@
 {
-  "generatedAt": "2026-10-17T12:00:18Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 230,
-  "totalOther": 992,
+  "generatedAt": "2026-10-17T12:10:17Z",
+  "totalOpen": 1218,
+  "totalNewgrad": 227,
+  "totalOther": 991,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6ad357a05290d4375c456929",
-      "company": "Spectrum",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad357a05290d4375c456929",
-      "location": "St. Louis, MO",
-      "datePosted": 1792210224,
+      "id": "newgrad-jobs:6a9b4f299c24314c35f98e12",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Connected Systems (January - August 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9b4f299c24314c35f98e12",
+      "location": "Irvine, CA; Palo Alto, CA",
+      "datePosted": 1792211289,
       "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3a9104233a2201a2b2b73",
+      "company": "Trihydro Corporation",
+      "title": "Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3a9104233a2201a2b2b73",
+      "location": "Fort Collins, CO; Laramie, WY; Sheridan, WY",
+      "datePosted": 1792210814,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a99c95213883870605905c9",
@@ -25,7 +36,7 @@
       "datePosted": 1792209567,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9b3a1f9c24314c35f986f3",
@@ -116,6 +127,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab6de6cd7fde2c08ec89e19",
+      "company": "DoorDash",
+      "title": "Machine Learning Intern (Masters) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ab6de6cd7fde2c08ec89e19",
+      "location": "San Francisco, CA; Sunnyvale, CA; New York, NY; Seattle, WA",
+      "datePosted": 1792203684,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ab2f0b71508734c1530cb60",
       "company": "Clearwater Analytics",
       "title": "Quantitative Developer I",
@@ -146,17 +168,6 @@
       "datePosted": 1792202805,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6de6cd7fde2c08ec89e19",
-      "company": "DoorDash",
-      "title": "Machine Learning Intern (Masters) - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ab6de6cd7fde2c08ec89e19",
-      "location": "San Francisco, CA; Sunnyvale, CA; New York, NY; Seattle, WA",
-      "datePosted": 1792202745,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -344,7 +355,7 @@
       "datePosted": 1792183823,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad2e2ebc4290cef1412d6b1",
@@ -589,45 +600,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad297ce5290d4375c4541f3",
-      "company": "Booz Allen Hamilton",
-      "title": "University, Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ad297ce5290d4375c4541f3",
-      "location": "Fayetteville, NC",
-      "datePosted": 1792162515,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad29a02c4290cef1412c149",
-      "company": "General Dynamics",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ad29a02c4290cef1412c149",
-      "location": "Manassas, VA",
-      "datePosted": 1792161682,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad27976810010ec72f584bf",
       "company": "Amalgamated Bank",
       "title": "AI Engineer",
       "url": "https://jobright.ai/jobs/info/6ad27976810010ec72f584bf",
       "location": "New York, NY",
       "datePosted": 1792159772,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad28e91c4290cef1412b9b1",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Aurora CO",
-      "url": "https://jobright.ai/jobs/info/6ad28e91c4290cef1412b9b1",
-      "location": "Aurora, CO",
-      "datePosted": 1792158753,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -666,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abfddf9d9621c5b28394d5a",
-      "company": "Enterprise Mobility",
-      "title": "Intern - Systems Engineer, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abfddf9d9621c5b28394d5a",
-      "location": "St. Louis, MO; Brentwood, MO; Richmond Heights, MO; Clayton, MO; Maplewood, MO",
-      "datePosted": 1792156717,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
       "company": "Adobe",
       "title": "2027 Intern - Machine Learning Engineer",
@@ -696,6 +663,39 @@
       "datePosted": 1792154760,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6dfaf8ff3fb9b3bc8f747",
+      "company": "Amazon",
+      "title": "Data Engineer Internship - 2027 (US)",
+      "url": "https://jobright.ai/jobs/info/6ac6dfaf8ff3fb9b3bc8f747",
+      "location": "Seattle, WA",
+      "datePosted": 1792154760,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acd4369a56e5406e57c0703",
+      "company": "Apple",
+      "title": "Platform & Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6acd4369a56e5406e57c0703",
+      "location": "Cupertino, CA",
+      "datePosted": 1792154622,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
+      "location": "Seattle, WA",
+      "datePosted": 1792154622,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -770,17 +770,6 @@
       "title": "Associate Embedded Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate--Embedded-Software-Engineer---Rolling-Meadows-IL_R10256390-1",
       "location": "Rolling Meadows, IL",
-      "datePosted": 1792108800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b5a395ae-42f1-46ba-a288-7d34298231bc",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer - Pathways",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
-      "location": "Dulles, VA",
       "datePosted": 1792108800,
       "source": "aggregator",
       "season": null,
@@ -1320,6 +1309,17 @@
       "title": "Entry-Level Software Engineer Developer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
       "location": "Richardson, TX",
+      "datePosted": 1791849600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:664f484e-e080-4fb3-be9b-ace5f9872240",
+      "company": "NVIDIA",
+      "title": "SoC Software Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+      "location": "Santa Clara, CA",
       "datePosted": 1791849600,
       "source": "aggregator",
       "season": null,
