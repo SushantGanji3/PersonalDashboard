@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:00:18Z",
+  "generatedAt": "2026-10-17T05:10:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792192217
+    },
+    {
+      "id": "newgrad-jobs:6ad2f58dc4290cef1412d8d2",
+      "company": "Abnormal AI",
+      "title": "Software Engineer 1 - Cloud Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ad2f58dc4290cef1412d8d2",
+      "location": "United States",
+      "datePosted": 1792185117,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792213815
     },
     {
       "id": "newgrad-jobs:6ad2e2ebc4290cef1412d6b1",
@@ -47939,17 +47950,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789719617
-    },
-    {
-      "id": "newgrad-jobs:6aabd7233e3ce93970c7a71b",
-      "company": "Unity",
-      "title": "Software Engineer, XR",
-      "url": "https://jobright.ai/jobs/info/6aabd7233e3ce93970c7a71b",
-      "location": "Bellevue, WA",
-      "datePosted": 1789621427,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789650023
     }
   ]
 }

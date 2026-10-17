@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:00:18Z",
+  "generatedAt": "2026-10-17T05:10:15Z",
   "totalOpen": 1236,
   "totalNewgrad": 243,
   "totalOther": 993,
@@ -37,6 +37,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad2f58dc4290cef1412d8d2",
+      "company": "Abnormal AI",
+      "title": "Software Engineer 1 - Cloud Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ad2f58dc4290cef1412d8d2",
+      "location": "United States",
+      "datePosted": 1792185117,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad2e2ebc4290cef1412d6b1",
@@ -683,17 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6a99a47f551435518ebf0083",
       "location": "Dahlgren, VA",
       "datePosted": 1792151702,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad2e13e5290d4375c45579e",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "z/OS Core Technologies Back End Developer Intern 2027 - Poughkeepsie",
-      "url": "https://jobright.ai/jobs/info/6ad2e13e5290d4375c45579e",
-      "location": "Poughkeepsie, AR",
-      "datePosted": 1792151097,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
