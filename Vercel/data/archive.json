@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:50:27Z",
+  "generatedAt": "2026-10-17T12:00:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -166,6 +166,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792213815
+    },
+    {
+      "id": "newgrad-jobs:6a7e4c120cd4a0703257f2ca",
+      "company": "Applied Intuition",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7e4c120cd4a0703257f2ca",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792183823,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792238418
     },
     {
       "id": "newgrad-jobs:6ad2e2ebc4290cef1412d6b1",
@@ -47301,39 +47312,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789676420
-    },
-    {
-      "id": "newgrad-jobs:6aac37e22e757fcb5c8b4709",
-      "company": "IBM",
-      "title": "Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY",
-      "url": "https://jobright.ai/jobs/info/6aac37e22e757fcb5c8b4709",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1789646194,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789675219
-    },
-    {
-      "id": "newgrad-jobs:6a99b40a551435518ebf07ee",
-      "company": "Truveta",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a99b40a551435518ebf07ee",
-      "location": "Seattle, WA",
-      "datePosted": 1789646031,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789675219
-    },
-    {
-      "id": "newgrad-jobs:6aac85ba3dbb1f8967ceaf08",
-      "company": "NS2 Mission",
-      "title": "Java Developer (Junior-Mid level)",
-      "url": "https://jobright.ai/jobs/info/6aac85ba3dbb1f8967ceaf08",
-      "location": "Chantilly, VA",
-      "datePosted": 1789645920,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789696216
     }
   ]
 }

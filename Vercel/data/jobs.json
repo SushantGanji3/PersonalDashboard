@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T11:50:27Z",
-  "totalOpen": 1225,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-10-17T12:00:18Z",
+  "totalOpen": 1222,
+  "totalNewgrad": 230,
   "totalOther": 992,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,17 @@
       "datePosted": 1792210224,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a99c95213883870605905c9",
+      "company": "Torc Robotics",
+      "title": "Software Engineer, I - Data Engineering",
+      "url": "https://jobright.ai/jobs/info/6a99c95213883870605905c9",
+      "location": "United States",
+      "datePosted": 1792209567,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -25,7 +36,7 @@
       "datePosted": 1792208576,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac7f02bfe8f33a85d4fe20d",
@@ -56,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6",
       "location": "Baltimore, MD; McLean, VA; Arlington, VA; Richmond, VA; Washington, DC",
       "datePosted": 1792206454,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792206367,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -105,17 +127,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1792203399,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac97248fe8f33a85d503ec0",
       "company": "Atlassian",
       "title": "Research Intern, 2027 Summer U.S.",
@@ -135,7 +146,7 @@
       "datePosted": 1792202805,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab6de6cd7fde2c08ec89e19",
@@ -323,6 +334,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7e4c120cd4a0703257f2ca",
+      "company": "Applied Intuition",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7e4c120cd4a0703257f2ca",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792183823,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad2e2ebc4290cef1412d6b1",
@@ -672,28 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
       "location": "San Francisco, CA; New York, NY",
       "datePosted": 1792154760,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6dfaf8ff3fb9b3bc8f747",
-      "company": "Amazon",
-      "title": "Data Engineer Internship - 2027 (US)",
-      "url": "https://jobright.ai/jobs/info/6ac6dfaf8ff3fb9b3bc8f747",
-      "location": "Seattle, WA",
-      "datePosted": 1792154760,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd4369a56e5406e57c0703",
-      "company": "Apple",
-      "title": "Platform & Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6acd4369a56e5406e57c0703",
-      "location": "Cupertino, CA",
-      "datePosted": 1792154622,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
