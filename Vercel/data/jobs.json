@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T12:10:17Z",
-  "totalOpen": 1218,
-  "totalNewgrad": 227,
+  "generatedAt": "2026-10-17T12:20:16Z",
+  "totalOpen": 1214,
+  "totalNewgrad": 223,
   "totalOther": 991,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792211289,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa3a9104233a2201a2b2b73",
@@ -25,7 +25,7 @@
       "datePosted": 1792210814,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a99c95213883870605905c9",
@@ -34,6 +34,17 @@
       "url": "https://jobright.ai/jobs/info/6a99c95213883870605905c9",
       "location": "United States",
       "datePosted": 1792209567,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab69d80d85922de20ce59f8",
+      "company": "Deloitte",
+      "title": "Frontend Developer, Palantir",
+      "url": "https://jobright.ai/jobs/info/6ab69d80d85922de20ce59f8",
+      "location": "Baltimore, MD; McLean, VA; Arlington, VA; Richmond, VA; Washington, DC",
+      "datePosted": 1792208718,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -116,12 +127,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab69d80d85922de20ce59f8",
-      "company": "Deloitte",
-      "title": "Frontend Developer, Palantir",
-      "url": "https://jobright.ai/jobs/info/6ab69d80d85922de20ce59f8",
-      "location": "Baltimore, MD; McLean, VA; Arlington, VA; Richmond, VA; Washington, DC",
-      "datePosted": 1792205208,
+      "id": "newgrad-jobs:6a7f6404ad9ff00c26baded5",
+      "company": "Crowe",
+      "title": "Machine Learning Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6a7f6404ad9ff00c26baded5",
+      "location": "Chicago, IL; Washington, DC; Tallahassee, FL; Sarasota, FL; Hartford, CT; Nashville, TN; Costa Mesa, CA; San Jose, CA; Boston, MA; Burlington, VT; Cleveland, OH; Columbus, OH; Dallas, TX; Denver, CO; Fort Wayne, IN; Grand Rapids, MI; Indianapolis, IN; Knoxville, TN; Lexington, KY; Plano, TX; Livingston, NJ; Louisville, KY; Miami, FL; Los Angeles, CA; The Woodlands, TX; New York, NY; Oakbrook Terrace, IL; Sacramento, CA; San Francisco, CA; South Bend, IN; Springfield, IL; Tampa, FL; Boca Raton, FL; Houston, TX; Austin, TX; Charlotte, NC",
+      "datePosted": 1792204215,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -166,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6ad356cf810010ec72f5b9c7",
       "location": "United States",
       "datePosted": 1792202805,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7f6404ad9ff00c26baded5",
-      "company": "Crowe",
-      "title": "Machine Learning Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6a7f6404ad9ff00c26baded5",
-      "location": "Chicago, IL; Washington, DC; Tallahassee, FL; Sarasota, FL; Hartford, CT; Nashville, TN; Costa Mesa, CA; San Jose, CA; Boston, MA; Burlington, VT; Cleveland, OH; Columbus, OH; Dallas, TX; Denver, CO; Fort Wayne, IN; Grand Rapids, MI; Indianapolis, IN; Knoxville, TN; Lexington, KY; Plano, TX; Livingston, NJ; Louisville, KY; Miami, FL; Los Angeles, CA; The Woodlands, TX; New York, NY; Oakbrook Terrace, IL; Sacramento, CA; San Francisco, CA; South Bend, IN; Springfield, IL; Tampa, FL; Boca Raton, FL; Houston, TX; Austin, TX; Charlotte, NC",
-      "datePosted": 1792202705,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -600,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad27976810010ec72f584bf",
+      "id": "newgrad-jobs:6ad25b2d83ada13a9da055f7",
       "company": "Amalgamated Bank",
       "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad27976810010ec72f584bf",
+      "url": "https://jobright.ai/jobs/info/6ad25b2d83ada13a9da055f7",
       "location": "New York, NY",
       "datePosted": 1792159772,
       "source": "newgrad-jobs",
