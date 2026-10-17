@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:20:14Z",
+  "generatedAt": "2026-10-17T01:30:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792199416
+    },
+    {
+      "id": "newgrad-jobs:6ad2bf6b810010ec72f59bdc",
+      "company": "Planview",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad2bf6b810010ec72f59bdc",
+      "location": "United States",
+      "datePosted": 1792171259,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792200616
     },
     {
       "id": "newgrad-jobs:6ad1417be2d41540d4a6f783",
@@ -48016,17 +48027,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789639816
-    },
-    {
-      "id": "newgrad-jobs:6aabef413e3ce93970c7ac12",
-      "company": "General Dynamics",
-      "title": "Junior Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aabef413e3ce93970c7ac12",
-      "location": "Dedham, MA",
-      "datePosted": 1789608540,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789657013
     }
   ]
 }
