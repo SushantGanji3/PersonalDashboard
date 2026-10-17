@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-17T10:20:14Z",
-  "totalOpen": 1237,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-10-17T10:30:18Z",
+  "totalOpen": 1231,
+  "totalNewgrad": 239,
   "totalOther": 992,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad340695290d4375c45658b",
+      "company": "Spectrum",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad340695290d4375c45658b",
+      "location": "Town and Country, MO",
+      "datePosted": 1792204281,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab680f44873fd3fd852d7b6",
       "company": "Deloitte",
@@ -14,7 +25,7 @@
       "datePosted": 1792204163,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab69d80d85922de20ce59f8",
@@ -25,7 +36,29 @@
       "datePosted": 1792204163,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2f0b71508734c1530cb60",
+      "company": "Clearwater Analytics",
+      "title": "Quantitative Developer I",
+      "url": "https://jobright.ai/jobs/info/6ab2f0b71508734c1530cb60",
+      "location": "New York, NY",
+      "datePosted": 1792203642,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792203399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac97248fe8f33a85d503ec0",
@@ -36,7 +69,7 @@
       "datePosted": 1792202910,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab6de6cd7fde2c08ec89e19",
@@ -47,7 +80,7 @@
       "datePosted": 1792202745,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7f6404ad9ff00c26baded5",
@@ -58,7 +91,7 @@
       "datePosted": 1792202705,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a714fd0ee751e0c7934335d",
@@ -490,17 +523,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1792162505,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad29a02c4290cef1412c149",
       "company": "General Dynamics",
       "title": "Software Engineering Intern",
@@ -523,10 +545,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad25b2d83ada13a9da055f7",
+      "id": "newgrad-jobs:6ad27976810010ec72f584bf",
       "company": "Amalgamated Bank",
       "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad25b2d83ada13a9da055f7",
+      "url": "https://jobright.ai/jobs/info/6ad27976810010ec72f584bf",
       "location": "New York, NY",
       "datePosted": 1792159772,
       "source": "newgrad-jobs",
@@ -674,28 +696,6 @@
       "datePosted": 1792154622,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfe7e0064da25272e0696d",
-      "company": "Temple University",
-      "title": "Web Developer (Enrollment Management)",
-      "url": "https://jobright.ai/jobs/info/6abfe7e0064da25272e0696d",
-      "location": "Philadelphia, PA",
-      "datePosted": 1792154589,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad27dbe25289a0b3bf57143",
-      "company": "FWI (FedWriters, Inc.)",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad27dbe25289a0b3bf57143",
-      "location": "Arlington, VA",
-      "datePosted": 1792154446,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
