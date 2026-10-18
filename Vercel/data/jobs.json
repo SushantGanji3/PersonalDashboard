@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-18T11:30:18Z",
-  "totalOpen": 1258,
-  "totalNewgrad": 263,
-  "totalOther": 995,
+  "generatedAt": "2026-10-18T11:40:16Z",
+  "totalOpen": 1253,
+  "totalNewgrad": 259,
+  "totalOther": 994,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a45726148d2f00f2a86d969",
+      "company": "Seven Research, LLC",
+      "title": "Algorithmic Developer - Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6a45726148d2f00f2a86d969",
+      "location": "New York, NY",
+      "datePosted": 1792297194,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad2498825289a0b3bf55943",
+      "company": "Bessemer Trust",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ad2498825289a0b3bf55943",
+      "location": "Woodbridge Township, NJ",
+      "datePosted": 1792295325,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a6765f5d0fb4c3df393c993",
       "company": "Whoop",
@@ -644,28 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a7f55b1e2030208f276d2ce",
-      "company": "SpaceX",
-      "title": "Satellite On-Orbit Operations Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a7f55b1e2030208f276d2ce",
-      "location": "Redmond, WA",
-      "datePosted": 1792230541,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
-      "datePosted": 1792230055,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:fcaabe5a-3ec2-4cfa-9c3e-0a37447d5f83",
       "company": "Together AI",
       "title": "Research Intern, Frontier Speculative Decoding",
@@ -782,17 +782,6 @@
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate--Embedded-Software-Engineer---Rolling-Meadows-IL_R10256390-1",
       "location": "Rolling Meadows, IL",
       "datePosted": 1792108800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
-      "company": "Cisco",
-      "title": "Software Engineer",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271",
-      "location": "Milpitas, CA",
-      "datePosted": 1792103978,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1324,6 +1313,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:f3cfcfb6-329b-4efb-a4f3-b982703d0448",
+      "company": "ServiceNow",
+      "title": "Associate Software Engineer Intern, AI Engineering",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791874800,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     }
   ]
 }
