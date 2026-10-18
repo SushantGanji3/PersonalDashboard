@@ -1,20 +1,42 @@
 {
-  "generatedAt": "2026-10-18T23:00:17Z",
-  "totalOpen": 1252,
-  "totalNewgrad": 259,
-  "totalOther": 993,
+  "generatedAt": "2026-10-18T23:10:15Z",
+  "totalOpen": 1255,
+  "totalNewgrad": 261,
+  "totalOther": 994,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6a7f67b119ce4e6e9d9379a1",
-      "company": "Notion",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a7f67b119ce4e6e9d9379a1",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1792330928,
+      "id": "newgrad-jobs:6a51e08002522b5b722eceec",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Lead Ads) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a51e08002522b5b722eceec",
+      "location": "San Jose, CA",
+      "datePosted": 1792337597,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a86674c2f4f0014cae2996a",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
+      "url": "https://jobright.ai/jobs/info/6a86674c2f4f0014cae2996a",
+      "location": "Seattle, WA",
+      "datePosted": 1792337488,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a71a40ee2b7476e7b20ed8a",
+      "company": "TikTok",
+      "title": "(General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71a40ee2b7476e7b20ed8a",
+      "location": "San Jose, CA",
+      "datePosted": 1792337396,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7f67a1927c79391ad08af0",
@@ -22,10 +44,43 @@
       "title": "Software Engineer Intern (Winter 2027)",
       "url": "https://jobright.ai/jobs/info/6a7f67a1927c79391ad08af0",
       "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1792330915,
+      "datePosted": 1792336647,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad5342483ada13a9da0dc10",
+      "company": "Thales Defense & Security, Inc.",
+      "title": "Associate Embedded Software Engineer (DRT)",
+      "url": "https://jobright.ai/jobs/info/6ad5342483ada13a9da0dc10",
+      "location": "Germantown, MD",
+      "datePosted": 1792335680,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a7f67b119ce4e6e9d9379a1",
+      "company": "Notion",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a7f67b119ce4e6e9d9379a1",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1792335598,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a698aac47d8280e2784fb45",
+      "company": "Citadel",
+      "title": "Software Engineer \u2013 Intern (US)",
+      "url": "https://jobright.ai/jobs/info/6a698aac47d8280e2784fb45",
+      "location": "New York, NY; Miami, FL; Houston, TX; Greenwich, CT",
+      "datePosted": 1792335282,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a4ec9c8fc327f422fef4285",
@@ -193,17 +248,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad52804f04335fc70edd266",
-      "company": "Citadel",
-      "title": "Software Engineer \u2013 Intern (US)",
-      "url": "https://jobright.ai/jobs/info/6ad52804f04335fc70edd266",
-      "location": "New York, NY; Miami, FL; Houston, TX; Greenwich, CT",
-      "datePosted": 1792329108,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab6aa079d4843569fe4eb82",
       "company": "IBM",
       "title": "Summer Research Intern 2027 - Edge communications processing with AI accelerators",
@@ -215,10 +259,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
       "location": "Ashburn, VA",
       "datePosted": 1792325601,
       "source": "newgrad-jobs",
@@ -617,50 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55",
       "location": "Fremont, CA",
       "datePosted": 1792302678,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:683df139abb1ff44979fe7bb",
-      "company": "Neuralink",
-      "title": "Software Engineer, BCI Applications",
-      "url": "https://jobright.ai/jobs/info/683df139abb1ff44979fe7bb",
-      "location": "Fremont, CA",
-      "datePosted": 1792302140,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a545587d007ee02d95fe785",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, Robotics",
-      "url": "https://jobright.ai/jobs/info/6a545587d007ee02d95fe785",
-      "location": "Austin, TX; South San Francisco, CA",
-      "datePosted": 1792302088,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9aeee990a313642c656bfa",
-      "company": "Huntington National Bank",
-      "title": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
-      "url": "https://jobright.ai/jobs/info/6a9aeee990a313642c656bfa",
-      "location": "Minnetonka, MN; Columbus, OH",
-      "datePosted": 1792301330,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abf6d08372c01f6cd727ece",
-      "company": "ShopBack",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abf6d08372c01f6cd727ece",
-      "location": "United States",
-      "datePosted": 1792300865,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
