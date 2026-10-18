@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T08:20:17Z",
-  "totalOpen": 1266,
-  "totalNewgrad": 271,
+  "generatedAt": "2026-10-18T08:30:17Z",
+  "totalOpen": 1267,
+  "totalNewgrad": 272,
   "totalOther": 995,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792284961,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad47b04810010ec72f5e42b",
@@ -25,7 +25,7 @@
       "datePosted": 1792284820,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab744c081e327c4bf203101",
@@ -34,6 +34,17 @@
       "url": "https://jobright.ai/jobs/info/6ab744c081e327c4bf203101",
       "location": "Laurel, MD",
       "datePosted": 1792283892,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad4769c83ada13a9da0c1e5",
+      "company": "BioSpace",
+      "title": "Labware LIMS Developer",
+      "url": "https://jobright.ai/jobs/info/6ad4769c83ada13a9da0c1e5",
+      "location": "West Virginia, United States; Limerick, LK",
+      "datePosted": 1792283692,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -47,7 +58,7 @@
       "datePosted": 1792282994,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a18160eda5948e8d487",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e2db32c964816f65ebd7e",
       "location": "Chicago, IL",
       "datePosted": 1792229055,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a534f5d8576ec69c014f57f",
-      "company": "The D. E. Shaw Group",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a534f5d8576ec69c014f57f",
-      "location": "New York, NY",
-      "datePosted": 1792229032,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
