@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T05:00:21Z",
+  "generatedAt": "2026-10-19T05:10:14Z",
   "totalOpen": 1258,
-  "totalNewgrad": 262,
-  "totalOther": 996,
+  "totalNewgrad": 264,
+  "totalOther": 994,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad5a124810010ec72f60cbc",
+      "company": "Venture Lark",
+      "title": "Programmer Analyst Intern",
+      "url": "https://jobright.ai/jobs/info/6ad5a124810010ec72f60cbc",
+      "location": "United States",
+      "datePosted": 1792360116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad59e54c4290cef14133b5a",
+      "company": "RcruitLync",
+      "title": "Machine Learning Intern",
+      "url": "https://jobright.ai/jobs/info/6ad59e54c4290cef14133b5a",
+      "location": "Dover, PA",
+      "datePosted": 1792359396,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad59d0febd52f378af904a6",
+      "company": "Siemens",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad59d0febd52f378af904a6",
+      "location": "Minnetonka, MN",
+      "datePosted": 1792359071,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a254876d46c0f79960882ec",
+      "company": "TikTok",
+      "title": "Research Engineer/Scientist(all levels), Efficient Models",
+      "url": "https://jobright.ai/jobs/info/6a254876d46c0f79960882ec",
+      "location": "San Jose, CA",
+      "datePosted": 1792359070,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8667462f4f0014cae29968",
@@ -633,50 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aafc3060ebc8fb2313ee0c3",
-      "company": "IEX",
-      "title": "Platform Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aafc3060ebc8fb2313ee0c3",
-      "location": "New York, NY",
-      "datePosted": 1792305941,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aafc2ff3d96632d741b25da",
-      "company": "IEX",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aafc2ff3d96632d741b25da",
-      "location": "New York, NY",
-      "datePosted": 1792305936,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad4e85b83ada13a9da0d01d",
-      "company": "Torentify",
-      "title": "AI Engineer - WFH",
-      "url": "https://jobright.ai/jobs/info/6ad4e85b83ada13a9da0d01d",
-      "location": "San Diego, CA",
-      "datePosted": 1792305590,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e2d36dacf777321a90aa8",
-      "company": "IBM",
-      "title": "Intern Application Developer \u2013 Salesforce - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e2d36dacf777321a90aa8",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1792304436,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:fcaabe5a-3ec2-4cfa-9c3e-0a37447d5f83",
       "company": "Together AI",
       "title": "Research Intern, Frontier Speculative Decoding",
@@ -1095,28 +1095,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:5402edff-285f-4440-9371-4a38361a8513",
-      "company": "L3Harris",
-      "title": "Associate Software Engineering",
-      "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439515500/?ats=successfactors",
-      "location": "Chantilly, VA",
-      "datePosted": 1791941819,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:468b0b25-a717-4435-bfd6-105806b9b5e4",
-      "company": "L3Harris",
-      "title": "Associate Software Engineering Intern",
-      "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors",
-      "location": "Chantilly, VA",
-      "datePosted": 1791941818,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:46b35ec8-88e8-4800-ad1a-d17665e52fa1",
       "company": "RTX",
       "title": "Electro-Optics Systems Engineer Intern",
@@ -1323,6 +1301,28 @@
       "datePosted": 1791929213,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:fe039ec3-7b08-4163-b255-eacd93a71314",
+      "company": "NVIDIA",
+      "title": "Differentiable Simulation Research Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791874800,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:f3cfcfb6-329b-4efb-a4f3-b982703d0448",
+      "company": "ServiceNow",
+      "title": "Associate Software Engineer Intern, AI Engineering",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
+      "location": "Santa Clara, CA",
+      "datePosted": 1791874800,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
