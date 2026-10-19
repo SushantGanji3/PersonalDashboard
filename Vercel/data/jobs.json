@@ -1,10 +1,98 @@
 {
-  "generatedAt": "2026-10-19T23:00:19Z",
-  "totalOpen": 1215,
+  "generatedAt": "2026-10-19T23:10:16Z",
+  "totalOpen": 1226,
   "totalNewgrad": 230,
-  "totalOther": 985,
+  "totalOther": 996,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+      "company": "Amazon",
+      "title": "Software Engineer \u2013 Early Career",
+      "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+      "location": "Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington County, Arlington, VA, Minneapolis, MN, Denver, CO",
+      "datePosted": 1792449569,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:1165ee3a-645d-4e2c-a540-85673700de1f",
+      "company": "Scale AI",
+      "title": "Machine Learning Research Intern",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+      "location": "SF, NYC",
+      "datePosted": 1792449249,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:f6a2b87f-8d79-42e5-b672-1818e34256c5",
+      "company": "Patreon",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true",
+      "location": "SF, NYC",
+      "datePosted": 1792449243,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a889da3c-0293-4e84-82f0-2a1461d9ef61",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Robotics Hardware",
+      "url": "https://www.metacareers.com/jobs/2105411693413958",
+      "location": "Redmond, WA",
+      "datePosted": 1792449188,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:f6f20555-4a84-437d-b1a6-7fd9a56e0046",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Smart Glasses in Wearables AI",
+      "url": "https://www.metacareers.com/jobs/1584033410435097",
+      "location": "Burlingame, CA, Menlo Park, CA",
+      "datePosted": 1792449186,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b8db69f4-9b3f-4c48-9334-daa51e9d5fc7",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
+      "url": "https://www.metacareers.com/jobs/2267351860492630",
+      "location": "Redmond, WA",
+      "datePosted": 1792449186,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:031e43ad-dfc9-4c7f-be98-c6616c6f60ab",
+      "company": "L3Harris",
+      "title": "Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Software-Engineer-CA-92009/1441501400/?ats=successfactors",
+      "location": "Carlsbad, CA",
+      "datePosted": 1792449178,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:685e432a-5583-46a1-a7ac-d9819bab8f8d",
+      "company": "Apple",
+      "title": "Software Engineer - IS&T",
+      "url": "https://jobs.apple.com/en-us/details/200688599",
+      "location": "Austin, TX",
+      "datePosted": 1792449035,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:39a2963a-48e4-4f01-a586-bd256301bf19",
       "company": "Point72",
@@ -699,6 +787,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:493f62d0-4330-4d5d-a6c4-73e8f8001b65",
+      "company": "RTX",
+      "title": "Software Engineering Co-op - Summer / Fall 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792368000,
+      "source": "aggregator",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
+      "id": "simplify:7b0c7936-f5ca-4813-a556-483b1e6edbf0",
+      "company": "General Dynamics",
+      "title": "Software Developer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+      "location": "Egg Harbor Township, NJ",
+      "datePosted": 1792368000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:fcaabe5a-3ec2-4cfa-9c3e-0a37447d5f83",
       "company": "Together AI",
       "title": "Research Intern, Frontier Speculative Decoding",
@@ -1213,116 +1323,6 @@
       "datePosted": 1791929715,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e7154c19-1906-4634-9226-1da16eb77416",
-      "company": "ServiceNow",
-      "title": "AI Engineering Associate Software Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
-      "location": "Santa Clara, CA, West Palm Beach, FL, Kirkland, WA, San Diego, CA",
-      "datePosted": 1791929238,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d6a59007-c376-4c64-b058-0ba8d130fb04",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
-      "url": "https://www.metacareers.com/jobs/1839680137188723",
-      "location": "Burlingame, CA, Redmond, WA, Sunnyvale, CA",
-      "datePosted": 1791929217,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7084a49e-3850-40ca-983c-00543e76c91a",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
-      "url": "https://www.metacareers.com/jobs/2988199118196184",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1791929216,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:16f3944c-2006-402c-b670-5e04679732c3",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Egocentric Vision-Language Models",
-      "url": "https://www.metacareers.com/jobs/2067000203934229",
-      "location": "Redmond, WA, Sunnyvale, CA",
-      "datePosted": 1791929216,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f2895a6a-273a-415c-b0e0-977de7af90e6",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
-      "url": "https://www.metacareers.com/jobs/1139865145249047",
-      "location": "Redmond, WA, Sunnyvale, CA",
-      "datePosted": 1791929215,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fd6d73ce-4a0a-41b5-b4a5-234b26df5eff",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern",
-      "url": "https://www.metacareers.com/jobs/3364701000388712",
-      "location": "Redmond, WA",
-      "datePosted": 1791929215,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f891cd20-6938-4a8d-8079-4f5f42c0048e",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - AI & System Co-Design",
-      "url": "https://www.metacareers.com/jobs/1062032900196411",
-      "location": "Menlo Park, CA",
-      "datePosted": 1791929215,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:011d85a2-4a19-4a98-8741-666607401044",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Multiple Teams",
-      "url": "https://www.metacareers.com/jobs/2192664358300823",
-      "location": "Menlo Park, CA",
-      "datePosted": 1791929215,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:074d9b09-f0c7-418f-b609-8f4b443a2fea",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - AI & Compute Foundation",
-      "url": "https://www.metacareers.com/jobs/1866761794487684",
-      "location": "Menlo Park, CA",
-      "datePosted": 1791929213,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fe039ec3-7b08-4163-b255-eacd93a71314",
-      "company": "NVIDIA",
-      "title": "Differentiable Simulation Research Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791874800,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
