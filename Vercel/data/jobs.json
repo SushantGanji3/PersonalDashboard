@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-19T01:30:17Z",
-  "totalOpen": 1258,
+  "generatedAt": "2026-10-19T01:38:24Z",
+  "totalOpen": 1259,
   "totalNewgrad": 263,
-  "totalOther": 995,
+  "totalOther": 996,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:2f956c52-edf6-4b68-99c9-7db4d96de3c0",
+      "company": "HeyGen",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
+      "location": "Toronto, ON, Canada, SF, LA, Singapore",
+      "datePosted": 1792372994,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a760ceda26ccc369f8336e0",
       "company": "Varda Space",
@@ -1312,17 +1323,6 @@
       "datePosted": 1791929213,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fe039ec3-7b08-4163-b255-eacd93a71314",
-      "company": "NVIDIA",
-      "title": "Differentiable Simulation Research Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791874800,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
