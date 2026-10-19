@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-19T14:30:17Z",
-  "totalOpen": 1222,
+  "generatedAt": "2026-10-19T14:40:16Z",
+  "totalOpen": 1224,
   "totalNewgrad": 230,
-  "totalOther": 992,
+  "totalOther": 994,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:7bc8eddc-c786-49cc-808a-354ef2f68127",
+      "company": "RTX",
+      "title": "Software Engineer 1 - Aircraft Interiors",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177",
+      "location": "Jamestown, ND, Winston-Salem, NC",
+      "datePosted": 1792419992,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a06fad74a0a6a7e7d81d873",
       "company": "CoreWeave",
@@ -1312,17 +1323,6 @@
       "datePosted": 1791874800,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:22b439fe-1f57-4be3-b47f-046920ffad7a",
-      "company": "TikTok",
-      "title": "Research Scientist Graduate",
-      "url": "https://lifeattiktok.com/search/7695929967028750645",
-      "location": "Seattle, WA",
-      "datePosted": 1791854064,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
