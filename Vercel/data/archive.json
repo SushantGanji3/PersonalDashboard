@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:50:17Z",
+  "generatedAt": "2026-10-19T07:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792373904
+    },
+    {
+      "id": "newgrad-jobs:6a51e21902522b5b722ecfda",
+      "company": "True Anomaly",
+      "title": "Platform Engineer, AI (Levels I, II, III)",
+      "url": "https://jobright.ai/jobs/info/6a51e21902522b5b722ecfda",
+      "location": "Denver, CO; Long Beach, CA",
+      "datePosted": 1792363041,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792392624
+    },
+    {
+      "id": "newgrad-jobs:6ad5abbc810010ec72f60e63",
+      "company": "HireBuddy",
+      "title": "AI Engineer Intern - Founding Engineer Track",
+      "url": "https://jobright.ai/jobs/info/6ad5abbc810010ec72f60e63",
+      "location": "United States",
+      "datePosted": 1792362828,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792393219
     },
     {
       "id": "newgrad-jobs:6ad5a124810010ec72f60cbc",
@@ -44892,17 +44914,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789831214
-    },
-    {
-      "id": "newgrad-jobs:6a91be219864261ccd29ec17",
-      "company": "West Monroe",
-      "title": "2027 Software Engineering (AI Concentration) Consulting Intern",
-      "url": "https://jobright.ai/jobs/info/6a91be219864261ccd29ec17",
-      "location": "New York, NY",
-      "datePosted": 1789800930,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789845616
     }
   ]
 }
