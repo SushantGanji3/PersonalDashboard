@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T17:50:15Z",
-  "totalOpen": 1230,
-  "totalNewgrad": 240,
+  "generatedAt": "2026-10-19T18:00:19Z",
+  "totalOpen": 1225,
+  "totalNewgrad": 235,
   "totalOther": 990,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1792404423,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad64d4554bbabbab06f6799",
@@ -36,7 +36,18 @@
       "datePosted": 1792404181,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad6438d54bbabbab06f5f4e",
+      "company": "BAE Systems, Inc.",
+      "title": "Full-stack Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad6438d54bbabbab06f5f4e",
+      "location": "Nashua, NH",
+      "datePosted": 1792404052,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad64c7452aa6152bb693832",
@@ -45,6 +56,39 @@
       "url": "https://jobright.ai/jobs/info/6ad64c7452aa6152bb693832",
       "location": "Yorktown Heights, NY",
       "datePosted": 1792403972,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad64b2ee4b94611ab83cdf4",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad64b2ee4b94611ab83cdf4",
+      "location": "Frisco, TX",
+      "datePosted": 1792403646,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a4323d438fa630841050552",
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
+      "location": "Redmond, WA",
+      "datePosted": 1792403627,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a519afc02522b5b722e911f",
+      "company": "Inversion",
+      "title": "Autonomy Engineer I, Arc Vehicle",
+      "url": "https://jobright.ai/jobs/info/6a519afc02522b5b722e911f",
+      "location": "Los Angeles, CA",
+      "datePosted": 1792403307,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -58,7 +102,7 @@
       "datePosted": 1792402601,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a422690d528ac2915f98436",
@@ -639,50 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6ad5b739f04335fc70ede5b1",
       "location": "California, United States; Colorado, United States; Georgia, United States; Massachusetts, United States; Texas, United States; Virginia, United States; Washington, DC; Washington, United States; Washington, WA, United States",
       "datePosted": 1792365769,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a51e21902522b5b722ecfda",
-      "company": "True Anomaly",
-      "title": "Platform Engineer, AI (Levels I, II, III)",
-      "url": "https://jobright.ai/jobs/info/6a51e21902522b5b722ecfda",
-      "location": "Denver, CO; Long Beach, CA",
-      "datePosted": 1792363041,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad5abbc810010ec72f60e63",
-      "company": "HireBuddy",
-      "title": "AI Engineer Intern - Founding Engineer Track",
-      "url": "https://jobright.ai/jobs/info/6ad5abbc810010ec72f60e63",
-      "location": "United States",
-      "datePosted": 1792362828,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad6438d54bbabbab06f5f4e",
-      "company": "BAE Systems, Inc.",
-      "title": "Full-stack Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad6438d54bbabbab06f5f4e",
-      "location": "Nashua, NH",
-      "datePosted": 1792360800,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad59d0febd52f378af904a6",
-      "company": "Siemens",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad59d0febd52f378af904a6",
-      "location": "Minnetonka, MN",
-      "datePosted": 1792359071,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
