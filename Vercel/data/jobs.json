@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-19T00:40:16Z",
-  "totalOpen": 1256,
-  "totalNewgrad": 262,
-  "totalOther": 994,
+  "generatedAt": "2026-10-19T00:50:16Z",
+  "totalOpen": 1258,
+  "totalNewgrad": 263,
+  "totalOther": 995,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad3afbec4290cef1412f737",
+      "company": "Health Care Service Corporation",
+      "title": "Early Careers - Finance Application Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad3afbec4290cef1412f737",
+      "location": "Chicago, IL; Richardson, TX",
+      "datePosted": 1792343890,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad3afbdc4290cef1412f736",
+      "company": "Health Care Service Corporation",
+      "title": "Early Careers - Finance Data & Analytics Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad3afbdc4290cef1412f736",
+      "location": "Chicago, IL; Richardson, TX",
+      "datePosted": 1792343849,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad55d9ef04335fc70edd859",
+      "company": "HeyGen",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad55d9ef04335fc70edd859",
+      "location": "Los Angeles, CA; San Francisco, CA; Toronto, ON; Singapore",
+      "datePosted": 1792342830,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a51e08002522b5b722eceec",
       "company": "TikTok",
@@ -633,39 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a55505ef2c46727285f1643",
-      "company": "Auria Space",
-      "title": "Software Engineer - Sentinel",
-      "url": "https://jobright.ai/jobs/info/6a55505ef2c46727285f1643",
-      "location": "Ogden, UT",
-      "datePosted": 1792302811,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a07b5bd939a5f01db952f55",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55",
-      "location": "Fremont, CA",
-      "datePosted": 1792302678,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:683df139abb1ff44979fe7bb",
-      "company": "Neuralink",
-      "title": "Software Engineer, BCI Applications",
-      "url": "https://jobright.ai/jobs/info/683df139abb1ff44979fe7bb",
-      "location": "Fremont, CA",
-      "datePosted": 1792302140,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:fcaabe5a-3ec2-4cfa-9c3e-0a37447d5f83",
       "company": "Together AI",
       "title": "Research Intern, Frontier Speculative Decoding",
@@ -719,6 +719,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:003d3576-aa77-444f-813f-3072e227f8bd",
+      "company": "TikTok",
+      "title": "Software Engineer Intern, Recommendation Performance Efficiency",
+      "url": "https://lifeattiktok.com/search/7673636206961641781",
+      "location": "San Jose, CA",
+      "datePosted": 1792114830,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:6dee80eb-5b2d-4684-8dd3-8c5324036443",
@@ -1308,17 +1319,6 @@
       "company": "NVIDIA",
       "title": "Differentiable Simulation Research Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791874800,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:f3cfcfb6-329b-4efb-a4f3-b982703d0448",
-      "company": "ServiceNow",
-      "title": "Associate Software Engineer Intern, AI Engineering",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
       "location": "Santa Clara, CA",
       "datePosted": 1791874800,
       "source": "aggregator",
