@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:40:17Z",
+  "generatedAt": "2026-10-19T16:50:18Z",
   "totalOpen": 1233,
   "totalNewgrad": 239,
   "totalOther": 994,
@@ -25,7 +25,7 @@
       "datePosted": 1792399177,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a3cff0d4d047136e0931f63",
@@ -81,6 +81,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1eb8923005eee3545cf31",
+      "company": "SpaceX",
+      "title": "Full Stack Engineer, Launch Software",
+      "url": "https://jobright.ai/jobs/info/6ab1eb8923005eee3545cf31",
+      "location": "Hawthorne, CA",
+      "datePosted": 1792396192,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9fee1036c44a0fd09b8ed1",
@@ -674,17 +685,6 @@
       "datePosted": 1792336647,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad5342483ada13a9da0dc10",
-      "company": "Thales Defense & Security, Inc.",
-      "title": "Associate Embedded Software Engineer (DRT)",
-      "url": "https://jobright.ai/jobs/info/6ad5342483ada13a9da0dc10",
-      "location": "Germantown, MD",
-      "datePosted": 1792335680,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
