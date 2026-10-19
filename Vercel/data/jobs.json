@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T17:00:20Z",
-  "totalOpen": 1234,
-  "totalNewgrad": 240,
-  "totalOther": 994,
+  "generatedAt": "2026-10-19T17:10:17Z",
+  "totalOpen": 1230,
+  "totalNewgrad": 238,
+  "totalOther": 992,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -13,6 +13,61 @@
       "location": "Jamestown, ND, Winston-Salem, NC",
       "datePosted": 1792419992,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a422690d528ac2915f98436",
+      "company": "SpaceX",
+      "title": "Flight Software Engineer (Starlink Mobile)",
+      "url": "https://jobright.ai/jobs/info/6a422690d528ac2915f98436",
+      "location": "Redmond, WA",
+      "datePosted": 1792402470,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6434154bbabbab06f5efd",
+      "company": "Akamai Technologies",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad6434154bbabbab06f5efd",
+      "location": "United States",
+      "datePosted": 1792401617,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa07793dbc0e60e37e0ddb4",
+      "company": "Soft Tech Consulting",
+      "title": "Pega Application Developer",
+      "url": "https://jobright.ai/jobs/info/6aa07793dbc0e60e37e0ddb4",
+      "location": "Washington, DC",
+      "datePosted": 1792400779,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad2d041f04335fc70ed7993",
+      "company": "Noblis",
+      "title": "Software Developer - Multiple levels",
+      "url": "https://jobright.ai/jobs/info/6ad2d041f04335fc70ed7993",
+      "location": "Herndon, VA",
+      "datePosted": 1792400175,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6341ce4b94611ab83bdfe",
+      "company": "Modern Technology Solutions, Inc. (MTSI)",
+      "title": "Software Engineer (Full Scope Polygraph)",
+      "url": "https://jobright.ai/jobs/info/6ad6341ce4b94611ab83bdfe",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1792400073,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -39,6 +94,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a9740adb22f636c81416f5d",
+      "company": "Eulerity",
+      "title": "Backend Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6a9740adb22f636c81416f5d",
+      "location": "New York, NY",
+      "datePosted": 1792398426,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e2516dacf777321a90a21",
+      "company": "IBM",
+      "title": "Co-Op Developer Digital Product - 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e2516dacf777321a90a21",
+      "location": "State College, PA",
+      "datePosted": 1792398058,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad634fd52aa6152bb69279f",
       "company": "Tenet3\u00ae",
       "title": "Junior Frontend Software Engineer- Hybrid",
@@ -50,12 +127,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad6341ce4b94611ab83bdfe",
-      "company": "Modern Technology Solutions, Inc. (MTSI)",
-      "title": "Software Engineer (Full Scope Polygraph)",
-      "url": "https://jobright.ai/jobs/info/6ad6341ce4b94611ab83bdfe",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1792397740,
+      "id": "newgrad-jobs:6aa85eab2ed333b4ea5cf07c",
+      "company": "Charta Health",
+      "title": "Software Engineer (FDE / Platform) - Intern",
+      "url": "https://jobright.ai/jobs/info/6aa85eab2ed333b4ea5cf07c",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1792397235,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -66,7 +143,7 @@
       "title": "Jr. Systems Engineer",
       "url": "https://jobright.ai/jobs/info/6a9485d1d18f75674827f6e2",
       "location": "Annapolis Junction, MD",
-      "datePosted": 1792397105,
+      "datePosted": 1792397107,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -226,6 +303,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab14d88f9692ca98b0489cf",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Internal Apps",
+      "url": "https://jobright.ai/jobs/info/6ab14d88f9692ca98b0489cf",
+      "location": "Austin, TX; San Francisco, CA",
+      "datePosted": 1792390777,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a3e325f78237a036d5e388a",
       "company": "Neuralink",
       "title": "Firmware Engineer Intern, Robotics and Surgery Engineering",
@@ -281,6 +369,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a0f44fd80bf0430c76322b7",
+      "company": "Neuralink",
+      "title": "Software Engineer, BCI Applications",
+      "url": "https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
+      "location": "San Francisco, CA",
+      "datePosted": 1792388657,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a3ebf1cce7cce40b3421996",
       "company": "Neuralink",
       "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
@@ -290,6 +389,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aba4ef4ad8589219ef7ce61",
+      "company": "FieldAI",
+      "title": "Embedded Systems Engineer, Autonomous Vehicles (Federal)",
+      "url": "https://jobright.ai/jobs/info/6aba4ef4ad8589219ef7ce61",
+      "location": "Mission Viejo, CA",
+      "datePosted": 1792386572,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a07b5bd939a5f01db952f55",
@@ -314,34 +424,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a0f484f83d714428981e3d4",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, Internal Apps",
-      "url": "https://jobright.ai/jobs/info/6a0f484f83d714428981e3d4",
-      "location": "South San Francisco, CA",
-      "datePosted": 1792384931,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a574e9cf7517b519ad59dad",
       "company": "Giga",
       "title": "Software Engineer I / II",
       "url": "https://jobright.ai/jobs/info/6a574e9cf7517b519ad59dad",
       "location": "New York, NY",
       "datePosted": 1792384182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a614adbeaa37f43e7587f78",
-      "company": "FieldAI",
-      "title": "Embedded Systems Engineer, Autonomous Vehicles (Federal)",
-      "url": "https://jobright.ai/jobs/info/6a614adbeaa37f43e7587f78",
-      "location": "Mission Viejo, CA",
-      "datePosted": 1792384045,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -534,6 +622,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad6438d54bbabbab06f5f4e",
+      "company": "BAE Systems, Inc.",
+      "title": "Full-stack Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad6438d54bbabbab06f5f4e",
+      "location": "Nashua, NH",
+      "datePosted": 1792360800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad59d0febd52f378af904a6",
       "company": "Siemens",
       "title": "Software Engineer",
@@ -586,105 +685,6 @@
       "datePosted": 1792345153,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a760ceda26ccc369f8336e0",
-      "company": "Varda Space",
-      "title": "Site Reliability Internship - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6a760ceda26ccc369f8336e0",
-      "location": "El Segundo, CA",
-      "datePosted": 1792345072,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad3afbec4290cef1412f737",
-      "company": "Health Care Service Corporation",
-      "title": "Early Careers - Finance Application Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ad3afbec4290cef1412f737",
-      "location": "Chicago, IL; Richardson, TX",
-      "datePosted": 1792343890,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad3afbdc4290cef1412f736",
-      "company": "Health Care Service Corporation",
-      "title": "Early Careers - Finance Data & Analytics Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ad3afbdc4290cef1412f736",
-      "location": "Chicago, IL; Richardson, TX",
-      "datePosted": 1792343849,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad62573950ef68d5183680c",
-      "company": "VTG",
-      "title": "Junior Software Engineer with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6ad62573950ef68d5183680c",
-      "location": "Hanover, MD",
-      "datePosted": 1792343571,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad62c423dc655658d8e2ed8",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad62c423dc655658d8e2ed8",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792342800,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a51e08002522b5b722eceec",
-      "company": "TikTok",
-      "title": "Software Engineer Project Intern (Lead Ads) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6a51e08002522b5b722eceec",
-      "location": "San Jose, CA",
-      "datePosted": 1792337597,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a86674c2f4f0014cae2996a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a86674c2f4f0014cae2996a",
-      "location": "Seattle, WA",
-      "datePosted": 1792337488,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a71a40ee2b7476e7b20ed8a",
-      "company": "TikTok",
-      "title": "(General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a40ee2b7476e7b20ed8a",
-      "location": "San Jose, CA",
-      "datePosted": 1792337396,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7f67a1927c79391ad08af0",
-      "company": "Notion",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6a7f67a1927c79391ad08af0",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1792336647,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
