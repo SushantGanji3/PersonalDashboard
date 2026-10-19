@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T15:00:20Z",
+  "generatedAt": "2026-10-19T15:10:20Z",
   "totalOpen": 1231,
-  "totalNewgrad": 237,
-  "totalOther": 994,
+  "totalNewgrad": 236,
+  "totalOther": 995,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1792393307,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5776fdefb06a45240da823",
@@ -47,7 +47,7 @@
       "datePosted": 1792393306,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad622be950ef68d5183662b",
@@ -58,7 +58,7 @@
       "datePosted": 1792393294,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad622b652aa6152bb691ce2",
@@ -69,7 +69,7 @@
       "datePosted": 1792393286,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a44e690f1ab552f90d077f9",
@@ -91,7 +91,7 @@
       "datePosted": 1792393281,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a508b25f4a6e7316717d44f",
@@ -223,7 +223,7 @@
       "datePosted": 1792384968,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a0f484f83d714428981e3d4",
@@ -520,7 +520,7 @@
       "datePosted": 1792343571,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a51e08002522b5b722eceec",
@@ -818,6 +818,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:b5a395ae-42f1-46ba-a288-7d34298231bc",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Pathways",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "location": "Dulles, VA",
+      "datePosted": 1792108800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:5a0765ab-4584-4368-a6b7-5253647fb5f1",
@@ -1308,17 +1319,6 @@
       "company": "NVIDIA",
       "title": "Differentiable Simulation Research Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791874800,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:f3cfcfb6-329b-4efb-a4f3-b982703d0448",
-      "company": "ServiceNow",
-      "title": "Associate Software Engineer Intern, AI Engineering",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
       "location": "Santa Clara, CA",
       "datePosted": 1791874800,
       "source": "aggregator",
