@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:40:16Z",
+  "generatedAt": "2026-10-19T02:50:17Z",
   "totalOpen": 1260,
   "totalNewgrad": 264,
   "totalOther": 996,
@@ -14,6 +14,17 @@
       "datePosted": 1792372994,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad55d9ef04335fc70edd859",
+      "company": "HeyGen",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad55d9ef04335fc70edd859",
+      "location": "Los Angeles, CA; San Francisco, CA; Toronto, ON; Singapore",
+      "datePosted": 1792349776,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -58,17 +69,6 @@
       "datePosted": 1792343849,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad55d9ef04335fc70edd859",
-      "company": "HeyGen",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad55d9ef04335fc70edd859",
-      "location": "Los Angeles, CA; San Francisco, CA; Toronto, ON; Singapore",
-      "datePosted": 1792342830,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -325,10 +325,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
       "location": "Ashburn, VA",
       "datePosted": 1792325601,
       "source": "newgrad-jobs",
