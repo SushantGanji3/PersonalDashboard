@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:00:20Z",
+  "generatedAt": "2026-10-19T08:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792373904
+    },
+    {
+      "id": "newgrad-jobs:6a71f7e402d93145bf891a4b",
+      "company": "Upstart",
+      "title": "Applied Scientist",
+      "url": "https://jobright.ai/jobs/info/6a71f7e402d93145bf891a4b",
+      "location": "United States",
+      "datePosted": 1792370252,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792397416
     },
     {
       "id": "newgrad-jobs:6ad5c275361c015bf0cfa6b5",
@@ -782,6 +793,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792273213
+    },
+    {
+      "id": "newgrad-jobs:6a56046221f64463ad351c48",
+      "company": "Strayos",
+      "title": "Applied Scientist Internship",
+      "url": "https://jobright.ai/jobs/info/6a56046221f64463ad351c48",
+      "location": "Buffalo, NY",
+      "datePosted": 1792238074,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792397416
     },
     {
       "id": "newgrad-jobs:6ad3c1d783ada13a9da0a891",
@@ -44903,28 +44925,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789836617
-    },
-    {
-      "id": "newgrad-jobs:6aaea4f72e757fcb5c8bbc5b",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aaea4f72e757fcb5c8bbc5b",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789805191,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789833018
-    },
-    {
-      "id": "newgrad-jobs:6aaea4f73dbb1f8967cf0e5d",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aaea4f73dbb1f8967cf0e5d",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789805191,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789833018
     }
   ]
 }
