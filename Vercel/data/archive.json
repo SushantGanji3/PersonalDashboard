@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:10:15Z",
+  "generatedAt": "2026-10-19T18:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -672,6 +672,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792432819
+    },
+    {
+      "id": "newgrad-jobs:6ad64a5054bbabbab06f64b8",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad64a5054bbabbab06f64b8",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792342800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792434015
     },
     {
       "id": "newgrad-jobs:6a86674c2f4f0014cae2996a",
@@ -45255,17 +45266,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789870815
-    },
-    {
-      "id": "newgrad-jobs:6aaf33263dbb1f8967cf16fa",
-      "company": "BehaviorAI",
-      "title": "Machine Learning Engineering Internship \u2014 Generative Modeling",
-      "url": "https://jobright.ai/jobs/info/6aaf33263dbb1f8967cf16fa",
-      "location": "New York City metropolitan area, United States",
-      "datePosted": 1789841590,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789869018
     }
   ]
 }
