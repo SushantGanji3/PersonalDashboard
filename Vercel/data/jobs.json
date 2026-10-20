@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T23:30:16Z",
-  "totalOpen": 1225,
-  "totalNewgrad": 217,
+  "generatedAt": "2026-10-20T23:39:06Z",
+  "totalOpen": 1227,
+  "totalNewgrad": 219,
   "totalOther": 1008,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -46,6 +46,39 @@
       "location": "San Mateo, CA",
       "datePosted": 1792534507,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7d5c3950ef68d518446df",
+      "company": "Tennant Company",
+      "title": "Global Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7d5c3950ef68d518446df",
+      "location": "Eden Prairie, MN; Minneapolis, MN",
+      "datePosted": 1792510044,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad11938a4f99fef81941d3c",
+      "company": "Infosys",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad11938a4f99fef81941d3c",
+      "location": "Bernards, NJ",
+      "datePosted": 1792510020,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac55943064da25272e1667e",
+      "company": "iCatalyst, Inc.",
+      "title": "Jr. AI Developer",
+      "url": "https://jobright.ai/jobs/info/6ac55943064da25272e1667e",
+      "location": "McLean, VA",
+      "datePosted": 1792509926,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -707,39 +740,6 @@
       "datePosted": 1792497529,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6a7b6148355b3f12bf1361",
-      "company": "TetraMem - Accelerate The World",
-      "title": "US 2026 Software - Machine Learning Intern",
-      "url": "https://jobright.ai/jobs/info/6a6a7b6148355b3f12bf1361",
-      "location": "San Jose, CA",
-      "datePosted": 1792497506,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad6afaa52aa6152bb697c18",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Query Engines",
-      "url": "https://jobright.ai/jobs/info/6ad6afaa52aa6152bb697c18",
-      "location": "New York, NY",
-      "datePosted": 1792497209,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abbd3eea9a644f965688389",
-      "company": "Marvell Technology",
-      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abbd3eea9a644f965688389",
-      "location": "Santa Clara, CA",
-      "datePosted": 1792496858,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
