@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:00:18Z",
+  "generatedAt": "2026-10-20T22:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,83 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792509027
+    },
+    {
+      "id": "newgrad-jobs:6ad79c4354bbabbab070034c",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad79c4354bbabbab070034c",
+      "location": "San Jose, CA",
+      "datePosted": 1792506003,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792534216
+    },
+    {
+      "id": "newgrad-jobs:6ad7be493dc655658d8efa1d",
+      "company": "RTX",
+      "title": "Software Engineer I, Core Services and Libraries (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad7be493dc655658d8efa1d",
+      "location": "Huntsville, AL",
+      "datePosted": 1792505977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
+    },
+    {
+      "id": "newgrad-jobs:6ad7d8ef52aa6152bb6a01b4",
+      "company": "Intuitive",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7d8ef52aa6152bb6a01b4",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792505471,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
+    },
+    {
+      "id": "newgrad-jobs:6ad7d6a867bec1d0d9c7999f",
+      "company": "Leidos",
+      "title": "Research Scientist",
+      "url": "https://jobright.ai/jobs/info/6ad7d6a867bec1d0d9c7999f",
+      "location": "Huntsville, AL",
+      "datePosted": 1792504888,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
+    },
+    {
+      "id": "newgrad-jobs:6ad7d5c53dc655658d8f0a77",
+      "company": "Cognizant",
+      "title": "COBOL Developer (Micro Focus)",
+      "url": "https://jobright.ai/jobs/info/6ad7d5c53dc655658d8f0a77",
+      "location": "United States",
+      "datePosted": 1792504661,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
+    },
+    {
+      "id": "newgrad-jobs:6ad7d59f67bec1d0d9c798bb",
+      "company": "Esri",
+      "title": "Software Development Engineer in Test I (SDET) \u2013 ArcGIS Enterprise",
+      "url": "https://jobright.ai/jobs/info/6ad7d59f67bec1d0d9c798bb",
+      "location": "Redlands, CA",
+      "datePosted": 1792504623,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
+    },
+    {
+      "id": "newgrad-jobs:6ad7d4efe4b94611ab849498",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad7d4efe4b94611ab849498",
+      "location": "Frisco, TX",
+      "datePosted": 1792504447,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
     },
     {
       "id": "newgrad-jobs:6ad7d3b852aa6152bb69fdc8",
@@ -34,6 +111,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792533018
+    },
+    {
+      "id": "newgrad-jobs:6ad7a31c52aa6152bb69daf6",
+      "company": "Amentum",
+      "title": "Programmer Analyst",
+      "url": "https://jobright.ai/jobs/info/6ad7a31c52aa6152bb69daf6",
+      "location": "Huntsville, AL",
+      "datePosted": 1792503905,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
     },
     {
       "id": "newgrad-jobs:6ad7d21367bec1d0d9c795c9",
@@ -1530,6 +1618,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792533618
+    },
+    {
+      "id": "newgrad-jobs:6ad7d5c3950ef68d518446df",
+      "company": "Tennant Company",
+      "title": "Global Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7d5c3950ef68d518446df",
+      "location": "Eden Prairie, MN; Minneapolis, MN",
+      "datePosted": 1792429200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792534216
     },
     {
       "id": "newgrad-jobs:6ad6ae9d54bbabbab06fa99b",
@@ -42294,7 +42393,7 @@
       "location": "New York, NY",
       "datePosted": 1790084641,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Summer",
       "firstSeenAt": 1790113817
     },
     {
@@ -46374,72 +46473,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e30db2c964816f65ebe38",
       "location": "Rochester, MN; Austin, TX",
       "datePosted": 1789942480,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789969215
-    },
-    {
-      "id": "newgrad-jobs:6ab0bb9f3dbb1f8967cf372d",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab0bb9f3dbb1f8967cf372d",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789942063,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789969815
-    },
-    {
-      "id": "newgrad-jobs:6a9e2d6775edfa11b471070d",
-      "company": "IBM",
-      "title": "Intern Data Engineer - Data Services - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e2d6775edfa11b471070d",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1789941846,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789969215
-    },
-    {
-      "id": "newgrad-jobs:6a9e2d69dacf777321a90aaf",
-      "company": "IBM",
-      "title": "Intern Developer 2027 \u2013 Adobe",
-      "url": "https://jobright.ai/jobs/info/6a9e2d69dacf777321a90aaf",
-      "location": "New York, NY; State College, PA",
-      "datePosted": 1789941814,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789969215
-    },
-    {
-      "id": "newgrad-jobs:6a9e2d7da7ba386c5d670ec0",
-      "company": "IBM",
-      "title": "Intern Application Developer - Oracle - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e2d7da7ba386c5d670ec0",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1789941781,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789969215
-    },
-    {
-      "id": "newgrad-jobs:6a9e2d6e27c94c3d5a1cb637",
-      "company": "IBM",
-      "title": "Intern Application Developer \u2013 Azure and Microsoft - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e2d6e27c94c3d5a1cb637",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1789941702,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789969215
-    },
-    {
-      "id": "newgrad-jobs:6a9e2de468f82b4036738c9d",
-      "company": "IBM",
-      "title": "Intern Application Developer \u2013 Oracle - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e2de468f82b4036738c9d",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1789941654,
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789969215
