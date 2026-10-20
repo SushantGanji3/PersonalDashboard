@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T06:40:17Z",
-  "totalOpen": 1223,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-10-20T06:50:15Z",
+  "totalOpen": 1222,
+  "totalNewgrad": 225,
   "totalOther": 997,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,17 @@
       "location": "NYC",
       "datePosted": 1792459830,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad6ae9d54bbabbab06fa99b",
+      "company": "Docusign",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad6ae9d54bbabbab06fa99b",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1792450172,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -171,10 +182,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a81a5f9e51a1e18a241fab4",
+      "id": "newgrad-jobs:6aa19aeb500b01124c77dd33",
       "company": "Noblis",
       "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a81a5f9e51a1e18a241fab4",
+      "url": "https://jobright.ai/jobs/info/6aa19aeb500b01124c77dd33",
       "location": "Philadelphia, PA",
       "datePosted": 1792442606,
       "source": "newgrad-jobs",
@@ -221,17 +232,6 @@
       "url": "https://jobright.ai/jobs/info/6ad629e2950ef68d51836af2",
       "location": "Annapolis Junction, MD",
       "datePosted": 1792439529,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad6d46ae4b94611ab841f48",
-      "company": "Park My Ride, LLC",
-      "title": "Full-Stack Developer - Internship (React Native/Kotlin)",
-      "url": "https://jobright.ai/jobs/info/6ad6d46ae4b94611ab841f48",
-      "location": "United States",
-      "datePosted": 1792438778,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -402,6 +402,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad6f16367bec1d0d9c72ba2",
+      "company": "FlightSafety International",
+      "title": "Data Engineer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad6f16367bec1d0d9c72ba2",
+      "location": "Columbus, OH",
+      "datePosted": 1792432200,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad6afaa52aa6152bb697c18",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Query Engines",
@@ -520,17 +531,6 @@
       "datePosted": 1792429144,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad6ae9d54bbabbab06fa99b",
-      "company": "Docusign",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad6ae9d54bbabbab06fa99b",
-      "location": "Seattle, WA; San Francisco, CA",
-      "datePosted": 1792429101,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
