@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:03:28Z",
+  "generatedAt": "2026-10-20T02:10:15Z",
   "totalOpen": 1228,
   "totalNewgrad": 230,
   "totalOther": 998,
@@ -14,7 +14,7 @@
       "datePosted": 1792459830,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
@@ -25,7 +25,7 @@
       "datePosted": 1792459830,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
@@ -127,6 +127,94 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad695de950ef68d5183b772",
+      "company": "Netflix",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad695de950ef68d5183b772",
+      "location": "Los Gatos, CA; Los Angeles, CA",
+      "datePosted": 1792433146,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad6ae1f67bec1d0d9c7150f",
+      "company": "Settlor",
+      "title": "Jr Web Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ad6ae1f67bec1d0d9c7150f",
+      "location": "Denver, CO",
+      "datePosted": 1792433142,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad694d2e4b94611ab840542",
+      "company": "Patreon",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542",
+      "location": "New York, NY; San Francisco, CA",
+      "datePosted": 1792433056,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad6bdf454bbabbab06faf32",
+      "company": "Arcafeed",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad6bdf454bbabbab06faf32",
+      "location": "Palo Alto, CA",
+      "datePosted": 1792433028,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6bdb567bec1d0d9c71af1",
+      "company": "Elevated Web Design",
+      "title": "AI Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ad6bdb567bec1d0d9c71af1",
+      "location": "United States",
+      "datePosted": 1792432965,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6bd5c52aa6152bb69814e",
+      "company": "Switchboard",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad6bd5c52aa6152bb69814e",
+      "location": "New York, NY",
+      "datePosted": 1792432876,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad681fb3dc655658d8e6e07",
+      "company": "Adyen",
+      "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
+      "url": "https://jobright.ai/jobs/info/6ad681fb3dc655658d8e6e07",
+      "location": "Chicago, IL",
+      "datePosted": 1792432575,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad6bba0e4b94611ab841748",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad6bba0e4b94611ab841748",
+      "location": "Frisco, TX",
+      "datePosted": 1792432432,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad6b8b6e4b94611ab8415ea",
       "company": "Arc",
       "title": "Software Engineering Intern",
@@ -193,34 +281,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad694d2e4b94611ab840542",
-      "company": "Patreon",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542",
-      "location": "New York, NY; San Francisco, CA",
-      "datePosted": 1792429751,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad6afaa52aa6152bb697c18",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Query Engines",
       "url": "https://jobright.ai/jobs/info/6ad6afaa52aa6152bb697c18",
       "location": "New York, NY",
       "datePosted": 1792429623,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad6b0203dc655658d8e8778",
-      "company": "Horizon Lane",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ad6b0203dc655658d8e8778",
-      "location": "United States",
-      "datePosted": 1792429488,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -259,15 +325,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1792429283,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad65cf854bbabbab06f7591",
@@ -303,17 +369,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad6ae1f67bec1d0d9c7150f",
-      "company": "Settlor",
-      "title": "Jr Web Application Developer",
-      "url": "https://jobright.ai/jobs/info/6ad6ae1f67bec1d0d9c7150f",
-      "location": "Denver, CO",
-      "datePosted": 1792428975,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad6ad2f950ef68d5183c356",
       "company": "FlightSafety International",
       "title": "Data Engineer Internship - Summer 2027",
@@ -333,17 +388,6 @@
       "datePosted": 1792428391,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad695de950ef68d5183b772",
-      "company": "Netflix",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ad695de950ef68d5183b772",
-      "location": "Los Gatos, CA; Los Angeles, CA",
-      "datePosted": 1792428268,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -749,50 +793,6 @@
       "url": "https://jobright.ai/jobs/info/6a377f65649fdf16292fd3d2",
       "location": "San Francisco, CA",
       "datePosted": 1792418287,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad681fb3dc655658d8e6e07",
-      "company": "Adyen",
-      "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
-      "url": "https://jobright.ai/jobs/info/6ad681fb3dc655658d8e6e07",
-      "location": "Chicago, IL",
-      "datePosted": 1792417675,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a904c927c32860d14cf8841",
-      "company": "impact.com",
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a904c927c32860d14cf8841",
-      "location": "Seattle, WA",
-      "datePosted": 1792415900,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad67a95e4b94611ab83f1c5",
-      "company": "UniFirst Corporation",
-      "title": "Junior Azure Data Engineer - Hybrid Role",
-      "url": "https://jobright.ai/jobs/info/6ad67a95e4b94611ab83f1c5",
-      "location": "Wilmington, MA",
-      "datePosted": 1792415781,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac008774ac55253f5d672e8",
-      "company": "American Honda Motor Company, Inc.",
-      "title": "Electrical Powertrain Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac008774ac55253f5d672e8",
-      "location": "Raymond, OH",
-      "datePosted": 1792415497,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
