@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:30:17Z",
+  "generatedAt": "2026-10-20T15:40:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792509027
+    },
+    {
+      "id": "newgrad-jobs:6ad77b0567bec1d0d9c7587f",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer / Configuration Management",
+      "url": "https://jobright.ai/jobs/info/6ad77b0567bec1d0d9c7587f",
+      "location": "Salina, NY",
+      "datePosted": 1792481429,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792510817
     },
     {
       "id": "newgrad-jobs:6ad771fb3dc655658d8ec488",
@@ -749,6 +760,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792507818
+    },
+    {
+      "id": "newgrad-jobs:6ad777f154bbabbab06fea93",
+      "company": "Mimecast",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad777f154bbabbab06fea93",
+      "location": "Minneapolis, MN",
+      "datePosted": 1792429200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792510817
     },
     {
       "id": "newgrad-jobs:6ad6ae9d54bbabbab06fa99b",
@@ -46069,17 +46091,6 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1789951816
-    },
-    {
-      "id": "newgrad-jobs:6a8667462f4f0014cae29968",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a8667462f4f0014cae29968",
-      "location": "Seattle, WA",
-      "datePosted": 1789918255,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789947017
     }
   ]
 }
