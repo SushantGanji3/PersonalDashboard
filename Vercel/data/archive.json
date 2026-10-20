@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:20:15Z",
+  "generatedAt": "2026-10-20T04:30:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -122,6 +122,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792449615
+    },
+    {
+      "id": "newgrad-jobs:6ad661c252aa6152bb694af8",
+      "company": "Leidos",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad661c252aa6152bb694af8",
+      "location": "San Diego, CA",
+      "datePosted": 1792441004,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792470617
     },
     {
       "id": "newgrad-jobs:6ad6d9bd950ef68d5183d232",
@@ -45992,61 +46003,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789910417
-    },
-    {
-      "id": "newgrad-jobs:6aafc3093d96632d741b25de",
-      "company": "IEX",
-      "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aafc3093d96632d741b25de",
-      "location": "New York, NY",
-      "datePosted": 1789878425,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789906817
-    },
-    {
-      "id": "newgrad-jobs:6aafc3060ebc8fb2313ee0c3",
-      "company": "IEX",
-      "title": "Platform Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aafc3060ebc8fb2313ee0c3",
-      "location": "New York, NY",
-      "datePosted": 1789878422,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789907418
-    },
-    {
-      "id": "newgrad-jobs:6aafc2ff3d96632d741b25da",
-      "company": "IEX",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aafc2ff3d96632d741b25da",
-      "location": "New York, NY",
-      "datePosted": 1789878415,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789907418
-    },
-    {
-      "id": "newgrad-jobs:6a97578b455eaf6a08c1c461",
-      "company": "IEX",
-      "title": "Software Development Engineer in Test Intern",
-      "url": "https://jobright.ai/jobs/info/6a97578b455eaf6a08c1c461",
-      "location": "New York, NY",
-      "datePosted": 1789878408,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789907418
-    },
-    {
-      "id": "newgrad-jobs:6aafc2f36956574eac8ba3ed",
-      "company": "ITERRA",
-      "title": "Computer Science & Computer Vision AI/ML Intern",
-      "url": "https://jobright.ai/jobs/info/6aafc2f36956574eac8ba3ed",
-      "location": "Hatillo, PR",
-      "datePosted": 1789878403,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789907418
     }
   ]
 }
