@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-20T22:30:17Z",
-  "totalOpen": 1209,
+  "generatedAt": "2026-10-20T22:40:16Z",
+  "totalOpen": 1220,
   "totalNewgrad": 214,
-  "totalOther": 995,
+  "totalOther": 1006,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
+      "company": "AQR Capital Management",
+      "title": "Software Engineer",
+      "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
+      "location": "Greenwich, CT",
+      "datePosted": 1792535030,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:8da922e7-05ce-40d5-b0b8-36805547ece6",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Computational Imaging and Robotics",
+      "url": "https://www.metacareers.com/jobs/2857194467985784",
+      "location": "Redmond, WA",
+      "datePosted": 1792534813,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:35a618f9-3e92-414f-9b23-8d8d2130672d",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Multimodal Behavioral AI",
+      "url": "https://www.metacareers.com/jobs/1428978125312655",
+      "location": "Redmond, WA",
+      "datePosted": 1792534811,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5",
+      "company": "Skydio",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true",
+      "location": "San Mateo, CA",
+      "datePosted": 1792534507,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a935273f-f0e0-441b-9b94-b853e1ab2f5a",
+      "company": "Northrop Grumman",
+      "title": "Cyber Systems Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
+      "location": "Tampa, FL",
+      "datePosted": 1792509715,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a",
       "company": "Texas Instruments",
@@ -15,6 +70,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:3b199ce3-17c3-41c3-b597-3191ff039e74",
+      "company": "Texas Instruments",
+      "title": "Software Engineer Intern, Compiler",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+      "location": "Sugar Land, TX",
+      "datePosted": 1792506992,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a59409bc8e3a473cb8a5edd",
@@ -677,6 +743,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:f130f45d-27ed-49f0-9a41-5aef69d45ac3",
+      "company": "Palantir",
+      "title": "Software Engineer Intern, Query Engines",
+      "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+      "location": "New York, NY",
+      "datePosted": 1792479600,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:84c02120-d777-45d0-b408-8ce53748ab80",
+      "company": "OpenAI",
+      "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",
+      "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application",
+      "location": "San Francisco, CA",
+      "datePosted": 1792479600,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
+    {
       "id": "simplify:7605b774-f61b-4d04-876b-25c5e5883f86",
       "company": "Palantir",
       "title": "Software Engineer Intern - Query Engines",
@@ -697,6 +785,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:e8a2975b-62cb-450a-9629-f7210118211b",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026",
+      "location": "San Jose, CA",
+      "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:e85971c7-fc74-4cf9-b661-6b4bde36305a",
+      "company": "RTX",
+      "title": "Software Engineer 1-Embedded Linux",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:caf2c40d-930b-4a27-9c3e-b4d2e80026bf",
+      "company": "RTX",
+      "title": "Software Engineer 1 - Core Services and Libraries",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494",
+      "location": "Huntsville, AL",
+      "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
@@ -840,6 +961,17 @@
       "source": "aggregator",
       "season": "Fall 2027",
       "isNew": false
+    },
+    {
+      "id": "simplify:1b40b83a-f006-4926-9a9e-5997a2230142",
+      "company": "General Dynamics",
+      "title": "Software Developer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+      "location": "Egg Harbor Township, NJ",
+      "datePosted": 1792368000,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:fcaabe5a-3ec2-4cfa-9c3e-0a37447d5f83",
@@ -1018,17 +1150,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:00672687-025b-4faf-9b83-8c2a7c72685e",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317",
-      "location": "Sterling, VA",
-      "datePosted": 1792047600,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:5fdfaa85-08f2-4f8e-821b-4385ded1691a",
       "company": "RTX",
       "title": "Software Engineering Co-op",
@@ -1200,127 +1321,6 @@
       "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true",
       "location": "San Mateo, CA",
       "datePosted": 1792015412,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:320e6968-10fc-43e7-9cda-ef3bd156161c",
-      "company": "Skydio",
-      "title": "Manufacturing Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true",
-      "location": "San Mateo, CA",
-      "datePosted": 1792015412,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bcdcec45-2483-4ebd-8b02-b763219eecec",
-      "company": "Point72",
-      "title": "Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/8885733002",
-      "location": "NYC",
-      "datePosted": 1791987659,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c63e937f-e366-4557-923b-6837e394576f",
-      "company": "General Dynamics",
-      "title": "Software Engineer Intern, Crypto & Cross Domain Solutions",
-      "url": "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job",
-      "location": "Scottsdale, AZ",
-      "datePosted": 1791961200,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:ae207054-d3fb-420c-bfd5-e1b160a1e6a2",
-      "company": "General Dynamics",
-      "title": "Software Engineer Intern, Crypto and Cross Domain Solutions",
-      "url": "https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job",
-      "location": "Taunton, MA",
-      "datePosted": 1791961200,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:82b6632f-b168-481a-8a24-958666999060",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
-      "url": "https://lifeattiktok.com/search/7694357619162532149",
-      "location": "Seattle, WA",
-      "datePosted": 1791942515,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f04054a0-44e5-4124-8d75-b21d9ccaed4b",
-      "company": "Snap",
-      "title": "Generative Media Research Intern",
-      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179",
-      "location": "LA",
-      "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:cffd6ec4-0af4-4f8a-9510-a43b93ec0b6b",
-      "company": "Boeing",
-      "title": "Entry-Level Flight Simulation Software Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1",
-      "location": "Berkeley, MO",
-      "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9f5b5e00-8c43-4dc8-af33-7fc02cb821f4",
-      "company": "Boeing",
-      "title": "B1 Software Systems Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2",
-      "location": "Oklahoma City, OK, Tinker Air Force Base, Oklahoma City, OK",
-      "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2834c42b-eb29-4665-86b5-a65ef7b48f9f",
-      "company": "Boeing",
-      "title": "Entry Level Software Engineer-Developer - Development",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1",
-      "location": "Tinker Air Force Base, Oklahoma City, OK",
-      "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:acbb275f-fe6f-4f39-af1a-c079a2a2e18a",
-      "company": "RTX",
-      "title": "Electro-Optics Systems Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-I--Onsite-_01880578",
-      "location": "El Segundo, CA",
-      "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5a07cf07-d410-41af-b750-23e449367969",
-      "company": "RTX",
-      "title": "Software Engineer 1 - Next Gen Systems",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1791936000,
       "source": "aggregator",
       "season": null,
       "isNew": false
