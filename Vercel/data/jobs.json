@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-20T15:40:17Z",
-  "totalOpen": 1214,
-  "totalNewgrad": 219,
-  "totalOther": 995,
+  "generatedAt": "2026-10-20T15:50:18Z",
+  "totalOpen": 1215,
+  "totalNewgrad": 217,
+  "totalOther": 998,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,7 +25,7 @@
       "datePosted": 1792481429,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5b579ac8e3a473cb8afcc4",
@@ -36,7 +36,7 @@
       "datePosted": 1792481074,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abac9661acb8fc6f09c17cb",
@@ -512,10 +512,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a701a35160eda5948e8d48f",
+      "id": "newgrad-jobs:6a701a2c41b41d325296dda9",
       "company": "TikTok",
       "title": "Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a35160eda5948e8d48f",
+      "url": "https://jobright.ai/jobs/info/6a701a2c41b41d325296dda9",
       "location": "Seattle, WA",
       "datePosted": 1792464956,
       "source": "newgrad-jobs",
@@ -798,6 +798,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:c80adfa7-7b0a-4ef6-9984-b28540e9dc6f",
+      "company": "Salesforce",
+      "title": "Software Engineer Intern, Security/Government",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
+      "location": "San Francisco, CA, Bellevue, WA",
+      "datePosted": 1792443379,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:4eca381d-06fc-42d2-899e-57f0d0548bfb",
+      "company": "Adobe",
+      "title": "Security Engineer Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
+      "location": "Lehi, UT",
+      "datePosted": 1792439494,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:2f956c52-edf6-4b68-99c9-7db4d96de3c0",
       "company": "HeyGen",
       "title": "Software Engineer Intern",
@@ -862,6 +884,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:e63325d8-afb1-4cca-92b5-eb218f55685f",
+      "company": "Together AI",
+      "title": "Hardware Security Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+      "location": "San Francisco, CA",
+      "datePosted": 1792183174,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:c6cf89af-fd3e-48e3-b886-b14efade21e6",
@@ -1288,39 +1321,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-I--Onsite-_01880578",
       "location": "El Segundo, CA",
       "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5a07cf07-d410-41af-b750-23e449367969",
-      "company": "RTX",
-      "title": "Software Engineer 1 - Next Gen Systems",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1791936000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
-      "company": "Amazon",
-      "title": "Hardware Development Engineer Intern Co-op - Robotics",
-      "url": "https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
-      "location": "North Reading, MA, Westborough, MA",
-      "datePosted": 1791929907,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4cd89228-5cf0-4015-8a13-f56507d88e39",
-      "company": "Skydio",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true",
-      "location": "San Mateo, CA",
-      "datePosted": 1791929815,
       "source": "aggregator",
       "season": null,
       "isNew": false
