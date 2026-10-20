@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-20T15:00:19Z",
-  "totalOpen": 1215,
+  "generatedAt": "2026-10-20T15:10:27Z",
+  "totalOpen": 1216,
   "totalNewgrad": 221,
-  "totalOther": 994,
+  "totalOther": 995,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a",
+      "company": "Texas Instruments",
+      "title": "Software Engineer Intern - Compiler",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+      "location": "Sugar Land, TX, United States",
+      "datePosted": 1792506992,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6abac9661acb8fc6f09c17cb",
       "company": "Paylocity",
@@ -25,7 +36,7 @@
       "datePosted": 1792479115,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad770cd3dc655658d8ec3f9",
@@ -47,7 +58,7 @@
       "datePosted": 1792478772,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac77da00e573df8adc72d50",
@@ -69,7 +80,7 @@
       "datePosted": 1792477554,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8279df379c304e892f2707",
@@ -80,7 +91,7 @@
       "datePosted": 1792477495,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abe1d8f8ff3fb9b3bc72cbf",
@@ -91,7 +102,7 @@
       "datePosted": 1792476823,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a82c9cc3eeac101cfa9c05c",
@@ -102,7 +113,7 @@
       "datePosted": 1792476803,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a3ebf1cce7cce40b3421996",
@@ -124,7 +135,7 @@
       "datePosted": 1792476425,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ace8171a0453f9ba62492f0",
@@ -146,7 +157,7 @@
       "datePosted": 1792476257,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
@@ -201,7 +212,7 @@
       "datePosted": 1792476163,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad76500e4b94611ab844a7d",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true",
       "location": "San Mateo, CA",
       "datePosted": 1791929815,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fa621e40-4b60-4912-8246-670d0d5554a6",
-      "company": "Netflix",
-      "title": "Software Engineer Intern",
-      "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-      "location": "LA, Los Gatos, CA",
-      "datePosted": 1791929715,
       "source": "aggregator",
       "season": null,
       "isNew": false
