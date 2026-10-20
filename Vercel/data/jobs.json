@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T00:50:15Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-10-20T01:00:19Z",
+  "totalOpen": 1223,
+  "totalNewgrad": 227,
   "totalOther": 996,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -105,23 +105,100 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad6ae9d54bbabbab06fa99b",
+      "company": "Docusign",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad6ae9d54bbabbab06fa99b",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1792429101,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6ae1f67bec1d0d9c7150f",
+      "company": "Settlor",
+      "title": "Jr Web Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ad6ae1f67bec1d0d9c7150f",
+      "location": "Denver, CO",
+      "datePosted": 1792428975,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6ad2f950ef68d5183c356",
+      "company": "FlightSafety International",
+      "title": "Data Engineer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad6ad2f950ef68d5183c356",
+      "location": "Columbus, OH",
+      "datePosted": 1792428735,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad663fa3dc655658d8e580d",
+      "company": "Rivian",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad663fa3dc655658d8e580d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1792428391,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad695de950ef68d5183b772",
+      "company": "Netflix",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad695de950ef68d5183b772",
+      "location": "Los Gatos, CA; Los Angeles, CA",
+      "datePosted": 1792428268,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad69210e4b94611ab8403de",
+      "company": "Societe Generale",
+      "title": "Internship - AI Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad69210e4b94611ab8403de",
+      "location": "New York, NY",
+      "datePosted": 1792428254,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad694d2e4b94611ab840542",
+      "company": "Patreon",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542",
+      "location": "New York, NY; San Francisco, CA",
+      "datePosted": 1792428210,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad69570e4b94611ab84059e",
+      "company": "WEX",
+      "title": "Software Development Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6ad69570e4b94611ab84059e",
+      "location": "United States",
+      "datePosted": 1792428188,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ad6a96654bbabbab06fa80d",
       "company": "Dassault Syst\u00e8mes",
       "title": "INTERNSHIP: User Experience Tools Developer",
       "url": "https://jobright.ai/jobs/info/6ad6a96654bbabbab06fa80d",
       "location": "Waltham, MA",
       "datePosted": 1792427766,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad665af950ef68d51839714",
-      "company": "Rivian",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad665af950ef68d51839714",
-      "location": "Palo Alto, CA",
-      "datePosted": 1792426792,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -182,17 +259,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad6a45f67bec1d0d9c71100",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad6a45f67bec1d0d9c71100",
-      "location": "Frisco, TX",
-      "datePosted": 1792426479,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad66c9b950ef68d51839bc5",
       "company": "Nintendo",
       "title": "Intern \u2013 IT Platform Engineer",
@@ -221,17 +287,6 @@
       "url": "https://jobright.ai/jobs/info/6ad66c9be4b94611ab83e9a4",
       "location": "Redmond, WA",
       "datePosted": 1792425471,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad69570e4b94611ab84059e",
-      "company": "WEX",
-      "title": "Software Development Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6ad69570e4b94611ab84059e",
-      "location": "United States",
-      "datePosted": 1792425018,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -336,17 +391,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad694d2e4b94611ab840542",
-      "company": "Patreon",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542",
-      "location": "New York, NY; San Francisco, CA",
-      "datePosted": 1792422498,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad694423dc655658d8e7976",
       "company": "Keysight Technologies",
       "title": "R&D Software Engineer Intern",
@@ -364,17 +408,6 @@
       "url": "https://jobright.ai/jobs/info/6ad693a3e4b94611ab840495",
       "location": "Littleton, CO",
       "datePosted": 1792422195,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad69210e4b94611ab8403de",
-      "company": "Societe Generale",
-      "title": "Internship - AI Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad69210e4b94611ab8403de",
-      "location": "New York, NY",
-      "datePosted": 1792421792,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -567,17 +600,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad67d0e3dc655658d8e68cc",
-      "company": "Cohere Health",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad67d0e3dc655658d8e68cc",
-      "location": "United States",
-      "datePosted": 1792416414,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a904c927c32860d14cf8841",
       "company": "impact.com",
       "title": "Full Stack Software Engineer",
@@ -749,28 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6ad649213dc655658d8e41de",
       "location": "New York, NY",
       "datePosted": 1792412526,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab47b2964816213f2d99494",
-      "company": "Roblox",
-      "title": "Software Engineer, Data Access",
-      "url": "https://jobright.ai/jobs/info/6ab47b2964816213f2d99494",
-      "location": "San Mateo, CA",
-      "datePosted": 1792412488,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6cb6a39fd8792cb73c19e",
-      "company": "Roblox",
-      "title": "Software Engineer, GenAI Platform",
-      "url": "https://jobright.ai/jobs/info/6ab6cb6a39fd8792cb73c19e",
-      "location": "San Mateo, CA",
-      "datePosted": 1792412488,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
