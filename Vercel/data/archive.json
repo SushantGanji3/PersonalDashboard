@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:00:21Z",
+  "generatedAt": "2026-10-20T14:10:20Z",
   "windowDays": 30,
   "items": [
     {
@@ -5479,6 +5479,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792261815
+    },
+    {
+      "id": "simplify:5fdfaa85-08f2-4f8e-821b-4385ded1691a",
+      "company": "RTX",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792047600,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1792505420
     },
     {
       "id": "newgrad-jobs:6ad0d928256e49282e650589",
@@ -45959,28 +45970,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789942816
-    },
-    {
-      "id": "newgrad-jobs:6ab04b2b3dbb1f8967cf2b3e",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab04b2b3dbb1f8967cf2b3e",
-      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789913275,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789941018
-    },
-    {
-      "id": "newgrad-jobs:6ab04aff2e757fcb5c8bd8f4",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab04aff2e757fcb5c8bd8f4",
-      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789913231,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789941018
     }
   ]
 }
