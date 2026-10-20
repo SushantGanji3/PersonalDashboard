@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:30:32Z",
+  "generatedAt": "2026-10-20T17:40:58Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792509027
+    },
+    {
+      "id": "newgrad-jobs:6ad79d8b52aa6152bb69d64c",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)",
+      "url": "https://jobright.ai/jobs/info/6ad79d8b52aa6152bb69d64c",
+      "location": "Mountain View, CA",
+      "datePosted": 1792490267,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792518058
+    },
+    {
+      "id": "newgrad-jobs:6ad7731b67bec1d0d9c7542b",
+      "company": "Ciena",
+      "title": "Software Engineer (Security) - Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad7731b67bec1d0d9c7542b",
+      "location": "Atlanta, GA",
+      "datePosted": 1792489503,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "firstSeenAt": 1792518058
     },
     {
       "id": "newgrad-jobs:6a7b2696ecf5194164fbc31c",
@@ -46157,17 +46179,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1789954817
-    },
-    {
-      "id": "newgrad-jobs:6a254876d46c0f79960882ec",
-      "company": "TikTok",
-      "title": "Research Engineer/Scientist(all levels), Efficient Models",
-      "url": "https://jobright.ai/jobs/info/6a254876d46c0f79960882ec",
-      "location": "San Jose, CA",
-      "datePosted": 1789925494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789953616
     }
   ]
 }
