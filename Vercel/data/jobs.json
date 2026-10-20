@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:20:15Z",
+  "generatedAt": "2026-10-20T08:30:18Z",
   "totalOpen": 1223,
   "totalNewgrad": 226,
   "totalOther": 997,
@@ -24,17 +24,6 @@
       "location": "NYC",
       "datePosted": 1792459830,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad70ff8e4b94611ab843495",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad70ff8e4b94611ab843495",
-      "location": "Frisco, TX",
-      "datePosted": 1792454024,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -782,6 +771,17 @@
       "url": "https://jobright.ai/jobs/info/6ad698573dc655658d8e7bfc",
       "location": "Irvine, CA",
       "datePosted": 1792423399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad676f3950ef68d5183a0f3",
+      "company": "Iridium",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad676f3950ef68d5183a0f3",
+      "location": "Chandler, AZ",
+      "datePosted": 1792423262,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
