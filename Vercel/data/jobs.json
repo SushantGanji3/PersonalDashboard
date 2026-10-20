@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T16:20:16Z",
-  "totalOpen": 1215,
-  "totalNewgrad": 217,
+  "generatedAt": "2026-10-20T16:30:20Z",
+  "totalOpen": 1211,
+  "totalNewgrad": 213,
   "totalOther": 998,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a51c8bfae4052672fe9acff",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Defense Tech",
+      "url": "https://jobright.ai/jobs/info/6a51c8bfae4052672fe9acff",
+      "location": "New York, NY",
+      "datePosted": 1792483047,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a4c0a58c2d11a6a46679b39",
       "company": "Notion",
       "title": "Software Engineer, Early Career (AI)",
@@ -92,6 +103,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad77e2c54bbabbab06fee62",
+      "company": "Greystone",
+      "title": "Summer 2027 - Full Stack Engineer Internship",
+      "url": "https://jobright.ai/jobs/info/6ad77e2c54bbabbab06fee62",
+      "location": "Warrenton, VA",
+      "datePosted": 1792482864,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad78087e4b94611ab845951",
@@ -135,6 +157,39 @@
       "datePosted": 1792481929,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a486a44971cd25b06f942af",
+      "company": "Optiver",
+      "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+      "url": "https://jobright.ai/jobs/info/6a486a44971cd25b06f942af",
+      "location": "Chicago, IL; Austin, TX",
+      "datePosted": 1792481863,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad77ca452aa6152bb69bf48",
+      "company": "Texas Instruments",
+      "title": "Software Engineering Intern - Compiler",
+      "url": "https://jobright.ai/jobs/info/6ad77ca452aa6152bb69bf48",
+      "location": "Sugar Land, TX",
+      "datePosted": 1792481844,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad77c1b52aa6152bb69bec4",
+      "company": "Georgia Tech Research Institute",
+      "title": "Autonomy Software Engineering and Systems Engineering Intern - Spring 2027 - ASL/ATTD",
+      "url": "https://jobright.ai/jobs/info/6ad77c1b52aa6152bb69bec4",
+      "location": "Atlanta, GA",
+      "datePosted": 1792481707,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": true
     },
     {
@@ -166,17 +221,6 @@
       "url": "https://jobright.ai/jobs/info/6a5b579ac8e3a473cb8afcc4",
       "location": "Fort Meade, MD",
       "datePosted": 1792481074,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abac9661acb8fc6f09c17cb",
-      "company": "Paylocity",
-      "title": "Software Engineering Intern, AI Labs",
-      "url": "https://jobright.ai/jobs/info/6abac9661acb8fc6f09c17cb",
-      "location": "United States",
-      "datePosted": 1792479360,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -545,10 +589,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a56a26ff7517b519ad57272",
+      "id": "newgrad-jobs:6ad64d9754bbabbab06f6926",
       "company": "NetApp",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a56a26ff7517b519ad57272",
+      "url": "https://jobright.ai/jobs/info/6ad64d9754bbabbab06f6926",
       "location": "Wichita, KS",
       "datePosted": 1792466698,
       "source": "newgrad-jobs",
@@ -630,50 +674,6 @@
       "datePosted": 1792464992,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a701a2c41b41d325296dda9",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a2c41b41d325296dda9",
-      "location": "Seattle, WA",
-      "datePosted": 1792464956,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abac1eb1acb8fc6f09c15dc",
-      "company": "Watts Water Technologies",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc",
-      "location": "Blauvelt, NY",
-      "datePosted": 1792464101,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaadc3ad8589219ef7ea1f",
-      "company": "RTX",
-      "title": "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abaadc3ad8589219ef7ea1f",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792463792,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad735d4e4b94611ab843b06",
-      "company": "hussh \ud83e\udd2b",
-      "title": "Software Engineering Internship (Mobile, Web, Wallet)",
-      "url": "https://jobright.ai/jobs/info/6ad735d4e4b94611ab843b06",
-      "location": "Seattle, WA; Kirkland, WA",
-      "datePosted": 1792463716,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
