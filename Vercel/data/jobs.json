@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T03:40:16Z",
-  "totalOpen": 1223,
-  "totalNewgrad": 225,
+  "generatedAt": "2026-10-20T03:50:15Z",
+  "totalOpen": 1222,
+  "totalNewgrad": 224,
   "totalOther": 998,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -127,23 +127,89 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
-      "company": "The Tatitlek Corporation",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
-      "location": "United States",
-      "datePosted": 1792436457,
+      "id": "newgrad-jobs:6ad6d9bd950ef68d5183d232",
+      "company": "B4Corp",
+      "title": "812259 Software Engineer $300,000.00",
+      "url": "https://jobright.ai/jobs/info/6ad6d9bd950ef68d5183d232",
+      "location": "Bethesda, MD",
+      "datePosted": 1792440141,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6d8553dc655658d8e957c",
+      "company": "B4Corp",
+      "title": "812266 Software Engineer $145,000.00",
+      "url": "https://jobright.ai/jobs/info/6ad6d8553dc655658d8e957c",
+      "location": "Bethesda, MD",
+      "datePosted": 1792439781,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad6d7cae4b94611ab8420aa",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad6d7cae4b94611ab8420aa",
+      "location": "Frisco, TX",
+      "datePosted": 1792439642,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad663fa3dc655658d8e580d",
+      "company": "Rivian",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad663fa3dc655658d8e580d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1792439065,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad665af950ef68d51839714",
-      "company": "Rivian",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad665af950ef68d51839714",
-      "location": "Palo Alto, CA",
-      "datePosted": 1792435498,
+      "id": "newgrad-jobs:6ad6d46ae4b94611ab841f48",
+      "company": "Park My Ride, LLC",
+      "title": "Full-Stack Developer - Internship (React Native/Kotlin)",
+      "url": "https://jobright.ai/jobs/info/6ad6d46ae4b94611ab841f48",
+      "location": "United States",
+      "datePosted": 1792438778,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5808db8f51964c040466c5",
+      "company": "The D. E. Shaw Group",
+      "title": "Human Capital Analytics Developer",
+      "url": "https://jobright.ai/jobs/info/6a5808db8f51964c040466c5",
+      "location": "New York, NY",
+      "datePosted": 1792438389,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a3b8f064d047136e092de2e",
+      "company": "Voloridge Investment Management, LLC",
+      "title": "Quantitative Developer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a3b8f064d047136e092de2e",
+      "location": "Jupiter, FL",
+      "datePosted": 1792437879,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a70bcdbe2b7476e7b20a819",
+      "company": "Samsara",
+      "title": "Software Engineering Internship - San Francisco",
+      "url": "https://jobright.ai/jobs/info/6a70bcdbe2b7476e7b20a819",
+      "location": "San Francisco, CA",
+      "datePosted": 1792437762,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -154,7 +220,18 @@
       "title": "Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6ad6b8b6e4b94611ab8415ea",
       "location": "Torrance, CA",
-      "datePosted": 1792435444,
+      "datePosted": 1792437359,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8cc2c0d34f700f87fd28d8",
+      "company": "The Tatitlek Corporation",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
+      "location": "United States",
+      "datePosted": 1792436457,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -270,6 +347,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad6afaa52aa6152bb697c18",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Query Engines",
+      "url": "https://jobright.ai/jobs/info/6ad6afaa52aa6152bb697c18",
+      "location": "New York, NY",
+      "datePosted": 1792431829,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ad683da52aa6152bb6963f8",
       "company": "Zebra Technologies",
       "title": "2027 Summer Internship (US) - Software Engineer",
@@ -292,6 +380,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad634fd52aa6152bb69279f",
+      "company": "Tenet3\u00ae",
+      "title": "Junior Frontend Software Engineer- Hybrid",
+      "url": "https://jobright.ai/jobs/info/6ad634fd52aa6152bb69279f",
+      "location": "Dayton, OH",
+      "datePosted": 1792430688,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a51fdef8d7d3e6cf1cc4f1a",
       "company": "The D. E. Shaw Group",
       "title": "Quant Systems: Systems Developer (New York)",
@@ -309,39 +408,6 @@
       "url": "https://jobright.ai/jobs/info/6ad6b3763dc655658d8e88a4",
       "location": "Boulder, CO",
       "datePosted": 1792430342,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad634fd52aa6152bb69279f",
-      "company": "Tenet3\u00ae",
-      "title": "Junior Frontend Software Engineer- Hybrid",
-      "url": "https://jobright.ai/jobs/info/6ad634fd52aa6152bb69279f",
-      "location": "Dayton, OH",
-      "datePosted": 1792429823,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad6afaa52aa6152bb697c18",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Query Engines",
-      "url": "https://jobright.ai/jobs/info/6ad6afaa52aa6152bb697c18",
-      "location": "New York, NY",
-      "datePosted": 1792429623,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abb39347220f52e62aeae51",
-      "company": "Boston Scientific",
-      "title": "R&D Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abb39347220f52e62aeae51",
-      "location": "Maple Grove, MN",
-      "datePosted": 1792429470,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -369,10 +435,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1792429283,
       "source": "newgrad-jobs",
@@ -727,72 +793,6 @@
       "url": "https://jobright.ai/jobs/info/6ad699ab3dc655658d8e7c75",
       "location": "Pinellas Park, FL",
       "datePosted": 1792419878,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad68a0854bbabbab06f974b",
-      "company": "KLA",
-      "title": "Research Scientist",
-      "url": "https://jobright.ai/jobs/info/6ad68a0854bbabbab06f974b",
-      "location": "Ann Arbor, MI",
-      "datePosted": 1792419736,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad64b6154bbabbab06f65a9",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ad64b6154bbabbab06f65a9",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792419624,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad64709950ef68d51837cd9",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Summer / Fall 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad64709950ef68d51837cd9",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792419612,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad62c423dc655658d8e2ed8",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad62c423dc655658d8e2ed8",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792419611,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad6849754bbabbab06f92ab",
-      "company": "Braze",
-      "title": "Intern, Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ad6849754bbabbab06f92ab",
-      "location": "New York, NY",
-      "datePosted": 1792418891,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad68562950ef68d5183ae37",
-      "company": "Credence",
-      "title": "Cloud Platform Engineer- Entry Level",
-      "url": "https://jobright.ai/jobs/info/6ad68562950ef68d5183ae37",
-      "location": "McLean, VA",
-      "datePosted": 1792418546,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

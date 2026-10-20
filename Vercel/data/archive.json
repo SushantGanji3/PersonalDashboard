@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:40:16Z",
+  "generatedAt": "2026-10-20T03:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -122,6 +122,50 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792449615
+    },
+    {
+      "id": "newgrad-jobs:6ad6d9bd950ef68d5183d232",
+      "company": "B4Corp",
+      "title": "812259 Software Engineer $300,000.00",
+      "url": "https://jobright.ai/jobs/info/6ad6d9bd950ef68d5183d232",
+      "location": "Bethesda, MD",
+      "datePosted": 1792440141,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792468215
+    },
+    {
+      "id": "newgrad-jobs:6ad6d8553dc655658d8e957c",
+      "company": "B4Corp",
+      "title": "812266 Software Engineer $145,000.00",
+      "url": "https://jobright.ai/jobs/info/6ad6d8553dc655658d8e957c",
+      "location": "Bethesda, MD",
+      "datePosted": 1792439781,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792468215
+    },
+    {
+      "id": "newgrad-jobs:6ad6d7cae4b94611ab8420aa",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad6d7cae4b94611ab8420aa",
+      "location": "Frisco, TX",
+      "datePosted": 1792439642,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792468215
+    },
+    {
+      "id": "newgrad-jobs:6ad6d46ae4b94611ab841f48",
+      "company": "Park My Ride, LLC",
+      "title": "Full-Stack Developer - Internship (React Native/Kotlin)",
+      "url": "https://jobright.ai/jobs/info/6ad6d46ae4b94611ab841f48",
+      "location": "United States",
+      "datePosted": 1792438778,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792468215
     },
     {
       "id": "newgrad-jobs:6ad6808752aa6152bb696080",
@@ -46036,17 +46080,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789905016
-    },
-    {
-      "id": "newgrad-jobs:6a7618ca67a1ad0bc53c8c46",
-      "company": "Belvedere Trading, LLC",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a7618ca67a1ad0bc53c8c46",
-      "location": "Chicago, IL",
-      "datePosted": 1789875932,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789903817
     }
   ]
 }
