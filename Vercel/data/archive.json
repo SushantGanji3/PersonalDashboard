@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:40:16Z",
+  "generatedAt": "2026-10-20T22:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -78,6 +78,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792536016
+    },
+    {
+      "id": "newgrad-jobs:6ad28f54c4290cef1412b9e5",
+      "company": "Seagate Technology",
+      "title": "Embedded Software Engineer (Bachelor's Level, Summer 2026 Intern)",
+      "url": "https://jobright.ai/jobs/info/6ad28f54c4290cef1412b9e5",
+      "location": "Longmont, CO; Shakopee, MN",
+      "datePosted": 1792506646,
+      "source": "newgrad-jobs",
+      "season": "Summer 2026",
+      "firstSeenAt": 1792536615
+    },
+    {
+      "id": "newgrad-jobs:6ad28f5825289a0b3bf576e2",
+      "company": "Seagate Technology",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ad28f5825289a0b3bf576e2",
+      "location": "Longmont, CO; Shakopee, MN",
+      "datePosted": 1792506646,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792536615
     },
     {
       "id": "newgrad-jobs:6ad79c4354bbabbab070034c",
@@ -46564,28 +46586,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789975222
-    },
-    {
-      "id": "newgrad-jobs:6a9e393bdacf777321a90d32",
-      "company": "IBM",
-      "title": "Site Reliability Engineer Spring Co-op 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e393bdacf777321a90d32",
-      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX",
-      "datePosted": 1789944271,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1789971018
-    },
-    {
-      "id": "newgrad-jobs:6a9e397c27c94c3d5a1cb90e",
-      "company": "IBM",
-      "title": "Software Developer Spring Co-op 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e397c27c94c3d5a1cb90e",
-      "location": "Lowell, MA; Durham, NC; San Jose, CA; Austin, TX",
-      "datePosted": 1789944244,
-      "source": "newgrad-jobs",
-      "season": "Spring",
-      "firstSeenAt": 1789971018
     }
   ]
 }
