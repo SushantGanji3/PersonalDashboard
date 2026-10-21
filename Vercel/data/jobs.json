@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:40:18Z",
+  "generatedAt": "2026-10-21T22:50:18Z",
   "totalOpen": 1240,
   "totalNewgrad": 236,
   "totalOther": 1004,
@@ -14,7 +14,7 @@
       "datePosted": 1792620484,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cfaefc82-5787-4e0b-8091-f6b29bce3bda",
@@ -25,7 +25,7 @@
       "datePosted": 1792620483,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b97c016f-9c98-43d8-b626-302f1ee28c77",
@@ -36,7 +36,7 @@
       "datePosted": 1792620483,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:aacdee8b-5d3f-4b0b-ba7e-f6f590ca5792",
@@ -47,7 +47,7 @@
       "datePosted": 1792620483,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:58a18c55-845e-4263-98d7-78701275167e",
@@ -58,6 +58,17 @@
       "datePosted": 1792620378,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad8ede167bec1d0d9c80be7",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Summer/Fall 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad8ede167bec1d0d9c80be7",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792592495,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
       "isNew": true
     },
     {
@@ -69,6 +80,28 @@
       "datePosted": 1792592418,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad925a9b0725dc268dda4c1",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad925a9b0725dc268dda4c1",
+      "location": "Fulton, MD",
+      "datePosted": 1792592399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8ede467bec1d0d9c80be9",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad8ede467bec1d0d9c80be9",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792592389,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -113,17 +146,6 @@
       "datePosted": 1792591069,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad92660950ef68d5184e9ef",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad92660950ef68d5184e9ef",
-      "location": "Frisco, TX",
-      "datePosted": 1792590832,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -345,6 +367,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad917d2b0725dc268dd9ad1",
+      "company": "Etsy",
+      "title": "Software Engineer I, Marketplace Makers",
+      "url": "https://jobright.ai/jobs/info/6ad917d2b0725dc268dd9ad1",
+      "location": "Brooklyn, NY",
+      "datePosted": 1792588837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad8e53be4b94611ab8501b4",
@@ -688,39 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acf8a6112303667b989ec49",
-      "company": "BAE Systems",
-      "title": "Programmer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6acf8a6112303667b989ec49",
-      "location": "Washington, DC",
-      "datePosted": 1792580976,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad8fe7f54bbabbab070b03d",
-      "company": "DiversyFund, Inc",
-      "title": "Associate to mid-level data engineer",
-      "url": "https://jobright.ai/jobs/info/6ad8fe7f54bbabbab070b03d",
-      "location": "San Diego, CA",
-      "datePosted": 1792580623,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad8fa40b0725dc268dd7f4f",
-      "company": "Honeywell Technologies",
-      "title": "Spring 2027 Artificial Intelligence/Machine Learning Co-Op",
-      "url": "https://jobright.ai/jobs/info/6ad8fa40b0725dc268dd7f4f",
-      "location": "United States",
-      "datePosted": 1792579791,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
       "company": "Amazon",
       "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
@@ -762,7 +762,7 @@
       "datePosted": 1792540800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:40:18Z",
+  "generatedAt": "2026-10-21T22:50:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792622418
+    },
+    {
+      "id": "newgrad-jobs:6ad8ede167bec1d0d9c80be7",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Summer/Fall 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad8ede167bec1d0d9c80be7",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792592495,
+      "source": "newgrad-jobs",
+      "season": "Fall 2027",
+      "firstSeenAt": 1792623018
+    },
+    {
+      "id": "newgrad-jobs:6ad925a9b0725dc268dda4c1",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad925a9b0725dc268dda4c1",
+      "location": "Fulton, MD",
+      "datePosted": 1792592399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792623018
+    },
+    {
+      "id": "newgrad-jobs:6ad8ede467bec1d0d9c80be9",
+      "company": "RTX",
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad8ede467bec1d0d9c80be9",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792592389,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792623018
     },
     {
       "id": "newgrad-jobs:6ad92a9354bbabbab070d69c",
@@ -276,6 +309,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792619417
+    },
+    {
+      "id": "newgrad-jobs:6ad917d2b0725dc268dd9ad1",
+      "company": "Etsy",
+      "title": "Software Engineer I, Marketplace Makers",
+      "url": "https://jobright.ai/jobs/info/6ad917d2b0725dc268dd9ad1",
+      "location": "Brooklyn, NY",
+      "datePosted": 1792588837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792623018
     },
     {
       "id": "newgrad-jobs:6ad918cf39284cd52428418b",
@@ -46069,17 +46113,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790060421
-    },
-    {
-      "id": "newgrad-jobs:6ab21696d43eb922ca0c1e9d",
-      "company": "SingleStore",
-      "title": "MIT- Software Engineer Intern |Helios|",
-      "url": "https://jobright.ai/jobs/info/6ab21696d43eb922ca0c1e9d",
-      "location": "United States",
-      "datePosted": 1790030886,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790057418
     }
   ]
 }
