@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T07:20:16Z",
-  "totalOpen": 1223,
-  "totalNewgrad": 216,
+  "generatedAt": "2026-10-21T07:30:18Z",
+  "totalOpen": 1222,
+  "totalNewgrad": 215,
   "totalOther": 1007,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4182d216b14939532842f7",
+      "company": "Thatch",
+      "title": "Software Engineer: Full Stack",
+      "url": "https://jobright.ai/jobs/info/6a4182d216b14939532842f7",
+      "location": "United States",
+      "datePosted": 1792538655,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad84c9b67bec1d0d9c7cf77",
@@ -551,17 +562,6 @@
       "url": "https://jobright.ai/jobs/info/6ad7f8903dc655658d8f2218",
       "location": "Sunnyvale, CA",
       "datePosted": 1792513568,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4c0a58c2d11a6a46679b39",
-      "company": "Notion",
-      "title": "Software Engineer, Early Career (AI)",
-      "url": "https://jobright.ai/jobs/info/6a4c0a58c2d11a6a46679b39",
-      "location": "San Francisco, CA",
-      "datePosted": 1792511848,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
