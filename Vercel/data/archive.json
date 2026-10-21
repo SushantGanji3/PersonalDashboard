@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:40:18Z",
+  "generatedAt": "2026-10-21T08:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792542015
+    },
+    {
+      "id": "newgrad-jobs:6ad872a752aa6152bb6a3c04",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+      "url": "https://jobright.ai/jobs/info/6ad872a752aa6152bb6a3c04",
+      "location": "Cupertino, CA",
+      "datePosted": 1792533600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792572615
     },
     {
       "id": "newgrad-jobs:6aa51cc52ed333b4ea5c592b",
@@ -46399,28 +46410,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790011819
-    },
-    {
-      "id": "newgrad-jobs:6ab15157d2a93d5a97eb9c9d",
-      "company": "Canaria",
-      "title": "Python Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab15157d2a93d5a97eb9c9d",
-      "location": "United States",
-      "datePosted": 1789980391,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790008817
-    },
-    {
-      "id": "newgrad-jobs:6ab1500f191d8c340dbd9bce",
-      "company": "Wellmark Blue Cross and Blue Shield",
-      "title": "Software Engineer Internship - Technology Healthcare Innovation",
-      "url": "https://jobright.ai/jobs/info/6ab1500f191d8c340dbd9bce",
-      "location": "Des Moines, IA",
-      "datePosted": 1789980063,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790009419
     }
   ]
 }

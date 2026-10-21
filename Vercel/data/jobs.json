@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T08:40:18Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 215,
+  "generatedAt": "2026-10-21T08:50:15Z",
+  "totalOpen": 1223,
+  "totalNewgrad": 216,
   "totalOther": 1007,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -136,6 +136,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad872a752aa6152bb6a3c04",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+      "url": "https://jobright.ai/jobs/info/6ad872a752aa6152bb6a3c04",
+      "location": "Cupertino, CA",
+      "datePosted": 1792533600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa51cc52ed333b4ea5c592b",
@@ -762,17 +773,6 @@
       "datePosted": 1792506239,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad79c4354bbabbab070034c",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad79c4354bbabbab070034c",
-      "location": "San Jose, CA",
-      "datePosted": 1792506003,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
