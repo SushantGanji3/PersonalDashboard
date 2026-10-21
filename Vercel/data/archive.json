@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:20:17Z",
+  "generatedAt": "2026-10-21T23:30:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -89,6 +89,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792622418
+    },
+    {
+      "id": "newgrad-jobs:6ad93d6b67bec1d0d9c84b50",
+      "company": "Walrus Security",
+      "title": "Full Stack Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad93d6b67bec1d0d9c84b50",
+      "location": "United States",
+      "datePosted": 1792596731,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792625419
+    },
+    {
+      "id": "newgrad-jobs:6ad9394f950ef68d5184f565",
+      "company": "Docusign",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad9394f950ef68d5184f565",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1792595679,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792625419
+    },
+    {
+      "id": "newgrad-jobs:6ad9366867bec1d0d9c847b3",
+      "company": "State of Ohio",
+      "title": "Programmer - IT",
+      "url": "https://jobright.ai/jobs/info/6ad9366867bec1d0d9c847b3",
+      "location": "Columbus, OH",
+      "datePosted": 1792594936,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792625419
     },
     {
       "id": "newgrad-jobs:6ad8ede167bec1d0d9c80be7",
@@ -46146,17 +46179,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790063420
-    },
-    {
-      "id": "newgrad-jobs:6ab20713d2a93d5a97ebd878",
-      "company": "CCI Systems",
-      "title": "MTU Career Fair-Software Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6ab20713d2a93d5a97ebd878",
-      "location": "United States",
-      "datePosted": 1790033382,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790061618
     }
   ]
 }
