@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-21T17:40:18Z",
-  "totalOpen": 1227,
-  "totalNewgrad": 227,
+  "generatedAt": "2026-10-21T17:50:16Z",
+  "totalOpen": 1223,
+  "totalNewgrad": 223,
   "totalOther": 1000,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad8f03554bbabbab070a3be",
+      "company": "Smith+Nephew",
+      "title": "Intern Computer Vision Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6ad8f03554bbabbab070a3be",
+      "location": "Andover, MA",
+      "datePosted": 1792576786,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a9f336768f82b403673c722",
       "company": "SpaceX",
@@ -14,7 +25,7 @@
       "datePosted": 1792576575,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad8ee21950ef68d5184b962",
@@ -25,7 +36,7 @@
       "datePosted": 1792576433,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad8edf1e4b94611ab85083e",
@@ -36,7 +47,7 @@
       "datePosted": 1792576270,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa090faa2266b538d231277",
@@ -56,6 +67,28 @@
       "url": "https://jobright.ai/jobs/info/6ad8e905950ef68d5184b59c",
       "location": "Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA; Reston, VA",
       "datePosted": 1792575125,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a714fdbcb96192a36848656",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok - Effects Performance) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714fdbcb96192a36848656",
+      "location": "San Jose, CA",
+      "datePosted": 1792575016,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8e83be4b94611ab850410",
+      "company": "Elevated Web Design",
+      "title": "Startup Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ad8e83be4b94611ab850410",
+      "location": "United States",
+      "datePosted": 1792574923,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -124,7 +157,7 @@
       "datePosted": 1792573859,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7ad69e4b94611ab8478ad",
@@ -144,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6ad8e2e0b0725dc268dd6b94",
       "location": "Washington, DC",
       "datePosted": 1792573552,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad8e26767bec1d0d9c80317",
-      "company": "Traxen",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ad8e26767bec1d0d9c80317",
-      "location": "Plymouth, MI",
-      "datePosted": 1792573431,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -191,6 +213,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abb39347220f52e62aeae51",
+      "company": "Boston Scientific",
+      "title": "R&D Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6abb39347220f52e62aeae51",
+      "location": "Maple Grove, MN",
+      "datePosted": 1792572533,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abd308ed9621c5b2838a6d5",
@@ -567,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abc824c2668e0eab35c263d",
+      "id": "newgrad-jobs:6aafbcd03d96632d741b2589",
       "company": "TikTok USDS Joint Venture",
       "title": "Machine Learning Engineer Intern (E-Commerce) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abc824c2668e0eab35c263d",
+      "url": "https://jobright.ai/jobs/info/6aafbcd03d96632d741b2589",
       "location": "San Jose, CA; Seattle, WA",
       "datePosted": 1792557750,
       "source": "newgrad-jobs",
@@ -628,39 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6ad830c93dc655658d8f36bd",
       "location": "Mountain View, CA",
       "datePosted": 1792556419,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa081e93b5aa83237b09a20",
-      "company": "Allen Control Systems",
-      "title": "Computer Vision/Machine Learning Intern, 2027",
-      "url": "https://jobright.ai/jobs/info/6aa081e93b5aa83237b09a20",
-      "location": "Austin, TX",
-      "datePosted": 1792556387,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8cc3e41d96e6541c8c2e6a",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1792556023,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a52e7dc9fbdab22fe13d88e",
-      "company": "DRW",
-      "title": "Research Engineer (Options)",
-      "url": "https://jobright.ai/jobs/info/6a52e7dc9fbdab22fe13d88e",
-      "location": "Chicago, IL",
-      "datePosted": 1792555320,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
