@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-10-21T22:30:17Z",
-  "totalOpen": 1233,
+  "generatedAt": "2026-10-21T22:40:18Z",
+  "totalOpen": 1240,
   "totalNewgrad": 236,
-  "totalOther": 997,
+  "totalOther": 1004,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:250b02be-a1c4-4629-937c-bcba947df550",
+      "company": "Meta AI",
+      "title": "Research Intern - Audio Hardware",
+      "url": "https://www.metacareers.com/jobs/1445807477756644",
+      "location": "Redmond, WA",
+      "datePosted": 1792620484,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:cfaefc82-5787-4e0b-8091-f6b29bce3bda",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Foundational Models for Robotics Research",
+      "url": "https://www.metacareers.com/jobs/1078644001656413",
+      "location": "Menlo Park, CA",
+      "datePosted": 1792620483,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b97c016f-9c98-43d8-b626-302f1ee28c77",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
+      "url": "https://www.metacareers.com/jobs/1075160338670575",
+      "location": "Burlingame, CA, Redmond, WA",
+      "datePosted": 1792620483,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:aacdee8b-5d3f-4b0b-ba7e-f6f590ca5792",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Robot Foundation Models",
+      "url": "https://www.metacareers.com/jobs/27730225806654441",
+      "location": "Redmond, WA",
+      "datePosted": 1792620483,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:58a18c55-845e-4263-98d7-78701275167e",
+      "company": "Anduril",
+      "title": "Robotics Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
+      "location": "Quincy, MA",
+      "datePosted": 1792620378,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8beafb0725dc268dd58a7",
+      "company": "RTX",
+      "title": "Secure Systems Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad8beafb0725dc268dd58a7",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792592418,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ad92a9354bbabbab070d69c",
       "company": "Acuity Insurance",
@@ -14,7 +80,7 @@
       "datePosted": 1792591907,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac93a0dfcdafb60c6a4b7af",
@@ -25,7 +91,7 @@
       "datePosted": 1792591373,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa0b17bdbc0e60e37e0f481",
@@ -58,7 +124,7 @@
       "datePosted": 1792590832,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad9261a39284cd524284bff",
@@ -69,7 +135,7 @@
       "datePosted": 1792590762,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad9260754bbabbab070d335",
@@ -80,7 +146,7 @@
       "datePosted": 1792590743,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad925fa54bbabbab070d326",
@@ -91,7 +157,7 @@
       "datePosted": 1792590730,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad9256ae4b94611ab8538f2",
@@ -655,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad8fae054bbabbab070adce",
-      "company": "CliquePrize - Local Giveaway Marketing for Small Businesses",
-      "title": "Remote Flutter & WordPress (Non Paid Academic Credit Only) Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6ad8fae054bbabbab070adce",
-      "location": "United States",
-      "datePosted": 1792579696,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
       "company": "Amazon",
       "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
@@ -697,6 +752,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:05891430-1723-4b9b-839e-f243696e66ef",
+      "company": "Etsy",
+      "title": "Software Engineer 1 - Marketplace Makers",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
+      "location": "Brooklyn, NY",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
@@ -1255,72 +1321,6 @@
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027--Associate--Embedded-Software-Engineer---Dulles-VA_R10256217",
       "location": "Dulles, VA",
       "datePosted": 1792022400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:894104d6-66ef-4390-a36e-71f2891576fc",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineer-Dulles-VA_R10256306",
-      "location": "McLean, VA, Dulles, VA",
-      "datePosted": 1792022400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b7a2ad59-b10e-44b4-bc5c-53410f04e335",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
-      "url": "https://lifeattiktok.com/search/7694360101507762485",
-      "location": "Seattle, WA",
-      "datePosted": 1792018295,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6a52bbeb-8e4d-4bdc-a47d-146909ee1af7",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
-      "url": "https://lifeattiktok.com/search/7694362230074673461",
-      "location": "Seattle, WA",
-      "datePosted": 1792017957,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e8eec34a-bd13-454c-b322-cab784a820fa",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Live",
-      "url": "https://lifeattiktok.com/search/7694360097210861829",
-      "location": "Seattle, WA",
-      "datePosted": 1792017649,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d55e2c80-cc43-4f0d-b77b-2bb8884e57b0",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
-      "url": "https://lifeattiktok.com/search/7679220954338494773",
-      "location": "Seattle, WA",
-      "datePosted": 1792017648,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5dc52d6c-5a68-444c-93ad-dada1108efae",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-      "url": "https://lifeattiktok.com/search/7694362229701069109",
-      "location": "Seattle, WA",
-      "datePosted": 1792017648,
       "source": "aggregator",
       "season": null,
       "isNew": false
