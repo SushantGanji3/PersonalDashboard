@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:10:18Z",
+  "generatedAt": "2026-10-21T06:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792546815
+    },
+    {
+      "id": "newgrad-jobs:6ad84c9b67bec1d0d9c7cf77",
+      "company": "Ada",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad84c9b67bec1d0d9c7cf77",
+      "location": "United States",
+      "datePosted": 1792535083,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792563615
     },
     {
       "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
@@ -46619,17 +46630,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790000418
-    },
-    {
-      "id": "newgrad-jobs:6ab12ce232552369083e08c5",
-      "company": "Arcfield",
-      "title": "Entry- to Mid-Level Model-Based Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab12ce232552369083e08c5",
-      "location": "Middletown, RI",
-      "datePosted": 1789971058,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789999222
     }
   ]
 }

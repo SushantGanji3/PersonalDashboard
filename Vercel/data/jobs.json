@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:10:18Z",
+  "generatedAt": "2026-10-21T06:20:15Z",
   "totalOpen": 1225,
   "totalNewgrad": 218,
   "totalOther": 1007,
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad84c9b67bec1d0d9c7cf77",
+      "company": "Ada",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad84c9b67bec1d0d9c7cf77",
+      "location": "United States",
+      "datePosted": 1792535083,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
@@ -69,7 +80,7 @@
       "datePosted": 1792534548,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5",
@@ -762,17 +773,6 @@
       "datePosted": 1792506003,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7be493dc655658d8efa1d",
-      "company": "RTX",
-      "title": "Software Engineer I, Core Services and Libraries (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ad7be493dc655658d8efa1d",
-      "location": "Huntsville, AL",
-      "datePosted": 1792505977,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
