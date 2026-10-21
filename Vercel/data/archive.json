@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:00:21Z",
+  "generatedAt": "2026-10-21T00:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792536016
+    },
+    {
+      "id": "newgrad-jobs:6ad7f9b852aa6152bb6a17b6",
+      "company": "North Carolina Department of Agriculture and Consumer Services",
+      "title": "Systems Programmer (PCN 113005)",
+      "url": "https://jobright.ai/jobs/info/6ad7f9b852aa6152bb6a17b6",
+      "location": "Juneau, AK",
+      "datePosted": 1792513864,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792541417
+    },
+    {
+      "id": "newgrad-jobs:6ad7f8903dc655658d8f2218",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ad7f8903dc655658d8f2218",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792513568,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792541417
+    },
+    {
+      "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
+      "company": "Intuitive",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7f63354bbabbab0704563",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792512963,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792541417
     },
     {
       "id": "newgrad-jobs:6ad7f0fde4b94611ab84aa9d",
@@ -46553,17 +46586,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790041816
-    },
-    {
-      "id": "newgrad-jobs:6ab0d7a73dbb1f8967cf404a",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab0d7a73dbb1f8967cf404a",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789949239,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789976417
     }
   ]
 }
