@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-21T02:02:48Z",
+  "generatedAt": "2026-10-21T02:10:18Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
+      "company": "Amazon",
+      "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+      "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "location": "Cupertino, CA",
+      "datePosted": 1792546696,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792548618
+    },
     {
       "id": "simplify:f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
       "company": "Uber",
@@ -1552,6 +1563,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792537816
+    },
+    {
+      "id": "simplify:33d259a8-0a0b-4a4c-9875-dd5206ee2317",
+      "company": "Micron",
+      "title": "Machine Learning Engineering Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
+      "location": "Richardson, TX",
+      "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792548618
     },
     {
       "id": "newgrad-jobs:6ad70ff8e4b94611ab843495",
@@ -46531,28 +46553,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789986016
-    },
-    {
-      "id": "newgrad-jobs:6ab0f3d1298e33fa6abaad35",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab0f3d1298e33fa6abaad35",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789956449,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789983621
-    },
-    {
-      "id": "newgrad-jobs:6ab0f3c705b07562f3cccb6a",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab0f3c705b07562f3cccb6a",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789956439,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789983621
     }
   ]
 }
