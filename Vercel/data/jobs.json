@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-21T01:30:17Z",
+  "generatedAt": "2026-10-21T01:40:15Z",
   "totalOpen": 1228,
-  "totalNewgrad": 220,
-  "totalOther": 1008,
+  "totalNewgrad": 221,
+  "totalOther": 1007,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
+      "company": "Uber",
+      "title": "Software Engineer Intern",
+      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
+      "location": "Seattle, WA, SF, Sunnyvale, CA",
+      "datePosted": 1792545218,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
       "company": "AQR Capital Management",
@@ -61,6 +72,50 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad7ebc267bec1d0d9c7a8bf",
+      "company": "Bierman Autism Centers",
+      "title": "Full- Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad7ebc267bec1d0d9c7a8bf",
+      "location": "United States",
+      "datePosted": 1792518778,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
+      "company": "Intuitive",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7f63354bbabbab0704563",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792518137,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a51d234bf63b66c7997d7d9",
+      "company": "Virtu Financial",
+      "title": "Software Engineer - Desktop Frontend Developer (C#/Winforms)",
+      "url": "https://jobright.ai/jobs/info/6a51d234bf63b66c7997d7d9",
+      "location": "New York, NY",
+      "datePosted": 1792518061,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a88bd184afae74a0834d5d7",
+      "company": "Garmin",
+      "title": "Embedded Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
+      "location": "Yarmouth, ME",
+      "datePosted": 1792517983,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad804d4e4b94611ab84b256",
       "company": "Resonate AI",
       "title": "Software Engineer ($130k-$200k, 0.2% to 1%)",
@@ -91,17 +146,6 @@
       "datePosted": 1792515951,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7ebc267bec1d0d9c7a8bf",
-      "company": "Bierman Autism Centers",
-      "title": "Full- Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad7ebc267bec1d0d9c7a8bf",
-      "location": "United States",
-      "datePosted": 1792515422,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -155,17 +199,6 @@
       "url": "https://jobright.ai/jobs/info/6ab30c8730340229a32315dd",
       "location": "Long Beach, CA",
       "datePosted": 1792514751,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
-      "company": "Intuitive",
-      "title": "Full-Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad7f63354bbabbab0704563",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1792514726,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -732,28 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad7c54654bbabbab07020cc",
-      "company": "SpaceX",
-      "title": "Space Operations Training Engineer (Full Stack Software)",
-      "url": "https://jobright.ai/jobs/info/6ad7c54654bbabbab07020cc",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792500942,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb48a5639a4810328164",
-      "company": "Verkada",
-      "title": "Embedded Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb48a5639a4810328164",
-      "location": "San Mateo, CA",
-      "datePosted": 1792500854,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:f130f45d-27ed-49f0-9a41-5aef69d45ac3",
       "company": "Palantir",
       "title": "Software Engineer Intern, Query Engines",
@@ -1084,15 +1095,15 @@
       "isNew": false
     },
     {
-      "id": "simplify:6dee80eb-5b2d-4684-8dd3-8c5324036443",
+      "id": "simplify:4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936",
       "company": "Apple",
       "title": "SoC Machine Learning Software Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200689488",
       "location": "Sunnyvale, CA",
       "datePosted": 1792114389,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
@@ -1310,17 +1321,6 @@
       "url": "https://lifeattiktok.com/search/7694365861943953717",
       "location": "Seattle, WA",
       "datePosted": 1792017647,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:82b9b534-5821-4221-a411-921d4751ae32",
-      "company": "L3Harris",
-      "title": "Associate Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1440282700/?ats=successfactors",
-      "location": "Mason, OH",
-      "datePosted": 1792017457,
       "source": "aggregator",
       "season": null,
       "isNew": false
