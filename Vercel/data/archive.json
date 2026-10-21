@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:10:16Z",
+  "generatedAt": "2026-10-21T08:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792546815
+    },
+    {
+      "id": "newgrad-jobs:6a6d1b6bacb0a61f9dbc8f8d",
+      "company": "NewsBreak",
+      "title": "Software Engineer, ML Infra (Junior & New Grad)",
+      "url": "https://jobright.ai/jobs/info/6a6d1b6bacb0a61f9dbc8f8d",
+      "location": "Mountain View, CA",
+      "datePosted": 1792540648,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792570815
     },
     {
       "id": "newgrad-jobs:6a4182d216b14939532842f7",
@@ -46421,17 +46432,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790018417
-    },
-    {
-      "id": "newgrad-jobs:6ab14a72f9692ca98b04892e",
-      "company": "CACI International Inc",
-      "title": "JR. ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6ab14a72f9692ca98b04892e",
-      "location": "Chantilly, VA",
-      "datePosted": 1789978626,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790008218
     }
   ]
 }
