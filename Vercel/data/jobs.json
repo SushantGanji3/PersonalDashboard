@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-21T14:30:18Z",
-  "totalOpen": 1230,
-  "totalNewgrad": 226,
-  "totalOther": 1004,
+  "generatedAt": "2026-10-21T14:40:15Z",
+  "totalOpen": 1232,
+  "totalNewgrad": 227,
+  "totalOther": 1005,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad80cb752aa6152bb6a1fcb",
+      "company": "Cisco",
+      "title": "Software Engineer  Fullstack / Backend II (Full Time) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6ad80cb752aa6152bb6a1fcb",
+      "location": "Boulder, CO; Durham, NC; Seattle, WA",
+      "datePosted": 1792565263,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab702033a2ec87116e24fc6",
       "company": "IBM",
@@ -226,10 +237,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acf7cff2cc4e9d17e908b79",
+      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6acf7cff2cc4e9d17e908b79",
+      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
       "location": "Fort Worth, TX; Orlando, FL",
       "datePosted": 1792556764,
       "source": "newgrad-jobs",
@@ -378,6 +389,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7006cead0fe2053dba02b6",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a7006cead0fe2053dba02b6",
+      "location": "San Jose, CA",
+      "datePosted": 1792553961,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a331a037f3fdd180d4c5874",
@@ -644,28 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a71a40bcb96192a36849993",
-      "company": "TikTok",
-      "title": "Frontend Engineer Intern (Global CRM) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a40bcb96192a36849993",
-      "location": "San Jose, CA",
-      "datePosted": 1792551621,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a82c7502dbaf907b0764d22",
-      "company": "TikTok",
-      "title": "Data Engineer Intern (Data Platform Global Live) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a82c7502dbaf907b0764d22",
-      "location": "San Jose, CA",
-      "datePosted": 1792551621,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
       "company": "Amazon",
       "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
@@ -686,6 +686,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:ae9b02e7-d087-43fd-aea6-d8e99a8307aa",
+      "company": "Expedia",
+      "title": "Software Developer 1 Intern",
+      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+      "location": "Springfield, MO",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
@@ -1308,17 +1319,6 @@
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
       "url": "https://lifeattiktok.com/search/7694362229701069109",
-      "location": "Seattle, WA",
-      "datePosted": 1792017648,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2a4e1069-9cf2-40f7-8610-0110cfc1fdeb",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Governance",
-      "url": "https://lifeattiktok.com/search/7694366551807265029",
       "location": "Seattle, WA",
       "datePosted": 1792017648,
       "source": "aggregator",
