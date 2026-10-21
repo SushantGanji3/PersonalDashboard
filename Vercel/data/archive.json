@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:40:31Z",
+  "generatedAt": "2026-10-21T16:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792600831
+    },
+    {
+      "id": "newgrad-jobs:6ad8dfebb0725dc268dd6a12",
+      "company": "OSF HealthCare",
+      "title": "Machine Learning Analyst",
+      "url": "https://jobright.ai/jobs/info/6ad8dfebb0725dc268dd6a12",
+      "location": "Peoria, IL",
+      "datePosted": 1792572795,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792601416
     },
     {
       "id": "newgrad-jobs:6ad8b572b0725dc268dd53ac",
@@ -45882,17 +45893,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790038217
-    },
-    {
-      "id": "newgrad-jobs:6ab1c258191d8c340dbdcc1f",
-      "company": "LERETA, LLC",
-      "title": "Data Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab1c258191d8c340dbdcc1f",
-      "location": "Pomona, CA",
-      "datePosted": 1790009320,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790037615
     }
   ]
 }
