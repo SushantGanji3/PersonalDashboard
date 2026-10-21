@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:50:26Z",
+  "generatedAt": "2026-10-21T01:00:19Z",
   "totalOpen": 1232,
   "totalNewgrad": 221,
   "totalOther": 1011,
@@ -61,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab2e08f1e4847ddae916e53",
+      "company": "Tyler Technologies",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ab2e08f1e4847ddae916e53",
+      "location": "Yarmouth, ME; Augusta, ME",
+      "datePosted": 1792516147,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ad801dfe4b94611ab84b0fc",
       "company": "Integrate",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -69,7 +80,18 @@
       "datePosted": 1792515951,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7ebc267bec1d0d9c7a8bf",
+      "company": "Bierman Autism Centers",
+      "title": "Full- Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad7ebc267bec1d0d9c7a8bf",
+      "location": "United States",
+      "datePosted": 1792515422,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad79d8b52aa6152bb69d64c",
@@ -91,7 +113,7 @@
       "datePosted": 1792515134,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7fe9fe4b94611ab84afc8",
@@ -102,7 +124,40 @@
       "datePosted": 1792515119,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7b9f8e4b94611ab84820d",
+      "company": "Honeywell Technologies",
+      "title": "Cyber Security Engineer I-Penetration Tester",
+      "url": "https://jobright.ai/jobs/info/6ad7b9f8e4b94611ab84820d",
+      "location": "Plymouth, MN",
+      "datePosted": 1792514977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab30c8730340229a32315dd",
+      "company": "Relativity Space",
+      "title": "Software Engineer I (Factory Platform)",
+      "url": "https://jobright.ai/jobs/info/6ab30c8730340229a32315dd",
+      "location": "Long Beach, CA",
+      "datePosted": 1792514751,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
+      "company": "Intuitive",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7f63354bbabbab0704563",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792514726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7f9b852aa6152bb6a17b6",
@@ -122,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6ad7f8903dc655658d8f2218",
       "location": "Sunnyvale, CA",
       "datePosted": 1792513568,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
-      "company": "Intuitive",
-      "title": "Full-Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad7f63354bbabbab0704563",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1792512963,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -210,17 +254,6 @@
       "url": "https://jobright.ai/jobs/info/6ad7ed4a54bbabbab0703f73",
       "location": "Santa Rosa, CA",
       "datePosted": 1792510682,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7ebc267bec1d0d9c7a8bf",
-      "company": "Bierman Autism Centers",
-      "title": "Full- Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad7ebc267bec1d0d9c7a8bf",
-      "location": "United States",
-      "datePosted": 1792510290,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -311,7 +344,7 @@
       "datePosted": 1792507662,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7e0cd54bbabbab070365a",
@@ -716,39 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6a8ddb0ea5639a4810328145",
       "location": "San Mateo, CA",
       "datePosted": 1792500849,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7c39152aa6152bb69f1b0",
-      "company": "Virginia Tech",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad7c39152aa6152bb69f1b0",
-      "location": "Blacksburg, VA",
-      "datePosted": 1792500001,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7c39052aa6152bb69f1af",
-      "company": "General Atomics Aeronautical Systems",
-      "title": "Associate Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ad7c39052aa6152bb69f1af",
-      "location": "Poway, CA",
-      "datePosted": 1792500000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027) - Austin, TX",
-      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
-      "location": "Austin, TX",
-      "datePosted": 1792499941,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
