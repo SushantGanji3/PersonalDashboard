@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-21T00:10:17Z",
-  "totalOpen": 1225,
-  "totalNewgrad": 217,
-  "totalOther": 1008,
+  "generatedAt": "2026-10-21T00:20:15Z",
+  "totalOpen": 1230,
+  "totalNewgrad": 219,
+  "totalOther": 1011,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -50,6 +50,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:43903c88-4d7c-490e-9b84-3643853afba3",
+      "company": "Sony AI",
+      "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",
+      "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
+      "location": "Remote in USA",
+      "datePosted": 1792534128,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad7f9b852aa6152bb6a17b6",
       "company": "North Carolina Department of Agriculture and Consumer Services",
       "title": "Systems Programmer (PCN 113005)",
@@ -58,7 +69,7 @@
       "datePosted": 1792513864,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7f8903dc655658d8f2218",
@@ -69,7 +80,7 @@
       "datePosted": 1792513568,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
@@ -80,7 +91,18 @@
       "datePosted": 1792512963,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad79d8b52aa6152bb69d64c",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)",
+      "url": "https://jobright.ai/jobs/info/6ad79d8b52aa6152bb69d64c",
+      "location": "Mountain View, CA",
+      "datePosted": 1792512953,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac57a990e027c0f3b3af4b1",
@@ -113,17 +135,6 @@
       "datePosted": 1792511787,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad79d8b52aa6152bb69d64c",
-      "company": "Microsoft",
-      "title": "Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)",
-      "url": "https://jobright.ai/jobs/info/6ad79d8b52aa6152bb69d64c",
-      "location": "Mountain View, CA",
-      "datePosted": 1792511709,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -765,6 +776,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:13ba4c30-229f-411d-b74b-33f36acb963b",
+      "company": "Micron",
+      "title": "SMAI Probe AI Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+      "location": "Boise, ID",
+      "datePosted": 1792479600,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:5239a1e7-2786-4567-8857-278d62136ab9",
+      "company": "Salesforce",
+      "title": "AI Research Intern",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+      "location": "Palo Alto, CA",
+      "datePosted": 1792479600,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:7605b774-f61b-4d04-876b-25c5e5883f86",
       "company": "Palantir",
       "title": "Software Engineer Intern - Query Engines",
@@ -1288,39 +1321,6 @@
       "url": "https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1440282700/?ats=successfactors",
       "location": "Mason, OH",
       "datePosted": 1792017457,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2acdcd90-8b9e-4836-9f89-88b79316d9ec",
-      "company": "Figure AI",
-      "title": "Embedded Software Engineer Intern - Platform",
-      "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
-      "location": "San Jose, CA",
-      "datePosted": 1792017153,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5dda5cf0-7ad7-41aa-9942-9cccb3a303b8",
-      "company": "Meta AI",
-      "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
-      "url": "https://www.metacareers.com/jobs/1758435721926913",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1792017027,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:dafc249b-2c6d-433d-9420-560205cd6a93",
-      "company": "Anduril",
-      "title": "Research Engineer Co-op",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007",
-      "location": "Santa Ana, CA",
-      "datePosted": 1792015976,
       "source": "aggregator",
       "season": null,
       "isNew": false
