@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T03:10:17Z",
-  "totalOpen": 1231,
-  "totalNewgrad": 223,
+  "generatedAt": "2026-10-21T03:20:16Z",
+  "totalOpen": 1228,
+  "totalNewgrad": 220,
   "totalOther": 1008,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,15 +83,147 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad7ebc267bec1d0d9c7a8bf",
+      "company": "Bierman Autism Centers",
+      "title": "Full- Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad7ebc267bec1d0d9c7a8bf",
+      "location": "United States",
+      "datePosted": 1792525375,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad821a0950ef68d51846edb",
+      "company": "Vontier",
+      "title": "Engineering Intern - Software Engineering (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad821a0950ef68d51846edb",
+      "location": "Simsbury, CT",
+      "datePosted": 1792524080,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad7ed6652aa6152bb6a10ec",
+      "company": "IBM",
+      "title": "Entry Level Supply Chain Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ad7ed6652aa6152bb6a10ec",
+      "location": "Poughkeepsie, NY; Rochester, MN; Rochester, NY",
+      "datePosted": 1792524024,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5a7fa0e027c0f3b3afc72",
+      "company": "Sigma",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac5a7fa0e027c0f3b3afc72",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1792523857,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aac63ef3dbb1f8967cea755",
+      "company": "Apex",
+      "title": "Mission Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6aac63ef3dbb1f8967cea755",
+      "location": "Los Angeles, CA",
+      "datePosted": 1792523852,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad820853dc655658d8f31c8",
+      "company": "Premier Global Links LLC",
+      "title": "Backend Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad820853dc655658d8f31c8",
+      "location": "San Francisco, CA",
+      "datePosted": 1792523797,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad801dfe4b94611ab84b0fc",
+      "company": "Integrate",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad801dfe4b94611ab84b0fc",
+      "location": "Seattle, WA",
+      "datePosted": 1792523544,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad81ef652aa6152bb6a2668",
+      "company": "Amazon",
+      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+      "url": "https://jobright.ai/jobs/info/6ad81ef652aa6152bb6a2668",
+      "location": "Cupertino, CA",
+      "datePosted": 1792523398,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad7f9c43dc655658d8f2285",
+      "company": "Rakuten International",
+      "title": "Intern - Software Engineer, AI User Experience",
+      "url": "https://jobright.ai/jobs/info/6ad7f9c43dc655658d8f2285",
+      "location": "San Mateo, CA",
+      "datePosted": 1792521894,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
+      "company": "Intuitive",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7f63354bbabbab0704563",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792521860,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac027434ac55253f5d67ef1",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineering, Intern",
+      "url": "https://jobright.ai/jobs/info/6ac027434ac55253f5d67ef1",
+      "location": "Atlanta, GA",
+      "datePosted": 1792521806,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ad7d34e67bec1d0d9c796fb",
       "company": "State Farm",
       "title": "Software Engineer",
       "url": "https://jobright.ai/jobs/info/6ad7d34e67bec1d0d9c796fb",
       "location": "Dunwoody, GA; Tempe, AZ; Bloomington, IL; Richardson, TX",
-      "datePosted": 1792521012,
+      "datePosted": 1792521759,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a50fda278e364789ca57c32",
+      "company": "InstaLILY AI",
+      "title": "Software Engineer I, General",
+      "url": "https://jobright.ai/jobs/info/6a50fda278e364789ca57c32",
+      "location": "New York, NY; San Francisco, CA",
+      "datePosted": 1792521457,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad8129a3dc655658d8f2d20",
@@ -133,28 +265,6 @@
       "url": "https://jobright.ai/jobs/info/6ad80d7d67bec1d0d9c7b97b",
       "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA",
       "datePosted": 1792518925,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7ebc267bec1d0d9c7a8bf",
-      "company": "Bierman Autism Centers",
-      "title": "Full- Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad7ebc267bec1d0d9c7a8bf",
-      "location": "United States",
-      "datePosted": 1792518778,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7f63354bbabbab0704563",
-      "company": "Intuitive",
-      "title": "Full-Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad7f63354bbabbab0704563",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1792518137,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -237,17 +347,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad801dfe4b94611ab84b0fc",
-      "company": "Integrate",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad801dfe4b94611ab84b0fc",
-      "location": "Seattle, WA",
-      "datePosted": 1792515951,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad7b9f8e4b94611ab84820d",
       "company": "Honeywell Technologies",
       "title": "Cyber Security Engineer I-Penetration Tester",
@@ -292,17 +391,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac57a990e027c0f3b3af4b1",
-      "company": "Sigma",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac57a990e027c0f3b3af4b1",
-      "location": "New York, NY; San Francisco, CA",
-      "datePosted": 1792511935,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a4c0a58c2d11a6a46679b39",
       "company": "Notion",
       "title": "Software Engineer, Early Career (AI)",
@@ -336,34 +424,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad7ed6652aa6152bb6a10ec",
-      "company": "IBM",
-      "title": "Entry Level Supply Chain Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ad7ed6652aa6152bb6a10ec",
-      "location": "Poughkeepsie, NY; Rochester, MN; Rochester, NY",
-      "datePosted": 1792510710,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac562d2064da25272e16b96",
       "company": "Cook Medical",
       "title": "Intern, Applied AI & Full Stack Development",
       "url": "https://jobright.ai/jobs/info/6ac562d2064da25272e16b96",
       "location": "United States",
       "datePosted": 1792510705,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7ed4a54bbabbab0703f73",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineering, Intern",
-      "url": "https://jobright.ai/jobs/info/6ad7ed4a54bbabbab0703f73",
-      "location": "Santa Rosa, CA",
-      "datePosted": 1792510682,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -479,6 +545,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad256a5c4290cef1412a4ae",
+      "company": "Seagate Technology",
+      "title": "Embedded Software Engineer (Bachelor's Level, Summer 2026 Intern)",
+      "url": "https://jobright.ai/jobs/info/6ad256a5c4290cef1412a4ae",
+      "location": "Longmont, CO; Shakopee, MN",
+      "datePosted": 1792507150,
+      "source": "newgrad-jobs",
+      "season": "Summer 2026",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a4556f34f64ba41dcb4d0e7",
       "company": "IMC Trading",
       "title": "Deep Learning Research Intern - Summer 2027 - New York",
@@ -509,17 +586,6 @@
       "datePosted": 1792506992,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad28f54c4290cef1412b9e5",
-      "company": "Seagate Technology",
-      "title": "Embedded Software Engineer (Bachelor's Level, Summer 2026 Intern)",
-      "url": "https://jobright.ai/jobs/info/6ad28f54c4290cef1412b9e5",
-      "location": "Longmont, CO; Shakopee, MN",
-      "datePosted": 1792506646,
-      "source": "newgrad-jobs",
-      "season": "Summer 2026",
       "isNew": false
     },
     {
@@ -705,72 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6ad7d21367bec1d0d9c795c9",
       "location": "San Jose, CA",
       "datePosted": 1792503715,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddd32581f2d7bfdfe998f",
-      "company": "Verkada",
-      "title": "Mobile Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddd32581f2d7bfdfe998f",
-      "location": "San Mateo, CA",
-      "datePosted": 1792503524,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7d00452aa6152bb69fa9f",
-      "company": "IBM",
-      "title": "Application Developer - IT Service Management",
-      "url": "https://jobright.ai/jobs/info/6ad7d00452aa6152bb69fa9f",
-      "location": "Baton Rouge, LA",
-      "datePosted": 1792503188,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace77f7a0453f9ba6248c35",
-      "company": "Zefr",
-      "title": "Software Development Engineer in Test (SDET)",
-      "url": "https://jobright.ai/jobs/info/6ace77f7a0453f9ba6248c35",
-      "location": "Marina del Rey, CA",
-      "datePosted": 1792502489,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad77ca452aa6152bb69bf48",
-      "company": "Texas Instruments",
-      "title": "Software Engineering Intern - Compiler",
-      "url": "https://jobright.ai/jobs/info/6ad77ca452aa6152bb69bf48",
-      "location": "Sugar Land, TX",
-      "datePosted": 1792502391,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7978e52aa6152bb69d166",
-      "company": "IBM",
-      "title": "Software Engineering Intern \u2013 Agentic AI & Workflow Automation",
-      "url": "https://jobright.ai/jobs/info/6ad7978e52aa6152bb69d166",
-      "location": "Armonk, NY",
-      "datePosted": 1792501842,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad786ff52aa6152bb69c69d",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Developer, Junior",
-      "url": "https://jobright.ai/jobs/info/6ad786ff52aa6152bb69c69d",
-      "location": "Aberdeen Proving Ground, MD",
-      "datePosted": 1792501837,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
