@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:00:17Z",
+  "generatedAt": "2026-10-21T04:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -78,6 +78,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792542015
+    },
+    {
+      "id": "newgrad-jobs:6ad830c93dc655658d8f36bd",
+      "company": "Rhoda AI",
+      "title": "Software Engineer Intern, Inference",
+      "url": "https://jobright.ai/jobs/info/6ad830c93dc655658d8f36bd",
+      "location": "Mountain View, CA",
+      "datePosted": 1792527961,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792555817
     },
     {
       "id": "newgrad-jobs:6ad821a0950ef68d51846edb",
@@ -46608,28 +46619,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790008218
-    },
-    {
-      "id": "newgrad-jobs:6ab1104232552369083e0492",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab1104232552369083e0492",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789963730,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789991417
-    },
-    {
-      "id": "newgrad-jobs:6ab10ff932552369083e048e",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab10ff932552369083e048e",
-      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1789963657,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1789991417
     }
   ]
 }
