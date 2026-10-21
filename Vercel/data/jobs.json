@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T02:10:18Z",
-  "totalOpen": 1228,
-  "totalNewgrad": 219,
+  "generatedAt": "2026-10-21T02:20:16Z",
+  "totalOpen": 1232,
+  "totalNewgrad": 223,
   "totalOther": 1009,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792546696,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
@@ -81,6 +81,39 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7d34e67bec1d0d9c796fb",
+      "company": "State Farm",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7d34e67bec1d0d9c796fb",
+      "location": "Dunwoody, GA; Tempe, AZ; Bloomington, IL; Richardson, TX",
+      "datePosted": 1792521012,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad8129a3dc655658d8f2d20",
+      "company": "SMX",
+      "title": "Junior Software Engineer (5510)",
+      "url": "https://jobright.ai/jobs/info/6ad8129a3dc655658d8f2d20",
+      "location": "Huntsville, AL",
+      "datePosted": 1792520234,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8123e54bbabbab0705108",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad8123e54bbabbab0705108",
+      "location": "Frisco, TX",
+      "datePosted": 1792520142,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad80f7f67bec1d0d9c7ba74",
@@ -158,6 +191,28 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad80af454bbabbab0704da9",
+      "company": "FlightSafety International",
+      "title": "Visual Software Engineer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad80af454bbabbab0704da9",
+      "location": "Hazelwood, MO",
+      "datePosted": 1792516796,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad80afd950ef68d51846621",
+      "company": "FlightSafety International",
+      "title": "Systems Engineer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad80afd950ef68d51846621",
+      "location": "Broken Arrow, OK",
+      "datePosted": 1792516795,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad804d4e4b94611ab84b256",
@@ -622,17 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad7d34e67bec1d0d9c796fb",
-      "company": "State Farm",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad7d34e67bec1d0d9c796fb",
-      "location": "Dunwoody, GA; Tempe, AZ; Bloomington, IL; Richardson, TX",
-      "datePosted": 1792504030,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac540f5d9621c5b283a41b9",
       "company": "TikTok",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
@@ -727,50 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6ad786ff52aa6152bb69c69d",
       "location": "Aberdeen Proving Ground, MD",
       "datePosted": 1792501837,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7cab867bec1d0d9c79003",
-      "company": "Humble Robotics",
-      "title": "Embedded Software Engineer, 2027 Internship",
-      "url": "https://jobright.ai/jobs/info/6ad7cab867bec1d0d9c79003",
-      "location": "San Francisco, CA",
-      "datePosted": 1792501832,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1792501806,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa4f9b682e82a31997bb6cb",
-      "company": "Pangram Labs",
-      "title": "Software Engineer - Customer Solutions",
-      "url": "https://jobright.ai/jobs/info/6aa4f9b682e82a31997bb6cb",
-      "location": "Brooklyn, NY",
-      "datePosted": 1792501009,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3a2045c11cce360365472",
-      "company": "Pangram Labs",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3a2045c11cce360365472",
-      "location": "Brooklyn, NY",
-      "datePosted": 1792500984,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -872,7 +872,7 @@
       "datePosted": 1792454400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e85971c7-fc74-4cf9-b661-6b4bde36305a",
