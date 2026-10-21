@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:00:19Z",
+  "generatedAt": "2026-10-21T05:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -111,6 +111,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1792552816
+    },
+    {
+      "id": "newgrad-jobs:6a9b2ed02cdc5958f53eb3ed",
+      "company": "Juicebox",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a9b2ed02cdc5958f53eb3ed",
+      "location": "San Francisco, CA",
+      "datePosted": 1792524024,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792559416
     },
     {
       "id": "newgrad-jobs:6ad820853dc655658d8f31c8",
@@ -46586,17 +46597,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1789997418
-    },
-    {
-      "id": "newgrad-jobs:6a94ef88c12c90443efce05f",
-      "company": "GE Aerospace",
-      "title": "Applied AI Engineer Intern \u2013 Summer 2027 (May/June Start)",
-      "url": "https://jobright.ai/jobs/info/6a94ef88c12c90443efce05f",
-      "location": "United States",
-      "datePosted": 1789966851,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1789996817
     }
   ]
 }
