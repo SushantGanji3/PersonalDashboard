@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:40:16Z",
+  "generatedAt": "2026-10-22T05:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -177,6 +177,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792622418
+    },
+    {
+      "id": "newgrad-jobs:6ad996e3950ef68d5185188b",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad996e3950ef68d5185188b",
+      "location": "Frisco, TX",
+      "datePosted": 1792619635,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792648217
+    },
+    {
+      "id": "newgrad-jobs:6ad9969b39284cd524287b65",
+      "company": "XPO",
+      "title": "Applied AI Scientist - Hybrid Job Details | XPO",
+      "url": "https://jobright.ai/jobs/info/6ad9969b39284cd524287b65",
+      "location": "Boston, MA",
+      "datePosted": 1792619563,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792648217
+    },
+    {
+      "id": "newgrad-jobs:6ad9969439284cd524287b60",
+      "company": "XPO",
+      "title": "Machine Learning Engineer - Hybrid Job Details | XPO",
+      "url": "https://jobright.ai/jobs/info/6ad9969439284cd524287b60",
+      "location": "Boston, MA",
+      "datePosted": 1792619556,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792648217
     },
     {
       "id": "newgrad-jobs:6ad97c94b0725dc268ddccdc",
@@ -46168,17 +46201,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790084417
-    },
-    {
-      "id": "newgrad-jobs:6ab278cc8254c44790e5556f",
-      "company": "Tigbourne Capital Ltd",
-      "title": "Private Equity Intern - Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab278cc8254c44790e5556f",
-      "location": "United States",
-      "datePosted": 1790056028,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790083223
     }
   ]
 }
