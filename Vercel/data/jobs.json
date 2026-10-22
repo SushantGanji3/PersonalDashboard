@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-22T06:30:18Z",
-  "totalOpen": 1253,
+  "generatedAt": "2026-10-22T06:40:17Z",
+  "totalOpen": 1254,
   "totalNewgrad": 233,
-  "totalOther": 1020,
+  "totalOther": 1021,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
+      "company": "Amazon",
+      "title": "Robotics Embedded Software Development Engineer",
+      "url": "https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer",
+      "location": "North Reading, MA, Westborough, MA",
+      "datePosted": 1792649751,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
       "company": "Crusoe Energy",
@@ -1312,17 +1323,6 @@
       "datePosted": 1792189400,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e63325d8-afb1-4cca-92b5-eb218f55685f",
-      "company": "Together AI",
-      "title": "Hardware Security Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
-      "location": "San Francisco, CA",
-      "datePosted": 1792183174,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
