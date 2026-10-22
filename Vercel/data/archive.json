@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T07:00:19Z",
+  "generatedAt": "2026-10-22T07:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -100,6 +100,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792636816
+    },
+    {
+      "id": "newgrad-jobs:6ad91c48950ef68d5184e16b",
+      "company": "Amazon",
+      "title": "Data Engineer, Support Product&Services",
+      "url": "https://jobright.ai/jobs/info/6ad91c48950ef68d5184e16b",
+      "location": "Seattle, WA; New York, NY",
+      "datePosted": 1792623698,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792653017
     },
     {
       "id": "simplify:e5234582-3d6d-4fef-b252-f20d885c21f4",
@@ -1541,6 +1552,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792582817
+    },
+    {
+      "id": "newgrad-jobs:6a30c85d524fd5657fe12232",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a30c85d524fd5657fe12232",
+      "location": "San Jose, CA",
+      "datePosted": 1792554379,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792653017
     },
     {
       "id": "newgrad-jobs:6a7006cead0fe2053dba02b6",
@@ -46113,17 +46135,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790091020
-    },
-    {
-      "id": "newgrad-jobs:6ab28b498254c44790e55955",
-      "company": "FM",
-      "title": "Software Engineering Co-op",
-      "url": "https://jobright.ai/jobs/info/6ab28b498254c44790e55955",
-      "location": "United States",
-      "datePosted": 1790060761,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790088618
     }
   ]
 }
