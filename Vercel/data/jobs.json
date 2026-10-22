@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T13:20:16Z",
-  "totalOpen": 1175,
-  "totalNewgrad": 227,
+  "generatedAt": "2026-10-22T13:30:17Z",
+  "totalOpen": 1172,
+  "totalNewgrad": 224,
   "totalOther": 948,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,61 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
+      "company": "MANTECH",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
+      "location": "Saint Inigoes, MD",
+      "datePosted": 1792647867,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad9c45cb0725dc268dddbe7",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "url": "https://jobright.ai/jobs/info/6ad9c45cb0725dc268dddbe7",
+      "location": "Cambridge, MA",
+      "datePosted": 1792647076,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa17ab43272060a8e3eff0c",
+      "company": "S&P Global",
+      "title": "Machine Learning Engineer - Summer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa17ab43272060a8e3eff0c",
+      "location": "Cambridge, MA; New York, NY",
+      "datePosted": 1792646902,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abd58750e027c0f3b3952ab",
+      "company": "KLA",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6abd58750e027c0f3b3952ab",
+      "location": "Milpitas, CA",
+      "datePosted": 1792646431,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1792646282,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad8fc6267bec1d0d9c818ab",
@@ -39,10 +94,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1792645907,
       "source": "newgrad-jobs",
@@ -50,15 +105,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acfaf94c9f40bec907fd7b2",
-      "company": "KLA",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6acfaf94c9f40bec907fd7b2",
-      "location": "Milpitas, CA",
-      "datePosted": 1792645742,
+      "id": "newgrad-jobs:6ad9709c950ef68d51850cb1",
+      "company": "Amazon",
+      "title": "Data Engineer , PXT EXR-Ops Tech",
+      "url": "https://jobright.ai/jobs/info/6ad9709c950ef68d51850cb1",
+      "location": "Bellevue, WA",
+      "datePosted": 1792645890,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa041d9ea127c379469602d",
@@ -160,15 +215,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab31e3230340229a3231937",
+      "id": "newgrad-jobs:6aa08252dbc0e60e37e0e299",
       "company": "Garmin",
       "title": "Software Engineer 1 (Android)",
-      "url": "https://jobright.ai/jobs/info/6ab31e3230340229a3231937",
+      "url": "https://jobright.ai/jobs/info/6aa08252dbc0e60e37e0e299",
       "location": "Yarmouth, ME",
       "datePosted": 1792641327,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa0819aa2266b538d230da4",
@@ -191,6 +246,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
+      "company": "The Nuclear Company",
+      "title": "Spring 2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f",
+      "location": "Washington, DC",
+      "datePosted": 1792639968,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a71a43cee751e0c79344646",
@@ -611,39 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac413e9d9621c5b2839f91d",
-      "company": "Red Hat",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac413e9d9621c5b2839f91d",
-      "location": "Raleigh, NC; Boston, MA; Lowell, MA",
-      "datePosted": 1792634880,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad9d2245ded0e353ea6aa22",
-      "company": "CNH",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ad9d2245ded0e353ea6aa22",
-      "location": "Tempe, AZ",
-      "datePosted": 1792634804,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa0adb4dbc0e60e37e0f309",
-      "company": "CNH",
-      "title": "Software Engineer Intern - Python",
-      "url": "https://jobright.ai/jobs/info/6aa0adb4dbc0e60e37e0f309",
-      "location": "Sioux Falls, SD",
-      "datePosted": 1792634501,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
       "company": "Crusoe Energy",
       "title": "Software Engineer Intern",
@@ -651,39 +684,6 @@
       "location": "SF",
       "datePosted": 1792633321,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad9c77d5ded0e353ea6a738",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Arabic Speakers",
-      "url": "https://jobright.ai/jobs/info/6ad9c77d5ded0e353ea6a738",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Washington, DC; Los Angeles, CA; Boston, MA; Illinois, United States; Bellevue, WA; Austin, TX",
-      "datePosted": 1792632077,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad9c45cb0725dc268dddbe7",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-      "url": "https://jobright.ai/jobs/info/6ad9c45cb0725dc268dddbe7",
-      "location": "Cambridge, MA",
-      "datePosted": 1792631276,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad9c448b0725dc268dddbe5",
-      "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "url": "https://jobright.ai/jobs/info/6ad9c448b0725dc268dddbe5",
-      "location": "Redmond, WA",
-      "datePosted": 1792631256,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },

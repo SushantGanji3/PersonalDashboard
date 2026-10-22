@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:20:16Z",
+  "generatedAt": "2026-10-22T13:30:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792651217
+    },
+    {
+      "id": "newgrad-jobs:6aa17ab43272060a8e3eff0c",
+      "company": "S&P Global",
+      "title": "Machine Learning Engineer - Summer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa17ab43272060a8e3eff0c",
+      "location": "Cambridge, MA; New York, NY",
+      "datePosted": 1792646902,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792675817
+    },
+    {
+      "id": "newgrad-jobs:6abd58750e027c0f3b3952ab",
+      "company": "KLA",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6abd58750e027c0f3b3952ab",
+      "location": "Milpitas, CA",
+      "datePosted": 1792646431,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792675817
+    },
+    {
+      "id": "newgrad-jobs:6ad9709c950ef68d51850cb1",
+      "company": "Amazon",
+      "title": "Data Engineer , PXT EXR-Ops Tech",
+      "url": "https://jobright.ai/jobs/info/6ad9709c950ef68d51850cb1",
+      "location": "Bellevue, WA",
+      "datePosted": 1792645890,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792675817
     },
     {
       "id": "newgrad-jobs:6acfaf94c9f40bec907fd7b2",
@@ -58,6 +91,17 @@
       "firstSeenAt": 1792672219
     },
     {
+      "id": "newgrad-jobs:6aa08252dbc0e60e37e0e299",
+      "company": "Garmin",
+      "title": "Software Engineer 1 (Android)",
+      "url": "https://jobright.ai/jobs/info/6aa08252dbc0e60e37e0e299",
+      "location": "Yarmouth, ME",
+      "datePosted": 1792641327,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792675817
+    },
+    {
       "id": "newgrad-jobs:6aa3b3ec4238ea18d430d91a",
       "company": "Emerson",
       "title": "Software Engineering Co-op (Jun-Dec 2027)",
@@ -89,6 +133,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792672219
+    },
+    {
+      "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
+      "company": "The Nuclear Company",
+      "title": "Spring 2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f",
+      "location": "Washington, DC",
+      "datePosted": 1792639968,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1792675817
     },
     {
       "id": "newgrad-jobs:6ad14c2d256e49282e6543e6",
@@ -45717,17 +45772,6 @@
       "source": "newgrad-jobs",
       "season": "Summer",
       "firstSeenAt": 1790113817
-    },
-    {
-      "id": "newgrad-jobs:6ab30802326574570a004a3f",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ab30802326574570a004a3f",
-      "location": "Frisco, TX",
-      "datePosted": 1790083730,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790121017
     }
   ]
 }
