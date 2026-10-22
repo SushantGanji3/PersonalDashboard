@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T04:10:18Z",
+  "generatedAt": "2026-10-22T04:20:41Z",
   "windowDays": 30,
   "items": [
     {
@@ -177,6 +177,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792622418
+    },
+    {
+      "id": "newgrad-jobs:6ad97c94b0725dc268ddccdc",
+      "company": "CVS Health",
+      "title": "Full-Stack Engineer Training Program - June 2027 Cohort",
+      "url": "https://jobright.ai/jobs/info/6ad97c94b0725dc268ddccdc",
+      "location": "United States",
+      "datePosted": 1792612900,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792642841
+    },
+    {
+      "id": "newgrad-jobs:6a7b84833b399d106e4d715f",
+      "company": "Blend",
+      "title": "Software Engineer - AI Native (Full Stack)",
+      "url": "https://jobright.ai/jobs/info/6a7b84833b399d106e4d715f",
+      "location": "Raleigh, NC",
+      "datePosted": 1792611137,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792642841
     },
     {
       "id": "newgrad-jobs:6ad969d4b0725dc268ddc686",
@@ -716,6 +738,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792615818
+    },
+    {
+      "id": "newgrad-jobs:6ad2bc67810010ec72f59b77",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad2bc67810010ec72f59b77",
+      "location": "Cambridge, MA",
+      "datePosted": 1792585755,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792642841
     },
     {
       "id": "newgrad-jobs:6aa0b17bdbc0e60e37e0f481",
@@ -46212,17 +46245,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790095819
-    },
-    {
-      "id": "newgrad-jobs:6aa9c9faeff87f571fc9b92a",
-      "company": "Skild AI",
-      "title": "Deep Learning Manipulation Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa9c9faeff87f571fc9b92a",
-      "location": "San Francisco, CA",
-      "datePosted": 1790050222,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790088017
     }
   ]
 }
