@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:10:17Z",
+  "generatedAt": "2026-10-22T17:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792681817
+    },
+    {
+      "id": "newgrad-jobs:6ada37f0950ef68d518550f2",
+      "company": "CACI International Inc",
+      "title": "IT Analyst & Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ada37f0950ef68d518550f2",
+      "location": "Bethesda, MD",
+      "datePosted": 1792660864,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792689617
     },
     {
       "id": "newgrad-jobs:6ad9261667bec1d0d9c83d59",
@@ -45816,28 +45827,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790128217
-    },
-    {
-      "id": "newgrad-jobs:6ab319ae78c69ff506c42596",
-      "company": "Thrive Therapies",
-      "title": "Remote - Full-Stack Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab319ae78c69ff506c42596",
-      "location": "United States",
-      "datePosted": 1790097214,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790126893
-    },
-    {
-      "id": "newgrad-jobs:6ab3199678c69ff506c4258b",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - TS (Cleared)",
-      "url": "https://jobright.ai/jobs/info/6ab3199678c69ff506c4258b",
-      "location": "Reston, VA",
-      "datePosted": 1790097190,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790126893
     }
   ]
 }
