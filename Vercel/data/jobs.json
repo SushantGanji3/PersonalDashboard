@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22T04:20:41Z",
-  "totalOpen": 955,
-  "totalNewgrad": 243,
-  "totalOther": 712,
+  "generatedAt": "2026-10-22T04:30:17Z",
+  "totalOpen": 1260,
+  "totalNewgrad": 239,
+  "totalOther": 1021,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -94,6 +94,39 @@
       "isNew": false
     },
     {
+      "id": "simplify:e5234582-3d6d-4fef-b252-f20d885c21f4",
+      "company": "Apple",
+      "title": "Software Engineer - SoC Level Validation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200690790",
+      "location": "Austin, TX, Beaverton, OR, Waltham, MA, Cupertino, CA, San Diego, CA",
+      "datePosted": 1792622503,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:2c4c9dd7-7c52-418f-abff-10a4c150329e",
+      "company": "Twitch",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
+      "location": "Seattle, WA",
+      "datePosted": 1792622192,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:a06a1856-cdbd-4ca1-a106-b34bbefe114b",
+      "company": "Affirm",
+      "title": "Analyst \u2013 Early Career - Full Stack",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+      "location": "SF, Remote in USA, NYC",
+      "datePosted": 1792621833,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:250b02be-a1c4-4629-937c-bcba947df550",
       "company": "Meta AI",
       "title": "Research Intern - Audio Hardware",
@@ -157,7 +190,7 @@
       "datePosted": 1792612900,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad917d2b0725dc268dd9ad1",
@@ -171,6 +204,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad953c2b0725dc268ddbf33",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "url": "https://jobright.ai/jobs/info/6ad953c2b0725dc268ddbf33",
+      "location": "Cambridge, MA",
+      "datePosted": 1792612559,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a7b84833b399d106e4d715f",
       "company": "Blend",
       "title": "Software Engineer - AI Native (Full Stack)",
@@ -179,7 +223,7 @@
       "datePosted": 1792611137,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
@@ -193,34 +237,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad953c2b0725dc268ddbf33",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-      "url": "https://jobright.ai/jobs/info/6ad953c2b0725dc268ddbf33",
-      "location": "Cambridge, MA",
-      "datePosted": 1792608805,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad94675b0725dc268ddbaeb",
       "company": "Keysight Technologies",
       "title": "Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6ad94675b0725dc268ddbaeb",
       "location": "Calabasas, CA",
       "datePosted": 1792608268,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad969d4b0725dc268ddc686",
-      "company": "PROJXON",
-      "title": "Full Stack Developer (Intern)",
-      "url": "https://jobright.ai/jobs/info/6ad969d4b0725dc268ddc686",
-      "location": "United States",
-      "datePosted": 1792608100,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -809,6 +831,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad91f20950ef68d5184e3c3",
+      "company": "ZOVU",
+      "title": "Backend Developer Intern (Restaurant OS) \u2014 Fully Remote",
+      "url": "https://jobright.ai/jobs/info/6ad91f20950ef68d5184e3c3",
+      "location": "United States",
+      "datePosted": 1792588976,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
+      "company": "Amazon",
+      "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+      "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "location": "Cupertino, CA",
+      "datePosted": 1792546696,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
       "company": "Uber",
       "title": "Software Engineer Intern",
@@ -848,6 +892,39 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
       "location": "Seattle, WA, Remote in USA",
       "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:05891430-1723-4b9b-839e-f243696e66ef",
+      "company": "Etsy",
+      "title": "Software Engineer 1 - Marketplace Makers",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
+      "location": "Brooklyn, NY",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:d9b632c0-c73f-4641-957d-84ac0cdc4acf",
+      "company": "Chewy",
+      "title": "Software Engineer 1",
+      "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Software-Engineer-I_R31182-1",
+      "location": "Boston, MA, Plantation, FL",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
+      "company": "AQR Capital Management",
+      "title": "Software Engineer",
+      "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
+      "location": "Greenwich, CT",
+      "datePosted": 1792535030,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -985,6 +1062,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
+      "company": "Palantir",
+      "title": "Software Engineer New Grad - Query Engines",
+      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply",
+      "location": "NYC",
+      "datePosted": 1792459830,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:e8a2975b-62cb-450a-9629-f7210118211b",
       "company": "RTX",
       "title": "Software Engineering Intern",
@@ -1013,6 +1101,39 @@
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
       "location": "Richardson, TX",
       "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:e85971c7-fc74-4cf9-b661-6b4bde36305a",
+      "company": "RTX",
+      "title": "Software Engineer 1-Embedded Linux",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:caf2c40d-930b-4a27-9c3e-b4d2e80026bf",
+      "company": "RTX",
+      "title": "Software Engineer 1 - Core Services and Libraries",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494",
+      "location": "Huntsville, AL",
+      "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+      "company": "Amazon",
+      "title": "Software Engineer \u2013 Early Career",
+      "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+      "location": "Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington County, Arlington, VA, Minneapolis, MN, Denver, CO",
+      "datePosted": 1792449569,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1068,6 +1189,28 @@
       "url": "https://www.metacareers.com/jobs/2267351860492630",
       "location": "Redmond, WA",
       "datePosted": 1792449186,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:031e43ad-dfc9-4c7f-be98-c6616c6f60ab",
+      "company": "L3Harris",
+      "title": "Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Software-Engineer-CA-92009/1441501400/?ats=successfactors",
+      "location": "Carlsbad, CA",
+      "datePosted": 1792449178,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:685e432a-5583-46a1-a7ac-d9819bab8f8d",
+      "company": "Apple",
+      "title": "Software Engineer - IS&T",
+      "url": "https://jobs.apple.com/en-us/details/200688599",
+      "location": "Austin, TX",
+      "datePosted": 1792449035,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1181,149 +1324,6 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
-    },
-    {
-      "id": "simplify:c6cf89af-fd3e-48e3-b886-b14efade21e6",
-      "company": "TikTok",
-      "title": "Software Engineer Intern - Recommendation Performance Efficiency",
-      "url": "https://lifeattiktok.com/search/7673636206961641781",
-      "location": "San Jose, CA",
-      "datePosted": 1792114830,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:003d3576-aa77-444f-813f-3072e227f8bd",
-      "company": "TikTok",
-      "title": "Software Engineer Intern, Recommendation Performance Efficiency",
-      "url": "https://lifeattiktok.com/search/7673636206961641781",
-      "location": "San Jose, CA",
-      "datePosted": 1792114830,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936",
-      "company": "Apple",
-      "title": "SoC Machine Learning Software Engineer Intern",
-      "url": "https://jobs.apple.com/en-us/details/200689488",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1792114389,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:abedfbfb-5d56-4e56-a4bc-2ce1b5424f8d",
-      "company": "Abridge",
-      "title": "Member of Technical Staff Intern",
-      "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
-      "location": "SF",
-      "datePosted": 1792113271,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:dbc23bac-54e7-45c3-ad03-1f831ceee0b7",
-      "company": "Northrop Grumman",
-      "title": "Software Engineering Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1792108800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4b4cb315-35f7-4668-ac34-a05ba134f9ae",
-      "company": "Duolingo",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
-      "location": "Pittsburgh, PA, NYC",
-      "datePosted": 1792101723,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b7a2ad59-b10e-44b4-bc5c-53410f04e335",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
-      "url": "https://lifeattiktok.com/search/7694360101507762485",
-      "location": "Seattle, WA",
-      "datePosted": 1792018295,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6a52bbeb-8e4d-4bdc-a47d-146909ee1af7",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
-      "url": "https://lifeattiktok.com/search/7694362230074673461",
-      "location": "Seattle, WA",
-      "datePosted": 1792017957,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e8eec34a-bd13-454c-b322-cab784a820fa",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Live",
-      "url": "https://lifeattiktok.com/search/7694360097210861829",
-      "location": "Seattle, WA",
-      "datePosted": 1792017649,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d55e2c80-cc43-4f0d-b77b-2bb8884e57b0",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
-      "url": "https://lifeattiktok.com/search/7679220954338494773",
-      "location": "Seattle, WA",
-      "datePosted": 1792017648,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5dc52d6c-5a68-444c-93ad-dada1108efae",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-      "url": "https://lifeattiktok.com/search/7694362229701069109",
-      "location": "Seattle, WA",
-      "datePosted": 1792017648,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2a4e1069-9cf2-40f7-8610-0110cfc1fdeb",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Governance",
-      "url": "https://lifeattiktok.com/search/7694366551807265029",
-      "location": "Seattle, WA",
-      "datePosted": 1792017648,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0db77cad-7627-4766-bd99-7c9e76aebc99",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent",
-      "url": "https://lifeattiktok.com/search/7694365861943953717",
-      "location": "Seattle, WA",
-      "datePosted": 1792017647,
-      "source": "aggregator",
-      "season": null,
-      "isNew": true
     }
   ]
 }
