@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T02:40:16Z",
-  "totalOpen": 1267,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-10-22T02:50:15Z",
+  "totalOpen": 1266,
+  "totalNewgrad": 245,
   "totalOther": 1021,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1792628362,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e0f8d61d-374d-4b65-a6d9-046d2a8fd10c",
@@ -36,7 +36,7 @@
       "datePosted": 1792628362,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1d3ae82c-b797-450a-a50a-a11f5796a353",
@@ -47,7 +47,7 @@
       "datePosted": 1792628362,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:03b86019-4f02-41f9-96c2-a38984ee6ef1",
@@ -58,7 +58,7 @@
       "datePosted": 1792628362,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d7687131-1612-45c5-9362-a50a0a9134d5",
@@ -69,7 +69,7 @@
       "datePosted": 1792628362,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d9a3f66f-98d1-49a9-84b4-f51793252780",
@@ -80,7 +80,7 @@
       "datePosted": 1792628362,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a4b047bb-6d77-4e4e-84fe-6a1bf2ff0137",
@@ -91,7 +91,7 @@
       "datePosted": 1792626262,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e5234582-3d6d-4fef-b252-f20d885c21f4",
@@ -182,23 +182,100 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792609097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad953c2b0725dc268ddbf33",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "url": "https://jobright.ai/jobs/info/6ad953c2b0725dc268ddbf33",
+      "location": "Cambridge, MA",
+      "datePosted": 1792608805,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad94675b0725dc268ddbaeb",
+      "company": "Keysight Technologies",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ad94675b0725dc268ddbaeb",
+      "location": "Calabasas, CA",
+      "datePosted": 1792608268,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad917d2b0725dc268dd9ad1",
+      "company": "Etsy",
+      "title": "Software Engineer I, Marketplace Makers",
+      "url": "https://jobright.ai/jobs/info/6ad917d2b0725dc268dd9ad1",
+      "location": "Brooklyn, NY",
+      "datePosted": 1792608126,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad969d4b0725dc268ddc686",
+      "company": "PROJXON",
+      "title": "Full Stack Developer (Intern)",
+      "url": "https://jobright.ai/jobs/info/6ad969d4b0725dc268ddc686",
+      "location": "United States",
+      "datePosted": 1792608100,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8dfebb0725dc268dd6a12",
+      "company": "OSF HealthCare",
+      "title": "Machine Learning Analyst",
+      "url": "https://jobright.ai/jobs/info/6ad8dfebb0725dc268dd6a12",
+      "location": "Peoria, IL",
+      "datePosted": 1792608067,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad9682f39284cd524286d69",
+      "company": "Cohere Health",
+      "title": "Software Engineer I, Integrations",
+      "url": "https://jobright.ai/jobs/info/6ad9682f39284cd524286d69",
+      "location": "United States",
+      "datePosted": 1792607679,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad9459b67bec1d0d9c8526f",
+      "company": "Intel",
+      "title": "Information Security Engineer Undergraduate Intern",
+      "url": "https://jobright.ai/jobs/info/6ad9459b67bec1d0d9c8526f",
+      "location": "Folsom, CA",
+      "datePosted": 1792607339,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac6de8f064da25272e1cb27",
       "company": "Harbor Wholesale",
       "title": "WMS Software Developer I",
       "url": "https://jobright.ai/jobs/info/6ac6de8f064da25272e1cb27",
       "location": "Lacey, WA",
       "datePosted": 1792606553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad961aae4b94611ab85584b",
-      "company": "Innovita Write",
-      "title": "Front-End Developer Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6ad961aae4b94611ab85584b",
-      "location": "United States",
-      "datePosted": 1792606010,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -292,21 +369,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad953c2b0725dc268ddbf33",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-      "url": "https://jobright.ai/jobs/info/6ad953c2b0725dc268ddbf33",
-      "location": "Cambridge, MA",
-      "datePosted": 1792602450,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1792602068,
       "source": "newgrad-jobs",
@@ -358,17 +424,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad917d2b0725dc268dd9ad1",
-      "company": "Etsy",
-      "title": "Software Engineer I, Marketplace Makers",
-      "url": "https://jobright.ai/jobs/info/6ad917d2b0725dc268dd9ad1",
-      "location": "Brooklyn, NY",
-      "datePosted": 1792601013,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a51b74dae4052672fe9987b",
       "company": "Hive",
       "title": "Systems Engineer / DevOps",
@@ -391,21 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad94675b0725dc268ddbaeb",
-      "company": "Keysight Technologies",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ad94675b0725dc268ddbaeb",
-      "location": "Calabasas, CA",
-      "datePosted": 1792599045,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad665af950ef68d51839714",
+      "id": "newgrad-jobs:6ad663fa3dc655658d8e580d",
       "company": "Rivian",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad665af950ef68d51839714",
+      "url": "https://jobright.ai/jobs/info/6ad663fa3dc655658d8e580d",
       "location": "Palo Alto, CA",
       "datePosted": 1792598955,
       "source": "newgrad-jobs",
@@ -507,6 +551,17 @@
       "url": "https://jobright.ai/jobs/info/6ad93d6b67bec1d0d9c84b50",
       "location": "United States",
       "datePosted": 1792596731,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad69077e4b94611ab840340",
+      "company": "GBIT (Global Bridge InfoTech Inc)",
+      "title": "Junior Java Developer",
+      "url": "https://jobright.ai/jobs/info/6ad69077e4b94611ab840340",
+      "location": "Richardson, TX; Irving, TX; Dallas, TX",
+      "datePosted": 1792595019,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -782,61 +837,6 @@
       "url": "https://jobright.ai/jobs/info/6ad8e53be4b94611ab8501b4",
       "location": "Reston, VA",
       "datePosted": 1792587935,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad918cf39284cd52428418b",
-      "company": "Chewy",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad918cf39284cd52428418b",
-      "location": "Plantation, FL; Boston, MA",
-      "datePosted": 1792587653,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7f9c43dc655658d8f2285",
-      "company": "Rakuten International",
-      "title": "Intern - Software Engineer, AI User Experience",
-      "url": "https://jobright.ai/jobs/info/6ad7f9c43dc655658d8f2285",
-      "location": "Bellevue, WA",
-      "datePosted": 1792587598,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad27923f04335fc70ed5c44",
-      "company": "SpaceX Super Intelligence",
-      "title": "Summer 2027 Software Engineering Internship/Co-op",
-      "url": "https://jobright.ai/jobs/info/6ad27923f04335fc70ed5c44",
-      "location": "Palo Alto, CA",
-      "datePosted": 1792587562,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:69dd547af748bc5d08a5f52c",
-      "company": "Klarity",
-      "title": "AI Backend Engineer",
-      "url": "https://jobright.ai/jobs/info/69dd547af748bc5d08a5f52c",
-      "location": "San Francisco, CA",
-      "datePosted": 1792587485,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1aec9ef23570cae24598c",
-      "company": "True Anomaly",
-      "title": "Machine Learning Engineer (II-III), Space Edge Deployment",
-      "url": "https://jobright.ai/jobs/info/6aa1aec9ef23570cae24598c",
-      "location": "Denver, CO; Long Beach, CA",
-      "datePosted": 1792587399,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
