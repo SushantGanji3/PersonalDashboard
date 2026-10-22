@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:40:18Z",
+  "generatedAt": "2026-10-22T13:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792651217
+    },
+    {
+      "id": "newgrad-jobs:6ada076ee4b94611ab85874e",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ada076ee4b94611ab85874e",
+      "location": "Frisco, TX",
+      "datePosted": 1792648445,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792677017
     },
     {
       "id": "newgrad-jobs:6aa17ab43272060a8e3eff0c",
@@ -34,6 +45,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792675817
+    },
+    {
+      "id": "newgrad-jobs:6ad9052654bbabbab070b627",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6ad9052654bbabbab070b627",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1792646282,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792677017
     },
     {
       "id": "newgrad-jobs:6ad9709c950ef68d51850cb1",
@@ -45749,28 +45771,6 @@
       "datePosted": 1790085162,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "firstSeenAt": 1790113817
-    },
-    {
-      "id": "newgrad-jobs:6aa60da8654b2a9424cf717b",
-      "company": "Harbour Outdoor",
-      "title": "Junior Shopify Developer",
-      "url": "https://jobright.ai/jobs/info/6aa60da8654b2a9424cf717b",
-      "location": "Phoenix, AZ",
-      "datePosted": 1790084760,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790117418
-    },
-    {
-      "id": "newgrad-jobs:6a4a63e6f9cbb100d1ab4a1e",
-      "company": "Seven Research, LLC",
-      "title": "Deep Learning Researcher - Intern",
-      "url": "https://jobright.ai/jobs/info/6a4a63e6f9cbb100d1ab4a1e",
-      "location": "New York, NY",
-      "datePosted": 1790084641,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "firstSeenAt": 1790113817
     }
   ]
