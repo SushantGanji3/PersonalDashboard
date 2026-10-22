@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:10:16Z",
+  "generatedAt": "2026-10-22T06:20:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -122,6 +122,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792624217
+    },
+    {
+      "id": "newgrad-jobs:6ad99c30950ef68d51851a28",
+      "company": "InnoVision Marketing Group",
+      "title": "Web Developer",
+      "url": "https://jobright.ai/jobs/info/6ad99c30950ef68d51851a28",
+      "location": "San Diego, CA",
+      "datePosted": 1792620992,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792650018
     },
     {
       "id": "simplify:250b02be-a1c4-4629-937c-bcba947df550",
@@ -46146,28 +46157,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790087421
-    },
-    {
-      "id": "newgrad-jobs:6a9632fe3843db015990a01f",
-      "company": "EmbodyX",
-      "title": "Robotics Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a9632fe3843db015990a01f",
-      "location": "Belmont, CA",
-      "datePosted": 1790057974,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790087421
-    },
-    {
-      "id": "newgrad-jobs:6a4ec9bc397d8d353c28a544",
-      "company": "Jump Trading",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://jobright.ai/jobs/info/6a4ec9bc397d8d353c28a544",
-      "location": "Chicago, IL",
-      "datePosted": 1790057541,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790084417
     }
   ]
 }
