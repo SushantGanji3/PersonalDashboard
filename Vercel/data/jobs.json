@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-22T23:00:19Z",
-  "totalOpen": 1208,
-  "totalNewgrad": 225,
-  "totalOther": 983,
+  "generatedAt": "2026-10-22T23:10:17Z",
+  "totalOpen": 1214,
+  "totalNewgrad": 226,
+  "totalOther": 988,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:033a2dce-7821-4e99-b6e1-138c6671f830",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer Intern - Warp Speed",
+      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply",
+      "location": "NYC",
+      "datePosted": 1792708610,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:3a1df196-4b77-41ff-b9f7-833dfec00ba6",
+      "company": "JPMorgan Chase",
+      "title": "Asset Management Data Scientist \u2013 Summer Associate Intern",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931",
+      "location": "NYC",
+      "datePosted": 1792708054,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:40068b1c-1318-4f31-b141-aa63e3c51300",
       "company": "SpaceX",
@@ -257,6 +279,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac41543064da25272e111f5",
+      "company": "Bobyard",
+      "title": "Computer Vision Research Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ac41543064da25272e111f5",
+      "location": "San Francisco, CA",
+      "datePosted": 1792681367,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ada77a64c3adc437cecd719",
@@ -908,17 +941,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad9709c950ef68d51850cb1",
-      "company": "Amazon",
-      "title": "Data Engineer , PXT EXR-Ops Tech",
-      "url": "https://jobright.ai/jobs/info/6ad9709c950ef68d51850cb1",
-      "location": "Bellevue, WA",
-      "datePosted": 1792667186,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
       "company": "Amazon",
       "title": "Robotics Embedded Software Development Engineer",
@@ -1301,28 +1323,6 @@
       "datePosted": 1792479600,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5239a1e7-2786-4567-8857-278d62136ab9",
-      "company": "Salesforce",
-      "title": "AI Research Intern",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1792479600,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:7605b774-f61b-4d04-876b-25c5e5883f86",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Query Engines",
-      "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply",
-      "location": "NYC",
-      "datePosted": 1792459830,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
