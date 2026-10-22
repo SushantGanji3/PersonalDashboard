@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22T08:50:17Z",
-  "totalOpen": 1246,
+  "generatedAt": "2026-10-22T09:00:19Z",
+  "totalOpen": 1245,
   "totalNewgrad": 225,
-  "totalOther": 1021,
+  "totalOther": 1020,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1792631276,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad9c448b0725dc268dddbe5",
@@ -47,7 +47,7 @@
       "datePosted": 1792631256,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:471abfae-b7b5-40a6-8110-8551a217d121",
@@ -1282,17 +1282,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:1b40b83a-f006-4926-9a9e-5997a2230142",
-      "company": "General Dynamics",
-      "title": "Software Developer Intern",
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
-      "location": "Egg Harbor Township, NJ",
-      "datePosted": 1792368000,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:fcaabe5a-3ec2-4cfa-9c3e-0a37447d5f83",
       "company": "Together AI",
       "title": "Research Intern, Frontier Speculative Decoding",
@@ -1323,6 +1312,17 @@
       "datePosted": 1792189400,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:e63325d8-afb1-4cca-92b5-eb218f55685f",
+      "company": "Together AI",
+      "title": "Hardware Security Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+      "location": "San Francisco, CA",
+      "datePosted": 1792183174,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
