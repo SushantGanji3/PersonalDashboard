@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T20:40:17Z",
-  "totalOpen": 1176,
-  "totalNewgrad": 223,
+  "generatedAt": "2026-10-22T20:50:17Z",
+  "totalOpen": 1172,
+  "totalNewgrad": 219,
   "totalOther": 953,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -72,26 +72,37 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada61933a69033df22585ce",
-      "company": "The Aerospace Corporation",
-      "title": "Junior Full Stack Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada61933a69033df22585ce",
-      "location": "Chantilly, VA",
-      "datePosted": 1792671523,
+      "id": "newgrad-jobs:6ada63be950ef68d51856d3f",
+      "company": "Peraton",
+      "title": "Junior Data Engineer (ETL/GIS)",
+      "url": "https://jobright.ai/jobs/info/6ada63be950ef68d51856d3f",
+      "location": "United States",
+      "datePosted": 1792672078,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6ada60003a69033df22584ec",
-      "company": "Todd",
-      "title": "Backend Software Engineer Intern (Winter '26)",
-      "url": "https://jobright.ai/jobs/info/6ada60003a69033df22584ec",
-      "location": "United States",
-      "datePosted": 1792671120,
+      "id": "newgrad-jobs:6a9936ddf6de551aa0aaeec5",
+      "company": "SpaceX Super Intelligence",
+      "title": "Software Engineer, Ads Product",
+      "url": "https://jobright.ai/jobs/info/6a9936ddf6de551aa0aaeec5",
+      "location": "Palo Alto, CA",
+      "datePosted": 1792672057,
       "source": "newgrad-jobs",
-      "season": "Winter",
-      "isNew": false
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ada6190e4b94611ab85bd74",
+      "company": "The Aerospace Corporation",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6ada6190e4b94611ab85bd74",
+      "location": "Chantilly, VA",
+      "datePosted": 1792671427,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa168692f936e4a53dab862",
@@ -102,17 +113,6 @@
       "datePosted": 1792670084,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada5bcee4b94611ab85b9e6",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ada5bcee4b94611ab85b9e6",
-      "location": "Frisco, TX",
-      "datePosted": 1792670046,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -133,17 +133,6 @@
       "url": "https://jobright.ai/jobs/info/6ada5b7654bbabbab071534c",
       "location": "United States",
       "datePosted": 1792669958,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada5b45950ef68d51856830",
-      "company": "Axon",
-      "title": "Artificial Intelligence / Machine Learning Internship, Dedrone",
-      "url": "https://jobright.ai/jobs/info/6ada5b45950ef68d51856830",
-      "location": "Sterling, VA",
-      "datePosted": 1792669909,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -215,21 +204,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1682c3272060a8e3ef935",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1682c3272060a8e3ef935",
-      "location": "Vienna, VA",
-      "datePosted": 1792669307,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa16828dbc0e60e37e111ab",
+      "id": "newgrad-jobs:6aa1630cdbc0e60e37e110e4",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Associate Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ab",
+      "url": "https://jobright.ai/jobs/info/6aa1630cdbc0e60e37e110e4",
       "location": "Vienna, VA",
       "datePosted": 1792669307,
       "source": "newgrad-jobs",
@@ -237,15 +215,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa0790ca2266b538d230a6b",
+      "id": "newgrad-jobs:6aa163130ffb3d4fea6b481a",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Data Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa163130ffb3d4fea6b481a",
+      "location": "Vienna, VA",
+      "datePosted": 1792669307,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa084793b5aa83237b09a7c",
       "company": "SWBC",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa0790ca2266b538d230a6b",
+      "url": "https://jobright.ai/jobs/info/6aa084793b5aa83237b09a7c",
       "location": "San Antonio, TX",
       "datePosted": 1792669299,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6acfab4cc0dd9da253cf3d7f",
@@ -622,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa16319dbc0e60e37e110ed",
+      "id": "newgrad-jobs:6aa168330ffb3d4fea6b48e9",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (AI Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa16319dbc0e60e37e110ed",
+      "url": "https://jobright.ai/jobs/info/6aa168330ffb3d4fea6b48e9",
       "location": "Vienna, VA",
       "datePosted": 1792666485,
       "source": "newgrad-jobs",
@@ -729,6 +718,17 @@
       "datePosted": 1792665381,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7f8148e51a1e18a2413669",
+      "company": "Twitch",
+      "title": "Software Engineer I, Payments",
+      "url": "https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669",
+      "location": "San Francisco, CA",
+      "datePosted": 1792665309,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
