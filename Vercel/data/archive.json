@@ -1,7 +1,205 @@
 {
-  "generatedAt": "2026-10-22T22:30:17Z",
+  "generatedAt": "2026-10-22T22:40:17Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:40068b1c-1318-4f31-b141-aa63e3c51300",
+      "company": "SpaceX",
+      "title": "Software Engineer - Linux Kernel - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852114002",
+      "location": "Redmond, WA",
+      "datePosted": 1792708018,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:dce78796-c3cc-4b57-827a-6fa91cc08682",
+      "company": "SpaceX",
+      "title": "Software Engineer, Linux Kernel - Linux Kernel",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852121002",
+      "location": "Bellevue, WA",
+      "datePosted": 1792708017,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:c4f7b9a7-0136-490c-891e-ee3a84d6864c",
+      "company": "1Password",
+      "title": "Developer Intern - Vault Team",
+      "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
+      "location": "Remote in USA, Remote in Canada",
+      "datePosted": 1792707736,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:379fb3aa-7732-4809-8b51-dac32b966e6c",
+      "company": "1Password",
+      "title": "Developer Intern - Extension Excellence",
+      "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
+      "location": "Remote in USA, Remote in Canada",
+      "datePosted": 1792707736,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:28e22b29-32bb-4e01-8a30-19fea4fe8f28",
+      "company": "1Password",
+      "title": "Developer Intern - Provisioning",
+      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
+      "location": "Remote in USA, Remote in Canada",
+      "datePosted": 1792707736,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:1c5e8952-b8d8-438e-a4a2-0c43e815da28",
+      "company": "1Password",
+      "title": "Developer Intern - Machine Identity",
+      "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
+      "location": "Remote in USA, Remote in Canada",
+      "datePosted": 1792707736,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:a8540a76-75da-4ebe-9e00-0e8eefa3b9cf",
+      "company": "1Password",
+      "title": "Developer Intern - Front-End Platform",
+      "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true",
+      "location": "Remote in USA, Remote in Canada",
+      "datePosted": 1792707736,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:d1a66cfc-7c5a-48aa-a8a4-d6b7e8e0aac5",
+      "company": "Skydio",
+      "title": "Frontend Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true",
+      "location": "San Mateo, CA",
+      "datePosted": 1792707511,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:fe211c04-d1db-4e44-8c1d-342a990d5377",
+      "company": "Twitch",
+      "title": "Undergrad Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
+      "location": "SF",
+      "datePosted": 1792707314,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:b8ad9c39-bb0c-4553-98d2-04e0b1690a01",
+      "company": "Twitch",
+      "title": "Undergrad Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+      "location": "SF",
+      "datePosted": 1792707313,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:30ef7e36-6232-4c97-a0a2-f1e7acec8ee7",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - AI Alignment",
+      "url": "https://www.metacareers.com/jobs/2356892281747003",
+      "location": "Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC",
+      "datePosted": 1792707013,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:b997ca1f-399c-40bb-88af-2a86fe6e7f98",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Fair - Video Generation",
+      "url": "https://www.metacareers.com/jobs/3549654831867862",
+      "location": "Seattle, WA, Menlo Park, CA",
+      "datePosted": 1792707012,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:fe6e8418-4f04-486e-a068-b40390792ac4",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - World-Model Aware Perception & Communication",
+      "url": "https://www.metacareers.com/jobs/1097992326377524",
+      "location": "Redmond, WA",
+      "datePosted": 1792707011,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:8b599158-a049-4b75-ae8c-b77507baaa9a",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Multi-Agent Systems and Memory",
+      "url": "https://www.metacareers.com/jobs/2615214025585454",
+      "location": "Seattle, WA, NYC, Bellevue, WA",
+      "datePosted": 1792707011,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:e890215c-7b5f-43f6-8251-c07fdd2c0345",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Feed Recommendations",
+      "url": "https://www.metacareers.com/jobs/29044546168568671",
+      "location": "Bellevue, WA",
+      "datePosted": 1792707010,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:b98975bd-f371-4245-ab31-468762e056c6",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - FAIR - Multimodal Foundations",
+      "url": "https://www.metacareers.com/jobs/2322361288548512",
+      "location": "Boston, MA, SF, Menlo Park, CA, NYC, Bellevue, WA",
+      "datePosted": 1792707010,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:98a4f1e7-ff51-4d1a-9395-cf93c25f6f14",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Physical Engineering AI",
+      "url": "https://www.metacareers.com/jobs/1081255008061721",
+      "location": "Seattle, WA, NYC",
+      "datePosted": 1792707010,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
+    {
+      "id": "simplify:1d987e0c-f34d-40f3-9d6b-aac26b690333",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - FAIR Chemistry",
+      "url": "https://www.metacareers.com/jobs/2162858564439476",
+      "location": "SF",
+      "datePosted": 1792707008,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
+    },
     {
       "id": "simplify:42b214fe-48b1-4f78-ba30-82ec84babd47",
       "company": "Northrop Grumman",
@@ -56,6 +254,17 @@
       "source": "aggregator",
       "season": "Winter",
       "firstSeenAt": 1792698615
+    },
+    {
+      "id": "newgrad-jobs:6ada894854bbabbab0717565",
+      "company": "Metropolitan Transportation Authority",
+      "title": "Application Developer Analyst Levels 1 - 2",
+      "url": "https://jobright.ai/jobs/info/6ada894854bbabbab0717565",
+      "location": "Jamaica, NY",
+      "datePosted": 1792681688,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792708817
     },
     {
       "id": "newgrad-jobs:6ada77a64c3adc437cecd719",
@@ -1805,6 +2014,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792636816
+    },
+    {
+      "id": "simplify:7a61173c-4b74-46ad-bf86-831048ae1170",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
+      "location": "Maryland Heights, MO, Hazelwood, MO",
+      "datePosted": 1792627200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
     },
     {
       "id": "newgrad-jobs:6ad9b2ff950ef68d51851e16",
@@ -13201,6 +13421,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792030215
+    },
+    {
+      "id": "simplify:9c7fd5ef-e102-4131-9530-64b9f976d432",
+      "company": "Boeing",
+      "title": "Entry Level Software Engineer-Developer - Development",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1",
+      "location": "Oklahoma City, OK",
+      "datePosted": 1791936000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792708817
     },
     {
       "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
