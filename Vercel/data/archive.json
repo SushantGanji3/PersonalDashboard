@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:00:18Z",
+  "generatedAt": "2026-10-23T12:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -3015,6 +3015,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792753816
+    },
+    {
+      "id": "simplify:3acab1ad-8c1c-4e51-b8d6-95ea67db24c1",
+      "company": "RTX",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451",
+      "location": "Remote in USA, Richardson, TX",
+      "datePosted": 1792627200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792757416
     },
     {
       "id": "newgrad-jobs:6ad9b2ff950ef68d51851e16",
@@ -46333,50 +46344,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790202655
-    },
-    {
-      "id": "newgrad-jobs:6ab424160e0ae54eeea46ddb",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab424160e0ae54eeea46ddb",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790165414,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790192417
-    },
-    {
-      "id": "newgrad-jobs:6ab4241655e9168cf5ea4b31",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab4241655e9168cf5ea4b31",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790165414,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790192417
-    },
-    {
-      "id": "newgrad-jobs:6ab4236dd2f5fbd604be1cc0",
-      "company": "Microsoft",
-      "title": "Software Engineer - Android",
-      "url": "https://jobright.ai/jobs/info/6ab4236dd2f5fbd604be1cc0",
-      "location": "Mountain View, CA",
-      "datePosted": 1790165245,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790192417
-    },
-    {
-      "id": "newgrad-jobs:6ab421c564816213f2d97774",
-      "company": "CJ Schwan's",
-      "title": "IT Systems Developer Internship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ab421c564816213f2d97774",
-      "location": "Hopkins, MN; Marshall, MN",
-      "datePosted": 1790164821,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790193018
     }
   ]
 }
