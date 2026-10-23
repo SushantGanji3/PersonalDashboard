@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T08:30:16Z",
-  "totalOpen": 1221,
+  "generatedAt": "2026-10-23T08:40:15Z",
+  "totalOpen": 1207,
   "totalNewgrad": 220,
-  "totalOther": 1001,
+  "totalOther": 987,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -1260,17 +1260,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:250b02be-a1c4-4629-937c-bcba947df550",
-      "company": "Meta AI",
-      "title": "Research Intern - Audio Hardware",
-      "url": "https://www.metacareers.com/jobs/1445807477756644",
-      "location": "Redmond, WA",
-      "datePosted": 1792620484,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:cfaefc82-5787-4e0b-8091-f6b29bce3bda",
       "company": "Meta AI",
       "title": "Research Scientist Intern - Foundational Models for Robotics Research",
@@ -1324,6 +1313,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
+      "company": "Uber",
+      "title": "Software Engineer Intern",
+      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
+      "location": "Seattle, WA, SF, Sunnyvale, CA",
+      "datePosted": 1792545218,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     }
   ]
 }
