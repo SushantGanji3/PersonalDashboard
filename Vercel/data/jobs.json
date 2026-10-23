@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T09:30:20Z",
-  "totalOpen": 1179,
-  "totalNewgrad": 219,
-  "totalOther": 960,
+  "generatedAt": "2026-10-23T09:40:16Z",
+  "totalOpen": 1160,
+  "totalNewgrad": 215,
+  "totalOther": 945,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -112,6 +112,28 @@
       "location": "SF",
       "datePosted": 1792719928,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a72f52f5049141ad172bf7a",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern (Creation Platform) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a72f52f5049141ad172bf7a",
+      "location": "San Jose, CA",
+      "datePosted": 1792719255,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7bfef67bec1d0d9c78985",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6ad7bfef67bec1d0d9c78985",
+      "location": "Des Moines, IA",
+      "datePosted": 1792716395,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -314,34 +336,12 @@
       "isNew": false
     },
     {
-      "id": "simplify:b8ad9c39-bb0c-4553-98d2-04e0b1690a01",
-      "company": "Twitch",
-      "title": "Undergrad Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
-      "location": "SF",
-      "datePosted": 1792707313,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:30ef7e36-6232-4c97-a0a2-f1e7acec8ee7",
       "company": "Meta AI",
       "title": "Research Scientist Intern - AI Alignment",
       "url": "https://www.metacareers.com/jobs/2356892281747003",
       "location": "Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC",
       "datePosted": 1792707013,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b997ca1f-399c-40bb-88af-2a86fe6e7f98",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Fair - Video Generation",
-      "url": "https://www.metacareers.com/jobs/3549654831867862",
-      "location": "Seattle, WA, Menlo Park, CA",
-      "datePosted": 1792707012,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -358,33 +358,11 @@
       "isNew": false
     },
     {
-      "id": "simplify:8b599158-a049-4b75-ae8c-b77507baaa9a",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Multi-Agent Systems and Memory",
-      "url": "https://www.metacareers.com/jobs/2615214025585454",
-      "location": "Seattle, WA, NYC, Bellevue, WA",
-      "datePosted": 1792707011,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e890215c-7b5f-43f6-8251-c07fdd2c0345",
       "company": "Meta AI",
       "title": "Research Scientist Intern - Feed Recommendations",
       "url": "https://www.metacareers.com/jobs/29044546168568671",
       "location": "Bellevue, WA",
-      "datePosted": 1792707010,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b98975bd-f371-4245-ab31-468762e056c6",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - FAIR - Multimodal Foundations",
-      "url": "https://www.metacareers.com/jobs/2322361288548512",
-      "location": "Boston, MA, SF, Menlo Park, CA, NYC, Bellevue, WA",
       "datePosted": 1792707010,
       "source": "aggregator",
       "season": null,
@@ -743,10 +721,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada9fd73a69033df225aef7",
+      "id": "newgrad-jobs:6ada916e950ef68d51858f50",
       "company": "HDR",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada9fd73a69033df225aef7",
+      "url": "https://jobright.ai/jobs/info/6ada916e950ef68d51858f50",
       "location": "Omaha, NE; St. Louis, MO; Minneapolis, MN; Seattle, WA; Salt Lake City, UT",
       "datePosted": 1792689832,
       "source": "newgrad-jobs",
@@ -842,10 +820,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1792688494,
       "source": "newgrad-jobs",
@@ -897,6 +875,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ada938903d2da7528916dad",
+      "company": "J-Mack Technologies, LLC",
+      "title": "Java Software Engineer (Junior Level)",
+      "url": "https://jobright.ai/jobs/info/6ada938903d2da7528916dad",
+      "location": "United States",
+      "datePosted": 1792684986,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ada5a6e54bbabbab07152b0",
       "company": "1Password",
       "title": "Developer Intern, Extension Excellence - Winter 2027",
@@ -938,17 +927,6 @@
       "datePosted": 1792683031,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada938903d2da7528916dad",
-      "company": "J-Mack Technologies, LLC",
-      "title": "Java Software Engineer (Junior Level)",
-      "url": "https://jobright.ai/jobs/info/6ada938903d2da7528916dad",
-      "location": "United States",
-      "datePosted": 1792682908,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1101,28 +1079,6 @@
       "url": "https://jobright.ai/jobs/info/6ada7ac54c3adc437cecd96b",
       "location": "Dayton, OH",
       "datePosted": 1792677973,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada7aad54bbabbab0716d0a",
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer (SkillBridge Intern) - 23875 Job Details | HII's Mission Technologies division",
-      "url": "https://jobright.ai/jobs/info/6ada7aad54bbabbab0716d0a",
-      "location": "Roanoke, VA",
-      "datePosted": 1792677949,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada7a3154bbabbab0716ccb",
-      "company": "ScoutBetter",
-      "title": "Software Engineer I(Twitch)",
-      "url": "https://jobright.ai/jobs/info/6ada7a3154bbabbab0716ccb",
-      "location": "Seattle, WA",
-      "datePosted": 1792677825,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1323,6 +1279,50 @@
       "datePosted": 1792545218,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:f4b3cda9-f601-4fa9-a4ef-1dfbda2de5e3",
+      "company": "RTX",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:6244dbb0-e314-486b-b2c6-143c829bd211",
+      "company": "Zillow",
+      "title": "Software Development Engineer Intern",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
+      "location": "Seattle, WA, Remote in USA",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:05891430-1723-4b9b-839e-f243696e66ef",
+      "company": "Etsy",
+      "title": "Software Engineer 1 - Marketplace Makers",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
+      "location": "Brooklyn, NY",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:49be5b86-a304-4f4f-9dd1-8679a000858a",
+      "company": "Expedia",
+      "title": "Software Developer 1 Intern",
+      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+      "location": "Springfield, MO",
+      "datePosted": 1792540800,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
