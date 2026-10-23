@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-23T22:30:17Z",
-  "totalOpen": 1252,
-  "totalNewgrad": 224,
-  "totalOther": 1028,
+  "generatedAt": "2026-10-23T22:33:55Z",
+  "totalOpen": 1256,
+  "totalNewgrad": 223,
+  "totalOther": 1033,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:9ee09be0-74d4-4f17-be8c-6ee90eefdb45",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - AI Core Machine Learning",
+      "url": "https://www.metacareers.com/jobs/1648122343381284",
+      "location": "Seattle, WA, Bellevue, WA, Sunnyvale, CA",
+      "datePosted": 1792793130,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:216cdc89-c91f-4158-90d5-5b927673a806",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Wearable Sensing & Human Motion Analysis",
+      "url": "https://www.metacareers.com/jobs/1137225375529389",
+      "location": "Redmond, WA",
+      "datePosted": 1792793116,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:7d4bf842-2fbf-45b5-b64b-b5a0bd04af70",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Meta Recommendation Systems - Core ML",
+      "url": "https://www.metacareers.com/jobs/1023154190171838",
+      "location": "Seattle, WA, Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1792793115,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:8f92f713-831e-414a-9cc3-067cf3b3ba4f",
+      "company": "ServiceNow",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
+      "location": "Santa Clara, CA",
+      "datePosted": 1792790698,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:c4dc3458-525a-41e5-a1cc-5508b08f1c45",
+      "company": "Epic Games",
+      "title": "Tools Programmer Intern - Graphics",
+      "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
+      "location": "Cary, NC",
+      "datePosted": 1792780820,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:6b726fee-7dce-4e72-8290-b7d2b8d6803b",
       "company": "Cisco",
@@ -83,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adbd0c2389e06bb41ad45ea",
-      "company": "ServiceNow",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6adbd0c2389e06bb41ad45ea",
-      "location": "Santa Clara, CA; Kirkland, WA",
-      "datePosted": 1792765522,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6adbcfb69e3e874dbfba2430",
       "company": "IDEMIA",
       "title": "Software Engineering Internship - Enrollment and Credentialing Services",
@@ -102,7 +146,7 @@
       "datePosted": 1792765254,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac95503d4a5a03707411f75",
@@ -113,7 +157,7 @@
       "datePosted": 1792765190,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b29c852f-50f9-42bc-a4b6-65ef06b990be",
@@ -322,7 +366,7 @@
       "datePosted": 1792760569,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adbbb010a4cc7090f9746c6",
@@ -760,6 +804,17 @@
       "url": "https://jobright.ai/jobs/info/6ad9c45cb0725dc268dddbe7",
       "location": "Cambridge, MA",
       "datePosted": 1792747163,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3a7f2959a10d7230d308c",
+      "company": "Peraton",
+      "title": "Software Engineering, Associate (DevOps) - Herndon, VA",
+      "url": "https://jobright.ai/jobs/info/6aa3a7f2959a10d7230d308c",
+      "location": "Herndon, VA",
+      "datePosted": 1792746999,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1268,61 +1323,6 @@
       "datePosted": 1792695374,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:93a497d3-86cc-4858-8192-3ed8138ff6e2",
-      "company": "Microsoft",
-      "title": "Security Research Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
-      "location": "Redmond, WA",
-      "datePosted": 1792690514,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:a57764e3-5a81-4935-827d-b611713d863e",
-      "company": "1Password",
-      "title": "Developer Intern, Provisioning",
-      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
-      "location": "Remote in USA",
-      "datePosted": 1792686914,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:c315a606-a3aa-400f-9938-a356d577630d",
-      "company": "1Password",
-      "title": "Developer Intern, Front-End Platform",
-      "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
-      "location": "Remote in USA",
-      "datePosted": 1792683314,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:770d0c2e-5cd5-4716-b307-3db3d3f8e1ce",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Central Applied Science",
-      "url": "https://www.metacareers.com/jobs/1582569213186235",
-      "location": "Menlo Park, CA, NYC",
-      "datePosted": 1792679304,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:134db861-9a8c-46b3-a7d9-b4992de19d9b",
-      "company": "Amazon",
-      "title": "Frontier AI & Robotics Intern",
-      "url": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
-      "location": "San Francisco, CA",
-      "datePosted": 1792652400,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
