@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:00:20Z",
+  "generatedAt": "2026-10-23T10:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -6722,6 +6722,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792451416
+    },
+    {
+      "id": "simplify:0b57208e-fafb-4160-8214-c8403abf2ac7",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1792449175,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1792750216
     },
     {
       "id": "simplify:685e432a-5583-46a1-a7ac-d9819bab8f8d",
@@ -46223,39 +46234,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790190023
-    },
-    {
-      "id": "newgrad-jobs:6a96e8eee4e60e4b8da5aae3",
-      "company": "World Wide Technology",
-      "title": "Cloud Developer",
-      "url": "https://jobright.ai/jobs/info/6a96e8eee4e60e4b8da5aae3",
-      "location": "Anytown, Missouri, United States; Scott Air Force Base, IL",
-      "datePosted": 1790157915,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790190023
-    },
-    {
-      "id": "newgrad-jobs:6ab4060ad2f5fbd604be1033",
-      "company": "State Farm",
-      "title": "Summer 2027 Intern - HR&D - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ab4060ad2f5fbd604be1033",
-      "location": "Bloomington, IL; Richardson, TX; Dunwoody, GA; Tempe, AZ",
-      "datePosted": 1790157722,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790185817
-    },
-    {
-      "id": "newgrad-jobs:6a96c047455eaf6a08c1874c",
-      "company": "SRC",
-      "title": "Software Engineer (Intern - Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a96c047455eaf6a08c1874c",
-      "location": "Fairborn, OH; Syracuse, NY",
-      "datePosted": 1790157640,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790185817
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T10:00:20Z",
-  "totalOpen": 1162,
+  "generatedAt": "2026-10-23T10:10:16Z",
+  "totalOpen": 1149,
   "totalNewgrad": 217,
-  "totalOther": 945,
+  "totalOther": 932,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -47,7 +47,7 @@
       "datePosted": 1792721249,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa184d62f936e4a53dac0c7",
@@ -58,7 +58,7 @@
       "datePosted": 1792721180,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adb22f0aee75c4e7d2e7221",
@@ -69,7 +69,7 @@
       "datePosted": 1792721024,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adb20a6aee75c4e7d2e7100",
@@ -80,7 +80,7 @@
       "datePosted": 1792720438,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
@@ -113,7 +113,7 @@
       "datePosted": 1792719997,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adb1ee791f93f4b05716a56",
@@ -124,7 +124,7 @@
       "datePosted": 1792719991,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:78ea4501-d20c-468c-a9f7-9374fd9a67ad",
@@ -190,7 +190,7 @@
       "datePosted": 1792719819,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a72f52f5049141ad172bf7a",
@@ -397,17 +397,6 @@
       "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true",
       "location": "San Mateo, CA",
       "datePosted": 1792707511,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fe211c04-d1db-4e44-8c1d-342a990d5377",
-      "company": "Twitch",
-      "title": "Undergrad Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
-      "location": "SF",
-      "datePosted": 1792707314,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1323,6 +1312,17 @@
       "datePosted": 1792540800,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
+      "company": "AQR Capital Management",
+      "title": "Software Engineer",
+      "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
+      "location": "Greenwich, CT",
+      "datePosted": 1792535030,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
