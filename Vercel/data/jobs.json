@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-23T14:10:16Z",
-  "totalOpen": 1193,
-  "totalNewgrad": 224,
+  "generatedAt": "2026-10-23T14:20:17Z",
+  "totalOpen": 1191,
+  "totalNewgrad": 222,
   "totalOther": 969,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6abee88bd9621c5b283924b1",
+      "company": "GE Vernova",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abee88bd9621c5b283924b1",
+      "location": "Roanoke, VA",
+      "datePosted": 1792736948,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adb5e0bc5c64fa3d9caf089",
+      "company": "1Password",
+      "title": "Developer Intern, Developer Interfaces - Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6adb5e0bc5c64fa3d9caf089",
+      "location": "United States; Canada",
+      "datePosted": 1792736155,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adb5dff9e3e874dbfb9f8a4",
+      "company": "1Password",
+      "title": "Developer Intern, Credential Brokering - Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6adb5dff9e3e874dbfb9f8a4",
+      "location": "United States; Canada",
+      "datePosted": 1792736143,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3b9de4233a2201a2b3280",
+      "company": "Rover.com",
+      "title": "Entry Level Software Engineer, Recommendations",
+      "url": "https://jobright.ai/jobs/info/6aa3b9de4233a2201a2b3280",
+      "location": "Seattle, WA",
+      "datePosted": 1792735908,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abe96980e027c0f3b399b35",
+      "company": "Pinterest",
+      "title": "Software Engineer Intern 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6abe96980e027c0f3b399b35",
+      "location": "United States",
+      "datePosted": 1792735841,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6adb5aed46a8cabdc1ff27b9",
       "company": "MongoDB",
@@ -17,26 +72,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1c4e42f936e4a53dadf60",
+      "id": "newgrad-jobs:6aa1a9e00ffb3d4fea6b662a",
       "company": "Leader Bank",
       "title": "Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aa1c4e42f936e4a53dadf60",
+      "url": "https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
       "location": "Arlington, MA",
       "datePosted": 1792735208,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb58eb46a8cabdc1ff276d",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adb58eb46a8cabdc1ff276d",
-      "location": "Frisco, TX",
-      "datePosted": 1792734843,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adb58829e3e874dbfb9f765",
@@ -248,10 +292,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad9052654bbabbab070b627",
+      "id": "newgrad-jobs:6aa95da028e24cb38513a038",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6ad9052654bbabbab070b627",
+      "url": "https://jobright.ai/jobs/info/6aa95da028e24cb38513a038",
       "location": "Salt Lake City, UT",
       "datePosted": 1792731987,
       "source": "newgrad-jobs",
@@ -652,50 +696,6 @@
       "datePosted": 1792722499,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab600bdb3db59402d0ff9c9",
-      "company": "Kearney",
-      "title": "Kearney Activate - Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ab600bdb3db59402d0ff9c9",
-      "location": "Washington, DC; Arlington, VA; Boston, MA; East Coast, United States",
-      "datePosted": 1792722488,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9b4dbe9c24314c35f98dc2",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Software Developer Intern - Huntsville, AL",
-      "url": "https://jobright.ai/jobs/info/6a9b4dbe9c24314c35f98dc2",
-      "location": "Huntsville, AL",
-      "datePosted": 1792722443,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1792722379,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9b4db82cdc5958f53ebf7a",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Systems Engineer Intern - Colorado Springs, CO",
-      "url": "https://jobright.ai/jobs/info/6a9b4db82cdc5958f53ebf7a",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1792722277,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
