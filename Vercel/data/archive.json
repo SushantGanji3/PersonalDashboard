@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:30:18Z",
+  "generatedAt": "2026-10-23T12:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -8724,6 +8724,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792536016
+    },
+    {
+      "id": "simplify:73aa2322-4528-400f-b46e-b6d1f4fdba4d",
+      "company": "RTX",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792368000,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1792759216
     },
     {
       "id": "newgrad-jobs:6ad664b754bbabbab06f7ae5",
@@ -46322,17 +46333,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790197220
-    },
-    {
-      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
-      "company": "Figma",
-      "title": "Data Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790166988,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790194818
     }
   ]
 }
