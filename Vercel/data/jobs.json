@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:10:15Z",
+  "generatedAt": "2026-10-23T21:20:15Z",
   "totalOpen": 1261,
   "totalNewgrad": 232,
   "totalOther": 1029,
@@ -102,6 +102,17 @@
       "datePosted": 1792764305,
       "source": "aggregator",
       "season": "Winter",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3ba27c5a856ac7e33b3df",
+      "company": "Exegy",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3ba27c5a856ac7e33b3df",
+      "location": "St. Louis, MO",
+      "datePosted": 1792760469,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -243,17 +254,6 @@
       "url": "https://jobright.ai/jobs/info/6adb77189e3e874dbfba0044",
       "location": "United States",
       "datePosted": 1792756858,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3ba27c5a856ac7e33b3df",
-      "company": "Exegy",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3ba27c5a856ac7e33b3df",
-      "location": "St. Louis, MO",
-      "datePosted": 1792756836,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -611,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
+      "id": "newgrad-jobs:6a063968320bff2205eaa361",
       "company": "Palantir",
       "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
+      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
       "location": "New York, NY",
       "datePosted": 1792748281,
       "source": "newgrad-jobs",
