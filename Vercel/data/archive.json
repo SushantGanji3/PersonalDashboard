@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:50:17Z",
+  "generatedAt": "2026-10-23T06:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -331,6 +331,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792708817
+    },
+    {
+      "id": "newgrad-jobs:6adae869aee75c4e7d2e58a0",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adae869aee75c4e7d2e58a0",
+      "location": "Frisco, TX",
+      "datePosted": 1792706041,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792735219
     },
     {
       "id": "newgrad-jobs:6adae35691f93f4b05715170",
@@ -46619,39 +46630,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790170818
-    },
-    {
-      "id": "newgrad-jobs:6ab3cd04ef911c35dffa1a09",
-      "company": "Tripleseat",
-      "title": "Software Engineer-1",
-      "url": "https://jobright.ai/jobs/info/6ab3cd04ef911c35dffa1a09",
-      "location": "United States; Canada",
-      "datePosted": 1790143124,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790172021
-    },
-    {
-      "id": "newgrad-jobs:6ab2bdae8254c44790e5710e",
-      "company": "Lockheed Martin",
-      "title": "Embedded Software Engineer- Level 2",
-      "url": "https://jobright.ai/jobs/info/6ab2bdae8254c44790e5710e",
-      "location": "Orlando, FL",
-      "datePosted": 1790142824,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790172021
-    },
-    {
-      "id": "newgrad-jobs:6a974550e4e60e4b8da5d4fd",
-      "company": "Genuine Parts Company",
-      "title": "Cloud Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a974550e4e60e4b8da5d4fd",
-      "location": "Birmingham, AL",
-      "datePosted": 1790142793,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790172021
     }
   ]
 }
