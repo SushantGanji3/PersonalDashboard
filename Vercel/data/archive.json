@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:50:16Z",
+  "generatedAt": "2026-10-23T04:00:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -300,6 +300,17 @@
       "firstSeenAt": 1792708817
     },
     {
+      "id": "newgrad-jobs:6adacc49f6e3ea82824280ca",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adacc49f6e3ea82824280ca",
+      "location": "Frisco, TX",
+      "datePosted": 1792698841,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792728018
+    },
+    {
       "id": "simplify:06022bbe-0684-4bf0-b696-e4792738403b",
       "company": "Northrop Grumman",
       "title": "New Grad 2027: Associate/Software Engineer Pathways",
@@ -375,6 +386,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792717220
+    },
+    {
+      "id": "newgrad-jobs:6adacb422a12e28317a06565",
+      "company": "Ascent Cloud",
+      "title": "Software Developer Summer Internship 2027",
+      "url": "https://jobright.ai/jobs/info/6adacb422a12e28317a06565",
+      "location": "Detroit, MI",
+      "datePosted": 1792698578,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "firstSeenAt": 1792728018
+    },
+    {
+      "id": "newgrad-jobs:6aa3c87e626f9945308b32b9",
+      "company": "Nominal",
+      "title": "Software Engineer - Internship (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa3c87e626f9945308b32b9",
+      "location": "New York, NY; Los Angeles, CA; Austin, TX",
+      "datePosted": 1792696909,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792728018
     },
     {
       "id": "newgrad-jobs:6ada9bc5950ef68d518593fb",
@@ -46652,39 +46685,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790166019
-    },
-    {
-      "id": "newgrad-jobs:6a96e08bf5337b2cf731e637",
-      "company": "Philips",
-      "title": "Co-op \u2013 Software Engineering (APM) - Cambridge, MA - Jan - Aug 2027",
-      "url": "https://jobright.ai/jobs/info/6a96e08bf5337b2cf731e637",
-      "location": "Cambridge, MA",
-      "datePosted": 1790135891,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790172021
-    },
-    {
-      "id": "newgrad-jobs:6a96e08d455eaf6a08c19050",
-      "company": "Philips",
-      "title": "Co-op - Software Development Engineer - Cambridge, MA - Jan-Aug 2027",
-      "url": "https://jobright.ai/jobs/info/6a96e08d455eaf6a08c19050",
-      "location": "Cambridge, MA",
-      "datePosted": 1790135890,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790172021
-    },
-    {
-      "id": "newgrad-jobs:6ab3f43764816213f2d962cb",
-      "company": "Dewberry",
-      "title": "Junior GIS Developer",
-      "url": "https://jobright.ai/jobs/info/6ab3f43764816213f2d962cb",
-      "location": "Tampa, FL; Fairfax, VA",
-      "datePosted": 1790135580,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790183417
     }
   ]
 }
