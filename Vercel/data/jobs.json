@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-23T16:00:20Z",
-  "totalOpen": 1208,
-  "totalNewgrad": 227,
-  "totalOther": 981,
+  "generatedAt": "2026-10-23T16:10:20Z",
+  "totalOpen": 1214,
+  "totalNewgrad": 226,
+  "totalOther": 988,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6adb750746a8cabdc1ff2edb",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adb750746a8cabdc1ff2edb",
+      "location": "Frisco, TX",
+      "datePosted": 1792742039,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6adb73335dc7953215a32ad2",
       "company": "Microsoft",
@@ -12,6 +23,17 @@
       "url": "https://jobright.ai/jobs/info/6adb73335dc7953215a32ad2",
       "location": "Redmond, WA",
       "datePosted": 1792741571,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac7b8340e573df8adc73ce9",
+      "company": "Amentum",
+      "title": "Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6ac7b8340e573df8adc73ce9",
+      "location": "Hanover, MD",
+      "datePosted": 1792741525,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -672,28 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6abf051bd9621c5b28392caf",
       "location": "McLean, VA",
       "datePosted": 1792729411,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb4162389e06bb41ad1304",
-      "company": "VTG",
-      "title": "Associate Software Engineer with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6adb4162389e06bb41ad1304",
-      "location": "Manassas, VA",
-      "datePosted": 1792728818,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa204740ffb3d4fea6b843b",
-      "company": "Epic Games",
-      "title": "UI Programmer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa204740ffb3d4fea6b843b",
-      "location": "Cary, NC",
-      "datePosted": 1792727129,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
