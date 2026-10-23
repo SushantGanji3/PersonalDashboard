@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:50:15Z",
+  "generatedAt": "2026-10-23T05:00:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -298,6 +298,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792708817
+    },
+    {
+      "id": "newgrad-jobs:6adad0e493c3e3e280bd1a0a",
+      "company": "Todd",
+      "title": "Fullstack Software Engineer Intern (Fall '26)",
+      "url": "https://jobright.ai/jobs/info/6adad0e493c3e3e280bd1a0a",
+      "location": "United States",
+      "datePosted": 1792700020,
+      "source": "newgrad-jobs",
+      "season": "Fall",
+      "firstSeenAt": 1792731616
     },
     {
       "id": "newgrad-jobs:6adacc49f6e3ea82824280ca",
@@ -46597,17 +46608,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790192417
-    },
-    {
-      "id": "newgrad-jobs:6a974545e4e60e4b8da5d4f6",
-      "company": "Genuine Parts Company",
-      "title": "Cloud SRE Intern",
-      "url": "https://jobright.ai/jobs/info/6a974545e4e60e4b8da5d4f6",
-      "location": "Birmingham, AL",
-      "datePosted": 1790139274,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790167817
     }
   ]
 }
