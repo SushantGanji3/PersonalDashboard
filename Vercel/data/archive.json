@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:00:24Z",
+  "generatedAt": "2026-10-23T09:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12090,6 +12090,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792505420
+    },
+    {
+      "id": "simplify:d0667468-3783-4ec1-8244-dbc02021e175",
+      "company": "Duolingo",
+      "title": "Data Scientist Intern",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
+      "location": "Pittsburgh, PA, New York, NY",
+      "datePosted": 1792047600,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1792746617
     },
     {
       "id": "newgrad-jobs:6ad0d928256e49282e650589",
@@ -46322,39 +46333,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790184017
-    },
-    {
-      "id": "newgrad-jobs:6ab69b6fc6fe0dec811a5794",
-      "company": "Oberon",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab69b6fc6fe0dec811a5794",
-      "location": "Los Angeles, CA",
-      "datePosted": 1790154221,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790356217
-    },
-    {
-      "id": "newgrad-jobs:6a974c69d13b4819f39e06c3",
-      "company": "Northern Trust",
-      "title": "Technology Intern \u2013 Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a974c69d13b4819f39e06c3",
-      "location": "Chicago, IL",
-      "datePosted": 1790154102,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790184017
-    },
-    {
-      "id": "newgrad-jobs:6a9749f5455eaf6a08c1bfa2",
-      "company": "Northern Trust",
-      "title": "Technology Intern \u2013 Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a9749f5455eaf6a08c1bfa2",
-      "location": "Chicago, IL",
-      "datePosted": 1790154102,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790187616
     }
   ]
 }
