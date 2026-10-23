@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:10:16Z",
+  "generatedAt": "2026-10-23T12:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792733417
+    },
+    {
+      "id": "newgrad-jobs:6a96f83e455eaf6a08c1995f",
+      "company": "Mach Industries",
+      "title": "Flight Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a96f83e455eaf6a08c1995f",
+      "location": "Huntington Beach, CA",
+      "datePosted": 1792729743,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792758017
+    },
+    {
+      "id": "newgrad-jobs:6adb4162389e06bb41ad1304",
+      "company": "VTG",
+      "title": "Associate Software Engineer with Security Clearance",
+      "url": "https://jobright.ai/jobs/info/6adb4162389e06bb41ad1304",
+      "location": "Manassas, VA",
+      "datePosted": 1792728818,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792758017
+    },
+    {
+      "id": "newgrad-jobs:6adb3ac4cb58d64fcd3739fc",
+      "company": "StudyArena",
+      "title": "Research Intern, Agent Experience \u00b7 Student Jobs",
+      "url": "https://jobright.ai/jobs/info/6adb3ac4cb58d64fcd3739fc",
+      "location": "San Francisco, CA",
+      "datePosted": 1792727124,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792758017
     },
     {
       "id": "newgrad-jobs:6adb37729e3e874dbfb9eee9",
@@ -46322,28 +46355,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790194818
-    },
-    {
-      "id": "newgrad-jobs:6ab426190e0ae54eeea46e6d",
-      "company": "ZipRecruiter",
-      "title": "Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6ab426190e0ae54eeea46e6d",
-      "location": "Santa Monica, CA",
-      "datePosted": 1790165929,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790194818
-    },
-    {
-      "id": "newgrad-jobs:6aaffd22d3af3856cd992412",
-      "company": "BAE Systems",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aaffd22d3af3856cd992412",
-      "location": "Nashua, NH",
-      "datePosted": 1790165588,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790202655
     }
   ]
 }
