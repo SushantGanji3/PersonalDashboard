@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:10:16Z",
+  "generatedAt": "2026-10-23T19:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -100,6 +100,17 @@
       "source": "aggregator",
       "season": "Winter",
       "firstSeenAt": 1792776618
+    },
+    {
+      "id": "newgrad-jobs:6adba2eb389e06bb41ad312c",
+      "company": "FAMU National Alumni Association",
+      "title": "Applied AI & Enablement Intern",
+      "url": "https://jobright.ai/jobs/info/6adba2eb389e06bb41ad312c",
+      "location": "Princeton, NJ",
+      "datePosted": 1792753787,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792783216
     },
     {
       "id": "newgrad-jobs:6adb9b005dc7953215a338d8",
@@ -47015,28 +47026,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790220016
-    },
-    {
-      "id": "newgrad-jobs:6ab486bb0e0ae54eeea48bc9",
-      "company": "Ramp",
-      "title": "Software Engineering Intern, Android",
-      "url": "https://jobright.ai/jobs/info/6ab486bb0e0ae54eeea48bc9",
-      "location": "New York, NY",
-      "datePosted": 1790190667,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790217618
-    },
-    {
-      "id": "newgrad-jobs:6ab486b8ef911c35dffa5763",
-      "company": "Ramp",
-      "title": "Software Engineering Intern, iOS",
-      "url": "https://jobright.ai/jobs/info/6ab486b8ef911c35dffa5763",
-      "location": "New York, NY",
-      "datePosted": 1790190664,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790217618
     }
   ]
 }
