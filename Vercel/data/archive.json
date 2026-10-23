@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:50:17Z",
+  "generatedAt": "2026-10-23T03:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -386,6 +386,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792698615
+    },
+    {
+      "id": "newgrad-jobs:6adaa7a74c3adc437cecee9f",
+      "company": "Motorola Solutions",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adaa7a74c3adc437cecee9f",
+      "location": "Schaumburg, IL",
+      "datePosted": 1792695396,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792724419
     },
     {
       "id": "simplify:eb7c3ba5-279d-43ed-b4c6-262555aaf47d",
@@ -46751,17 +46762,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790173253
-    },
-    {
-      "id": "newgrad-jobs:6a7b960b3b399d106e4d79af",
-      "company": "Blue Origin",
-      "title": "2026 Intern Conversion - Software Development Engineer I",
-      "url": "https://jobright.ai/jobs/info/6a7b960b3b399d106e4d79af",
-      "location": "Greater Seattle Area, United States; Van Horn, TX; Denver, CO; Huntsville, AL; Space Coast, Florida, United States; Arlington, VA; Los Angeles, CA; Longmont, CO; Reston, VA",
-      "datePosted": 1790131905,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790172021
     }
   ]
 }
