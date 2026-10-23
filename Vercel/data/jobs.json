@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-10-23T02:00:19Z",
-  "totalOpen": 1220,
+  "generatedAt": "2026-10-23T02:10:14Z",
+  "totalOpen": 1228,
   "totalNewgrad": 228,
-  "totalOther": 992,
+  "totalOther": 1000,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+      "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+      "location": "Seattle, WA",
+      "datePosted": 1792720347,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:2b5665cf-ffeb-4c91-adce-7d9357641676",
+      "company": "Amazon",
+      "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
+      "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "location": "Seattle, WA, Austin, TX, NYC, Cupertino, CA",
+      "datePosted": 1792720223,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:78ea4501-d20c-468c-a9f7-9374fd9a67ad",
+      "company": "Amazon",
+      "title": "Applied Science Intern - Recommender Systems/ Information Retrieval - Machine Learning",
+      "url": "https://amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+      "location": "Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, San Diego, CA",
+      "datePosted": 1792719944,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Embedded Systems",
+      "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+      "location": "Seattle, WA, Austin, TX, Redmond, WA, Santa Clara, CA, Northridge, LA, Hudson, MA, Cupertino, CA, Sunnyvale, CA, Herndon, VA",
+      "datePosted": 1792719944,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:4169c155-cad3-467e-b8f4-6435181c35ba",
+      "company": "Amazon",
+      "title": "Software Engineer Intern - AWS Database",
+      "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+      "location": "United States",
+      "datePosted": 1792719942,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
+      "company": "Amazon",
+      "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
+      "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
+      "location": "Detroit, MI",
+      "datePosted": 1792719931,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ae4d3c51-a6cc-4491-a1a6-7872c85856f6",
+      "company": "Amazon",
+      "title": "Frontier AI & Robotics Intern - Undergraduate",
+      "url": "https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+      "location": "SF",
+      "datePosted": 1792719928,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:033a2dce-7821-4e99-b6e1-138c6671f830",
       "company": "Palantir",
@@ -322,7 +399,7 @@
       "datePosted": 1792692004,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa2003a3272060a8e3f32fe",
@@ -333,7 +410,7 @@
       "datePosted": 1792691856,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adab01ae4b94611ab85ecae",
@@ -344,7 +421,7 @@
       "datePosted": 1792691626,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adab0164c3adc437cecf2ff",
@@ -355,7 +432,7 @@
       "datePosted": 1792691622,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ada9efd54bbabbab0718014",
@@ -366,7 +443,7 @@
       "datePosted": 1792691342,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab58ca2d85922de20ce1e8d",
@@ -377,7 +454,7 @@
       "datePosted": 1792691228,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab5a5a44873fd3fd852b4b4",
@@ -1246,83 +1323,6 @@
       "datePosted": 1792540800,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:05891430-1723-4b9b-839e-f243696e66ef",
-      "company": "Etsy",
-      "title": "Software Engineer 1 - Marketplace Makers",
-      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
-      "location": "Brooklyn, NY",
-      "datePosted": 1792540800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:49be5b86-a304-4f4f-9dd1-8679a000858a",
-      "company": "Expedia",
-      "title": "Software Developer 1 Intern",
-      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
-      "location": "Springfield, MO",
-      "datePosted": 1792540800,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
-      "company": "AQR Capital Management",
-      "title": "Software Engineer",
-      "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
-      "location": "Greenwich, CT",
-      "datePosted": 1792535030,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8da922e7-05ce-40d5-b0b8-36805547ece6",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Computational Imaging and Robotics",
-      "url": "https://www.metacareers.com/jobs/2857194467985784",
-      "location": "Redmond, WA",
-      "datePosted": 1792534813,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:35a618f9-3e92-414f-9b23-8d8d2130672d",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Multimodal Behavioral AI",
-      "url": "https://www.metacareers.com/jobs/1428978125312655",
-      "location": "Redmond, WA",
-      "datePosted": 1792534811,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5",
-      "company": "Skydio",
-      "title": "Mobile Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true",
-      "location": "San Mateo, CA",
-      "datePosted": 1792534507,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:43903c88-4d7c-490e-9b84-3643853afba3",
-      "company": "Sony AI",
-      "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",
-      "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
-      "location": "Remote in USA",
-      "datePosted": 1792534128,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
