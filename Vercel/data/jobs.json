@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-23T16:40:17Z",
-  "totalOpen": 1223,
-  "totalNewgrad": 226,
-  "totalOther": 997,
+  "generatedAt": "2026-10-23T16:50:16Z",
+  "totalOpen": 1243,
+  "totalNewgrad": 230,
+  "totalOther": 1013,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6adb7f315dc7953215a32e3b",
+      "company": "Innovita Write",
+      "title": "Frontend Engineer Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6adb7f315dc7953215a32e3b",
+      "location": "United States",
+      "datePosted": 1792744641,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adb7db9c5c64fa3d9caf995",
+      "company": "Motor City Electric Co.",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6adb7db9c5c64fa3d9caf995",
+      "location": "Detroit, MI",
+      "datePosted": 1792744265,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad0799852a37835d5e3ff00",
+      "company": "IBM",
+      "title": "Quantum Algorithms and Quantum Machine Learning Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6ad0799852a37835d5e3ff00",
+      "location": "Chicago, IL",
+      "datePosted": 1792744109,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9e395575edfa11b47109c2",
+      "company": "IBM",
+      "title": "Software Developer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e395575edfa11b47109c2",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1792744097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ada3828950ef68d5185511f",
+      "company": "CACI International Inc",
+      "title": "Embedded Software Engineering Co-op - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6ada3828950ef68d5185511f",
+      "location": "Danbury, CT",
+      "datePosted": 1792743601,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6adb06209e3e874dbfb9dbea",
       "company": "London Computer Systems",
@@ -611,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1b0543272060a8e3f18a6",
-      "company": "American Equity",
-      "title": "IT Intern, Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa1b0543272060a8e3f18a6",
-      "location": "Des Moines, IA",
-      "datePosted": 1792732462,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:0c394fff-c713-412f-992e-9a3a61a8ee5e",
       "company": "Palantir",
       "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
@@ -651,50 +695,6 @@
       "location": "Maryland Heights, MO, Hazelwood, MO",
       "datePosted": 1792732376,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd7abcd9621c5b2838c80e",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd7abcd9621c5b2838c80e",
-      "location": "Clifton, NJ",
-      "datePosted": 1792731987,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1792731987,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abedefd8ff3fb9b3bc7664b",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (Recommendations and Search) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abedefd8ff3fb9b3bc7664b",
-      "location": "Seattle, WA",
-      "datePosted": 1792731612,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a96f83e455eaf6a08c1995f",
-      "company": "Mach Industries",
-      "title": "Flight Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a96f83e455eaf6a08c1995f",
-      "location": "Huntington Beach, CA",
-      "datePosted": 1792729743,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -776,6 +776,39 @@
       "isNew": false
     },
     {
+      "id": "simplify:8ae57b40-93cf-44a0-8a44-a63ff170ac3b",
+      "company": "Rivian",
+      "title": "Software Engineering Intern, Vehicle Controls",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c",
+      "location": "Palo Alto, CA, Irvine, CA",
+      "datePosted": 1792710355,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:b606ba0e-3439-4cc2-83be-304f60d8725d",
+      "company": "Rivian",
+      "title": "Software Engineering Intern, Embedded Platforms",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048",
+      "location": "Palo Alto, CA, Irvine, CA, Champaign, IL",
+      "datePosted": 1792710355,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:96e1bac9-9226-417a-a3cd-f68621e86d13",
+      "company": "Rivian",
+      "title": "Software Engineering Intern, Connected Systems",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
+      "location": "Palo Alto, CA, Irvine, CA",
+      "datePosted": 1792710355,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:033a2dce-7821-4e99-b6e1-138c6671f830",
       "company": "Palantir",
       "title": "Forward Deployed Software Engineer Intern - Warp Speed",
@@ -785,6 +818,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:7449f87e-753a-4f51-b257-f7b3c214fd97",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer Intern, Warp Speed",
+      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply",
+      "location": "New York, NY",
+      "datePosted": 1792708610,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:3a1df196-4b77-41ff-b9f7-833dfec00ba6",
@@ -1073,6 +1117,61 @@
       "isNew": false
     },
     {
+      "id": "simplify:134db861-9a8c-46b3-a7d9-b4992de19d9b",
+      "company": "Amazon",
+      "title": "Frontier AI & Robotics Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+      "location": "San Francisco, CA",
+      "datePosted": 1792652400,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:b8bd9378-c89f-40ef-9272-07d6976f6ed4",
+      "company": "Twitch",
+      "title": "Undergrad Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
+      "location": "San Francisco, CA",
+      "datePosted": 1792652400,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:bc696b54-8892-447d-b724-18edd9f282af",
+      "company": "1Password",
+      "title": "Developer Intern, Data Security",
+      "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application",
+      "location": "Remote, United States, Canada",
+      "datePosted": 1792652400,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
+    {
+      "id": "simplify:96010429-8dbd-4223-9685-7e5585b0f4aa",
+      "company": "1Password",
+      "title": "Developer Intern, Machine Identity",
+      "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application",
+      "location": "Remote, United States, Canada",
+      "datePosted": 1792652400,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
+    {
+      "id": "simplify:915a1eac-84e4-4bb5-94d5-c86926ca35c7",
+      "company": "1Password",
+      "title": "Developer Intern, Vault Team",
+      "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application",
+      "location": "Remote, United States, Canada",
+      "datePosted": 1792652400,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
+    {
       "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
       "company": "Amazon",
       "title": "Robotics Embedded Software Development Engineer",
@@ -1222,105 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1075160338670575",
       "location": "Burlingame, CA, Redmond, WA",
       "datePosted": 1792620483,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:aacdee8b-5d3f-4b0b-ba7e-f6f590ca5792",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Robot Foundation Models",
-      "url": "https://www.metacareers.com/jobs/27730225806654441",
-      "location": "Redmond, WA",
-      "datePosted": 1792620483,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:58a18c55-845e-4263-98d7-78701275167e",
-      "company": "Anduril",
-      "title": "Robotics Engineer Co-op",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
-      "location": "Quincy, MA",
-      "datePosted": 1792620378,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
-      "company": "Amazon",
-      "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
-      "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-      "location": "Cupertino, CA",
-      "datePosted": 1792546696,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
-      "company": "Uber",
-      "title": "Software Engineer Intern",
-      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
-      "location": "Seattle, WA, SF, Sunnyvale, CA",
-      "datePosted": 1792545218,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6244dbb0-e314-486b-b2c6-143c829bd211",
-      "company": "Zillow",
-      "title": "Software Development Engineer Intern",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
-      "location": "Seattle, WA, Remote in USA",
-      "datePosted": 1792540800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:05891430-1723-4b9b-839e-f243696e66ef",
-      "company": "Etsy",
-      "title": "Software Engineer 1 - Marketplace Makers",
-      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
-      "location": "Brooklyn, NY",
-      "datePosted": 1792540800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:49be5b86-a304-4f4f-9dd1-8679a000858a",
-      "company": "Expedia",
-      "title": "Software Developer 1 Intern",
-      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
-      "location": "Springfield, MO",
-      "datePosted": 1792540800,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
-      "company": "AQR Capital Management",
-      "title": "Software Engineer",
-      "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
-      "location": "Greenwich, CT",
-      "datePosted": 1792535030,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8da922e7-05ce-40d5-b0b8-36805547ece6",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Computational Imaging and Robotics",
-      "url": "https://www.metacareers.com/jobs/2857194467985784",
-      "location": "Redmond, WA",
-      "datePosted": 1792534813,
       "source": "aggregator",
       "season": null,
       "isNew": false
