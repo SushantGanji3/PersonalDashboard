@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T16:50:16Z",
-  "totalOpen": 1243,
-  "totalNewgrad": 230,
+  "generatedAt": "2026-10-23T17:00:19Z",
+  "totalOpen": 1246,
+  "totalNewgrad": 233,
   "totalOther": 1013,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792744641,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adb7db9c5c64fa3d9caf995",
@@ -25,7 +25,7 @@
       "datePosted": 1792744265,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad0799852a37835d5e3ff00",
@@ -36,7 +36,7 @@
       "datePosted": 1792744109,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e395575edfa11b47109c2",
@@ -45,6 +45,28 @@
       "url": "https://jobright.ai/jobs/info/6a9e395575edfa11b47109c2",
       "location": "Poughkeepsie, NY",
       "datePosted": 1792744097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a32aab5f6b55d12c7914f0e",
+      "company": "Swift",
+      "title": "Software Development Engineer in Test (SDET)",
+      "url": "https://jobright.ai/jobs/info/6a32aab5f6b55d12c7914f0e",
+      "location": "Manassas, VA",
+      "datePosted": 1792744074,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adb7b5b9e3e874dbfba019d",
+      "company": "Seagate Technology",
+      "title": "Embedded Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6adb7b5b9e3e874dbfba019d",
+      "location": "Longmont, CO; Shakopee, MN",
+      "datePosted": 1792743659,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -58,6 +80,50 @@
       "datePosted": 1792743601,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "location": "Westborough, MA",
+      "datePosted": 1792743531,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adb7a2046a8cabdc1ff30af",
+      "company": "Mercury",
+      "title": "Software Engineer - Mercury Command",
+      "url": "https://jobright.ai/jobs/info/6adb7a2046a8cabdc1ff30af",
+      "location": "United States; Canada",
+      "datePosted": 1792743344,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abeff11372c01f6cd726ccd",
+      "company": "Innoflight",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6abeff11372c01f6cd726ccd",
+      "location": "San Diego, CA",
+      "datePosted": 1792743205,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adb77189e3e874dbfba0044",
+      "company": "Regeneron",
+      "title": "Process Data Scientist",
+      "url": "https://jobright.ai/jobs/info/6adb77189e3e874dbfba0044",
+      "location": "United States",
+      "datePosted": 1792743165,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -91,17 +157,6 @@
       "datePosted": 1792742320,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb750746a8cabdc1ff2edb",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adb750746a8cabdc1ff2edb",
-      "location": "Frisco, TX",
-      "datePosted": 1792742039,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -611,61 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adb539c9e3e874dbfb9f5ac",
-      "company": "VTG",
-      "title": "Systems Engineer- Architecture with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6adb539c9e3e874dbfb9f5ac",
-      "location": "Chantilly, VA",
-      "datePosted": 1792733484,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb5395c5c64fa3d9caed7a",
-      "company": "VTG",
-      "title": "Junior Software Engineer with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6adb5395c5c64fa3d9caed7a",
-      "location": "Hanover, MD",
-      "datePosted": 1792733477,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abf25798ff3fb9b3bc77713",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
-      "url": "https://jobright.ai/jobs/info/6abf25798ff3fb9b3bc77713",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1792733024,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa381c25c11cce360364623",
-      "company": "Garmin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa381c25c11cce360364623",
-      "location": "Cary, NC",
-      "datePosted": 1792732585,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abdecb54ac55253f5d5f252",
-      "company": "Onestream",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6abdecb54ac55253f5d5f252",
-      "location": "United States",
-      "datePosted": 1792732583,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:0c394fff-c713-412f-992e-9a3a61a8ee5e",
       "company": "Palantir",
       "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
@@ -784,7 +784,7 @@
       "datePosted": 1792710355,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b606ba0e-3439-4cc2-83be-304f60d8725d",
@@ -795,7 +795,7 @@
       "datePosted": 1792710355,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:96e1bac9-9226-417a-a3cd-f68621e86d13",
@@ -806,7 +806,7 @@
       "datePosted": 1792710355,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:033a2dce-7821-4e99-b6e1-138c6671f830",
@@ -828,7 +828,7 @@
       "datePosted": 1792708610,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3a1df196-4b77-41ff-b9f7-833dfec00ba6",
@@ -1125,7 +1125,7 @@
       "datePosted": 1792652400,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b8bd9378-c89f-40ef-9272-07d6976f6ed4",
@@ -1136,7 +1136,7 @@
       "datePosted": 1792652400,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bc696b54-8892-447d-b724-18edd9f282af",
@@ -1147,7 +1147,7 @@
       "datePosted": 1792652400,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:96010429-8dbd-4223-9685-7e5585b0f4aa",
@@ -1158,7 +1158,7 @@
       "datePosted": 1792652400,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:915a1eac-84e4-4bb5-94d5-c86926ca35c7",
@@ -1169,7 +1169,7 @@
       "datePosted": 1792652400,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
