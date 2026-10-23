@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T01:30:15Z",
-  "totalOpen": 1222,
+  "generatedAt": "2026-10-23T01:40:18Z",
+  "totalOpen": 1219,
   "totalNewgrad": 227,
-  "totalOther": 995,
+  "totalOther": 992,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -312,6 +312,17 @@
       "source": "aggregator",
       "season": "Winter",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada809003d2da75289161d9",
+      "company": "Sierra Nevada Corporation",
+      "title": "Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only)",
+      "url": "https://jobright.ai/jobs/info/6ada809003d2da75289161d9",
+      "location": "Hagerstown, MD",
+      "datePosted": 1792690685,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "simplify:93a497d3-86cc-4858-8192-3ed8138ff6e2",
@@ -1007,17 +1018,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa16835500b01124c77c797",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Product Security Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa16835500b01124c77c797",
-      "location": "Vienna, VA",
-      "datePosted": 1792670084,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
       "company": "Amazon",
       "title": "Robotics Embedded Software Development Engineer",
@@ -1260,17 +1260,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:d9b632c0-c73f-4641-957d-84ac0cdc4acf",
-      "company": "Chewy",
-      "title": "Software Engineer 1",
-      "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Software-Engineer-I_R31182-1",
-      "location": "Boston, MA, Plantation, FL",
-      "datePosted": 1792540800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:49be5b86-a304-4f4f-9dd1-8679a000858a",
       "company": "Expedia",
       "title": "Software Developer 1 Intern",
@@ -1323,6 +1312,17 @@
       "datePosted": 1792534507,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:43903c88-4d7c-490e-9b84-3643853afba3",
+      "company": "Sony AI",
+      "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",
+      "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
+      "location": "Remote in USA",
+      "datePosted": 1792534128,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
