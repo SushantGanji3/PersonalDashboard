@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T06:50:15Z",
+  "generatedAt": "2026-10-23T07:00:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -111,6 +111,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792721414
+    },
+    {
+      "id": "newgrad-jobs:6adaf9ddcb58d64fcd371f9d",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "url": "https://jobright.ai/jobs/info/6adaf9ddcb58d64fcd371f9d",
+      "location": "Redmond, WA",
+      "datePosted": 1792710509,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792738818
     },
     {
       "id": "simplify:033a2dce-7821-4e99-b6e1-138c6671f830",
@@ -46531,17 +46542,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790176817
-    },
-    {
-      "id": "newgrad-jobs:6a96edabf5337b2cf731eb8a",
-      "company": "PepsiCo",
-      "title": "SWE & App Arch Engineer",
-      "url": "https://jobright.ai/jobs/info/6a96edabf5337b2cf731eb8a",
-      "location": "New York, NY",
-      "datePosted": 1790146725,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790864416
     }
   ]
 }
