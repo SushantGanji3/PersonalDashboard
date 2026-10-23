@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:10:14Z",
+  "generatedAt": "2026-10-23T02:20:17Z",
   "totalOpen": 1228,
   "totalNewgrad": 228,
   "totalOther": 1000,
@@ -14,7 +14,7 @@
       "datePosted": 1792720347,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2b5665cf-ffeb-4c91-adce-7d9357641676",
@@ -25,7 +25,7 @@
       "datePosted": 1792720223,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:78ea4501-d20c-468c-a9f7-9374fd9a67ad",
@@ -36,7 +36,7 @@
       "datePosted": 1792719944,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
@@ -47,7 +47,7 @@
       "datePosted": 1792719944,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4169c155-cad3-467e-b8f4-6435181c35ba",
@@ -58,7 +58,7 @@
       "datePosted": 1792719942,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
@@ -69,7 +69,7 @@
       "datePosted": 1792719931,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:ae4d3c51-a6cc-4491-a1a6-7872c85856f6",
@@ -80,7 +80,7 @@
       "datePosted": 1792719928,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:033a2dce-7821-4e99-b6e1-138c6671f830",
@@ -391,6 +391,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad80d7d67bec1d0d9c7b97b",
+      "company": "Uber",
+      "title": "2027 Software Engineering Intern, US",
+      "url": "https://jobright.ai/jobs/info/6ad80d7d67bec1d0d9c7b97b",
+      "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA",
+      "datePosted": 1792694121,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6adab194950ef68d51859d4d",
       "company": "Coforma",
       "title": "Junior Software Engineer",
@@ -410,17 +421,6 @@
       "datePosted": 1792691856,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adab01ae4b94611ab85ecae",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adab01ae4b94611ab85ecae",
-      "location": "Frisco, TX",
-      "datePosted": 1792691626,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
