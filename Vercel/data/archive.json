@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:40:19Z",
+  "generatedAt": "2026-10-23T20:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -100,6 +100,50 @@
       "source": "aggregator",
       "season": "Winter",
       "firstSeenAt": 1792776618
+    },
+    {
+      "id": "newgrad-jobs:6adb664fc5c64fa3d9caf283",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 \u2013 Python",
+      "url": "https://jobright.ai/jobs/info/6adb664fc5c64fa3d9caf283",
+      "location": "Minneapolis, MN",
+      "datePosted": 1792758862,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792788617
+    },
+    {
+      "id": "newgrad-jobs:6adbb6945dc7953215a34128",
+      "company": "The Cincinnati Insurance Companies",
+      "title": "Planning Analytics and Risk Management - Associate Data Scientist,  Innovation and Research",
+      "url": "https://jobright.ai/jobs/info/6adbb6945dc7953215a34128",
+      "location": "Fairfield, OH",
+      "datePosted": 1792758820,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792788617
+    },
+    {
+      "id": "newgrad-jobs:6adbb4bc46a8cabdc1ff44fc",
+      "company": "Viasat",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6adbb4bc46a8cabdc1ff44fc",
+      "location": "Carlsbad, CA",
+      "datePosted": 1792758348,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792788617
+    },
+    {
+      "id": "newgrad-jobs:6a578823e9b77f668bd686d0",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a578823e9b77f668bd686d0",
+      "location": "Dallas, TX",
+      "datePosted": 1792758341,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792788617
     },
     {
       "id": "newgrad-jobs:6adbafb19e3e874dbfba13f6",
@@ -47092,17 +47136,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790249418
-    },
-    {
-      "id": "newgrad-jobs:6aa3e308f3aa936e2cdae71e",
-      "company": "Outschool",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa3e308f3aa936e2cdae71e",
-      "location": "United States; Canada",
-      "datePosted": 1790196134,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790224217
     }
   ]
 }
