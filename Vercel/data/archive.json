@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T06:10:16Z",
+  "generatedAt": "2026-10-23T06:20:14Z",
   "windowDays": 30,
   "items": [
     {
@@ -221,6 +221,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792708817
+    },
+    {
+      "id": "newgrad-jobs:6adaed7c5dc7953215a2fdf5",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adaed7c5dc7953215a2fdf5",
+      "location": "Frisco, TX",
+      "datePosted": 1792707340,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792736414
     },
     {
       "id": "simplify:fe211c04-d1db-4e44-8c1d-342a990d5377",
@@ -771,6 +782,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792711214
+    },
+    {
+      "id": "newgrad-jobs:6adaf48f91f93f4b05715759",
+      "company": "General Dynamics",
+      "title": "Systems Engineer Supporting Future Combatants and Mission Systems",
+      "url": "https://jobright.ai/jobs/info/6adaf48f91f93f4b05715759",
+      "location": "Pittsfield, MA",
+      "datePosted": 1792682220,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792736414
     },
     {
       "id": "newgrad-jobs:6ada894854bbabbab0717565",
@@ -46553,17 +46575,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790173253
-    },
-    {
-      "id": "newgrad-jobs:6ab3cfd1ef911c35dffa1ae5",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab3cfd1ef911c35dffa1ae5",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790143841,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790172021
     }
   ]
 }
