@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-23T05:20:15Z",
-  "totalOpen": 1224,
+  "generatedAt": "2026-10-23T05:30:17Z",
+  "totalOpen": 1227,
   "totalNewgrad": 224,
-  "totalOther": 1000,
+  "totalOther": 1003,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:0c394fff-c713-412f-992e-9a3a61a8ee5e",
+      "company": "Palantir",
+      "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
+      "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
+      "location": "New York, NY",
+      "datePosted": 1792732377,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:9df960cc-66fe-437d-ab6b-32f6e36fbbed",
+      "company": "Amazon",
+      "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
+      "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "location": "Seattle, WA, Austin, TX, Cupertino, CA",
+      "datePosted": 1792732377,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:33a8ba63-811e-4b32-885f-47051d11efd4",
+      "company": "Boeing",
+      "title": "Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
+      "location": "Maryland Heights, MO, Hazelwood, MO",
+      "datePosted": 1792732376,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
       "company": "Amazon",
@@ -311,7 +344,7 @@
       "datePosted": 1792705042,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adae35691f93f4b05715170",
@@ -322,7 +355,7 @@
       "datePosted": 1792704742,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad8eb28e4b94611ab850618",
@@ -333,7 +366,7 @@
       "datePosted": 1792703520,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
@@ -1288,39 +1321,6 @@
       "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "location": "Cupertino, CA",
       "datePosted": 1792546696,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
-      "company": "Uber",
-      "title": "Software Engineer Intern",
-      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
-      "location": "Seattle, WA, SF, Sunnyvale, CA",
-      "datePosted": 1792545218,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f4b3cda9-f601-4fa9-a4ef-1dfbda2de5e3",
-      "company": "RTX",
-      "title": "Software Engineering Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792540800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6244dbb0-e314-486b-b2c6-143c829bd211",
-      "company": "Zillow",
-      "title": "Software Development Engineer Intern",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
-      "location": "Seattle, WA, Remote in USA",
-      "datePosted": 1792540800,
       "source": "aggregator",
       "season": null,
       "isNew": false
