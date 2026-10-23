@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T05:10:15Z",
-  "totalOpen": 1226,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-10-23T05:20:15Z",
+  "totalOpen": 1224,
+  "totalNewgrad": 224,
   "totalOther": 1000,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -303,14 +303,113 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adad0e493c3e3e280bd1a0a",
-      "company": "Todd",
-      "title": "Fullstack Software Engineer Intern (Fall '26)",
-      "url": "https://jobright.ai/jobs/info/6adad0e493c3e3e280bd1a0a",
-      "location": "United States",
-      "datePosted": 1792700020,
+      "id": "newgrad-jobs:6a8fd5727c32860d14cf6d92",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8fd5727c32860d14cf6d92",
+      "location": "Westford, MA",
+      "datePosted": 1792705042,
       "source": "newgrad-jobs",
-      "season": "Fall",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adae35691f93f4b05715170",
+      "company": "Siemens EDA (Siemens Digital Industries Software)",
+      "title": "Software Engineer - C++ / Digital Logic Design",
+      "url": "https://jobright.ai/jobs/info/6adae35691f93f4b05715170",
+      "location": "Burlington, MA",
+      "datePosted": 1792704742,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8eb28e4b94611ab850618",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Roy UT",
+      "url": "https://jobright.ai/jobs/info/6ad8eb28e4b94611ab850618",
+      "location": "Roy, UT",
+      "datePosted": 1792703520,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
+      "company": "MANTECH",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
+      "location": "Saint Inigoes, MD",
+      "datePosted": 1792702745,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adacb422a12e28317a06565",
+      "company": "Ascent Cloud",
+      "title": "Software Developer Summer Internship 2027",
+      "url": "https://jobright.ai/jobs/info/6adacb422a12e28317a06565",
+      "location": "Detroit, MI",
+      "datePosted": 1792702363,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada8d65e4b94611ab85dcfe",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ada8d65e4b94611ab85dcfe",
+      "location": "Palo Alto, CA; Irvine, CA; Champaign, IL",
+      "datePosted": 1792702035,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada2ef254bbabbab07135e5",
+      "company": "Abnormal AI",
+      "title": "Software Engineer 1 - Data Platforms",
+      "url": "https://jobright.ai/jobs/info/6ada2ef254bbabbab07135e5",
+      "location": "United States",
+      "datePosted": 1792701879,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada8d654c3adc437cece3bc",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Connected Systems (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ada8d654c3adc437cece3bc",
+      "location": "Palo Alto, CA; Irvine, CA",
+      "datePosted": 1792701408,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada8d64950ef68d51858c55",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ada8d64950ef68d51858c55",
+      "location": "Palo Alto, CA; Irvine, CA",
+      "datePosted": 1792701382,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada8d64950ef68d51858c56",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Applications (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ada8d64950ef68d51858c56",
+      "location": "Palo Alto, CA; Irvine, CA",
+      "datePosted": 1792701347,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -402,17 +501,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adacb422a12e28317a06565",
-      "company": "Ascent Cloud",
-      "title": "Software Developer Summer Internship 2027",
-      "url": "https://jobright.ai/jobs/info/6adacb422a12e28317a06565",
-      "location": "Detroit, MI",
-      "datePosted": 1792698578,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa3c87e626f9945308b32b9",
       "company": "Nominal",
       "title": "Software Engineer - Internship (Summer 2027)",
@@ -441,17 +529,6 @@
       "url": "https://jobright.ai/jobs/info/6ada9bc5950ef68d518593fb",
       "location": "Minneapolis, MN",
       "datePosted": 1792696120,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada2ef254bbabbab07135e5",
-      "company": "Abnormal AI",
-      "title": "Software Engineer 1 - Data Platforms",
-      "url": "https://jobright.ai/jobs/info/6ada2ef254bbabbab07135e5",
-      "location": "United States",
-      "datePosted": 1792695417,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -567,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada9fd73a69033df225aef7",
+      "id": "newgrad-jobs:6ada916e950ef68d51858f50",
       "company": "HDR",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada9fd73a69033df225aef7",
+      "url": "https://jobright.ai/jobs/info/6ada916e950ef68d51858f50",
       "location": "Omaha, NE; St. Louis, MO; Minneapolis, MN; Seattle, WA; Salt Lake City, UT",
       "datePosted": 1792689832,
       "source": "newgrad-jobs",
@@ -721,28 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada8d654c3adc437cece3bc",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Connected Systems (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ada8d654c3adc437cece3bc",
-      "location": "Palo Alto, CA; Irvine, CA",
-      "datePosted": 1792687714,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada8d64950ef68d51858c56",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Applications (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ada8d64950ef68d51858c56",
-      "location": "Palo Alto, CA; Irvine, CA",
-      "datePosted": 1792687487,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:a57764e3-5a81-4935-827d-b611713d863e",
       "company": "1Password",
       "title": "Developer Intern, Provisioning",
@@ -839,28 +894,6 @@
       "datePosted": 1792682827,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada8d65e4b94611ab85dcfe",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ada8d65e4b94611ab85dcfe",
-      "location": "Palo Alto, CA; Irvine, CA; Champaign, IL",
-      "datePosted": 1792682741,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada8d64950ef68d51858c55",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ada8d64950ef68d51858c55",
-      "location": "Palo Alto, CA; Irvine, CA",
-      "datePosted": 1792682740,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1057,39 +1090,6 @@
       "url": "https://jobright.ai/jobs/info/6ada77034c3adc437cecd5c1",
       "location": "Wichita, KS",
       "datePosted": 1792677011,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada72ce950ef68d518577a7",
-      "company": "ImageTrend",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada72ce950ef68d518577a7",
-      "location": "United States",
-      "datePosted": 1792675934,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada72bf3a69033df225917f",
-      "company": "North Carolina Department of Agriculture and Consumer Services",
-      "title": "Systems Engineer - One-Year Fixed-Term (Innovations Team)",
-      "url": "https://jobright.ai/jobs/info/6ada72bf3a69033df225917f",
-      "location": "San Rafael, CA",
-      "datePosted": 1792675919,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a39bc3106a4fd4b1fabbe0e",
-      "company": "TikTok",
-      "title": "Multi-modal Machine Learning Engineer (all levels) - Trust and Safety",
-      "url": "https://jobright.ai/jobs/info/6a39bc3106a4fd4b1fabbe0e",
-      "location": "San Jose, CA",
-      "datePosted": 1792675814,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
