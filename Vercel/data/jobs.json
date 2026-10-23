@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T23:50:15Z",
-  "totalOpen": 1215,
-  "totalNewgrad": 227,
+  "generatedAt": "2026-10-23T00:00:19Z",
+  "totalOpen": 1216,
+  "totalNewgrad": 228,
   "totalOther": 988,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -257,6 +257,39 @@
       "source": "aggregator",
       "season": "Winter",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada916e950ef68d51858f50",
+      "company": "HDR",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ada916e950ef68d51858f50",
+      "location": "Omaha, NE; St. Louis, MO; Minneapolis, MN; Seattle, WA; Salt Lake City, UT",
+      "datePosted": 1792683774,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acdbc0c77057049844000e4",
+      "company": "Capgemini",
+      "title": "Java Fullstack Developer",
+      "url": "https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
+      "location": "New York, NY; Westlake, TX",
+      "datePosted": 1792683603,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab58d58d85922de20ce1eea",
+      "company": "Atlassian",
+      "title": "Security Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ab58d58d85922de20ce1eea",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1792683360,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "simplify:c315a606-a3aa-400f-9938-a356d577630d",
@@ -732,10 +765,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1634a0ffb3d4fea6b482f",
+      "id": "newgrad-jobs:6aa168692f936e4a53dab861",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Mobile Developer)",
-      "url": "https://jobright.ai/jobs/info/6aa1634a0ffb3d4fea6b482f",
+      "url": "https://jobright.ai/jobs/info/6aa168692f936e4a53dab861",
       "location": "Pensacola, FL; San Diego, CA; Vienna, VA; Winchester, VA",
       "datePosted": 1792671064,
       "source": "newgrad-jobs",
@@ -743,15 +776,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa992c2eff87f571fc9a495",
+      "id": "newgrad-jobs:6aa16835500b01124c77c797",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Product Security Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa992c2eff87f571fc9a495",
+      "url": "https://jobright.ai/jobs/info/6aa16835500b01124c77c797",
       "location": "Vienna, VA",
       "datePosted": 1792670084,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ada5bbb950ef68d5185688b",
@@ -820,17 +853,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1682c3272060a8e3ef935",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1682c3272060a8e3ef935",
-      "location": "Vienna, VA",
-      "datePosted": 1792669307,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa16828dbc0e60e37e111ab",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Associate Data Engineer)",
@@ -842,10 +864,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa0790ca2266b538d230a6b",
+      "id": "newgrad-jobs:6aa163130ffb3d4fea6b481a",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Data Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa163130ffb3d4fea6b481a",
+      "location": "Vienna, VA",
+      "datePosted": 1792669307,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa084793b5aa83237b09a7c",
       "company": "SWBC",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa0790ca2266b538d230a6b",
+      "url": "https://jobright.ai/jobs/info/6aa084793b5aa83237b09a7c",
       "location": "San Antonio, TX",
       "datePosted": 1792669299,
       "source": "newgrad-jobs",
@@ -897,45 +930,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada52064c3adc437cecba96",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6ada52064c3adc437cecba96",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1792667542,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac7d832a444ac5d36f862f6",
       "company": "VivSoft",
       "title": "Front End Developer",
       "url": "https://jobright.ai/jobs/info/6ac7d832a444ac5d36f862f6",
       "location": "United States",
       "datePosted": 1792667514,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
-      "company": "Roblox",
-      "title": "[2027] Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
-      "location": "San Mateo, CA",
-      "datePosted": 1792667327,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab47b2964816213f2d99494",
-      "company": "Roblox",
-      "title": "Software Engineer, Data Access",
-      "url": "https://jobright.ai/jobs/info/6ab47b2964816213f2d99494",
-      "location": "San Mateo, CA",
-      "datePosted": 1792667327,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

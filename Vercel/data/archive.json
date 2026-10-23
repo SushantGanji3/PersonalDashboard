@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:50:15Z",
+  "generatedAt": "2026-10-23T00:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -265,6 +265,17 @@
       "source": "aggregator",
       "season": "Winter",
       "firstSeenAt": 1792698615
+    },
+    {
+      "id": "newgrad-jobs:6ada916e950ef68d51858f50",
+      "company": "HDR",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ada916e950ef68d51858f50",
+      "location": "Omaha, NE; St. Louis, MO; Minneapolis, MN; Seattle, WA; Salt Lake City, UT",
+      "datePosted": 1792683774,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792713619
     },
     {
       "id": "simplify:c315a606-a3aa-400f-9938-a356d577630d",
@@ -46619,39 +46630,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790149818
-    },
-    {
-      "id": "simplify:10d3560c-9d4c-4227-9e57-2fd7a62e9f25",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
-      "location": "Woodland Hills, LA",
-      "datePosted": 1790121600,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790205016
-    },
-    {
-      "id": "simplify:040018c5-1fa3-4eb9-a3d3-22417ae5a8d9",
-      "company": "RTX",
-      "title": "Systems Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineer-I--Onsite_01877321",
-      "location": "Woburn, MA",
-      "datePosted": 1790121600,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790674816
-    },
-    {
-      "id": "simplify:60ba4148-e124-4ab3-8e99-597deb0d54e1",
-      "company": "RTX",
-      "title": "Systems Engineer Intern - Radars",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engrg-1--Radars-Portsmouth--RI_01877125",
-      "location": "Portsmouth, RI",
-      "datePosted": 1790121600,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791378618
     }
   ]
 }
