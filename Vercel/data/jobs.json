@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:40:18Z",
+  "generatedAt": "2026-10-23T01:50:15Z",
   "totalOpen": 1219,
   "totalNewgrad": 227,
   "totalOther": 992,
@@ -312,17 +312,6 @@
       "source": "aggregator",
       "season": "Winter",
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada809003d2da75289161d9",
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only)",
-      "url": "https://jobright.ai/jobs/info/6ada809003d2da75289161d9",
-      "location": "Hagerstown, MD",
-      "datePosted": 1792690685,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": true
     },
     {
       "id": "simplify:93a497d3-86cc-4858-8192-3ed8138ff6e2",
@@ -1013,6 +1002,17 @@
       "url": "https://jobright.ai/jobs/info/6aa168692f936e4a53dab861",
       "location": "Pensacola, FL; San Diego, CA; Vienna, VA; Winchester, VA",
       "datePosted": 1792671064,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa16835500b01124c77c797",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa16835500b01124c77c797",
+      "location": "Vienna, VA",
+      "datePosted": 1792670084,
       "source": "newgrad-jobs",
       "season": "Summer",
       "isNew": false
