@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T01:00:20Z",
-  "totalOpen": 1222,
-  "totalNewgrad": 227,
+  "generatedAt": "2026-10-23T01:10:21Z",
+  "totalOpen": 1221,
+  "totalNewgrad": 226,
   "totalOther": 995,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -234,7 +234,7 @@
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:29a40488-8784-4195-bb6b-8c7281eb6c64",
@@ -245,7 +245,7 @@
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4f3f0c85-c0c0-4cad-8bb4-5ba1be942c67",
@@ -256,7 +256,7 @@
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:64282743-9efa-42ca-9cf2-5214634b3ab1",
@@ -267,7 +267,7 @@
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:9b8b4a9f-cb5d-447b-a689-f621a82eeb5b",
@@ -278,7 +278,7 @@
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:da14411a-32a3-4fe0-b502-f5fcfa14525e",
@@ -289,7 +289,7 @@
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8b401610-24f5-409f-93ab-b3fc0c4c0bd7",
@@ -300,7 +300,7 @@
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:eb7c3ba5-279d-43ed-b4c6-262555aaf47d",
@@ -325,10 +325,65 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6ada3fea3a69033df225711b",
+      "company": "Principal Financial Group",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ada3fea3a69033df225711b",
+      "location": "Des Moines, IA",
+      "datePosted": 1792689310,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada8d8e54bbabbab07177df",
+      "company": "CVS Health",
+      "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad",
+      "url": "https://jobright.ai/jobs/info/6ada8d8e54bbabbab07177df",
+      "location": "New York, NY",
+      "datePosted": 1792689215,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8fc6267bec1d0d9c818ab",
+      "company": "Serco",
+      "title": "Junior Software Engineer - Remote",
+      "url": "https://jobright.ai/jobs/info/6ad8fc6267bec1d0d9c818ab",
+      "location": "United States",
+      "datePosted": 1792689199,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada60014c3adc437cecc33c",
+      "company": "CDK Global",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ada60014c3adc437cecc33c",
+      "location": "Austin, TX",
+      "datePosted": 1792688823,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab5a9ecc6fe0dec811a3014",
+      "company": "Navitus Health Solutions",
+      "title": "Developer I, Application Systems",
+      "url": "https://jobright.ai/jobs/info/6ab5a9ecc6fe0dec811a3014",
+      "location": "United States",
+      "datePosted": 1792688760,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1792688494,
       "source": "newgrad-jobs",
@@ -413,23 +468,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada60014c3adc437cecc33c",
-      "company": "CDK Global",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada60014c3adc437cecc33c",
-      "location": "Austin, TX",
-      "datePosted": 1792686284,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ada6e2f54bbabbab0715e8d",
       "company": "Remitly",
       "title": "Fullstack Software Development Engineer I, Card",
       "url": "https://jobright.ai/jobs/info/6ada6e2f54bbabbab0715e8d",
       "location": "Arlington, VA",
       "datePosted": 1792686240,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acdbc0c77057049844000e4",
+      "company": "Capgemini",
+      "title": "Java Fullstack Developer",
+      "url": "https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
+      "location": "New York, NY; Westlake, TX",
+      "datePosted": 1792685940,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -465,17 +520,6 @@
       "datePosted": 1792683693,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acdbc0c77057049844000e4",
-      "company": "Capgemini",
-      "title": "Java Fullstack Developer",
-      "url": "https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
-      "location": "New York, NY; Westlake, TX",
-      "datePosted": 1792683603,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -565,6 +609,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adaa52d4c3adc437ceced89",
+      "company": "Origin Arc",
+      "title": "AI Research Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6adaa52d4c3adc437ceced89",
+      "location": "United States; India",
+      "datePosted": 1792681580,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac41543064da25272e111f5",
@@ -960,61 +1015,6 @@
       "datePosted": 1792669476,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada5981950ef68d51856700",
-      "company": "Hive",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada5981950ef68d51856700",
-      "location": "San Francisco, CA; Seattle, WA",
-      "datePosted": 1792669457,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada5980e4b94611ab85b85c",
-      "company": "Hive",
-      "title": "Software Engineer - Frontend",
-      "url": "https://jobright.ai/jobs/info/6ada5980e4b94611ab85b85c",
-      "location": "San Francisco, CA; Seattle, WA",
-      "datePosted": 1792669456,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada5951e4b94611ab85b832",
-      "company": "AFP Cuprum",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ada5951e4b94611ab85b832",
-      "location": "Des Moines, IA",
-      "datePosted": 1792669409,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa16828dbc0e60e37e111ab",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Associate Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ab",
-      "location": "Vienna, VA",
-      "datePosted": 1792669307,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa163130ffb3d4fea6b481a",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa163130ffb3d4fea6b481a",
-      "location": "Vienna, VA",
-      "datePosted": 1792669307,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
