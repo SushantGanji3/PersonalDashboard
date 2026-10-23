@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:30:16Z",
+  "generatedAt": "2026-10-23T10:33:43Z",
   "windowDays": 30,
   "items": [
     {
@@ -6689,6 +6689,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792548618
+    },
+    {
+      "id": "simplify:d6b959d0-3774-41d6-bc89-d62b84ca38bf",
+      "company": "RTX",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545",
+      "location": "Richardson, TX",
+      "datePosted": 1792454400,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792751623
     },
     {
       "id": "newgrad-jobs:6ad70ff8e4b94611ab843495",
@@ -46234,39 +46245,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790191216
-    },
-    {
-      "id": "newgrad-jobs:6ab40d4864816213f2d96f31",
-      "company": "TechSur Solutions",
-      "title": "Junior Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab40d4864816213f2d96f31",
-      "location": "Reston, VA",
-      "datePosted": 1790159576,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790191216
-    },
-    {
-      "id": "newgrad-jobs:6ab40cdb7bd08137133156ab",
-      "company": "Lifetime Benefit Solutions, Inc.",
-      "title": "College Intern - Summer 2027 - Software Engineering (Multiple Openings Available)",
-      "url": "https://jobright.ai/jobs/info/6ab40cdb7bd08137133156ab",
-      "location": "Buffalo, NY; De Witt, NY",
-      "datePosted": 1790159467,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790190023
-    },
-    {
-      "id": "newgrad-jobs:6ab40cbeef911c35dffa3053",
-      "company": "Excellus BCBS",
-      "title": "College Intern - Summer 2027 - Software Engineering (Multiple Openings Available)",
-      "url": "https://jobright.ai/jobs/info/6ab40cbeef911c35dffa3053",
-      "location": "Utica, NY",
-      "datePosted": 1790159438,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790190023
     }
   ]
 }
