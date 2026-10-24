@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-24T16:20:15Z",
-  "totalOpen": 1236,
-  "totalNewgrad": 209,
+  "generatedAt": "2026-10-24T16:30:17Z",
+  "totalOpen": 1234,
+  "totalNewgrad": 207,
   "totalOther": 1027,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa528ed654b2a9424cf3139",
+      "company": "Ibotta",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa528ed654b2a9424cf3139",
+      "location": "Denver, CO",
+      "datePosted": 1792830678,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adb6d479e3e874dbfb9fc5e",
+      "company": "CACI International Inc",
+      "title": "Cleared Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6adb6d479e3e874dbfb9fc5e",
+      "location": "Denver, CO; Sterling, VA",
+      "datePosted": 1792829982,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6acd88afddd23cce28a12ba9",
       "company": "NVIDIA",
@@ -12,17 +34,6 @@
       "url": "https://jobright.ai/jobs/info/6acd88afddd23cce28a12ba9",
       "location": "Santa Clara, CA",
       "datePosted": 1792828859,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adcc66f46a8cabdc1ff83a2",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adcc66f46a8cabdc1ff83a2",
-      "location": "Frisco, TX",
-      "datePosted": 1792828415,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -468,28 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adc7de45dc7953215a36fb6",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Relational Database) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6adc7de45dc7953215a36fb6",
-      "location": "San Jose, CA",
-      "datePosted": 1792809844,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc7de0c5c64fa3d9cb3c41",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Traffic Infrastructure) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6adc7de0c5c64fa3d9cb3c41",
-      "location": "San Jose, CA",
-      "datePosted": 1792809840,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ada9f4ce4b94611ab85e5dc",
       "company": "Salesforce",
       "title": "Software Engineering MTS",
@@ -706,6 +695,17 @@
       "location": "United States",
       "datePosted": 1792795219,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adc44560a4cc7090f976c1e",
+      "company": "A Full Renovation \u2013 Residential Remodeling",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adc44560a4cc7090f976c1e",
+      "location": "United States",
+      "datePosted": 1792795110,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
