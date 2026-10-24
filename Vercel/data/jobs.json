@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-24T09:20:16Z",
-  "totalOpen": 1242,
-  "totalNewgrad": 214,
+  "generatedAt": "2026-10-24T09:30:16Z",
+  "totalOpen": 1244,
+  "totalNewgrad": 216,
   "totalOther": 1028,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a71a42dcb96192a368499a0",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71a42dcb96192a368499a0",
+      "location": "San Jose, CA",
+      "datePosted": 1792805404,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7d450e7c52154b59f5e384",
+      "company": "Gesture",
+      "title": "AI Full Stack Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a7d450e7c52154b59f5e384",
+      "location": "United States",
+      "datePosted": 1792804839,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6adc69a5389e06bb41ad6294",
       "company": "Torentify",
@@ -14,7 +36,7 @@
       "datePosted": 1792804661,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8135261f-ace0-4f34-9e6a-7a979e430526",
@@ -28,12 +50,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adc65ca46a8cabdc1ff6ff8",
+      "company": "Interbiz Consulting Pvt. Ltd.",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6adc65ca46a8cabdc1ff6ff8",
+      "location": "Tempe, AZ",
+      "datePosted": 1792803674,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a432cbdb0f2553559ece38b",
+      "company": "Veryable",
+      "title": "Platform Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a432cbdb0f2553559ece38b",
+      "location": "Dallas, TX",
+      "datePosted": 1792803605,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6adbc89f46a8cabdc1ff4bb6",
       "company": "Alturas Analytics, Inc.",
       "title": "Associate Database Systems Engineer",
       "url": "https://jobright.ai/jobs/info/6adbc89f46a8cabdc1ff4bb6",
       "location": "Moscow, ID",
       "datePosted": 1792803142,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7bfef67bec1d0d9c78985",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6ad7bfef67bec1d0d9c78985",
+      "location": "Des Moines, IA",
+      "datePosted": 1792802702,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -545,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adb88c20a4cc7090f973609",
+      "id": "newgrad-jobs:6adbb01f9e3e874dbfba140b",
       "company": "KLA",
       "title": "Software Engineering Intern \u2013 AI/ML for Diagnostics & Calibration",
-      "url": "https://jobright.ai/jobs/info/6adb88c20a4cc7090f973609",
+      "url": "https://jobright.ai/jobs/info/6adbb01f9e3e874dbfba140b",
       "location": "Milpitas, CA",
       "datePosted": 1792770161,
       "source": "newgrad-jobs",
@@ -699,10 +754,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd58750e027c0f3b3952ab",
+      "id": "newgrad-jobs:6adbb01146a8cabdc1ff43e1",
       "company": "KLA",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abd58750e027c0f3b3952ab",
+      "url": "https://jobright.ai/jobs/info/6adbb01146a8cabdc1ff43e1",
       "location": "Milpitas, CA",
       "datePosted": 1792764533,
       "source": "newgrad-jobs",
@@ -787,17 +842,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa60f652ed333b4ea5c9a3c",
-      "company": "Quantinuum",
-      "title": "Software Engineering Intern - 989",
-      "url": "https://jobright.ai/jobs/info/6aa60f652ed333b4ea5c9a3c",
-      "location": "Broomfield, CO",
-      "datePosted": 1792760569,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adbbb010a4cc7090f9746c6",
       "company": "SpaceX",
       "title": "AI Software Engineer (Vehicle Engineering)",
@@ -817,50 +861,6 @@
       "datePosted": 1792759529,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6918cc6fe0dec811a543e",
-      "company": "EVERSANA",
-      "title": "AI Security Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab6918cc6fe0dec811a543e",
-      "location": "United States",
-      "datePosted": 1792759424,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7a4a43a26ccc369f83dad3",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a7a4a43a26ccc369f83dad3",
-      "location": "Dallas, TX",
-      "datePosted": 1792758341,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb63ee46a8cabdc1ff29c1",
-      "company": "Cotiviti",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6adb63ee46a8cabdc1ff29c1",
-      "location": "United States",
-      "datePosted": 1792755830,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac83994a444ac5d36f882da",
-      "company": "Excelacom",
-      "title": "Data Developer - ETL",
-      "url": "https://jobright.ai/jobs/info/6ac83994a444ac5d36f882da",
-      "location": "Greenwood Village, CO",
-      "datePosted": 1792755201,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
