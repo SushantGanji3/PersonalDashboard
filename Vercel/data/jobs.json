@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-24T09:50:55Z",
-  "totalOpen": 1247,
-  "totalNewgrad": 219,
+  "generatedAt": "2026-10-24T10:00:19Z",
+  "totalOpen": 1250,
+  "totalNewgrad": 222,
   "totalOther": 1028,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac0178a8ff3fb9b3bc7aa0d",
+      "company": "Zelis",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac0178a8ff3fb9b3bc7aa0d",
+      "location": "United States",
+      "datePosted": 1792808192,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac52f4e0e027c0f3b3ad622",
+      "company": "Booz Allen Hamilton",
+      "title": "Power Platform Developer",
+      "url": "https://jobright.ai/jobs/info/6ac52f4e0e027c0f3b3ad622",
+      "location": "Washington, DC",
+      "datePosted": 1792807887,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6a58747972fe7a7b98dce6e6",
       "company": "Palantir",
@@ -14,7 +36,7 @@
       "datePosted": 1792807812,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5529f32084cd792b476915",
@@ -25,7 +47,7 @@
       "datePosted": 1792807809,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4b615b6189f64e437eec95",
@@ -34,6 +56,17 @@
       "url": "https://jobright.ai/jobs/info/6a4b615b6189f64e437eec95",
       "location": "Palo Alto, CA",
       "datePosted": 1792807803,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a557daaae07d60a8d0119c6",
+      "location": "Seattle, WA",
+      "datePosted": 1792807801,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -80,7 +113,7 @@
       "datePosted": 1792807779,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc74339e3e874dbfba42a0",
@@ -91,7 +124,29 @@
       "datePosted": 1792807363,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adc720a46a8cabdc1ff72e8",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adc720a46a8cabdc1ff72e8",
+      "location": "Frisco, TX",
+      "datePosted": 1792806810,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adc703c0a4cc7090f977219",
+      "company": "Torentify",
+      "title": "Software Engineer, SQL",
+      "url": "https://jobright.ai/jobs/info/6adc703c0a4cc7090f977219",
+      "location": "United States",
+      "datePosted": 1792806348,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a71a42dcb96192a368499a0",
@@ -743,17 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adba9155dc7953215a33cfa",
-      "company": "RTX",
-      "title": "Embedded Software Security Engineer I",
-      "url": "https://jobright.ai/jobs/info/6adba9155dc7953215a33cfa",
-      "location": "El Segundo, CA",
-      "datePosted": 1792766682,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e6004504-fc09-4fa4-8b4f-0e12d0e319a6",
       "company": "1Password",
       "title": "Developer Intern - Developer Interfaces",
@@ -787,17 +831,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac95503d4a5a03707411f75",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ac95503d4a5a03707411f75",
-      "location": "Tucson, AZ",
-      "datePosted": 1792765190,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:b29c852f-50f9-42bc-a4b6-65ef06b990be",
       "company": "Shield AI",
       "title": "Software Engineer 1 New Grad",
@@ -805,17 +838,6 @@
       "location": "Seattle, WA",
       "datePosted": 1792765162,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb8f4fc5c64fa3d9cb00ac",
-      "company": "RSM US LLP",
-      "title": "AI Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6adb8f4fc5c64fa3d9cb00ac",
-      "location": "Chicago, IL; Orlando, FL; Raleigh, NC; Dallas, TX; Atlanta metropolitan area, United States; Denver, CO; Minneapolis, MN",
-      "datePosted": 1792764757,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -839,28 +861,6 @@
       "datePosted": 1792764305,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb77189e3e874dbfba0044",
-      "company": "Regeneron",
-      "title": "Process Data Scientist",
-      "url": "https://jobright.ai/jobs/info/6adb77189e3e874dbfba0044",
-      "location": "United States",
-      "datePosted": 1792763434,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6d5a581e327c4bf20165f",
-      "company": "PathAI",
-      "title": "Software Engineer I, Fullstack",
-      "url": "https://jobright.ai/jobs/info/6ab6d5a581e327c4bf20165f",
-      "location": "United States",
-      "datePosted": 1792763062,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
