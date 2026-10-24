@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:20:16Z",
+  "generatedAt": "2026-10-24T00:30:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -78,6 +78,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792801216
+    },
+    {
+      "id": "newgrad-jobs:6adbeacf9e3e874dbfba2b4e",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adbeacf9e3e874dbfba2b4e",
+      "location": "Frisco, TX",
+      "datePosted": 1792772191,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792801816
     },
     {
       "id": "newgrad-jobs:6adbe832c5c64fa3d9cb220b",
@@ -342,6 +353,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792799416
+    },
+    {
+      "id": "newgrad-jobs:6adbb01146a8cabdc1ff43e1",
+      "company": "KLA",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6adbb01146a8cabdc1ff43e1",
+      "location": "Milpitas, CA",
+      "datePosted": 1792764533,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792801816
     },
     {
       "id": "simplify:5402095c-168c-4f29-8ce2-fe299e2632e3",
@@ -47389,17 +47411,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1790214019
-    },
-    {
-      "id": "newgrad-jobs:6ab4d0dce9a8f953ef830faa",
-      "company": "KFC",
-      "title": "Site Reliability Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ab4d0dce9a8f953ef830faa",
-      "location": "Plano, TX",
-      "datePosted": 1790209644,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790239817
     }
   ]
 }
