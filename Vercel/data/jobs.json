@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:00:19Z",
+  "generatedAt": "2026-10-24T02:10:16Z",
   "totalOpen": 1255,
   "totalNewgrad": 222,
   "totalOther": 1033,
@@ -113,7 +113,7 @@
       "datePosted": 1792777896,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa12d4aef23570cae242f49",
@@ -135,7 +135,7 @@
       "datePosted": 1792776890,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adbc3289e3e874dbfba196b",
@@ -179,7 +179,7 @@
       "datePosted": 1792775881,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adbd12ac5c64fa3d9cb1bb8",
@@ -1018,6 +1018,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:caf1ce87-4304-475f-9332-e9ae965a8557",
+      "company": "Intel",
+      "title": "Deep Learning Hardware Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Deep-Learning-Hardware-Engineer_JR0288400",
+      "location": "Santa Clara, CA, Hillsboro, OR",
+      "datePosted": 1792713600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:8ae57b40-93cf-44a0-8a44-a63ff170ac3b",
       "company": "Rivian",
       "title": "Software Engineering Intern, Vehicle Controls",
@@ -1309,17 +1320,6 @@
       "title": "New Grad 2027: Software Engineer",
       "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
       "location": "Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington, VA, Minneapolis, MN, Denver, CO",
-      "datePosted": 1792698816,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:64282743-9efa-42ca-9cf2-5214634b3ab1",
-      "company": "L3Harris",
-      "title": "New Grad 2027: Associate Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors",
-      "location": "Colorado Springs, CO",
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,

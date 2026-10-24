@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:00:19Z",
+  "generatedAt": "2026-10-24T02:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -2124,6 +2124,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792804215
+    },
+    {
+      "id": "simplify:caf1ce87-4304-475f-9332-e9ae965a8557",
+      "company": "Intel",
+      "title": "Deep Learning Hardware Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Deep-Learning-Hardware-Engineer_JR0288400",
+      "location": "Santa Clara, CA, Hillsboro, OR",
+      "datePosted": 1792713600,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1792807816
     },
     {
       "id": "newgrad-jobs:6adb048baee75c4e7d2e656e",
@@ -47422,61 +47433,6 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1790245821
-    },
-    {
-      "id": "newgrad-jobs:6ab4e8afe9a8f953ef83127b",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab4e8afe9a8f953ef83127b",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790215743,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790244621
-    },
-    {
-      "id": "newgrad-jobs:6ab4e8a93362fb9a8705f490",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab4e8a93362fb9a8705f490",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790215737,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790244621
-    },
-    {
-      "id": "newgrad-jobs:6ab4e7ae998dd2bfaf85350b",
-      "company": "Leonardo DRS",
-      "title": "Spring 2027 Software Engineering Intern Job Details | Leonardo DRS, Inc.",
-      "url": "https://jobright.ai/jobs/info/6ab4e7ae998dd2bfaf85350b",
-      "location": "Beavercreek, OH",
-      "datePosted": 1790215486,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1790244621
-    },
-    {
-      "id": "newgrad-jobs:6ab4e7aee9a8f953ef831259",
-      "company": "Leonardo DRS",
-      "title": "Spring 2027 Software Engineering Intern Job Details | Leonardo DRS, Inc.",
-      "url": "https://jobright.ai/jobs/info/6ab4e7aee9a8f953ef831259",
-      "location": "Beavercreek, OH",
-      "datePosted": 1790215486,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1790247016
-    },
-    {
-      "id": "newgrad-jobs:6ab4e7ad998dd2bfaf85350a",
-      "company": "Leonardo DRS",
-      "title": "Summer 2027 Software Engineering Intern Job Details | Leonardo DRS, Inc.",
-      "url": "https://jobright.ai/jobs/info/6ab4e7ad998dd2bfaf85350a",
-      "location": "Beavercreek, OH",
-      "datePosted": 1790215485,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790244621
     }
   ]
 }
