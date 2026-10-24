@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T05:10:16Z",
-  "totalOpen": 1253,
-  "totalNewgrad": 218,
+  "generatedAt": "2026-10-24T05:20:16Z",
+  "totalOpen": 1254,
+  "totalNewgrad": 219,
   "totalOther": 1035,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -90,6 +90,50 @@
       "location": "Santa Clara, CA",
       "datePosted": 1792790698,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adc2ffc389e06bb41ad57b5",
+      "company": "A Full Renovation \u2013 Residential Remodeling",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adc2ffc389e06bb41ad57b5",
+      "location": "United States",
+      "datePosted": 1792789900,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adc2fce0a4cc7090f9765ed",
+      "company": "Career Launch Tech Initiative",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6adc2fce0a4cc7090f9765ed",
+      "location": "United States",
+      "datePosted": 1792789854,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adc2f9146a8cabdc1ff661b",
+      "company": "A Full Renovation \u2013 Project Services",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adc2f9146a8cabdc1ff661b",
+      "location": "United States",
+      "datePosted": 1792789793,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa3b9de4233a2201a2b3280",
+      "company": "Rover.com",
+      "title": "Entry Level Software Engineer, Recommendations",
+      "url": "https://jobright.ai/jobs/info/6aa3b9de4233a2201a2b3280",
+      "location": "Seattle, WA",
+      "datePosted": 1792789244,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -270,17 +314,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adbddfd46a8cabdc1ff575d",
-      "company": "Quadric",
-      "title": "Deep Learning Compiler Intern",
-      "url": "https://jobright.ai/jobs/info/6adbddfd46a8cabdc1ff575d",
-      "location": "Burlingame, CA",
-      "datePosted": 1792774248,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adbd81ec5c64fa3d9cb1d17",
       "company": "Vizient",
       "title": "Associate Software Engineer",
@@ -435,6 +468,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adbddfd46a8cabdc1ff575d",
+      "company": "Quadric",
+      "title": "Deep Learning Compiler Intern",
+      "url": "https://jobright.ai/jobs/info/6adbddfd46a8cabdc1ff575d",
+      "location": "Burlingame, CA",
+      "datePosted": 1792768490,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6adbdb4a5dc7953215a351f6",
       "company": "Amazon",
       "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
@@ -556,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acfaf94c9f40bec907fd7b2",
+      "id": "newgrad-jobs:6adbb01146a8cabdc1ff43e1",
       "company": "KLA",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6acfaf94c9f40bec907fd7b2",
+      "url": "https://jobright.ai/jobs/info/6adbb01146a8cabdc1ff43e1",
       "location": "Milpitas, CA",
       "datePosted": 1792764533,
       "source": "newgrad-jobs",
@@ -721,17 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a578823e9b77f668bd686d0",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a578823e9b77f668bd686d0",
-      "location": "Dallas, TX",
-      "datePosted": 1792758341,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adb63ee46a8cabdc1ff29c1",
       "company": "Cotiviti",
       "title": "Associate Software Engineer",
@@ -826,39 +859,6 @@
       "url": "https://jobright.ai/jobs/info/6adb9588389e06bb41ad2cc1",
       "location": "United States",
       "datePosted": 1792750360,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb76209e3e874dbfb9fff3",
-      "company": "Simbe",
-      "title": "Computer Vision / Applied AI Intern \u2014 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6adb76209e3e874dbfb9fff3",
-      "location": "Burlingame, CA",
-      "datePosted": 1792749229,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abee53e0e027c0f3b39bc38",
-      "company": "SpaceX",
-      "title": "Software Engineer, AI Infrastructure (Starshield)",
-      "url": "https://jobright.ai/jobs/info/6abee53e0e027c0f3b39bc38",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792749225,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6a2f38c63ba56308f51c76",
-      "company": "SpaceX",
-      "title": "Software Engineer, Telemetry (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792749184,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
