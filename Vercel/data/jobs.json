@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-24T01:30:15Z",
+  "generatedAt": "2026-10-24T01:40:16Z",
   "totalOpen": 1256,
-  "totalNewgrad": 224,
-  "totalOther": 1032,
+  "totalNewgrad": 223,
+  "totalOther": 1033,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:8135261f-ace0-4f34-9e6a-7a979e430526",
+      "company": "Carvana",
+      "title": "Software Engineering",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=7542940",
+      "location": "Tempe, AZ",
+      "datePosted": 1792803733,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:a509cc99-b862-4bd9-8c30-49393b371170",
+      "company": "Mercury",
+      "title": "Frontend Engineer - Design Systems",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
+      "location": "SF, Remote in USA, NYC, Portland, OR, Remote in Canada",
+      "datePosted": 1792796421,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:a14ceb22-49c8-4897-9a3b-4ae3041a00fc",
       "company": "Microsoft",
@@ -91,7 +113,7 @@
       "datePosted": 1792775362,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adbf5d60a4cc7090f975c36",
@@ -102,7 +124,7 @@
       "datePosted": 1792775014,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adbdb1d9e3e874dbfba269c",
@@ -204,17 +226,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adbe832c5c64fa3d9cb220b",
-      "company": "Mercury",
-      "title": "Frontend Engineer - Design Systems",
-      "url": "https://jobright.ai/jobs/info/6adbe832c5c64fa3d9cb220b",
-      "location": "United States; Canada",
-      "datePosted": 1792771522,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6b726fee-7dce-4e72-8290-b7d2b8d6803b",
       "company": "Cisco",
       "title": "Software Engineer Data & AI II Intern",
@@ -289,7 +300,7 @@
       "datePosted": 1792770161,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a0fc56c0956e8adda58",
@@ -586,7 +597,7 @@
       "datePosted": 1792759743,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adb92bf9e3e874dbfba0a78",
@@ -826,6 +837,17 @@
       "url": "https://jobright.ai/jobs/info/6a693d7a05bae84301b5b391",
       "location": "Redmond, WA",
       "datePosted": 1792749104,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adb8888c5c64fa3d9cafdcb",
+      "company": "Blue Yonder",
+      "title": "Software Engineer I (U.S. Citizenship Required)",
+      "url": "https://jobright.ai/jobs/info/6adb8888c5c64fa3d9cafdcb",
+      "location": "Dallas, TX",
+      "datePosted": 1792748972,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1298,28 +1320,6 @@
       "title": "New Grad 2027: Associate Software Engineer",
       "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors",
       "location": "Colorado Springs, CO",
-      "datePosted": 1792698816,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9b8b4a9f-cb5d-447b-a689-f621a82eeb5b",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
-      "location": "O'Fallon, MO",
-      "datePosted": 1792698816,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:da14411a-32a3-4fe0-b502-f5fcfa14525e",
-      "company": "Boeing",
-      "title": "Associate Flight Test Data Processing Software Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2",
-      "location": "Berkeley, MO",
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
