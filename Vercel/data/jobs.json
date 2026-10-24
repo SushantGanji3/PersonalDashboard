@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T02:50:14Z",
-  "totalOpen": 1253,
-  "totalNewgrad": 220,
+  "generatedAt": "2026-10-24T03:00:20Z",
+  "totalOpen": 1252,
+  "totalNewgrad": 219,
   "totalOther": 1033,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -91,7 +91,18 @@
       "datePosted": 1792781941,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adbf0829e3e874dbfba2be5",
+      "company": "ASML",
+      "title": "Platform Software Engineer In Test ( Internship)",
+      "url": "https://jobright.ai/jobs/info/6adbf0829e3e874dbfba2be5",
+      "location": "San Jose, CA",
+      "datePosted": 1792781500,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "simplify:c4dc3458-525a-41e5-a1cc-5508b08f1c45",
@@ -122,17 +133,6 @@
       "url": "https://jobright.ai/jobs/info/6aa12d4aef23570cae242f49",
       "location": "Sioux Falls, SD",
       "datePosted": 1792777528,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adbf0829e3e874dbfba2be5",
-      "company": "ASML",
-      "title": "Platform Software Engineer In Test ( Internship)",
-      "url": "https://jobright.ai/jobs/info/6adbf0829e3e874dbfba2be5",
-      "location": "San Jose, CA",
-      "datePosted": 1792776890,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -523,15 +523,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adbb01146a8cabdc1ff43e1",
+      "id": "newgrad-jobs:6abd3ab94ac55253f5d5bf73",
       "company": "KLA",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6adbb01146a8cabdc1ff43e1",
+      "url": "https://jobright.ai/jobs/info/6abd3ab94ac55253f5d5bf73",
       "location": "Milpitas, CA",
       "datePosted": 1792764533,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "simplify:5402095c-168c-4f29-8ce2-fe299e2632e3",
@@ -677,17 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adbab489e3e874dbfba124d",
-      "company": "Epic Games",
-      "title": "Tools Programmer Intern (Graphics)",
-      "url": "https://jobright.ai/jobs/info/6adbab489e3e874dbfba124d",
-      "location": "Cary, NC",
-      "datePosted": 1792759050,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a7a4a43a26ccc369f83dad3",
       "company": "Copart",
       "title": "Software Engineering Intern",
@@ -696,7 +685,7 @@
       "datePosted": 1792758341,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adb63ee46a8cabdc1ff29c1",
@@ -848,6 +837,17 @@
       "url": "https://jobright.ai/jobs/info/6a693d7a05bae84301b5b391",
       "location": "Redmond, WA",
       "datePosted": 1792749104,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adb8888c5c64fa3d9cafdcb",
+      "company": "Blue Yonder",
+      "title": "Software Engineer I (U.S. Citizenship Required)",
+      "url": "https://jobright.ai/jobs/info/6adb8888c5c64fa3d9cafdcb",
+      "location": "Dallas, TX",
+      "datePosted": 1792748972,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
