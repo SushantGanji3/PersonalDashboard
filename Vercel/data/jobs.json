@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T10:40:16Z",
-  "totalOpen": 1252,
-  "totalNewgrad": 225,
+  "generatedAt": "2026-10-24T10:50:17Z",
+  "totalOpen": 1251,
+  "totalNewgrad": 224,
   "totalOther": 1027,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792811603,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abf6d078ff3fb9b3bc780c8",
@@ -25,7 +25,7 @@
       "datePosted": 1792810872,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac028e90e027c0f3b3a02a9",
@@ -36,7 +36,7 @@
       "datePosted": 1792810703,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7fca46a8cabdc1ff7588",
@@ -47,7 +47,18 @@
       "datePosted": 1792810330,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792810280,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7f2e5dc7953215a36fcb",
@@ -58,7 +69,7 @@
       "datePosted": 1792810174,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7e0ec5c64fa3d9cb3c47",
@@ -69,7 +80,7 @@
       "datePosted": 1792809886,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7de45dc7953215a36fb6",
@@ -80,7 +91,7 @@
       "datePosted": 1792809844,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7de0c5c64fa3d9cb3c41",
@@ -91,7 +102,7 @@
       "datePosted": 1792809840,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7d3f5dc7953215a36f26",
@@ -102,7 +113,7 @@
       "datePosted": 1792809679,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac3ef520e027c0f3b3a8471",
@@ -113,7 +124,18 @@
       "datePosted": 1792809652,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada9f4ce4b94611ab85e5dc",
+      "company": "Salesforce",
+      "title": "Software Engineering MTS",
+      "url": "https://jobright.ai/jobs/info/6ada9f4ce4b94611ab85e5dc",
+      "location": "San Francisco, CA; Bellevue, WA",
+      "datePosted": 1792809592,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a880d2525fc4e7ae3daf2d4",
@@ -135,7 +157,7 @@
       "datePosted": 1792809518,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7bf50a4cc7090f977438",
@@ -146,7 +168,7 @@
       "datePosted": 1792809349,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7b2d9e3e874dbfba43eb",
@@ -157,7 +179,7 @@
       "datePosted": 1792809149,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7b23389e06bb41ad65c6",
@@ -168,7 +190,7 @@
       "datePosted": 1792809139,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc7b03c5c64fa3d9cb3b3d",
@@ -179,17 +201,6 @@
       "datePosted": 1792809107,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ada9f4ce4b94611ab85e5dc",
-      "company": "Salesforce",
-      "title": "Software Engineering MTS",
-      "url": "https://jobright.ai/jobs/info/6ada9f4ce4b94611ab85e5dc",
-      "location": "San Francisco, CA; Bellevue, WA",
-      "datePosted": 1792809014,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -204,17 +215,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1792808177,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa3d1819b7684dd0b92dfe9",
       "company": "Amway",
       "title": "Software Developer Intern, Summer 2027 (REQ#43440)",
@@ -223,7 +223,7 @@
       "datePosted": 1792807969,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac52f4e0e027c0f3b3ad622",
@@ -331,17 +331,6 @@
       "url": "https://jobright.ai/jobs/info/6adc74339e3e874dbfba42a0",
       "location": "Sioux Falls, SD",
       "datePosted": 1792807363,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc720a46a8cabdc1ff72e8",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adc720a46a8cabdc1ff72e8",
-      "location": "Frisco, TX",
-      "datePosted": 1792806810,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -762,6 +751,17 @@
       "datePosted": 1792775881,
       "source": "newgrad-jobs",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adbd12ac5c64fa3d9cb1bb8",
+      "company": "Scout AI",
+      "title": "AI Engineer Intern - Fury Team (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adbd12ac5c64fa3d9cb1bb8",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792775486,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
