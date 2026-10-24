@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:20:15Z",
+  "generatedAt": "2026-10-24T02:30:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -78,6 +78,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792794835
+    },
+    {
+      "id": "newgrad-jobs:6adc0ccd5dc7953215a35b90",
+      "company": "A Full Renovation \u2013 Home Improvement",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adc0ccd5dc7953215a35b90",
+      "location": "United States",
+      "datePosted": 1792780893,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792809017
     },
     {
       "id": "simplify:c4dc3458-525a-41e5-a1cc-5508b08f1c45",
@@ -47411,17 +47422,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790249418
-    },
-    {
-      "id": "newgrad-jobs:6a7b6e0db933773d16be7349",
-      "company": "Booz Allen Hamilton",
-      "title": "AI Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a7b6e0db933773d16be7349",
-      "location": "San Diego, CA",
-      "datePosted": 1790216852,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790245821
     }
   ]
 }

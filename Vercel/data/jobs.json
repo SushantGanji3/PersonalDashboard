@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T02:20:15Z",
-  "totalOpen": 1255,
-  "totalNewgrad": 222,
+  "generatedAt": "2026-10-24T02:30:17Z",
+  "totalOpen": 1254,
+  "totalNewgrad": 221,
   "totalOther": 1033,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adc0ccd5dc7953215a35b90",
+      "company": "A Full Renovation \u2013 Home Improvement",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adc0ccd5dc7953215a35b90",
+      "location": "United States",
+      "datePosted": 1792780893,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:c4dc3458-525a-41e5-a1cc-5508b08f1c45",
       "company": "Epic Games",
       "title": "Tools Programmer Intern - Graphics",
@@ -90,17 +101,6 @@
       "location": "Cary, NC",
       "datePosted": 1792780820,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc019d46a8cabdc1ff5ef8",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adc019d46a8cabdc1ff5ef8",
-      "location": "Frisco, TX",
-      "datePosted": 1792778029,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -523,10 +523,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adb88bc5dc7953215a331ee",
+      "id": "newgrad-jobs:6adbb01146a8cabdc1ff43e1",
       "company": "KLA",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6adb88bc5dc7953215a331ee",
+      "url": "https://jobright.ai/jobs/info/6adbb01146a8cabdc1ff43e1",
       "location": "Milpitas, CA",
       "datePosted": 1792764533,
       "source": "newgrad-jobs",
@@ -688,17 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a578823e9b77f668bd686d0",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a578823e9b77f668bd686d0",
-      "location": "Dallas, TX",
-      "datePosted": 1792758341,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adb63ee46a8cabdc1ff29c1",
       "company": "Cotiviti",
       "title": "Associate Software Engineer",
@@ -848,6 +837,17 @@
       "url": "https://jobright.ai/jobs/info/6a693d7a05bae84301b5b391",
       "location": "Redmond, WA",
       "datePosted": 1792749104,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adb7903389e06bb41ad222b",
+      "company": "Blue Yonder",
+      "title": "Software Engineer I (U.S. Citizenship Required)",
+      "url": "https://jobright.ai/jobs/info/6adb7903389e06bb41ad222b",
+      "location": "Dallas, TX",
+      "datePosted": 1792748972,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
