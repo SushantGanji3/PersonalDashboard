@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-24T10:10:16Z",
-  "totalOpen": 1249,
-  "totalNewgrad": 222,
+  "generatedAt": "2026-10-24T10:20:17Z",
+  "totalOpen": 1247,
+  "totalNewgrad": 220,
   "totalOther": 1027,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ada9f4ce4b94611ab85e5dc",
+      "company": "Salesforce",
+      "title": "Software Engineering MTS",
+      "url": "https://jobright.ai/jobs/info/6ada9f4ce4b94611ab85e5dc",
+      "location": "San Francisco, CA; Bellevue, WA",
+      "datePosted": 1792809014,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac0178a8ff3fb9b3bc7aa0d",
       "company": "Zelis",
@@ -12,6 +23,17 @@
       "url": "https://jobright.ai/jobs/info/6ac0178a8ff3fb9b3bc7aa0d",
       "location": "United States",
       "datePosted": 1792808192,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792808177,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -771,28 +793,6 @@
       "url": "https://jobright.ai/jobs/info/6adbddfd46a8cabdc1ff575d",
       "location": "Burlingame, CA",
       "datePosted": 1792768490,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adbdb4a5dc7953215a351f6",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-      "url": "https://jobright.ai/jobs/info/6adbdb4a5dc7953215a351f6",
-      "location": "Redmond, WA",
-      "datePosted": 1792768218,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adbb4bc46a8cabdc1ff44fc",
-      "company": "Viasat",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6adbb4bc46a8cabdc1ff44fc",
-      "location": "Carlsbad, CA",
-      "datePosted": 1792767635,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
