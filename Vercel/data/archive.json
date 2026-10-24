@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:40:16Z",
+  "generatedAt": "2026-10-24T08:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792806016
+    },
+    {
+      "id": "newgrad-jobs:6adbc89f46a8cabdc1ff4bb6",
+      "company": "Alturas Analytics, Inc.",
+      "title": "Associate Database Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6adbc89f46a8cabdc1ff4bb6",
+      "location": "Moscow, ID",
+      "datePosted": 1792803142,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792831816
     },
     {
       "id": "simplify:04de57b4-c180-4bcf-8af0-316c80728e03",
@@ -47334,28 +47345,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790269816
-    },
-    {
-      "id": "newgrad-jobs:6ab55920c6fe0dec811a0a0f",
-      "company": "Providence Health & Services",
-      "title": "Data Engineer I IS - Remote",
-      "url": "https://jobright.ai/jobs/info/6ab55920c6fe0dec811a0a0f",
-      "location": "United States",
-      "datePosted": 1790239225,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791495017
-    },
-    {
-      "id": "newgrad-jobs:6ab54b6c634ec6aa7c0ce0de",
-      "company": "Providence Health & Services",
-      "title": "Data Engineer I IS - Remote",
-      "url": "https://jobright.ai/jobs/info/6ab54b6c634ec6aa7c0ce0de",
-      "location": "United States",
-      "datePosted": 1790239225,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1792696217
     }
   ]
 }
