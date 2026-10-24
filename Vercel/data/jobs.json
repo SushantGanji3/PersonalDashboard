@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T15:20:16Z",
-  "totalOpen": 1233,
-  "totalNewgrad": 206,
+  "generatedAt": "2026-10-24T15:30:18Z",
+  "totalOpen": 1236,
+  "totalNewgrad": 209,
   "totalOther": 1027,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1792827867,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a874cd4d34f700f87fc4a95",
@@ -25,7 +25,7 @@
       "datePosted": 1792827398,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa39d834238ea18d430cf2a",
@@ -45,6 +45,17 @@
       "url": "https://jobright.ai/jobs/info/6adcc1b09e3e874dbfba5207",
       "location": "United States",
       "datePosted": 1792827200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adcbe779e3e874dbfba51cf",
+      "company": "Torentify",
+      "title": "Game Developer - AI (WFH)",
+      "url": "https://jobright.ai/jobs/info/6adcbe779e3e874dbfba51cf",
+      "location": "United States",
+      "datePosted": 1792826375,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6adc35745dc7953215a36358",
       "location": "United States",
       "datePosted": 1792791300,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a513ab778e364789ca59f31",
-      "company": "TikTok",
-      "title": "iOS Software Engineer, Monetization Client - Ads Core Technology, Demonstration",
-      "url": "https://jobright.ai/jobs/info/6a513ab778e364789ca59f31",
-      "location": "San Jose, CA",
-      "datePosted": 1792791210,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
