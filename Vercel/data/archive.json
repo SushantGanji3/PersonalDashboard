@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:50:16Z",
+  "generatedAt": "2026-10-24T05:00:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792806016
+    },
+    {
+      "id": "simplify:04de57b4-c180-4bcf-8af0-316c80728e03",
+      "company": "Figure AI",
+      "title": "Developer Productivity Intern",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+      "location": "San Jose, CA",
+      "datePosted": 1792801689,
+      "source": "aggregator",
+      "season": "Winter",
+      "firstSeenAt": 1792818017
     },
     {
       "id": "simplify:a509cc99-b862-4bd9-8c30-49393b371170",
@@ -1728,6 +1739,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1792754418
+    },
+    {
+      "id": "simplify:d31da38e-ad26-40ee-a431-5d710553aa25",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Amazon Leo",
+      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+      "location": "Redmond, WA",
+      "datePosted": 1792726089,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1792818017
     },
     {
       "id": "newgrad-jobs:6ad8c62a54bbabbab07088b8",
@@ -47400,17 +47422,6 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1790255418
-    },
-    {
-      "id": "newgrad-jobs:6a5216648576ec69c014a596",
-      "company": "K2 Space Corporation",
-      "title": "Application Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a5216648576ec69c014a596",
-      "location": "Los Angeles, CA",
-      "datePosted": 1790225537,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790254218
     }
   ]
 }
