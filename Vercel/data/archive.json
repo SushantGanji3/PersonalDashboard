@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:40:16Z",
+  "generatedAt": "2026-10-24T01:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -89,6 +89,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792794835
+    },
+    {
+      "id": "newgrad-jobs:6adc019d46a8cabdc1ff5ef8",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adc019d46a8cabdc1ff5ef8",
+      "location": "Frisco, TX",
+      "datePosted": 1792778029,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792806616
     },
     {
       "id": "newgrad-jobs:6adbf7320a4cc7090f975c95",
@@ -47432,17 +47443,6 @@
       "datePosted": 1790215485,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "firstSeenAt": 1790244621
-    },
-    {
-      "id": "newgrad-jobs:6a580f963330ca6f993c31ca",
-      "company": "Auria Space",
-      "title": "Software Engineer - Sentinel",
-      "url": "https://jobright.ai/jobs/info/6a580f963330ca6f993c31ca",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1790214582,
-      "source": "newgrad-jobs",
-      "season": null,
       "firstSeenAt": 1790244621
     }
   ]
