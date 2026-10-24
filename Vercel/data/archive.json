@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:30:17Z",
+  "generatedAt": "2026-10-24T06:40:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": "Winter",
       "firstSeenAt": 1792818017
+    },
+    {
+      "id": "newgrad-jobs:6adc4bcf5dc7953215a3688b",
+      "company": "Andrenam",
+      "title": "Perception Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adc4bcf5dc7953215a3688b",
+      "location": "Torrance, CA",
+      "datePosted": 1792797023,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792824017
+    },
+    {
+      "id": "newgrad-jobs:6adc4bcdc5c64fa3d9cb3485",
+      "company": "Andrenam",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adc4bcdc5c64fa3d9cb3485",
+      "location": "Torrance, CA",
+      "datePosted": 1792797021,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792824017
     },
     {
       "id": "simplify:a509cc99-b862-4bd9-8c30-49393b371170",
@@ -47455,17 +47477,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790263217
-    },
-    {
-      "id": "newgrad-jobs:6ab525f0d85922de20cdf815",
-      "company": "Boeing",
-      "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6ab525f0d85922de20cdf815",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1790231424,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790259618
     }
   ]
 }
