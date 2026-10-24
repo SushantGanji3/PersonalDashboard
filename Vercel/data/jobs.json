@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-24T05:20:16Z",
-  "totalOpen": 1254,
+  "generatedAt": "2026-10-24T05:30:17Z",
+  "totalOpen": 1248,
   "totalNewgrad": 219,
-  "totalOther": 1035,
+  "totalOther": 1029,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -102,7 +102,7 @@
       "datePosted": 1792789900,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc2fce0a4cc7090f9765ed",
@@ -113,7 +113,7 @@
       "datePosted": 1792789854,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc2f9146a8cabdc1ff661b",
@@ -124,7 +124,7 @@
       "datePosted": 1792789793,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa3b9de4233a2201a2b3280",
@@ -897,17 +897,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:33a8ba63-811e-4b32-885f-47051d11efd4",
-      "company": "Boeing",
-      "title": "Software Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
-      "location": "Maryland Heights, MO, Hazelwood, MO",
-      "datePosted": 1792732376,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d31da38e-ad26-40ee-a431-5d710553aa25",
       "company": "Amazon",
       "title": "Software Development Engineer Intern, Amazon Leo",
@@ -1320,6 +1309,17 @@
       "title": "New Grad 2027: Associate/Software Engineer Pathways",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
       "location": "Linthicum, MD",
+      "datePosted": 1792698816,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:29a40488-8784-4195-bb6b-8c7281eb6c64",
+      "company": "Palantir",
+      "title": "Software Engineer, Query Engines",
+      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+      "location": "New York, NY",
       "datePosted": 1792698816,
       "source": "aggregator",
       "season": null,
