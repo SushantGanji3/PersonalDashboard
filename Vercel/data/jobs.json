@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-10-24T12:10:17Z",
-  "totalOpen": 1241,
-  "totalNewgrad": 214,
+  "generatedAt": "2026-10-24T12:20:15Z",
+  "totalOpen": 1238,
+  "totalNewgrad": 211,
   "totalOther": 1027,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6adc8e3e46a8cabdc1ff79d4",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adc8e3e46a8cabdc1ff79d4",
-      "location": "Frisco, TX",
-      "datePosted": 1792814030,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
     {
       "id": "newgrad-jobs:6abf6d08372c01f6cd727ece",
       "company": "ShopBack",
@@ -58,6 +47,17 @@
       "datePosted": 1792813043,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792812917,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -113,17 +113,6 @@
       "datePosted": 1792810330,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1792810280,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -567,17 +556,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adc4bcdc5c64fa3d9cb3485",
-      "company": "Andrenam",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6adc4bcdc5c64fa3d9cb3485",
-      "location": "Torrance, CA",
-      "datePosted": 1792797021,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:a509cc99-b862-4bd9-8c30-49393b371170",
       "company": "Mercury",
       "title": "Frontend Engineer - Design Systems",
@@ -586,17 +564,6 @@
       "datePosted": 1792796421,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adbf5d60a4cc7090f975c36",
-      "company": "Figure AI",
-      "title": "Developer Productivity Intern [Winter 2027]",
-      "url": "https://jobright.ai/jobs/info/6adbf5d60a4cc7090f975c36",
-      "location": "San Jose, CA",
-      "datePosted": 1792796249,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -762,6 +729,39 @@
       "datePosted": 1792775881,
       "source": "newgrad-jobs",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adbd12ac5c64fa3d9cb1bb8",
+      "company": "Scout AI",
+      "title": "AI Engineer Intern - Fury Team (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adbd12ac5c64fa3d9cb1bb8",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1792775486,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adbdb96c5c64fa3d9cb1e09",
+      "company": "Fuel Cycle",
+      "title": "Associate AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6adbdb96c5c64fa3d9cb1e09",
+      "location": "Los Angeles, CA",
+      "datePosted": 1792774250,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adbd81ec5c64fa3d9cb1d17",
+      "company": "Vizient",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adbd81ec5c64fa3d9cb1d17",
+      "location": "Irving, TX",
+      "datePosted": 1792773737,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
