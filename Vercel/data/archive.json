@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:10:15Z",
+  "generatedAt": "2026-10-24T00:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792794835
+    },
+    {
+      "id": "newgrad-jobs:6adbebcb0a4cc7090f975b27",
+      "company": "Parkway Schools",
+      "title": "Data Engineer I",
+      "url": "https://jobright.ai/jobs/info/6adbebcb0a4cc7090f975b27",
+      "location": "Chesterfield, MO",
+      "datePosted": 1792772443,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792801216
     },
     {
       "id": "newgrad-jobs:6adbe832c5c64fa3d9cb220b",
@@ -47389,28 +47400,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790239817
-    },
-    {
-      "id": "newgrad-jobs:6ab4cda53547d44e255a8b58",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab4cda53547d44e255a8b58",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790208821,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790238620
-    },
-    {
-      "id": "newgrad-jobs:6ab4cda2e9a8f953ef830f1e",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab4cda2e9a8f953ef830f1e",
-      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790208818,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790238620
     }
   ]
 }
