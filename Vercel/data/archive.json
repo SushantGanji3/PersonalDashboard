@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:20:15Z",
+  "generatedAt": "2026-10-24T01:30:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792794835
+    },
+    {
+      "id": "newgrad-jobs:6adbf7320a4cc7090f975c95",
+      "company": "Andrenam",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adbf7320a4cc7090f975c95",
+      "location": "Torrance, CA",
+      "datePosted": 1792775362,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792805415
+    },
+    {
+      "id": "newgrad-jobs:6adbf5d60a4cc7090f975c36",
+      "company": "Figure AI",
+      "title": "Developer Productivity Intern [Winter 2027]",
+      "url": "https://jobright.ai/jobs/info/6adbf5d60a4cc7090f975c36",
+      "location": "San Jose, CA",
+      "datePosted": 1792775014,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "firstSeenAt": 1792805415
     },
     {
       "id": "newgrad-jobs:6adbebcb0a4cc7090f975b27",
@@ -155,6 +177,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792799416
+    },
+    {
+      "id": "newgrad-jobs:6adbb01f9e3e874dbfba140b",
+      "company": "KLA",
+      "title": "Software Engineering Intern \u2013 AI/ML for Diagnostics & Calibration",
+      "url": "https://jobright.ai/jobs/info/6adbb01f9e3e874dbfba140b",
+      "location": "Milpitas, CA",
+      "datePosted": 1792770161,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792805415
     },
     {
       "id": "newgrad-jobs:6adbddfd46a8cabdc1ff575d",
@@ -474,6 +507,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792791017
+    },
+    {
+      "id": "newgrad-jobs:6aa43b5e1d92e2d05d113f7e",
+      "company": "Tradeweb",
+      "title": "Summer 2027 SRE - Observability Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6aa43b5e1d92e2d05d113f7e",
+      "location": "Jersey City, NJ",
+      "datePosted": 1792759743,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1792805415
     },
     {
       "id": "newgrad-jobs:6adb664fc5c64fa3d9caf283",
@@ -47378,61 +47422,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1790215815
-    },
-    {
-      "id": "simplify:213245fd-01d7-48ad-8a63-d1e7934925ff",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer - Components",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8839057002",
-      "location": "Hawthorne, CA",
-      "datePosted": 1790213197,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1792764616
-    },
-    {
-      "id": "simplify:be11dc29-6925-4c06-99a2-79e488a51c35",
-      "company": "Tesla",
-      "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
-      "url": "https://www.tesla.com/careers/search/job/284593",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790213098,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790214019
-    },
-    {
-      "id": "simplify:a6ca4015-b83d-4606-a189-7a9fe9f86aa3",
-      "company": "Ramp",
-      "title": "Software Engineer Intern - Android",
-      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1790212862,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790214019
-    },
-    {
-      "id": "simplify:2470b381-61c4-4e0a-9a0b-dcc58f4956bd",
-      "company": "Ramp",
-      "title": "Software Engineer Intern - Frontend",
-      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1790212861,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790214019
-    },
-    {
-      "id": "simplify:ac053621-f848-4ace-97dc-4ef8ad9562a0",
-      "company": "Ramp",
-      "title": "Software Engineer Intern - Backend",
-      "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1790212860,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790214019
     }
   ]
 }
