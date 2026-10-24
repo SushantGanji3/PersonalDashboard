@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:30:16Z",
+  "generatedAt": "2026-10-24T18:40:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -9494,6 +9494,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792753816
+    },
+    {
+      "id": "simplify:41b1fef4-b52b-4801-8aa7-7e5fa7cfedce",
+      "company": "General Dynamics",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job",
+      "location": "Pittsburgh, PA",
+      "datePosted": 1792479600,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1792867215
     },
     {
       "id": "newgrad-jobs:6ad771fb3dc655658d8ec488",
@@ -46729,39 +46740,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790312420
-    },
-    {
-      "id": "newgrad-jobs:6ab5d0169d4843569fe4c2e7",
-      "company": "Baxter International Inc.",
-      "title": "Software Engineer,",
-      "url": "https://jobright.ai/jobs/info/6ab5d0169d4843569fe4c2e7",
-      "location": "Skaneateles Falls, NY",
-      "datePosted": 1790274982,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790305220
-    },
-    {
-      "id": "newgrad-jobs:6ab5cf5cc6fe0dec811a3739",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ab5cf5cc6fe0dec811a3739",
-      "location": "Menlo Park, CA; Bellevue, WA",
-      "datePosted": 1790274796,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1790305220
-    },
-    {
-      "id": "newgrad-jobs:6ab5cf04b3db59402d0ff073",
-      "company": "North Carolina Department of Agriculture and Consumer Services",
-      "title": "Application Developer 1/2/3 Flex (PCN 081105)",
-      "url": "https://jobright.ai/jobs/info/6ab5cf04b3db59402d0ff073",
-      "location": "United States",
-      "datePosted": 1790274708,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790302819
     }
   ]
 }
