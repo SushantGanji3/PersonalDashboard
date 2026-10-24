@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T06:40:17Z",
-  "totalOpen": 1247,
-  "totalNewgrad": 218,
+  "generatedAt": "2026-10-24T06:50:16Z",
+  "totalOpen": 1244,
+  "totalNewgrad": 215,
   "totalOther": 1029,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1792797023,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adc4bcdc5c64fa3d9cb3485",
@@ -47,7 +47,7 @@
       "datePosted": 1792797021,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a509cc99-b862-4bd9-8c30-49393b371170",
@@ -83,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adc44560a4cc7090f976c1e",
+      "company": "A Full Renovation \u2013 Residential Remodeling",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adc44560a4cc7090f976c1e",
+      "location": "United States",
+      "datePosted": 1792795110,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:9ee09be0-74d4-4f17-be8c-6ee90eefdb45",
       "company": "Meta AI",
       "title": "Research Scientist Intern - AI Core Machine Learning",
@@ -112,17 +123,6 @@
       "location": "Seattle, WA, Menlo Park, CA, Bellevue, WA",
       "datePosted": 1792793115,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc39df46a8cabdc1ff6969",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adc39df46a8cabdc1ff6969",
-      "location": "Frisco, TX",
-      "datePosted": 1792792431,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -233,17 +233,6 @@
       "location": "Santa Clara, CA",
       "datePosted": 1792790698,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc2ffc389e06bb41ad57b5",
-      "company": "A Full Renovation \u2013 Residential Remodeling",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6adc2ffc389e06bb41ad57b5",
-      "location": "United States",
-      "datePosted": 1792789900,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -859,6 +848,17 @@
       "url": "https://jobright.ai/jobs/info/6adba5c79e3e874dbfba1068",
       "location": "Mountain View, CA",
       "datePosted": 1792754519,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adba2eb389e06bb41ad312c",
+      "company": "FAMU National Alumni Association",
+      "title": "Applied AI & Enablement Intern",
+      "url": "https://jobright.ai/jobs/info/6adba2eb389e06bb41ad312c",
+      "location": "Princeton, NJ",
+      "datePosted": 1792753787,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
