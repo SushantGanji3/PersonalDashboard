@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:20:16Z",
+  "generatedAt": "2026-10-24T04:30:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -78,6 +78,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792794835
+    },
+    {
+      "id": "newgrad-jobs:6adc25dcc5c64fa3d9cb2bae",
+      "company": "A Full Renovation \u2013 Home Improvement",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6adc25dcc5c64fa3d9cb2bae",
+      "location": "United States",
+      "datePosted": 1792787308,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792816216
     },
     {
       "id": "newgrad-jobs:6adc1f4f389e06bb41ad545f",
@@ -47433,17 +47444,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790254218
-    },
-    {
-      "id": "newgrad-jobs:6a50aa64d5d2a327b664ce5c",
-      "company": "The Nuclear Company",
-      "title": "AI Engineer 1 - Compliance, Quality & Testing",
-      "url": "https://jobright.ai/jobs/info/6a50aa64d5d2a327b664ce5c",
-      "location": "Washington, DC",
-      "datePosted": 1790224037,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790259618
     }
   ]
 }
