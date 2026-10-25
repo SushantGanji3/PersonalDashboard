@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:10:15Z",
+  "generatedAt": "2026-10-25T08:20:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -20549,6 +20549,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792481418
+    },
+    {
+      "id": "simplify:bed17ef6-8f66-4693-a2b4-96a614788937",
+      "company": "Databricks",
+      "title": "Software Engineering Intern",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+      "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, BC",
+      "datePosted": 1791788400,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1792916418
     },
     {
       "id": "newgrad-jobs:6accd52de7a1d9333210eb6f",
@@ -45992,28 +46003,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790352621
-    },
-    {
-      "id": "newgrad-jobs:6ab55c13634ec6aa7c0ce83f",
-      "company": "CACI International Inc",
-      "title": "Software Engineer - Early Career - Cloud",
-      "url": "https://jobright.ai/jobs/info/6ab55c13634ec6aa7c0ce83f",
-      "location": "Hanover, MD",
-      "datePosted": 1790324353,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790353216
-    },
-    {
-      "id": "newgrad-jobs:6a7dec0919ce4e6e9d9302cc",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Application Developer Levels 1 - 5 - Revenue Applications (TCU)",
-      "url": "https://jobright.ai/jobs/info/6a7dec0919ce4e6e9d9302cc",
-      "location": "New York, NY",
-      "datePosted": 1790324326,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790353216
     }
   ]
 }
