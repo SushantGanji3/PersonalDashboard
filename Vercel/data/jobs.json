@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:20:15Z",
+  "generatedAt": "2026-10-25T14:30:16Z",
   "totalOpen": 1200,
   "totalNewgrad": 226,
   "totalOther": 974,
@@ -36,7 +36,29 @@
       "datePosted": 1792910666,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad0366278d51ae69ce0a1cf",
+      "company": "WoodmenLife",
+      "title": "2027 Summer Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad0366278d51ae69ce0a1cf",
+      "location": "Omaha, NE",
+      "datePosted": 1792910538,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa4672df3aa936e2cdb121d",
+      "company": "IBM",
+      "title": "Storage Systems Research Scientist Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa4672df3aa936e2cdb121d",
+      "location": "San Jose, CA",
+      "datePosted": 1792910537,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a377f65649fdf16292fd3d2",
@@ -661,28 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e",
       "location": "Hawthorne, CA",
       "datePosted": 1792835225,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4fe27bfc327f422fef6df5",
-      "company": "SpaceX",
-      "title": "Data Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4fe27bfc327f422fef6df5",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792835072,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a3319ae649fdf16292f0c8d",
-      "company": "SpaceX",
-      "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
-      "url": "https://jobright.ai/jobs/info/6a3319ae649fdf16292f0c8d",
-      "location": "Hawthorne, CA; Redmond, WA",
-      "datePosted": 1792834997,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
