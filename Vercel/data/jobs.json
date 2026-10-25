@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-25T08:40:16Z",
-  "totalOpen": 1206,
+  "generatedAt": "2026-10-25T08:50:15Z",
+  "totalOpen": 1208,
   "totalNewgrad": 233,
-  "totalOther": 973,
+  "totalOther": 975,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:90a334ec-5ca8-46e6-9f27-99aa1167595e",
+      "company": "Notion",
+      "title": "Software Engineer Intern, Mobile",
+      "url": "https://go.vansh.nyc/BF",
+      "location": "San Francisco, CA, New York, NY",
+      "datePosted": 1792917865,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
+    {
+      "id": "simplify:3e8d9753-7659-4467-b4f1-2f05cc19984f",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning",
+      "url": "https://go.vansh.nyc/BA",
+      "location": "San Mateo, CA",
+      "datePosted": 1792917752,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6acdbc0c77057049844000e4",
       "company": "Capgemini",
@@ -1299,28 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/2322361288548512",
       "location": "Boston, MA, SF, Menlo Park, CA, NYC, Bellevue, WA",
       "datePosted": 1792707010,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:98a4f1e7-ff51-4d1a-9395-cf93c25f6f14",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Physical Engineering AI",
-      "url": "https://www.metacareers.com/jobs/1081255008061721",
-      "location": "Seattle, WA, NYC",
-      "datePosted": 1792707010,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1d987e0c-f34d-40f3-9d6b-aac26b690333",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - FAIR Chemistry",
-      "url": "https://www.metacareers.com/jobs/2162858564439476",
-      "location": "SF",
-      "datePosted": 1792707008,
       "source": "aggregator",
       "season": null,
       "isNew": false
