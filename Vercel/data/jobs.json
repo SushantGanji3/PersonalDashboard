@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T15:10:16Z",
-  "totalOpen": 1200,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-10-25T15:20:17Z",
+  "totalOpen": 1198,
+  "totalNewgrad": 224,
   "totalOther": 974,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,28 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ade181446a8cabdc1ffaeb6",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ade181446a8cabdc1ffaeb6",
+      "location": "Frisco, TX",
+      "datePosted": 1792914852,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ade153c389e06bb41ada036",
+      "company": "Air Culinaire Worldwide",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ade153c389e06bb41ada036",
+      "location": "Tampa, FL",
+      "datePosted": 1792914124,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a88c600d34f700f87fca7d2",
@@ -61,10 +83,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aae10793d96632d741b05f0",
+      "id": "newgrad-jobs:6a377f65649fdf16292fd3d2",
       "company": "Astranis Space Technologies",
       "title": "Flight Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aae10793d96632d741b05f0",
+      "url": "https://jobright.ai/jobs/info/6a377f65649fdf16292fd3d2",
       "location": "San Francisco, CA",
       "datePosted": 1792909697,
       "source": "newgrad-jobs",
@@ -661,28 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6ac12f568ff3fb9b3bc7d2ce",
       "location": "Redmond, WA",
       "datePosted": 1792838563,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfcebc0e027c0f3b39e00b",
-      "company": "Docusign",
-      "title": "Software Engineering Intern \u2013 Self-Service Directory Diagnostics",
-      "url": "https://jobright.ai/jobs/info/6abfcebc0e027c0f3b39e00b",
-      "location": "Seattle, WA",
-      "datePosted": 1792837019,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a87a59d4afae74a08349c6e",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer - Simulation & Flight Systems",
-      "url": "https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792835225,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

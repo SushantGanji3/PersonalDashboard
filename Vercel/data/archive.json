@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:10:16Z",
+  "generatedAt": "2026-10-25T15:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792918215
+    },
+    {
+      "id": "newgrad-jobs:6ade181446a8cabdc1ffaeb6",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ade181446a8cabdc1ffaeb6",
+      "location": "Frisco, TX",
+      "datePosted": 1792914852,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792941617
+    },
+    {
+      "id": "newgrad-jobs:6ade153c389e06bb41ada036",
+      "company": "Air Culinaire Worldwide",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ade153c389e06bb41ada036",
+      "location": "Tampa, FL",
+      "datePosted": 1792914124,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792941617
     },
     {
       "id": "newgrad-jobs:6a88c600d34f700f87fca7d2",
@@ -45354,17 +45376,6 @@
       "source": "newgrad-jobs",
       "season": "Fall",
       "firstSeenAt": 1790380216
-    },
-    {
-      "id": "newgrad-jobs:6ab6f19539fd8792cb73cdb2",
-      "company": "Atlassian",
-      "title": "Research Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6ab6f19539fd8792cb73cdb2",
-      "location": "Seattle, WA",
-      "datePosted": 1790349093,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790378419
     }
   ]
 }
