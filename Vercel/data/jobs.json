@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:50:15Z",
+  "generatedAt": "2026-10-25T12:00:17Z",
   "totalOpen": 1204,
   "totalNewgrad": 230,
   "totalOther": 974,
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a51080dae4052672fe96435",
+      "company": "Nuro",
+      "title": "Software Engineer, AI Platform - Intern",
+      "url": "https://jobright.ai/jobs/info/6a51080dae4052672fe96435",
+      "location": "Mountain View, CA",
+      "datePosted": 1792899927,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a88ee4725fc4e7ae3db2e8c",
@@ -399,7 +410,7 @@
       "datePosted": 1792846339,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ada432103d2da75289135d9",
@@ -666,23 +677,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a063968320bff2205eaa361",
+      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
       "company": "Palantir",
       "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
+      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
       "location": "New York, NY",
       "datePosted": 1792833962,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8618704afae74a083436a4",
-      "company": "SpaceX",
-      "title": "Software Engineer (Application Software)",
-      "url": "https://jobright.ai/jobs/info/6a8618704afae74a083436a4",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792833895,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
