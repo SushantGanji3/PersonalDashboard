@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T09:40:16Z",
-  "totalOpen": 1208,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-10-25T09:50:15Z",
+  "totalOpen": 1207,
+  "totalNewgrad": 232,
   "totalOther": 975,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,17 @@
       "datePosted": 1792917752,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1792894347,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -672,17 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a6b61b65c54bc4752ce8944",
       "location": "Dallas, TX",
       "datePosted": 1792832727,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa46ab41d92e2d05d114af3",
-      "company": "Burns & McDonnell",
-      "title": "Software Developer Intern - Transmission & Distribution (St. Louis)",
-      "url": "https://jobright.ai/jobs/info/6aa46ab41d92e2d05d114af3",
-      "location": "St. Louis, MO",
-      "datePosted": 1792832408,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
