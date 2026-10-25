@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:00:18Z",
+  "generatedAt": "2026-10-25T16:10:14Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792918215
+    },
+    {
+      "id": "newgrad-jobs:6aa50e4542411952ff9a6c82",
+      "company": "Direct Supply",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa50e4542411952ff9a6c82",
+      "location": "Milwaukee, WI",
+      "datePosted": 1792917575,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792944614
+    },
+    {
+      "id": "newgrad-jobs:6aa3b935959a10d7230d3879",
+      "company": "L3Harris",
+      "title": "Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3b935959a10d7230d3879",
+      "location": "Lynchburg, VA",
+      "datePosted": 1792916411,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792944614
     },
     {
       "id": "newgrad-jobs:6ade181446a8cabdc1ffaeb6",
@@ -45343,28 +45365,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790392818
-    },
-    {
-      "id": "newgrad-jobs:6ab744fd3a2ec87116e25d7d",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "Intern Application Developer 2027-ServiceNow",
-      "url": "https://jobright.ai/jobs/info/6ab744fd3a2ec87116e25d7d",
-      "location": "New York, NY",
-      "datePosted": 1790352426,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790398215
-    },
-    {
-      "id": "newgrad-jobs:6ab6fe5fba1c25652c610fe8",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineer QA DevOps, Intern",
-      "url": "https://jobright.ai/jobs/info/6ab6fe5fba1c25652c610fe8",
-      "location": "Santa Rosa, CA; San Diego, CA",
-      "datePosted": 1790352367,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790382056
     }
   ]
 }
