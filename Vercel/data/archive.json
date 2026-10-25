@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:10:16Z",
+  "generatedAt": "2026-10-25T14:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792918215
+    },
+    {
+      "id": "newgrad-jobs:6a88c600d34f700f87fca7d2",
+      "company": "iCapital",
+      "title": "Python Engineer and Developer - Associate",
+      "url": "https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
+      "location": "Stamford, CT",
+      "datePosted": 1792910666,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792938015
     },
     {
       "id": "newgrad-jobs:6ade00cb5dc7953215a3a672",
@@ -45408,17 +45419,6 @@
       "datePosted": 1790346195,
       "source": "newgrad-jobs",
       "season": null,
-      "firstSeenAt": 1790375417
-    },
-    {
-      "id": "newgrad-jobs:6ab6a6bc634ec6aa7c0d3bd3",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab6a6bc634ec6aa7c0d3bd3",
-      "location": "West Valley City, UT; Salt Lake City, UT",
-      "datePosted": 1790345951,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "firstSeenAt": 1790375417
     }
   ]
