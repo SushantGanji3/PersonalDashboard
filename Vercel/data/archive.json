@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-25T01:10:15Z",
+  "generatedAt": "2026-10-25T01:20:17Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "newgrad-jobs:6ac8245951a1b3e4219f099d",
+      "company": "AAA Auto Club Enterprises",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac8245951a1b3e4219f099d",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1792861441,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792891217
+    },
     {
       "id": "newgrad-jobs:6adc24700a4cc7090f9763df",
       "company": "Disney",
@@ -463,6 +474,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792848017
+    },
+    {
+      "id": "newgrad-jobs:6add48ed0a4cc7090f9795db",
+      "company": "Intezra, Inc.",
+      "title": "Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6add48ed0a4cc7090f9795db",
+      "location": "Columbia, MD",
+      "datePosted": 1792817091,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792891217
+    },
+    {
+      "id": "newgrad-jobs:6add477b389e06bb41ad87b1",
+      "company": "Intezra, Inc.",
+      "title": "iOS Mobile Capability Developer",
+      "url": "https://jobright.ai/jobs/info/6add477b389e06bb41ad87b1",
+      "location": "Columbia, MD",
+      "datePosted": 1792817081,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792891217
+    },
+    {
+      "id": "newgrad-jobs:6add48e55dc7953215a3904a",
+      "company": "Intezra, Inc.",
+      "title": "Junior Cyber Operator / Developer / Analyst",
+      "url": "https://jobright.ai/jobs/info/6add48e55dc7953215a3904a",
+      "location": "Columbia, MD",
+      "datePosted": 1792817070,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792891217
     },
     {
       "id": "newgrad-jobs:6ad2ea07810010ec72f5a883",
@@ -46399,28 +46443,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790330422
-    },
-    {
-      "id": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern - Database Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true",
-      "location": "Menlo Park, CA, Bellevue, WA",
-      "datePosted": 1790299028,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790300453
-    },
-    {
-      "id": "simplify:8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern - Core, Infrastructure & Security",
-      "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true",
-      "location": "Menlo Park, CA, Bellevue, WA",
-      "datePosted": 1790299028,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790300453
     }
   ]
 }
