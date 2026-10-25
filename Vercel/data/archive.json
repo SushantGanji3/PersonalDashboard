@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:20:15Z",
+  "generatedAt": "2026-10-25T09:23:27Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792918215
+    },
+    {
+      "id": "newgrad-jobs:6addc38f46a8cabdc1ffa350",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6addc38f46a8cabdc1ffa350",
+      "location": "Frisco, TX",
+      "datePosted": 1792893215,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792920207
     },
     {
       "id": "newgrad-jobs:6adda76f46a8cabdc1ffa1ea",
@@ -45904,17 +45915,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790359221
-    },
-    {
-      "id": "newgrad-jobs:6a9e250675edfa11b4710658",
-      "company": "IBM",
-      "title": "Cloud Developer Intern - Chicago, IL - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e250675edfa11b4710658",
-      "location": "Chicago, IL",
-      "datePosted": 1790328066,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790360418
     }
   ]
 }
