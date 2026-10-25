@@ -1,19 +1,52 @@
 {
-  "generatedAt": "2026-10-25T01:30:17Z",
-  "totalOpen": 1240,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-10-25T01:40:16Z",
+  "totalOpen": 1241,
+  "totalNewgrad": 237,
   "totalOther": 1004,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6add531a46a8cabdc1ff97b7",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6add531a46a8cabdc1ff97b7",
+      "location": "Frisco, TX",
+      "datePosted": 1792864426,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6add388846a8cabdc1ff953a",
+      "company": "Astrolab",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6add388846a8cabdc1ff953a",
+      "location": "Hawthorne, CA",
+      "datePosted": 1792864045,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ad92836950ef68d5184eb4f",
       "company": "Twitch",
       "title": "Software Engineer I",
       "url": "https://jobright.ai/jobs/info/6ad92836950ef68d5184eb4f",
       "location": "Seattle, WA",
-      "datePosted": 1792863541,
+      "datePosted": 1792864040,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adc24700a4cc7090f9763df",
+      "company": "Disney",
+      "title": "Product & Technology Software Engineering Intern, Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6adc24700a4cc7090f9763df",
+      "location": "Glendale, CA; San Francisco, CA; Santa Monica, CA; Seattle, WA; Bristol, CT; New York, NY",
+      "datePosted": 1792864039,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -80,17 +113,6 @@
       "datePosted": 1792859280,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc24700a4cc7090f9763df",
-      "company": "Disney",
-      "title": "Product & Technology Software Engineering Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6adc24700a4cc7090f9763df",
-      "location": "Glendale, CA; San Francisco, CA; Santa Monica, CA; Seattle, WA; Bristol, CT; New York, NY",
-      "datePosted": 1792859280,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -179,17 +201,6 @@
       "datePosted": 1792857892,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6add388846a8cabdc1ff953a",
-      "company": "Astrolab",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6add388846a8cabdc1ff953a",
-      "location": "Hawthorne, CA",
-      "datePosted": 1792857624,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -435,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3319b229c90c607e4da31a",
+      "id": "newgrad-jobs:6a3319ae649fdf16292f0c8d",
       "company": "SpaceX",
       "title": "Site Reliability Engineer, Kubernetes Platform (Starshield)",
-      "url": "https://jobright.ai/jobs/info/6a3319b229c90c607e4da31a",
+      "url": "https://jobright.ai/jobs/info/6a3319ae649fdf16292f0c8d",
       "location": "Hawthorne, CA; Redmond, WA",
       "datePosted": 1792834997,
       "source": "newgrad-jobs",
@@ -446,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad1e3779e2fdc1ecc1c401e",
+      "id": "newgrad-jobs:6adbfdd946a8cabdc1ff5e3c",
       "company": "Carrier",
       "title": "Software Engineering Intern - Summer",
-      "url": "https://jobright.ai/jobs/info/6ad1e3779e2fdc1ecc1c401e",
+      "url": "https://jobright.ai/jobs/info/6adbfdd946a8cabdc1ff5e3c",
       "location": "East Syracuse, NY; Syracuse, NY",
       "datePosted": 1792834997,
       "source": "newgrad-jobs",
@@ -490,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
+      "id": "newgrad-jobs:6a063968320bff2205eaa361",
       "company": "Palantir",
       "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
+      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
       "location": "New York, NY",
       "datePosted": 1792833962,
       "source": "newgrad-jobs",
@@ -652,17 +663,6 @@
       "datePosted": 1792828276,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfd052064da25272e05f1d",
-      "company": "BAE Systems",
-      "title": "Software Engineering Intern II, Summer 2027 (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abfd052064da25272e05f1d",
-      "location": "Totowa, NJ",
-      "datePosted": 1792827867,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
