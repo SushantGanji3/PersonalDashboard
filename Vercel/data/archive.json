@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:10:18Z",
+  "generatedAt": "2026-10-25T12:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792918215
+    },
+    {
+      "id": "newgrad-jobs:6aa4835b422289703bd66e13",
+      "company": "Matrix Design Group LLC",
+      "title": "Software Engineering - Embedded Systems Intern",
+      "url": "https://jobright.ai/jobs/info/6aa4835b422289703bd66e13",
+      "location": "Newburgh, IN",
+      "datePosted": 1792901540,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792930815
     },
     {
       "id": "newgrad-jobs:6a51080dae4052672fe96435",
@@ -45607,17 +45618,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790367617
-    },
-    {
-      "id": "newgrad-jobs:6ab6c7653a2ec87116e23e3e",
-      "company": "Women of the Vine & Spirits",
-      "title": "2027 Summer Internship AI Engineer (OneTech)- Miramar, FL",
-      "url": "https://jobright.ai/jobs/info/6ab6c7653a2ec87116e23e3e",
-      "location": "Miramar, FL",
-      "datePosted": 1790338293,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790366421
     }
   ]
 }
