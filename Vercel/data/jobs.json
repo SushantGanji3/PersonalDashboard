@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-26T22:40:16Z",
-  "totalOpen": 1307,
-  "totalNewgrad": 231,
-  "totalOther": 1076,
+  "generatedAt": "2026-10-26T22:50:17Z",
+  "totalOpen": 1312,
+  "totalNewgrad": 235,
+  "totalOther": 1077,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:0d4115b1-ca44-4ed6-ab79-926c694af93c",
+      "company": "Cohesity",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Tc",
+      "location": "Santa Clara, CA",
+      "datePosted": 1793054321,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:8c576146-a50e-4813-b614-0c79d712f8fe",
       "company": "Meta AI",
@@ -14,7 +25,7 @@
       "datePosted": 1793052947,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:69f26bd4-eb39-4c53-9e7b-4d9600cd9f82",
@@ -25,7 +36,7 @@
       "datePosted": 1793052945,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bbd0c620-54fe-4568-b5ed-1a31793eff10",
@@ -47,7 +58,7 @@
       "datePosted": 1793043267,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:89bca250-ab21-474c-b928-0ef143615731",
@@ -83,15 +94,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adf84ac5dc7953215a3fb98",
-      "company": "North Carolina State University",
-      "title": "Temporary Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adf84ac5dc7953215a3fb98",
-      "location": "Raleigh, NC",
-      "datePosted": 1793024047,
+      "id": "newgrad-jobs:6adfcd249e3e874dbfbb05b8",
+      "company": "Cohesity",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adfcd249e3e874dbfbb05b8",
+      "location": "Santa Clara, CA",
+      "datePosted": 1793026740,
       "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adf8a569a8c91d5c35866b2",
@@ -99,7 +110,62 @@
       "title": "Software Engineer I",
       "url": "https://jobright.ai/jobs/info/6adf8a569a8c91d5c35866b2",
       "location": "San Francisco, CA",
-      "datePosted": 1793024040,
+      "datePosted": 1793026360,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adfcb5f0a4cc7090f983436",
+      "company": "Parallel",
+      "title": "Software Engineering Intern (Embedded, Backend, Fullstack)",
+      "url": "https://jobright.ai/jobs/info/6adfcb5f0a4cc7090f983436",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793026287,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfcb535dc7953215a4302b",
+      "company": "Reply",
+      "title": "Edge AI/Computer Vision Engineer",
+      "url": "https://jobright.ai/jobs/info/6adfcb535dc7953215a4302b",
+      "location": "Chicago, IL; Detroit, MI",
+      "datePosted": 1793026275,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfcb419a8c91d5c3589522",
+      "company": "Concept Reply US",
+      "title": "Edge AI/Computer Vision Engineer",
+      "url": "https://jobright.ai/jobs/info/6adfcb419a8c91d5c3589522",
+      "location": "Detroit metropolitan area, United States",
+      "datePosted": 1793026257,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a3f4c6778237a036d5e6df5",
+      "company": "Aquatic Capital Management",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a3f4c6778237a036d5e6df5",
+      "location": "Chicago, IL",
+      "datePosted": 1793025968,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adf84ac5dc7953215a3fb98",
+      "company": "North Carolina State University",
+      "title": "Temporary Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adf84ac5dc7953215a3fb98",
+      "location": "Raleigh, NC",
+      "datePosted": 1793024047,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -699,61 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adf76a5c5c64fa3d9cbbc3e",
-      "company": "Cencora",
-      "title": "EDI IT Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6adf76a5c5c64fa3d9cbbc3e",
-      "location": "Conshohocken, PA",
-      "datePosted": 1793008541,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf856f0a4cc7090f9800a6",
-      "company": "WebstaurantStore",
-      "title": "Front-End Developer Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6adf856f0a4cc7090f9800a6",
-      "location": "United States",
-      "datePosted": 1793008383,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf8139c5c64fa3d9cbc2f1",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Systems Engineer Intern - Lexington, MA",
-      "url": "https://jobright.ai/jobs/info/6adf8139c5c64fa3d9cbc2f1",
-      "location": "Lexington, MA",
-      "datePosted": 1793008020,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf8123065c4e77efaf820a",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Software Developer Intern - Lexington, MA",
-      "url": "https://jobright.ai/jobs/info/6adf8123065c4e77efaf820a",
-      "location": "Lexington, MA",
-      "datePosted": 1793008020,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf83459a8c91d5c358610f",
-      "company": "California Correctional Health Care Services",
-      "title": "Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6adf83459a8c91d5c358610f",
-      "location": "Sacramento County, CA, United States",
-      "datePosted": 1793007829,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:aa3767fb-f5f0-41c7-b500-3bd4c16ad62e",
       "company": "RTX",
       "title": "Embedded Software Engineering Intern",
@@ -1310,17 +1321,6 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8852121002",
       "location": "Bellevue, WA",
       "datePosted": 1792708017,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c4f7b9a7-0136-490c-891e-ee3a84d6864c",
-      "company": "1Password",
-      "title": "Developer Intern - Vault Team",
-      "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
-      "location": "Remote in USA, Remote in Canada",
-      "datePosted": 1792707736,
       "source": "aggregator",
       "season": null,
       "isNew": false
