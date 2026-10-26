@@ -1,20 +1,53 @@
 {
-  "generatedAt": "2026-10-26T00:10:16Z",
-  "totalOpen": 1193,
+  "generatedAt": "2026-10-26T00:20:19Z",
+  "totalOpen": 1195,
   "totalNewgrad": 218,
-  "totalOther": 975,
+  "totalOther": 977,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6ade887a46a8cabdc1ffc030",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ade887a46a8cabdc1ffc030",
-      "location": "Frisco, TX",
-      "datePosted": 1792943626,
+      "id": "simplify:13741c07-6081-4258-b11e-613072dd59f2",
+      "company": "SpaceX",
+      "title": "AI Software Engineer, Vehicle Engineering",
+      "url": "https://go.vansh.nyc/BJ",
+      "location": "Hawthorne, CA",
+      "datePosted": 1792973552,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:7e130fc4-054a-4b92-a9f1-27f509dfbfdc",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern",
+      "url": "https://go.vansh.nyc/BH",
+      "location": "San Mateo, CA",
+      "datePosted": 1792970176,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ade902c46a8cabdc1ffc0ec",
+      "company": "Elevated Web Design",
+      "title": "Frontend Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ade902c46a8cabdc1ffc0ec",
+      "location": "United States",
+      "datePosted": 1792945596,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ade8bce9e3e874dbfba9023",
+      "company": "IDEMIA",
+      "title": "Software Engineer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ade8bce9e3e874dbfba9023",
+      "location": "Reston, VA",
+      "datePosted": 1792944478,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a704c3aa605182afe22e82c",
@@ -133,17 +166,6 @@
       "url": "https://jobright.ai/jobs/info/6a888a334afae74a0834c3e8",
       "location": "Tulsa, OK",
       "datePosted": 1792924525,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ade3bdf9e3e874dbfba8294",
-      "company": "Ryzoe",
-      "title": "Trainee (Intern) Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ade3bdf9e3e874dbfba8294",
-      "location": "United States",
-      "datePosted": 1792924015,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -270,10 +292,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac83bd551a1b3e4219f0eb2",
+      "id": "newgrad-jobs:6ac14cd9d9621c5b28398f19",
       "company": "RTX",
       "title": "Systems Engineer I-onsite",
-      "url": "https://jobright.ai/jobs/info/6ac83bd551a1b3e4219f0eb2",
+      "url": "https://jobright.ai/jobs/info/6ac14cd9d9621c5b28398f19",
       "location": "Andover, MA; Tewksbury, MA",
       "datePosted": 1792919759,
       "source": "newgrad-jobs",
@@ -402,10 +424,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a377f65649fdf16292fd3d2",
+      "id": "newgrad-jobs:6aae10793d96632d741b05f0",
       "company": "Astranis Space Technologies",
       "title": "Flight Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a377f65649fdf16292fd3d2",
+      "url": "https://jobright.ai/jobs/info/6aae10793d96632d741b05f0",
       "location": "San Francisco, CA",
       "datePosted": 1792909697,
       "source": "newgrad-jobs",
@@ -523,10 +545,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
       "company": "Capgemini",
       "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
       "location": "Ashburn, VA",
       "datePosted": 1792881510,
       "source": "newgrad-jobs",
@@ -1299,28 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1097992326377524",
       "location": "Redmond, WA",
       "datePosted": 1792707011,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8b599158-a049-4b75-ae8c-b77507baaa9a",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Multi-Agent Systems and Memory",
-      "url": "https://www.metacareers.com/jobs/2615214025585454",
-      "location": "Seattle, WA, NYC, Bellevue, WA",
-      "datePosted": 1792707011,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e890215c-7b5f-43f6-8251-c07fdd2c0345",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Feed Recommendations",
-      "url": "https://www.metacareers.com/jobs/29044546168568671",
-      "location": "Bellevue, WA",
-      "datePosted": 1792707010,
       "source": "aggregator",
       "season": null,
       "isNew": false
