@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T15:20:16Z",
-  "totalOpen": 1262,
-  "totalNewgrad": 212,
+  "generatedAt": "2026-10-26T15:30:19Z",
+  "totalOpen": 1261,
+  "totalNewgrad": 211,
   "totalOther": 1050,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf640bc5c64fa3d9cbb193",
+      "company": "North Carolina Department of Agriculture and Consumer Services",
+      "title": "ITPA11 - Application Developer",
+      "url": "https://jobright.ai/jobs/info/6adf640bc5c64fa3d9cbb193",
+      "location": "Lansing, MI",
+      "datePosted": 1792999835,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad9969b39284cd524287b65",
@@ -683,17 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6a888a334afae74a0834c3e8",
       "location": "Tulsa, OK",
       "datePosted": 1792924525,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ade3621389e06bb41ada487",
-      "company": "Health Care Service Corporation",
-      "title": "Early Careers - Automation Programmer Intern",
-      "url": "https://jobright.ai/jobs/info/6ade3621389e06bb41ada487",
-      "location": "Richardson, TX",
-      "datePosted": 1792922530,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
