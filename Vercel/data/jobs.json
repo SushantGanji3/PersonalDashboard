@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-26T22:30:19Z",
-  "totalOpen": 1302,
+  "generatedAt": "2026-10-26T22:40:16Z",
+  "totalOpen": 1307,
   "totalNewgrad": 231,
-  "totalOther": 1071,
+  "totalOther": 1076,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:8c576146-a50e-4813-b614-0c79d712f8fe",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Generative Recommendation Systems",
+      "url": "https://www.metacareers.com/jobs/3265378000517806",
+      "location": "Menlo Park, CA",
+      "datePosted": 1793052947,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:69f26bd4-eb39-4c53-9e7b-4d9600cd9f82",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Audio AI",
+      "url": "https://www.metacareers.com/jobs/1160814043168431",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1793052945,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:bbd0c620-54fe-4568-b5ed-1a31793eff10",
       "company": "RTX",
@@ -15,6 +37,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:6d6de57a-a933-4e13-aa3c-2e0ee0b7d04d",
+      "company": "Anduril",
+      "title": "Early Career Software Engineer - Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007",
+      "location": "Fort Collins, CO, Broomfield, CO",
+      "datePosted": 1793043267,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:89bca250-ab21-474c-b928-0ef143615731",
@@ -80,7 +113,7 @@
       "datePosted": 1793023449,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfbf67065c4e77efafb20e",
@@ -1286,39 +1319,6 @@
       "company": "1Password",
       "title": "Developer Intern - Vault Team",
       "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
-      "location": "Remote in USA, Remote in Canada",
-      "datePosted": 1792707736,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:379fb3aa-7732-4809-8b51-dac32b966e6c",
-      "company": "1Password",
-      "title": "Developer Intern - Extension Excellence",
-      "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
-      "location": "Remote in USA, Remote in Canada",
-      "datePosted": 1792707736,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:28e22b29-32bb-4e01-8a30-19fea4fe8f28",
-      "company": "1Password",
-      "title": "Developer Intern - Provisioning",
-      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
-      "location": "Remote in USA, Remote in Canada",
-      "datePosted": 1792707736,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1c5e8952-b8d8-438e-a4a2-0c43e815da28",
-      "company": "1Password",
-      "title": "Developer Intern - Machine Identity",
-      "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
       "location": "Remote in USA, Remote in Canada",
       "datePosted": 1792707736,
       "source": "aggregator",
