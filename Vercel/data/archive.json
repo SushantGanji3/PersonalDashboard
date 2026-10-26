@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:10:16Z",
+  "generatedAt": "2026-10-26T10:20:14Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793005218
+    },
+    {
+      "id": "newgrad-jobs:69a819d21dfc787e9aa348fa",
+      "company": "The D. E. Shaw Group",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/69a819d21dfc787e9aa348fa",
+      "location": "New York, NY",
+      "datePosted": 1792981905,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793010014
     },
     {
       "id": "newgrad-jobs:6adf15289e3e874dbfbaa463",
@@ -474,6 +485,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793006416
+    },
+    {
+      "id": "newgrad-jobs:6adf1c14065c4e77efaf5a2d",
+      "company": "Tensley Consulting Inc.",
+      "title": "Site Reliability Engineer -Apprentice",
+      "url": "https://jobright.ai/jobs/info/6adf1c14065c4e77efaf5a2d",
+      "location": "United States",
+      "datePosted": 1792921868,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793010014
     },
     {
       "id": "newgrad-jobs:6add9ea05dc7953215a39b77",
@@ -21242,6 +21264,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791826219
+    },
+    {
+      "id": "simplify:d1a4e0b1-cbb1-4046-90d5-c7945e8bfea3",
+      "company": "Affirm",
+      "title": "New Grad 2027: Software Engineer I, Instruments",
+      "url": "https://go.vansh.nyc/BX",
+      "location": "Remote",
+      "datePosted": 1791794592,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793010014
     },
     {
       "id": "newgrad-jobs:6accfeebe7a1d9333210f69f",
@@ -44727,28 +44760,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791266417
-    },
-    {
-      "id": "newgrad-jobs:6ab1c08e191d8c340dbdcbc3",
-      "company": "Blue Cross and Blue Shield of Kansas",
-      "title": "Application Developer - Intern",
-      "url": "https://jobright.ai/jobs/info/6ab1c08e191d8c340dbdcbc3",
-      "location": "Topeka, KS",
-      "datePosted": 1790417755,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790451016
-    },
-    {
-      "id": "newgrad-jobs:6a9b197cd5ff1f3f1c39da60",
-      "company": "Fervo Energy",
-      "title": "Software Engineering Internship (Strategy)",
-      "url": "https://jobright.ai/jobs/info/6a9b197cd5ff1f3f1c39da60",
-      "location": "Houston, TX",
-      "datePosted": 1790417448,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790446818
     }
   ]
 }
