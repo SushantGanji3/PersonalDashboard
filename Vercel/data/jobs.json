@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:00:18Z",
+  "generatedAt": "2026-10-26T09:10:16Z",
   "totalOpen": 1179,
   "totalNewgrad": 209,
   "totalOther": 970,
@@ -14,7 +14,7 @@
       "datePosted": 1793004529,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adf092d065c4e77efaf572d",
@@ -25,7 +25,7 @@
       "datePosted": 1792976573,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adf07f19e3e874dbfbaa261",
@@ -399,7 +399,7 @@
       "datePosted": 1792925137,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a888a334afae74a0834c3e8",
