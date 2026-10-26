@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:10:17Z",
+  "generatedAt": "2026-10-26T02:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -650,6 +650,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1792959619
+    },
+    {
+      "id": "newgrad-jobs:6adeafa45dc7953215a3beea",
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI/ML Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6adeafa45dc7953215a3beea",
+      "location": "San Jose, CA",
+      "datePosted": 1792861200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792981216
     },
     {
       "id": "newgrad-jobs:6adc24700a4cc7090f9763df",
@@ -44991,28 +45002,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790422220
-    },
-    {
-      "id": "newgrad-jobs:6a99d72dad752e2ad550257c",
-      "company": "Spectrum",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a99d72dad752e2ad550257c",
-      "location": "Maryland Heights, MO; St. Louis, MO",
-      "datePosted": 1790388933,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790418016
-    },
-    {
-      "id": "newgrad-jobs:6ab78c34d7fde2c08ec8bb3c",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab78c34d7fde2c08ec8bb3c",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790388676,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790415618
     }
   ]
 }
