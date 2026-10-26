@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T23:00:20Z",
-  "totalOpen": 1312,
+  "generatedAt": "2026-10-26T23:10:15Z",
+  "totalOpen": 1315,
   "totalNewgrad": 235,
-  "totalOther": 1077,
+  "totalOther": 1080,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -787,6 +787,39 @@
       "isNew": false
     },
     {
+      "id": "simplify:b3b5266a-b857-4999-8c6f-daa45fa2c9e6",
+      "company": "Cohesity",
+      "title": "Software Engineer Intern",
+      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2",
+      "location": "Santa Clara, CA",
+      "datePosted": 1792972800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:af44a97e-7851-4c17-95b2-1f4d3f8e5d53",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern - Simulation & Robotics",
+      "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true",
+      "location": "San Mateo, CA",
+      "datePosted": 1792972800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ed3c7432-cc98-43bc-8361-acf4b6d1672b",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern - Reinforcement Learning",
+      "url": "https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048/application?embed=true",
+      "location": "San Mateo, CA",
+      "datePosted": 1792972800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:90a334ec-5ca8-46e6-9f27-99aa1167595e",
       "company": "Notion",
       "title": "Software Engineer Intern, Mobile",
@@ -1290,39 +1323,6 @@
       "datePosted": 1792708610,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:3a1df196-4b77-41ff-b9f7-833dfec00ba6",
-      "company": "JPMorgan Chase",
-      "title": "Asset Management Data Scientist \u2013 Summer Associate Intern",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931",
-      "location": "NYC",
-      "datePosted": 1792708054,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:40068b1c-1318-4f31-b141-aa63e3c51300",
-      "company": "SpaceX",
-      "title": "Software Engineer - Linux Kernel - Starlink",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8852114002",
-      "location": "Redmond, WA",
-      "datePosted": 1792708018,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:dce78796-c3cc-4b57-827a-6fa91cc08682",
-      "company": "SpaceX",
-      "title": "Software Engineer, Linux Kernel - Linux Kernel",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8852121002",
-      "location": "Bellevue, WA",
-      "datePosted": 1792708017,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
