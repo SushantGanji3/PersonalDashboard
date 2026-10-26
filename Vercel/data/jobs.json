@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-26T11:40:17Z",
-  "totalOpen": 1182,
+  "generatedAt": "2026-10-26T11:50:18Z",
+  "totalOpen": 1202,
   "totalNewgrad": 211,
-  "totalOther": 971,
+  "totalOther": 991,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:fcb481d8-3224-4cb1-99f9-3cfd34b52872",
+      "company": "RTX",
+      "title": "Software Platform Engineer Co-op",
+      "url": "https://go.vansh.nyc/CR",
+      "location": "Aurora, CO, Remote, United States",
+      "datePosted": 1793012955,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
     {
       "id": "simplify:aa3767fb-f5f0-41c7-b500-3bd4c16ad62e",
       "company": "RTX",
@@ -25,7 +36,7 @@
       "datePosted": 1792988132,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adf3653065c4e77efaf6036",
@@ -36,7 +47,7 @@
       "datePosted": 1792988131,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a4fe2e1fc327f422fef6e39",
@@ -47,7 +58,7 @@
       "datePosted": 1792986927,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:69a819d21dfc787e9aa348fa",
@@ -1310,17 +1321,6 @@
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
       "location": "SF",
       "datePosted": 1792707313,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:30ef7e36-6232-4c97-a0a2-f1e7acec8ee7",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - AI Alignment",
-      "url": "https://www.metacareers.com/jobs/2356892281747003",
-      "location": "Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC",
-      "datePosted": 1792707013,
       "source": "aggregator",
       "season": null,
       "isNew": false
