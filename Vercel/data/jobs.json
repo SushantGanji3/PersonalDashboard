@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T12:30:18Z",
-  "totalOpen": 1208,
-  "totalNewgrad": 211,
-  "totalOther": 997,
+  "generatedAt": "2026-10-26T12:40:17Z",
+  "totalOpen": 1214,
+  "totalNewgrad": 209,
+  "totalOther": 1005,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,28 +25,6 @@
       "datePosted": 1793004529,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf36540a4cc7090f97da76",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adf36540a4cc7090f97da76",
-      "location": "Frisco, TX",
-      "datePosted": 1792988132,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf3653065c4e77efaf6036",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adf3653065c4e77efaf6036",
-      "location": "Frisco, TX",
-      "datePosted": 1792988131,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -523,17 +501,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adf0abb065c4e77efaf5752",
-      "company": "Tensley Consulting Inc.",
-      "title": "Application Developer",
-      "url": "https://jobright.ai/jobs/info/6adf0abb065c4e77efaf5752",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1792921869,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adf1c14065c4e77efaf5a2d",
       "company": "Tensley Consulting Inc.",
       "title": "Site Reliability Engineer -Apprentice",
@@ -716,6 +683,39 @@
       "url": "https://jobright.ai/jobs/info/6ade153c389e06bb41ada036",
       "location": "Tampa, FL",
       "datePosted": 1792914124,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a88c600d34f700f87fca7d2",
+      "company": "iCapital",
+      "title": "Python Engineer and Developer - Associate",
+      "url": "https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
+      "location": "Stamford, CT",
+      "datePosted": 1792910666,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad0366278d51ae69ce0a1cf",
+      "company": "WoodmenLife",
+      "title": "2027 Summer Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad0366278d51ae69ce0a1cf",
+      "location": "Omaha, NE",
+      "datePosted": 1792910538,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4672df3aa936e2cdb121d",
+      "company": "IBM",
+      "title": "Storage Systems Research Scientist Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aa4672df3aa936e2cdb121d",
+      "location": "San Jose, CA",
+      "datePosted": 1792910537,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
