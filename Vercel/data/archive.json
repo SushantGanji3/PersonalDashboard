@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:40:16Z",
+  "generatedAt": "2026-10-26T19:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,39 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793034618
+    },
+    {
+      "id": "newgrad-jobs:6adfa1b59e3e874dbfbae84a",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adfa1b59e3e874dbfbae84a",
+      "location": "Frisco, TX",
+      "datePosted": 1793015621,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793044216
+    },
+    {
+      "id": "newgrad-jobs:6adf9f4d9a8c91d5c3587637",
+      "company": "CoreWeave",
+      "title": "Software Engineer, Inference",
+      "url": "https://jobright.ai/jobs/info/6adf9f4d9a8c91d5c3587637",
+      "location": "Bellevue, WA",
+      "datePosted": 1793015005,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793044216
+    },
+    {
+      "id": "newgrad-jobs:6adf9f2dc5c64fa3d9cbdb51",
+      "company": "Jacobs",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6adf9f2dc5c64fa3d9cbdb51",
+      "location": "Chantilly, VA",
+      "datePosted": 1793014973,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793044216
     },
     {
       "id": "newgrad-jobs:6adf9e6d9a8c91d5c3587547",
@@ -46168,17 +46201,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790481017
-    },
-    {
-      "id": "newgrad-jobs:6a9b9b04c1d6f91bc388322a",
-      "company": "Siemens Digital Industries Software",
-      "title": "Strategic Student Program: Electronics Software Engineering Co-Op - Digital Component Specifications (EBS, Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6a9b9b04c1d6f91bc388322a",
-      "location": "Huntsville, AL",
-      "datePosted": 1790451987,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1790571619
     }
   ]
 }
