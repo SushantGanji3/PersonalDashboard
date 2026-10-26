@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T17:10:18Z",
-  "totalOpen": 1284,
-  "totalNewgrad": 210,
+  "generatedAt": "2026-10-26T17:20:15Z",
+  "totalOpen": 1295,
+  "totalNewgrad": 221,
   "totalOther": 1074,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793031859,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:62eba377-6395-4c21-82a8-c2238c2155e2",
@@ -25,7 +25,7 @@
       "datePosted": 1793031859,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fcb481d8-3224-4cb1-99f9-3cfd34b52872",
@@ -39,6 +39,105 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adf7df05dc7953215a3f5c5",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)",
+      "url": "https://jobright.ai/jobs/info/6adf7df05dc7953215a3f5c5",
+      "location": "San Mateo, CA",
+      "datePosted": 1793006464,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adf7d1ac5c64fa3d9cbc07a",
+      "company": "Roblox",
+      "title": "Software Engineer, Frontend - Economy",
+      "url": "https://jobright.ai/jobs/info/6adf7d1ac5c64fa3d9cbc07a",
+      "location": "San Mateo, CA",
+      "datePosted": 1793006250,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8c674bd34f700f87fd02eb",
+      "company": "Motorola Solutions",
+      "title": "Android Applications Developer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a8c674bd34f700f87fd02eb",
+      "location": "Chicago, IL",
+      "datePosted": 1793005771,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adf5d2b0a4cc7090f97e6ca",
+      "company": "PTC",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adf5d2b0a4cc7090f97e6ca",
+      "location": "Boston, MA",
+      "datePosted": 1793005329,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ace8171a0453f9ba62492f0",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ace8171a0453f9ba62492f0",
+      "location": "King of Prussia, PA",
+      "datePosted": 1793005293,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf69f3065c4e77efaf7499",
+      "company": "The Hanover Insurance Group",
+      "title": "Intern - Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6adf69f3065c4e77efaf7499",
+      "location": "Worcester, MA",
+      "datePosted": 1793005089,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf50985dc7953215a3dd50",
+      "company": "Trusted Concepts, Inc.",
+      "title": "Summer Research Intern",
+      "url": "https://jobright.ai/jobs/info/6adf50985dc7953215a3dd50",
+      "location": "Arlington, VA",
+      "datePosted": 1793004865,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a900e320bd89e205d24861b",
+      "company": "Palantir",
+      "title": "Information Security Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a900e320bd89e205d24861b",
+      "location": "New York, NY",
+      "datePosted": 1793004659,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac50c18d9621c5b283a2d65",
+      "company": "Marotta Controls",
+      "title": "Spring 2027 Machine Learning Co-Op",
+      "url": "https://jobright.ai/jobs/info/6ac50c18d9621c5b283a2d65",
+      "location": "Parsippany-Troy Hills, NJ",
+      "datePosted": 1793004622,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
       "id": "simplify:aa3767fb-f5f0-41c7-b500-3bd4c16ad62e",
       "company": "RTX",
       "title": "Embedded Software Engineering Intern",
@@ -47,17 +146,6 @@
       "datePosted": 1793004529,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf75809e3e874dbfbac5f2",
-      "company": "BeamSphere",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6adf75809e3e874dbfbac5f2",
-      "location": "Rochester, NY",
-      "datePosted": 1793004304,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -259,17 +347,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adf50985dc7953215a3dd50",
-      "company": "Trusted Concepts, Inc.",
-      "title": "Summer Research Intern",
-      "url": "https://jobright.ai/jobs/info/6adf50985dc7953215a3dd50",
-      "location": "Arlington, VA",
-      "datePosted": 1792994856,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a8cc3e41d96e6541c8c2e6a",
       "company": "Lockheed Martin",
       "title": "Software Engineer",
@@ -334,6 +411,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab8fd5f81e327c4bf2054e9",
+      "company": "WorldQuant",
+      "title": "Quantitative Developer",
+      "url": "https://jobright.ai/jobs/info/6ab8fd5f81e327c4bf2054e9",
+      "location": "New York, NY",
+      "datePosted": 1792988365,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a4fe2e1fc327f422fef6e39",
@@ -567,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adf69f3065c4e77efaf7499",
-      "company": "The Hanover Insurance Group",
-      "title": "Intern - Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6adf69f3065c4e77efaf7499",
-      "location": "Worcester, MA",
-      "datePosted": 1792962000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aa46ff8f7baf881567ceba9",
       "company": "IBM",
       "title": "Research AI Engineer Intern 2027",
@@ -641,83 +718,6 @@
       "datePosted": 1792949015,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ade9ce246a8cabdc1ffc295",
-      "company": "A Full Renovation \u2013 Interiors & Design",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ade9ce246a8cabdc1ffc295",
-      "location": "United States",
-      "datePosted": 1792948850,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a965f92cabc9f6703e1d210",
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL",
-      "url": "https://jobright.ai/jobs/info/6a965f92cabc9f6703e1d210",
-      "location": "Sunrise, FL",
-      "datePosted": 1792948605,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
-      "company": "Meta AI",
-      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abaac6cee0b348be729ad33",
-      "location": "Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1792948605,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf503c9a8c91d5c3584425",
-      "company": "BWXT",
-      "title": "Data Scientist/Engineer",
-      "url": "https://jobright.ai/jobs/info/6adf503c9a8c91d5c3584425",
-      "location": "Lynchburg, VA",
-      "datePosted": 1792947600,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf4c9e065c4e77efaf65e2",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6adf4c9e065c4e77efaf65e2",
-      "location": "Indianapolis, IN",
-      "datePosted": 1792947600,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf4cdd065c4e77efaf6605",
-      "company": "RTX",
-      "title": "Part Time Software Platform Engineer Co-Op  (Remote)",
-      "url": "https://jobright.ai/jobs/info/6adf4cdd065c4e77efaf6605",
-      "location": "United States",
-      "datePosted": 1792947600,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf5d2b0a4cc7090f97e6ca",
-      "company": "PTC",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6adf5d2b0a4cc7090f97e6ca",
-      "location": "Boston, MA",
-      "datePosted": 1792947600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
