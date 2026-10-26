@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:20:20Z",
+  "generatedAt": "2026-10-26T20:30:19Z",
   "totalOpen": 1304,
   "totalNewgrad": 233,
   "totalOther": 1071,
@@ -36,6 +36,28 @@
       "datePosted": 1793031859,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad9093239284cd524283675",
+      "company": "Yakima Chief Hops",
+      "title": "Jr Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad9093239284cd524283675",
+      "location": "Yakima, WA",
+      "datePosted": 1793016453,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adf84ac5dc7953215a3fb98",
+      "company": "North Carolina State University",
+      "title": "Temporary Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adf84ac5dc7953215a3fb98",
+      "location": "Raleigh, NC",
+      "datePosted": 1793016270,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -210,17 +232,6 @@
       "url": "https://jobright.ai/jobs/info/6adf999c0a4cc7090f980f7e",
       "location": "Chicago, IL",
       "datePosted": 1793013548,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf84ac5dc7953215a3fb98",
-      "company": "North Carolina State University",
-      "title": "Temporary Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adf84ac5dc7953215a3fb98",
-      "location": "Raleigh, NC",
-      "datePosted": 1793013508,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -444,6 +455,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf81d29a8c91d5c3585f1a",
+      "company": "Highmark Health",
+      "title": "Summer 2027 Provider Delivery Software Engineer enGen Undergraduate Intern",
+      "url": "https://jobright.ai/jobs/info/6adf81d29a8c91d5c3585f1a",
+      "location": "United States",
+      "datePosted": 1793008799,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adf86ad9a8c91d5c3586482",
@@ -694,28 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6aa5a056654b2a9424cf4ec4",
       "location": "Southlake, TX",
       "datePosted": 1793000029,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf640bc5c64fa3d9cbb193",
-      "company": "North Carolina Department of Agriculture and Consumer Services",
-      "title": "ITPA11 - Application Developer",
-      "url": "https://jobright.ai/jobs/info/6adf640bc5c64fa3d9cbb193",
-      "location": "Lansing, MI",
-      "datePosted": 1792999835,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad9969b39284cd524287b65",
-      "company": "XPO",
-      "title": "Applied AI Scientist - Hybrid Job Details | XPO",
-      "url": "https://jobright.ai/jobs/info/6ad9969b39284cd524287b65",
-      "location": "Boston, MA",
-      "datePosted": 1792999328,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
