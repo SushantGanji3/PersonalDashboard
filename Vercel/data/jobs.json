@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-26T08:50:15Z",
-  "totalOpen": 1176,
-  "totalNewgrad": 207,
-  "totalOther": 969,
+  "generatedAt": "2026-10-26T09:00:18Z",
+  "totalOpen": 1179,
+  "totalNewgrad": 209,
+  "totalOther": 970,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:aa3767fb-f5f0-41c7-b500-3bd4c16ad62e",
+      "company": "RTX",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/BP",
+      "location": "East Hartford, CT",
+      "datePosted": 1793004529,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adf092d065c4e77efaf572d",
+      "company": "Unicontrol",
+      "title": "Software Engineering Intern (C#)",
+      "url": "https://jobright.ai/jobs/info/6adf092d065c4e77efaf572d",
+      "location": "Odense, KS",
+      "datePosted": 1792976573,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6adf07f19e3e874dbfbaa261",
       "company": "Unicontrol",
@@ -369,6 +391,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac13bd98ff3fb9b3bc7d397",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "url": "https://jobright.ai/jobs/info/6ac13bd98ff3fb9b3bc7d397",
+      "location": "Reston, VA",
+      "datePosted": 1792925137,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a888a334afae74a0834c3e8",
       "company": "Brunswick Corporation",
       "title": "Software Engineering Intern",
@@ -490,10 +523,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac83bd551a1b3e4219f0eb2",
+      "id": "newgrad-jobs:6ac14cd9d9621c5b28398f19",
       "company": "RTX",
       "title": "Systems Engineer I-onsite",
-      "url": "https://jobright.ai/jobs/info/6ac83bd551a1b3e4219f0eb2",
+      "url": "https://jobright.ai/jobs/info/6ac14cd9d9621c5b28398f19",
       "location": "Andover, MA; Tewksbury, MA",
       "datePosted": 1792919759,
       "source": "newgrad-jobs",
@@ -672,28 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6a51080dae4052672fe96435",
       "location": "Mountain View, CA",
       "datePosted": 1792899927,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a88ee4725fc4e7ae3db2e8c",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a88ee4725fc4e7ae3db2e8c",
-      "location": "San Jose, CA",
-      "datePosted": 1792897531,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5b579ac8e3a473cb8afcc4",
-      "company": "Peraton",
-      "title": "Cloud Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6a5b579ac8e3a473cb8afcc4",
-      "location": "Fort Meade, MD",
-      "datePosted": 1792894909,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1310,17 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/2356892281747003",
       "location": "Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC",
       "datePosted": 1792707013,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b997ca1f-399c-40bb-88af-2a86fe6e7f98",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Fair - Video Generation",
-      "url": "https://www.metacareers.com/jobs/3549654831867862",
-      "location": "Seattle, WA, Menlo Park, CA",
-      "datePosted": 1792707012,
       "source": "aggregator",
       "season": null,
       "isNew": false
