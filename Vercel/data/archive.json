@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:50:14Z",
+  "generatedAt": "2026-10-26T06:00:20Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1792974019
+    },
+    {
+      "id": "newgrad-jobs:6adedd549a8c91d5c3582d46",
+      "company": "Ada",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6adedd549a8c91d5c3582d46",
+      "location": "United States",
+      "datePosted": 1792965348,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792994420
+    },
+    {
+      "id": "newgrad-jobs:6adedcf29e3e874dbfba9b8a",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adedcf29e3e874dbfba9b8a",
+      "location": "Frisco, TX",
+      "datePosted": 1792965250,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792994420
     },
     {
       "id": "newgrad-jobs:6aded793c5c64fa3d9cb9087",
@@ -1156,6 +1178,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1792854018
+    },
+    {
+      "id": "newgrad-jobs:6a591107686b4755d1e0e384",
+      "company": "Together AI",
+      "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+      "url": "https://jobright.ai/jobs/info/6a591107686b4755d1e0e384",
+      "location": "San Francisco, CA",
+      "datePosted": 1792822697,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1792994420
     },
     {
       "id": "newgrad-jobs:6ab63034634ec6aa7c0d236a",
@@ -44724,28 +44757,6 @@
       "url": "https://jobright.ai/jobs/info/6ab7c46c81e327c4bf20396d",
       "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
       "datePosted": 1790403068,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790430616
-    },
-    {
-      "id": "newgrad-jobs:6a545587d007ee02d95fe785",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, Robotics",
-      "url": "https://jobright.ai/jobs/info/6a545587d007ee02d95fe785",
-      "location": "Austin, TX; South San Francisco, CA",
-      "datePosted": 1790402315,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790430616
-    },
-    {
-      "id": "newgrad-jobs:683df139abb1ff44979fe7bb",
-      "company": "Neuralink",
-      "title": "Software Engineer, BCI Applications",
-      "url": "https://jobright.ai/jobs/info/683df139abb1ff44979fe7bb",
-      "location": "Fremont, CA",
-      "datePosted": 1790402140,
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790430616

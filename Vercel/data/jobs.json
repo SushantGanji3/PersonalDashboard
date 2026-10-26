@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:50:14Z",
+  "generatedAt": "2026-10-26T06:00:20Z",
   "totalOpen": 1183,
   "totalNewgrad": 206,
   "totalOther": 977,
@@ -15,6 +15,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adedd549a8c91d5c3582d46",
+      "company": "Ada",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6adedd549a8c91d5c3582d46",
+      "location": "United States",
+      "datePosted": 1792965348,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adedcf29e3e874dbfba9b8a",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adedcf29e3e874dbfba9b8a",
+      "location": "Frisco, TX",
+      "datePosted": 1792965250,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
@@ -391,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac83bd551a1b3e4219f0eb2",
+      "id": "newgrad-jobs:6ac14cd9d9621c5b28398f19",
       "company": "RTX",
       "title": "Systems Engineer I-onsite",
-      "url": "https://jobright.ai/jobs/info/6ac83bd551a1b3e4219f0eb2",
+      "url": "https://jobright.ai/jobs/info/6ac14cd9d9621c5b28398f19",
       "location": "Andover, MA; Tewksbury, MA",
       "datePosted": 1792919759,
       "source": "newgrad-jobs",
@@ -523,10 +545,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aae10793d96632d741b05f0",
+      "id": "newgrad-jobs:6a377f65649fdf16292fd3d2",
       "company": "Astranis Space Technologies",
       "title": "Flight Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aae10793d96632d741b05f0",
+      "url": "https://jobright.ai/jobs/info/6a377f65649fdf16292fd3d2",
       "location": "San Francisco, CA",
       "datePosted": 1792909697,
       "source": "newgrad-jobs",
@@ -716,28 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6add21ad9e3e874dbfba6238",
       "location": "Tempe, AZ; Richardson, TX; Bloomington, IL; Dunwoody, GA",
       "datePosted": 1792867280,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad92836950ef68d5184eb4f",
-      "company": "Twitch",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad92836950ef68d5184eb4f",
-      "location": "Seattle, WA",
-      "datePosted": 1792864040,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8245951a1b3e4219f099d",
-      "company": "AAA Auto Club Enterprises",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac8245951a1b3e4219f099d",
-      "location": "Costa Mesa, CA",
-      "datePosted": 1792861441,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
