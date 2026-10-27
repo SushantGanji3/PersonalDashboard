@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:10:16Z",
+  "generatedAt": "2026-10-27T12:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -177,6 +177,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793091017
+    },
+    {
+      "id": "simplify:abd1a870-00ac-4b82-b7c4-10d23ce9014c",
+      "company": "Northrop Grumman",
+      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+      "url": "https://go.vansh.nyc/Vw",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793103615
     },
     {
       "id": "newgrad-jobs:6ae04ab59e3e874dbfbb3aaf",
@@ -47389,39 +47400,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790550056
-    },
-    {
-      "id": "newgrad-jobs:6ab96a8a62bb1fbd451e060a",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab96a8a62bb1fbd451e060a",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790511130,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790538616
-    },
-    {
-      "id": "newgrad-jobs:6ab96a89d7fde2c08ec8e0a4",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab96a89d7fde2c08ec8e0a4",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790511129,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790538616
-    },
-    {
-      "id": "newgrad-jobs:6ab96a89d7fde2c08ec8e0a3",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab96a89d7fde2c08ec8e0a3",
-      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790511129,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790541017
     }
   ]
 }
