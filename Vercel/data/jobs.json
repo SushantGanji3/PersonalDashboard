@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-27T23:40:15Z",
+  "generatedAt": "2026-10-27T23:50:17Z",
   "totalOpen": 1330,
-  "totalNewgrad": 210,
-  "totalOther": 1120,
+  "totalNewgrad": 209,
+  "totalOther": 1121,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:f3d2fc52-679b-4e73-843f-acf80903413e",
+      "company": "RTX",
+      "title": "Software Engineer Intern, Receiver, Exciter, & Processing Architecture",
+      "url": "https://go.vansh.nyc/WQ",
+      "location": "Marlborough, MA",
+      "datePosted": 1793143329,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
       "company": "Databricks",
@@ -147,6 +158,105 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ace9d724f3229123da3d3a0",
+      "company": "ServiceNow",
+      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
+      "url": "https://jobright.ai/jobs/info/6ace9d724f3229123da3d3a0",
+      "location": "Santa Clara, CA; San Diego, CA; Kirkland, WA; West Palm Beach, FL",
+      "datePosted": 1793116604,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
+      "company": "Microsoft",
+      "title": "Software Engineer, Systems and Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
+      "location": "Bellevue, WA",
+      "datePosted": 1793116597,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae0ea605a5afc94bd2c8b96",
+      "company": "Workiva",
+      "title": "Summer 2027 Intern - Machine Learning Engineering",
+      "url": "https://jobright.ai/jobs/info/6ae0ea605a5afc94bd2c8b96",
+      "location": "United States",
+      "datePosted": 1793116362,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae0f44005a39c3e2c70e811",
+      "company": "Amentum",
+      "title": "C/C++Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ae0f44005a39c3e2c70e811",
+      "location": "Dahlgren, VA",
+      "datePosted": 1793116197,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8b80439284cd52427fbb5",
+      "company": "Capgemini",
+      "title": "Microsoft Dynamics Developer Job Details | Capgemini",
+      "url": "https://jobright.ai/jobs/info/6ad8b80439284cd52427fbb5",
+      "location": "Atlanta, GA",
+      "datePosted": 1793116107,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae129c767c31ab3489a11d3",
+      "company": "EXCEL DRIVER SERVICES LLC",
+      "title": "Unity Developer",
+      "url": "https://jobright.ai/jobs/info/6ae129c767c31ab3489a11d3",
+      "location": "Wheat Ridge, CO",
+      "datePosted": 1793115991,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae128506679108488c4181f",
+      "company": "Nomad Global Communication Solutions",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae128506679108488c4181f",
+      "location": "United States",
+      "datePosted": 1793115616,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac804cf51a1b3e4219effc5",
+      "company": "Viget",
+      "title": "Software Developer Intern (2027)",
+      "url": "https://jobright.ai/jobs/info/6ac804cf51a1b3e4219effc5",
+      "location": "Boulder, CO",
+      "datePosted": 1793115536,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae1268b6679108488c416bc",
+      "company": "JM Family Enterprises, Inc.",
+      "title": "Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae1268b6679108488c416bc",
+      "location": "Deerfield Beach, FL",
+      "datePosted": 1793115447,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
@@ -721,105 +831,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0efef05a39c3e2c70e3bb",
-      "company": "Amentum",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae0efef05a39c3e2c70e3bb",
-      "location": "Houston, TX",
-      "datePosted": 1793101183,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0ef051f9d9308370a5c49",
-      "company": "Cotiviti",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae0ef051f9d9308370a5c49",
-      "location": "United States",
-      "datePosted": 1793100949,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8295ae9b859b227766a80b",
-      "company": "Peraton",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8295ae9b859b227766a80b",
-      "location": "King of Prussia, PA",
-      "datePosted": 1793100742,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a84194d85e0d023aaea2841",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a84194d85e0d023aaea2841",
-      "location": "San Jose, CA",
-      "datePosted": 1793100674,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad80af454bbabbab0704da9",
-      "company": "FlightSafety International",
-      "title": "Visual Software Engineer Internship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ad80af454bbabbab0704da9",
-      "location": "Hazelwood, MO",
-      "datePosted": 1793100623,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8c3f5425fc4e7ae3db738d",
-      "company": "BNY",
-      "title": "2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL",
-      "url": "https://jobright.ai/jobs/info/6a8c3f5425fc4e7ae3db738d",
-      "location": "Lake Mary, FL",
-      "datePosted": 1793100467,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0bf041f9d9308370a37d5",
-      "company": "BigBear.ai",
-      "title": "Cognitive AI Engineer SWE",
-      "url": "https://jobright.ai/jobs/info/6ae0bf041f9d9308370a37d5",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1793100430,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0c68e67c31ab34899ca2c",
-      "company": "Visa",
-      "title": "Software Engineer, Intern - 2027 Ashburn, VA",
-      "url": "https://jobright.ai/jobs/info/6ae0c68e67c31ab34899ca2c",
-      "location": "Ashburn, VA",
-      "datePosted": 1793099796,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0a55b67c31ab34899ba28",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-      "url": "https://jobright.ai/jobs/info/6ae0a55b67c31ab34899ba28",
-      "location": "Foster City, CA",
-      "datePosted": 1793099777,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "company": "Lockheed Martin",
       "title": "Software Engineer Intern",
@@ -1310,17 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1648122343381284",
       "location": "Seattle, WA, Bellevue, WA, Sunnyvale, CA",
       "datePosted": 1792793130,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:216cdc89-c91f-4158-90d5-5b927673a806",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Wearable Sensing & Human Motion Analysis",
-      "url": "https://www.metacareers.com/jobs/1137225375529389",
-      "location": "Redmond, WA",
-      "datePosted": 1792793116,
       "source": "aggregator",
       "season": null,
       "isNew": false
