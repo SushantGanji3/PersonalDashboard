@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T16:20:18Z",
-  "totalOpen": 1297,
-  "totalNewgrad": 194,
+  "generatedAt": "2026-10-27T16:30:19Z",
+  "totalOpen": 1299,
+  "totalNewgrad": 196,
   "totalOther": 1103,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793116696,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:9496da95-497c-4080-9240-ba1f9c5d9760",
@@ -26,6 +26,61 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8c3f62581f2d7bfdfe28b5",
+      "company": "BNY",
+      "title": "2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY",
+      "url": "https://jobright.ai/jobs/info/6a8c3f62581f2d7bfdfe28b5",
+      "location": "New York, NY",
+      "datePosted": 1793090308,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae0c3ee1f9d9308370a39d9",
+      "company": "The Cincinnati Insurance Companies",
+      "title": "Planning Analytics and Risk Management - Associate Data Scientist,  Innovation and Research",
+      "url": "https://jobright.ai/jobs/info/6ae0c3ee1f9d9308370a39d9",
+      "location": "Fairfield, OH",
+      "datePosted": 1793089918,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad7a02052aa6152bb69d888",
+      "company": "Ottimate",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7a02052aa6152bb69d888",
+      "location": "United States",
+      "datePosted": 1793089692,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
+      "location": "New York, NY",
+      "datePosted": 1793088776,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae0bf041f9d9308370a37d5",
+      "company": "BigBear.ai",
+      "title": "Cognitive AI Engineer SWE",
+      "url": "https://jobright.ai/jobs/info/6ae0bf041f9d9308370a37d5",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1793088660,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae0bcce1f9d9308370a36e7",
@@ -226,15 +281,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd7abcd9621c5b2838c80e",
+      "id": "newgrad-jobs:6ada43114c3adc437cecb1d6",
       "company": "L3Harris",
       "title": "Intern, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abd7abcd9621c5b2838c80e",
-      "location": "Clifton, NJ",
+      "url": "https://jobright.ai/jobs/info/6ada43114c3adc437cecb1d6",
+      "location": "Tulsa, OK",
       "datePosted": 1793080633,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adff9b1c5c64fa3d9cc17e7",
@@ -248,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
+      "id": "newgrad-jobs:6adffa25065c4e77efafd75c",
       "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
+      "title": "Intern, Software Engineer (Salt Lake City, UT) Job Details | L3HHCM20",
+      "url": "https://jobright.ai/jobs/info/6adffa25065c4e77efafd75c",
       "location": "Salt Lake City, UT",
       "datePosted": 1793080633,
       "source": "newgrad-jobs",
@@ -259,10 +314,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adffa3e5dc7953215a44e15",
+      "id": "newgrad-jobs:6aa95da028e24cb38513a038",
       "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT) Job Details | L3HHCM20",
-      "url": "https://jobright.ai/jobs/info/6adffa3e5dc7953215a44e15",
+      "title": "Intern, Software Engineer (Salt Lake City, UT)",
+      "url": "https://jobright.ai/jobs/info/6aa95da028e24cb38513a038",
       "location": "Salt Lake City, UT",
       "datePosted": 1793080633,
       "source": "newgrad-jobs",
@@ -344,17 +399,6 @@
       "datePosted": 1793080224,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfbf67065c4e77efafb20e",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Clifton, NJ)",
-      "url": "https://jobright.ai/jobs/info/6adfbf67065c4e77efafb20e",
-      "location": "Clifton, NJ",
-      "datePosted": 1793080024,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -468,6 +512,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae0c0431f9d9308370a384e",
+      "company": "Charles Schwab",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae0c0431f9d9308370a384e",
+      "location": "Austin, TX",
+      "datePosted": 1793073180,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa81cb8930bff471a2a5247",
       "company": "Mimecast",
       "title": "Software Engineer I, Endpoint Sensor",
@@ -498,17 +553,6 @@
       "datePosted": 1793070333,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6cb798ff3fb9b3bc8f3de",
-      "company": "Omnicom",
-      "title": "Data Engineer (Consultant)",
-      "url": "https://jobright.ai/jobs/info/6ac6cb798ff3fb9b3bc8f3de",
-      "location": "Addison, TX",
-      "datePosted": 1793070131,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -740,50 +784,6 @@
       "datePosted": 1793057455,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a600ec933ef5c58b4001949",
-      "company": "TikTok",
-      "title": "Software Engineer, C/C++ SDK Performance Optimization",
-      "url": "https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
-      "location": "San Jose, CA",
-      "datePosted": 1793057304,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfb305065c4e77efafa84b",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 Internship - Cybersecurity Software Developer",
-      "url": "https://jobright.ai/jobs/info/6adfb305065c4e77efafa84b",
-      "location": "Laurel, MD",
-      "datePosted": 1793057272,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae041a10a4cc7090f986699",
-      "company": "Torentify",
-      "title": "Software Engineer - WFH",
-      "url": "https://jobright.ai/jobs/info/6ae041a10a4cc7090f986699",
-      "location": "United States",
-      "datePosted": 1793056561,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adeafa45dc7953215a3beea",
-      "company": "Hewlett Packard Enterprise",
-      "title": "AI/ML Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6adeafa45dc7953215a3beea",
-      "location": "San Jose, CA",
-      "datePosted": 1793056220,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
