@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T20:40:16Z",
-  "totalOpen": 1322,
-  "totalNewgrad": 218,
+  "generatedAt": "2026-10-27T20:50:16Z",
+  "totalOpen": 1321,
+  "totalNewgrad": 217,
   "totalOther": 1104,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -61,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abbd524d6acfd3dd29fa18c",
+      "company": "Navitus Health Solutions",
+      "title": "Developer I, Application Systems",
+      "url": "https://jobright.ai/jobs/info/6abbd524d6acfd3dd29fa18c",
+      "location": "United States",
+      "datePosted": 1793105763,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ae1014b67c31ab34899f81a",
       "company": "Todd",
       "title": "Full Stack Software Engineer Intern (Spring '27)",
@@ -69,7 +80,7 @@
       "datePosted": 1793105627,
       "source": "newgrad-jobs",
       "season": "Spring",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
@@ -146,7 +157,7 @@
       "datePosted": 1793105052,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7c355950ef68d51843977",
@@ -710,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a70cd86e2b7476e7b20b02b",
-      "company": "SpaceX",
-      "title": "Software Engineer, Telemetry - Top Secret Clearance (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a70cd86e2b7476e7b20b02b",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793095244,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "company": "Lockheed Martin",
       "title": "Software Engineer Intern",
@@ -828,7 +828,7 @@
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0d4115b1-ca44-4ed6-ab79-926c694af93c",
