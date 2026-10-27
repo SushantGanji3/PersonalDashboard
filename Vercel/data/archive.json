@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:20:16Z",
+  "generatedAt": "2026-10-27T14:30:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793106616
+    },
+    {
+      "id": "newgrad-jobs:6ac48831d9621c5b283a1862",
+      "company": "Objective Partners",
+      "title": "Software Engineer - C++",
+      "url": "https://jobright.ai/jobs/info/6ac48831d9621c5b283a1862",
+      "location": "New York, NY; Chicago, IL; Austin, TX; London, England",
+      "datePosted": 1793083072,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793111419
+    },
+    {
+      "id": "newgrad-jobs:6ac774020e573df8adc72c49",
+      "company": "IBM",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ac774020e573df8adc72c49",
+      "location": "Armonk, NY",
+      "datePosted": 1793082238,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793111419
     },
     {
       "id": "newgrad-jobs:6aa8275a82e82a31997c42f0",
@@ -47422,28 +47444,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790549415
-    },
-    {
-      "id": "newgrad-jobs:6ab18f6023005eee3545b248",
-      "company": "Amazon",
-      "title": "Data Engineer I, Zappos Analytics",
-      "url": "https://jobright.ai/jobs/info/6ab18f6023005eee3545b248",
-      "location": "New York, NY",
-      "datePosted": 1790519130,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791120618
-    },
-    {
-      "id": "simplify:0223ebcd-996a-4b03-997c-ad6bcf86ecf2",
-      "company": "Fidelity",
-      "title": "New Grad 2027: Leap Software Engineer",
-      "url": "https://go.vansh.nyc/O7",
-      "location": "Westlake, TX, Boston, MA, Durham, NC, Merrimack, NH",
-      "datePosted": 1790519070,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1793026216
     }
   ]
 }
