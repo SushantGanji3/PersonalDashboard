@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:10:17Z",
+  "generatedAt": "2026-10-27T01:20:15Z",
   "totalOpen": 1320,
   "totalNewgrad": 240,
   "totalOther": 1080,
@@ -70,83 +70,6 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfee7a9a8c91d5c358abd1",
-      "company": "A Full Renovation \u2013 Interiors & Design",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6adfee7a9a8c91d5c358abd1",
-      "location": "United States",
-      "datePosted": 1793035274,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a0f822183d7144289821054",
-      "company": "Ivo",
-      "title": "Software Engineer, Fullstack",
-      "url": "https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "location": "San Francisco, CA",
-      "datePosted": 1793033852,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfb9a39e3e874dbfbaf780",
-      "company": "Evergreen Goodwill of Northwest Washington",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6adfb9a39e3e874dbfbaf780",
-      "location": "Seattle, WA",
-      "datePosted": 1793033682,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ad3b2eef04335fc70ed9f10",
-      "company": "Planview",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad3b2eef04335fc70ed9f10",
-      "location": "United States",
-      "datePosted": 1793033573,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6adfb2b29e3e874dbfbaf31c",
-      "company": "The Cadmus Group",
-      "title": "Jr. Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adfb2b29e3e874dbfbaf31c",
-      "location": "United States",
-      "datePosted": 1793033563,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf84ac5dc7953215a3fb98",
-      "company": "North Carolina State University",
-      "title": "Temporary Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adf84ac5dc7953215a3fb98",
-      "location": "Raleigh, NC",
-      "datePosted": 1793033555,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfe5ee5dc7953215a44091",
-      "company": "T-Mobile",
-      "title": "Associate Software Engineer- Billing Platform",
-      "url": "https://jobright.ai/jobs/info/6adfe5ee5dc7953215a44091",
-      "location": "Atlanta, GA; Frisco, TX; Overland Park, KS",
-      "datePosted": 1793033086,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adfe3d0c5c64fa3d9cc0aac",
@@ -237,6 +160,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adfe08b0a4cc7090f9841e3",
+      "company": "T-Mobile",
+      "title": "Associate Software Engineer- Billing Platform",
+      "url": "https://jobright.ai/jobs/info/6adfe08b0a4cc7090f9841e3",
+      "location": "Atlanta, GA",
+      "datePosted": 1793031707,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6adfde3a9e3e874dbfbb113a",
       "company": "Niantic Spatial, Inc.",
       "title": "Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms",
@@ -289,6 +223,17 @@
       "datePosted": 1793030949,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adfb2b29e3e874dbfbaf31c",
+      "company": "The Cadmus Group",
+      "title": "Jr. Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adfb2b29e3e874dbfbaf31c",
+      "location": "United States",
+      "datePosted": 1793030782,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -443,6 +388,17 @@
       "datePosted": 1793027766,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf84ac5dc7953215a3fb98",
+      "company": "North Carolina State University",
+      "title": "Temporary Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adf84ac5dc7953215a3fb98",
+      "location": "Raleigh, NC",
+      "datePosted": 1793027640,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -751,6 +707,50 @@
       "datePosted": 1793017686,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad9093239284cd524283675",
+      "company": "Yakima Chief Hops",
+      "title": "Jr Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad9093239284cd524283675",
+      "location": "Yakima, WA",
+      "datePosted": 1793016453,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adfe4f45dc7953215a4402d",
+      "company": "General Dynamics",
+      "title": "Software Engineer \u2013 Entry Level",
+      "url": "https://jobright.ai/jobs/info/6adfe4f45dc7953215a4402d",
+      "location": "Bloomington, MN",
+      "datePosted": 1793015280,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf8bb9c5c64fa3d9cbcbf6",
+      "company": "Major League Baseball (MLB)",
+      "title": "Associate Software Engineer (Seasonal)",
+      "url": "https://jobright.ai/jobs/info/6adf8bb9c5c64fa3d9cbcbf6",
+      "location": "New York, NY",
+      "datePosted": 1793015203,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf7d1ac5c64fa3d9cbc07a",
+      "company": "Roblox",
+      "title": "Software Engineer, Frontend - Economy",
+      "url": "https://jobright.ai/jobs/info/6adf7d1ac5c64fa3d9cbc07a",
+      "location": "San Mateo, CA",
+      "datePosted": 1793015197,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
