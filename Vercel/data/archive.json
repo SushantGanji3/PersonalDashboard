@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:40:17Z",
+  "generatedAt": "2026-10-27T14:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793106616
+    },
+    {
+      "id": "newgrad-jobs:6ae0aebe5a5afc94bd2c614c",
+      "company": "TETRAHED INC",
+      "title": "Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)",
+      "url": "https://jobright.ai/jobs/info/6ae0aebe5a5afc94bd2c614c",
+      "location": "Washington, DC; Washington, WA, United States; California, United States; Texas, United States; Virginia, United States; Georgia, United States; Colorado, United States; Massachusetts, United States",
+      "datePosted": 1793084494,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793112616
+    },
+    {
+      "id": "newgrad-jobs:6ae0aaba67c31ab34899bb98",
+      "company": "Volt",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae0aaba67c31ab34899bb98",
+      "location": "Sacramento, CA; Bay Area, California, United States",
+      "datePosted": 1793083466,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793112616
     },
     {
       "id": "newgrad-jobs:6ac48831d9621c5b283a1862",
@@ -47444,28 +47466,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790553622
-    },
-    {
-      "id": "newgrad-jobs:6ab6fe1f3a2ec87116e24f2d",
-      "company": "Tesla",
-      "title": "Internship, Mobile Application Software Engineer, Energy Engineering (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab6fe1f3a2ec87116e24f2d",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790520595,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1790550056
-    },
-    {
-      "id": "newgrad-jobs:6a83503a1081a745e970e5d3",
-      "company": "Procter & Gamble",
-      "title": "Data Engineer - North America Fabric Care",
-      "url": "https://jobright.ai/jobs/info/6a83503a1081a745e970e5d3",
-      "location": "Cincinnati, OH",
-      "datePosted": 1790520353,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791325819
     }
   ]
 }
