@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T00:20:17Z",
-  "totalOpen": 1314,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-10-27T00:30:23Z",
+  "totalOpen": 1318,
+  "totalNewgrad": 238,
   "totalOther": 1080,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -94,23 +94,144 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adfde3a9e3e874dbfbb113a",
+      "company": "Niantic Spatial, Inc.",
+      "title": "Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms",
+      "url": "https://jobright.ai/jobs/info/6adfde3a9e3e874dbfbb113a",
+      "location": "San Francisco, CA",
+      "datePosted": 1793031114,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfde3a9e3e874dbfbb113b",
+      "company": "IBM",
+      "title": "Software Engineering Intern - Quantum Information Science 2027",
+      "url": "https://jobright.ai/jobs/info/6adfde3a9e3e874dbfbb113b",
+      "location": "Cambridge, MA; Chicago, IL; Poughkeepsie, AR; Yorktown Heights, NY",
+      "datePosted": 1793031114,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfdda7c5c64fa3d9cc0725",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Software Developer Intern - Royal Oaks, MI",
+      "url": "https://jobright.ai/jobs/info/6adfdda7c5c64fa3d9cc0725",
+      "location": "Detroit, MI; Royal Oak, MI",
+      "datePosted": 1793030967,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfdd97065c4e77efafc641",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Software Developer Intern - Dayton, OH",
+      "url": "https://jobright.ai/jobs/info/6adfdd97065c4e77efafc641",
+      "location": "Dayton, OH",
+      "datePosted": 1793030951,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfdd95c5c64fa3d9cc071f",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games, Systems Engineer Intern - Dayton, OH",
+      "url": "https://jobright.ai/jobs/info/6adfdd95c5c64fa3d9cc071f",
+      "location": "Dayton, OH",
+      "datePosted": 1793030949,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfb2b29e3e874dbfbaf31c",
+      "company": "The Cadmus Group",
+      "title": "Jr. Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adfb2b29e3e874dbfbaf31c",
+      "location": "United States",
+      "datePosted": 1793030782,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfb2bac5c64fa3d9cbe870",
+      "company": "RTX",
+      "title": "Software Engineering  Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adfb2bac5c64fa3d9cbe870",
+      "location": "San Diego, CA",
+      "datePosted": 1793030667,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfabf90a4cc7090f981e5f",
+      "company": "Anduril",
+      "title": "Early Career Software Engineer, Battlespace Awareness",
+      "url": "https://jobright.ai/jobs/info/6adfabf90a4cc7090f981e5f",
+      "location": "Broomfield, CO; Fort Collins, CO",
+      "datePosted": 1793030635,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adfdb5e0a4cc7090f983ef8",
+      "company": "Company 3",
+      "title": "Systems Engineer, Associate",
+      "url": "https://jobright.ai/jobs/info/6adfdb5e0a4cc7090f983ef8",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793030382,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad92836950ef68d5184eb4f",
+      "company": "Twitch",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad92836950ef68d5184eb4f",
+      "location": "Seattle, WA",
+      "datePosted": 1793030135,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adfda0c9e3e874dbfbb0ebb",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6adfda0c9e3e874dbfbb0ebb",
+      "location": "Frisco, TX",
+      "datePosted": 1793030044,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfcb689e3e874dbfbb04fb",
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer - SECRET",
+      "url": "https://jobright.ai/jobs/info/6adfcb689e3e874dbfbb04fb",
+      "location": "Dahlgren, VA; Fredericksburg, VA",
+      "datePosted": 1793029722,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6adfd8655dc7953215a438fb",
       "company": "Ryzoe",
       "title": "Trainee (Intern) Full Stack Developer",
       "url": "https://jobright.ai/jobs/info/6adfd8655dc7953215a438fb",
       "location": "United States",
       "datePosted": 1793029621,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfd853065c4e77efafc336",
-      "company": "IBM",
-      "title": "Software Engineering Intern - Quantum Information Science 2027",
-      "url": "https://jobright.ai/jobs/info/6adfd853065c4e77efafc336",
-      "location": "Yorktown Heights, NY",
-      "datePosted": 1793029603,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -124,17 +245,6 @@
       "datePosted": 1793029213,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfd4f49a8c91d5c3589bb3",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games, Systems Engineer Intern - Dayton, OH",
-      "url": "https://jobright.ai/jobs/info/6adfd4f49a8c91d5c3589bb3",
-      "location": "Dayton, OH",
-      "datePosted": 1793028740,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -177,17 +287,6 @@
       "url": "https://jobright.ai/jobs/info/6adf8b55c5c64fa3d9cbcbd7",
       "location": "Rancho Santa Margarita, CA",
       "datePosted": 1793028158,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7dcd944d6e65604a04ccc",
-      "company": "Twitch",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac7dcd944d6e65604a04ccc",
-      "location": "San Francisco, CA",
-      "datePosted": 1793028132,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -242,7 +341,7 @@
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://jobright.ai/jobs/info/6adfcd25065c4e77efafbb30",
       "location": "Santa Clara, CA",
-      "datePosted": 1793027143,
+      "datePosted": 1793027175,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -556,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adfabf90a4cc7090f981e5f",
-      "company": "Anduril",
-      "title": "Early Career Software Engineer, Battlespace Awareness",
-      "url": "https://jobright.ai/jobs/info/6adfabf90a4cc7090f981e5f",
-      "location": "Broomfield, CO; Fort Collins, CO",
-      "datePosted": 1793018249,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adfa9c6065c4e77efafa2d4",
       "company": "Glean",
       "title": "Software Engineer, Intern (Summer 2027)",
@@ -666,50 +754,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adf870b9e3e874dbfbad390",
-      "company": "Boston Scientific",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6adf870b9e3e874dbfbad390",
-      "location": "Arden Hills, MN",
-      "datePosted": 1793013928,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf97239a8c91d5c3586f62",
-      "company": "Teacher Retirement System of Texas",
-      "title": "Java Developer( Associate or Intermediate)",
-      "url": "https://jobright.ai/jobs/info/6adf97239a8c91d5c3586f62",
-      "location": "Austin, TX",
-      "datePosted": 1793013760,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf999c0a4cc7090f980f7e",
-      "company": "Gelber Group LLC",
-      "title": "(Associate) Software Engineer- Trading Integrations Team",
-      "url": "https://jobright.ai/jobs/info/6adf999c0a4cc7090f980f7e",
-      "location": "Chicago, IL",
-      "datePosted": 1793013548,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf9795c5c64fa3d9cbd4c4",
-      "company": "Travelport",
-      "title": "ZTPF SOFTWARE DEVELOPMENT ENGINEER",
-      "url": "https://jobright.ai/jobs/info/6adf9795c5c64fa3d9cbd4c4",
-      "location": "Atlanta, GA",
-      "datePosted": 1793013029,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:fcb481d8-3224-4cb1-99f9-3cfd34b52872",
       "company": "RTX",
       "title": "Software Platform Engineer Co-op",
@@ -718,50 +762,6 @@
       "datePosted": 1793012955,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada426d4c3adc437cecb168",
-      "company": "Packaging Corporation of America",
-      "title": "IT Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ada426d4c3adc437cecb168",
-      "location": "Lake Forest, IL",
-      "datePosted": 1793012722,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf8369c5c64fa3d9cbc572",
-      "company": "ICF",
-      "title": "2027 Summer Intern, Software Developer (Reston, VA)",
-      "url": "https://jobright.ai/jobs/info/6adf8369c5c64fa3d9cbc572",
-      "location": "Reston, VA",
-      "datePosted": 1793012720,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5ecd86470d4126fdeac0f4",
-      "company": "Kargo",
-      "title": "Software Engineer, Edge",
-      "url": "https://jobright.ai/jobs/info/6a5ecd86470d4126fdeac0f4",
-      "location": "San Francisco, CA",
-      "datePosted": 1793011840,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf90ecc5c64fa3d9cbd027",
-      "company": "B/CORE",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6adf90ecc5c64fa3d9cbd027",
-      "location": "Vienna, VA; Chantilly, VA",
-      "datePosted": 1793011324,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
