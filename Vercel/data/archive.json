@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:00:17Z",
+  "generatedAt": "2026-10-27T22:10:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,50 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793118018
+    },
+    {
+      "id": "newgrad-jobs:6ae11a79de23f466ec8bc4e8",
+      "company": "PACCAR",
+      "title": "Summer 2027 - Data Engineer Intern (OH)",
+      "url": "https://jobright.ai/jobs/info/6ae11a79de23f466ec8bc4e8",
+      "location": "Kirkland, WA; Chillicothe, OH",
+      "datePosted": 1793112073,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793139015
+    },
+    {
+      "id": "newgrad-jobs:6ae11a0f67c31ab3489a0916",
+      "company": "Protagonist",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae11a0f67c31ab3489a0916",
+      "location": "Washington, DC",
+      "datePosted": 1793111967,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793139015
+    },
+    {
+      "id": "newgrad-jobs:6ae113841f9d9308370a776b",
+      "company": "AL FARAH CONTRACTING & GENERAL TRANSPORT COMPANY -L.L.C - O.P.C",
+      "title": "Software Engineer -Entry-Level (Network Focus)",
+      "url": "https://jobright.ai/jobs/info/6ae113841f9d9308370a776b",
+      "location": "Reston, VA",
+      "datePosted": 1793110292,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793139015
+    },
+    {
+      "id": "newgrad-jobs:6ae10f05829a3bada15fa277",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineer Intern - Azusa CA",
+      "url": "https://jobright.ai/jobs/info/6ae10f05829a3bada15fa277",
+      "location": "Azusa, CA",
+      "datePosted": 1793109141,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793139015
     },
     {
       "id": "newgrad-jobs:6ae1045c829a3bada15f9a54",
@@ -1191,6 +1235,28 @@
       "firstSeenAt": 1793133616
     },
     {
+      "id": "simplify:7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db",
+      "company": "Databricks",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/WA",
+      "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793139015
+    },
+    {
+      "id": "simplify:4fa58e54-6a7c-42ad-82da-b806598121f4",
+      "company": "Databricks",
+      "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+      "url": "https://go.vansh.nyc/WB",
+      "location": "Bellevue, WA, Mountain View, CA",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793139015
+    },
+    {
       "id": "newgrad-jobs:6ae04ab59e3e874dbfbb3aaf",
       "company": "UST",
       "title": "Junior Full Stack Developer",
@@ -1321,6 +1387,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793054416
+    },
+    {
+      "id": "simplify:0a2c3c96-6161-4f97-aa48-518f989408a5",
+      "company": "ServiceNow",
+      "title": "New Grad 2027: Software Engineer (AI/ML)",
+      "url": "https://go.vansh.nyc/WC",
+      "location": "Mountain View, CA",
+      "datePosted": 1793052512,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793139015
     },
     {
       "id": "newgrad-jobs:6ae0b881829a3bada15f631f",
@@ -48181,28 +48258,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790580019
-    },
-    {
-      "id": "newgrad-jobs:6ab9f66162bb1fbd451e1628",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab9f66162bb1fbd451e1628",
-      "location": "Frisco, TX; Bellevue, WA; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790546929,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790575220
-    },
-    {
-      "id": "newgrad-jobs:6ab9f659d7fde2c08ec8f102",
-      "company": "CyberProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ab9f659d7fde2c08ec8f102",
-      "location": "Bellevue, WA; Frisco, TX; Atlanta, GA; Overland Park, KS",
-      "datePosted": 1790546921,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790575220
     }
   ]
 }
