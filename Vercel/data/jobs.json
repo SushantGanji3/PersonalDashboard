@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T14:30:19Z",
-  "totalOpen": 1301,
+  "generatedAt": "2026-10-27T14:40:17Z",
+  "totalOpen": 1302,
   "totalNewgrad": 192,
-  "totalOther": 1109,
+  "totalOther": 1110,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -17,17 +17,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:6ff3b44c-5a15-4442-8d13-69b75b7648e9",
-      "company": "Visa",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/Vx",
-      "location": "Bellevue, WA",
-      "datePosted": 1793106025,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac48831d9621c5b283a1862",
       "company": "Objective Partners",
       "title": "Software Engineer - C++",
@@ -36,7 +25,7 @@
       "datePosted": 1793083072,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
@@ -47,7 +36,7 @@
       "datePosted": 1793083048,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac774020e573df8adc72c49",
@@ -58,7 +47,7 @@
       "datePosted": 1793082238,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa86ea082e82a31997c5e4a",
@@ -124,7 +113,7 @@
       "datePosted": 1793080633,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa4f910a77a53f5a156ed56",
@@ -499,6 +488,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:aaed6a57-f590-49ac-8e77-d080f6f2de89",
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W",
+      "location": "Denver, CO",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+      "company": "Visa",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
+      "location": "Ashburn, VA",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:abd1a870-00ac-4b82-b7c4-10d23ce9014c",
@@ -1301,28 +1323,6 @@
       "datePosted": 1792719938,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
-      "company": "Amazon",
-      "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
-      "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
-      "location": "Detroit, MI",
-      "datePosted": 1792719931,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e1e1bbdd-3b2b-4b29-8d40-ecaee33c804e",
-      "company": "Amazon",
-      "title": "Junior Software Development Engineer Intern",
-      "url": "https://go.vansh.nyc/gC",
-      "location": "Detroit, MI",
-      "datePosted": 1792719931,
-      "source": "aggregator",
-      "season": "Winter",
       "isNew": false
     }
   ]
