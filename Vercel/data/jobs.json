@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T10:00:22Z",
-  "totalOpen": 1321,
-  "totalNewgrad": 215,
+  "generatedAt": "2026-10-27T10:10:16Z",
+  "totalOpen": 1312,
+  "totalNewgrad": 206,
   "totalOther": 1106,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae066d29e3e874dbfbb4253",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae066d29e3e874dbfbb4253",
+      "location": "Frisco, TX",
+      "datePosted": 1793066082,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae0668e5dc7953215a46e03",
+      "company": "Siemens",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae0668e5dc7953215a46e03",
+      "location": "Charlotte, NC",
+      "datePosted": 1793066014,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
@@ -776,17 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adf7df05dc7953215a3f5c5",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)",
-      "url": "https://jobright.ai/jobs/info/6adf7df05dc7953215a3f5c5",
-      "location": "San Mateo, CA",
-      "datePosted": 1793032477,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:1cc7f966-3969-44a6-b1f3-2fd0dfa0fafe",
       "company": "Skydio",
       "title": "Autonomy Engineer Intern, Simulation & Robotics",
@@ -806,17 +817,6 @@
       "datePosted": 1793031859,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfcb5f0a4cc7090f983436",
-      "company": "Parallel",
-      "title": "Software Engineering Intern (Embedded, Backend, Fullstack)",
-      "url": "https://jobright.ai/jobs/info/6adfcb5f0a4cc7090f983436",
-      "location": "Los Angeles, CA",
-      "datePosted": 1793031735,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
