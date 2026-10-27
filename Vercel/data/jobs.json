@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T23:10:16Z",
-  "totalOpen": 1330,
-  "totalNewgrad": 210,
+  "generatedAt": "2026-10-27T23:20:16Z",
+  "totalOpen": 1331,
+  "totalNewgrad": 211,
   "totalOther": 1120,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793141065,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:992ceb83-2b59-4901-b82d-8ca2b8edc498",
@@ -25,7 +25,7 @@
       "datePosted": 1793141063,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e50fa178-851f-4e56-89df-f9ac78ff23a4",
@@ -124,7 +124,7 @@
       "datePosted": 1793129086,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:387c364e-62ab-46b7-ab00-e4ab73cfdb92",
@@ -147,28 +147,6 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
-      "location": "Chantilly, VA",
-      "datePosted": 1793114994,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ae1215205a39c3e2c7104c8",
-      "company": "Deloitte",
-      "title": "Cyber Identity - SailPoint ISC Analyst - Security Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ae1215205a39c3e2c7104c8",
-      "location": "Cleveland, OH; Costa Mesa, CA; Princeton, NJ; Miami, FL; Columbus, OH; Indianapolis, IN; Austin, TX; Mechanicsburg, PA; Richmond, VA; Houston, TX; San Antonio, TX; Milwaukee, WI; Colorado Springs, CO; Kansas City, MO; New Orleans, LA; Arlington, VA; Las Vegas, NV; Seattle, WA; San Francisco, CA; Baltimore, MD; Cincinnati, OH; Pittsburgh, PA; Boston, MA; Portland, OR; Stamford, CT; Minneapolis, MN; Davenport, IA; Detroit, MI; Jersey City, NJ; Gilbert, AZ; Louisville, KY; Jericho, NY; Lake Mary, FL; Nashville, TN; Hartford, CT; McLean, VA; Rochester, NY; New York, NY; Atlanta, GA; Dallas, TX; Jacksonville, FL; Raleigh, NC; Los Angeles, CA; Chicago, IL; Charlotte, NC; Philadelphia, PA; Denver, CO; Memphis, TN; Morristown, NJ",
-      "datePosted": 1793113826,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abe86390e027c0f3b3995c3",
@@ -820,6 +798,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae0c6df05a39c3e2c70c2b9",
+      "company": "Visa",
+      "title": "Software Engineer, Intern - 2027 Austin, TX",
+      "url": "https://jobright.ai/jobs/info/6ae0c6df05a39c3e2c70c2b9",
+      "location": "Austin, TX",
+      "datePosted": 1793099776,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6d23fbca1f933846602bff",
+      "company": "ITA International",
+      "title": "Junior Power Platform Developer",
+      "url": "https://jobright.ai/jobs/info/6a6d23fbca1f933846602bff",
+      "location": "United States",
+      "datePosted": 1793099692,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "company": "Lockheed Martin",
       "title": "Software Engineer Intern",
@@ -1048,7 +1048,7 @@
       "datePosted": 1793043857,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6af75cb5-069d-4604-8cdf-ace14944602a",
