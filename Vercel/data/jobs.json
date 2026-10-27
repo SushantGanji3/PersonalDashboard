@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T22:40:15Z",
-  "totalOpen": 1331,
-  "totalNewgrad": 214,
+  "generatedAt": "2026-10-27T22:50:17Z",
+  "totalOpen": 1328,
+  "totalNewgrad": 211,
   "totalOther": 1117,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793139870,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5fe56478-a22c-43a2-aed6-425c37548138",
@@ -25,7 +25,7 @@
       "datePosted": 1793139870,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fb1efed5-e5b8-4edc-9882-521268ea88b5",
@@ -36,7 +36,7 @@
       "datePosted": 1793139868,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:52bb0456-c8fe-4699-804e-064d6345b807",
@@ -47,7 +47,7 @@
       "datePosted": 1793139865,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f06da939-6e73-41c9-9766-fed55a5b7627",
@@ -58,7 +58,7 @@
       "datePosted": 1793139865,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f6b2ba47-0f93-4363-9f77-04ac9d5960b0",
@@ -69,7 +69,7 @@
       "datePosted": 1793139864,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
@@ -80,7 +80,7 @@
       "datePosted": 1793138655,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:381941df-e6ee-4990-b876-393cba188d6c",
@@ -114,6 +114,61 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abe86390e027c0f3b3995c3",
+      "company": "Riot Games",
+      "title": "Software Engineering Intern - Summer 2027 (Remote)",
+      "url": "https://jobright.ai/jobs/info/6abe86390e027c0f3b3995c3",
+      "location": "United States",
+      "datePosted": 1793113665,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1793113656,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae1042bde23f466ec8bb55e",
+      "company": "Koniag",
+      "title": "Junior Security Engineer (HYBRID)",
+      "url": "https://jobright.ai/jobs/info/6ae1042bde23f466ec8bb55e",
+      "location": "Washington, DC",
+      "datePosted": 1793113163,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae108d8de23f466ec8bb8a1",
+      "company": "Sonos, Inc.",
+      "title": "Software Engineering Intern (Seattle)",
+      "url": "https://jobright.ai/jobs/info/6ae108d8de23f466ec8bb8a1",
+      "location": "Seattle, WA",
+      "datePosted": 1793113157,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae11cc667c31ab3489a0a96",
+      "company": "Viasat",
+      "title": "Embedded Software Engineer, Early Career",
+      "url": "https://jobright.ai/jobs/info/6ae11cc667c31ab3489a0a96",
+      "location": "Marlborough, MA",
+      "datePosted": 1793112662,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae11a79de23f466ec8bc4e8",
@@ -166,17 +221,6 @@
       "url": "https://jobright.ai/jobs/info/6ae1137867c31ab3489a0587",
       "location": "Lakewood, CO",
       "datePosted": 1793110280,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1793110186,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -611,6 +655,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad286c983ada13a9da0653c",
+      "company": "Infosys",
+      "title": "Java Fullstack Developer",
+      "url": "https://jobright.ai/jobs/info/6ad286c983ada13a9da0653c",
+      "location": "Richardson, TX",
+      "datePosted": 1793101328,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ae0efef05a39c3e2c70e3bb",
       "company": "Amentum",
       "title": "Systems Engineer",
@@ -732,61 +787,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0e9c61f9d9308370a594e",
-      "company": "Visa",
-      "title": "Software Engineer, Intern - Foster City 2027",
-      "url": "https://jobright.ai/jobs/info/6ae0e9c61f9d9308370a594e",
-      "location": "Foster City, CA",
-      "datePosted": 1793099606,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0d2f01f9d9308370a4515",
-      "company": "Atoms",
-      "title": "AI Research Intern  (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6ae0d2f01f9d9308370a4515",
-      "location": "Mountain View, CA; San Francisco, CA",
-      "datePosted": 1793099539,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0e89c1f9d9308370a588d",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Application Developer Analyst Level 1-5 (TCU Represented)",
-      "url": "https://jobright.ai/jobs/info/6ae0e89c1f9d9308370a588d",
-      "location": "New York, NY",
-      "datePosted": 1793099308,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0d3dc5a5afc94bd2c78de",
-      "company": "Akima",
-      "title": "Unity Game Developer (T7A)",
-      "url": "https://jobright.ai/jobs/info/6ae0d3dc5a5afc94bd2c78de",
-      "location": "Huntsville, AL",
-      "datePosted": 1793099005,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0c6971f9d9308370a3b57",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-      "url": "https://jobright.ai/jobs/info/6ae0c6971f9d9308370a3b57",
-      "location": "Ashburn, VA",
-      "datePosted": 1793098939,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "company": "Lockheed Martin",
       "title": "Software Engineer Intern",
@@ -872,7 +872,7 @@
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0237db49-2c6e-4821-9ef5-4c8214f38c17",
@@ -883,7 +883,7 @@
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
@@ -905,7 +905,7 @@
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b78f0072-9140-443e-915e-a7ab2b4d2c0a",
@@ -916,7 +916,7 @@
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:abd1a870-00ac-4b82-b7c4-10d23ce9014c",
