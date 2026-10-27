@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-27T13:00:19Z",
-  "totalOpen": 1315,
+  "generatedAt": "2026-10-27T13:10:16Z",
+  "totalOpen": 1316,
   "totalNewgrad": 207,
-  "totalOther": 1108,
+  "totalOther": 1109,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:6ff3b44c-5a15-4442-8d13-69b75b7648e9",
+      "company": "Visa",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Vx",
+      "location": "Bellevue, WA",
+      "datePosted": 1793106025,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa8efb33387a3d9b67d3624",
       "company": "Textron",
@@ -1310,17 +1321,6 @@
       "url": "https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
       "location": "SF",
       "datePosted": 1792719928,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e99d908a-9e6e-452f-978e-1efcac40a4ed",
-      "company": "Skydio",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true",
-      "location": "San Mateo, CA",
-      "datePosted": 1792713600,
       "source": "aggregator",
       "season": null,
       "isNew": false
