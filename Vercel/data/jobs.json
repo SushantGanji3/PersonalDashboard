@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T09:10:16Z",
-  "totalOpen": 1322,
+  "generatedAt": "2026-10-27T09:20:17Z",
+  "totalOpen": 1323,
   "totalNewgrad": 216,
-  "totalOther": 1106,
+  "totalOther": 1107,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,6 +25,28 @@
       "datePosted": 1793064890,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:402c7563-daf8-4f05-bd2b-ebcf615e32a1",
+      "company": "L3Harris",
+      "title": "Associate Software Engineering Intern",
+      "url": "https://go.vansh.nyc/UY",
+      "location": "Greenville, TX",
+      "datePosted": 1793064890,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a71a41f71acd469eeda3931",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation-Global E-Commerce) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71a41f71acd469eeda3931",
+      "location": "Seattle, WA",
+      "datePosted": 1793064698,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -798,17 +820,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adfdd95c5c64fa3d9cc071f",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games, Systems Engineer Intern - Dayton, OH",
-      "url": "https://jobright.ai/jobs/info/6adfdd95c5c64fa3d9cc071f",
-      "location": "Dayton, OH",
-      "datePosted": 1793030949,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:fcb481d8-3224-4cb1-99f9-3cfd34b52872",
       "company": "RTX",
       "title": "Software Platform Engineer Co-op",
@@ -1309,17 +1320,6 @@
       "title": "Deep Learning Hardware Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Deep-Learning-Hardware-Engineer_JR0288400",
       "location": "Santa Clara, CA, Hillsboro, OR",
-      "datePosted": 1792713600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:eff6e46f-68bb-46cd-b491-ae901b415a6d",
-      "company": "RTX",
-      "title": "Engineer 1 - Software Engineer - Test Engineering",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
-      "location": "Burnsville, MN",
       "datePosted": 1792713600,
       "source": "aggregator",
       "season": null,
