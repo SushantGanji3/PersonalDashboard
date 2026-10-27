@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T02:00:19Z",
-  "totalOpen": 1340,
-  "totalNewgrad": 239,
-  "totalOther": 1101,
+  "generatedAt": "2026-10-27T02:10:17Z",
+  "totalOpen": 1344,
+  "totalNewgrad": 238,
+  "totalOther": 1106,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,6 +14,17 @@
       "datePosted": 1793065665,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:e2505b77-7cf2-4649-ad34-77ec15332d45",
+      "company": "L3Harris",
+      "title": "Associate \u2013 Software Engineering Intern",
+      "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors",
+      "location": "Greenville, TX",
+      "datePosted": 1793064890,
+      "source": "aggregator",
+      "season": null,
       "isNew": true
     },
     {
@@ -457,17 +468,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adfd6ee065c4e77efafc1ef",
-      "company": "Aurora",
-      "title": "AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6adfd6ee065c4e77efafc1ef",
-      "location": "Mountain View, CA; Pittsburgh, PA; Seattle, WA",
-      "datePosted": 1793031800,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab40c50ef911c35dffa2ff3",
       "company": "Qumulo",
       "title": "Software Development Engineer (Seattle) - Internship 2027",
@@ -795,6 +795,17 @@
       "datePosted": 1793021842,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a750c7c20b26a6e93f4a733",
+      "company": "TikTok",
+      "title": "Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a750c7c20b26a6e93f4a733",
+      "location": "Seattle, WA",
+      "datePosted": 1793021448,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1309,17 +1320,6 @@
       "title": "Deep Learning Hardware Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Deep-Learning-Hardware-Engineer_JR0288400",
       "location": "Santa Clara, CA, Hillsboro, OR",
-      "datePosted": 1792713600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:eff6e46f-68bb-46cd-b491-ae901b415a6d",
-      "company": "RTX",
-      "title": "Engineer 1 - Software Engineer - Test Engineering",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
-      "location": "Burnsville, MN",
       "datePosted": 1792713600,
       "source": "aggregator",
       "season": null,
