@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T13:40:17Z",
-  "totalOpen": 1305,
-  "totalNewgrad": 195,
+  "generatedAt": "2026-10-27T13:50:18Z",
+  "totalOpen": 1302,
+  "totalNewgrad": 192,
   "totalOther": 1110,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,6 +36,17 @@
       "datePosted": 1793081385,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae0a0619e3e874dbfbb51f7",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae0a0619e3e874dbfbb51f7",
+      "location": "Frisco, TX",
+      "datePosted": 1793080817,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -80,7 +91,7 @@
       "datePosted": 1793080633,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa4f910a77a53f5a156ed56",
@@ -157,7 +168,7 @@
       "datePosted": 1793080399,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfbf67065c4e77efafb20e",
@@ -804,17 +815,6 @@
       "url": "https://jobright.ai/jobs/info/6ae000f65dc7953215a4501d",
       "location": "United States",
       "datePosted": 1793040006,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfffa19a8c91d5c358b516",
-      "company": "The Marlin Alliance, Inc.",
-      "title": "Software Developer with React",
-      "url": "https://jobright.ai/jobs/info/6adfffa19a8c91d5c358b516",
-      "location": "San Diego, CA",
-      "datePosted": 1793039665,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
