@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-27T01:30:17Z",
-  "totalOpen": 1337,
-  "totalNewgrad": 241,
-  "totalOther": 1096,
+  "generatedAt": "2026-10-27T01:40:17Z",
+  "totalOpen": 1340,
+  "totalNewgrad": 240,
+  "totalOther": 1100,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:6a4d978f-591a-4db3-91fc-cf7e1e34458b",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Foundation Model Optimization",
+      "url": "https://www.metacareers.com/jobs/1435245618154892",
+      "location": "Burlingame, CA, Menlo Park, CA",
+      "datePosted": 1793063881,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ae277909-103c-4d44-9947-224d2c430997",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Search",
+      "url": "https://www.metacareers.com/jobs/2171476533578976",
+      "location": "Menlo Park, CA",
+      "datePosted": 1793063880,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:0d4115b1-ca44-4ed6-ab79-926c694af93c",
       "company": "Cohesity",
@@ -61,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:6af75cb5-069d-4604-8cdf-ace14944602a",
+      "company": "Glean",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
+      "location": "SF, Mountain View, CA",
+      "datePosted": 1793042795,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:89bca250-ab21-474c-b928-0ef143615731",
       "company": "Northrop Grumman",
       "title": "Software Engineering Intern",
@@ -80,7 +113,7 @@
       "datePosted": 1793035799,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfef08065c4e77efafd0e6",
@@ -91,7 +124,7 @@
       "datePosted": 1793035416,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfa9c6065c4e77efafa2d4",
@@ -124,7 +157,7 @@
       "datePosted": 1793034386,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a0f822183d7144289821054",
@@ -146,7 +179,7 @@
       "datePosted": 1793033784,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfb9a39e3e874dbfbaf780",
@@ -820,6 +853,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:bf110288-6bfb-43b4-b8dd-66c020222e16",
+      "company": "RTX",
+      "title": "Systems Engineer 1 - Datalinks",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1792972800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:90a334ec-5ca8-46e6-9f27-99aa1167595e",
       "company": "Notion",
       "title": "Software Engineer Intern, Mobile",
@@ -1277,50 +1321,6 @@
       "url": "https://go.vansh.nyc/fE",
       "location": "Palo Alto, CA, Irvine, CA",
       "datePosted": 1792710355,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b606ba0e-3439-4cc2-83be-304f60d8725d",
-      "company": "Rivian",
-      "title": "Software Engineering Intern, Embedded Platforms",
-      "url": "https://go.vansh.nyc/fF",
-      "location": "Palo Alto, CA, Irvine, CA, Champaign, IL",
-      "datePosted": 1792710355,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:96e1bac9-9226-417a-a3cd-f68621e86d13",
-      "company": "Rivian",
-      "title": "Software Engineering Intern, Connected Systems",
-      "url": "https://go.vansh.nyc/fG",
-      "location": "Palo Alto, CA, Irvine, CA",
-      "datePosted": 1792710355,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:033a2dce-7821-4e99-b6e1-138c6671f830",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern - Warp Speed",
-      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply",
-      "location": "NYC",
-      "datePosted": 1792708610,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7449f87e-753a-4f51-b257-f7b3c214fd97",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern, Warp Speed",
-      "url": "https://go.vansh.nyc/fD",
-      "location": "New York, NY",
-      "datePosted": 1792708610,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
