@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-27T10:20:17Z",
-  "totalOpen": 1315,
-  "totalNewgrad": 208,
+  "generatedAt": "2026-10-27T10:30:18Z",
+  "totalOpen": 1317,
+  "totalNewgrad": 210,
   "totalOther": 1107,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aa81cb8930bff471a2a5247",
+      "company": "Mimecast",
+      "title": "Software Engineer I, Endpoint Sensor",
+      "url": "https://jobright.ai/jobs/info/6aa81cb8930bff471a2a5247",
+      "location": "Minneapolis, MN",
+      "datePosted": 1793069252,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ac6cb798ff3fb9b3bc8f3de",
       "company": "Omnicom",
@@ -14,7 +25,29 @@
       "datePosted": 1793068932,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a58960372fe7a7b98dcf6de",
+      "company": "AppLovin",
+      "title": "ML Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6a58960372fe7a7b98dcf6de",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793068822,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac41e2a372c01f6cd734106",
+      "company": "RTX",
+      "title": "Systems Engineer I\u2013 Algorithms -  (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ac41e2a372c01f6cd734106",
+      "location": "Fullerton, CA",
+      "datePosted": 1793068182,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
@@ -25,7 +58,7 @@
       "datePosted": 1793067727,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae06d095dc7953215a46fb8",
@@ -34,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6ae06d095dc7953215a46fb8",
       "location": "Hennepin County, Minnesota, United States",
       "datePosted": 1793067673,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3f1188ff3fb9b3bc831b0",
+      "company": "Booz Allen Hamilton",
+      "title": "Back End Developer",
+      "url": "https://jobright.ai/jobs/info/6ac3f1188ff3fb9b3bc831b0",
+      "location": "McLean, VA; Fort Belvoir, VA",
+      "datePosted": 1793067434,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -47,7 +91,7 @@
       "datePosted": 1793067385,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a900e320bd89e205d24861b",
@@ -56,17 +100,6 @@
       "url": "https://jobright.ai/jobs/info/6a900e320bd89e205d24861b",
       "location": "New York, NY",
       "datePosted": 1793067233,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae066d29e3e874dbfbb4253",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae066d29e3e874dbfbb4253",
-      "location": "Frisco, TX",
-      "datePosted": 1793066082,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -765,39 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab3fbaaef911c35dffa2672",
-      "company": "Qumulo",
-      "title": "Software Development Engineer (Seattle) - Internship 2027",
-      "url": "https://jobright.ai/jobs/info/6ab3fbaaef911c35dffa2672",
-      "location": "Seattle, WA",
-      "datePosted": 1793034553,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a0f822183d7144289821054",
-      "company": "Ivo",
-      "title": "Software Engineer, Fullstack",
-      "url": "https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "location": "San Francisco, CA",
-      "datePosted": 1793033852,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa87b70a77a53f5a1579bf8",
-      "company": "DoorDash",
-      "title": "Software Engineer, Intern (Summer 2027) - US",
-      "url": "https://jobright.ai/jobs/info/6aa87b70a77a53f5a1579bf8",
-      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
-      "datePosted": 1793033784,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:1cc7f966-3969-44a6-b1f3-2fd0dfa0fafe",
       "company": "Skydio",
       "title": "Autonomy Engineer Intern, Simulation & Robotics",
@@ -828,7 +828,7 @@
       "datePosted": 1793023624,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fcb481d8-3224-4cb1-99f9-3cfd34b52872",
