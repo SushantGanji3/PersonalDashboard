@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-27T10:10:16Z",
-  "totalOpen": 1312,
-  "totalNewgrad": 206,
-  "totalOther": 1106,
+  "generatedAt": "2026-10-27T10:20:17Z",
+  "totalOpen": 1315,
+  "totalNewgrad": 208,
+  "totalOther": 1107,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac6cb798ff3fb9b3bc8f3de",
+      "company": "Omnicom",
+      "title": "Data Engineer (Consultant)",
+      "url": "https://jobright.ai/jobs/info/6ac6cb798ff3fb9b3bc8f3de",
+      "location": "Addison, TX",
+      "datePosted": 1793068932,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa863d182e82a31997c5b12",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Software Engineer \u2013 Undergrad Internship \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12",
+      "location": "Charlotte, NC",
+      "datePosted": 1793067727,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae06d095dc7953215a46fb8",
+      "company": "The Toro Company",
+      "title": "Embedded Software Engineering Intern - The Toro Company",
+      "url": "https://jobright.ai/jobs/info/6ae06d095dc7953215a46fb8",
+      "location": "Hennepin County, Minnesota, United States",
+      "datePosted": 1793067673,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
+      "location": "Seattle, WA",
+      "datePosted": 1793067385,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a900e320bd89e205d24861b",
       "company": "Palantir",
@@ -25,7 +69,7 @@
       "datePosted": 1793066082,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae0668e5dc7953215a46e03",
@@ -36,7 +80,7 @@
       "datePosted": 1793066014,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
@@ -578,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adffa1c9e3e874dbfbb22d4",
+      "id": "newgrad-jobs:6adffa1c9e3e874dbfbb22d1",
       "company": "L3Harris",
       "title": "Systems Engineer Intern Job Details | L3HHCM20",
-      "url": "https://jobright.ai/jobs/info/6adffa1c9e3e874dbfbb22d4",
+      "url": "https://jobright.ai/jobs/info/6adffa1c9e3e874dbfbb22d1",
       "location": "Lynchburg, VA",
       "datePosted": 1793038252,
       "source": "newgrad-jobs",
@@ -754,50 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adfb9a39e3e874dbfbaf780",
-      "company": "Evergreen Goodwill of Northwest Washington",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6adfb9a39e3e874dbfbaf780",
-      "location": "Seattle, WA",
-      "datePosted": 1793033682,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfb2b29e3e874dbfbaf31c",
-      "company": "The Cadmus Group",
-      "title": "Jr. Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6adfb2b29e3e874dbfbaf31c",
-      "location": "United States",
-      "datePosted": 1793033563,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd6b8ba56e5406e57c1416",
-      "company": "Voyager Technologies",
-      "title": "2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6acd6b8ba56e5406e57c1416",
-      "location": "San Diego, CA; El Segundo, CA; Folsom, CA; Reno, NV; Long Beach, CA; Pittsburgh, PA; Houston, TX",
-      "datePosted": 1793033168,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfe5ee5dc7953215a44091",
-      "company": "T-Mobile",
-      "title": "Associate Software Engineer- Billing Platform",
-      "url": "https://jobright.ai/jobs/info/6adfe5ee5dc7953215a44091",
-      "location": "Atlanta, GA; Frisco, TX; Overland Park, KS",
-      "datePosted": 1793033086,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:1cc7f966-3969-44a6-b1f3-2fd0dfa0fafe",
       "company": "Skydio",
       "title": "Autonomy Engineer Intern, Simulation & Robotics",
@@ -818,6 +818,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:156210c1-2f89-493f-84a0-6fe92df85f38",
+      "company": "L3Harris",
+      "title": "Associate, Software Engineering",
+      "url": "https://go.vansh.nyc/Ve",
+      "location": "Rochester, NY",
+      "datePosted": 1793023624,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:fcb481d8-3224-4cb1-99f9-3cfd34b52872",
@@ -1309,17 +1320,6 @@
       "title": "Entry-Level Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
       "location": "Maryland Heights, MO",
-      "datePosted": 1792713600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:caf1ce87-4304-475f-9332-e9ae965a8557",
-      "company": "Intel",
-      "title": "Deep Learning Hardware Engineer",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Deep-Learning-Hardware-Engineer_JR0288400",
-      "location": "Santa Clara, CA, Hillsboro, OR",
       "datePosted": 1792713600,
       "source": "aggregator",
       "season": null,
