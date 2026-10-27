@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-27T17:10:16Z",
-  "totalOpen": 1302,
+  "generatedAt": "2026-10-27T17:20:22Z",
+  "totalOpen": 1305,
   "totalNewgrad": 199,
-  "totalOther": 1103,
+  "totalOther": 1106,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:387c364e-62ab-46b7-ab00-e4ab73cfdb92",
+      "company": "Micron",
+      "title": "AI Engineer Intern, Platform",
+      "url": "https://go.vansh.nyc/VX",
+      "location": "Boise, ID",
+      "datePosted": 1793120262,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:9bd5f620-83d0-4d5a-af4d-991891b1d6af",
+      "company": "Micron",
+      "title": "HBM Data Scientist Intern",
+      "url": "https://go.vansh.nyc/VY",
+      "location": "Richardson, TX",
+      "datePosted": 1793120262,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:63ac0a6d-d75c-4d16-ae7b-e30f5346a86a",
       "company": "Micron",
@@ -886,6 +908,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:54c6c262-2f23-4e23-9281-09171536e781",
+      "company": "Apple",
+      "title": "Software Engineer Intern, Core OS",
+      "url": "https://go.vansh.nyc/W1",
+      "location": "United States",
+      "datePosted": 1793024849,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:156210c1-2f89-493f-84a0-6fe92df85f38",
       "company": "L3Harris",
       "title": "Associate, Software Engineering",
@@ -1290,39 +1323,6 @@
       "datePosted": 1792719944,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
-      "company": "Amazon",
-      "title": "Software Development Engineer - Embedded Systems",
-      "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
-      "location": "Seattle, WA, Austin, TX, Redmond, WA, Santa Clara, CA, Northridge, LA, Hudson, MA, Cupertino, CA, Sunnyvale, CA, Herndon, VA",
-      "datePosted": 1792719944,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4169c155-cad3-467e-b8f4-6435181c35ba",
-      "company": "Amazon",
-      "title": "Software Engineer Intern - AWS Database",
-      "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
-      "location": "United States",
-      "datePosted": 1792719942,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:225a2418-00b0-44e5-8e89-b66ed3d01694",
-      "company": "Amazon",
-      "title": "Software Engineer Intern, AWS Database",
-      "url": "https://go.vansh.nyc/gJ",
-      "location": "United States",
-      "datePosted": 1792719942,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
