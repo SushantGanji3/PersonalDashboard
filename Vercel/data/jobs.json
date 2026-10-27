@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T07:00:21Z",
-  "totalOpen": 1328,
-  "totalNewgrad": 224,
-  "totalOther": 1104,
+  "generatedAt": "2026-10-27T07:10:15Z",
+  "totalOpen": 1329,
+  "totalNewgrad": 226,
+  "totalOther": 1103,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -48,6 +48,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a714fde9a0ca4480c7d3c2b",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Ads Signal & Measurement) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a714fde9a0ca4480c7d3c2b",
+      "location": "San Jose, CA",
+      "datePosted": 1793057455,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a600ec933ef5c58b4001949",
+      "company": "TikTok",
+      "title": "Software Engineer, C/C++ SDK Performance Optimization",
+      "url": "https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
+      "location": "San Jose, CA",
+      "datePosted": 1793057304,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adfb305065c4e77efafa84b",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 Internship - Cybersecurity Software Developer",
+      "url": "https://jobright.ai/jobs/info/6adfb305065c4e77efafa84b",
+      "location": "Laurel, MD",
+      "datePosted": 1793057272,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae041a10a4cc7090f986699",
+      "company": "Torentify",
+      "title": "Software Engineer - WFH",
+      "url": "https://jobright.ai/jobs/info/6ae041a10a4cc7090f986699",
+      "location": "United States",
+      "datePosted": 1793056561,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae03e129e3e874dbfbb35dc",
@@ -611,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adfeb02065c4e77efafce86",
-      "company": "PriVii Care",
-      "title": "Software Engineer Intern / Fellowship (Frontend, Mobile & Full-Stack)",
-      "url": "https://jobright.ai/jobs/info/6adfeb02065c4e77efafce86",
-      "location": "United States",
-      "datePosted": 1793034386,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a0f822183d7144289821054",
       "company": "Ivo",
       "title": "Software Engineer, Fullstack",
@@ -773,39 +806,6 @@
       "datePosted": 1793030667,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfabf90a4cc7090f981e5f",
-      "company": "Anduril",
-      "title": "Early Career Software Engineer, Battlespace Awareness",
-      "url": "https://jobright.ai/jobs/info/6adfabf90a4cc7090f981e5f",
-      "location": "Broomfield, CO; Fort Collins, CO",
-      "datePosted": 1793030635,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfdb5e0a4cc7090f983ef8",
-      "company": "Company 3",
-      "title": "Systems Engineer, Associate",
-      "url": "https://jobright.ai/jobs/info/6adfdb5e0a4cc7090f983ef8",
-      "location": "Los Angeles, CA",
-      "datePosted": 1793030382,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad92836950ef68d5184eb4f",
-      "company": "Twitch",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad92836950ef68d5184eb4f",
-      "location": "Seattle, WA",
-      "datePosted": 1793030135,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1062,17 +1062,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:9f825d8b-b93e-47ec-8fea-e2693848b31a",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems I Co-op",
-      "url": "https://go.vansh.nyc/gQ",
-      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC",
-      "datePosted": 1792771505,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
       "id": "simplify:e6004504-fc09-4fa4-8b4f-0e12d0e319a6",
       "company": "1Password",
       "title": "Developer Intern - Developer Interfaces",
@@ -1320,6 +1309,17 @@
       "title": "Deep Learning Hardware Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Deep-Learning-Hardware-Engineer_JR0288400",
       "location": "Santa Clara, CA, Hillsboro, OR",
+      "datePosted": 1792713600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:eff6e46f-68bb-46cd-b491-ae901b415a6d",
+      "company": "RTX",
+      "title": "Engineer 1 - Software Engineer - Test Engineering",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
+      "location": "Burnsville, MN",
       "datePosted": 1792713600,
       "source": "aggregator",
       "season": null,

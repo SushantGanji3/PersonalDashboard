@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T07:00:21Z",
+  "generatedAt": "2026-10-27T07:10:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793065217
+    },
+    {
+      "id": "newgrad-jobs:6ae041a10a4cc7090f986699",
+      "company": "Torentify",
+      "title": "Software Engineer - WFH",
+      "url": "https://jobright.ai/jobs/info/6ae041a10a4cc7090f986699",
+      "location": "United States",
+      "datePosted": 1793056561,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793085015
     },
     {
       "id": "newgrad-jobs:6ae03e129e3e874dbfbb35dc",
@@ -47312,28 +47323,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790522585
-    },
-    {
-      "id": "newgrad-jobs:6a2a24310c4972328e7e70ef",
-      "company": "Neuralink",
-      "title": "Embedded Software Engineer, Implant Embedded Systems",
-      "url": "https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
-      "location": "Austin, TX",
-      "datePosted": 1790492943,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790577619
-    },
-    {
-      "id": "newgrad-jobs:6a7f8148e51a1e18a2413669",
-      "company": "Twitch",
-      "title": "Software Engineer I, Payments",
-      "url": "https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669",
-      "location": "San Francisco, CA",
-      "datePosted": 1790492734,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790520017
     }
   ]
 }
