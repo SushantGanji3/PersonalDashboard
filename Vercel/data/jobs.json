@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-27T13:10:16Z",
-  "totalOpen": 1316,
-  "totalNewgrad": 207,
-  "totalOther": 1109,
+  "generatedAt": "2026-10-27T13:20:18Z",
+  "totalOpen": 1311,
+  "totalNewgrad": 201,
+  "totalOther": 1110,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:9496da95-497c-4080-9240-ba1f9c5d9760",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I",
+      "url": "https://go.vansh.nyc/VA",
+      "location": "Mckinney, TX",
+      "datePosted": 1793106179,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:6ff3b44c-5a15-4442-8d13-69b75b7648e9",
       "company": "Visa",
@@ -14,6 +25,17 @@
       "datePosted": 1793106025,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac415eb0e027c0f3b3a9358",
+      "company": "General Motors",
+      "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
+      "url": "https://jobright.ai/jobs/info/6ac415eb0e027c0f3b3a9358",
+      "location": "Warren, MI; Milford Charter Township, MI",
+      "datePosted": 1793079447,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -135,17 +157,6 @@
       "datePosted": 1793070131,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8ba1410b1cd4f41603b32",
-      "company": "Lowe's Companies, Inc.",
-      "title": "Exploratory Software Engineering - Undergrad Internship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa8ba1410b1cd4f41603b32",
-      "location": "Charlotte, NC",
-      "datePosted": 1793069409,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -776,10 +787,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adffa1c9e3e874dbfbb22d1",
+      "id": "newgrad-jobs:6adffa1c9e3e874dbfbb22d4",
       "company": "L3Harris",
       "title": "Systems Engineer Intern Job Details | L3HHCM20",
-      "url": "https://jobright.ai/jobs/info/6adffa1c9e3e874dbfbb22d1",
+      "url": "https://jobright.ai/jobs/info/6adffa1c9e3e874dbfbb22d4",
       "location": "Lynchburg, VA",
       "datePosted": 1793038252,
       "source": "newgrad-jobs",
@@ -1312,17 +1323,6 @@
       "datePosted": 1792719931,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:ae4d3c51-a6cc-4491-a1a6-7872c85856f6",
-      "company": "Amazon",
-      "title": "Frontier AI & Robotics Intern - Undergraduate",
-      "url": "https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
-      "location": "SF",
-      "datePosted": 1792719928,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
