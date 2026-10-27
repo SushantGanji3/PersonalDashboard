@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-27T23:00:19Z",
-  "totalOpen": 1328,
-  "totalNewgrad": 211,
-  "totalOther": 1117,
+  "generatedAt": "2026-10-27T23:10:16Z",
+  "totalOpen": 1330,
+  "totalNewgrad": 210,
+  "totalOther": 1120,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
+      "company": "Databricks",
+      "title": "Software Engineer New Grad",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+      "location": "Mountain View, CA",
+      "datePosted": 1793141065,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:992ceb83-2b59-4901-b82d-8ca2b8edc498",
+      "company": "Databricks",
+      "title": "Software Engineer New Grad - Distributed Data Systems",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
+      "location": "Bellevue, WA, Mountain View, CA",
+      "datePosted": 1793141063,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:e50fa178-851f-4e56-89df-f9ac78ff23a4",
       "company": "Meta AI",
@@ -94,6 +116,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:2ca476b1-e283-4e45-8f5d-12dcfa6b20e8",
+      "company": "SambaNova",
+      "title": "ML Infrastructure Engineer New Grad",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004",
+      "location": "Austin, TX, San Jose, CA",
+      "datePosted": 1793129086,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:387c364e-62ab-46b7-ab00-e4ab73cfdb92",
       "company": "Micron",
       "title": "AI Engineer Intern, Platform",
@@ -114,6 +147,28 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8da619581f2d7bfdfe80ee",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
+      "location": "Chantilly, VA",
+      "datePosted": 1793114994,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae1215205a39c3e2c7104c8",
+      "company": "Deloitte",
+      "title": "Cyber Identity - SailPoint ISC Analyst - Security Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ae1215205a39c3e2c7104c8",
+      "location": "Cleveland, OH; Costa Mesa, CA; Princeton, NJ; Miami, FL; Columbus, OH; Indianapolis, IN; Austin, TX; Mechanicsburg, PA; Richmond, VA; Houston, TX; San Antonio, TX; Milwaukee, WI; Colorado Springs, CO; Kansas City, MO; New Orleans, LA; Arlington, VA; Las Vegas, NV; Seattle, WA; San Francisco, CA; Baltimore, MD; Cincinnati, OH; Pittsburgh, PA; Boston, MA; Portland, OR; Stamford, CT; Minneapolis, MN; Davenport, IA; Detroit, MI; Jersey City, NJ; Gilbert, AZ; Louisville, KY; Jericho, NY; Lake Mary, FL; Nashville, TN; Hartford, CT; McLean, VA; Rochester, NY; New York, NY; Atlanta, GA; Dallas, TX; Jacksonville, FL; Raleigh, NC; Los Angeles, CA; Chicago, IL; Charlotte, NC; Philadelphia, PA; Denver, CO; Memphis, TN; Morristown, NJ",
+      "datePosted": 1793113826,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abe86390e027c0f3b3995c3",
@@ -765,28 +820,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0c6df05a39c3e2c70c2b9",
-      "company": "Visa",
-      "title": "Software Engineer, Intern - 2027 Austin, TX",
-      "url": "https://jobright.ai/jobs/info/6ae0c6df05a39c3e2c70c2b9",
-      "location": "Austin, TX",
-      "datePosted": 1793099776,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6d23fbca1f933846602bff",
-      "company": "ITA International",
-      "title": "Junior Power Platform Developer",
-      "url": "https://jobright.ai/jobs/info/6a6d23fbca1f933846602bff",
-      "location": "United States",
-      "datePosted": 1793099692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "company": "Lockheed Martin",
       "title": "Software Engineer Intern",
@@ -996,17 +1029,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:0a2c3c96-6161-4f97-aa48-518f989408a5",
-      "company": "ServiceNow",
-      "title": "New Grad 2027: Software Engineer (AI/ML)",
-      "url": "https://go.vansh.nyc/WC",
-      "location": "Mountain View, CA",
-      "datePosted": 1793052512,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:bbd0c620-54fe-4568-b5ed-1a31793eff10",
       "company": "RTX",
       "title": "Software Engineering Intern",
@@ -1016,6 +1038,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
+      "company": "ServiceNow",
+      "title": "Software Engineer New Grad - AI/ML",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
+      "location": "Mountain View, CA",
+      "datePosted": 1793043857,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:6af75cb5-069d-4604-8cdf-ace14944602a",
@@ -1288,39 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1137225375529389",
       "location": "Redmond, WA",
       "datePosted": 1792793116,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7d4bf842-2fbf-45b5-b64b-b5a0bd04af70",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Meta Recommendation Systems - Core ML",
-      "url": "https://www.metacareers.com/jobs/1023154190171838",
-      "location": "Seattle, WA, Menlo Park, CA, Bellevue, WA",
-      "datePosted": 1792793115,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8f92f713-831e-414a-9cc3-067cf3b3ba4f",
-      "company": "ServiceNow",
-      "title": "Associate Software Engineer",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
-      "location": "Santa Clara, CA",
-      "datePosted": 1792790698,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c4dc3458-525a-41e5-a1cc-5508b08f1c45",
-      "company": "Epic Games",
-      "title": "Tools Programmer Intern - Graphics",
-      "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
-      "location": "Cary, NC",
-      "datePosted": 1792780820,
       "source": "aggregator",
       "season": null,
       "isNew": false
