@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-27T01:50:16Z",
-  "totalOpen": 1339,
+  "generatedAt": "2026-10-27T02:00:19Z",
+  "totalOpen": 1340,
   "totalNewgrad": 239,
-  "totalOther": 1100,
+  "totalOther": 1101,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/UC",
+      "location": "Huntsville, AL",
+      "datePosted": 1793065665,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:6a4d978f-591a-4db3-91fc-cf7e1e34458b",
       "company": "Meta AI",
@@ -113,7 +124,7 @@
       "datePosted": 1793038159,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff9b1c5c64fa3d9cc17e7",
@@ -124,7 +135,7 @@
       "datePosted": 1793038145,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff95e065c4e77efafd610",
@@ -135,7 +146,7 @@
       "datePosted": 1793038062,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff94c5dc7953215a44c61",
@@ -146,7 +157,7 @@
       "datePosted": 1793038044,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff8f4065c4e77efafd5dc",
@@ -157,7 +168,7 @@
       "datePosted": 1793037956,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff7219a8c91d5c358b0be",
@@ -168,7 +179,7 @@
       "datePosted": 1793037489,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff62d9e3e874dbfbb1ff3",
@@ -179,7 +190,7 @@
       "datePosted": 1793037245,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff59b065c4e77efafd445",
@@ -190,7 +201,7 @@
       "datePosted": 1793037099,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfde3a9e3e874dbfbb113a",
@@ -234,7 +245,7 @@
       "datePosted": 1793036567,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adff2c69a8c91d5c358adcb",
@@ -245,7 +256,7 @@
       "datePosted": 1793036374,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a2fc56c0956e8adda60",
@@ -256,7 +267,7 @@
       "datePosted": 1793036077,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad80afd950ef68d51846621",
@@ -289,7 +300,7 @@
       "datePosted": 1793035496,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfef08065c4e77efafd0e6",
@@ -1312,17 +1323,6 @@
       "datePosted": 1792713600,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8ae57b40-93cf-44a0-8a44-a63ff170ac3b",
-      "company": "Rivian",
-      "title": "Software Engineering Intern, Vehicle Controls",
-      "url": "https://go.vansh.nyc/fE",
-      "location": "Palo Alto, CA, Irvine, CA",
-      "datePosted": 1792710355,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
