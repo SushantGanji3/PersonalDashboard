@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-10-27T22:30:17Z",
-  "totalOpen": 1319,
+  "generatedAt": "2026-10-27T22:40:15Z",
+  "totalOpen": 1331,
   "totalNewgrad": 214,
-  "totalOther": 1105,
+  "totalOther": 1117,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:e50fa178-851f-4e56-89df-f9ac78ff23a4",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Video Generation Self-Improvement",
+      "url": "https://www.metacareers.com/jobs/29358420983776961",
+      "location": "Seattle, WA, Menlo Park, CA",
+      "datePosted": 1793139870,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:5fe56478-a22c-43a2-aed6-425c37548138",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - AI Research - Speech & Audio",
+      "url": "https://www.metacareers.com/jobs/1567168005156007",
+      "location": "Menlo Park, CA, NYC",
+      "datePosted": 1793139870,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:fb1efed5-e5b8-4edc-9882-521268ea88b5",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Ranking & Recommendations",
+      "url": "https://www.metacareers.com/jobs/1625515955324134",
+      "location": "Menlo Park, CA, NYC, Bellevue, WA",
+      "datePosted": 1793139868,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:52bb0456-c8fe-4699-804e-064d6345b807",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - User Modeling and Reinforcement Learning",
+      "url": "https://www.metacareers.com/jobs/1751935042548465",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1793139865,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:f06da939-6e73-41c9-9766-fed55a5b7627",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Computer Vision - Video Intelligence",
+      "url": "https://www.metacareers.com/jobs/1789380188995838",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1793139865,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:f6b2ba47-0f93-4363-9f77-04ac9d5960b0",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Neural Representations Compression",
+      "url": "https://www.metacareers.com/jobs/2368433610564528",
+      "location": "Redmond, WA",
+      "datePosted": 1793139864,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
+      "company": "Amazon",
+      "title": "Software Developer Engineer 1 - Graviton Software - Annapurna Labs",
+      "url": "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs",
+      "location": "Austin, TX",
+      "datePosted": 1793138655,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:381941df-e6ee-4990-b876-393cba188d6c",
       "company": "NVIDIA",
@@ -22,17 +99,6 @@
       "title": "AI Engineer Intern, Platform",
       "url": "https://go.vansh.nyc/VX",
       "location": "Boise, ID",
-      "datePosted": 1793120262,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:9bd5f620-83d0-4d5a-af4d-991891b1d6af",
-      "company": "Micron",
-      "title": "HBM Data Scientist Intern",
-      "url": "https://go.vansh.nyc/VY",
-      "location": "Richardson, TX",
       "datePosted": 1793120262,
       "source": "aggregator",
       "season": "Summer",
@@ -798,6 +864,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:b83ac3e2-dbad-4c8f-ad68-1ed696c5a30a",
+      "company": "Micron",
+      "title": "Product Yield Enhancement Software Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
+      "location": "Boise, ID",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:0237db49-2c6e-4821-9ef5-4c8214f38c17",
+      "company": "Micron",
+      "title": "HBM Data Scientist Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127",
+      "location": "Richardson, TX",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer / Software Engineer",
@@ -807,6 +895,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:825b083b-ac71-42e9-a164-c6b1b0081f01",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
+      "location": "Huntsville, AL",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b78f0072-9140-443e-915e-a7ab2b4d2c0a",
+      "company": "NVIDIA",
+      "title": "Deep Learning Performance Architect New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177",
+      "location": "Santa Clara, CA",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:abd1a870-00ac-4b82-b7c4-10d23ce9014c",
@@ -1211,116 +1321,6 @@
       "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
       "location": "Cary, NC",
       "datePosted": 1792780820,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c33c75c4-d7d3-4508-8821-6ad386621c06",
-      "company": "Cisco",
-      "title": "Software Engineer Full Stack / Backend I Co-op",
-      "url": "https://go.vansh.nyc/gP",
-      "location": "San Jose, CA, Carlsbad, CA",
-      "datePosted": 1792771505,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e6004504-fc09-4fa4-8b4f-0e12d0e319a6",
-      "company": "1Password",
-      "title": "Developer Intern - Developer Interfaces",
-      "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true",
-      "location": "Remote in USA, Remote in Canada",
-      "datePosted": 1792766545,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c27dd769-5cb4-46de-9658-90d85c12cfbc",
-      "company": "1Password",
-      "title": "Developer Intern - Credential Brokering",
-      "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true",
-      "location": "Remote in USA, Remote in Canada",
-      "datePosted": 1792766545,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:95437628-8de3-4f6f-ba65-44f3b0ed0be8",
-      "company": "MongoDB",
-      "title": "Software Engineer Intern",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-      "location": "Palo Alto, CA, Seattle, WA, SF, Austin, TX, NYC",
-      "datePosted": 1792765793,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b29c852f-50f9-42bc-a4b6-65ef06b990be",
-      "company": "Shield AI",
-      "title": "Software Engineer 1 New Grad",
-      "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
-      "location": "Seattle, WA",
-      "datePosted": 1792765162,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5402095c-168c-4f29-8ce2-fe299e2632e3",
-      "company": "1Password",
-      "title": "Developer Intern, Developer Interfaces",
-      "url": "https://go.vansh.nyc/gS",
-      "location": "Remote, United States, Canada",
-      "datePosted": 1792764305,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:480af310-c6bf-41ad-adf1-f1725c0986d2",
-      "company": "1Password",
-      "title": "Developer Intern, Credential Brokering",
-      "url": "https://go.vansh.nyc/gT",
-      "location": "Remote, United States, Canada",
-      "datePosted": 1792764305,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:589eba12-350f-4d50-b544-1070a24f8eb6",
-      "company": "Rivian",
-      "title": "Software Engineering Intern, Applications",
-      "url": "https://go.vansh.nyc/gw",
-      "location": "Palo Alto, CA",
-      "datePosted": 1792738800,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:0c394fff-c713-412f-992e-9a3a61a8ee5e",
-      "company": "Palantir",
-      "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
-      "url": "https://go.vansh.nyc/Bb",
-      "location": "New York, NY",
-      "datePosted": 1792732377,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9df960cc-66fe-437d-ab6b-32f6e36fbbed",
-      "company": "Amazon",
-      "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
-      "url": "https://go.vansh.nyc/Bg",
-      "location": "Seattle, WA, Austin, TX, Cupertino, CA",
-      "datePosted": 1792732377,
       "source": "aggregator",
       "season": null,
       "isNew": false
