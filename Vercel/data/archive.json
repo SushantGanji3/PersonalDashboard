@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T21:10:20Z",
+  "generatedAt": "2026-10-28T21:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,72 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793211617
+    },
+    {
+      "id": "newgrad-jobs:6ae25b906679108488c4a737",
+      "company": "Nothing",
+      "title": "Applied AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae25b906679108488c4a737",
+      "location": "San Francisco, CA",
+      "datePosted": 1793194272,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793222415
+    },
+    {
+      "id": "newgrad-jobs:6ae25adc829a3bada1603fe8",
+      "company": "Ford Motor Company",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae25adc829a3bada1603fe8",
+      "location": "Dearborn, MI",
+      "datePosted": 1793194092,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793222415
+    },
+    {
+      "id": "newgrad-jobs:6ae25a02829a3bada1603ee8",
+      "company": "Major League Baseball (MLB)",
+      "title": "Associate Software Engineer (Seasonal)",
+      "url": "https://jobright.ai/jobs/info/6ae25a02829a3bada1603ee8",
+      "location": "New York, NY",
+      "datePosted": 1793193874,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793222415
+    },
+    {
+      "id": "newgrad-jobs:6ae2591a1f9d9308370b0e73",
+      "company": "Snail Games USA",
+      "title": "DevOps / Backend Engineer (Junior to Mid-Level) \u2013 Egofold",
+      "url": "https://jobright.ai/jobs/info/6ae2591a1f9d9308370b0e73",
+      "location": "Culver City, CA",
+      "datePosted": 1793193642,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793222415
+    },
+    {
+      "id": "newgrad-jobs:6aaaec8576707040fb083192",
+      "company": "iCapital",
+      "title": "Configuration Developer - Analyst",
+      "url": "https://jobright.ai/jobs/info/6aaaec8576707040fb083192",
+      "location": "Denver, CO; Colorado Springs, CO",
+      "datePosted": 1793193492,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793222415
+    },
+    {
+      "id": "newgrad-jobs:6ae256d905a39c3e2c719251",
+      "company": "Trabus Technologies",
+      "title": "Full Stack Engineer (Cleared)",
+      "url": "https://jobright.ai/jobs/info/6ae256d905a39c3e2c719251",
+      "location": "San Diego, CA",
+      "datePosted": 1793193065,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793222415
     },
     {
       "id": "newgrad-jobs:6ae253df05a39c3e2c719038",
@@ -24265,7 +24331,7 @@
       "location": "San Jose, CA",
       "datePosted": 1791982663,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Winter 2027",
       "firstSeenAt": 1792010417
     },
     {
@@ -49160,17 +49226,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790659817
-    },
-    {
-      "id": "newgrad-jobs:6abb3a387220f52e62aeae75",
-      "company": "Toyota Material Handling",
-      "title": "Telematics Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abb3a387220f52e62aeae75",
-      "location": "Greene, NY",
-      "datePosted": 1790629832,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790657417
     }
   ]
 }
