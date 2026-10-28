@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T22:50:16Z",
-  "totalOpen": 1354,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-10-28T23:00:19Z",
+  "totalOpen": 1352,
+  "totalNewgrad": 229,
   "totalOther": 1123,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae247f3de23f466ec8c4bdc",
+      "company": "Micron",
+      "title": "Intern - Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae247f3de23f466ec8c4bdc",
+      "location": "Boise, ID",
+      "datePosted": 1793198836,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ae266461f9d9308370b1b9e",
       "company": "Cargill",
       "title": "Software Engineer Intern Summer 2027 - Atlanta, GA Job Details | cargill",
@@ -133,17 +144,6 @@
       "url": "https://jobright.ai/jobs/info/6abd72f48ff3fb9b3bc70a89",
       "location": "New York, NY",
       "datePosted": 1793195869,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae247f3de23f466ec8c4bdc",
-      "company": "Micron",
-      "title": "Intern - Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae247f3de23f466ec8c4bdc",
-      "location": "Boise, ID",
-      "datePosted": 1793195119,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -795,7 +795,7 @@
       "datePosted": 1793145600,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3637c742-c854-49e0-a6a5-96f39e054a6b",
@@ -806,7 +806,7 @@
       "datePosted": 1793145600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f3d2fc52-679b-4e73-843f-acf80903413e",
