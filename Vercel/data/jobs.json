@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T12:40:16Z",
-  "totalOpen": 1324,
-  "totalNewgrad": 203,
+  "generatedAt": "2026-10-28T12:50:16Z",
+  "totalOpen": 1325,
+  "totalNewgrad": 204,
   "totalOther": 1121,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793164399,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aaa4ce02339cb004a614d36",
@@ -25,7 +25,7 @@
       "datePosted": 1793164104,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae1aa8b1f9d9308370ab31c",
@@ -36,7 +36,7 @@
       "datePosted": 1793164089,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8c64b9581f2d7bfdfe3458",
@@ -47,7 +47,7 @@
       "datePosted": 1793164059,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4673c10a-17a5-43a2-8cf9-4072cb2048e6",
@@ -59,6 +59,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7544ca7b3417772ade3dab",
+      "company": "Garage",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7544ca7b3417772ade3dab",
+      "location": "New York, NY",
+      "datePosted": 1793163830,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adbcfb69e3e874dbfba2430",
@@ -80,7 +91,18 @@
       "datePosted": 1793163220,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a71023dee751e0c793420a1",
+      "company": "Bart & Associates, Inc.",
+      "title": "Application Developer/Programmer",
+      "url": "https://jobright.ai/jobs/info/6a71023dee751e0c793420a1",
+      "location": "Alexandria, VA",
+      "datePosted": 1793163182,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a70f79fe2b7476e7b20c161",
@@ -91,7 +113,7 @@
       "datePosted": 1793162075,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac56f98372c01f6cd739af8",
@@ -111,17 +133,6 @@
       "url": "https://jobright.ai/jobs/info/6ae0bcce1f9d9308370a36e7",
       "location": "Bethesda, MD",
       "datePosted": 1793160184,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1d5f205a39c3e2c714463",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae1d5f205a39c3e2c714463",
-      "location": "Frisco, TX",
-      "datePosted": 1793160066,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -446,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae10af167c31ab34899fe4c",
+      "id": "newgrad-jobs:6ae10a286679108488c4055d",
       "company": "Viasat",
       "title": "Software Engineer - Automation, Early Career",
-      "url": "https://jobright.ai/jobs/info/6ae10af167c31ab34899fe4c",
+      "url": "https://jobright.ai/jobs/info/6ae10a286679108488c4055d",
       "location": "Carlsbad, CA",
       "datePosted": 1793140527,
       "source": "newgrad-jobs",
@@ -804,17 +815,6 @@
       "url": "https://jobright.ai/jobs/info/6ae147636679108488c42826",
       "location": "Portland, OR",
       "datePosted": 1793123571,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1468205a39c3e2c7117f3",
-      "company": "A Full Renovation \u2013 Interiors & Design",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae1468205a39c3e2c7117f3",
-      "location": "United States",
-      "datePosted": 1793123346,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
