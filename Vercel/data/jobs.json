@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T20:40:24Z",
-  "totalOpen": 1340,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-10-28T20:50:25Z",
+  "totalOpen": 1342,
+  "totalNewgrad": 228,
   "totalOther": 1114,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -39,23 +39,100 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae253df05a39c3e2c719038",
+      "company": "Ford Pro",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae253df05a39c3e2c719038",
+      "location": "Dearborn, MI",
+      "datePosted": 1793192303,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae253441f9d9308370b0a68",
+      "company": "Ford Motor Company",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae253441f9d9308370b0a68",
+      "location": "Dearborn, MI",
+      "datePosted": 1793192148,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae2335cde23f466ec8c3f63",
+      "company": "Cambridge Mobile Telematics",
+      "title": "Software Engineer, Cloud",
+      "url": "https://jobright.ai/jobs/info/6ae2335cde23f466ec8c3f63",
+      "location": "Cambridge, MA",
+      "datePosted": 1793191649,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae2313705a39c3e2c717bf7",
+      "company": "Ascensus",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2313705a39c3e2c717bf7",
+      "location": "Boston, MA; Indianapolis, IN; Newton, MA; Philadelphia, PA; United States",
+      "datePosted": 1793191641,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae20c7f829a3bada16007db",
+      "company": "Siemens",
+      "title": "Data Engineer - Global Manufacturing Digitalization",
+      "url": "https://jobright.ai/jobs/info/6ae20c7f829a3bada16007db",
+      "location": "Wendell, NC",
+      "datePosted": 1793191608,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a85630fe12474455273e11d",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a85630fe12474455273e11d",
+      "location": "Santa Clara, CA",
+      "datePosted": 1793191604,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
+      "company": "Serco",
+      "title": "Junior Software Engineer - Remote",
+      "url": "https://jobright.ai/jobs/info/6ae240da05a39c3e2c71858c",
+      "location": "United States",
+      "datePosted": 1793191516,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae2326bde23f466ec8c3ea8",
+      "company": "Crusoe Energy",
+      "title": "Software Engineer I, Network",
+      "url": "https://jobright.ai/jobs/info/6ae2326bde23f466ec8c3ea8",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "datePosted": 1793191513,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ae247f3de23f466ec8c4bdc",
       "company": "Micron",
       "title": "Intern - Embedded Software Engineer",
       "url": "https://jobright.ai/jobs/info/6ae247f3de23f466ec8c4bdc",
       "location": "Boise, ID",
       "datePosted": 1793191068,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae24e301f9d9308370b079b",
-      "company": "Wayfair",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ae24e301f9d9308370b079b",
-      "location": "Boston, MA",
-      "datePosted": 1793190848,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -105,17 +182,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae20c7f829a3bada16007db",
-      "company": "Siemens",
-      "title": "Data Engineer - Global Manufacturing Digitalization",
-      "url": "https://jobright.ai/jobs/info/6ae20c7f829a3bada16007db",
-      "location": "Wendell, NC",
-      "datePosted": 1793189887,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
       "company": "Meta AI",
       "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
@@ -124,17 +190,6 @@
       "datePosted": 1793189887,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2335cde23f466ec8c3f63",
-      "company": "Cambridge Mobile Telematics",
-      "title": "Software Engineer, Cloud",
-      "url": "https://jobright.ai/jobs/info/6ae2335cde23f466ec8c3f63",
-      "location": "Cambridge, MA",
-      "datePosted": 1793189806,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -270,28 +325,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a85630fe12474455273e11d",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a85630fe12474455273e11d",
-      "location": "Santa Clara, CA",
-      "datePosted": 1793188573,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2326bde23f466ec8c3ea8",
-      "company": "Crusoe Energy",
-      "title": "Software Engineer I, Network",
-      "url": "https://jobright.ai/jobs/info/6ae2326bde23f466ec8c3ea8",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "datePosted": 1793188437,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae22357829a3bada160175f",
       "company": "Intuitive",
       "title": "AI Research Intern",
@@ -369,17 +402,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
-      "company": "Serco",
-      "title": "Junior Software Engineer - Remote",
-      "url": "https://jobright.ai/jobs/info/6ae240da05a39c3e2c71858c",
-      "location": "United States",
-      "datePosted": 1793187434,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adfd11fc5c64fa3d9cbfd9a",
       "company": "Health Care Service Corporation",
       "title": "Early Careers \u2013 Product Engineering Developer Intern",
@@ -446,15 +468,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae2039c829a3bada16000f2",
+      "id": "newgrad-jobs:6ae1f7dd05a39c3e2c7151cd",
       "company": "Allegion",
       "title": "Summer Intern \u2013 Software Engineering \u2013 Quality Assurance",
-      "url": "https://jobright.ai/jobs/info/6ae2039c829a3bada16000f2",
+      "url": "https://jobright.ai/jobs/info/6ae1f7dd05a39c3e2c7151cd",
       "location": "Golden, CO",
       "datePosted": 1793186639,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
@@ -529,17 +551,6 @@
       "url": "https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
       "location": "Detroit, MI; Coppell, TX",
       "datePosted": 1793185294,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae231351f9d9308370af5ee",
-      "company": "Ascensus",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae231351f9d9308370af5ee",
-      "location": "Boston, MA; Indianapolis, IN; Newton, MA; Philadelphia, PA; United States",
-      "datePosted": 1793185210,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -681,21 +692,10 @@
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Product Security Engineer)",
       "url": "https://jobright.ai/jobs/info/6aa168692f936e4a53dab862",
-      "location": "United States",
+      "location": "United States; Vienna, VA",
       "datePosted": 1793181785,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a30f2e1524fd5657fe12995",
-      "company": "Ascensus",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a30f2e1524fd5657fe12995",
-      "location": "Dresher, PA; Philadelphia, PA",
-      "datePosted": 1793181667,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
