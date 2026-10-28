@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T08:50:16Z",
+  "generatedAt": "2026-10-28T09:00:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793151616
+    },
+    {
+      "id": "newgrad-jobs:6a5117188d7d3e6cf1cbec98",
+      "company": "Verition",
+      "title": "Quantitative Developer",
+      "url": "https://jobright.ai/jobs/info/6a5117188d7d3e6cf1cbec98",
+      "location": "Greenwich, CT; New York, NY; Norwalk, CT; London, England; Dubai, Dubai; Hong Kong SAR China; Singapore",
+      "datePosted": 1793148203,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793178018
     },
     {
       "id": "newgrad-jobs:6ae19dce1f9d9308370ab1a5",
@@ -48775,17 +48786,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790616620
-    },
-    {
-      "id": "newgrad-jobs:690e5b98221b890c2780d204",
-      "company": "Two Sigma",
-      "title": "Software Engineer, Modeling Engineering",
-      "url": "https://jobright.ai/jobs/info/690e5b98221b890c2780d204",
-      "location": "New York, NY",
-      "datePosted": 1790585497,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790625017
     }
   ]
 }
