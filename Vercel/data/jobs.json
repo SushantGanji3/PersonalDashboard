@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T05:00:19Z",
-  "totalOpen": 1320,
-  "totalNewgrad": 196,
+  "generatedAt": "2026-10-28T05:10:16Z",
+  "totalOpen": 1322,
+  "totalNewgrad": 198,
   "totalOther": 1124,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -125,6 +125,61 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae12efcde23f466ec8bd129",
+      "company": "PACCAR",
+      "title": "Summer 2027 - Application Developer Intern (OH)",
+      "url": "https://jobright.ai/jobs/info/6ae12efcde23f466ec8bd129",
+      "location": "Chillicothe, OH",
+      "datePosted": 1793136597,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae17a1e1f9d9308370aa902",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (E-Commerce User Growth) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ae17a1e1f9d9308370aa902",
+      "location": "Seattle, WA",
+      "datePosted": 1793136558,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae1345567c31ab3489a17e1",
+      "company": "Mercor",
+      "title": "Research Engineer, Intern \u2013 Benchmarking",
+      "url": "https://jobright.ai/jobs/info/6ae1345567c31ab3489a17e1",
+      "location": "San Francisco, CA",
+      "datePosted": 1793135221,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae1332d67c31ab3489a1764",
+      "company": "Mercor",
+      "title": "Research Engineer Intern - Environments, Data and Post-Training",
+      "url": "https://jobright.ai/jobs/info/6ae1332d67c31ab3489a1764",
+      "location": "San Francisco, CA",
+      "datePosted": 1793135155,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
+      "company": "Garmin",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
+      "location": "Chandler, AZ",
+      "datePosted": 1793134755,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aaed6562e757fcb5c8bc0d7",
@@ -380,6 +435,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae17b2c67c31ab3489a373c",
+      "company": "Raydar",
+      "title": "Research Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae17b2c67c31ab3489a373c",
+      "location": "San Francisco, CA",
+      "datePosted": 1793120400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6adf9c75065c4e77efaf9845",
       "company": "Northrop Grumman",
       "title": "2027 Software Engineering Intern - Beavercreek OH",
@@ -413,11 +479,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a96257d9fcec54423731c02",
+      "id": "newgrad-jobs:6ae1045c829a3bada15f9a54",
       "company": "Emerson",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a96257d9fcec54423731c02",
-      "location": "Houston, TX; Shakopee, MN",
+      "url": "https://jobright.ai/jobs/info/6ae1045c829a3bada15f9a54",
+      "location": "Austin, TX",
       "datePosted": 1793120186,
       "source": "newgrad-jobs",
       "season": null,
@@ -501,28 +567,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae1345567c31ab3489a17e1",
-      "company": "Mercor",
-      "title": "Research Engineer, Intern \u2013 Benchmarking",
-      "url": "https://jobright.ai/jobs/info/6ae1345567c31ab3489a17e1",
-      "location": "San Francisco, CA",
-      "datePosted": 1793118693,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1332d67c31ab3489a1764",
-      "company": "Mercor",
-      "title": "Research Engineer Intern - Environments, Data and Post-Training",
-      "url": "https://jobright.ai/jobs/info/6ae1332d67c31ab3489a1764",
-      "location": "San Francisco, CA",
-      "datePosted": 1793118397,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae130156679108488c41dae",
       "company": "Skyworks Solutions, Inc.",
       "title": "Software Engineering Intern, SWR",
@@ -575,17 +619,6 @@
       "datePosted": 1793117377,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae12efcde23f466ec8bd129",
-      "company": "PACCAR",
-      "title": "Summer 2027 - Application Developer Intern (OH)",
-      "url": "https://jobright.ai/jobs/info/6ae12efcde23f466ec8bd129",
-      "location": "Chillicothe, OH",
-      "datePosted": 1793117324,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -793,39 +826,6 @@
       "url": "https://jobright.ai/jobs/info/6ae1124d1f9d9308370a767a",
       "location": "Torrance, CA; San Francisco Bay Area, CA, United States",
       "datePosted": 1793109981,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae10f0805a39c3e2c70fa9c",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer (BM/SRM) (26-464)",
-      "url": "https://jobright.ai/jobs/info/6ae10f0805a39c3e2c70fa9c",
-      "location": "Huntsville, AL",
-      "datePosted": 1793109144,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae10f05829a3bada15fa277",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineer Intern - Azusa CA",
-      "url": "https://jobright.ai/jobs/info/6ae10f05829a3bada15fa277",
-      "location": "Azusa, CA",
-      "datePosted": 1793109141,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1793108867,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
