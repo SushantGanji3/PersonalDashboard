@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:20:18Z",
+  "generatedAt": "2026-10-28T11:30:18Z",
   "totalOpen": 1323,
   "totalNewgrad": 201,
   "totalOther": 1122,
@@ -13,6 +13,28 @@
       "location": "Maryland Heights, MO",
       "datePosted": 1793164040,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac51cc00e027c0f3b3acdc3",
+      "company": "Courier Health",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac51cc00e027c0f3b3acdc3",
+      "location": "New York, NY",
+      "datePosted": 1793158649,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9c3e03387a3d9b67d6b2e",
+      "company": "Emerson",
+      "title": "Software Engineering Intern - ADG System R&D",
+      "url": "https://jobright.ai/jobs/info/6aa9c3e03387a3d9b67d6b2e",
+      "location": "Austin, TX",
+      "datePosted": 1793158189,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -39,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (2027) - Austin, TX",
+      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
+      "location": "Austin, TX",
+      "datePosted": 1793157279,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
       "company": "Palantir",
       "title": "Software Engineer - Apollo Platform",
@@ -58,17 +91,6 @@
       "datePosted": 1793154133,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1be851f9d9308370ab865",
-      "company": "WD",
-      "title": "Summer 2026 Intern, IT Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ae1be851f9d9308370ab865",
-      "location": "San Jose, CA",
-      "datePosted": 1793154069,
-      "source": "newgrad-jobs",
-      "season": "Summer 2026",
       "isNew": false
     },
     {
@@ -806,28 +828,6 @@
       "datePosted": 1793120262,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0e89c1f9d9308370a588d",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Application Developer Analyst Level 1-5 (TCU Represented)",
-      "url": "https://jobright.ai/jobs/info/6ae0e89c1f9d9308370a588d",
-      "location": "New York, NY",
-      "datePosted": 1793120261,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9da58eff87f571fc9c09f",
-      "company": "Emerson",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9da58eff87f571fc9c09f",
-      "location": "Austin, TX",
-      "datePosted": 1793120186,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
