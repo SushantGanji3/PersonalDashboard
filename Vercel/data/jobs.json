@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T04:40:15Z",
-  "totalOpen": 1321,
-  "totalNewgrad": 197,
+  "generatedAt": "2026-10-28T04:50:16Z",
+  "totalOpen": 1320,
+  "totalNewgrad": 196,
   "totalOther": 1124,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -149,17 +149,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae1657a1f9d9308370aa2c6",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae1657a1f9d9308370aa2c6",
-      "location": "Frisco, TX",
-      "datePosted": 1793131274,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
       "company": "Microsoft",
       "title": "Software Engineer, Systems and Infrastructure",
@@ -303,6 +292,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae16f811f9d9308370aa63f",
+      "company": "Hakk\u014dda, an IBM Company",
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027",
+      "url": "https://jobright.ai/jobs/info/6ae16f811f9d9308370aa63f",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1793123011,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a84e65ae12474455273d176",
       "company": "Anduril",
       "title": "Software Engineer, Tracking",
@@ -413,15 +413,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a96257bc8763a3a87ffebef",
+      "id": "newgrad-jobs:6a96257d9fcec54423731c02",
       "company": "Emerson",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a96257bc8763a3a87ffebef",
+      "url": "https://jobright.ai/jobs/info/6a96257d9fcec54423731c02",
       "location": "Houston, TX; Shakopee, MN",
       "datePosted": 1793120186,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae139a967c31ab3489a19f0",
