@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:40:15Z",
+  "generatedAt": "2026-10-28T22:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -1411,6 +1411,28 @@
       "firstSeenAt": 1793227215
     },
     {
+      "id": "simplify:d1dc33d2-36e1-4f24-bd0b-d8b4f6e5694b",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern, First Play",
+      "url": "https://go.vansh.nyc/Y5",
+      "location": "Mountain View, CA",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1793227816
+    },
+    {
+      "id": "simplify:3637c742-c854-49e0-a6a5-96f39e054a6b",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer, Pathways Program",
+      "url": "https://go.vansh.nyc/Yn",
+      "location": "Aurora, CO",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227816
+    },
+    {
       "id": "newgrad-jobs:6ae19b001f9d9308370ab166",
       "company": "Torentify",
       "title": "Software Engineer - USA Remote",
@@ -2014,6 +2036,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793220625
+    },
+    {
+      "id": "newgrad-jobs:6ae26d196679108488c4b51f",
+      "company": "RTX",
+      "title": "Cyber/EW Research Engineer I - Onsite",
+      "url": "https://jobright.ai/jobs/info/6ae26d196679108488c4b51f",
+      "location": "Cambridge, MA",
+      "datePosted": 1793120400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793227816
     },
     {
       "id": "simplify:387c364e-62ab-46b7-ab00-e4ab73cfdb92",
@@ -49281,17 +49314,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790666417
-    },
-    {
-      "id": "newgrad-jobs:6abb472fee0b348be729e485",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Data Transformations (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6abb472fee0b348be729e485",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790635634,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1790668217
     }
   ]
 }

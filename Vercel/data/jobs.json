@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T22:40:15Z",
-  "totalOpen": 1351,
-  "totalNewgrad": 230,
-  "totalOther": 1121,
+  "generatedAt": "2026-10-28T22:50:16Z",
+  "totalOpen": 1354,
+  "totalNewgrad": 231,
+  "totalOther": 1123,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1793226272,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:87a05892-5f38-4b25-9d6d-a2c15165936d",
@@ -25,7 +25,7 @@
       "datePosted": 1793224251,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4c3c63fd-9eab-4478-bc80-4ee58d81be85",
@@ -36,7 +36,7 @@
       "datePosted": 1793222239,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1839d642-6be7-46e2-b16a-7055bd0c2271",
@@ -58,7 +58,29 @@
       "datePosted": 1793208146,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae231736679108488c48c4b",
+      "company": "Oracle",
+      "title": "[Remote] Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae231736679108488c48c4b",
+      "location": "United States",
+      "datePosted": 1793198888,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae2618f6679108488c4adb1",
+      "company": "Applied Intuition",
+      "title": "Software Engineer (Autonomy Tools - Sensor Sim)",
+      "url": "https://jobright.ai/jobs/info/6ae2618f6679108488c4adb1",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793198847,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae266461f9d9308370b1b9e",
@@ -111,28 +133,6 @@
       "url": "https://jobright.ai/jobs/info/6abd72f48ff3fb9b3bc70a89",
       "location": "New York, NY",
       "datePosted": 1793195869,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2618f6679108488c4adb1",
-      "company": "Applied Intuition",
-      "title": "Software Engineer (Autonomy Tools - Sensor Sim)",
-      "url": "https://jobright.ai/jobs/info/6ae2618f6679108488c4adb1",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1793195807,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2317f05a39c3e2c717c54",
-      "company": "Oracle",
-      "title": "[Remote] Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae2317f05a39c3e2c717c54",
-      "location": "United States",
-      "datePosted": 1793195351,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -512,6 +512,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a9eb151dacf777321a93040",
+      "company": "Rocket",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
+      "location": "Detroit, MI; Coppell, TX",
+      "datePosted": 1793188031,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abeb1c08ff3fb9b3bc751eb",
       "company": "Notion",
       "title": "Software Engineer, Mobile Core (Android)",
@@ -688,17 +699,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9eb151dacf777321a93040",
-      "company": "Rocket",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
-      "location": "Detroit, MI; Coppell, TX",
-      "datePosted": 1793185294,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae178536679108488c43d7b",
       "company": "Spectrum",
       "title": "2027 Summer Intern: Software Engineer",
@@ -762,7 +762,7 @@
       "datePosted": 1793145600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:899a6a36-b872-414e-bbce-aa5bc5b85fdc",
@@ -773,13 +773,35 @@
       "datePosted": 1793145600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d57ce697-9274-4176-85eb-5f6098fd3fc7",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer - Pathways Program",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160",
+      "location": "Aurora, CO",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:d1dc33d2-36e1-4f24-bd0b-d8b4f6e5694b",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern, First Play",
+      "url": "https://go.vansh.nyc/Y5",
+      "location": "Mountain View, CA",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:3637c742-c854-49e0-a6a5-96f39e054a6b",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer, Pathways Program",
+      "url": "https://go.vansh.nyc/Yn",
       "location": "Aurora, CO",
       "datePosted": 1793145600,
       "source": "aggregator",
@@ -1299,28 +1321,6 @@
       "url": "https://go.vansh.nyc/BJ",
       "location": "Hawthorne, CA",
       "datePosted": 1792973552,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b3b5266a-b857-4999-8c6f-daa45fa2c9e6",
-      "company": "Cohesity",
-      "title": "Software Engineer Intern",
-      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2",
-      "location": "Santa Clara, CA",
-      "datePosted": 1792972800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:af44a97e-7851-4c17-95b2-1f4d3f8e5d53",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern - Simulation & Robotics",
-      "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true",
-      "location": "San Mateo, CA",
-      "datePosted": 1792972800,
       "source": "aggregator",
       "season": null,
       "isNew": false
