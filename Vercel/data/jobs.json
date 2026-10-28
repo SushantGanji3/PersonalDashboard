@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T18:40:20Z",
-  "totalOpen": 1339,
-  "totalNewgrad": 224,
-  "totalOther": 1115,
+  "generatedAt": "2026-10-28T18:50:17Z",
+  "totalOpen": 1337,
+  "totalNewgrad": 223,
+  "totalOther": 1114,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -567,15 +567,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac57b664ac55253f5d77011",
+      "id": "newgrad-jobs:6ac57b69372c01f6cd73a07e",
       "company": "Optimum",
       "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac57b664ac55253f5d77011",
+      "url": "https://jobright.ai/jobs/info/6ac57b69372c01f6cd73a07e",
       "location": "Bethpage, NY",
       "datePosted": 1793173414,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a5ecd86470d4126fdeac0f4",
@@ -828,17 +828,6 @@
       "datePosted": 1793129086,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:387c364e-62ab-46b7-ab00-e4ab73cfdb92",
-      "company": "Micron",
-      "title": "AI Engineer Intern, Platform",
-      "url": "https://go.vansh.nyc/VX",
-      "location": "Boise, ID",
-      "datePosted": 1793120262,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     },
     {
@@ -1323,6 +1312,17 @@
       "datePosted": 1792886400,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:1a4f4af9-752d-49f3-a793-3e1c570b36e6",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+      "url": "https://go.vansh.nyc/BL",
+      "location": "San Mateo, CA",
+      "datePosted": 1792886400,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
