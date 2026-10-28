@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-28T05:10:16Z",
-  "totalOpen": 1322,
+  "generatedAt": "2026-10-28T05:20:16Z",
+  "totalOpen": 1323,
   "totalNewgrad": 198,
-  "totalOther": 1124,
+  "totalOther": 1125,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:4673c10a-17a5-43a2-8cf9-4072cb2048e6",
+      "company": "Boeing",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/X2",
+      "location": "Maryland Heights, MO",
+      "datePosted": 1793164040,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:3ca07823-9706-45cc-8542-c0aa2140bda4",
       "company": "Meta AI",
@@ -146,6 +157,17 @@
       "datePosted": 1793136558,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae178771f9d9308370aa8ce",
+      "company": "A Full Renovation \u2013 Home Improvement",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae178771f9d9308370aa8ce",
+      "location": "United States",
+      "datePosted": 1793136135,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -179,7 +201,18 @@
       "datePosted": 1793134755,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
+      "company": "Microsoft",
+      "title": "Software Engineer, Systems and Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
+      "location": "Bellevue, WA",
+      "datePosted": 1793134657,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aaed6562e757fcb5c8bc0d7",
@@ -200,17 +233,6 @@
       "location": "Santa Clara, CA",
       "datePosted": 1793131360,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
-      "company": "Microsoft",
-      "title": "Software Engineer, Systems and Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
-      "location": "Bellevue, WA",
-      "datePosted": 1793130721,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -380,10 +402,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1793121983,
       "source": "newgrad-jobs",
@@ -443,7 +465,7 @@
       "datePosted": 1793120400,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adf9c75065c4e77efaf9845",
@@ -815,17 +837,6 @@
       "url": "https://jobright.ai/jobs/info/6ace77e8ba99f15ef4124e4f",
       "location": "United States",
       "datePosted": 1793110060,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1124d1f9d9308370a767a",
-      "company": "Hadrian",
-      "title": "All Levels:  Frontend Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae1124d1f9d9308370a767a",
-      "location": "Torrance, CA; San Francisco Bay Area, CA, United States",
-      "datePosted": 1793109981,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1792803733,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:04de57b4-c180-4bcf-8af0-316c80728e03",
-      "company": "Figure AI",
-      "title": "Developer Productivity Intern",
-      "url": "https://go.vansh.nyc/hT",
-      "location": "San Jose, CA",
-      "datePosted": 1792801689,
-      "source": "aggregator",
-      "season": "Winter",
       "isNew": false
     }
   ]
