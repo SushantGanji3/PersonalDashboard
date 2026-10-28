@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-10-28T22:30:17Z",
+  "generatedAt": "2026-10-28T22:40:15Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:4b410012-08f3-48f8-8a2a-d71ca89a4191",
+      "company": "Amazon",
+      "title": "Software Developer Engineer - Product Knowledge Store",
+      "url": "https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store",
+      "location": "Seattle, WA, United States",
+      "datePosted": 1793226272,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227215
+    },
+    {
+      "id": "simplify:87a05892-5f38-4b25-9d6d-a2c15165936d",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - First Play",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
+      "location": "Mountain View, CA",
+      "datePosted": 1793224251,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227215
+    },
+    {
+      "id": "simplify:4c3c63fd-9eab-4478-bc80-4ee58d81be85",
+      "company": "Rubrik",
+      "title": "Software Engineer - Entra ID",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793222239,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227215
+    },
     {
       "id": "simplify:a861def9-f6e2-47b3-9cae-1269088eee33",
       "company": "Micron",
@@ -34,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793211617
+    },
+    {
+      "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
+      "company": "Glean",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
+      "location": "Mountain View, CA",
+      "datePosted": 1793208146,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227215
     },
     {
       "id": "newgrad-jobs:6ae267a805a39c3e2c71a245",
@@ -1332,6 +1376,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793174419
+    },
+    {
+      "id": "simplify:919323ab-0bec-4059-9bad-aa2b7fad6c40",
+      "company": "Micron",
+      "title": "Data Scientist Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
+      "location": "San Jose, CA, Folsom, CA",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227215
+    },
+    {
+      "id": "simplify:899a6a36-b872-414e-bbce-aa5bc5b85fdc",
+      "company": "Micron",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959",
+      "location": "Boise, ID",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227215
+    },
+    {
+      "id": "simplify:d57ce697-9274-4176-85eb-5f6098fd3fc7",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Pathways Program",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160",
+      "location": "Aurora, CO",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793227215
     },
     {
       "id": "newgrad-jobs:6ae19b001f9d9308370ab166",
@@ -49215,17 +49292,6 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1790668217
-    },
-    {
-      "id": "newgrad-jobs:6abb4d051acb8fc6f09c5878",
-      "company": "Leidos",
-      "title": "Embedded Flight Software Developer",
-      "url": "https://jobright.ai/jobs/info/6abb4d051acb8fc6f09c5878",
-      "location": "Huntsville, AL",
-      "datePosted": 1790634645,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790663418
     }
   ]
 }

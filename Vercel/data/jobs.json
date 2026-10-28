@@ -1,20 +1,42 @@
 {
-  "generatedAt": "2026-10-28T22:30:17Z",
-  "totalOpen": 1345,
-  "totalNewgrad": 231,
-  "totalOther": 1114,
+  "generatedAt": "2026-10-28T22:40:15Z",
+  "totalOpen": 1351,
+  "totalNewgrad": 230,
+  "totalOther": 1121,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "simplify:a861def9-f6e2-47b3-9cae-1269088eee33",
-      "company": "Micron",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://go.vansh.nyc/XW",
-      "location": "Boise, ID",
-      "datePosted": 1793214894,
+      "id": "simplify:4b410012-08f3-48f8-8a2a-d71ca89a4191",
+      "company": "Amazon",
+      "title": "Software Developer Engineer - Product Knowledge Store",
+      "url": "https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store",
+      "location": "Seattle, WA, United States",
+      "datePosted": 1793226272,
       "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:87a05892-5f38-4b25-9d6d-a2c15165936d",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - First Play",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
+      "location": "Mountain View, CA",
+      "datePosted": 1793224251,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:4c3c63fd-9eab-4478-bc80-4ee58d81be85",
+      "company": "Rubrik",
+      "title": "Software Engineer - Entra ID",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793222239,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:1839d642-6be7-46e2-b16a-7055bd0c2271",
@@ -28,24 +50,13 @@
       "isNew": false
     },
     {
-      "id": "simplify:9bc457ce-d971-45a7-879f-19590874023d",
+      "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
       "company": "Glean",
       "title": "Software Engineer",
-      "url": "https://go.vansh.nyc/XJ",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
       "location": "Mountain View, CA",
-      "datePosted": 1793209043,
+      "datePosted": 1793208146,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae267a805a39c3e2c71a245",
-      "company": "Rubrik",
-      "title": "Software Engineer - Entra ID",
-      "url": "https://jobright.ai/jobs/info/6ae267a805a39c3e2c71a245",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793197368,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -113,7 +124,7 @@
       "datePosted": 1793195807,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2317f05a39c3e2c717c54",
@@ -699,6 +710,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae21c446679108488c478f5",
+      "company": "Guidehouse",
+      "title": "Junior Developer",
+      "url": "https://jobright.ai/jobs/info/6ae21c446679108488c478f5",
+      "location": "Scott Air Force Base, IL",
+      "datePosted": 1793184526,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:4673c10a-17a5-43a2-8cf9-4072cb2048e6",
       "company": "Boeing",
       "title": "Software Engineer",
@@ -730,6 +752,39 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:919323ab-0bec-4059-9bad-aa2b7fad6c40",
+      "company": "Micron",
+      "title": "Data Scientist Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
+      "location": "San Jose, CA, Folsom, CA",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:899a6a36-b872-414e-bbce-aa5bc5b85fdc",
+      "company": "Micron",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959",
+      "location": "Boise, ID",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:d57ce697-9274-4176-85eb-5f6098fd3fc7",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Pathways Program",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160",
+      "location": "Aurora, CO",
+      "datePosted": 1793145600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:f3d2fc52-679b-4e73-843f-acf80903413e",
@@ -1268,61 +1323,6 @@
       "datePosted": 1792972800,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ed3c7432-cc98-43bc-8361-acf4b6d1672b",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern - Reinforcement Learning",
-      "url": "https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048/application?embed=true",
-      "location": "San Mateo, CA",
-      "datePosted": 1792972800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:efbcc264-9964-46e4-8c68-955da309af57",
-      "company": "RTX",
-      "title": "Engineer 1 - Software Engineer - Test Engineering",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792972800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bf110288-6bfb-43b4-b8dd-66c020222e16",
-      "company": "RTX",
-      "title": "Systems Engineer 1 - Datalinks",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1792972800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:90a334ec-5ca8-46e6-9f27-99aa1167595e",
-      "company": "Notion",
-      "title": "Software Engineer Intern, Mobile",
-      "url": "https://go.vansh.nyc/BF",
-      "location": "San Francisco, CA, New York, NY",
-      "datePosted": 1792917865,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:3e8d9753-7659-4467-b4f1-2f05cc19984f",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning",
-      "url": "https://go.vansh.nyc/BA",
-      "location": "San Mateo, CA",
-      "datePosted": 1792917752,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
