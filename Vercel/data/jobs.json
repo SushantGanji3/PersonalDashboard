@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T02:00:20Z",
+  "generatedAt": "2026-10-28T02:10:15Z",
   "totalOpen": 1325,
-  "totalNewgrad": 203,
-  "totalOther": 1122,
+  "totalNewgrad": 201,
+  "totalOther": 1124,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -147,6 +147,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae11cd567c31ab3489a0aa3",
+      "company": "ASML",
+      "title": "Internship - Frontend Developer",
+      "url": "https://jobright.ai/jobs/info/6ae11cd567c31ab3489a0aa3",
+      "location": "San Jose, CA",
+      "datePosted": 1793124326,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae1300cde23f466ec8bd1cb",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae1300cde23f466ec8bd1cb",
+      "location": "Greensboro, NC",
+      "datePosted": 1793123680,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae147636679108488c42826",
+      "company": "Precision Castparts",
+      "title": "AI Developer Co-op/Internship (January 2027)",
+      "url": "https://jobright.ai/jobs/info/6ae147636679108488c42826",
+      "location": "Portland, OR",
+      "datePosted": 1793123571,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae1467a67c31ab3489a1fef",
@@ -430,17 +463,6 @@
       "url": "https://jobright.ai/jobs/info/6ae130156679108488c41dae",
       "location": "Apopka, FL",
       "datePosted": 1793117605,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1300cde23f466ec8bd1cb",
-      "company": "Skyworks Solutions, Inc.",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ae1300cde23f466ec8bd1cb",
-      "location": "Greensboro, NC",
-      "datePosted": 1793117596,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -820,28 +842,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0c6abde23f466ec8b8519",
-      "company": "Visa",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
-      "url": "https://jobright.ai/jobs/info/6ae0c6abde23f466ec8b8519",
-      "location": "Denver, CO; Highlands Ranch, CO",
-      "datePosted": 1793105270,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a984018def18223c854e3ec",
-      "company": "Intel",
-      "title": "Software Engineering - Intern, Bachelor\u2019s",
-      "url": "https://jobright.ai/jobs/info/6a984018def18223c854e3ec",
-      "location": "Hillsboro, OR; Folsom, CA; Santa Clara, CA; Austin, TX; Phoenix, AZ",
-      "datePosted": 1793105052,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "company": "Lockheed Martin",
       "title": "Software Engineer Intern",
@@ -939,6 +939,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:bbafedf8-3027-4b87-9939-79a79a2b3655",
+      "company": "RTX",
+      "title": "Receiver \u2013 & Processing Architecture Software Engineer Intern - Exciter",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187",
+      "location": "Marlborough, MA",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
@@ -1310,17 +1321,6 @@
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
       "location": "SF, Remote in USA, NYC, Portland, OR, Remote in Canada",
       "datePosted": 1792796421,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a14ceb22-49c8-4897-9a3b-4ae3041a00fc",
-      "company": "Microsoft",
-      "title": "Software Engineer Intern - Security & Identity",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-      "location": "United States",
-      "datePosted": 1792795219,
       "source": "aggregator",
       "season": null,
       "isNew": false
