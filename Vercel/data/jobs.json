@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:30:16Z",
+  "generatedAt": "2026-10-28T03:40:15Z",
   "totalOpen": 1325,
   "totalNewgrad": 201,
   "totalOther": 1124,
@@ -127,6 +127,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aaed6562e757fcb5c8bc0d7",
+      "company": "Raydar",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aaed6562e757fcb5c8bc0d7",
+      "location": "New York, NY",
+      "datePosted": 1793131580,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:381941df-e6ee-4990-b876-393cba188d6c",
       "company": "NVIDIA",
       "title": "New Grad 2027: Deep Learning Performance Architect",
@@ -134,6 +145,50 @@
       "location": "Santa Clara, CA",
       "datePosted": 1793131360,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae1657a1f9d9308370aa2c6",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae1657a1f9d9308370aa2c6",
+      "location": "Frisco, TX",
+      "datePosted": 1793131274,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
+      "company": "Microsoft",
+      "title": "Software Engineer, Systems and Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
+      "location": "Bellevue, WA",
+      "datePosted": 1793130721,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae145ed67c31ab3489a1f84",
+      "company": "Tesla",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae145ed67c31ab3489a1f84",
+      "location": "Fremont, CA",
+      "datePosted": 1793130191,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acdbbc52bd01b08973f10ad",
+      "company": "Supermicro",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6acdbbc52bd01b08973f10ad",
+      "location": "San Jose, CA",
+      "datePosted": 1793130159,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -182,34 +237,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
-      "company": "Microsoft",
-      "title": "Software Engineer, Systems and Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
-      "location": "Bellevue, WA",
-      "datePosted": 1793126579,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae11cd567c31ab3489a0aa3",
       "company": "ASML",
       "title": "Internship - Frontend Developer",
       "url": "https://jobright.ai/jobs/info/6ae11cd567c31ab3489a0aa3",
       "location": "San Jose, CA",
       "datePosted": 1793124326,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae149291f9d9308370a9340",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae149291f9d9308370a9340",
-      "location": "Frisco, TX",
-      "datePosted": 1793124025,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -248,17 +281,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae145ed67c31ab3489a1f84",
-      "company": "Tesla",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae145ed67c31ab3489a1f84",
-      "location": "Fremont, CA",
-      "datePosted": 1793123197,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae1455767c31ab3489a1eec",
       "company": "Bending Spoons",
       "title": "Security engineer, US",
@@ -276,17 +298,6 @@
       "url": "https://jobright.ai/jobs/info/6ae1453905a39c3e2c7116d9",
       "location": "Pittsfield, MA",
       "datePosted": 1793123017,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acdbbc52bd01b08973f10ad",
-      "company": "Supermicro",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6acdbbc52bd01b08973f10ad",
-      "location": "San Jose, CA",
-      "datePosted": 1793122967,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -419,17 +430,6 @@
       "url": "https://jobright.ai/jobs/info/6ae139a967c31ab3489a19f0",
       "location": "United States",
       "datePosted": 1793120057,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0b881829a3bada15f631f",
-      "company": "Optum",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae0b881829a3bada15f631f",
-      "location": "United States",
-      "datePosted": 1793119900,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
