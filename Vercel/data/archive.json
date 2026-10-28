@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:30:18Z",
+  "generatedAt": "2026-10-28T09:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -1244,6 +1244,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793127017
+    },
+    {
+      "id": "newgrad-jobs:6ae1ad6fde23f466ec8bfdc4",
+      "company": "Intezra, Inc.",
+      "title": "Junior Cyber Operator / Developer / Analyst",
+      "url": "https://jobright.ai/jobs/info/6ae1ad6fde23f466ec8bfdc4",
+      "location": "Columbia, MD",
+      "datePosted": 1793098904,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793180416
     },
     {
       "id": "newgrad-jobs:6ae0e60667c31ab34899e581",
@@ -48764,17 +48775,6 @@
       "source": "newgrad-jobs",
       "season": "Fall",
       "firstSeenAt": 1790619619
-    },
-    {
-      "id": "newgrad-jobs:6a422690d528ac2915f98436",
-      "company": "SpaceX",
-      "title": "Flight Software Engineer (Starlink Mobile)",
-      "url": "https://jobright.ai/jobs/info/6a422690d528ac2915f98436",
-      "location": "Redmond, WA",
-      "datePosted": 1790588013,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790617217
     }
   ]
 }
