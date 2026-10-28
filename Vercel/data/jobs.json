@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T13:40:15Z",
-  "totalOpen": 1323,
-  "totalNewgrad": 202,
+  "generatedAt": "2026-10-28T13:50:15Z",
+  "totalOpen": 1325,
+  "totalNewgrad": 204,
   "totalOther": 1121,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -12,6 +12,28 @@
       "url": "https://jobright.ai/jobs/info/6ae1f1fd05a39c3e2c714dd0",
       "location": "Frisco, TX",
       "datePosted": 1793167245,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1793167027,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa8ad0c83a6750b1adf9833",
+      "company": "CNA Insurance",
+      "title": "Technology Internship Program (Software Engineering)",
+      "url": "https://jobright.ai/jobs/info/6aa8ad0c83a6750b1adf9833",
+      "location": "Chicago, IL",
+      "datePosted": 1793166869,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -28,15 +50,59 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae1eb27de23f466ec8c0d03",
+      "id": "newgrad-jobs:6ae1eb2a05a39c3e2c714ac6",
       "company": "Ace Hardware Corporation",
       "title": "IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)",
-      "url": "https://jobright.ai/jobs/info/6ae1eb27de23f466ec8c0d03",
+      "url": "https://jobright.ai/jobs/info/6ae1eb2a05a39c3e2c714ac6",
       "location": "Oak Brook, IL",
-      "datePosted": 1793165495,
+      "datePosted": 1793166001,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac5a7fa0e027c0f3b3afc72",
+      "company": "Sigma",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac5a7fa0e027c0f3b3afc72",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1793165900,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae0da045a5afc94bd2c805e",
+      "company": "Micron",
+      "title": "Intern -  AI Engineer Platform",
+      "url": "https://jobright.ai/jobs/info/6ae0da045a5afc94bd2c805e",
+      "location": "Boise, ID",
+      "datePosted": 1793165771,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac506158ff3fb9b3bc8715c",
+      "company": "Vertiv",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac506158ff3fb9b3bc8715c",
+      "location": "Delaware, OH",
+      "datePosted": 1793165266,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa991b009ae03adcacddd21",
+      "company": "Anduril",
+      "title": "Winter 2027 Systems Engineer Co-op",
+      "url": "https://jobright.ai/jobs/info/6aa991b009ae03adcacddd21",
+      "location": "Quincy, MA",
+      "datePosted": 1793165101,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac51f3f4ac55253f5d74968",
@@ -732,39 +798,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
-      "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
-      "location": "Chandler, AZ",
-      "datePosted": 1793134755,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
-      "company": "Microsoft",
-      "title": "Software Engineer, Systems and Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
-      "location": "Bellevue, WA",
-      "datePosted": 1793134657,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaed6562e757fcb5c8bc0d7",
-      "company": "Raydar",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aaed6562e757fcb5c8bc0d7",
-      "location": "New York, NY",
-      "datePosted": 1793132250,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:381941df-e6ee-4990-b876-393cba188d6c",
       "company": "NVIDIA",
       "title": "New Grad 2027: Deep Learning Performance Architect",
@@ -772,39 +805,6 @@
       "location": "Santa Clara, CA",
       "datePosted": 1793131360,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae145ed67c31ab3489a1f84",
-      "company": "Tesla",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae145ed67c31ab3489a1f84",
-      "location": "Fremont, CA",
-      "datePosted": 1793130191,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acdbbc52bd01b08973f10ad",
-      "company": "Supermicro",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6acdbbc52bd01b08973f10ad",
-      "location": "San Jose, CA",
-      "datePosted": 1793130159,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4cb9dec643fd23fed3ad6d",
-      "company": "TikTok",
-      "title": "Software Engineer Project Intern (Platform efficiency) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6a4cb9dec643fd23fed3ad6d",
-      "location": "San Jose, CA",
-      "datePosted": 1793129642,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
