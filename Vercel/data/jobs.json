@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T08:00:19Z",
-  "totalOpen": 1322,
+  "generatedAt": "2026-10-28T08:10:16Z",
+  "totalOpen": 1319,
   "totalNewgrad": 193,
-  "totalOther": 1129,
+  "totalOther": 1126,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1793145694,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae1215205a39c3e2c7104c8",
@@ -58,7 +58,7 @@
       "datePosted": 1793144976,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae1876267c31ab3489a3b40",
@@ -1172,17 +1172,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:54c6c262-2f23-4e23-9281-09171536e781",
-      "company": "Apple",
-      "title": "Software Engineer Intern, Core OS",
-      "url": "https://go.vansh.nyc/W1",
-      "location": "United States",
-      "datePosted": 1793024849,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:156210c1-2f89-493f-84a0-6fe92df85f38",
       "company": "L3Harris",
       "title": "Associate, Software Engineering",
@@ -1323,6 +1312,17 @@
       "datePosted": 1792886400,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:1a4f4af9-752d-49f3-a793-3e1c570b36e6",
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+      "url": "https://go.vansh.nyc/BL",
+      "location": "San Mateo, CA",
+      "datePosted": 1792886400,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
