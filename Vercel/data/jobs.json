@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-28T16:00:20Z",
-  "totalOpen": 1329,
-  "totalNewgrad": 209,
+  "generatedAt": "2026-10-28T16:10:17Z",
+  "totalOpen": 1328,
+  "totalNewgrad": 208,
   "totalOther": 1120,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a5ecd86470d4126fdeac0f4",
+      "company": "Kargo",
+      "title": "Software Engineer, Edge",
+      "url": "https://jobright.ai/jobs/info/6a5ecd86470d4126fdeac0f4",
+      "location": "San Francisco, CA",
+      "datePosted": 1793172587,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac57a990e027c0f3b3af4b1",
+      "company": "Sigma",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ac57a990e027c0f3b3af4b1",
+      "location": "New York, NY; San Francisco, CA",
+      "datePosted": 1793172115,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa95db5eff87f571fc99590",
+      "company": "apexanalytix",
+      "title": "Automation Developer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa95db5eff87f571fc99590",
+      "location": "Greensboro, NC",
+      "datePosted": 1793171944,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8ddb0ea5639a4810328145",
+      "company": "Verkada",
+      "title": "Security Software Engineering Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6a8ddb0ea5639a4810328145",
+      "location": "San Mateo, CA",
+      "datePosted": 1793171931,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a8ddb11a5639a4810328147",
       "company": "Verkada",
@@ -149,17 +193,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac5a7fa0e027c0f3b3afc72",
-      "company": "Sigma",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac5a7fa0e027c0f3b3afc72",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1793165900,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae0da045a5afc94bd2c805e",
       "company": "Micron",
       "title": "Intern -  AI Engineer Platform",
@@ -212,17 +245,6 @@
       "datePosted": 1793164104,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1aa8b1f9d9308370ab31c",
-      "company": "VSP Vision",
-      "title": "Internship, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae1aa8b1f9d9308370ab31c",
-      "location": "United States",
-      "datePosted": 1793164089,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -567,6 +589,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae1903f67c31ab3489a3d01",
+      "company": "VSP Vision",
+      "title": "Internship, Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae1903f67c31ab3489a3d01",
+      "location": "United States",
+      "datePosted": 1793148313,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a5117188d7d3e6cf1cbec98",
       "company": "Verition",
       "title": "Quantitative Developer",
@@ -688,28 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae10af167c31ab34899fe4c",
-      "company": "Viasat",
-      "title": "Software Engineer - Automation, Early Career",
-      "url": "https://jobright.ai/jobs/info/6ae10af167c31ab34899fe4c",
-      "location": "Carlsbad, CA",
-      "datePosted": 1793140527,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a96b8ee246d697dcee010ec",
-      "company": "Viasat",
-      "title": "Embedded Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6a96b8ee246d697dcee010ec",
-      "location": "Carlsbad, CA",
-      "datePosted": 1793140078,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e50fa178-851f-4e56-89df-f9ac78ff23a4",
       "company": "Meta AI",
       "title": "Research Scientist Intern - Video Generation Self-Improvement",
@@ -772,17 +783,6 @@
       "location": "Redmond, WA",
       "datePosted": 1793139864,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
-      "company": "MANTECH",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
-      "location": "Saint Inigoes, MD",
-      "datePosted": 1793139675,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
