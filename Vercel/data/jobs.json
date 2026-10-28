@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-28T01:30:18Z",
-  "totalOpen": 1326,
+  "generatedAt": "2026-10-28T01:40:16Z",
+  "totalOpen": 1329,
   "totalNewgrad": 207,
-  "totalOther": 1119,
+  "totalOther": 1122,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:3ca07823-9706-45cc-8542-c0aa2140bda4",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Ads Recommendations",
+      "url": "https://www.metacareers.com/jobs/1691709792593561",
+      "location": "Menlo Park, CA",
+      "datePosted": 1793150523,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:f3d2fc52-679b-4e73-843f-acf80903413e",
       "company": "RTX",
@@ -963,6 +974,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:92ed232b-c9f2-451b-b0ce-31ae57ae6118",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
+      "location": "Redondo Beach, CA, Palmdale, CA, San Diego, CA, El Segundo, CA",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:abd1a870-00ac-4b82-b7c4-10d23ce9014c",
       "company": "Northrop Grumman",
       "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
@@ -1048,17 +1070,6 @@
       "datePosted": 1793046983,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
-      "company": "ServiceNow",
-      "title": "Software Engineer New Grad - AI/ML",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
-      "location": "Mountain View, CA",
-      "datePosted": 1793043857,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
       "location": "United States",
       "datePosted": 1792795219,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9ee09be0-74d4-4f17-be8c-6ee90eefdb45",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - AI Core Machine Learning",
-      "url": "https://www.metacareers.com/jobs/1648122343381284",
-      "location": "Seattle, WA, Bellevue, WA, Sunnyvale, CA",
-      "datePosted": 1792793130,
       "source": "aggregator",
       "season": null,
       "isNew": false
