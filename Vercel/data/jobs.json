@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T17:50:17Z",
-  "totalOpen": 1326,
-  "totalNewgrad": 212,
+  "generatedAt": "2026-10-28T18:00:19Z",
+  "totalOpen": 1329,
+  "totalNewgrad": 215,
   "totalOther": 1114,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793178652,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfe2b6c5c64fa3d9cc09f9",
@@ -25,7 +25,7 @@
       "datePosted": 1793178205,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ace8171a0453f9ba62492f0",
@@ -36,7 +36,18 @@
       "datePosted": 1793178107,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
+      "location": "Fort Worth, TX; Marietta, GA",
+      "datePosted": 1793178103,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae21092829a3bada1600ad1",
@@ -47,7 +58,7 @@
       "datePosted": 1793177910,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfa517fe7a9bd5a6b99229",
@@ -58,7 +69,51 @@
       "datePosted": 1793177771,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac530b10e027c0f3b3ad6f8",
+      "company": "Rubrik",
+      "title": "Software Engineer - Product Platform Security",
+      "url": "https://jobright.ai/jobs/info/6ac530b10e027c0f3b3ad6f8",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793177421,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae0ccfede23f466ec8b8896",
+      "company": "Amazon",
+      "title": "Data Engineer I , WW Ops Finance S&A",
+      "url": "https://jobright.ai/jobs/info/6ae0ccfede23f466ec8b8896",
+      "location": "Bellevue, WA",
+      "datePosted": 1793177382,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
+      "datePosted": 1793177378,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae1124d1f9d9308370a767a",
+      "company": "Hadrian",
+      "title": "All Levels:  Frontend Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae1124d1f9d9308370a767a",
+      "location": "Torrance, CA; San Francisco Bay Area, CA, United States",
+      "datePosted": 1793177250,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae0b8b7829a3bada15f6348",
@@ -67,6 +122,17 @@
       "url": "https://jobright.ai/jobs/info/6ae0b8b7829a3bada15f6348",
       "location": "Poughkeepsie, NY",
       "datePosted": 1793177044,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac510d68ff3fb9b3bc8759c",
+      "company": "True Anomaly",
+      "title": "Software Engineer I to III, Digital Engineering",
+      "url": "https://jobright.ai/jobs/info/6ac510d68ff3fb9b3bc8759c",
+      "location": "Denver, CO; Long Beach, CA",
+      "datePosted": 1793177011,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -80,7 +146,7 @@
       "datePosted": 1793176949,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae217c96679108488c475be",
@@ -91,7 +157,7 @@
       "datePosted": 1793176921,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae21568eb7e8f715a609e30",
@@ -168,17 +234,6 @@
       "datePosted": 1793174794,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ae20e2005a39c3e2c715fef",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae20e2005a39c3e2c715fef",
-      "location": "Frisco, TX",
-      "datePosted": 1793174448,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -191,6 +246,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada441de4b94611ab85ac09",
+      "company": "Trideum Corporation",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ada441de4b94611ab85ac09",
+      "location": "Fort Belvoir, VA",
+      "datePosted": 1793173781,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac57b664ac55253f5d77011",
@@ -210,17 +276,6 @@
       "url": "https://jobright.ai/jobs/info/6a5ecd86470d4126fdeac0f4",
       "location": "San Francisco, CA",
       "datePosted": 1793172587,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0ccfede23f466ec8b8896",
-      "company": "Amazon",
-      "title": "Data Engineer I , WW Ops Finance S&A",
-      "url": "https://jobright.ai/jobs/info/6ae0ccfede23f466ec8b8896",
-      "location": "Bellevue, WA",
-      "datePosted": 1793172237,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -336,15 +391,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac530b10e027c0f3b3ad6f8",
-      "company": "Rubrik",
-      "title": "Software Engineer - Product Platform Security",
-      "url": "https://jobright.ai/jobs/info/6ac530b10e027c0f3b3ad6f8",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793170413,
+      "id": "newgrad-jobs:6ac5cb174ac55253f5d78277",
+      "company": "Siemens EDA (Siemens Digital Industries Software)",
+      "title": "Software Engineer - C++ / Compiler",
+      "url": "https://jobright.ai/jobs/info/6ac5cb174ac55253f5d78277",
+      "location": "Burlington, MA",
+      "datePosted": 1793169835,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa991b510b1cd4f4160672e",
@@ -567,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0bcce1f9d9308370a36e7",
+      "id": "newgrad-jobs:6ae0bcbdde23f466ec8b804d",
       "company": "CACI International Inc",
       "title": "Software Developer and IT Tech Professional",
-      "url": "https://jobright.ai/jobs/info/6ae0bcce1f9d9308370a36e7",
+      "url": "https://jobright.ai/jobs/info/6ae0bcbdde23f466ec8b804d",
       "location": "Bethesda, MD",
       "datePosted": 1793160184,
       "source": "newgrad-jobs",
@@ -617,61 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6aa9c3e03387a3d9b67d6b2e",
       "location": "Austin, TX",
       "datePosted": 1793158189,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a2f9ba289f8f147d373233e",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer, TikTok Core Feed Recommendation - Dedup",
-      "url": "https://jobright.ai/jobs/info/6a2f9ba289f8f147d373233e",
-      "location": "San Jose, CA",
-      "datePosted": 1793158118,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0ef6f1f9d9308370a5cb5",
-      "company": "Minuteman Security & Life Safety",
-      "title": "Solutions Developer I",
-      "url": "https://jobright.ai/jobs/info/6ae0ef6f1f9d9308370a5cb5",
-      "location": "Manchester, NH",
-      "datePosted": 1793158051,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0ba4d1f9d9308370a3579",
-      "company": "RTX",
-      "title": "Flight Control Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ae0ba4d1f9d9308370a3579",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1793157662,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027) - Austin, TX",
-      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
-      "location": "Austin, TX",
-      "datePosted": 1793157279,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb85dec5c64fa3d9cafc3c",
-      "company": "College of DuPage",
-      "title": "Programmer Analyst I (FT), CF4E40012IS",
-      "url": "https://jobright.ai/jobs/info/6adb85dec5c64fa3d9cafc3c",
-      "location": "Glen Ellyn, IL",
-      "datePosted": 1793156825,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
