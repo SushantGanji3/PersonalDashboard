@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:50:16Z",
+  "generatedAt": "2026-10-28T06:00:22Z",
   "totalOpen": 1323,
   "totalNewgrad": 198,
   "totalOther": 1125,
@@ -136,6 +136,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae17d856679108488c43f83",
+      "company": "Cortrucent Security",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae17d856679108488c43f83",
+      "location": "Berlin, NJ",
+      "datePosted": 1793137429,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae12efcde23f466ec8bd129",
@@ -402,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1793121983,
       "source": "newgrad-jobs",
@@ -633,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0f44b829a3bada15f905a",
+      "id": "newgrad-jobs:6ae0f44005a39c3e2c70e811",
       "company": "Amentum",
       "title": "C/C++Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae0f44b829a3bada15f905a",
+      "url": "https://jobright.ai/jobs/info/6ae0f44005a39c3e2c70e811",
       "location": "Dahlgren, VA",
       "datePosted": 1793117377,
       "source": "newgrad-jobs",
@@ -826,17 +837,6 @@
       "url": "https://jobright.ai/jobs/info/6ae113841f9d9308370a776b",
       "location": "Reston, VA",
       "datePosted": 1793110292,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace77e8ba99f15ef4124e4f",
-      "company": "Constructive Dialogue Institute",
-      "title": "Software Engineer (Early Career)",
-      "url": "https://jobright.ai/jobs/info/6ace77e8ba99f15ef4124e4f",
-      "location": "United States",
-      "datePosted": 1793110060,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

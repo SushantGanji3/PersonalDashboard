@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:50:16Z",
+  "generatedAt": "2026-10-28T06:00:22Z",
   "windowDays": 30,
   "items": [
     {
@@ -133,6 +133,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793140815
+    },
+    {
+      "id": "newgrad-jobs:6ae17d856679108488c43f83",
+      "company": "Cortrucent Security",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae17d856679108488c43f83",
+      "location": "Berlin, NJ",
+      "datePosted": 1793137429,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793167222
     },
     {
       "id": "newgrad-jobs:6ae17a1e1f9d9308370aa902",
@@ -48829,17 +48840,6 @@
       "datePosted": 1790575287,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "firstSeenAt": 1790602816
-    },
-    {
-      "id": "newgrad-jobs:6aba63acd2914e9273eeb1c5",
-      "company": "Torentify",
-      "title": "Full Stack Developer, AI  (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aba63acd2914e9273eeb1c5",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1790574908,
-      "source": "newgrad-jobs",
-      "season": null,
       "firstSeenAt": 1790602816
     }
   ]
