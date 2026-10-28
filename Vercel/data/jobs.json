@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T03:40:15Z",
-  "totalOpen": 1325,
-  "totalNewgrad": 201,
+  "generatedAt": "2026-10-28T03:50:15Z",
+  "totalOpen": 1322,
+  "totalNewgrad": 198,
   "totalOther": 1124,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -135,7 +135,7 @@
       "datePosted": 1793131580,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:381941df-e6ee-4990-b876-393cba188d6c",
@@ -157,7 +157,7 @@
       "datePosted": 1793131274,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae12c2567c31ab3489a132e",
@@ -413,11 +413,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a96257bc8763a3a87ffebef",
+      "id": "newgrad-jobs:6ae1045c829a3bada15f9a54",
       "company": "Emerson",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a96257bc8763a3a87ffebef",
-      "location": "Houston, TX; Shakopee, MN",
+      "url": "https://jobright.ai/jobs/info/6ae1045c829a3bada15f9a54",
+      "location": "Austin, TX",
       "datePosted": 1793120186,
       "source": "newgrad-jobs",
       "season": null,
@@ -430,6 +430,17 @@
       "url": "https://jobright.ai/jobs/info/6ae139a967c31ab3489a19f0",
       "location": "United States",
       "datePosted": 1793120057,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae0b881829a3bada15f631f",
+      "company": "Optum",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae0b881829a3bada15f631f",
+      "location": "United States",
+      "datePosted": 1793119900,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -815,17 +826,6 @@
       "url": "https://jobright.ai/jobs/info/6ae10f05829a3bada15fa277",
       "location": "Azusa, CA",
       "datePosted": 1793109141,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1793108867,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
