@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:00:20Z",
+  "generatedAt": "2026-10-29T10:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,39 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793254817
+    },
+    {
+      "id": "newgrad-jobs:6ae30daefb2cd420ace4eb7d",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae30daefb2cd420ace4eb7d",
+      "location": "Albuquerque, NM",
+      "datePosted": 1793239870,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793268616
+    },
+    {
+      "id": "newgrad-jobs:6ae30b2bd7424a2a828dd957",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ae30b2bd7424a2a828dd957",
+      "location": "New Jersey, United States",
+      "datePosted": 1793239227,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793268616
+    },
+    {
+      "id": "newgrad-jobs:6ae30b1beab1f96730971d0f",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae30b1beab1f96730971d0f",
+      "location": "Frisco, TX",
+      "datePosted": 1793239211,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793268616
     },
     {
       "id": "newgrad-jobs:6a55c7e0fdf4fa71202b4f62",
@@ -49523,39 +49556,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790703616
-    },
-    {
-      "id": "newgrad-jobs:6abbf0da92b2612ef0f8bc0e",
-      "company": "Mission Technologies, a division of HII",
-      "title": "Summer 2027 Internship - Software Engineer (Hybrid) - 30268 Job Details | HII's Mission Technologies division",
-      "url": "https://jobright.ai/jobs/info/6abbf0da92b2612ef0f8bc0e",
-      "location": "Columbia, MD",
-      "datePosted": 1790676586,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790703616
-    },
-    {
-      "id": "newgrad-jobs:6a978f0bb22f636c814184bc",
-      "company": "Koch Engineered Solutions",
-      "title": "Fall 2026 - Software Engineer Co-Op",
-      "url": "https://jobright.ai/jobs/info/6a978f0bb22f636c814184bc",
-      "location": "Wichita, KS",
-      "datePosted": 1790676306,
-      "source": "newgrad-jobs",
-      "season": "Fall 2026",
-      "firstSeenAt": 1790709617
-    },
-    {
-      "id": "newgrad-jobs:6abbe8033217d1d13329bbc5",
-      "company": "Avista",
-      "title": "Integrations Developer",
-      "url": "https://jobright.ai/jobs/info/6abbe8033217d1d13329bbc5",
-      "location": "Spokane, WA",
-      "datePosted": 1790676140,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790704821
     }
   ]
 }

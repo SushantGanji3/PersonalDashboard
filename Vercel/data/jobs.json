@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:00:20Z",
+  "generatedAt": "2026-10-29T10:10:16Z",
   "totalOpen": 1371,
   "totalNewgrad": 245,
   "totalOther": 1126,
@@ -26,6 +26,50 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae30daefb2cd420ace4eb7d",
+      "company": "Booz Allen Hamilton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae30daefb2cd420ace4eb7d",
+      "location": "Albuquerque, NM",
+      "datePosted": 1793239870,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adbc2310a4cc7090f974930",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern - Labs (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adbc2310a4cc7090f974930",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "datePosted": 1793239378,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae30b2bd7424a2a828dd957",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ae30b2bd7424a2a828dd957",
+      "location": "New Jersey, United States",
+      "datePosted": 1793239227,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae30b1beab1f96730971d0f",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae30b1beab1f96730971d0f",
+      "location": "Frisco, TX",
+      "datePosted": 1793239211,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a55c7e0fdf4fa71202b4f62",
@@ -716,50 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ae27a59829a3bada16056cc",
       "location": "Redmond, WA",
       "datePosted": 1793206885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae27b8905a39c3e2c71ada5",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, Multimedia (NTD)",
-      "url": "https://jobright.ai/jobs/info/6ae27b8905a39c3e2c71ada5",
-      "location": "Redmond, WA",
-      "datePosted": 1793206881,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae277c3829a3bada1605503",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, CPU Profiler (NTD)",
-      "url": "https://jobright.ai/jobs/info/6ae277c3829a3bada1605503",
-      "location": "Redmond, WA",
-      "datePosted": 1793206872,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2f797684c93aab88cba87",
-      "company": "KLA",
-      "title": "System Software Engineer - Distributed Computing",
-      "url": "https://jobright.ai/jobs/info/6ae2f797684c93aab88cba87",
-      "location": "Milpitas, CA",
-      "datePosted": 1793206800,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaae26176707040fb082db2",
-      "company": "Quantbot Technologies LP",
-      "title": "Quantitative Developer Internship - 2027 [New York]",
-      "url": "https://jobright.ai/jobs/info/6aaae26176707040fb082db2",
-      "location": "New York, NY",
-      "datePosted": 1793206790,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
