@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:30:20Z",
+  "generatedAt": "2026-10-29T14:40:15Z",
   "totalOpen": 1371,
   "totalNewgrad": 243,
   "totalOther": 1128,
@@ -25,7 +25,7 @@
       "datePosted": 1793255466,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aaaec8576707040fb083192",
@@ -47,7 +47,7 @@
       "datePosted": 1793254289,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa8275a82e82a31997c42f0",
@@ -303,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9b81aeff87f571fc9af06",
+      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
       "company": "Q2",
       "title": "2027 Summer Internship - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa9b81aeff87f571fc9af06",
+      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
       "location": "Austin, TX; Cary, NC",
       "datePosted": 1793244761,
       "source": "newgrad-jobs",
@@ -444,6 +444,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:6f288574-280b-4364-8224-4e4a2586171e",
+      "company": "RTX",
+      "title": "Software Security Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443",
+      "location": "El Segundo, CA",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a44e68a824ecd73beef1a4e",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793042795,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:89bca250-ab21-474c-b928-0ef143615731",
-      "company": "Northrop Grumman",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/ST",
-      "location": "Beavercreek, OH",
-      "datePosted": 1793038864,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]

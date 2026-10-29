@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:30:20Z",
+  "generatedAt": "2026-10-29T14:40:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -287,6 +287,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793266219
+    },
+    {
+      "id": "simplify:6f288574-280b-4364-8224-4e4a2586171e",
+      "company": "RTX",
+      "title": "Software Security Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443",
+      "location": "El Segundo, CA",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793284815
     },
     {
       "id": "newgrad-jobs:6ae2eee01c3cd4b406087f8b",
@@ -49204,28 +49215,6 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1790721616
-    },
-    {
-      "id": "newgrad-jobs:6abc2f4c92b2612ef0f8d921",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abc2f4c92b2612ef0f8d921",
-      "location": "Santa Rosa, CA",
-      "datePosted": 1790692572,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790720419
-    },
-    {
-      "id": "newgrad-jobs:6abc2e11a9a644f96568ad24",
-      "company": "BDO USA",
-      "title": "Associate Systems Engineer (Hybrid Cloud)",
-      "url": "https://jobright.ai/jobs/info/6abc2e11a9a644f96568ad24",
-      "location": "Grand Rapids, MI",
-      "datePosted": 1790692257,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790720419
     }
   ]
 }
