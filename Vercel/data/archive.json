@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-29T15:10:16Z",
+  "generatedAt": "2026-10-29T15:20:16Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "simplify:eedc87ed-7d87-43f8-affb-6bb5fc12eaad",
+      "company": "Microsoft",
+      "title": "Applied Scientist Intern, Turing",
+      "url": "https://go.vansh.nyc/Z4",
+      "location": "Redmond, WA",
+      "datePosted": 1793282793,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1793287216
+    },
     {
       "id": "simplify:92028585-06ce-429a-8702-8cc1d5ce13f5",
       "company": "Tesla",
@@ -804,6 +815,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793269818
+    },
+    {
+      "id": "newgrad-jobs:6ae34cfbc3139b475b5abd5d",
+      "company": "RTX",
+      "title": "Software Security Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ae34cfbc3139b475b5abd5d",
+      "location": "El Segundo, CA",
+      "datePosted": 1793206800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793287216
     },
     {
       "id": "newgrad-jobs:6aaae26176707040fb082db2",
