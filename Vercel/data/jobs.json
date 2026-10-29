@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:10:16Z",
+  "generatedAt": "2026-10-29T12:20:15Z",
   "totalOpen": 1372,
   "totalNewgrad": 245,
   "totalOther": 1127,
@@ -47,17 +47,6 @@
       "datePosted": 1793248413,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ae2e2f1e37c39926d3b4159",
-      "company": "Instrumental Inc.",
-      "title": "Backend Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae2e2f1e37c39926d3b4159",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793248195,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -69,7 +58,7 @@
       "datePosted": 1793248105,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae32a70eab1f967309723d5",
@@ -116,15 +105,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae3115efb2cd420ace4ec52",
+      "id": "newgrad-jobs:6ae2f797684c93aab88cba87",
       "company": "KLA",
       "title": "System Software Engineer - Distributed Computing",
-      "url": "https://jobright.ai/jobs/info/6ae3115efb2cd420ace4ec52",
+      "url": "https://jobright.ai/jobs/info/6ae2f797684c93aab88cba87",
       "location": "Milpitas, CA",
       "datePosted": 1793246255,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6a518372c01f6cd73e5cc",
@@ -364,6 +353,17 @@
       "url": "https://jobright.ai/jobs/info/6ae2e462e37c39926d3b419c",
       "location": "United States",
       "datePosted": 1793229298,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae2e2f1e37c39926d3b4159",
+      "company": "Instrumental Inc.",
+      "title": "Backend Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2e2f1e37c39926d3b4159",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793228929,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
