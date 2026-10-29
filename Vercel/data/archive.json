@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:20:16Z",
+  "generatedAt": "2026-10-29T01:30:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -2421,6 +2421,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1793233216
+    },
+    {
+      "id": "newgrad-jobs:6ae294ff6679108488c4c6e5",
+      "company": "Raydar",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae294ff6679108488c4c6e5",
+      "location": "San Francisco, CA",
+      "datePosted": 1793120400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793237417
     },
     {
       "id": "simplify:387c364e-62ab-46b7-ab00-e4ab73cfdb92",
@@ -49556,17 +49567,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790674219
-    },
-    {
-      "id": "simplify:23dfd8e4-f91c-43b3-87fc-4ea57c85e129",
-      "company": "SpaceX",
-      "title": "Software Engineer New Grad - Software - Starfall",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002",
-      "location": "Hawthorne, CA",
-      "datePosted": 1790645193,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790647817
     }
   ]
 }
