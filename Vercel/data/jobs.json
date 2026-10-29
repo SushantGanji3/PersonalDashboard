@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T09:20:16Z",
-  "totalOpen": 1368,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-10-29T09:30:19Z",
+  "totalOpen": 1370,
+  "totalNewgrad": 244,
   "totalOther": 1126,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,28 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a55c7e0fdf4fa71202b4f62",
+      "company": "Opendoor",
+      "title": "Applied Scientist AI/ML",
+      "url": "https://jobright.ai/jobs/info/6a55c7e0fdf4fa71202b4f62",
+      "location": "Seattle, WA",
+      "datePosted": 1793239017,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a606491cf6cf477a0560c47",
+      "company": "TikTok",
+      "title": "(General Hire) Machine Learning Engineer (all levels) , TikTok Recommendation",
+      "url": "https://jobright.ai/jobs/info/6a606491cf6cf477a0560c47",
+      "location": "San Jose, CA",
+      "datePosted": 1793237433,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae2ca89d52406f6fbf738af",
@@ -738,28 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ae24b7deb7e8f715a60c635",
       "location": "San Mateo, CA; New York, NY",
       "datePosted": 1793206568,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae22a8205a39c3e2c717643",
-      "company": "Priceline",
-      "title": "Junior Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae22a8205a39c3e2c717643",
-      "location": "New York, NY",
-      "datePosted": 1793206479,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae263b805a39c3e2c719ef1",
-      "company": "Sonos, Inc.",
-      "title": "Software Engineering Intern (Seattle)",
-      "url": "https://jobright.ai/jobs/info/6ae263b805a39c3e2c719ef1",
-      "location": "Seattle, WA",
-      "datePosted": 1793206456,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
