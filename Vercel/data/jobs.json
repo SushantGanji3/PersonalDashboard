@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-29T22:30:19Z",
-  "totalOpen": 1378,
+  "generatedAt": "2026-10-29T22:40:17Z",
+  "totalOpen": 1382,
   "totalNewgrad": 251,
-  "totalOther": 1127,
+  "totalOther": 1131,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:09245a39-078b-476f-a779-34881b444f91",
+      "company": "Zoox",
+      "title": "Contract Student Worker - Software Engineer",
+      "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d/apply",
+      "location": "Foster City, CA, San Diego, CA",
+      "datePosted": 1793312633,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:aa17c8d8-a4c8-4f40-9a0f-73bca79d2727",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Scam and Trust",
+      "url": "https://www.metacareers.com/jobs/2355649268510104",
+      "location": "Menlo Park, CA",
+      "datePosted": 1793312261,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:14fe6917-aa52-43f8-b938-83b67d70feaa",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - AI Infra",
+      "url": "https://www.metacareers.com/jobs/4603165899971826",
+      "location": "Menlo Park, CA",
+      "datePosted": 1793312260,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ae3ba53d45dc30fb7d2c23e",
       "company": "Viasat",
@@ -14,7 +47,7 @@
       "datePosted": 1793284067,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3b9e6fb2cd420ace5395e",
@@ -465,7 +498,7 @@
       "datePosted": 1793276036,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae39aaffb2cd420ace52755",
@@ -719,6 +752,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:23656e12-b4f7-407c-aa31-bfc1c7f3a9f9",
+      "company": "Micron",
+      "title": "Data Scientist - AI for Business Functions",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
+      "location": "Boise, ID",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:a7171bec-f0f3-412b-adec-e3ff093d0096",
@@ -1277,50 +1321,6 @@
       "url": "https://go.vansh.nyc/Xb",
       "location": "San Diego, CA",
       "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0d4115b1-ca44-4ed6-ab79-926c694af93c",
-      "company": "Cohesity",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/Tc",
-      "location": "Santa Clara, CA",
-      "datePosted": 1793054321,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:8c576146-a50e-4813-b614-0c79d712f8fe",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Generative Recommendation Systems",
-      "url": "https://www.metacareers.com/jobs/3265378000517806",
-      "location": "Menlo Park, CA",
-      "datePosted": 1793052947,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:69f26bd4-eb39-4c53-9e7b-4d9600cd9f82",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Audio AI",
-      "url": "https://www.metacareers.com/jobs/1160814043168431",
-      "location": "Menlo Park, CA, Bellevue, WA",
-      "datePosted": 1793052945,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:19439ca8-f4db-427c-a08e-0a26e86eac3b",
-      "company": "Atlassian",
-      "title": "New Grad 2027: Security Engineer",
-      "url": "https://go.vansh.nyc/X1",
-      "location": "Seattle, WA",
-      "datePosted": 1793051775,
       "source": "aggregator",
       "season": null,
       "isNew": false
