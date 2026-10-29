@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T15:39:35Z",
-  "totalOpen": 1374,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-10-29T15:40:18Z",
+  "totalOpen": 1377,
+  "totalNewgrad": 248,
   "totalOther": 1129,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,6 +28,61 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acde5c9ee9da536dc21b3ec",
+      "company": "EY",
+      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
+      "url": "https://jobright.ai/jobs/info/6acde5c9ee9da536dc21b3ec",
+      "location": "United States",
+      "datePosted": 1793258984,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae354cbeab1f96730973189",
+      "company": "Torentify",
+      "title": "Node.js Developer - WFH",
+      "url": "https://jobright.ai/jobs/info/6ae354cbeab1f96730973189",
+      "location": "United States",
+      "datePosted": 1793258075,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae35384c3139b475b5ac0ea",
+      "company": "Tyler Technologies",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ae35384c3139b475b5ac0ea",
+      "location": "Orono, ME; Falmouth, ME; Yarmouth, ME",
+      "datePosted": 1793257748,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad039c4c9f40bec90800338",
+      "company": "York Space Systems",
+      "title": "Embedded Flight Software Engineer (Early Career)",
+      "url": "https://jobright.ai/jobs/info/6ad039c4c9f40bec90800338",
+      "location": "Greenwood Village, CO",
+      "datePosted": 1793256925,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad039bfc9f40bec9080032d",
+      "company": "York Space Systems",
+      "title": "Flight Software Platform Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad039bfc9f40bec9080032d",
+      "location": "Greenwood Village, CO",
+      "datePosted": 1793256689,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
       "company": "Meta AI",
       "title": "Software Engineering Intern",
@@ -37,6 +92,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aaaf9934be87a72913a2719",
+      "company": "Anduril",
+      "title": "Software Engineer, Battlespace Awareness",
+      "url": "https://jobright.ai/jobs/info/6aaaf9934be87a72913a2719",
+      "location": "Broomfield, CO; Fort Collins, CO",
+      "datePosted": 1793255609,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac69cf00e027c0f3b3b3755",
@@ -122,17 +188,6 @@
       "url": "https://jobright.ai/jobs/info/6aa960213387a3d9b67d4c5a",
       "location": "Auburn Hills, MI",
       "datePosted": 1793253931,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae34372eab1f96730972a1c",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae34372eab1f96730972a1c",
-      "location": "Frisco, TX",
-      "datePosted": 1793253634,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -292,10 +347,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae3115efb2cd420ace4ec52",
+      "id": "newgrad-jobs:6ae2f797684c93aab88cba87",
       "company": "KLA",
       "title": "System Software Engineer - Distributed Computing",
-      "url": "https://jobright.ai/jobs/info/6ae3115efb2cd420ace4ec52",
+      "url": "https://jobright.ai/jobs/info/6ae2f797684c93aab88cba87",
       "location": "Milpitas, CA",
       "datePosted": 1793246255,
       "source": "newgrad-jobs",
@@ -369,23 +424,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aabb3adf6bd9d2d17c1d0c0",
+      "company": "Deloitte",
+      "title": "Cyber Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aabb3adf6bd9d2d17c1d0c0",
+      "location": "Austin, TX",
+      "datePosted": 1793242518,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aaa03da3387a3d9b67d891c",
+      "company": "Microsoft",
+      "title": "Software Engineer - AI Platform",
+      "url": "https://jobright.ai/jobs/info/6aaa03da3387a3d9b67d891c",
+      "location": "Mountain View, CA",
+      "datePosted": 1793242115,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac64bbf372c01f6cd73c66b",
       "company": "CareFirst BlueCross BlueShield",
       "title": "Software Engineer Associate (Remote)",
       "url": "https://jobright.ai/jobs/info/6ac64bbf372c01f6cd73c66b",
       "location": "United States",
       "datePosted": 1793241576,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac553f7064da25272e164b3",
-      "company": "Deloitte",
-      "title": "Cyber Full-Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac553f7064da25272e164b3",
-      "location": "Greater Cleveland, United States",
-      "datePosted": 1793240204,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -688,50 +754,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae2cd7ce37c39926d3b3d12",
-      "company": "Tesla",
-      "title": "Internship, Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ae2cd7ce37c39926d3b3d12",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793223436,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2cd7c1c3cd4b40608795b",
-      "company": "Tesla",
-      "title": "Internship, Data Engineer, Energy (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ae2cd7c1c3cd4b40608795b",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793223436,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a701a19c56c0956e8adda59",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok-Generalized Arch-Code Intelligence & Quality Validation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a19c56c0956e8adda59",
-      "location": "San Jose, CA",
-      "datePosted": 1793223074,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2ca90a33a3dfa735931b1",
-      "company": "A Full Renovation \u2013 Home Improvement",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae2ca90a33a3dfa735931b1",
-      "location": "United States",
-      "datePosted": 1793222688,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:4c3c63fd-9eab-4478-bc80-4ee58d81be85",
       "company": "Rubrik",
       "title": "Software Engineer - Entra ID",
@@ -739,28 +761,6 @@
       "location": "Palo Alto, CA",
       "datePosted": 1793222239,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd66684ac55253f5d5d3a7",
-      "company": "Enterprise Mobility",
-      "title": "Intern - Software Engineer, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abd66684ac55253f5d5d3a7",
-      "location": "St. Louis, MO; Brentwood, MO; Richmond Heights, MO; Clayton, MO; Maplewood, MO",
-      "datePosted": 1793219026,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2b505829a3bada1606c75",
-      "company": "MANTECH",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae2b505829a3bada1606c75",
-      "location": "Saint Inigoes, MD",
-      "datePosted": 1793217173,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
