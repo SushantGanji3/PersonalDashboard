@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:10:18Z",
+  "generatedAt": "2026-10-29T20:20:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -980,6 +980,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793284815
+    },
+    {
+      "id": "simplify:a7171bec-f0f3-412b-adec-e3ff093d0096",
+      "company": "Northrop Grumman",
+      "title": "New Grad 2027: Associate Cyber Software Engineer",
+      "url": "https://go.vansh.nyc/Zv",
+      "location": "Aurora, CO",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793305218
     },
     {
       "id": "newgrad-jobs:6ae2eee01c3cd4b406087f8b",
@@ -49446,39 +49457,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790742018
-    },
-    {
-      "id": "newgrad-jobs:6abc55e873339662c77238ab",
-      "company": "RTX",
-      "title": "Software Engineering Intern\u202f(Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abc55e873339662c77238ab",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1790713182,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790742018
-    },
-    {
-      "id": "newgrad-jobs:6aaa017c3387a3d9b67d87db",
-      "company": "RTX",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aaa017c3387a3d9b67d87db",
-      "location": "Marlborough, MA",
-      "datePosted": 1790713182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790742618
-    },
-    {
-      "id": "newgrad-jobs:6ab404e30e0ae54eeea46070",
-      "company": "RTX",
-      "title": "Systems Engineer I- Onsite Portsmouth, RI",
-      "url": "https://jobright.ai/jobs/info/6ab404e30e0ae54eeea46070",
-      "location": "Portsmouth, RI",
-      "datePosted": 1790713182,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790742618
     }
   ]
 }

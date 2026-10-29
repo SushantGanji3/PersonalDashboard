@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T20:10:18Z",
-  "totalOpen": 1375,
+  "generatedAt": "2026-10-29T20:20:18Z",
+  "totalOpen": 1376,
   "totalNewgrad": 248,
-  "totalOther": 1127,
+  "totalOther": 1128,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -721,6 +721,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:a7171bec-f0f3-412b-adec-e3ff093d0096",
+      "company": "Northrop Grumman",
+      "title": "New Grad 2027: Associate Cyber Software Engineer",
+      "url": "https://go.vansh.nyc/Zv",
+      "location": "Aurora, CO",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:cc95f424-ceae-43ca-95ba-0cc276090f2a",
       "company": "Microsoft",
       "title": "Research Intern - MSR Systems Research Group",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793051775,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bbd0c620-54fe-4568-b5ed-1a31793eff10",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/T2",
-      "location": "San Diego, CA",
-      "datePosted": 1793046983,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
