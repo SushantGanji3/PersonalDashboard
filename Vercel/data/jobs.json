@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:10:16Z",
+  "generatedAt": "2026-10-29T02:20:15Z",
   "totalOpen": 1363,
   "totalNewgrad": 236,
   "totalOther": 1127,
@@ -70,6 +70,61 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae29a261f9d9308370b34ab",
+      "company": "Bending Spoons",
+      "title": "Security engineer, US",
+      "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
+      "location": "United States",
+      "datePosted": 1793210294,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae231736679108488c48c4b",
+      "company": "Oracle",
+      "title": "[Remote] Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae231736679108488c48c4b",
+      "location": "United States",
+      "datePosted": 1793210080,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae27b391f9d9308370b286c",
+      "company": "ASML",
+      "title": "Internship- Software Development Engineer in Test",
+      "url": "https://jobright.ai/jobs/info/6ae27b391f9d9308370b286c",
+      "location": "San Diego, CA",
+      "datePosted": 1793209475,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae27b65de23f466ec8c703c",
+      "company": "STERIS",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ae27b65de23f466ec8c703c",
+      "location": "Cooper City, FL",
+      "datePosted": 1793209034,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae27b3705a39c3e2c71ad70",
+      "company": "ASML",
+      "title": "Internship/Co-Op: Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae27b3705a39c3e2c71ad70",
+      "location": "San Diego, CA",
+      "datePosted": 1793208837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a55c5fe14f1040fa611ba76",
@@ -259,6 +314,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae234f91f9d9308370af8cb",
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Frontend Engineer (UI)",
+      "url": "https://jobright.ai/jobs/info/6ae234f91f9d9308370af8cb",
+      "location": "New York, NY",
+      "datePosted": 1793206188,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ae289a71f9d9308370b2db0",
       "company": "T-Mobile",
       "title": "Associate Software Engineer- Billing Platform",
@@ -278,17 +344,6 @@
       "datePosted": 1793206056,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae231736679108488c48c4b",
-      "company": "Oracle",
-      "title": "[Remote] Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae231736679108488c48c4b",
-      "location": "United States",
-      "datePosted": 1793205866,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -683,61 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6aaaec8576707040fb083192",
       "location": "Denver, CO; Colorado Springs, CO",
       "datePosted": 1793193492,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae256d905a39c3e2c719251",
-      "company": "Trabus Technologies",
-      "title": "Full Stack Engineer (Cleared)",
-      "url": "https://jobright.ai/jobs/info/6ae256d905a39c3e2c719251",
-      "location": "San Diego, CA",
-      "datePosted": 1793193065,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae253df05a39c3e2c719038",
-      "company": "Ford Pro",
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae253df05a39c3e2c719038",
-      "location": "Dearborn, MI",
-      "datePosted": 1793192303,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2313705a39c3e2c717bf7",
-      "company": "Ascensus",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae2313705a39c3e2c717bf7",
-      "location": "Boston, MA; Indianapolis, IN; Newton, MA; Philadelphia, PA; United States",
-      "datePosted": 1793191641,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae20c7f829a3bada16007db",
-      "company": "Siemens",
-      "title": "Data Engineer - Global Manufacturing Digitalization",
-      "url": "https://jobright.ai/jobs/info/6ae20c7f829a3bada16007db",
-      "location": "Wendell, NC",
-      "datePosted": 1793191608,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a85630fe12474455273e11d",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6a85630fe12474455273e11d",
-      "location": "Santa Clara, CA",
-      "datePosted": 1793191604,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

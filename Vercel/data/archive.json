@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:10:16Z",
+  "generatedAt": "2026-10-29T02:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -80,6 +80,28 @@
       "firstSeenAt": 1793229001
     },
     {
+      "id": "newgrad-jobs:6ae29a261f9d9308370b34ab",
+      "company": "Bending Spoons",
+      "title": "Security engineer, US",
+      "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
+      "location": "United States",
+      "datePosted": 1793210294,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793240415
+    },
+    {
+      "id": "newgrad-jobs:6ae27b391f9d9308370b286c",
+      "company": "ASML",
+      "title": "Internship- Software Development Engineer in Test",
+      "url": "https://jobright.ai/jobs/info/6ae27b391f9d9308370b286c",
+      "location": "San Diego, CA",
+      "datePosted": 1793209475,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793240415
+    },
+    {
       "id": "simplify:9bc457ce-d971-45a7-879f-19590874023d",
       "company": "Glean",
       "title": "Software Engineer",
@@ -89,6 +111,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793211617
+    },
+    {
+      "id": "newgrad-jobs:6ae27b65de23f466ec8c703c",
+      "company": "STERIS",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ae27b65de23f466ec8c703c",
+      "location": "Cooper City, FL",
+      "datePosted": 1793209034,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793240415
     },
     {
       "id": "newgrad-jobs:6ae293471f9d9308370b30e1",
@@ -705,6 +738,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793217016
+    },
+    {
+      "id": "newgrad-jobs:6ae298171f9d9308370b339b",
+      "company": "Vituity",
+      "title": "Software Engineer I - Remote - Nationwide",
+      "url": "https://jobright.ai/jobs/info/6ae298171f9d9308370b339b",
+      "location": "United States",
+      "datePosted": 1793187138,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793240415
     },
     {
       "id": "newgrad-jobs:6acde77d4028aee69ce11b54",
@@ -49490,39 +49534,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790679015
-    },
-    {
-      "id": "newgrad-jobs:6abb1e3a7220f52e62aea8e6",
-      "company": "RTX",
-      "title": "Software Engineer I  (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abb1e3a7220f52e62aea8e6",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1790648384,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790676020
-    },
-    {
-      "id": "newgrad-jobs:6abb42edbe5f1e932511a2e3",
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Spring/Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abb42edbe5f1e932511a2e3",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1790648382,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790675418
-    },
-    {
-      "id": "newgrad-jobs:6abb1e49ee0b348be729dc12",
-      "company": "RTX",
-      "title": "Research Software Engineer I - Onsite",
-      "url": "https://jobright.ai/jobs/info/6abb1e49ee0b348be729dc12",
-      "location": "Cambridge, MA",
-      "datePosted": 1790648379,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790676020
     }
   ]
 }
