@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T23:10:16Z",
-  "totalOpen": 1380,
+  "generatedAt": "2026-10-29T23:20:16Z",
+  "totalOpen": 1383,
   "totalNewgrad": 243,
-  "totalOther": 1137,
+  "totalOther": 1140,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1793313436,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:09245a39-078b-476f-a779-34881b444f91",
@@ -69,7 +69,7 @@
       "datePosted": 1793287252,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3bfd0eab1f96730976e24",
@@ -762,7 +762,7 @@
       "datePosted": 1793232000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cf7a2bca-feb2-42fe-9871-19712bca4274",
@@ -773,7 +773,7 @@
       "datePosted": 1793232000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6f288574-280b-4364-8224-4e4a2586171e",
@@ -806,7 +806,7 @@
       "datePosted": 1793232000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2cfb374c-f2cc-4038-a831-a9a8c67eb5fe",
@@ -817,7 +817,7 @@
       "datePosted": 1793232000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8a45df0f-a34d-4f7f-8489-65afb38cd04e",
@@ -828,6 +828,28 @@
       "datePosted": 1793232000,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:19487997-177b-46fb-97d7-b633c3c6a0a5",
+      "company": "Zoox",
+      "title": "Autonomy and Geofence Expansion Intern",
+      "url": "https://go.vansh.nyc/ZX",
+      "location": "Foster City, CA",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:30e6ad4f-5843-480a-b4ee-d9d1f1106507",
+      "company": "Zoox",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ZY",
+      "location": "Foster City, CA",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": true
     },
     {
@@ -840,6 +862,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:e62f7c83-1773-4965-b591-b1df281ebc09",
+      "company": "Northrop Grumman",
+      "title": "Associate Data Scientist",
+      "url": "https://go.vansh.nyc/10d",
+      "location": "Aurora, CO",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:cc95f424-ceae-43ca-95ba-0cc276090f2a",
@@ -1287,39 +1320,6 @@
       "title": "Associate Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
       "location": "Huntsville, AL",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b78f0072-9140-443e-915e-a7ab2b4d2c0a",
-      "company": "NVIDIA",
-      "title": "Deep Learning Performance Architect New Grad",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177",
-      "location": "Santa Clara, CA",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:92ed232b-c9f2-451b-b0ce-31ae57ae6118",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957",
-      "location": "Redondo Beach, CA, Palmdale, CA, San Diego, CA, El Segundo, CA",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d08ceabe-f3ba-46d0-ac76-e4809c9fe1e9",
-      "company": "Shield AI",
-      "title": "Autonomous Software Engineer New Grad",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
-      "location": "San Diego, CA",
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
