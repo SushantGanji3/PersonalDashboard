@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T03:40:17Z",
+  "generatedAt": "2026-10-29T03:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -1717,6 +1717,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793187617
+    },
+    {
+      "id": "newgrad-jobs:6ae2b3fd1f9d9308370b3d7b",
+      "company": "Qishi Club",
+      "title": "One Month AI Engineer Internship",
+      "url": "https://jobright.ai/jobs/info/6ae2b3fd1f9d9308370b3d7b",
+      "location": "Princeton, NJ",
+      "datePosted": 1793159290,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793245815
     },
     {
       "id": "newgrad-jobs:6aa9c3e03387a3d9b67d6b2e",
@@ -49490,39 +49501,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790686219
-    },
-    {
-      "id": "newgrad-jobs:6abbc1edd6acfd3dd29f9bf9",
-      "company": "Ryzoe",
-      "title": "Trainee (Intern) Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6abbc1edd6acfd3dd29f9bf9",
-      "location": "United States",
-      "datePosted": 1790653763,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790692817
-    },
-    {
-      "id": "newgrad-jobs:6abb9621f7c0be4619eb1561",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6abb9621f7c0be4619eb1561",
-      "location": "San Jose, CA",
-      "datePosted": 1790653361,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "firstSeenAt": 1790682617
-    },
-    {
-      "id": "newgrad-jobs:6abb95d95716c5ea52d0719a",
-      "company": "TikTok",
-      "title": "Network Software Development Engineer Intern(Network  Observation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abb95d95716c5ea52d0719a",
-      "location": "San Jose, CA",
-      "datePosted": 1790653289,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790682617
     }
   ]
 }
