@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:40:16Z",
+  "generatedAt": "2026-10-29T20:50:16Z",
   "totalOpen": 1372,
   "totalNewgrad": 244,
   "totalOther": 1128,
@@ -14,6 +14,17 @@
       "datePosted": 1793282793,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae2317f05a39c3e2c717c54",
+      "company": "Oracle",
+      "title": "[Remote] Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2317f05a39c3e2c717c54",
+      "location": "United States",
+      "datePosted": 1793277928,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -672,17 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6ae36beaeab1f96730973d4b",
       "location": "Boston, MA",
       "datePosted": 1793265000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae027dd9a8c91d5c358be7a",
-      "company": "York Space Systems",
-      "title": "Ground Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ae027dd9a8c91d5c358be7a",
-      "location": "Greenwood Village, CO",
-      "datePosted": 1793264941,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
