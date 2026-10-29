@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T07:30:18Z",
-  "totalOpen": 1365,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-10-29T07:40:17Z",
+  "totalOpen": 1367,
+  "totalNewgrad": 243,
   "totalOther": 1124,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,50 @@
       "datePosted": 1793253948,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae2eee01c3cd4b406087f8b",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae2eee01c3cd4b406087f8b",
+      "location": "Frisco, TX",
+      "datePosted": 1793231984,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a44e68a824ecd73beef1a4e",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - Finnish Speakers",
+      "url": "https://jobright.ai/jobs/info/6a44e68a824ecd73beef1a4e",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Los Angeles, CA; Washington, DC; Boston, MA; Austin, TX; Chicago, IL; Bellevue, WA",
+      "datePosted": 1793231934,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae242a4de23f466ec8c4858",
+      "company": "Genentech",
+      "title": "Machine Learning Engineer (AI Enablement)",
+      "url": "https://jobright.ai/jobs/info/6ae242a4de23f466ec8c4858",
+      "location": "South San Francisco, CA",
+      "datePosted": 1793230849,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
+      "company": "Serco",
+      "title": "Junior Software Engineer - Remote",
+      "url": "https://jobright.ai/jobs/info/6ae240da05a39c3e2c71858c",
+      "location": "United States",
+      "datePosted": 1793230666,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -80,7 +124,7 @@
       "datePosted": 1793229298,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2e2f1e37c39926d3b4159",
@@ -111,17 +155,6 @@
       "url": "https://jobright.ai/jobs/info/6ae2ca89d52406f6fbf738af",
       "location": "United States",
       "datePosted": 1793227684,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae242a4de23f466ec8c4858",
-      "company": "Genentech",
-      "title": "Machine Learning Engineer (AI Enablement)",
-      "url": "https://jobright.ai/jobs/info/6ae242a4de23f466ec8c4858",
-      "location": "South San Francisco, CA",
-      "datePosted": 1793227683,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -727,39 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ae263b805a39c3e2c719ef1",
       "location": "Seattle, WA",
       "datePosted": 1793206456,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae234f91f9d9308370af8cb",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Frontend Engineer (UI)",
-      "url": "https://jobright.ai/jobs/info/6ae234f91f9d9308370af8cb",
-      "location": "New York, NY",
-      "datePosted": 1793206188,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae289981f9d9308370b2d9c",
-      "company": "T-Mobile",
-      "title": "Summer 2027 Assoc AI Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6ae289981f9d9308370b2d9c",
-      "location": "Frisco, TX",
-      "datePosted": 1793206056,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2618f6679108488c4adb1",
-      "company": "Applied Intuition",
-      "title": "Software Engineer (Autonomy Tools - Sensor Sim)",
-      "url": "https://jobright.ai/jobs/info/6ae2618f6679108488c4adb1",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1793205824,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

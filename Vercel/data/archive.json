@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:30:18Z",
+  "generatedAt": "2026-10-29T07:40:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793254817
+    },
+    {
+      "id": "newgrad-jobs:6ae2eee01c3cd4b406087f8b",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae2eee01c3cd4b406087f8b",
+      "location": "Frisco, TX",
+      "datePosted": 1793231984,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793259617
     },
     {
       "id": "newgrad-jobs:6ae259601f9d9308370b0ee4",
@@ -49633,17 +49644,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790697623
-    },
-    {
-      "id": "newgrad-jobs:6abbccd0d6acfd3dd29f9f08",
-      "company": "Systems Planning & Analysis",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbccd0d6acfd3dd29f9f08",
-      "location": "San Diego, CA",
-      "datePosted": 1790667360,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790695216
     }
   ]
 }
