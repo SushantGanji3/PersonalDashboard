@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:30:19Z",
+  "generatedAt": "2026-10-29T16:40:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793270416
+    },
+    {
+      "id": "newgrad-jobs:6ae11c111f9d9308370a7c01",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ae11c111f9d9308370a7c01",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793264510,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793292018
+    },
+    {
+      "id": "newgrad-jobs:6ae2965feb7e8f715a60f122",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer (Target Tracking) - ATL / Hybrid / Cherry Hill NJ",
+      "url": "https://jobright.ai/jobs/info/6ae2965feb7e8f715a60f122",
+      "location": "Cherry Hill, NJ",
+      "datePosted": 1793264510,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793292018
+    },
+    {
+      "id": "newgrad-jobs:6ae36beaeab1f96730973d4b",
+      "company": "Luminous",
+      "title": "Software Engineer Co-op/Internship",
+      "url": "https://jobright.ai/jobs/info/6ae36beaeab1f96730973d4b",
+      "location": "Boston, MA",
+      "datePosted": 1793263994,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793292018
     },
     {
       "id": "newgrad-jobs:6a8da5a2d34f700f87fd4f60",
@@ -980,6 +1013,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793288418
+    },
+    {
+      "id": "newgrad-jobs:6ae36eead45dc30fb7d2959e",
+      "company": "CareSource",
+      "title": "2027 Summer Internship Program - Full Stack AI Development Intern-1",
+      "url": "https://jobright.ai/jobs/info/6ae36eead45dc30fb7d2959e",
+      "location": "United States",
+      "datePosted": 1793206800,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793292018
     },
     {
       "id": "newgrad-jobs:6aaae26176707040fb082db2",
@@ -49182,28 +49226,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790839216
-    },
-    {
-      "id": "newgrad-jobs:6abc4abe3217d1d13329e224",
-      "company": "BAE Systems",
-      "title": "Programmer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abc4abe3217d1d13329e224",
-      "location": "Washington, DC",
-      "datePosted": 1790699598,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790727620
-    },
-    {
-      "id": "newgrad-jobs:6abc4abc7119e56191cec691",
-      "company": "BAE Systems",
-      "title": "Systems Engineer Intern (Mechanical Focus), Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abc4abc7119e56191cec691",
-      "location": "Rockville, MD",
-      "datePosted": 1790699596,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790727620
     }
   ]
 }
