@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:20:24Z",
+  "generatedAt": "2026-10-29T07:30:18Z",
   "totalOpen": 1365,
   "totalNewgrad": 241,
   "totalOther": 1124,
@@ -36,7 +36,7 @@
       "datePosted": 1793230231,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2e46f0adb76f2a7a7a945",
@@ -47,7 +47,7 @@
       "datePosted": 1793229311,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2e4620adb76f2a7a7a942",
@@ -58,7 +58,7 @@
       "datePosted": 1793229298,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2e462e37c39926d3b419c",
@@ -66,6 +66,17 @@
       "title": "Software Engineer (On-Device AI) - WFH",
       "url": "https://jobright.ai/jobs/info/6ae2e462e37c39926d3b419c",
       "location": "United States",
+      "datePosted": 1793229298,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae2e46263f9f9b4b24bf1d6",
+      "company": "IMI",
+      "title": "Full Stack Developer Internship",
+      "url": "https://jobright.ai/jobs/info/6ae2e46263f9f9b4b24bf1d6",
+      "location": "Flower Mound, TX",
       "datePosted": 1793229298,
       "source": "newgrad-jobs",
       "season": null,
@@ -80,7 +91,7 @@
       "datePosted": 1793228929,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2e1560adb76f2a7a7a8bd",
@@ -91,7 +102,7 @@
       "datePosted": 1793228256,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2ca89d52406f6fbf738af",
@@ -116,6 +127,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae2b7d605a39c3e2c71c4b7",
+      "company": "USAFacts",
+      "title": "AI & Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae2b7d605a39c3e2c71c4b7",
+      "location": "Bellevue, WA",
+      "datePosted": 1793227275,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6abdecb54ac55253f5d5f252",
       "company": "Onestream",
       "title": "AI Engineer",
@@ -124,7 +146,7 @@
       "datePosted": 1793227265,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cc95f424-ceae-43ca-95ba-0cc276090f2a",
@@ -146,7 +168,7 @@
       "datePosted": 1793227170,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2d9cf1c3cd4b406087c31",
@@ -166,6 +188,17 @@
       "url": "https://jobright.ai/jobs/info/6ae10f0805a39c3e2c70fa9c",
       "location": "Huntsville, AL",
       "datePosted": 1793226329,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae10f05829a3bada15fa277",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineer Intern - Azusa CA",
+      "url": "https://jobright.ai/jobs/info/6ae10f05829a3bada15fa277",
+      "location": "Azusa, CA",
+      "datePosted": 1793226284,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -211,17 +244,6 @@
       "location": "Mountain View, CA",
       "datePosted": 1793224251,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2b7d605a39c3e2c71c4b7",
-      "company": "USAFacts",
-      "title": "AI & Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ae2b7d605a39c3e2c71c4b7",
-      "location": "Bellevue, WA",
-      "datePosted": 1793224110,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -738,28 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ae2618f6679108488c4adb1",
       "location": "Sunnyvale, CA",
       "datePosted": 1793205824,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae283b005a39c3e2c71b0ca",
-      "company": "Sequoia",
-      "title": "Jr. Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae283b005a39c3e2c71b0ca",
-      "location": "Alexandria, VA",
-      "datePosted": 1793205804,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad286c983ada13a9da0653c",
-      "company": "Infosys",
-      "title": "Java Fullstack Developer",
-      "url": "https://jobright.ai/jobs/info/6ad286c983ada13a9da0653c",
-      "location": "Richardson, TX",
-      "datePosted": 1793205394,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
