@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:00:20Z",
+  "generatedAt": "2026-10-29T12:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793254817
+    },
+    {
+      "id": "newgrad-jobs:6ae32f0dd45dc30fb7d27b1d",
+      "company": "IDEMIA",
+      "title": "Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ae32f0dd45dc30fb7d27b1d",
+      "location": "Reston, VA",
+      "datePosted": 1793248413,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793275816
+    },
+    {
+      "id": "newgrad-jobs:6ae32dd9c3139b475b5ab464",
+      "company": "Horizon Lane",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae32dd9c3139b475b5ab464",
+      "location": "Rochester, NY",
+      "datePosted": 1793248105,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793275816
     },
     {
       "id": "newgrad-jobs:6ae32a70eab1f967309723d5",
@@ -49391,17 +49413,6 @@
       "source": "newgrad-jobs",
       "season": "Fall",
       "firstSeenAt": 1790720419
-    },
-    {
-      "id": "newgrad-jobs:6a839b2a2dbaf907b0769e2c",
-      "company": "American Express",
-      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ",
-      "url": "https://jobright.ai/jobs/info/6a839b2a2dbaf907b0769e2c",
-      "location": "Phoenix, AZ",
-      "datePosted": 1790683722,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790713218
     }
   ]
 }
