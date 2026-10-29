@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T07:10:18Z",
-  "totalOpen": 1363,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-10-29T07:20:24Z",
+  "totalOpen": 1365,
+  "totalNewgrad": 241,
   "totalOther": 1124,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,6 +28,105 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae259601f9d9308370b0ee4",
+      "company": "CVS Health",
+      "title": "Software Development Engineer - Operational Analytics",
+      "url": "https://jobright.ai/jobs/info/6ae259601f9d9308370b0ee4",
+      "location": "Boston, MA; New York, NY; Dallas, TX; Hartford, CT",
+      "datePosted": 1793230231,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae2e46f0adb76f2a7a7a945",
+      "company": "A Full Renovation \u2013 Project Services",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2e46f0adb76f2a7a7a945",
+      "location": "United States",
+      "datePosted": 1793229311,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae2e4620adb76f2a7a7a942",
+      "company": "A Full Renovation \u2013 Residential Remodeling",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2e4620adb76f2a7a7a942",
+      "location": "United States",
+      "datePosted": 1793229298,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae2e462e37c39926d3b419c",
+      "company": "Torentify",
+      "title": "Software Engineer (On-Device AI) - WFH",
+      "url": "https://jobright.ai/jobs/info/6ae2e462e37c39926d3b419c",
+      "location": "United States",
+      "datePosted": 1793229298,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae2e2f1e37c39926d3b4159",
+      "company": "Instrumental Inc.",
+      "title": "Backend Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2e2f1e37c39926d3b4159",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793228929,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae2e1560adb76f2a7a7a8bd",
+      "company": "Resmed",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2e1560adb76f2a7a7a8bd",
+      "location": "San Diego, CA",
+      "datePosted": 1793228256,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae2ca89d52406f6fbf738af",
+      "company": "Ketch",
+      "title": "Backend Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2ca89d52406f6fbf738af",
+      "location": "United States",
+      "datePosted": 1793227684,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae242a4de23f466ec8c4858",
+      "company": "Genentech",
+      "title": "Machine Learning Engineer (AI Enablement)",
+      "url": "https://jobright.ai/jobs/info/6ae242a4de23f466ec8c4858",
+      "location": "South San Francisco, CA",
+      "datePosted": 1793227683,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abdecb54ac55253f5d5f252",
+      "company": "Onestream",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6abdecb54ac55253f5d5f252",
+      "location": "Chicago, IL; Fort Lauderdale, FL; New York, NY; Birmingham, AL",
+      "datePosted": 1793227265,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:cc95f424-ceae-43ca-95ba-0cc276090f2a",
       "company": "Microsoft",
       "title": "Research Intern - MSR Systems Research Group",
@@ -39,12 +138,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae2dc12e37c39926d3b4079",
+      "company": "Torentify",
+      "title": "Full Stack Engineer (Node.js, React) - WFH",
+      "url": "https://jobright.ai/jobs/info/6ae2dc12e37c39926d3b4079",
+      "location": "United States",
+      "datePosted": 1793227170,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ae2d9cf1c3cd4b406087c31",
       "company": "Torentify",
       "title": "Data Scientist (Remote | $150 -$200/hr)",
       "url": "https://jobright.ai/jobs/info/6ae2d9cf1c3cd4b406087c31",
       "location": "United States; Canada; United Kingdom; Australia; New Zealand; India; Singapore",
       "datePosted": 1793226591,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae10f0805a39c3e2c70fa9c",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer (BM/SRM) (26-464)",
+      "url": "https://jobright.ai/jobs/info/6ae10f0805a39c3e2c70fa9c",
+      "location": "Huntsville, AL",
+      "datePosted": 1793226329,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -78,17 +199,6 @@
       "url": "https://jobright.ai/jobs/info/6ae2d61c0adb76f2a7a7a6d1",
       "location": "United States",
       "datePosted": 1793225644,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2d2da1c3cd4b406087a85",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae2d2da1c3cd4b406087a85",
-      "location": "Frisco, TX",
-      "datePosted": 1793224810,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -182,17 +292,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae2ca89d52406f6fbf738af",
-      "company": "Ketch",
-      "title": "Backend Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae2ca89d52406f6fbf738af",
-      "location": "United States",
-      "datePosted": 1793222681,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:4c3c63fd-9eab-4478-bc80-4ee58d81be85",
       "company": "Rubrik",
       "title": "Software Engineer - Entra ID",
@@ -200,17 +299,6 @@
       "location": "Palo Alto, CA",
       "datePosted": 1793222239,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae242a4de23f466ec8c4858",
-      "company": "Genentech",
-      "title": "Machine Learning Engineer (AI Enablement)",
-      "url": "https://jobright.ai/jobs/info/6ae242a4de23f466ec8c4858",
-      "location": "South San Francisco, CA",
-      "datePosted": 1793220744,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -672,94 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ad286c983ada13a9da0653c",
       "location": "Richardson, TX",
       "datePosted": 1793205394,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2335cde23f466ec8c3f63",
-      "company": "Cambridge Mobile Telematics",
-      "title": "Software Engineer, Cloud",
-      "url": "https://jobright.ai/jobs/info/6ae2335cde23f466ec8c3f63",
-      "location": "Cambridge, MA",
-      "datePosted": 1793205221,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae24573de23f466ec8c4a48",
-      "company": "The Cadmus Group",
-      "title": "Jr. Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae24573de23f466ec8c4a48",
-      "location": "United States",
-      "datePosted": 1793204544,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acffbbbc0dd9da253cf5ad7",
-      "company": "Peraton",
-      "title": "Mission Systems Software & Edge Computing Intern \u2013 Norman, OK",
-      "url": "https://jobright.ai/jobs/info/6acffbbbc0dd9da253cf5ad7",
-      "location": "United States",
-      "datePosted": 1793204474,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae248b21f9d9308370b048e",
-      "company": "Harmonic",
-      "title": "Software Engineer \u2013 Intern",
-      "url": "https://jobright.ai/jobs/info/6ae248b21f9d9308370b048e",
-      "location": "San Jose, CA",
-      "datePosted": 1793204160,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae281fade23f466ec8c72ee",
-      "company": "Optum",
-      "title": "Associate AI/ML Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae281fade23f466ec8c72ee",
-      "location": "United States",
-      "datePosted": 1793204106,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae27fe0829a3bada160596f",
-      "company": "Proximity, an SPA Australia Company",
-      "title": "Jr. Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae27fe0829a3bada160596f",
-      "location": "Alexandria, VA",
-      "datePosted": 1793203568,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae208fb05a39c3e2c715bc7",
-      "company": "Leidos",
-      "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae208fb05a39c3e2c715bc7",
-      "location": "Fort Belvoir, VA",
-      "datePosted": 1793203350,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2080e1f9d9308370ad47f",
-      "company": "Leidos",
-      "title": "Jr. Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae2080e1f9d9308370ad47f",
-      "location": "Bethesda, MD",
-      "datePosted": 1793203295,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
