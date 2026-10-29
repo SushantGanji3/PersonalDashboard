@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:40:18Z",
+  "generatedAt": "2026-10-29T23:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793313617
+    },
+    {
+      "id": "newgrad-jobs:6ae39b29eab1f96730975996",
+      "company": "Leidos",
+      "title": "Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae39b29eab1f96730975996",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1793289725,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793317815
+    },
+    {
+      "id": "newgrad-jobs:6ae3d028d45dc30fb7d2cc60",
+      "company": "IDEMIA",
+      "title": "Full Stack Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ae3d028d45dc30fb7d2cc60",
+      "location": "Eden Prairie, MN",
+      "datePosted": 1793289656,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793317815
+    },
+    {
+      "id": "newgrad-jobs:6ab6eb9eba1c25652c610a49",
+      "company": "Rockwell Automation",
+      "title": "Intern, AI Software Engineering (June-August 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab6eb9eba1c25652c610a49",
+      "location": "Mayfield Heights, OH; Milwaukee, WI",
+      "datePosted": 1793289430,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793317815
     },
     {
       "id": "newgrad-jobs:6ae3c6c477c09cb3bd4a8f3f",
@@ -2005,6 +2038,17 @@
       "firstSeenAt": 1793314214
     },
     {
+      "id": "newgrad-jobs:6ae22a3005a39c3e2c7175db",
+      "company": "Ascensus",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae22a3005a39c3e2c7175db",
+      "location": "Boston, MA; Indianapolis, IN; Newton, MA; Philadelphia, PA; United States",
+      "datePosted": 1793208196,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793317815
+    },
+    {
       "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
       "company": "Glean",
       "title": "Software Engineer",
@@ -2091,6 +2135,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1793292018
+    },
+    {
+      "id": "newgrad-jobs:6ae3d28cc3139b475b5b07e5",
+      "company": "NVIDIA",
+      "title": "AI Systems Software Engineering Intern \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ae3d28cc3139b475b5b07e5",
+      "location": "Austin, TX",
+      "datePosted": 1793206800,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793317815
     },
     {
       "id": "newgrad-jobs:6aaae26176707040fb082db2",
@@ -49875,17 +49930,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1792420816
-    },
-    {
-      "id": "newgrad-jobs:6abcaf118ff3fb9b3bc6d785",
-      "company": "TikTok",
-      "title": "Software Engineer - Data Agent & Agentic Search",
-      "url": "https://jobright.ai/jobs/info/6abcaf118ff3fb9b3bc6d785",
-      "location": "San Jose, CA",
-      "datePosted": 1790725281,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790752817
     }
   ]
 }
