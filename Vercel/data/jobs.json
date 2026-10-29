@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-29T23:00:20Z",
+  "generatedAt": "2026-10-29T23:10:16Z",
   "totalOpen": 1380,
-  "totalNewgrad": 249,
-  "totalOther": 1131,
+  "totalNewgrad": 243,
+  "totalOther": 1137,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b9797b22-811f-4d42-b0c1-22917f860e5a",
+      "company": "Northrop Grumman",
+      "title": "Systems Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1",
+      "location": "Woodland Hills, LA",
+      "datePosted": 1793313436,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:09245a39-078b-476f-a779-34881b444f91",
       "company": "Zoox",
@@ -39,6 +50,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae3b44ceab1f967309767d5",
+      "company": "GM Financial",
+      "title": "Intern - Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae3b44ceab1f967309767d5",
+      "location": "Arlington, TX",
+      "datePosted": 1793287345,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae3c6c477c09cb3bd4a8f3f",
+      "company": "Light Iron",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae3c6c477c09cb3bd4a8f3f",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793287252,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ae3bfd0eab1f96730976e24",
       "company": "Westmag",
       "title": "Software Engineer - Intern (Jan 2027)",
@@ -47,7 +80,7 @@
       "datePosted": 1793286144,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3c04ffb2cd420ace53ce9",
@@ -58,7 +91,7 @@
       "datePosted": 1793285599,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae389cfd7424a2a828e0aa2",
@@ -69,7 +102,7 @@
       "datePosted": 1793285565,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3805ad45dc30fb7d2a140",
@@ -91,7 +124,7 @@
       "datePosted": 1793284574,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3ba53d45dc30fb7d2c23e",
@@ -124,7 +157,7 @@
       "datePosted": 1793282859,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3b52beab1f96730976888",
@@ -567,17 +600,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae3b44ceab1f967309767d5",
-      "company": "GM Financial",
-      "title": "Intern - Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae3b44ceab1f967309767d5",
-      "location": "Arlington, TX",
-      "datePosted": 1793274784,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6adf870b9e3e874dbfbad390",
       "company": "Boston Scientific",
       "title": "Software Engineering Intern",
@@ -699,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0d3dc5a5afc94bd2c78de",
-      "company": "Akima",
-      "title": "Unity Game Developer (T7A)",
-      "url": "https://jobright.ai/jobs/info/6ae0d3dc5a5afc94bd2c78de",
-      "location": "Huntsville, AL",
-      "datePosted": 1793271819,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:92028585-06ce-429a-8702-8cc1d5ce13f5",
       "company": "Tesla",
       "title": "Data Engineer Intern - Energy",
@@ -743,6 +754,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:e01f6d33-bc5a-49f1-b93b-27f40c1eba9b",
+      "company": "NVIDIA",
+      "title": "Compiler Software Engineer Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+      "location": "Redmond, WA",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:cf7a2bca-feb2-42fe-9871-19712bca4274",
+      "company": "NVIDIA",
+      "title": "AI Systems Software Engineer Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+      "location": "Austin, TX",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:6f288574-280b-4364-8224-4e4a2586171e",
       "company": "RTX",
       "title": "Software Security Engineer 1",
@@ -763,6 +796,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:12588026-4145-4a34-9255-a9c38358cc20",
+      "company": "Zoom",
+      "title": "AI Engineer",
+      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1",
+      "location": "Seattle, WA",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:2cfb374c-f2cc-4038-a831-a9a8c67eb5fe",
+      "company": "Northrop Grumman",
+      "title": "Associate Cyber Software Engineer - Pathways Program",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
+      "location": "Aurora, CO",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:8a45df0f-a34d-4f7f-8489-65afb38cd04e",
+      "company": "Northrop Grumman",
+      "title": "Associate Data Scientist - Pathways",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1",
+      "location": "Aurora, CO",
+      "datePosted": 1793232000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:a7171bec-f0f3-412b-adec-e3ff093d0096",
@@ -1253,72 +1319,6 @@
       "company": "Shield AI",
       "title": "Autonomous Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
-      "location": "San Diego, CA",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
-      "company": "Salesforce",
-      "title": "Software Engineer New Grad",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598",
-      "location": "Indianapolis, IN, Dallas, TX",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:abd1a870-00ac-4b82-b7c4-10d23ce9014c",
-      "company": "Northrop Grumman",
-      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
-      "url": "https://go.vansh.nyc/Vw",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:032a051a-3476-406d-9748-d7b2fb7568d5",
-      "company": "Northrop Grumman",
-      "title": "New Grad 2027: Associate Software Engineer",
-      "url": "https://go.vansh.nyc/Wn",
-      "location": "Azusa, CA",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db",
-      "company": "Databricks",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://go.vansh.nyc/WA",
-      "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4fa58e54-6a7c-42ad-82da-b806598121f4",
-      "company": "Databricks",
-      "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
-      "url": "https://go.vansh.nyc/WB",
-      "location": "Bellevue, WA, Mountain View, CA",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:818c120a-e0d0-4b4d-894a-9652e93acf9b",
-      "company": "Shield AI",
-      "title": "New Grad 2027: Autonomous Software Engineer",
-      "url": "https://go.vansh.nyc/Xb",
       "location": "San Diego, CA",
       "datePosted": 1793059200,
       "source": "aggregator",
