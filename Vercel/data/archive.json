@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T03:10:16Z",
+  "generatedAt": "2026-10-29T03:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793227215
+    },
+    {
+      "id": "newgrad-jobs:6a765c34a26ccc369f834fee",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a765c34a26ccc369f834fee",
+      "location": "San Jose, CA",
+      "datePosted": 1793215985,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793244017
+    },
+    {
+      "id": "newgrad-jobs:6ae2af911f9d9308370b3b6c",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM / Agent )- 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ae2af911f9d9308370b3b6c",
+      "location": "Seattle, WA",
+      "datePosted": 1793215776,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793244017
+    },
+    {
+      "id": "newgrad-jobs:6ae2af7c05a39c3e2c71c04d",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Video)- 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ae2af7c05a39c3e2c71c04d",
+      "location": "Seattle, WA",
+      "datePosted": 1793215756,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793244017
     },
     {
       "id": "simplify:a861def9-f6e2-47b3-9cae-1269088eee33",
@@ -49468,28 +49501,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790695216
-    },
-    {
-      "id": "newgrad-jobs:6a8863a4cde3717f9e9b4eca",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6a8863a4cde3717f9e9b4eca",
-      "location": "San Jose, CA",
-      "datePosted": 1790651890,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790680216
-    },
-    {
-      "id": "newgrad-jobs:6abc2966b23c6fb2b81a59db",
-      "company": "GAOTek Inc.",
-      "title": "AI And IoT Research Intern",
-      "url": "https://jobright.ai/jobs/info/6abc2966b23c6fb2b81a59db",
-      "location": "United States",
-      "datePosted": 1790651443,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790720419
     }
   ]
 }
