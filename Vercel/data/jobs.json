@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T23:10:16Z",
+  "generatedAt": "2026-10-30T23:20:15Z",
   "totalOpen": 1363,
-  "totalNewgrad": 241,
-  "totalOther": 1122,
+  "totalNewgrad": 240,
+  "totalOther": 1123,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -10,6 +10,17 @@
       "company": "Amazon",
       "title": "Software Development Engineer - Database",
       "url": "https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
+      "location": "Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA",
+      "datePosted": 1793399898,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:05c1ae03-6cd5-4072-ac65-f5bcc17438ed",
+      "company": "Amazon",
+      "title": "New Grad 2027: Software Development Engineer, Database",
+      "url": "https://go.vansh.nyc/11i",
       "location": "Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA",
       "datePosted": 1793399898,
       "source": "aggregator",
@@ -47,7 +58,7 @@
       "datePosted": 1793374495,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae4cfbad7424a2a828e8e6a",
@@ -58,7 +69,7 @@
       "datePosted": 1793373704,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae4d214fb2cd420ace5a1f5",
@@ -69,7 +80,7 @@
       "datePosted": 1793373703,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae51814fb2cd420ace5cac2",
@@ -80,7 +91,7 @@
       "datePosted": 1793373604,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad286c983ada13a9da0653c",
@@ -91,7 +102,7 @@
       "datePosted": 1793373566,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae4fddcd45dc30fb7d343e3",
@@ -1309,17 +1320,6 @@
       "title": "Sophomore Program Software Engineer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
       "location": "Ashburn, VA",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b83ac3e2-dbad-4c8f-ad68-1ed696c5a30a",
-      "company": "Micron",
-      "title": "Product Yield Enhancement Software Engineer Intern",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
-      "location": "Boise, ID",
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
