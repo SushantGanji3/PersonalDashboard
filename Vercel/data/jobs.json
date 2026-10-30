@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T13:40:15Z",
-  "totalOpen": 1362,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-10-30T13:50:15Z",
+  "totalOpen": 1360,
+  "totalNewgrad": 234,
   "totalOther": 1126,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793340199,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac7f97e0e573df8adc755e6",
@@ -36,7 +36,7 @@
       "datePosted": 1793339971,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae48e44d45dc30fb7d303dd",
@@ -45,6 +45,17 @@
       "url": "https://jobright.ai/jobs/info/6ae48e44d45dc30fb7d303dd",
       "location": "Lincoln, NE",
       "datePosted": 1793339744,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adb9588389e06bb41ad2cc1",
+      "company": "Celestica",
+      "title": "Student Intern, AI Engineer Job Details | Celestica International LP",
+      "url": "https://jobright.ai/jobs/info/6adb9588389e06bb41ad2cc1",
+      "location": "United States",
+      "datePosted": 1793339727,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -58,7 +69,7 @@
       "datePosted": 1793339075,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
@@ -705,17 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6ae3d28fd45dc30fb7d2cdbc",
       "location": "Redmond, WA",
       "datePosted": 1793295418,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae3d28cc3139b475b5b07e5",
-      "company": "NVIDIA",
-      "title": "AI Systems Software Engineering Intern \u2013 Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae3d28cc3139b475b5b07e5",
-      "location": "Austin, TX",
-      "datePosted": 1793295400,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
