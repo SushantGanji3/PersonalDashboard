@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-30T22:30:18Z",
+  "generatedAt": "2026-10-30T22:38:39Z",
   "totalOpen": 1361,
   "totalNewgrad": 240,
   "totalOther": 1121,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:c5138e81-eb36-45f4-8460-5c616a7abbf5",
+      "company": "Amazon",
+      "title": "Software Engineer Intern - Machine Learning/Automated Reasoning",
+      "url": "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+      "location": "Boston, MA, Seattle, WA, Austin, TX, Irvine, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, Sunnyvale, CA, San Diego, CA",
+      "datePosted": 1793399217,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:3e1eb658-735d-4768-9b73-ba22a1206ce2",
       "company": "Meta AI",
@@ -25,7 +36,7 @@
       "datePosted": 1793369626,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a984018def18223c854e3ec",
@@ -58,7 +69,7 @@
       "datePosted": 1793369626,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad8f8ad67bec1d0d9c812a1",
@@ -91,7 +102,7 @@
       "datePosted": 1793369305,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae1b9e9eb7e8f715a60778a",
@@ -686,6 +697,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:d379f70f-2ee0-4561-bd8e-ee5d4795e25c",
+      "company": "RTX",
+      "title": "Entry-Level Software Developer - Application Support & Sustainment",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356",
+      "location": "Remote in USA",
+      "datePosted": 1793318400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:539ba40f-e018-40a9-95e7-f69964f01d62",
@@ -1298,28 +1320,6 @@
       "title": "HBM Data Scientist Intern",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127",
       "location": "Richardson, TX",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:825b083b-ac71-42e9-a164-c6b1b0081f01",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
-      "location": "Huntsville, AL",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b78f0072-9140-443e-915e-a7ab2b4d2c0a",
-      "company": "NVIDIA",
-      "title": "Deep Learning Performance Architect New Grad",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177",
-      "location": "Santa Clara, CA",
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
