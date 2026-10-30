@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T02:00:19Z",
-  "totalOpen": 1394,
-  "totalNewgrad": 256,
+  "generatedAt": "2026-10-30T02:10:15Z",
+  "totalOpen": 1393,
+  "totalNewgrad": 255,
   "totalOther": 1138,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -58,7 +58,7 @@
       "datePosted": 1793297784,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3ef75d7424a2a828e3fd4",
@@ -69,7 +69,7 @@
       "datePosted": 1793297669,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3ef7377c09cb3bd4aa1a5",
@@ -80,7 +80,7 @@
       "datePosted": 1793297667,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3edb6eab1f967309782de",
@@ -113,7 +113,7 @@
       "datePosted": 1793295922,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3e89ad7424a2a828e3d07",
@@ -124,7 +124,7 @@
       "datePosted": 1793295914,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3b52beab1f96730976888",
@@ -157,7 +157,7 @@
       "datePosted": 1793295624,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3d28fd45dc30fb7d2cdbc",
@@ -168,7 +168,7 @@
       "datePosted": 1793295418,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae3d28cc3139b475b5b07e5",
@@ -190,7 +190,7 @@
       "datePosted": 1793295356,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a44cd3bac13d3709855",
@@ -201,7 +201,7 @@
       "datePosted": 1793295045,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a866758d34f700f87fc1a2a",
@@ -212,6 +212,17 @@
       "datePosted": 1793295012,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acdbc0c77057049844000e4",
+      "company": "Capgemini",
+      "title": "Java Fullstack Developer",
+      "url": "https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
+      "location": "New York, NY; Westlake, TX",
+      "datePosted": 1793294826,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -435,17 +446,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae3cff8eab1f9673097759b",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae3cff8eab1f9673097759b",
-      "location": "Frisco, TX",
-      "datePosted": 1793289608,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae3bc4e77c09cb3bd4a8ac9",
       "company": "Lennox",
       "title": "Cloud Advance Admin/Developer Intern",
@@ -474,17 +474,6 @@
       "url": "https://jobright.ai/jobs/info/6ae3bfd5fb2cd420ace53c97",
       "location": "Goleta, CA",
       "datePosted": 1793289143,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acdbc0c77057049844000e4",
-      "company": "Capgemini",
-      "title": "Java Fullstack Developer",
-      "url": "https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
-      "location": "New York, NY; Westlake, TX",
-      "datePosted": 1793288847,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -716,6 +705,17 @@
       "url": "https://jobright.ai/jobs/info/6ae3ab1bfb2cd420ace52f5e",
       "location": "Chanhassen, MN",
       "datePosted": 1793280171,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abeb9870e027c0f3b39a53a",
+      "company": "Point72",
+      "title": "Micro-Intern: Research Technology Developer (IAP)",
+      "url": "https://jobright.ai/jobs/info/6abeb9870e027c0f3b39a53a",
+      "location": "New York, NY",
+      "datePosted": 1793279951,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
