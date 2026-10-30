@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:10:16Z",
+  "generatedAt": "2026-10-30T03:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793313617
+    },
+    {
+      "id": "newgrad-jobs:6ae3fc53d45dc30fb7d2e1f2",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Software Engineer, Intern - Summer 2027 - 30942",
+      "url": "https://jobright.ai/jobs/info/6ae3fc53d45dc30fb7d2e1f2",
+      "location": "Crane, IN",
+      "datePosted": 1793300963,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793330416
     },
     {
       "id": "newgrad-jobs:6ae3efe8c3139b475b5b14af",
@@ -221,6 +232,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793322615
+    },
+    {
+      "id": "newgrad-jobs:6ae3f7f1c3139b475b5b1a60",
+      "company": "SproutsAI",
+      "title": "AI Software Engineering Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae3f7f1c3139b475b5b1a60",
+      "location": "United States",
+      "datePosted": 1793292612,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "firstSeenAt": 1793330416
     },
     {
       "id": "newgrad-jobs:6ae3d665fb2cd420ace546e2",
@@ -49820,39 +49842,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790768416
-    },
-    {
-      "id": "newgrad-jobs:6a282d2340ac8e329329f8f1",
-      "company": "TikTok",
-      "title": "AI software Engineer Project Intern (Transaction Platform) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6a282d2340ac8e329329f8f1",
-      "location": "San Jose, CA",
-      "datePosted": 1790738262,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790796018
-    },
-    {
-      "id": "newgrad-jobs:6ab6de4d39fd8792cb73c791",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ab6de4d39fd8792cb73c791",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1790738012,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790768416
-    },
-    {
-      "id": "newgrad-jobs:6a84192ce459fa3baa85cf48",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a84192ce459fa3baa85cf48",
-      "location": "San Jose, CA",
-      "datePosted": 1790737861,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1791316818
     }
   ]
 }
