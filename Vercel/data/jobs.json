@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-30T03:00:20Z",
-  "totalOpen": 1389,
-  "totalNewgrad": 251,
-  "totalOther": 1138,
+  "generatedAt": "2026-10-30T03:10:16Z",
+  "totalOpen": 1392,
+  "totalNewgrad": 252,
+  "totalOther": 1140,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:86269d27-e8ef-4462-afc0-e0d487011313",
+      "company": "NVIDIA",
+      "title": "AI Systems Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10o",
+      "location": "Austin, TX",
+      "datePosted": 1793329555,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:f4e4d984-265b-453b-9621-04c3bd6c1464",
+      "company": "NVIDIA",
+      "title": "Compiler Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10p",
+      "location": "Redmond, WA",
+      "datePosted": 1793329555,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:b9797b22-811f-4d42-b0c1-22917f860e5a",
       "company": "Northrop Grumman",
@@ -48,6 +70,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7608cf4817aa43070464d8",
+      "company": "TikTok",
+      "title": "Backend Software Engineer - Offense & Defense - PDPO",
+      "url": "https://jobright.ai/jobs/info/6a7608cf4817aa43070464d8",
+      "location": "San Jose, CA",
+      "datePosted": 1793302399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae3efe8c3139b475b5b14af",
@@ -710,17 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abeb9870e027c0f3b39a53a",
-      "company": "Point72",
-      "title": "Micro-Intern: Research Technology Developer (IAP)",
-      "url": "https://jobright.ai/jobs/info/6abeb9870e027c0f3b39a53a",
-      "location": "New York, NY",
-      "datePosted": 1793279951,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:92028585-06ce-429a-8702-8cc1d5ce13f5",
       "company": "Tesla",
       "title": "Data Engineer Intern - Energy",
@@ -1298,28 +1320,6 @@
       "title": "Receiver \u2013 & Processing Architecture Software Engineer Intern - Exciter",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187",
       "location": "Marlborough, MA",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer / Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:825b083b-ac71-42e9-a164-c6b1b0081f01",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
-      "location": "Huntsville, AL",
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
