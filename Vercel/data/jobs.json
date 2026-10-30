@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T17:30:19Z",
+  "generatedAt": "2026-10-30T17:40:16Z",
   "totalOpen": 1363,
   "totalNewgrad": 236,
   "totalOther": 1127,
@@ -17,6 +17,50 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae4cce7eab1f9673097ccd5",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae4cce7eab1f9673097ccd5",
+      "location": "Frisco, TX",
+      "datePosted": 1793354359,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acde5c9ee9da536dc21b3ec",
+      "company": "EY",
+      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
+      "url": "https://jobright.ai/jobs/info/6acde5c9ee9da536dc21b3ec",
+      "location": "United States",
+      "datePosted": 1793353718,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8f2f09a10ee661e24d6f6c",
+      "company": "SpaceX",
+      "title": "Satellite Systems Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a8f2f09a10ee661e24d6f6c",
+      "location": "Redmond, WA",
+      "datePosted": 1793353210,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a4ccec235e45603c4bb1d1a",
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a4ccec235e45603c4bb1d1a",
+      "location": "Redmond, WA",
+      "datePosted": 1793353171,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a86674974e02153f145bc5a",
       "company": "TikTok",
       "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
@@ -25,6 +69,17 @@
       "datePosted": 1793352711,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae219361f9d9308370ae08b",
+      "company": "Booz Allen Hamilton",
+      "title": "Platform and Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae219361f9d9308370ae08b",
+      "location": "Honolulu, HI",
+      "datePosted": 1793352698,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -39,17 +94,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acde5c9ee9da536dc21b3ec",
-      "company": "EY",
-      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
-      "url": "https://jobright.ai/jobs/info/6acde5c9ee9da536dc21b3ec",
-      "location": "United States",
-      "datePosted": 1793352534,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac7c427fcdafb60c6a4594b",
       "company": "RTX",
       "title": "Software Platform Engineer I (Onsite)",
@@ -58,7 +102,7 @@
       "datePosted": 1793352485,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2326bde23f466ec8c3ea8",
@@ -80,7 +124,7 @@
       "datePosted": 1793351516,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac7dca0fcdafb60c6a464b7",
@@ -116,6 +160,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae4bd4fd7424a2a828e8105",
+      "company": "Zebra Technologies",
+      "title": "Software Engineer, Professional I",
+      "url": "https://jobright.ai/jobs/info/6ae4bd4fd7424a2a828e8105",
+      "location": "Holtsville, NY",
+      "datePosted": 1793350968,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae11c3067c31ab3489a0a67",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ae11c3067c31ab3489a0a67",
+      "location": "Longmont, CO; Boulder, CO",
+      "datePosted": 1793350902,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac6db30372c01f6cd73f6d5",
       "company": "Lockheed Martin",
       "title": "Systems Engineer Asc - E1",
@@ -124,7 +190,7 @@
       "datePosted": 1793350893,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad15cc418608b6f36f83b9b",
@@ -157,7 +223,7 @@
       "datePosted": 1793350891,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad63b61950ef68d518374df",
@@ -168,17 +234,6 @@
       "datePosted": 1793350891,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae11c3067c31ab3489a0a67",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae11c3067c31ab3489a0a67",
-      "location": "Longmont, CO; Boulder, CO",
-      "datePosted": 1793350887,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -630,61 +685,6 @@
       "datePosted": 1793329555,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac75e66f93c2e91aeb1ff81",
-      "company": "CNH",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac75e66f93c2e91aeb1ff81",
-      "location": "Sioux Falls, SD",
-      "datePosted": 1793328863,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aac2e7b636cddf7396f2b4e",
-      "company": "Deloitte",
-      "title": "Cyber Full-Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aac2e7b636cddf7396f2b4e",
-      "location": "Philadelphia, PA; Minneapolis, MN; Jacksonville, FL; Atlanta, GA; Lake Mary, FL; Davenport, IA; San Francisco, CA; Charlotte, NC; Denver, CO; Rochester, NY; Indianapolis, IN; Chicago, IL; Gilbert, AZ; Morristown, NJ; New York, NY; Stamford, CT; Hartford, CT; Richmond, VA; Nashville, TN; Mechanicsburg, PA; Austin, TX; Cleveland, OH; Detroit, MI; Cincinnati, OH; Memphis, TN; Las Vegas, NV; Princeton, NJ; Arlington, VA; Boston, MA; Costa Mesa, CA; Kansas City, MO; McLean, VA; Baltimore, MD; Seattle, WA; Jericho, NY; Milwaukee, WI; Raleigh, NC; San Antonio, TX; Portland, OR; Dallas, TX; Houston, TX; New Orleans, LA; Miami, FL; Jersey City, NJ; Columbus, OH; Los Angeles, CA; Louisville, KY; Colorado Springs, CO; Pittsburgh, PA",
-      "datePosted": 1793328674,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7bc0ffcdafb60c6a45626",
-      "company": "Badger Meter",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac7bc0ffcdafb60c6a45626",
-      "location": "Escondido, CA",
-      "datePosted": 1793327769,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4641fd45dc30fb7d2fb1a",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Software Developer Intern - El Segundo, CA",
-      "url": "https://jobright.ai/jobs/info/6ae4641fd45dc30fb7d2fb1a",
-      "location": "El Segundo, CA",
-      "datePosted": 1793327535,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae45a67fb2cd420ace57141",
-      "company": "Morph",
-      "title": "Research Intern",
-      "url": "https://jobright.ai/jobs/info/6ae45a67fb2cd420ace57141",
-      "location": "New York, NY",
-      "datePosted": 1793325047,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
