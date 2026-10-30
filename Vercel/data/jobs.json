@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T22:00:19Z",
-  "totalOpen": 1361,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-10-30T22:10:16Z",
+  "totalOpen": 1359,
+  "totalNewgrad": 236,
   "totalOther": 1123,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,17 @@
       "location": "Redmond, WA, Pittsburgh, PA",
       "datePosted": 1793370887,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad8f8ad67bec1d0d9c812a1",
+      "company": "Microsoft",
+      "title": "Software Engineer - Systems and Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ad8f8ad67bec1d0d9c812a1",
+      "location": "Mountain View, CA",
+      "datePosted": 1793369305,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -358,17 +369,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae4e925eab1f9673097e0e7",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae4e925eab1f9673097e0e7",
-      "location": "Frisco, TX",
-      "datePosted": 1793361589,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae4e87d77c09cb3bd4b0183",
       "company": "West 4th Strategy, LLC",
       "title": "Junior Data Engineer",
@@ -399,17 +399,6 @@
       "datePosted": 1793359936,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4c1b0fb2cd420ace59540",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon WorkSpaces",
-      "url": "https://jobright.ai/jobs/info/6ae4c1b0fb2cd420ace59540",
-      "location": "Seattle, WA",
-      "datePosted": 1793359441,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -672,6 +661,17 @@
       "url": "https://jobright.ai/jobs/info/6acde5c9ee9da536dc21b3ec",
       "location": "United States",
       "datePosted": 1793353718,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8f2f09a10ee661e24d6f6c",
+      "company": "SpaceX",
+      "title": "Satellite Systems Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a8f2f09a10ee661e24d6f6c",
+      "location": "Redmond, WA",
+      "datePosted": 1793353210,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
