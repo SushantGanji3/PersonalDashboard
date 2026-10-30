@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T07:10:16Z",
+  "generatedAt": "2026-10-30T07:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -6799,6 +6799,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793281219
+    },
+    {
+      "id": "simplify:a2bf4203-9697-48ee-ab6e-4a83627dcdd5",
+      "company": "Northrop Grumman",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/Wo",
+      "location": "Boulder, CO",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793344816
     },
     {
       "id": "newgrad-jobs:6ae04ab59e3e874dbfbb3aaf",
@@ -49819,17 +49830,6 @@
       "datePosted": 1790752924,
       "source": "newgrad-jobs",
       "season": null,
-      "firstSeenAt": 1790781017
-    },
-    {
-      "id": "newgrad-jobs:6abb004b7220f52e62ae93b5",
-      "company": "Leonardo DRS",
-      "title": "2027 Summer - Software Engineering Intern (DMES) - Dallas TX",
-      "url": "https://jobright.ai/jobs/info/6abb004b7220f52e62ae93b5",
-      "location": "Dallas, TX",
-      "datePosted": 1790752577,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "firstSeenAt": 1790781017
     }
   ]
