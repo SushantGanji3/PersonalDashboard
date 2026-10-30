@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T06:14:17Z",
+  "generatedAt": "2026-10-30T06:20:16Z",
   "totalOpen": 1384,
-  "totalNewgrad": 250,
-  "totalOther": 1134,
+  "totalNewgrad": 251,
+  "totalOther": 1133,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -11,17 +11,6 @@
       "title": "AI Systems Software Engineering Intern",
       "url": "https://go.vansh.nyc/10o",
       "location": "Austin, TX",
-      "datePosted": 1793329555,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:f4e4d984-265b-453b-9621-04c3bd6c1464",
-      "company": "NVIDIA",
-      "title": "Compiler Software Engineering Intern",
-      "url": "https://go.vansh.nyc/10p",
-      "location": "Redmond, WA",
       "datePosted": 1793329555,
       "source": "aggregator",
       "season": "Summer",
@@ -46,6 +35,17 @@
       "location": "Foster City, CA, San Diego, CA",
       "datePosted": 1793312633,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
+      "company": "MANTECH",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
+      "location": "Saint Inigoes, MD",
+      "datePosted": 1793312464,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -188,17 +188,6 @@
       "url": "https://jobright.ai/jobs/info/6ae41e1dd45dc30fb7d2edf8",
       "location": "United States",
       "datePosted": 1793309613,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9c19928e24cb38513bed9",
-      "company": "Intelliforce-IT Solutions Group, LLC.",
-      "title": "Junior Software Engineer (Prime)",
-      "url": "https://jobright.ai/jobs/info/6aa9c19928e24cb38513bed9",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1793308981,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -556,10 +545,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab5a9ecc6fe0dec811a3014",
+      "id": "newgrad-jobs:6abbd524d6acfd3dd29fa18c",
       "company": "Navitus Health Solutions",
       "title": "Developer I, Application Systems",
-      "url": "https://jobright.ai/jobs/info/6ab5a9ecc6fe0dec811a3014",
+      "url": "https://jobright.ai/jobs/info/6abbd524d6acfd3dd29fa18c",
       "location": "United States",
       "datePosted": 1793291319,
       "source": "newgrad-jobs",
@@ -1059,7 +1048,7 @@
       "datePosted": 1793145600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3637c742-c854-49e0-a6a5-96f39e054a6b",
@@ -1320,6 +1309,17 @@
       "title": "Associate Software Engineer / Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
       "location": "Colorado Springs, CO",
+      "datePosted": 1793059200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:825b083b-ac71-42e9-a164-c6b1b0081f01",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
+      "location": "Huntsville, AL",
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,
