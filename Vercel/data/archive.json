@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:00:18Z",
+  "generatedAt": "2026-10-30T21:10:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793373017
+    },
+    {
+      "id": "newgrad-jobs:6ae4fddcd45dc30fb7d343e3",
+      "company": "Blue River Technology",
+      "title": "Embedded Software Engineer, Cameras & CI",
+      "url": "https://jobright.ai/jobs/info/6ae4fddcd45dc30fb7d343e3",
+      "location": "Santa Clara, CA",
+      "datePosted": 1793366892,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793394617
+    },
+    {
+      "id": "newgrad-jobs:6ae4fa04d7424a2a828ea87e",
+      "company": "News Corp",
+      "title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae4fa04d7424a2a828ea87e",
+      "location": "New York, NY",
+      "datePosted": 1793365908,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793394617
     },
     {
       "id": "newgrad-jobs:6ae4f43dd7424a2a828ea54d",
@@ -353,6 +375,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1793388017
+    },
+    {
+      "id": "newgrad-jobs:6a57841410c4d945d864e88d",
+      "company": "Bracebridge Capital",
+      "title": "Machine Learning Analyst",
+      "url": "https://jobright.ai/jobs/info/6a57841410c4d945d864e88d",
+      "location": "Boston, MA",
+      "datePosted": 1793352532,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793394617
     },
     {
       "id": "newgrad-jobs:6ae4c1ccc3139b475b5b57a0",
@@ -49281,39 +49314,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790832015
-    },
-    {
-      "id": "newgrad-jobs:6abda42cd9621c5b2838d48c",
-      "company": "Allegion",
-      "title": "Summer Intern - Software Engineering - Quality Assurance",
-      "url": "https://jobright.ai/jobs/info/6abda42cd9621c5b2838d48c",
-      "location": "Golden, CO",
-      "datePosted": 1790802517,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1790832015
-    },
-    {
-      "id": "newgrad-jobs:6abd9835372c01f6cd7216ce",
-      "company": "Allegion",
-      "title": "Summer Intern - Software Engineering - Quality Assurance",
-      "url": "https://jobright.ai/jobs/info/6abd9835372c01f6cd7216ce",
-      "location": "Golden, CO",
-      "datePosted": 1790802517,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "firstSeenAt": 1790833816
-    },
-    {
-      "id": "newgrad-jobs:6abddcac4ac55253f5d5f064",
-      "company": "Noblis",
-      "title": "Software Developer - Multiple Levels (Cleared)",
-      "url": "https://jobright.ai/jobs/info/6abddcac4ac55253f5d5f064",
-      "location": "Reston, VA",
-      "datePosted": 1790802492,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790832618
     }
   ]
 }
