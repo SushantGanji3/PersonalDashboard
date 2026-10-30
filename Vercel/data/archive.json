@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:10:16Z",
+  "generatedAt": "2026-10-30T22:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -1431,6 +1431,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793395220
+    },
+    {
+      "id": "newgrad-jobs:6ae50a62eab1f9673097f429",
+      "company": "VSP Vision",
+      "title": "Internship, AI \u2013 Agentic & Machine Learning Development",
+      "url": "https://jobright.ai/jobs/info/6ae50a62eab1f9673097f429",
+      "location": "United States",
+      "datePosted": 1793293200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793398817
     },
     {
       "id": "newgrad-jobs:6a70bcdbe2b7476e7b20a819",
@@ -49204,61 +49215,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1790809441
-    },
-    {
-      "id": "simplify:48975da5-2bb2-4457-8702-de4898cd805e",
-      "company": "Stripe",
-      "title": "Software Engineer Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
-      "location": "Seattle, WA, SF",
-      "datePosted": 1790806682,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790818818
-    },
-    {
-      "id": "newgrad-jobs:6abdeca48ff3fb9b3bc725ee",
-      "company": "Onestream",
-      "title": "Associate AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6abdeca48ff3fb9b3bc725ee",
-      "location": "United States",
-      "datePosted": 1790806580,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790833216
-    },
-    {
-      "id": "simplify:a92fa0b6-3ef2-4c58-8fc3-5597e8ac9fcb",
-      "company": "Rivian",
-      "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
-      "url": "https://careers.rivian.com/jobs/33874?icims=1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790806533,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790809441
-    },
-    {
-      "id": "simplify:04e00d36-839d-4f8d-bad8-082a70f7c73e",
-      "company": "Rivian",
-      "title": "Engineering Intern Co-op - Machine Learning Hardware",
-      "url": "https://careers.rivian.com/jobs/33820?icims=1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790806532,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790808015
-    },
-    {
-      "id": "simplify:2d9fb28b-f0da-4fe3-9f99-bd2482c824d5",
-      "company": "Rivian",
-      "title": "Engineering Co-op, Machine Learning Hardware",
-      "url": "https://go.vansh.nyc/E4",
-      "location": "Palo Alto, CA",
-      "datePosted": 1790806532,
-      "source": "aggregator",
-      "season": "Spring",
-      "firstSeenAt": 1793017215
     }
   ]
 }
