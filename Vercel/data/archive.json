@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:30:18Z",
+  "generatedAt": "2026-10-30T19:40:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793373017
+    },
+    {
+      "id": "newgrad-jobs:6ae4e87d77c09cb3bd4b0183",
+      "company": "West 4th Strategy, LLC",
+      "title": "Junior Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae4e87d77c09cb3bd4b0183",
+      "location": "United States",
+      "datePosted": 1793361421,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793389215
     },
     {
       "id": "newgrad-jobs:6a9ba7d6dacf777321a8d176",
@@ -49193,28 +49204,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790832618
-    },
-    {
-      "id": "newgrad-jobs:6abdc7968ff3fb9b3bc72117",
-      "company": "Odyssey Space Research, LLC",
-      "title": "LTV Flight and Ground Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abdc7968ff3fb9b3bc72117",
-      "location": "Houston, TX; Boulder, CO",
-      "datePosted": 1790797094,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790826618
-    },
-    {
-      "id": "newgrad-jobs:6ac06a5b4ac55253f5d68f2d",
-      "company": "CNSS \u2022 National Security Systems",
-      "title": "AI Engineer - Entry to Expert Level (Maryland)",
-      "url": "https://jobright.ai/jobs/info/6ac06a5b4ac55253f5d68f2d",
-      "location": "Mount Vernon, VA; Maryland, United States",
-      "datePosted": 1790796998,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790999416
     }
   ]
 }
