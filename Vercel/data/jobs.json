@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T15:30:18Z",
-  "totalOpen": 1360,
-  "totalNewgrad": 232,
-  "totalOther": 1128,
+  "generatedAt": "2026-10-30T15:40:15Z",
+  "totalOpen": 1362,
+  "totalNewgrad": 233,
+  "totalOther": 1129,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac83866fcdafb60c6a48202",
+      "company": "SpaceX",
+      "title": "Software Engineer (AI Data Engineering)",
+      "url": "https://jobright.ai/jobs/info/6ac83866fcdafb60c6a48202",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793347279,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae4afccfb2cd420ace58b2b",
+      "company": "Military Spouse Jobs",
+      "title": "Research Scientist I",
+      "url": "https://jobright.ai/jobs/info/6ae4afccfb2cd420ace58b2b",
+      "location": "Huntsville, AL",
+      "datePosted": 1793346908,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae4aaf6fb2cd420ace5887f",
@@ -59,6 +81,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae49c58eab1f9673097b25b",
+      "company": "Kastle",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ae49c58eab1f9673097b25b",
+      "location": "San Francisco, CA",
+      "datePosted": 1793343295,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac8064244d6e65604a05c4a",
@@ -336,10 +369,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae35c10eab1f96730973528",
+      "id": "newgrad-jobs:6ae35b16eab1f96730973462",
       "company": "CACI International Inc",
       "title": "Software Engineering Co-op/Intern - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ae35c10eab1f96730973528",
+      "url": "https://jobright.ai/jobs/info/6ae35b16eab1f96730973462",
       "location": "Rochester, NY",
       "datePosted": 1793333675,
       "source": "newgrad-jobs",
@@ -499,6 +532,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:539ba40f-e018-40a9-95e7-f69964f01d62",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+      "url": "https://go.vansh.nyc/10y",
+      "location": "Seattle, WA",
+      "datePosted": 1793318400,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae3ed90c3139b475b5b1421",
@@ -694,39 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6ae420a7fb2cd420ace565ae",
       "location": "New York, NY",
       "datePosted": 1793310263,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1a9fc53547a88ce9eab31",
-      "company": "Together AI",
-      "title": "Hardware Security Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad1a9fc53547a88ce9eab31",
-      "location": "San Francisco, CA",
-      "datePosted": 1793310135,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1a9f653547a88ce9eab30",
-      "company": "Together AI",
-      "title": "Hardware Security Engineer, New Grad (2027)",
-      "url": "https://jobright.ai/jobs/info/6ad1a9f653547a88ce9eab30",
-      "location": "San Francisco, CA",
-      "datePosted": 1793310128,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae3b1fac3139b475b5af717",
-      "company": "Danaher",
-      "title": "Intern - Application Integration Developer",
-      "url": "https://jobright.ai/jobs/info/6ae3b1fac3139b475b5af717",
-      "location": "Brea, CA",
-      "datePosted": 1793308172,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1309,17 +1320,6 @@
       "title": "Associate Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823",
       "location": "Huntsville, AL",
-      "datePosted": 1793059200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b78f0072-9140-443e-915e-a7ab2b4d2c0a",
-      "company": "NVIDIA",
-      "title": "Deep Learning Performance Architect New Grad",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177",
-      "location": "Santa Clara, CA",
       "datePosted": 1793059200,
       "source": "aggregator",
       "season": null,

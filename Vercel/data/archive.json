@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T15:30:18Z",
+  "generatedAt": "2026-10-30T15:40:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793373017
+    },
+    {
+      "id": "newgrad-jobs:6ae4afccfb2cd420ace58b2b",
+      "company": "Military Spouse Jobs",
+      "title": "Research Scientist I",
+      "url": "https://jobright.ai/jobs/info/6ae4afccfb2cd420ace58b2b",
+      "location": "Huntsville, AL",
+      "datePosted": 1793346908,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793374815
     },
     {
       "id": "newgrad-jobs:6ae4aaf6fb2cd420ace5887f",
@@ -34,6 +45,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793371217
+    },
+    {
+      "id": "newgrad-jobs:6ae49c58eab1f9673097b25b",
+      "company": "Kastle",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ae49c58eab1f9673097b25b",
+      "location": "San Francisco, CA",
+      "datePosted": 1793343295,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793374815
     },
     {
       "id": "newgrad-jobs:6ae49df9d7424a2a828e7066",
@@ -397,6 +419,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793348416
+    },
+    {
+      "id": "simplify:539ba40f-e018-40a9-95e7-f69964f01d62",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+      "url": "https://go.vansh.nyc/10y",
+      "location": "Seattle, WA",
+      "datePosted": 1793318400,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1793374815
     },
     {
       "id": "newgrad-jobs:6ae435d777c09cb3bd4abb0d",
@@ -49028,28 +49061,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790812215
-    },
-    {
-      "id": "newgrad-jobs:6a66deb65c7e2d715ebb4262",
-      "company": "TikTok",
-      "title": "Software Engineer, Ads Data",
-      "url": "https://jobright.ai/jobs/info/6a66deb65c7e2d715ebb4262",
-      "location": "San Jose, CA",
-      "datePosted": 1790782327,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790941817
-    },
-    {
-      "id": "newgrad-jobs:6abd8d7a4ac55253f5d5e19d",
-      "company": "Apple",
-      "title": "Software Engineer, Applied AI",
-      "url": "https://jobright.ai/jobs/info/6abd8d7a4ac55253f5d5e19d",
-      "location": "San Diego, CA",
-      "datePosted": 1790782218,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790811022
     }
   ]
 }
