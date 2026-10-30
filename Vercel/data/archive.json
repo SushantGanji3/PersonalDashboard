@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:20:16Z",
+  "generatedAt": "2026-10-30T03:30:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,28 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793313617
+    },
+    {
+      "id": "newgrad-jobs:6ae402efd7424a2a828e4b56",
+      "company": "Saab Seaeye",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae402efd7424a2a828e4b56",
+      "location": "East Syracuse, NY",
+      "datePosted": 1793302655,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793331017
+    },
+    {
+      "id": "newgrad-jobs:6ae3fc75d45dc30fb7d2e1f6",
+      "company": "A Full Renovation \u2013 Interiors & Design",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae3fc75d45dc30fb7d2e1f6",
+      "location": "United States",
+      "datePosted": 1793300997,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793331017
     },
     {
       "id": "newgrad-jobs:6ae3fc53d45dc30fb7d2e1f2",
@@ -15786,6 +15808,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793328616
+    },
+    {
+      "id": "newgrad-jobs:6a84192ce459fa3baa85cf48",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a84192ce459fa3baa85cf48",
+      "location": "San Jose, CA",
+      "datePosted": 1792637882,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793331017
     },
     {
       "id": "newgrad-jobs:6a701a0fc56c0956e8adda58",
@@ -49831,17 +49864,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790781017
-    },
-    {
-      "id": "newgrad-jobs:6a8f174aa10ee661e24d676f",
-      "company": "TikTok",
-      "title": "Software Development Engineer Intern (Network Automation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a8f174aa10ee661e24d676f",
-      "location": "San Jose, CA",
-      "datePosted": 1790738894,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790768416
     }
   ]
 }
