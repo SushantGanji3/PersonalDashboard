@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T22:20:17Z",
-  "totalOpen": 1359,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-10-30T22:30:18Z",
+  "totalOpen": 1361,
+  "totalNewgrad": 240,
   "totalOther": 1121,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -17,11 +17,88 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a85630fe12474455273e11d",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a85630fe12474455273e11d",
+      "location": "Santa Clara, CA",
+      "datePosted": 1793369626,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a984018def18223c854e3ec",
+      "company": "Intel",
+      "title": "Software Engineering - Intern, Bachelor\u2019s",
+      "url": "https://jobright.ai/jobs/info/6a984018def18223c854e3ec",
+      "location": "Hillsboro, OR; Folsom, CA; Santa Clara, CA; Austin, TX; Phoenix, AZ",
+      "datePosted": 1793369626,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae0c69e5a5afc94bd2c6df3",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+      "url": "https://jobright.ai/jobs/info/6ae0c69e5a5afc94bd2c6df3",
+      "location": "Bellevue, WA",
+      "datePosted": 1793369626,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae0c6abde23f466ec8b8519",
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+      "url": "https://jobright.ai/jobs/info/6ae0c6abde23f466ec8b8519",
+      "location": "Denver, CO; Highlands Ranch, CO",
+      "datePosted": 1793369626,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad8f8ad67bec1d0d9c812a1",
       "company": "Microsoft",
       "title": "Software Engineer - Systems and Infrastructure",
       "url": "https://jobright.ai/jobs/info/6ad8f8ad67bec1d0d9c812a1",
       "location": "Mountain View, CA",
+      "datePosted": 1793369305,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
+      "company": "Figma",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa83600654b2a9424cfb529",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1793369305,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad695de950ef68d5183b772",
+      "company": "Netflix",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad695de950ef68d5183b772",
+      "location": "Los Gatos, CA; Los Angeles, CA",
+      "datePosted": 1793369305,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae1b9e9eb7e8f715a60778a",
+      "company": "Docusign",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae1b9e9eb7e8f715a60778a",
+      "location": "Seattle, WA",
       "datePosted": 1793369305,
       "source": "newgrad-jobs",
       "season": null,
@@ -595,83 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ae4cf49d45dc30fb7d3278d",
       "location": "Dallas, TX; Raleigh, NC",
       "datePosted": 1793354969,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4c1ccc3139b475b5b57a0",
-      "company": "Accenture Federal Services",
-      "title": "Mobile/TAK Developer",
-      "url": "https://jobright.ai/jobs/info/6ae4c1ccc3139b475b5b57a0",
-      "location": "United States",
-      "datePosted": 1793354895,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1b9e9eb7e8f715a60778a",
-      "company": "Docusign",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae1b9e9eb7e8f715a60778a",
-      "location": "Seattle, WA",
-      "datePosted": 1793354846,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4caefc3139b475b5b5d6b",
-      "company": "Carnegie Mellon University",
-      "title": "Full-Stack Software Development Intern",
-      "url": "https://jobright.ai/jobs/info/6ae4caefc3139b475b5b5d6b",
-      "location": "Pittsburgh, PA",
-      "datePosted": 1793354743,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4cdd377c09cb3bd4aeee2",
-      "company": "IBM",
-      "title": "Supply Chain Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae4cdd377c09cb3bd4aeee2",
-      "location": "San Jose, CA",
-      "datePosted": 1793354595,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a72950702d93145bf895467",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer (Application Software)",
-      "url": "https://jobright.ai/jobs/info/6a72950702d93145bf895467",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793354462,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acde5c9ee9da536dc21b3ec",
-      "company": "EY",
-      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
-      "url": "https://jobright.ai/jobs/info/6acde5c9ee9da536dc21b3ec",
-      "location": "United States",
-      "datePosted": 1793353718,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8f2f09a10ee661e24d6f6c",
-      "company": "SpaceX",
-      "title": "Satellite Systems Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a8f2f09a10ee661e24d6f6c",
-      "location": "Redmond, WA",
-      "datePosted": 1793353210,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
