@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:20:16Z",
+  "generatedAt": "2026-10-31T06:30:18Z",
   "totalOpen": 1358,
   "totalNewgrad": 236,
   "totalOther": 1122,
@@ -58,7 +58,7 @@
       "datePosted": 1793399304,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c5138e81-eb36-45f4-8460-5c616a7abbf5",
@@ -68,6 +68,17 @@
       "location": "Boston, MA, Seattle, WA, Austin, TX, Irvine, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, Sunnyvale, CA, San Diego, CA",
       "datePosted": 1793399217,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1793398843,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -111,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6ae42c4ffb2cd420ace567e6",
       "location": "Rochester, NY",
       "datePosted": 1793395799,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1793393145,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
