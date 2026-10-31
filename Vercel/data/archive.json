@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T09:00:18Z",
+  "generatedAt": "2026-10-31T09:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -9681,6 +9681,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793096417
+    },
+    {
+      "id": "simplify:c6a9be94-d5f8-4644-9170-cd986afc5557",
+      "company": "L3Harris",
+      "title": "Associate Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1443517100/?ats=successfactors",
+      "location": "Rochester, NY",
+      "datePosted": 1793023624,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793437816
     },
     {
       "id": "newgrad-jobs:6adfc0499e3e874dbfbafd87",
@@ -49016,50 +49027,6 @@
       "datePosted": 1790845897,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "firstSeenAt": 1790875216
-    },
-    {
-      "id": "simplify:da112e4c-4b18-4df4-9cad-95acdd778d6f",
-      "company": "Microsoft",
-      "title": "Software Engineer Intern - Azure Databases",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
-      "location": "Redmond, WA",
-      "datePosted": 1790845696,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1790847617
-    },
-    {
-      "id": "newgrad-jobs:6abe85348ff3fb9b3bc743d8",
-      "company": "Esri",
-      "title": "Software Development Engineer in Test I (SDET) \u2013 ArcGIS Enterprise",
-      "url": "https://jobright.ai/jobs/info/6abe85348ff3fb9b3bc743d8",
-      "location": "Redlands, CA",
-      "datePosted": 1790845636,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790875216
-    },
-    {
-      "id": "newgrad-jobs:6abe772c372c01f6cd723ac5",
-      "company": "Cisco",
-      "title": "Software Engineer I (Co-op) - United States",
-      "url": "https://jobright.ai/jobs/info/6abe772c372c01f6cd723ac5",
-      "location": "Maynard, MA",
-      "datePosted": 1790845578,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790875216
-    },
-    {
-      "id": "newgrad-jobs:6abe841a4ac55253f5d61133",
-      "company": "The World Bank Group",
-      "title": "WBG Pioneer - mAI Full-Stack and AI Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abe841a4ac55253f5d61133",
-      "location": "Washington, DC",
-      "datePosted": 1790845354,
-      "source": "newgrad-jobs",
-      "season": null,
       "firstSeenAt": 1790875216
     }
   ]
