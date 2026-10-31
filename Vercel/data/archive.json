@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:40:15Z",
+  "generatedAt": "2026-10-31T12:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -3400,6 +3400,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1793292617
+    },
+    {
+      "id": "newgrad-jobs:6ac3fc81d9621c5b2839eefb",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
+      "location": "Owego, NY",
+      "datePosted": 1793264449,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793451016
     },
     {
       "id": "newgrad-jobs:6aa984d73387a3d9b67d5580",
@@ -48555,50 +48566,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790888419
-    },
-    {
-      "id": "newgrad-jobs:6abeb1c08ff3fb9b3bc751eb",
-      "company": "Notion",
-      "title": "Software Engineer, Mobile Core (Android)",
-      "url": "https://jobright.ai/jobs/info/6abeb1c08ff3fb9b3bc751eb",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1790858812,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790886017
-    },
-    {
-      "id": "newgrad-jobs:6abeb798d9621c5b28390cdb",
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Software Systems Engineer Intern - JobID-0304",
-      "url": "https://jobright.ai/jobs/info/6abeb798d9621c5b28390cdb",
-      "location": "Arlington, VA",
-      "datePosted": 1790858536,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790886017
-    },
-    {
-      "id": "newgrad-jobs:6abeb7518ff3fb9b3bc75336",
-      "company": "Lennox",
-      "title": "Cloud Advance Admin/Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6abeb7518ff3fb9b3bc75336",
-      "location": "Richardson, TX",
-      "datePosted": 1790858465,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790886017
-    },
-    {
-      "id": "newgrad-jobs:6abeb746372c01f6cd725103",
-      "company": "Quantum Sky",
-      "title": "Scientific Programmer/Analyst",
-      "url": "https://jobright.ai/jobs/info/6abeb746372c01f6cd725103",
-      "location": "Santa Barbara, CA",
-      "datePosted": 1790858454,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790886017
     }
   ]
 }

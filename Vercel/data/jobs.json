@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T12:40:15Z",
-  "totalOpen": 1335,
-  "totalNewgrad": 218,
+  "generatedAt": "2026-10-31T12:50:16Z",
+  "totalOpen": 1336,
+  "totalNewgrad": 219,
   "totalOther": 1117,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1793422753,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae5d55877c09cb3bd4b459d",
@@ -69,7 +69,7 @@
       "datePosted": 1793421518,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a7ad6a0ab1385611f900364",
@@ -149,6 +149,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae5c9fbeab1f967309821dc",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae5c9fbeab1f967309821dc",
+      "location": "Frisco, TX",
+      "datePosted": 1793419147,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac9353dfe8f33a85d502d55",
       "company": "Rivian",
       "title": "Computer Vision Software - Summer 2027 Internships",
@@ -190,6 +201,17 @@
       "datePosted": 1793417440,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab5b4a9d85922de20ce3257",
+      "company": "UST",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ab5b4a9d85922de20ce3257",
+      "location": "Bellevue, WA",
+      "datePosted": 1793416155,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -716,28 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6ae4a837eab1f9673097b6da",
       "location": "Tucson, AZ",
       "datePosted": 1793377214,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6a518372c01f6cd73e5cc",
-      "company": "Dow Jones",
-      "title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac6a518372c01f6cd73e5cc",
-      "location": "New York, NY",
-      "datePosted": 1793376770,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3dc52064da25272e0fd20",
-      "company": "Amentum",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac3dc52064da25272e0fd20",
-      "location": "Houston, TX",
-      "datePosted": 1793376451,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
