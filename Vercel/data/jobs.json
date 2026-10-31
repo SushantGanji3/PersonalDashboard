@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T10:00:19Z",
-  "totalOpen": 1338,
+  "generatedAt": "2026-10-31T10:10:15Z",
+  "totalOpen": 1337,
   "totalNewgrad": 223,
-  "totalOther": 1115,
+  "totalOther": 1114,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -17,6 +17,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adfbd359e3e874dbfbafb20",
+      "company": "Booz Allen Hamilton",
+      "title": "Full Stack Software Engineer, Junior",
+      "url": "https://jobright.ai/jobs/info/6adfbd359e3e874dbfbafb20",
+      "location": "McLean, VA",
+      "datePosted": 1793412925,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a9b0fb62cdc5958f53eaa63",
       "company": "Booz Allen Hamilton",
       "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
@@ -25,7 +36,7 @@
       "datePosted": 1793412752,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae5adceeab1f96730981ebd",
@@ -36,7 +47,7 @@
       "datePosted": 1793411934,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e985983d-927d-468b-9444-57275a4b4f73",
@@ -606,17 +617,6 @@
       "url": "https://jobright.ai/jobs/info/6ad286c983ada13a9da0653c",
       "location": "Richardson, TX",
       "datePosted": 1793373566,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4fddcd45dc30fb7d343e3",
-      "company": "Blue River Technology",
-      "title": "Embedded Software Engineer, Cameras & CI",
-      "url": "https://jobright.ai/jobs/info/6ae4fddcd45dc30fb7d343e3",
-      "location": "Santa Clara, CA",
-      "datePosted": 1793373051,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
