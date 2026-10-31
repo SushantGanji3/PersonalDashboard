@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T16:30:17Z",
-  "totalOpen": 1342,
-  "totalNewgrad": 224,
+  "generatedAt": "2026-10-31T16:40:16Z",
+  "totalOpen": 1337,
+  "totalNewgrad": 219,
   "totalOther": 1118,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,15 +28,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae60a32d45dc30fb7d38299",
-      "company": "NS2 Mission",
-      "title": "Java Developer (Junior-Mid level) with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6ae60a32d45dc30fb7d38299",
-      "location": "Chantilly, VA",
-      "datePosted": 1793435586,
+      "id": "newgrad-jobs:6ae4b853c3139b475b5b51f8",
+      "company": "Lockheed Martin",
+      "title": "sUAS/Drone Software Engineer Asc - Early Career",
+      "url": "https://jobright.ai/jobs/info/6ae4b853c3139b475b5b51f8",
+      "location": "San Luis Obispo, CA",
+      "datePosted": 1793437280,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae20caceb7e8f715a609811",
+      "company": "IBM",
+      "title": "Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY",
+      "url": "https://jobright.ai/jobs/info/6ae20caceb7e8f715a609811",
+      "location": "Poughkeepsie, NY",
+      "datePosted": 1793436502,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac95420af788e6ad3b5b12e",
@@ -44,7 +55,18 @@
       "title": "Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6ac95420af788e6ad3b5b12e",
       "location": "Chicago, IL; Jersey City, NJ; Mountain View, CA",
-      "datePosted": 1793435512,
+      "datePosted": 1793435895,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae60a32d45dc30fb7d38299",
+      "company": "NS2 Mission",
+      "title": "Java Developer (Junior-Mid level) with Security Clearance",
+      "url": "https://jobright.ai/jobs/info/6ae60a32d45dc30fb7d38299",
+      "location": "Chantilly, VA",
+      "datePosted": 1793435586,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -545,39 +567,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae5b36ac3139b475b5bb177",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Software Developer Intern - San Diego, CA",
-      "url": "https://jobright.ai/jobs/info/6ae5b36ac3139b475b5bb177",
-      "location": "San Diego, CA",
-      "datePosted": 1793413370,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae3bc4e77c09cb3bd4a8ac9",
-      "company": "Lennox",
-      "title": "Cloud Advance Admin/Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae3bc4e77c09cb3bd4a8ac9",
-      "location": "Richardson, TX",
-      "datePosted": 1793413301,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9b0fc7fe45b8490f606a5f",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Software Developer Intern - Charleston, SC",
-      "url": "https://jobright.ai/jobs/info/6a9b0fc7fe45b8490f606a5f",
-      "location": "Charleston, SC",
-      "datePosted": 1793413180,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:c5caf1a9-1f62-4ebc-a3ba-4cc81613d002",
       "company": "Northrop Grumman",
       "title": "Data Scientist Intern, Product Support",
@@ -738,6 +727,17 @@
       "url": "https://jobright.ai/jobs/info/6ae4ee1477c09cb3bd4b0413",
       "location": "Stanford, CA",
       "datePosted": 1793386238,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae4f1d377c09cb3bd4b06cc",
+      "company": "ServiceTitan",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae4f1d377c09cb3bd4b06cc",
+      "location": "United States",
+      "datePosted": 1793385750,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
