@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:30:18Z",
+  "generatedAt": "2026-10-31T14:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793449216
+    },
+    {
+      "id": "newgrad-jobs:6aac64053dbb1f8967cea75b",
+      "company": "TreeHouse Foods",
+      "title": "Application Developer, Business Applications & Process Automation",
+      "url": "https://jobright.ai/jobs/info/6aac64053dbb1f8967cea75b",
+      "location": "Oak Brook, IL",
+      "datePosted": 1793430059,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793457616
+    },
+    {
+      "id": "newgrad-jobs:6ae5f3d777c09cb3bd4b4b07",
+      "company": "Federal Reserve Board",
+      "title": "IT Systems Engineer Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae5f3d777c09cb3bd4b4b07",
+      "location": "Washington, DC",
+      "datePosted": 1793429863,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "firstSeenAt": 1793457616
     },
     {
       "id": "newgrad-jobs:6aa43451f3aa936e2cdb0387",
@@ -17062,6 +17084,17 @@
       "source": "newgrad-jobs",
       "season": "Summer",
       "firstSeenAt": 1793445616
+    },
+    {
+      "id": "newgrad-jobs:6aa16828dbc0e60e37e111ab",
+      "company": "Navy Federal Credit Union",
+      "title": "Summer Associate Internship (Associate Data Engineer)",
+      "url": "https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ab",
+      "location": "Vienna, VA",
+      "datePosted": 1792669307,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "firstSeenAt": 1793457616
     },
     {
       "id": "newgrad-jobs:6aa0790ca2266b538d230a6b",
@@ -48247,17 +48280,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790894415
-    },
-    {
-      "id": "simplify:55a5cb3d-4d05-4c72-a959-55dbdf1dcae7",
-      "company": "Hudson River Trading",
-      "title": "FPGA Verification and Developer Intern",
-      "url": "https://go.vansh.nyc/QI",
-      "location": "New York, NY",
-      "datePosted": 1790865437,
-      "source": "aggregator",
-      "season": "Summer",
-      "firstSeenAt": 1793033418
     }
   ]
 }
