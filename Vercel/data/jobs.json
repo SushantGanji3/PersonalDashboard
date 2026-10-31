@@ -1,17 +1,50 @@
 {
-  "generatedAt": "2026-10-31T11:30:18Z",
-  "totalOpen": 1337,
-  "totalNewgrad": 221,
+  "generatedAt": "2026-10-31T11:40:14Z",
+  "totalOpen": 1335,
+  "totalNewgrad": 219,
   "totalOther": 1116,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6ac9353bfcdafb60c6a4b5f9",
+      "id": "newgrad-jobs:6a8f11a2d7c91d0cf446d5e1",
+      "company": "Realm Alliance",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6a8f11a2d7c91d0cf446d5e1",
+      "location": "United States",
+      "datePosted": 1793419901,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aad69e9de327d3e210d23f2",
+      "company": "Together AI",
+      "title": "Research Intern, Model Shaping (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69e9de327d3e210d23f2",
+      "location": "San Francisco, CA",
+      "datePosted": 1793419732,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac91117d4a5a03707410887",
+      "company": "Danaher",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac91117d4a5a03707410887",
+      "location": "Vista, CA",
+      "datePosted": 1793419680,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac9353dfe8f33a85d502d55",
       "company": "Rivian",
-      "title": "Software Engineering - Summer 2027 Internships",
-      "url": "https://jobright.ai/jobs/info/6ac9353bfcdafb60c6a4b5f9",
-      "location": "Palo Alto, CA; Atlanta, GA; Irvine, CA; Normal, IL; Plymouth, MI",
-      "datePosted": 1793417440,
+      "title": "Computer Vision Software - Summer 2027 Internships",
+      "url": "https://jobright.ai/jobs/info/6ac9353dfe8f33a85d502d55",
+      "location": "Palo Alto, CA; Irvine, CA; Plymouth, MI; Atlanta, GA; Normal, IL",
+      "datePosted": 1793418803,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -22,7 +55,18 @@
       "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
       "url": "https://jobright.ai/jobs/info/6ac935b1af788e6ad3b5a7d2",
       "location": "Palo Alto, CA; Irvine, CA; Atlanta, GA; Normal, IL; Plymouth, MI",
-      "datePosted": 1793416832,
+      "datePosted": 1793418408,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac9353bfcdafb60c6a4b5f9",
+      "company": "Rivian",
+      "title": "Software Engineering - Summer 2027 Internships",
+      "url": "https://jobright.ai/jobs/info/6ac9353bfcdafb60c6a4b5f9",
+      "location": "Palo Alto, CA; Atlanta, GA; Irvine, CA; Normal, IL; Plymouth, MI",
+      "datePosted": 1793417440,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -36,17 +80,6 @@
       "datePosted": 1793416155,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac9353dfe8f33a85d502d55",
-      "company": "Rivian",
-      "title": "Computer Vision Software - Summer 2027 Internships",
-      "url": "https://jobright.ai/jobs/info/6ac9353dfe8f33a85d502d55",
-      "location": "Palo Alto, CA; Irvine, CA; Plymouth, MI; Atlanta, GA; Normal, IL",
-      "datePosted": 1793415606,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -685,39 +718,6 @@
       "datePosted": 1793373722,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4cfbad7424a2a828e8e6a",
-      "company": "Brain Co.",
-      "title": "Machine Learning Engineer, Applied AI Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ae4cfbad7424a2a828e8e6a",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1793373704,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae51e87fb2cd420ace5ce42",
-      "company": "The Aerospace Corporation",
-      "title": "2027 Data Scientist/Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae51e87fb2cd420ace5ce42",
-      "location": "El Segundo, CA; Chantilly, VA; Colorado Springs, CO",
-      "datePosted": 1793373698,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027) - Austin, TX",
-      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
-      "location": "Austin, TX",
-      "datePosted": 1793371386,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
