@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:30:18Z",
+  "generatedAt": "2026-10-31T17:40:25Z",
   "totalOpen": 1338,
   "totalNewgrad": 220,
   "totalOther": 1118,
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae6187dd7424a2a828eeb3b",
+      "company": "Aether Field",
+      "title": "Programmer Analyst Intern",
+      "url": "https://jobright.ai/jobs/info/6ae6187dd7424a2a828eeb3b",
+      "location": "Waller, TX",
+      "datePosted": 1793439245,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a578823e9b77f668bd686d0",
@@ -564,17 +575,6 @@
       "datePosted": 1793414838,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac8fd34fcdafb60c6a4a261",
-      "company": "TikTok",
-      "title": "Software Engineer Project Intern (Developer Infrastructure) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac8fd34fcdafb60c6a4a261",
-      "location": "San Jose, CA",
-      "datePosted": 1793414069,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
