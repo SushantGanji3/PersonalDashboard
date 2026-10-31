@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:20:16Z",
+  "generatedAt": "2026-10-31T19:30:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793449216
+    },
+    {
+      "id": "newgrad-jobs:6ae63264fb2cd420ace602f4",
+      "company": "General Atomics",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6ae63264fb2cd420ace602f4",
+      "location": "Poway, CA",
+      "datePosted": 1793445876,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793475019
     },
     {
       "id": "newgrad-jobs:6ae52c2f77c09cb3bd4b2509",
@@ -56,6 +67,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1793472616
+    },
+    {
+      "id": "newgrad-jobs:6a7aaa8fa26ccc369f83f178",
+      "company": "General Atomics",
+      "title": "Associate Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a7aaa8fa26ccc369f83f178",
+      "location": "Poway, CA",
+      "datePosted": 1793443266,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793475019
     },
     {
       "id": "newgrad-jobs:6ae623edc3139b475b5bc1c5",
@@ -278,6 +300,17 @@
       "firstSeenAt": 1793457616
     },
     {
+      "id": "newgrad-jobs:6aad966c0ebc8fb2313ea745",
+      "company": "Gemini",
+      "title": "Software Engineering Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad966c0ebc8fb2313ea745",
+      "location": "New York, NY",
+      "datePosted": 1793429163,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "firstSeenAt": 1793475019
+    },
+    {
       "id": "newgrad-jobs:6a90a904a19886486676284b",
       "company": "New York Life",
       "title": "Associate - Full-Stack AI Engineer",
@@ -375,6 +408,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793452815
+    },
+    {
+      "id": "newgrad-jobs:6a1ee503c5277c00c64813d4",
+      "company": "Qualcomm",
+      "title": "Entry level & Senior Software Engineer, Core AI Software (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6a1ee503c5277c00c64813d4",
+      "location": "San Diego, CA",
+      "datePosted": 1793424010,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793475019
     },
     {
       "id": "newgrad-jobs:6aad1a542e757fcb5c8b6edc",
@@ -48159,28 +48203,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790913016
-    },
-    {
-      "id": "newgrad-jobs:6abedefd8ff3fb9b3bc7664b",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (Recommendations and Search) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6abedefd8ff3fb9b3bc7664b",
-      "location": "Seattle, WA",
-      "datePosted": 1790882847,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790911818
-    },
-    {
-      "id": "newgrad-jobs:6abf151f372c01f6cd7272e0",
-      "company": "IBM",
-      "title": "Cloud Infrastructure Network Monitoring and Automation Software Engineer Intern - Austin, TX - 2027",
-      "url": "https://jobright.ai/jobs/info/6abf151f372c01f6cd7272e0",
-      "location": "Austin, TX",
-      "datePosted": 1790882479,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790911818
     }
   ]
 }
