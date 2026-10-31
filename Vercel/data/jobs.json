@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T17:10:16Z",
-  "totalOpen": 1337,
-  "totalNewgrad": 219,
+  "generatedAt": "2026-10-31T17:20:14Z",
+  "totalOpen": 1338,
+  "totalNewgrad": 220,
   "totalOther": 1118,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a578823e9b77f668bd686d0",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a578823e9b77f668bd686d0",
+      "location": "Dallas, TX",
+      "datePosted": 1793438078,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae4b853c3139b475b5b51f8",
@@ -292,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1793424881,
       "source": "newgrad-jobs",
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6ae4ee1477c09cb3bd4b0413",
       "location": "Stanford, CA",
       "datePosted": 1793386238,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4f1d377c09cb3bd4b06cc",
-      "company": "ServiceTitan",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae4f1d377c09cb3bd4b06cc",
-      "location": "United States",
-      "datePosted": 1793385750,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
