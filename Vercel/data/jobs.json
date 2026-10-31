@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-31T23:40:15Z",
-  "totalOpen": 1334,
-  "totalNewgrad": 216,
+  "generatedAt": "2026-10-31T23:50:16Z",
+  "totalOpen": 1335,
+  "totalNewgrad": 217,
   "totalOther": 1118,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ae6747feab1f9673098398a",
+      "company": "Cavalla",
+      "title": "Perception Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae6747feab1f9673098398a",
+      "location": "San Francisco Bay Area, United States",
+      "datePosted": 1793462799,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ae672a8eab1f9673098395a",
       "company": "UST HealthProof",
@@ -14,7 +25,7 @@
       "datePosted": 1793462328,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac96bad6355f8776ff18f79",
@@ -674,17 +685,6 @@
       "datePosted": 1793420325,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aad69e23d96632d741adab1",
-      "company": "Together AI",
-      "title": "Research Intern, Inference (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aad69e23d96632d741adab1",
-      "location": "San Francisco, CA",
-      "datePosted": 1793420254,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
