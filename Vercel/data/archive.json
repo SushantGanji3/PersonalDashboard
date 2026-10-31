@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T02:10:15Z",
+  "generatedAt": "2026-10-31T02:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793399919
+    },
+    {
+      "id": "newgrad-jobs:6ae54479c3139b475b5b9e15",
+      "company": "Vector Fellows",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae54479c3139b475b5b9e15",
+      "location": "United States",
+      "datePosted": 1793384969,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793413215
     },
     {
       "id": "newgrad-jobs:6ae53d71eab1f96730980a08",
@@ -49336,50 +49347,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790850619
-    },
-    {
-      "id": "newgrad-jobs:6abde7e38ff3fb9b3bc7258f",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abde7e38ff3fb9b3bc7258f",
-      "location": "East Hartford, CT",
-      "datePosted": 1790821177,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790849417
-    },
-    {
-      "id": "newgrad-jobs:6abde7ebd9621c5b2838df04",
-      "company": "RTX",
-      "title": "Summer 2027 Embedded Software Engineering Intern (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abde7ebd9621c5b2838df04",
-      "location": "East Hartford, CT",
-      "datePosted": 1790821177,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790850619
-    },
-    {
-      "id": "newgrad-jobs:6aa1d14f2f936e4a53dae49b",
-      "company": "Infinity Ward",
-      "title": "Activision 2027 Summer Internships - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aa1d14f2f936e4a53dae49b",
-      "location": "Los Angeles, CA; Portland, OR; Santa Monica, CA; Portland, ME",
-      "datePosted": 1790820897,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1790850619
-    },
-    {
-      "id": "newgrad-jobs:6abe23d44ac55253f5d5fa2d",
-      "company": "Trimble Inc.",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abe23d44ac55253f5d5fa2d",
-      "location": "Westminster, CO; Knoxville, TN; Lake Oswego, OR; Dayton, OH; Princeton, NJ; Sunnyvale, CA; Portsmouth, NH",
-      "datePosted": 1790820708,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790848819
     }
   ]
 }
