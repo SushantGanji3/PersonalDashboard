@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:10:16Z",
+  "generatedAt": "2026-10-31T06:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793402415
+    },
+    {
+      "id": "newgrad-jobs:6ae57c78eab1f96730981867",
+      "company": "A Full Renovation \u2013 Home Improvement",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae57c78eab1f96730981867",
+      "location": "United States",
+      "datePosted": 1793399304,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793427616
     },
     {
       "id": "simplify:c5138e81-eb36-45f4-8460-5c616a7abbf5",
@@ -49215,28 +49226,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790871017
-    },
-    {
-      "id": "newgrad-jobs:6abe09d28ff3fb9b3bc72acf",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "url": "https://jobright.ai/jobs/info/6abe09d28ff3fb9b3bc72acf",
-      "location": "Redmond, WA",
-      "datePosted": 1790835475,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790871017
-    },
-    {
-      "id": "newgrad-jobs:6a8dc84525fc4e7ae3dbdc87",
-      "company": "TheGuarantors",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8dc84525fc4e7ae3dbdc87",
-      "location": "New York, NY",
-      "datePosted": 1790835395,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791475221
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T06:10:16Z",
-  "totalOpen": 1362,
-  "totalNewgrad": 240,
+  "generatedAt": "2026-10-31T06:20:16Z",
+  "totalOpen": 1358,
+  "totalNewgrad": 236,
   "totalOther": 1122,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae57c78eab1f96730981867",
+      "company": "A Full Renovation \u2013 Home Improvement",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae57c78eab1f96730981867",
+      "location": "United States",
+      "datePosted": 1793399304,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:c5138e81-eb36-45f4-8460-5c616a7abbf5",
@@ -100,17 +111,6 @@
       "url": "https://jobright.ai/jobs/info/6ae42c4ffb2cd420ace567e6",
       "location": "Rochester, NY",
       "datePosted": 1793395799,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae56c9feab1f967309815af",
-      "company": "A Full Renovation \u2013 Home Improvement",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae56c9feab1f967309815af",
-      "location": "United States",
-      "datePosted": 1793395247,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -226,10 +226,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a872d34cde3717f9e9b094d",
+      "id": "newgrad-jobs:6ad5c41854bbabbab06ef445",
       "company": "Peraton",
       "title": "Cobol Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a872d34cde3717f9e9b094d",
+      "url": "https://jobright.ai/jobs/info/6ad5c41854bbabbab06ef445",
       "location": "United States",
       "datePosted": 1793381450,
       "source": "newgrad-jobs",
@@ -784,7 +784,7 @@
       "datePosted": 1793312991,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:09245a39-078b-476f-a779-34881b444f91",
