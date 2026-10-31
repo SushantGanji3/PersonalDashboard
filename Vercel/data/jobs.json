@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:40:16Z",
+  "generatedAt": "2026-10-31T19:50:15Z",
   "totalOpen": 1334,
   "totalNewgrad": 216,
   "totalOther": 1118,
@@ -28,6 +28,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae63a7beab1f967309832d3",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae63a7beab1f967309832d3",
+      "location": "Frisco, TX",
+      "datePosted": 1793447947,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac9720baf788e6ad3b5b872",
       "company": "L3Harris",
       "title": "Intern, Information Security Systems Engineer  (Salt Lake City, UT)",
@@ -36,7 +47,7 @@
       "datePosted": 1793447445,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a546a848a74e077472fbb77",
@@ -59,6 +70,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3c3921982bb239f812edc3",
+      "company": "Esri",
+      "title": "Software Development Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a3c3921982bb239f812edc3",
+      "location": "St. Louis, MO - Westport",
+      "datePosted": 1793444208,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a89b420cde3717f9e9b88f9",
@@ -490,10 +512,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1793424881,
       "source": "newgrad-jobs",
@@ -684,28 +706,6 @@
       "location": "Menlo Park, CA",
       "datePosted": 1793408528,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae59035fb2cd420ace5ec4d",
-      "company": "Torentify",
-      "title": "Web Developer I - Remote",
-      "url": "https://jobright.ai/jobs/info/6ae59035fb2cd420ace5ec4d",
-      "location": "United States",
-      "datePosted": 1793404357,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
-      "company": "Serco",
-      "title": "Junior Software Engineer - Remote",
-      "url": "https://jobright.ai/jobs/info/6ae240da05a39c3e2c71858c",
-      "location": "United States",
-      "datePosted": 1793403925,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
