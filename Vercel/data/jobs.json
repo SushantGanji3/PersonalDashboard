@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-01T06:00:21Z",
-  "totalOpen": 1326,
-  "totalNewgrad": 214,
-  "totalOther": 1112,
+  "generatedAt": "2026-11-01T06:10:15Z",
+  "totalOpen": 1325,
+  "totalNewgrad": 215,
+  "totalOther": 1110,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -1304,17 +1304,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:e2505b77-7cf2-4649-ad34-77ec15332d45",
-      "company": "L3Harris",
-      "title": "Associate \u2013 Software Engineering Intern",
-      "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors",
-      "location": "Greenville, TX",
-      "datePosted": 1793064890,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:402c7563-daf8-4f05-bd2b-ebcf615e32a1",
       "company": "L3Harris",
       "title": "Associate Software Engineering Intern",
@@ -1323,6 +1312,17 @@
       "datePosted": 1793064890,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:6a4d978f-591a-4db3-91fc-cf7e1e34458b",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Foundation Model Optimization",
+      "url": "https://www.metacareers.com/jobs/1435245618154892",
+      "location": "Burlingame, CA, Menlo Park, CA",
+      "datePosted": 1793063881,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
