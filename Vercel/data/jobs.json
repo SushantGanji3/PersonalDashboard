@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-01T19:30:16Z",
-  "totalOpen": 1525,
-  "totalNewgrad": 232,
+  "generatedAt": "2026-11-01T19:40:16Z",
+  "totalOpen": 1524,
+  "totalNewgrad": 231,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ada7ae23a69033df2259c16",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Data Engineer (Skillbridge Intern) - 28499 Job Details | HII's Mission Technologies division",
+      "url": "https://jobright.ai/jobs/info/6ada7ae23a69033df2259c16",
+      "location": "Augusta, GA",
+      "datePosted": 1793529980,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ae7820ba2a252e219423c08",
       "company": "CGI",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793496114,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae7023ac3139b475b5bdb91",
-      "company": "Micron",
-      "title": "Intern - IT Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae7023ac3139b475b5bdb91",
-      "location": "Boise, ID",
-      "datePosted": 1793495482,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     }
   ]
