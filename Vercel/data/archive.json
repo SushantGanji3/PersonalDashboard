@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:10:14Z",
+  "generatedAt": "2026-11-01T09:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -683,6 +683,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793520019
+    },
+    {
+      "id": "newgrad-jobs:6ae6f340fb2cd420ace61a35",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "url": "https://jobright.ai/jobs/info/6ae6f340fb2cd420ace61a35",
+      "location": "Redmond, WA",
+      "datePosted": 1793495248,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793524817
     },
     {
       "id": "newgrad-jobs:6ae6e32beab1f967309847f7",
@@ -48511,17 +48522,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790963329
-    },
-    {
-      "id": "newgrad-jobs:6abfd8d9064da25272e0627e",
-      "company": "UniFirst Corporation",
-      "title": "Junior Azure Data Engineer - Hybrid Role",
-      "url": "https://jobright.ai/jobs/info/6abfd8d9064da25272e0627e",
-      "location": "Wilmington, MA",
-      "datePosted": 1790932585,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790960421
     }
   ]
 }
