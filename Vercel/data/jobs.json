@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-01T20:30:18Z",
-  "totalOpen": 1525,
-  "totalNewgrad": 232,
+  "generatedAt": "2026-11-01T20:40:17Z",
+  "totalOpen": 1526,
+  "totalNewgrad": 233,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ada752c4c3adc437cecd196",
+      "company": "Sun West Mortgage Company, Inc.",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ada752c4c3adc437cecd196",
+      "location": "United States",
+      "datePosted": 1793534885,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ae7923ebad9293a40a42997",
       "company": "KnowBe4",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793496739,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae704b277c09cb3bd4b6e22",
-      "company": "Booz Allen Hamilton",
-      "title": "University, 2027 Summer Games Software Developer Intern - Rome, NY",
-      "url": "https://jobright.ai/jobs/info/6ae704b277c09cb3bd4b6e22",
-      "location": "Rome, NY",
-      "datePosted": 1793496114,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     }
   ]
