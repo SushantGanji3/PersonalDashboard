@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:50:15Z",
+  "generatedAt": "2026-11-01T12:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -2047,6 +2047,39 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793527223
+    },
+    {
+      "id": "newgrad-jobs:6a86439ad34f700f87fc13e0",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Software Engineer Intern (Recommendations and Search) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a86439ad34f700f87fc13e0",
+      "location": "Seattle, WA",
+      "datePosted": 1793501180,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793534419
+    },
+    {
+      "id": "newgrad-jobs:6a86439a4afae74a083445dc",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Software Engineer Intern (Infra) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a86439a4afae74a083445dc",
+      "location": "San Jose, CA",
+      "datePosted": 1793501125,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793534419
+    },
+    {
+      "id": "newgrad-jobs:6a4fcd339469c0662034ee54",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a4fcd339469c0662034ee54",
+      "location": "San Jose, CA",
+      "datePosted": 1793500384,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793534419
     },
     {
       "id": "newgrad-jobs:6ae6ff62eab1f9673098498b",
@@ -49424,28 +49457,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1790970014
-    },
-    {
-      "id": "newgrad-jobs:6aa5f2352ed333b4ea5c8a2e",
-      "company": "Excelacom",
-      "title": "Data Developer - ETL",
-      "url": "https://jobright.ai/jobs/info/6aa5f2352ed333b4ea5c8a2e",
-      "location": "Greenwood Village, CO",
-      "datePosted": 1790941920,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790997617
-    },
-    {
-      "id": "newgrad-jobs:6abffd2cd9621c5b28395b2d",
-      "company": "Peraton",
-      "title": "Artificial Intelligence/Machine Learning (AI/ML) Engineer 1 Top Secret/SCI w/Poly",
-      "url": "https://jobright.ai/jobs/info/6abffd2cd9621c5b28395b2d",
-      "location": "Laurel, MD",
-      "datePosted": 1790941884,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790971218
     }
   ]
 }
