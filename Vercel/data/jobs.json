@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-01T07:40:15Z",
-  "totalOpen": 1319,
-  "totalNewgrad": 212,
+  "generatedAt": "2026-11-01T07:50:17Z",
+  "totalOpen": 1317,
+  "totalNewgrad": 210,
   "totalOther": 1107,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ae6e32beab1f967309847f7",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae6e32beab1f967309847f7",
+      "location": "Frisco, TX",
+      "datePosted": 1793491131,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
       "company": "Serco",
@@ -36,17 +47,6 @@
       "datePosted": 1793486118,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae6cd55d7424a2a828f03a6",
-      "company": "Nadora Medical Solutions",
-      "title": "Software Engineering Intern (Winter Entry Cohort)",
-      "url": "https://jobright.ai/jobs/info/6ae6cd55d7424a2a828f03a6",
-      "location": "United States",
-      "datePosted": 1793485541,
-      "source": "newgrad-jobs",
-      "season": "Winter",
       "isNew": false
     },
     {
@@ -512,17 +512,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae4b860eab1f9673097bfa1",
-      "company": "Lockheed Martin",
-      "title": "sUAS/Drone Software Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6ae4b860eab1f9673097bfa1",
-      "location": "San Luis Obispo, CA",
-      "datePosted": 1793438709,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae4b859d7424a2a828e7de5",
       "company": "Lockheed Martin",
       "title": "sUAS/Drone Software Engineer - Intern",
@@ -683,6 +672,17 @@
       "url": "https://jobright.ai/jobs/info/6a5b8e97856af468ab00d1c9",
       "location": "San Jose, CA",
       "datePosted": 1793424835,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a1ee503c5277c00c64813d4",
+      "company": "Qualcomm",
+      "title": "Entry level & Senior Software Engineer, Core AI Software (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6a1ee503c5277c00c64813d4",
+      "location": "San Diego, CA",
+      "datePosted": 1793424010,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
