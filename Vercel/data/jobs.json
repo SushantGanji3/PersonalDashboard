@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T09:20:17Z",
-  "totalOpen": 1372,
-  "totalNewgrad": 207,
+  "generatedAt": "2026-11-01T09:30:18Z",
+  "totalOpen": 1371,
+  "totalNewgrad": 206,
   "totalOther": 1165,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -674,7 +674,7 @@
       "datePosted": 1793495248,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
@@ -705,17 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ae6cf9677c09cb3bd4b69d9",
       "location": "United States",
       "datePosted": 1793486118,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae6cb83eab1f967309844bf",
-      "company": "Torentify",
-      "title": "ServiceNow Developer - Remote",
-      "url": "https://jobright.ai/jobs/info/6ae6cb83eab1f967309844bf",
-      "location": "United States",
-      "datePosted": 1793485075,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1323,6 +1312,17 @@
       "datePosted": 1793422263,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a58487a8f51964c040477c9",
+      "company": "Netic",
+      "title": "Software Engineer (Agent Platform) - Intern - 2026-2027",
+      "url": "https://jobright.ai/jobs/info/6a58487a8f51964c040477c9",
+      "location": "San Francisco, CA",
+      "datePosted": 1793421518,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     }
   ]
