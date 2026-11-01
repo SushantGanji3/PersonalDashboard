@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:30:17Z",
+  "generatedAt": "2026-11-01T15:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -2047,6 +2047,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793527223
+    },
+    {
+      "id": "newgrad-jobs:6a760453a26ccc369f833373",
+      "company": "Fortune",
+      "title": "Full Stack Software Engineer Next.js",
+      "url": "https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
+      "location": "New York, NY",
+      "datePosted": 1793516554,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793547616
+    },
+    {
+      "id": "newgrad-jobs:6ae753a9bad9293a40a420e5",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae753a9bad9293a40a420e5",
+      "location": "Frisco, TX",
+      "datePosted": 1793516329,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793547616
     },
     {
       "id": "newgrad-jobs:6aaaff86c85610f4a4842e93",
@@ -49380,17 +49402,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790984416
-    },
-    {
-      "id": "newgrad-jobs:6ac03127064da25272e0844b",
-      "company": "Trailer Ops",
-      "title": "Frontend Developer - Client Relations",
-      "url": "https://jobright.ai/jobs/info/6ac03127064da25272e0844b",
-      "location": "St. George, UT",
-      "datePosted": 1790955191,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790983220
     }
   ]
 }
