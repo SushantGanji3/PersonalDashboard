@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-01T00:20:15Z",
-  "totalOpen": 1336,
-  "totalNewgrad": 217,
+  "generatedAt": "2026-11-01T00:28:10Z",
+  "totalOpen": 1335,
+  "totalNewgrad": 216,
   "totalOther": 1119,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ae2317f05a39c3e2c717c54",
+      "company": "Oracle",
+      "title": "[Remote] Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2317f05a39c3e2c717c54",
+      "location": "United States",
+      "datePosted": 1793465116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ae6747feab1f9673098398a",
       "company": "Cavalla",
@@ -12,17 +23,6 @@
       "url": "https://jobright.ai/jobs/info/6ae6747feab1f9673098398a",
       "location": "San Francisco Bay Area, United States",
       "datePosted": 1793462799,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae672a8eab1f9673098395a",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae672a8eab1f9673098395a",
-      "location": "Frisco, TX",
-      "datePosted": 1793462328,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -111,17 +111,6 @@
       "url": "https://jobright.ai/jobs/info/6ae20c7f829a3bada16007db",
       "location": "Wendell, NC",
       "datePosted": 1793458236,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2317f05a39c3e2c717c54",
-      "company": "Oracle",
-      "title": "[Remote] Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae2317f05a39c3e2c717c54",
-      "location": "United States",
-      "datePosted": 1793457926,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -688,6 +677,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aad69e23d96632d741adab1",
+      "company": "Together AI",
+      "title": "Research Intern, Inference (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69e23d96632d741adab1",
+      "location": "San Francisco, CA",
+      "datePosted": 1793420254,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:c5caf1a9-1f62-4ebc-a3ba-4cc81613d002",
       "company": "Northrop Grumman",
       "title": "Data Scientist Intern, Product Support",
@@ -718,7 +718,7 @@
       "datePosted": 1793404800,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:49ac054d-6120-45f3-9704-30823f0c902f",
