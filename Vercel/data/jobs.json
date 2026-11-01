@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-01T19:40:16Z",
-  "totalOpen": 1524,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-11-01T19:50:16Z",
+  "totalOpen": 1525,
+  "totalNewgrad": 232,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ae78be0bad9293a40a428f4",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae78be0bad9293a40a428f4",
+      "location": "Frisco, TX",
+      "datePosted": 1793530720,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ada7ae23a69033df2259c16",
       "company": "Mission Technologies, a division of HII",
@@ -14,7 +25,7 @@
       "datePosted": 1793529980,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae7820ba2a252e219423c08",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793496739,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae704b277c09cb3bd4b6e22",
-      "company": "Booz Allen Hamilton",
-      "title": "University, 2027 Summer Games Software Developer Intern - Rome, NY",
-      "url": "https://jobright.ai/jobs/info/6ae704b277c09cb3bd4b6e22",
-      "location": "Rome, NY",
-      "datePosted": 1793496114,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     }
   ]
