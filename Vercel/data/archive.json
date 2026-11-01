@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:40:15Z",
+  "generatedAt": "2026-11-01T13:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -2047,6 +2047,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793527223
+    },
+    {
+      "id": "newgrad-jobs:6a7487e7bb6ca93ae560a772",
+      "company": "impact.com",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772",
+      "location": "Santa Barbara, CA",
+      "datePosted": 1793508273,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793541016
     },
     {
       "id": "newgrad-jobs:6a86439c4afae74a083445dd",
@@ -49435,28 +49446,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790977217
-    },
-    {
-      "id": "newgrad-jobs:6ac00b93064da25272e076fd",
-      "company": "Amentum",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac00b93064da25272e076fd",
-      "location": "Dahlgren, VA",
-      "datePosted": 1790948767,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790977217
-    },
-    {
-      "id": "newgrad-jobs:6ac00b988ff3fb9b3bc7a592",
-      "company": "Amentum",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac00b988ff3fb9b3bc7a592",
-      "location": "Dahlgren, VA",
-      "datePosted": 1790948711,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790979619
     }
   ]
 }
