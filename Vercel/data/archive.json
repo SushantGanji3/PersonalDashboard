@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:30:18Z",
+  "generatedAt": "2026-11-01T14:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -2047,6 +2047,39 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793527223
+    },
+    {
+      "id": "newgrad-jobs:6ae7441ebad9293a40a41f64",
+      "company": "Torentify",
+      "title": "Software Engineer - Mobile (WFH)",
+      "url": "https://jobright.ai/jobs/info/6ae7441ebad9293a40a41f64",
+      "location": "United States",
+      "datePosted": 1793512350,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793544016
+    },
+    {
+      "id": "newgrad-jobs:6ae73f46fb2cd420ace626db",
+      "company": "Leidos",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ae73f46fb2cd420ace626db",
+      "location": "Huntsville, AL",
+      "datePosted": 1793511110,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793544016
+    },
+    {
+      "id": "newgrad-jobs:6ae73f3b6c51033758f3c602",
+      "company": "Leidos",
+      "title": "Jr Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae73f3b6c51033758f3c602",
+      "location": "Newport News, VA",
+      "datePosted": 1793511099,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793544016
     },
     {
       "id": "newgrad-jobs:6ae73ab36c51033758f3c54d",
@@ -49391,28 +49424,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1790981416
-    },
-    {
-      "id": "newgrad-jobs:6ac0248a4ac55253f5d67e0c",
-      "company": "Viant Technology",
-      "title": "Applied Scientist",
-      "url": "https://jobright.ai/jobs/info/6ac0248a4ac55253f5d67e0c",
-      "location": "Irvine, CA; Los Angeles, CA",
-      "datePosted": 1790951962,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1790980816
-    },
-    {
-      "id": "newgrad-jobs:6ac0238b8ff3fb9b3bc7af4b",
-      "company": "Viant Technology",
-      "title": "Applied Scientist",
-      "url": "https://jobright.ai/jobs/info/6ac0238b8ff3fb9b3bc7af4b",
-      "location": "Irvine, CA",
-      "datePosted": 1790951707,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791220815
     }
   ]
 }
