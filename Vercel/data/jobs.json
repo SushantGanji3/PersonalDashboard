@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-01T00:10:17Z",
-  "totalOpen": 1335,
+  "generatedAt": "2026-11-01T00:20:15Z",
+  "totalOpen": 1336,
   "totalNewgrad": 217,
-  "totalOther": 1118,
+  "totalOther": 1119,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -710,6 +710,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:b712040a-e374-471f-b223-7341fc7c178e",
+      "company": "Patreon",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/13j",
+      "location": "New York, NY",
+      "datePosted": 1793404800,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:49ac054d-6120-45f3-9704-30823f0c902f",
       "company": "Amazon",
       "title": "Software Development Engineer - Database",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793064890,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:6a4d978f-591a-4db3-91fc-cf7e1e34458b",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Foundation Model Optimization",
-      "url": "https://www.metacareers.com/jobs/1435245618154892",
-      "location": "Burlingame, CA, Menlo Park, CA",
-      "datePosted": 1793063881,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
