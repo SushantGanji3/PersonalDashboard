@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-02T20:10:17Z",
-  "totalOpen": 1508,
-  "totalNewgrad": 230,
-  "totalOther": 1278,
+  "generatedAt": "2026-11-02T20:20:21Z",
+  "totalOpen": 1512,
+  "totalNewgrad": 233,
+  "totalOther": 1279,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:c04c0f98-97c0-4544-9433-ebbd1c5825b1",
+      "company": "RTX",
+      "title": "Systems Security Engineer Intern, Raytheon",
+      "url": "https://go.vansh.nyc/19I",
+      "location": "Woburn, MA",
+      "datePosted": 1793649540,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:9ab6e3ea-0469-42ae-9bb6-f2f55696880d",
       "company": "Verkada",
@@ -25,6 +36,50 @@
       "datePosted": 1793628976,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8e3b5061d6d7ff3d7e342",
+      "company": "McWane",
+      "title": "McWane Ductile New Jersey-Programmer",
+      "url": "https://jobright.ai/jobs/info/6ae8e3b5061d6d7ff3d7e342",
+      "location": "Phillipsburg, NJ",
+      "datePosted": 1793618741,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8e072a2a252e21942a6a1",
+      "company": "Allergan Aesthetics, an AbbVie Company",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae8e072a2a252e21942a6a1",
+      "location": "Northbrook, IL",
+      "datePosted": 1793617906,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8dfa203f4a1104b257479",
+      "company": "Reqpedia",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae8dfa203f4a1104b257479",
+      "location": "Minneapolis, MN",
+      "datePosted": 1793617698,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8c455fb2cd420ace688ba",
+      "company": "Resideo",
+      "title": "Mobile Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ae8c455fb2cd420ace688ba",
+      "location": "Austin, TX",
+      "datePosted": 1793617669,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -103,6 +158,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7a68954bbabbab0700c25",
+      "company": "GM Financial",
+      "title": "Intern - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad7a68954bbabbab0700c25",
+      "location": "Arlington, TX",
+      "datePosted": 1793616758,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae52c2f77c09cb3bd4b2509",
@@ -402,17 +468,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8c455fb2cd420ace688ba",
-      "company": "Resideo",
-      "title": "Mobile Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae8c455fb2cd420ace688ba",
-      "location": "Austin, TX",
-      "datePosted": 1793610709,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae8bcc06c51033758f422bc",
       "company": "IBM",
       "title": "Confluent - Software Developer",
@@ -650,50 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6a93cbf73603630099199105",
       "location": "Palo Alto, CA",
       "datePosted": 1793600391,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a93c868c12c90443efccb0e",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer, Developer Systems",
-      "url": "https://jobright.ai/jobs/info/6a93c868c12c90443efccb0e",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793599613,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8985f061d6d7ff3d7b217",
-      "company": "Torentify",
-      "title": "Software Engineer - Remote",
-      "url": "https://jobright.ai/jobs/info/6ae8985f061d6d7ff3d7b217",
-      "location": "United States",
-      "datePosted": 1793599455,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae897e0061d6d7ff3d7b1fb",
-      "company": "Torentify",
-      "title": "Data Scientist - WFH",
-      "url": "https://jobright.ai/jobs/info/6ae897e0061d6d7ff3d7b1fb",
-      "location": "United States",
-      "datePosted": 1793599328,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae29a261f9d9308370b34ab",
-      "company": "Bending Spoons",
-      "title": "Security engineer, US",
-      "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
-      "location": "United States",
-      "datePosted": 1793598653,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1309,17 +1320,6 @@
       "title": "New Grad 2027: Software Engineer, Global CRM",
       "url": "https://go.vansh.nyc/16M",
       "location": "San Jose, CA",
-      "datePosted": 1793526076,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:113f06b0-e59a-445a-b4e8-b7015b806e9f",
-      "company": "TikTok",
-      "title": "New Grad 2027: Machine Learning Engineer (TikTok-Data-Search-Recommendation-Global E-Commerce)",
-      "url": "https://go.vansh.nyc/16N",
-      "location": "Seattle, WA",
       "datePosted": 1793526076,
       "source": "aggregator",
       "season": null,
