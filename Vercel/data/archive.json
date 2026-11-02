@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T09:10:17Z",
+  "generatedAt": "2026-11-02T09:20:21Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793605215
+    },
+    {
+      "id": "newgrad-jobs:6ae848a4fb2cd420ace65772",
+      "company": "Horizon Air",
+      "title": "Intern - Software Engineer (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ae848a4fb2cd420ace65772",
+      "location": "SeaTac, WA",
+      "datePosted": 1793579044,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793611221
     },
     {
       "id": "newgrad-jobs:6ae846096c51033758f3f685",
@@ -49138,17 +49149,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791733215
-    },
-    {
-      "id": "newgrad-jobs:6a4fe27bfc327f422fef6df5",
-      "company": "SpaceX",
-      "title": "Data Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4fe27bfc327f422fef6df5",
-      "location": "Hawthorne, CA",
-      "datePosted": 1791018800,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791713417
     }
   ]
 }
