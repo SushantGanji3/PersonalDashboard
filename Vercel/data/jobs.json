@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:50:16Z",
+  "generatedAt": "2026-11-02T08:00:21Z",
   "totalOpen": 1535,
   "totalNewgrad": 243,
   "totalOther": 1292,
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae834a4bad9293a40a44718",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae834a4bad9293a40a44718",
+      "location": "Frisco, TX",
+      "datePosted": 1793573924,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793508082,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a534f5d8576ec69c014f57f",
-      "company": "The D. E. Shaw Group",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a534f5d8576ec69c014f57f",
-      "location": "New York, NY",
-      "datePosted": 1793507008,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     }
   ]
