@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T16:40:17Z",
+  "generatedAt": "2026-11-02T16:50:17Z",
   "totalOpen": 1517,
   "totalNewgrad": 239,
   "totalOther": 1278,
@@ -15,6 +15,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae0dc90de23f466ec8b9a2a",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ae0dc90de23f466ec8b9a2a",
+      "location": "Fort Worth, TX",
+      "datePosted": 1793606486,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a974090455eaf6a08c1bc29",
+      "company": "Plexus Corp.",
+      "title": "Intern - Software Engineer (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a974090455eaf6a08c1bc29",
+      "location": "Raleigh, NC",
+      "datePosted": 1793606436,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8af71fb2cd420ace67916",
+      "company": "Elevated Web Design",
+      "title": "Application Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ae8af71fb2cd420ace67916",
+      "location": "United States",
+      "datePosted": 1793605361,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a591d083ac7627fe9ffd570",
@@ -177,17 +210,6 @@
       "url": "https://jobright.ai/jobs/info/6a7645caa26ccc369f8348f3",
       "location": "San Mateo, CA",
       "datePosted": 1793600601,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae89c2ca2a252e219427919",
-      "company": "Hydromenta Systems",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae89c2ca2a252e219427919",
-      "location": "New York, NY; Rochester, NY",
-      "datePosted": 1793600428,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -424,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae2039c829a3bada16000f2",
+      "id": "newgrad-jobs:6abd9835372c01f6cd7216ce",
       "company": "Allegion",
-      "title": "Summer Intern \u2013 Software Engineering \u2013 Quality Assurance",
-      "url": "https://jobright.ai/jobs/info/6ae2039c829a3bada16000f2",
+      "title": "Summer Intern - Software Engineering - Quality Assurance",
+      "url": "https://jobright.ai/jobs/info/6abd9835372c01f6cd7216ce",
       "location": "Golden, CO",
       "datePosted": 1793570082,
       "source": "newgrad-jobs",
@@ -435,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd9835372c01f6cd7216ce",
+      "id": "newgrad-jobs:6ae1f7dd05a39c3e2c7151cd",
       "company": "Allegion",
-      "title": "Summer Intern - Software Engineering - Quality Assurance",
-      "url": "https://jobright.ai/jobs/info/6abd9835372c01f6cd7216ce",
+      "title": "Summer Intern \u2013 Software Engineering \u2013 Quality Assurance",
+      "url": "https://jobright.ai/jobs/info/6ae1f7dd05a39c3e2c7151cd",
       "location": "Golden, CO",
       "datePosted": 1793570082,
       "source": "newgrad-jobs",
@@ -600,6 +622,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae8b73e6c51033758f41e58",
+      "company": "KLA",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae8b73e6c51033758f41e58",
+      "location": "Totowa, NJ",
+      "datePosted": 1793548800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a984018def18223c854e3ec",
       "company": "Intel",
       "title": "Software Engineering - Intern, Bachelor\u2019s",
@@ -652,39 +685,6 @@
       "datePosted": 1793546424,
       "source": "newgrad-jobs",
       "season": "Spring 2028",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc24700a4cc7090f9763df",
-      "company": "Disney",
-      "title": "Product & Technology Software Engineering Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6adc24700a4cc7090f9763df",
-      "location": "Glendale, CA; San Francisco, CA; Santa Monica, CA; Seattle, WA; Bristol, CT; New York, NY",
-      "datePosted": 1793546424,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae148efde23f466ec8bdd3c",
-      "company": "Disney",
-      "title": "Enterprise Technology & Data Software Engineering Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae148efde23f466ec8bdd3c",
-      "location": "Burbank, CA; Orlando, FL; Seattle, WA",
-      "datePosted": 1793546424,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4c0a58c2d11a6a46679b39",
-      "company": "Notion",
-      "title": "Software Engineer, Early Career (AI)",
-      "url": "https://jobright.ai/jobs/info/6a4c0a58c2d11a6a46679b39",
-      "location": "San Francisco, CA",
-      "datePosted": 1793546007,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
