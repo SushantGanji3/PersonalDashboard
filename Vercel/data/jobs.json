@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T19:50:16Z",
-  "totalOpen": 1504,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-11-02T20:00:19Z",
+  "totalOpen": 1508,
+  "totalNewgrad": 230,
   "totalOther": 1278,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793645823,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:42ac5574-2678-41c7-9396-732c5a690fd0",
@@ -26,6 +26,72 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8de5b061d6d7ff3d7df8b",
+      "company": "Qualtrics",
+      "title": "Software Development Engineer I - Data Platform",
+      "url": "https://jobright.ai/jobs/info/6ae8de5b061d6d7ff3d7df8b",
+      "location": "Seattle, WA",
+      "datePosted": 1793617371,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac130328ff3fb9b3bc7d2ed",
+      "company": "TikTok",
+      "title": "Software Engineer - Data Agent & Agentic Search",
+      "url": "https://jobright.ai/jobs/info/6ac130328ff3fb9b3bc7d2ed",
+      "location": "San Jose, CA",
+      "datePosted": 1793617176,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8dd90a2a252e21942a44a",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ae8dd90a2a252e21942a44a",
+      "location": "Bellevue, WA",
+      "datePosted": 1793617168,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8dd7aa2a252e21942a43c",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae8dd7aa2a252e21942a43c",
+      "location": "Frisco, TX",
+      "datePosted": 1793617146,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8b5f8777c336eb6d65415",
+      "company": "Amazon",
+      "title": "Security Incident Response, Security Engineer, US Amazon Dedicated Cloud Security",
+      "url": "https://jobright.ai/jobs/info/6ae8b5f8777c336eb6d65415",
+      "location": "Herndon, VA",
+      "datePosted": 1793617074,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8dc94a2a252e21942a391",
+      "company": "RS Global Services",
+      "title": "Founding AI Engineer - Onsite - Santa Monica, CA",
+      "url": "https://jobright.ai/jobs/info/6ae8dc94a2a252e21942a391",
+      "location": "Santa Monica, CA",
+      "datePosted": 1793616916,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a9eeb47dacf777321a93a86",
@@ -413,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8b5f8777c336eb6d65415",
-      "company": "Amazon",
-      "title": "Security Incident Response, Security Engineer, US Amazon Dedicated Cloud Security",
-      "url": "https://jobright.ai/jobs/info/6ae8b5f8777c336eb6d65415",
-      "location": "Herndon, VA",
-      "datePosted": 1793607032,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae3e66ceab1f96730977f6d",
       "company": "Lockheed Martin",
       "title": "Software Engineer Asc - Early Career",
@@ -556,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a29c9582cde2824469be98f",
+      "id": "newgrad-jobs:6a57d1c7a791c6211bf013a8",
       "company": "Metropolitan Transportation Authority",
       "title": "Application Developer Levels 1 - 5 - Enterprise Document Migration",
-      "url": "https://jobright.ai/jobs/info/6a29c9582cde2824469be98f",
+      "url": "https://jobright.ai/jobs/info/6a57d1c7a791c6211bf013a8",
       "location": "New York, NY",
       "datePosted": 1793601916,
       "source": "newgrad-jobs",
@@ -639,61 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
       "location": "United States",
       "datePosted": 1793598653,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf9f2dc5c64fa3d9cbdb51",
-      "company": "Jacobs",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6adf9f2dc5c64fa3d9cbdb51",
-      "location": "Chantilly, VA",
-      "datePosted": 1793598174,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae88d45061d6d7ff3d7ae76",
-      "company": "ParetoHealth",
-      "title": "Software Engineering Summer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae88d45061d6d7ff3d7ae76",
-      "location": "Philadelphia, PA",
-      "datePosted": 1793596704,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae88bd303f4a1104b254293",
-      "company": "KnowBe4",
-      "title": "Software Engineer Summer Internship",
-      "url": "https://jobright.ai/jobs/info/6ae88bd303f4a1104b254293",
-      "location": "Clearwater, FL",
-      "datePosted": 1793596243,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8897203f4a1104b25414e",
-      "company": "Clark Associates",
-      "title": "2027 Full Stack Development Summer Internship",
-      "url": "https://jobright.ai/jobs/info/6ae8897203f4a1104b25414e",
-      "location": "United States",
-      "datePosted": 1793595634,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
-      "company": "Serco",
-      "title": "Junior Software Engineer - Remote",
-      "url": "https://jobright.ai/jobs/info/6ae240da05a39c3e2c71858c",
-      "location": "United States",
-      "datePosted": 1793593841,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
