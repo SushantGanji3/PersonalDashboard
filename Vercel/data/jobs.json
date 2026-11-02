@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T14:50:17Z",
-  "totalOpen": 1519,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-11-02T15:00:30Z",
+  "totalOpen": 1521,
+  "totalNewgrad": 240,
   "totalOther": 1281,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae86088fb2cd420ace65f14",
+      "company": "Alaska Airlines",
+      "title": "Intern - Software Engineer (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ae86088fb2cd420ace65f14",
+      "location": "SeaTac, WA",
+      "datePosted": 1793598489,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab794df3a2ec87116e26303",
+      "company": "Jacobs",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ab794df3a2ec87116e26303",
+      "location": "Chantilly, VA",
+      "datePosted": 1793598174,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae88d45061d6d7ff3d7ae76",
@@ -58,28 +80,6 @@
       "datePosted": 1793595634,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae88900a2a252e21942728f",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae88900a2a252e21942728f",
-      "location": "Frisco, TX",
-      "datePosted": 1793595520,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae86088fb2cd420ace65f14",
-      "company": "Alaska Airlines",
-      "title": "Intern - Software Engineer (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ae86088fb2cd420ace65f14",
-      "location": "SeaTac, WA",
-      "datePosted": 1793594736,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -215,10 +215,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae2039c829a3bada16000f2",
+      "id": "newgrad-jobs:6ae1f7dd05a39c3e2c7151cd",
       "company": "Allegion",
       "title": "Summer Intern \u2013 Software Engineering \u2013 Quality Assurance",
-      "url": "https://jobright.ai/jobs/info/6ae2039c829a3bada16000f2",
+      "url": "https://jobright.ai/jobs/info/6ae1f7dd05a39c3e2c7151cd",
       "location": "Golden, CO",
       "datePosted": 1793570082,
       "source": "newgrad-jobs",
@@ -1227,17 +1227,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9362db9864261ccd2a2b92",
-      "company": "Jacobs",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a9362db9864261ccd2a2b92",
-      "location": "Herndon, VA",
-      "datePosted": 1793523202,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a52c0efe726ec56126a450c",
       "company": "SpaceX",
       "title": "Software Infrastructure Engineer (Starlink)",
@@ -1323,6 +1312,17 @@
       "datePosted": 1793518886,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac8191636cddf7396f4523",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6aac8191636cddf7396f4523",
+      "location": "Detroit, MI; Madison, WI; Boston, MA; Austin, TX; Nashville, TN; Seattle, WA; Arlington, VA; Denver, CO; Minneapolis, MN; Phoenix, AZ; Tempe, AZ; Berkeley, CA; Culver City, CA; Cupertino, CA; East Palo Alto, CA; Hawthorne, CA; Irvine, CA; Los Gatos, CA; Los Angeles, CA; Manhattan Beach, CA; Mountain View, CA; Palo Alto, CA; Pasadena, CA; San Diego, CA; San Francisco, CA; San Jose, CA; San Luis Obispo, CA; Santa Barbara, CA; Santa Clara, CA; Santa Cruz, CA; Santa Monica, CA; Sunnyvale, CA; Boulder, CO; Atlanta, GA; Kennesaw, GA; Chicago, IL; Cambridge, MA; Hudson, MA; North Reading, MA; Westborough, MA; Annapolis Junction, MD; Baltimore, MD; Raleigh, NC; Jersey City, NJ; Newark, NJ; New York, NY; Portland, OR; Philadelphia, PA; Pittsburgh, PA; Carrollton, TX; Dallas, TX; Irving, TX; Herndon, VA; Bellevue, WA; Redmond, WA",
+      "datePosted": 1793518645,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     }
   ]
