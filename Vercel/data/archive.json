@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T09:50:33Z",
+  "generatedAt": "2026-11-02T10:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793605215
+    },
+    {
+      "id": "newgrad-jobs:6ae850dca2a252e219426461",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae850dca2a252e219426461",
+      "location": "Frisco, TX",
+      "datePosted": 1793581148,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793613619
     },
     {
       "id": "newgrad-jobs:6ae84d266c51033758f3f822",
@@ -48962,39 +48973,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791798615
-    },
-    {
-      "id": "newgrad-jobs:6a7debf70cd4a0703257c841",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a7debf70cd4a0703257c841",
-      "location": "Hawthorne, CA",
-      "datePosted": 1791021589,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791280819
-    },
-    {
-      "id": "newgrad-jobs:6a6b5c22acb0a61f9dbc055a",
-      "company": "SpaceX",
-      "title": "Software Engineer, Data - Top Secret Clearance (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a6b5c22acb0a61f9dbc055a",
-      "location": "Hawthorne, CA",
-      "datePosted": 1791021349,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791796218
-    },
-    {
-      "id": "newgrad-jobs:6aa4aa451d92e2d05d115a9b",
-      "company": "Motorola Solutions",
-      "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa4aa451d92e2d05d115a9b",
-      "location": "Plantation, FL",
-      "datePosted": 1791021076,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1791049816
     }
   ]
 }
