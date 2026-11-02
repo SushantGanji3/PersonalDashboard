@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T21:30:19Z",
-  "totalOpen": 1510,
-  "totalNewgrad": 230,
+  "generatedAt": "2026-11-02T21:40:17Z",
+  "totalOpen": 1511,
+  "totalNewgrad": 231,
   "totalOther": 1280,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,6 +47,39 @@
       "datePosted": 1793628976,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad9709c950ef68d51850cb1",
+      "company": "Amazon",
+      "title": "Data Engineer , PXT EXR-Ops Tech",
+      "url": "https://jobright.ai/jobs/info/6ad9709c950ef68d51850cb1",
+      "location": "Bellevue, WA",
+      "datePosted": 1793623397,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
+      "company": "Meta AI",
+      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abaac6cee0b348be729ad33",
+      "location": "Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1793623397,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae3edb6eab1f967309782de",
+      "company": "Tesla",
+      "title": "Internship, Data Engineer, Energy (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6ae3edb6eab1f967309782de",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793623397,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -685,39 +718,6 @@
       "datePosted": 1793602653,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad627c63dc655658d8e2bd5",
-      "company": "Andrew Morgan",
-      "title": "OneStream Developer",
-      "url": "https://jobright.ai/jobs/info/6ad627c63dc655658d8e2bd5",
-      "location": "United States",
-      "datePosted": 1793602359,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab7454881e327c4bf203155",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Application Developer Levels 1 - 5",
-      "url": "https://jobright.ai/jobs/info/6ab7454881e327c4bf203155",
-      "location": "New York, NY",
-      "datePosted": 1793601916,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a29c9582cde2824469be98f",
-      "company": "Metropolitan Transportation Authority",
-      "title": "Application Developer Levels 1 - 5 - Enterprise Document Migration",
-      "url": "https://jobright.ai/jobs/info/6a29c9582cde2824469be98f",
-      "location": "New York, NY",
-      "datePosted": 1793601916,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
