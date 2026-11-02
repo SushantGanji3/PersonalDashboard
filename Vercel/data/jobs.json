@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:40:16Z",
+  "generatedAt": "2026-11-02T22:50:16Z",
   "totalOpen": 1513,
   "totalNewgrad": 236,
   "totalOther": 1277,
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8bd3efb2cd420ace68272",
+      "company": "Zebra Technologies",
+      "title": "2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers)",
+      "url": "https://jobright.ai/jobs/info/6ae8bd3efb2cd420ace68272",
+      "location": "Holtsville, NY",
+      "datePosted": 1793627299,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a377f65649fdf16292fd3d2",
@@ -694,17 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ad639b93dc655658d8e35ee",
       "location": "Irving, TX",
       "datePosted": 1793614649,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8d373fb2cd420ace69202",
-      "company": "Viasat",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae8d373fb2cd420ace69202",
-      "location": "Germantown, MD",
-      "datePosted": 1793614579,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
