@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-02T07:30:19Z",
-  "totalOpen": 1534,
+  "generatedAt": "2026-11-02T07:40:15Z",
+  "totalOpen": 1535,
   "totalNewgrad": 243,
-  "totalOther": 1291,
+  "totalOther": 1292,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
+      "company": "Google DeepMind",
+      "title": "Software Engineer 2 \u2013 Early Career",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
+      "location": "Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA",
+      "datePosted": 1793603487,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
       "company": "Serco",
@@ -25,7 +36,7 @@
       "datePosted": 1793571008,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae824ed77c09cb3bd4b9f53",
@@ -1001,17 +1012,6 @@
       "title": "New Grad 2027: Machine Learning Engineer, Monetization Technology - Ads Core Global",
       "url": "https://go.vansh.nyc/16Z",
       "location": "San Jose, CA",
-      "datePosted": 1793526076,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:be55ad35-41e4-44c8-b177-a12a3af174dd",
-      "company": "TikTok",
-      "title": "New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)",
-      "url": "https://go.vansh.nyc/170",
-      "location": "Seattle, WA",
       "datePosted": 1793526076,
       "source": "aggregator",
       "season": null,
