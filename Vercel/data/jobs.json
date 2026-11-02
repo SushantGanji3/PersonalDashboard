@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-02T14:20:26Z",
-  "totalOpen": 1518,
+  "generatedAt": "2026-11-02T14:30:18Z",
+  "totalOpen": 1519,
   "totalNewgrad": 238,
-  "totalOther": 1280,
+  "totalOther": 1281,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:42ac5574-2678-41c7-9396-732c5a690fd0",
+      "company": "Decagon",
+      "title": "New Grad 2027: Member of Technical Staff",
+      "url": "https://go.vansh.nyc/19g",
+      "location": "San Francisco, CA",
+      "datePosted": 1793628976,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
       "company": "Google DeepMind",
@@ -25,7 +36,7 @@
       "datePosted": 1793596704,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae88bd303f4a1104b254293",
@@ -36,7 +47,7 @@
       "datePosted": 1793596243,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae8897203f4a1104b25414e",
@@ -1187,17 +1198,6 @@
       "company": "TikTok",
       "title": "New Grad 2027: Data Scientist (Multimedia)",
       "url": "https://go.vansh.nyc/16V",
-      "location": "San Jose, CA",
-      "datePosted": 1793526076,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:936c853a-69f8-4728-8e27-69ceee1950e1",
-      "company": "TikTok",
-      "title": "New Grad 2027: Machine Learning Engineer, Monetization Technology - Ads Core Global",
-      "url": "https://go.vansh.nyc/16Z",
       "location": "San Jose, CA",
       "datePosted": 1793526076,
       "source": "aggregator",
