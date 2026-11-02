@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:10:16Z",
+  "generatedAt": "2026-11-02T21:20:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793650821
+    },
+    {
+      "id": "simplify:a81cce2a-9d0b-4eef-9ad8-184ad5fb2eac",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "url": "https://go.vansh.nyc/19Q",
+      "location": "Redmond, WA",
+      "datePosted": 1793646749,
+      "source": "aggregator",
+      "season": null,
+      "firstSeenAt": 1793654415
     },
     {
       "id": "simplify:9ab6e3ea-0469-42ae-9bb6-f2f55696880d",
@@ -34,6 +45,50 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793629818
+    },
+    {
+      "id": "newgrad-jobs:6ae8ef8003f4a1104b257e39",
+      "company": "Intuitive",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae8ef8003f4a1104b257e39",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793621760,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793654415
+    },
+    {
+      "id": "newgrad-jobs:6ae8eebc03f4a1104b257dbe",
+      "company": "Astro Mechanica",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae8eebc03f4a1104b257dbe",
+      "location": "San Francisco, CA",
+      "datePosted": 1793621564,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793654415
+    },
+    {
+      "id": "newgrad-jobs:6ae8edd7061d6d7ff3d7e8c6",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "url": "https://jobright.ai/jobs/info/6ae8edd7061d6d7ff3d7e8c6",
+      "location": "Redmond, WA",
+      "datePosted": 1793621335,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793654415
+    },
+    {
+      "id": "newgrad-jobs:6ae8edbda2a252e21942ae35",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "url": "https://jobright.ai/jobs/info/6ae8edbda2a252e21942ae35",
+      "location": "Redmond, WA",
+      "datePosted": 1793621309,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793654415
     },
     {
       "id": "newgrad-jobs:6ab161a3f9692ca98b0493dd",

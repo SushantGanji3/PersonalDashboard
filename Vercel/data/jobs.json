@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T21:10:16Z",
-  "totalOpen": 1509,
+  "generatedAt": "2026-11-02T21:20:15Z",
+  "totalOpen": 1510,
   "totalNewgrad": 230,
-  "totalOther": 1279,
+  "totalOther": 1280,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:a81cce2a-9d0b-4eef-9ad8-184ad5fb2eac",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "url": "https://go.vansh.nyc/19Q",
+      "location": "Redmond, WA",
+      "datePosted": 1793646749,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:9ab6e3ea-0469-42ae-9bb6-f2f55696880d",
@@ -35,6 +46,94 @@
       "location": "San Francisco, CA",
       "datePosted": 1793628976,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac420944ac55253f5d710e0",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Embedded Software (Spring 2027 Co-op)",
+      "url": "https://jobright.ai/jobs/info/6ac420944ac55253f5d710e0",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793622206,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8ef8003f4a1104b257e39",
+      "company": "Intuitive",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae8ef8003f4a1104b257e39",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793621760,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8eebc03f4a1104b257dbe",
+      "company": "Astro Mechanica",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ae8eebc03f4a1104b257dbe",
+      "location": "San Francisco, CA",
+      "datePosted": 1793621564,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8d617777c336eb6d66b7b",
+      "company": "Qualtrics",
+      "title": "Software Engineer I - XMD",
+      "url": "https://jobright.ai/jobs/info/6ae8d617777c336eb6d66b7b",
+      "location": "Seattle, WA",
+      "datePosted": 1793621406,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8d8a703f4a1104b256f90",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - Software Engineer - International Depot",
+      "url": "https://jobright.ai/jobs/info/6ae8d8a703f4a1104b256f90",
+      "location": "Issaquah, WA",
+      "datePosted": 1793621372,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8edd7061d6d7ff3d7e8c6",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "url": "https://jobright.ai/jobs/info/6ae8edd7061d6d7ff3d7e8c6",
+      "location": "Redmond, WA",
+      "datePosted": 1793621335,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8edbda2a252e21942ae35",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+      "url": "https://jobright.ai/jobs/info/6ae8edbda2a252e21942ae35",
+      "location": "Redmond, WA",
+      "datePosted": 1793621309,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8ac39777c336eb6d64ebf",
+      "company": "Integration Innovation, Inc.",
+      "title": "Junior Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae8ac39777c336eb6d64ebf",
+      "location": "Arlington, VA",
+      "datePosted": 1793620578,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -116,28 +215,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8dd90a2a252e21942a44a",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ae8dd90a2a252e21942a44a",
-      "location": "Bellevue, WA",
-      "datePosted": 1793617168,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8dd7aa2a252e21942a43c",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae8dd7aa2a252e21942a43c",
-      "location": "Frisco, TX",
-      "datePosted": 1793617146,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae8b5f8777c336eb6d65415",
       "company": "Amazon",
       "title": "Security Incident Response, Security Engineer, US Amazon Dedicated Cloud Security",
@@ -179,17 +256,6 @@
       "datePosted": 1793616476,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8da2b777c336eb6d66ed2",
-      "company": "Costco Wholesale",
-      "title": "CDS Intern - Software Engineer - International Depot",
-      "url": "https://jobright.ai/jobs/info/6ae8da2b777c336eb6d66ed2",
-      "location": "Issaquah, WA",
-      "datePosted": 1793616299,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -243,17 +309,6 @@
       "url": "https://jobright.ai/jobs/info/6ae8d68ea2a252e219429f3e",
       "location": "New York, NY",
       "datePosted": 1793615374,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8d617777c336eb6d66b7b",
-      "company": "Qualtrics",
-      "title": "Software Engineer I - XMD",
-      "url": "https://jobright.ai/jobs/info/6ae8d617777c336eb6d66b7b",
-      "location": "Seattle, WA",
-      "datePosted": 1793615255,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -600,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8ac39777c336eb6d64ebf",
-      "company": "Integration Innovation, Inc.",
-      "title": "Junior Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae8ac39777c336eb6d64ebf",
-      "location": "Arlington, VA",
-      "datePosted": 1793604537,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
       "company": "Google DeepMind",
       "title": "Software Engineer 2 \u2013 Early Career",
@@ -666,45 +710,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a57d1c7a791c6211bf013a8",
+      "id": "newgrad-jobs:6a29c9582cde2824469be98f",
       "company": "Metropolitan Transportation Authority",
       "title": "Application Developer Levels 1 - 5 - Enterprise Document Migration",
-      "url": "https://jobright.ai/jobs/info/6a57d1c7a791c6211bf013a8",
+      "url": "https://jobright.ai/jobs/info/6a29c9582cde2824469be98f",
       "location": "New York, NY",
       "datePosted": 1793601916,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e9e0e68f82b403673adc3",
-      "company": "ID.me",
-      "title": "Summer Intern 2027 - Software Development Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a9e9e0e68f82b403673adc3",
-      "location": "Mountain View, CA",
-      "datePosted": 1793601274,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7645caa26ccc369f8348f3",
-      "company": "Verkada",
-      "title": "Software Engineer - Data Platform",
-      "url": "https://jobright.ai/jobs/info/6a7645caa26ccc369f8348f3",
-      "location": "San Mateo, CA",
-      "datePosted": 1793600601,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a93cbf73603630099199105",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer, Employee Experience",
-      "url": "https://jobright.ai/jobs/info/6a93cbf73603630099199105",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793600391,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1308,17 +1319,6 @@
       "company": "TikTok",
       "title": "New Grad 2027: Software Engineer (Ads Signal & Measurement)",
       "url": "https://go.vansh.nyc/16K",
-      "location": "San Jose, CA",
-      "datePosted": 1793526076,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8641e386-1e3e-4dbc-9dea-b093a63363ad",
-      "company": "TikTok",
-      "title": "New Grad 2027: Software Engineer, Global CRM",
-      "url": "https://go.vansh.nyc/16M",
       "location": "San Jose, CA",
       "datePosted": 1793526076,
       "source": "aggregator",
