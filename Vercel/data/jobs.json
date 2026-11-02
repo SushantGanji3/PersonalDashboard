@@ -1,20 +1,31 @@
 {
-  "generatedAt": "2026-11-02T07:20:19Z",
-  "totalOpen": 1539,
-  "totalNewgrad": 248,
+  "generatedAt": "2026-11-02T07:30:19Z",
+  "totalOpen": 1534,
+  "totalNewgrad": 243,
   "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6ae826ef6c51033758f3ebbd",
-      "company": "A Full Renovation \u2013 Project Services",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae826ef6c51033758f3ebbd",
+      "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
+      "company": "Serco",
+      "title": "Junior Software Engineer - Remote",
+      "url": "https://jobright.ai/jobs/info/6ae240da05a39c3e2c71858c",
       "location": "United States",
-      "datePosted": 1793570415,
+      "datePosted": 1793572183,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae82940bad9293a40a44346",
+      "company": "A Full Renovation \u2013 Project Services",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae82940bad9293a40a44346",
+      "location": "United States",
+      "datePosted": 1793571008,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae824ed77c09cb3bd4b9f53",
@@ -58,39 +69,6 @@
       "datePosted": 1793565036,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae7eefd6c51033758f3de84",
-      "company": "Leidos",
-      "title": "Jr Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae7eefd6c51033758f3de84",
-      "location": "Newport News, VA",
-      "datePosted": 1793556093,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae7eeee77c09cb3bd4b9246",
-      "company": "Leidos",
-      "title": "Embedded Flight Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae7eeee77c09cb3bd4b9246",
-      "location": "Huntsville, AL",
-      "datePosted": 1793556078,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae7eeecfb2cd420ace63f2f",
-      "company": "Leidos",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae7eeecfb2cd420ace63f2f",
-      "location": "Huntsville, AL",
-      "datePosted": 1793556076,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -166,17 +144,6 @@
       "url": "https://jobright.ai/jobs/info/6ae7d7406c51033758f3db12",
       "location": "Jacksonville, FL",
       "datePosted": 1793550016,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae7ccf8a2a252e2194244e7",
-      "company": "Netrolynx AI",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae7ccf8a2a252e2194244e7",
-      "location": "United States",
-      "datePosted": 1793547384,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1282,17 +1249,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae74420fb2cd420ace6297a",
-      "company": "Torentify",
-      "title": "Data Scientist (Remote)",
-      "url": "https://jobright.ai/jobs/info/6ae74420fb2cd420ace6297a",
-      "location": "United States",
-      "datePosted": 1793512352,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a4298496faf756060967309",
       "company": "Palantir",
       "title": "Software Engineer, Internship",
@@ -1321,6 +1277,50 @@
       "url": "https://jobright.ai/jobs/info/6ad90a0e950ef68d5184d68c",
       "location": "Addison, TX",
       "datePosted": 1793509583,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a904c927c32860d14cf8841",
+      "company": "impact.com",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a904c927c32860d14cf8841",
+      "location": "Seattle, WA",
+      "datePosted": 1793508792,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7487e7bb6ca93ae560a772",
+      "company": "impact.com",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772",
+      "location": "Santa Barbara, CA",
+      "datePosted": 1793508273,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac29dd3372c01f6cd72fef6",
+      "company": "TikTok",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ac29dd3372c01f6cd72fef6",
+      "location": "Seattle, WA",
+      "datePosted": 1793508082,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a534f5d8576ec69c014f57f",
+      "company": "The D. E. Shaw Group",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a534f5d8576ec69c014f57f",
+      "location": "New York, NY",
+      "datePosted": 1793507008,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
