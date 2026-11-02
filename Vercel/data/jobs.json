@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:50:16Z",
+  "generatedAt": "2026-11-02T13:00:21Z",
   "totalOpen": 1537,
   "totalNewgrad": 245,
   "totalOther": 1292,
@@ -14,6 +14,17 @@
       "datePosted": 1793603487,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae86088fb2cd420ace65f14",
+      "company": "Alaska Airlines",
+      "title": "Intern - Software Engineer (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ae86088fb2cd420ace65f14",
+      "location": "SeaTac, WA",
+      "datePosted": 1793590958,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -72,34 +83,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae86cefa2a252e219426bef",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae86cefa2a252e219426bef",
-      "location": "Frisco, TX",
-      "datePosted": 1793588335,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aadbe19de327d3e210d42a0",
       "company": "Qualcomm",
       "title": "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
       "url": "https://jobright.ai/jobs/info/6aadbe19de327d3e210d42a0",
       "location": "San Diego, CA; Austin, TX; Boxborough, MA; New Jersey, United States; New York, NY; Raleigh, NC; Santa Clara, CA; Boulder, CO; Bridgewater, NJ; Chandler, AZ; Irvine, CA; Louisville, KY; Seattle, WA",
       "datePosted": 1793588193,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae86088fb2cd420ace65f14",
-      "company": "Alaska Airlines",
-      "title": "Intern - Software Engineer (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ae86088fb2cd420ace65f14",
-      "location": "SeaTac, WA",
-      "datePosted": 1793585890,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -1321,6 +1310,17 @@
       "url": "https://jobright.ai/jobs/info/6a58960372fe7a7b98dcf6de",
       "location": "Palo Alto, CA",
       "datePosted": 1793517684,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a760453a26ccc369f833373",
+      "company": "Fortune",
+      "title": "Full Stack Software Engineer Next.js",
+      "url": "https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
+      "location": "New York, NY",
+      "datePosted": 1793516554,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
