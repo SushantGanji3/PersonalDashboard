@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T15:00:20Z",
+  "generatedAt": "2026-11-03T15:10:16Z",
   "totalOpen": 1522,
   "totalNewgrad": 244,
   "totalOther": 1278,
@@ -59,6 +59,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9e96332411b3e5a2e2b4e",
+      "company": "Trusted Concepts, Inc.",
+      "title": "Summer Research Intern",
+      "url": "https://jobright.ai/jobs/info/6ae9e96332411b3e5a2e2b4e",
+      "location": "Arlington, VA",
+      "datePosted": 1793685731,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adf89c59a8c91d5c3586643",
@@ -149,10 +160,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada485354bbabbab0714812",
+      "id": "newgrad-jobs:6ada3828950ef68d5185511f",
       "company": "CACI International Inc",
       "title": "Embedded Software Engineering Co-op - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ada485354bbabbab0714812",
+      "url": "https://jobright.ai/jobs/info/6ada3828950ef68d5185511f",
       "location": "Danbury, CT",
       "datePosted": 1793675683,
       "source": "newgrad-jobs",
@@ -1310,17 +1321,6 @@
       "url": "https://jobright.ai/jobs/info/6ae93002777c336eb6d6a43d",
       "location": "United States",
       "datePosted": 1793638274,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae686c5fb2cd420ace60ba9",
-      "company": "Tesla",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae686c5fb2cd420ace60ba9",
-      "location": "Fremont, CA",
-      "datePosted": 1793637786,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
