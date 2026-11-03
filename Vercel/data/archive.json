@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:20:17Z",
+  "generatedAt": "2026-11-03T14:30:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793689220
+    },
+    {
+      "id": "newgrad-jobs:6ae220ef6679108488c47cb6",
+      "company": "Blue Yonder",
+      "title": "Software Engineer (Java backend)",
+      "url": "https://jobright.ai/jobs/info/6ae220ef6679108488c47cb6",
+      "location": "Dallas, TX",
+      "datePosted": 1793682971,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793716218
     },
     {
       "id": "newgrad-jobs:6ae9dab3a291a1db4de25ac5",
@@ -1464,6 +1475,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793709020
+    },
+    {
+      "id": "newgrad-jobs:6ae9db14a291a1db4de25ad6",
+      "company": "RTX",
+      "title": "Embedded Software Developer I  (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ae9db14a291a1db4de25ad6",
+      "location": "El Segundo, CA",
+      "datePosted": 1793635200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793716218
+    },
+    {
+      "id": "newgrad-jobs:6ae9db202b0b1eb5805b47c7",
+      "company": "RTX",
+      "title": "Platform Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ae9db202b0b1eb5805b47c7",
+      "location": "Tewksbury, MA",
+      "datePosted": 1793635200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793716218
+    },
+    {
+      "id": "newgrad-jobs:6ae9db1232411b3e5a2e26f0",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ae9db1232411b3e5a2e26f0",
+      "location": "El Segundo, CA",
+      "datePosted": 1793635200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793716218
     },
     {
       "id": "newgrad-jobs:6ae91f9ba2a252e21942cf5b",
