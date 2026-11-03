@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-03T20:10:19Z",
+  "generatedAt": "2026-11-03T20:20:27Z",
   "totalOpen": 1531,
-  "totalNewgrad": 250,
-  "totalOther": 1281,
+  "totalNewgrad": 247,
+  "totalOther": 1284,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:e8764904-db74-45be-ae45-a194c869f494",
+      "company": "Amazon",
+      "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
+      "url": "https://go.vansh.nyc/1ec",
+      "location": "Seattle, WA",
+      "datePosted": 1793736686,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:0c9514de-36e1-457f-a3ff-175576714aae",
+      "company": "Northrop Grumman",
+      "title": "Ground Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1e5",
+      "location": "Redondo Beach, CA",
+      "datePosted": 1793734769,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:92a80325-0afd-4f33-9c06-b87732f97b84",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1e6",
+      "location": "West Valley City, UT",
+      "datePosted": 1793734769,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:aecc2da7-51c6-40b6-8c3d-2dbab1338249",
       "company": "Microsoft",
@@ -80,7 +113,7 @@
       "datePosted": 1793705627,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea36d11ba298c777770a30",
@@ -91,7 +124,7 @@
       "datePosted": 1793705553,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea36ccfc85f3a3943317df",
@@ -102,7 +135,7 @@
       "datePosted": 1793705548,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea36c6913589212b1f4a0f",
@@ -113,7 +146,7 @@
       "datePosted": 1793705542,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea35e24f991d64376cbbaa",
@@ -124,7 +157,7 @@
       "datePosted": 1793705314,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea3576913589212b1f491d",
@@ -135,7 +168,7 @@
       "datePosted": 1793705206,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea340f440b469a1c0aba91",
@@ -146,7 +179,7 @@
       "datePosted": 1793704847,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea33821ba298c777770817",
@@ -157,7 +190,7 @@
       "datePosted": 1793704706,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae9fb3132411b3e5a2e3474",
@@ -179,7 +212,7 @@
       "datePosted": 1793704462,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea3182440b469a1c0ab950",
@@ -190,7 +223,7 @@
       "datePosted": 1793704194,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea3082fc85f3a39433145b",
@@ -201,7 +234,7 @@
       "datePosted": 1793703938,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea1bb2fc85f3a39433062f",
@@ -212,7 +245,7 @@
       "datePosted": 1793703806,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea2f22913589212b1f45aa",
@@ -223,7 +256,7 @@
       "datePosted": 1793703586,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea2f201ba298c777770589",
@@ -234,7 +267,7 @@
       "datePosted": 1793703584,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea2e76897466e69e31c70d",
@@ -278,17 +311,6 @@
       "datePosted": 1793702058,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea28a61ba298c77777001c",
-      "company": "Enlighten",
-      "title": "Data Engineer (Skillbridge Intern) - 28499",
-      "url": "https://jobright.ai/jobs/info/6aea28a61ba298c77777001c",
-      "location": "Augusta, GA",
-      "datePosted": 1793701926,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -727,6 +749,17 @@
       "url": "https://jobright.ai/jobs/info/6ae8d16f777c336eb6d66842",
       "location": "Aliso Viejo, CA",
       "datePosted": 1793692282,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a50dfe22b161c5241662944",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - German Speakers",
+      "url": "https://jobright.ai/jobs/info/6a50dfe22b161c5241662944",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Los Angeles, CA; Washington, DC; Boston, MA; Bellevue, WA",
+      "datePosted": 1793691704,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1287,39 +1320,6 @@
       "title": "Software Engineer Intern, SI Data Infrastructure",
       "url": "https://go.vansh.nyc/1aM",
       "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e98effed-7bf9-4c60-9af4-22cf273e3e6f",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern, Steering, Chassis Systems",
-      "url": "https://go.vansh.nyc/1aQ",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:2ad25055-75df-41a3-92e7-8802dd110c21",
-      "company": "Tesla",
-      "title": "Site Reliability Engineer Intern, Infrastructure Engineering",
-      "url": "https://go.vansh.nyc/1aU",
-      "location": "Fremont, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:a090cda3-32af-4cc1-a2aa-33effb775ca8",
-      "company": "Tesla",
-      "title": "Backend Engineer Intern, Infrastructure Engineering",
-      "url": "https://go.vansh.nyc/1aV",
-      "location": "Fremont, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
       "season": "Winter",
