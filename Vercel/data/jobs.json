@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T00:10:15Z",
-  "totalOpen": 1517,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-03T00:20:15Z",
+  "totalOpen": 1516,
+  "totalNewgrad": 238,
   "totalOther": 1278,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793663365,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4489f18f-4490-438c-9c19-4a7c9724659f",
@@ -25,7 +25,7 @@
       "datePosted": 1793663365,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:805fa8a6-96cb-4f51-8398-5cca7acfe9a8",
@@ -36,7 +36,7 @@
       "datePosted": 1793663364,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
@@ -47,7 +47,7 @@
       "datePosted": 1793663300,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5cbbef3c-c5a1-47a0-9772-22bb958a3000",
@@ -58,7 +58,7 @@
       "datePosted": 1793663299,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:19b3d525-634e-4bc7-ad38-d92a4b53531d",
@@ -69,7 +69,7 @@
       "datePosted": 1793662588,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:56ba1ae9-168d-4c3c-b927-eb6184efcd76",
@@ -630,7 +630,84 @@
       "datePosted": 1793645249,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8da2b777c336eb6d66ed2",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - Software Engineer - International Depot",
+      "url": "https://jobright.ai/jobs/info/6ae8da2b777c336eb6d66ed2",
+      "location": "Issaquah, WA",
+      "datePosted": 1793633013,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8f5636c51033758f44921",
+      "company": "RTX",
+      "title": "Internship \u2013 Raytheon Systems Security Engineer- Onsite",
+      "url": "https://jobright.ai/jobs/info/6ae8f5636c51033758f44921",
+      "location": "Woburn, MA",
+      "datePosted": 1793632827,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8f214a2a252e21942b0f8",
+      "company": "Modern Technology Solutions, Inc. (MTSI)",
+      "title": "Software Engineering Intern or Co-Op",
+      "url": "https://jobright.ai/jobs/info/6ae8f214a2a252e21942b0f8",
+      "location": "Chantilly, VA",
+      "datePosted": 1793632728,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae90bba061d6d7ff3d7fe7a",
+      "company": "KLA",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae90bba061d6d7ff3d7fe7a",
+      "location": "Milpitas, CA",
+      "datePosted": 1793632667,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae91a01061d6d7ff3d807c2",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6ae91a01061d6d7ff3d807c2",
+      "location": "New York, NY",
+      "datePosted": 1793632641,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8d373fb2cd420ace69202",
+      "company": "Viasat",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae8d373fb2cd420ace69202",
+      "location": "Germantown, MD",
+      "datePosted": 1793632511,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8f884fb2cd420ace6acfd",
+      "company": "AMEWAS",
+      "title": "Software Developer-Junior",
+      "url": "https://jobright.ai/jobs/info/6ae8f884fb2cd420ace6acfd",
+      "location": "Patuxent River, MD",
+      "datePosted": 1793632167,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae8d16f777c336eb6d66842",
@@ -639,17 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6ae8d16f777c336eb6d66842",
       "location": "Aliso Viejo, CA",
       "datePosted": 1793631954,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8d8a703f4a1104b256f90",
-      "company": "Costco Wholesale",
-      "title": "CDS Intern - Software Engineer - International Depot",
-      "url": "https://jobright.ai/jobs/info/6ae8d8a703f4a1104b256f90",
-      "location": "Issaquah, WA",
-      "datePosted": 1793631951,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -697,6 +763,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8f56603f4a1104b2581ed",
+      "company": "RTX",
+      "title": "Internship \u2013 Raytheon Systems Security Engineer (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ae8f56603f4a1104b2581ed",
+      "location": "Woburn, MA",
+      "datePosted": 1793631801,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adb88bc5dc7953215a331ee",
@@ -831,14 +908,25 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8d717fb2cd420ace6949f",
+      "id": "newgrad-jobs:6ae8c8e2061d6d7ff3d7d0b0",
       "company": "Toshiba Global Commerce Solutions",
       "title": "Agentic Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ae8d717fb2cd420ace6949f",
+      "url": "https://jobright.ai/jobs/info/6ae8c8e2061d6d7ff3d7d0b0",
       "location": "Durham, NC; Frisco, TX",
       "datePosted": 1793630343,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8f5876c51033758f4495f",
+      "company": "Motorola Solutions",
+      "title": "Software Engineer Cybersecurity Services - 2027 Summer Internship",
+      "url": "https://jobright.ai/jobs/info/6ae8f5876c51033758f4495f",
+      "location": "United States",
+      "datePosted": 1793630109,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -905,17 +993,6 @@
       "datePosted": 1793629466,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8f5876c51033758f4495f",
-      "company": "Motorola Solutions",
-      "title": "Software Engineer Cybersecurity Services - 2027 Summer Internship",
-      "url": "https://jobright.ai/jobs/info/6ae8f5876c51033758f4495f",
-      "location": "United States",
-      "datePosted": 1793629438,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1073,45 +1150,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8f9a7a2a252e21942b8d9",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ae8f9a7a2a252e21942b8d9",
-      "location": "Bellevue, WA",
-      "datePosted": 1793624359,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8f996a2a252e21942b8d5",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae8f996a2a252e21942b8d5",
-      "location": "Frisco, TX",
-      "datePosted": 1793624342,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae8f975a2a252e21942b8c1",
       "company": "Clarity",
       "title": "Junior Reverse Engineering/Vulnerability Research Engineer",
       "url": "https://jobright.ai/jobs/info/6ae8f975a2a252e21942b8c1",
       "location": "Columbus, OH",
       "datePosted": 1793624309,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8f884fb2cd420ace6acfd",
-      "company": "AMEWAS",
-      "title": "Software Developer-Junior",
-      "url": "https://jobright.ai/jobs/info/6ae8f884fb2cd420ace6acfd",
-      "location": "Patuxent River, MD",
-      "datePosted": 1793624068,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1257,50 +1301,6 @@
       "datePosted": 1793623276,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9b8fe28e24cb38513bad2",
-      "company": "Atlassian",
-      "title": "Software Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6aa9b8fe28e24cb38513bad2",
-      "location": "United States",
-      "datePosted": 1793623262,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
-      "location": "Tampa, FL",
-      "datePosted": 1793623219,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1793623100,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a760ceda26ccc369f8336e0",
-      "company": "Varda Space",
-      "title": "Site Reliability Internship - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6a760ceda26ccc369f8336e0",
-      "location": "El Segundo, CA",
-      "datePosted": 1793622244,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
