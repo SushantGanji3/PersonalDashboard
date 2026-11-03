@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:20:18Z",
+  "generatedAt": "2026-11-03T11:30:22Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793689220
+    },
+    {
+      "id": "newgrad-jobs:6a67a454872eb74f9eada18a",
+      "company": "CLEAR",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6a67a454872eb74f9eada18a",
+      "location": "New York, NY",
+      "datePosted": 1793673086,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793705422
+    },
+    {
+      "id": "newgrad-jobs:6ae9b10432411b3e5a2e1acf",
+      "company": "The Ai Training Company",
+      "title": "Software Engineer | $110/hr | Remote",
+      "url": "https://jobright.ai/jobs/info/6ae9b10432411b3e5a2e1acf",
+      "location": "United States",
+      "datePosted": 1793671300,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793705422
     },
     {
       "id": "newgrad-jobs:6ab1b36c191d8c340dbdc87d",
@@ -50975,17 +50997,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1791312617
-    },
-    {
-      "id": "newgrad-jobs:6ac2996f372c01f6cd72fec4",
-      "company": "POZzlePiece Inc",
-      "title": "Front & Back end Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac2996f372c01f6cd72fec4",
-      "location": "United States",
-      "datePosted": 1791112959,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791141618
     }
   ]
 }
