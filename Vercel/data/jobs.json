@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T17:00:22Z",
-  "totalOpen": 1530,
-  "totalNewgrad": 248,
+  "generatedAt": "2026-11-03T17:10:18Z",
+  "totalOpen": 1528,
+  "totalNewgrad": 246,
   "totalOther": 1282,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -48,6 +48,72 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aea0c271ba298c77776e966",
+      "company": "Apple",
+      "title": "Software Engineer - Visual Intelligence",
+      "url": "https://jobright.ai/jobs/info/6aea0c271ba298c77776e966",
+      "location": "Seattle, WA",
+      "datePosted": 1793694631,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aea0c1f913589212b1f29b3",
+      "company": "Apple",
+      "title": "Machine Learning Engineer, Siri Speech",
+      "url": "https://jobright.ai/jobs/info/6aea0c1f913589212b1f29b3",
+      "location": "Cupertino, CA",
+      "datePosted": 1793694623,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5c6f91856af468ab00f10a",
+      "company": "SpaceX",
+      "title": "Software Engineer, Design Engineering (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a5c6f91856af468ab00f10a",
+      "location": "Redmond, WA",
+      "datePosted": 1793694604,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5c6f8b856af468ab00f107",
+      "company": "SpaceX",
+      "title": "Software Engineer, Applied AI (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a5c6f8b856af468ab00f107",
+      "location": "Redmond, WA",
+      "datePosted": 1793694057,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab156b4d43eb922ca0be235",
+      "company": "The Swift Group, LLC",
+      "title": "Information Assurance Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab156b4d43eb922ca0be235",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1793693979,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad63b61950ef68d518374df",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad63b61950ef68d518374df",
+      "location": "King of Prussia, PA",
+      "datePosted": 1793693686,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a5c6f854da96a42cfd9c8e6",
@@ -116,15 +182,37 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae256b76679108488c4a22b",
+      "id": "newgrad-jobs:6adf98e1065c4e77efaf952b",
       "company": "Lockheed Martin",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae256b76679108488c4a22b",
-      "location": "Littleton, CO",
-      "datePosted": 1793692894,
+      "title": "Systems Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6adf98e1065c4e77efaf952b",
+      "location": "King of Prussia, PA",
+      "datePosted": 1793692900,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae8fbc603f4a1104b2589e7",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer (Embedded) Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ae8fbc603f4a1104b2589e7",
+      "location": "Highlands Ranch, CO; Louisville, CO",
+      "datePosted": 1793692898,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6db30372c01f6cd73f6d5",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Asc - E1",
+      "url": "https://jobright.ai/jobs/info/6ac6db30372c01f6cd73f6d5",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793692896,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae8fb7a6c51033758f450d2",
@@ -143,10 +231,21 @@
       "title": "Software Engineer Asc - Early Career",
       "url": "https://jobright.ai/jobs/info/6ae3e66ceab1f96730977f6d",
       "location": "Fort Worth, TX",
-      "datePosted": 1793692851,
+      "datePosted": 1793692893,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae11c3067c31ab3489a0a67",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ae11c3067c31ab3489a0a67",
+      "location": "Longmont, CO; Boulder, CO",
+      "datePosted": 1793692884,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae8edbda2a252e21942ae35",
@@ -721,17 +820,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae98de1b4cb239414bd8a32",
-      "company": "A Full Renovation \u2013 Project Services",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae98de1b4cb239414bd8a32",
-      "location": "United States",
-      "datePosted": 1793662305,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:56ba1ae9-168d-4c3c-b927-eb6184efcd76",
       "company": "Apple",
       "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
@@ -1235,94 +1323,6 @@
       "datePosted": 1793660574,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae96f4e43826864b0fb942b",
-      "company": "SK AX USA, Inc.",
-      "title": "AI Application Developer",
-      "url": "https://jobright.ai/jobs/info/6ae96f4e43826864b0fb942b",
-      "location": "San Jose, CA",
-      "datePosted": 1793659382,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae980c773d24ab055c57c80",
-      "company": "WoodmenLife",
-      "title": "2027 Summer AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae980c773d24ab055c57c80",
-      "location": "Omaha, NE",
-      "datePosted": 1793658951,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae97ccc14b684da08de0495",
-      "company": "WoodmenLife",
-      "title": "2027 Summer Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae97ccc14b684da08de0495",
-      "location": "Omaha, NE",
-      "datePosted": 1793657932,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae97caaa291a1db4de246d6",
-      "company": "Eaton",
-      "title": "Associate Device Software Engineer - Irvine, CA",
-      "url": "https://jobright.ai/jobs/info/6ae97caaa291a1db4de246d6",
-      "location": "Irvine, CA",
-      "datePosted": 1793657898,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9770532411b3e5a2e1076",
-      "company": "Military Spouse Jobs",
-      "title": "Associate Device Software Engineer - Irvine, CA",
-      "url": "https://jobright.ai/jobs/info/6ae9770532411b3e5a2e1076",
-      "location": "Irvine, CA",
-      "datePosted": 1793656453,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a57ba21a791c6211bf00a14",
-      "company": "The Brattle Group",
-      "title": "Data and AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6a57ba21a791c6211bf00a14",
-      "location": "Boston, MA",
-      "datePosted": 1793656221,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4dbcec3139b475b5b6a1a",
-      "company": "CGI",
-      "title": "Site Reliability Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae4dbcec3139b475b5b6a1a",
-      "location": "Lafayette, LA",
-      "datePosted": 1793656161,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9b200c9c24314c35f97de2",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Automotive OEM",
-      "url": "https://jobright.ai/jobs/info/6a9b200c9c24314c35f97de2",
-      "location": "Novi, MI",
-      "datePosted": 1793655782,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     }
   ]
