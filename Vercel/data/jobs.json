@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T21:10:22Z",
-  "totalOpen": 1535,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-11-03T21:20:22Z",
+  "totalOpen": 1534,
+  "totalNewgrad": 250,
   "totalOther": 1284,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -113,7 +113,7 @@
       "datePosted": 1793709101,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea39e9fc85f3a394331a61",
@@ -135,6 +135,28 @@
       "datePosted": 1793708009,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aea3f10913589212b1f4f60",
+      "company": "Microsoft",
+      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+      "url": "https://jobright.ai/jobs/info/6aea3f10913589212b1f4f60",
+      "location": "Redmond, WA",
+      "datePosted": 1793707664,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aea3d9b897466e69e31d086",
+      "company": "Staples",
+      "title": "Software Engineer Intern (SDS e-Commerce Team)",
+      "url": "https://jobright.ai/jobs/info/6aea3d9b897466e69e31d086",
+      "location": "Framingham, MA",
+      "datePosted": 1793707291,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -146,7 +168,7 @@
       "datePosted": 1793707287,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae4cf53fb2cd420ace59fe6",
@@ -177,28 +199,6 @@
       "url": "https://jobright.ai/jobs/info/6ac530b10e027c0f3b3ad6f8",
       "location": "Palo Alto, CA",
       "datePosted": 1793706377,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea39df440b469a1c0abea8",
-      "company": "Staples",
-      "title": "Software Engineer Intern (SDS e-Commerce Team)",
-      "url": "https://jobright.ai/jobs/info/6aea39df440b469a1c0abea8",
-      "location": "Framingham, MA",
-      "datePosted": 1793706335,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea39dd1ba298c777770c84",
-      "company": "Grant Thornton (US)",
-      "title": "AI Data Engineer Associate",
-      "url": "https://jobright.ai/jobs/info/6aea39dd1ba298c777770c84",
-      "location": "Edison, NJ",
-      "datePosted": 1793706333,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -344,7 +344,7 @@
       "datePosted": 1793704611,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a0f4a1183d714428981e4d0",
@@ -556,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea1662440b469a1c0aa6db",
+      "id": "newgrad-jobs:6aea16624f991d64376ca81e",
       "company": "First Citizens Bank",
       "title": "2027 Summer Intern - Applied AI (Raleigh, NC)",
-      "url": "https://jobright.ai/jobs/info/6aea1662440b469a1c0aa6db",
+      "url": "https://jobright.ai/jobs/info/6aea16624f991d64376ca81e",
       "location": "Raleigh, NC",
       "datePosted": 1793697250,
       "source": "newgrad-jobs",
