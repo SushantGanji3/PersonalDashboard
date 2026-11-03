@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:10:17Z",
+  "generatedAt": "2026-11-03T14:20:17Z",
   "totalOpen": 1521,
   "totalNewgrad": 243,
   "totalOther": 1278,
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf89c59a8c91d5c3586643",
+      "company": "Seerist",
+      "title": "Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6adf89c59a8c91d5c3586643",
+      "location": "Washington, DC; Reston, VA",
+      "datePosted": 1793684099,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae9dab3a291a1db4de25ac5",
@@ -1310,17 +1321,6 @@
       "url": "https://jobright.ai/jobs/info/6ae686c5fb2cd420ace60ba9",
       "location": "Fremont, CA",
       "datePosted": 1793637786,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8ee95777c336eb6d67be3",
-      "company": "Amazon",
-      "title": "Software Development Engineer, SES",
-      "url": "https://jobright.ai/jobs/info/6ae8ee95777c336eb6d67be3",
-      "location": "Seattle, WA",
-      "datePosted": 1793637317,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
