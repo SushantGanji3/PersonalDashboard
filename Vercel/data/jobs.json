@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-11-03T23:30:19Z",
-  "totalOpen": 1536,
+  "generatedAt": "2026-11-03T23:40:15Z",
+  "totalOpen": 1540,
   "totalNewgrad": 253,
-  "totalOther": 1283,
+  "totalOther": 1287,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:628318f8-ee8f-45d1-9737-0c3b6ca4a924",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - GenAI Safety",
+      "url": "https://www.metacareers.com/jobs/993713283787464",
+      "location": "SF, Menlo Park, CA",
+      "datePosted": 1793748264,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:305f85d5-4a7e-488b-849e-5804911af318",
+      "company": "American Express",
+      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
+      "location": "Phoenix, AZ",
+      "datePosted": 1793748143,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:9276c377-0f8e-47c4-b813-b5d5be35a978",
+      "company": "Amazon",
+      "title": "Software Development Engineer \u2013 Early Career - Embedded Systems",
+      "url": "https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us",
+      "location": "Seattle, WA, Cupertino, CA, United States",
+      "datePosted": 1793747158,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ad7ee672-286b-4929-9c20-6a5cdab58d98",
+      "company": "ServiceNow",
+      "title": "Software Engineer - Agent Eval Platform",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159509479",
+      "location": "Mountain View, CA",
+      "datePosted": 1793744959,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:e8764904-db74-45be-ae45-a194c869f494",
       "company": "Amazon",
@@ -59,6 +103,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:20eef2b5-2b76-436c-be94-9a14b28c9a90",
+      "company": "SambaNova",
+      "title": "Machine Learning Engineer New Grad",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
+      "location": "Austin, TX, San Jose, CA",
+      "datePosted": 1793726490,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:2898b74c-bc91-4f06-b910-1d62bdba0c18",
@@ -201,7 +256,7 @@
       "datePosted": 1793714731,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac52c654ac55253f5d74f71",
@@ -289,7 +344,7 @@
       "datePosted": 1793713884,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea16d41ba298c77776f4a5",
@@ -300,7 +355,7 @@
       "datePosted": 1793713727,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
@@ -1264,61 +1319,6 @@
       "company": "Tesla",
       "title": "Vehicle Software Engineer Intern, Diagnostic User Interface",
       "url": "https://go.vansh.nyc/1aG",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:0bc89be6-ba8b-4952-a825-25c3400e6c31",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, Automated Diagnostics",
-      "url": "https://go.vansh.nyc/1aH",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:2d075f71-8f73-413b-9b64-b74a045d78f4",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern, Optimus",
-      "url": "https://go.vansh.nyc/1aK",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:0303d036-6ab0-4527-9783-90d7129930a7",
-      "company": "Tesla",
-      "title": "Embedded Systems Software Engineer Intern, SI Platforms",
-      "url": "https://go.vansh.nyc/1aL",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:96fa2ddb-5213-44e2-9df1-8233e2e8a84b",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, SI Data Infrastructure",
-      "url": "https://go.vansh.nyc/1aM",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e98effed-7bf9-4c60-9af4-22cf273e3e6f",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern, Steering, Chassis Systems",
-      "url": "https://go.vansh.nyc/1aQ",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
