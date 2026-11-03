@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T16:20:19Z",
-  "totalOpen": 1530,
-  "totalNewgrad": 248,
+  "generatedAt": "2026-11-03T16:30:21Z",
+  "totalOpen": 1529,
+  "totalNewgrad": 247,
   "totalOther": 1282,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1793721064,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9fb8e1ba298c77776dab2",
+      "company": "Equanimo.AI",
+      "title": "AI Engineer \u2013 Intern",
+      "url": "https://jobright.ai/jobs/info/6ae9fb8e1ba298c77776dab2",
+      "location": "United States",
+      "datePosted": 1793690382,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a4556f04f64ba41dcb4d0e2",
@@ -122,17 +133,6 @@
       "url": "https://jobright.ai/jobs/info/6ae9f5c5a291a1db4de264db",
       "location": "Johnston, IA",
       "datePosted": 1793688901,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9f2afa291a1db4de26371",
-      "company": "Horizon Lane",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae9f2afa291a1db4de26371",
-      "location": "United States",
-      "datePosted": 1793688111,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -378,6 +378,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9fb3132411b3e5a2e3474",
+      "company": "Interactive Brokers",
+      "title": "Software Engineer - Compliance Tech",
+      "url": "https://jobright.ai/jobs/info/6ae9fb3132411b3e5a2e3474",
+      "location": "Greenwich, CT; Fort Lauderdale, FL",
+      "datePosted": 1793674800,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab1bdb1d43eb922ca0c0e59",
@@ -1167,17 +1178,6 @@
       "url": "https://jobright.ai/jobs/info/6a9b200c9c24314c35f97de2",
       "location": "Novi, MI",
       "datePosted": 1793655782,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae972cb14b684da08de0126",
-      "company": "A Full Renovation \u2013 Home Improvement",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae972cb14b684da08de0126",
-      "location": "United States",
-      "datePosted": 1793655371,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
