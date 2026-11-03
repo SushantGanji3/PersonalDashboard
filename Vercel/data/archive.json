@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:30:23Z",
+  "generatedAt": "2026-11-03T17:40:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -562,6 +562,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793695215
+    },
+    {
+      "id": "simplify:d0150e72-84f1-48a6-9bb0-510c59682678",
+      "company": "Dell",
+      "title": "Software Engineering Undergraduate Intern, CSG",
+      "url": "https://go.vansh.nyc/1dN",
+      "location": "United States",
+      "datePosted": 1793664000,
+      "source": "aggregator",
+      "season": "Summer",
+      "firstSeenAt": 1793727619
     },
     {
       "id": "simplify:6ec1e81b-4fcc-4f96-8e08-01f231df526c",
@@ -51063,17 +51074,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791169219
-    },
-    {
-      "id": "newgrad-jobs:6a82c7502dbaf907b0764d22",
-      "company": "TikTok",
-      "title": "Data Engineer Intern (Data Platform Global Live) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a82c7502dbaf907b0764d22",
-      "location": "San Jose, CA",
-      "datePosted": 1791135049,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1791312617
     }
   ]
 }
