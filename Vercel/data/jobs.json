@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T15:40:18Z",
-  "totalOpen": 1526,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-11-03T15:50:15Z",
+  "totalOpen": 1527,
+  "totalNewgrad": 248,
   "totalOther": 1279,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793718516,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
@@ -36,6 +36,50 @@
       "datePosted": 1793689944,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf89c59a8c91d5c3586643",
+      "company": "Seerist",
+      "title": "Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6adf89c59a8c91d5c3586643",
+      "location": "Washington, DC; Reston, VA",
+      "datePosted": 1793689611,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9f6e3a5966d341d02bad2",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ae9f6e3a5966d341d02bad2",
+      "location": "Bellevue, WA",
+      "datePosted": 1793689187,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae9f6d5a291a1db4de26553",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae9f6d5a291a1db4de26553",
+      "location": "Frisco, TX",
+      "datePosted": 1793689173,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae886e4061d6d7ff3d7ac4b",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ae886e4061d6d7ff3d7ac4b",
+      "location": "Tewksbury, MA",
+      "datePosted": 1793689101,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -47,7 +91,7 @@
       "datePosted": 1793688908,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae9f5c5a291a1db4de264db",
@@ -58,7 +102,7 @@
       "datePosted": 1793688901,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae9f2afa291a1db4de26371",
@@ -67,6 +111,61 @@
       "url": "https://jobright.ai/jobs/info/6ae9f2afa291a1db4de26371",
       "location": "United States",
       "datePosted": 1793688111,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9f19873d24ab055c598a6",
+      "company": "B4Corp",
+      "title": "812291 Data Scientist $270,000.00",
+      "url": "https://jobright.ai/jobs/info/6ae9f19873d24ab055c598a6",
+      "location": "Chantilly, VA",
+      "datePosted": 1793687832,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae9f19332411b3e5a2e2f79",
+      "company": "B4Corp",
+      "title": "812292 Cyber Security Engineer $220,000.00",
+      "url": "https://jobright.ai/jobs/info/6ae9f19332411b3e5a2e2f79",
+      "location": "Chantilly, VA",
+      "datePosted": 1793687827,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae9f19143826864b0fbb802",
+      "company": "B4Corp",
+      "title": "812286 Software Engineer $220,000.00",
+      "url": "https://jobright.ai/jobs/info/6ae9f19143826864b0fbb802",
+      "location": "McLean, VA",
+      "datePosted": 1793687825,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acdb1c209635d4ede00aa8f",
+      "company": "RTX",
+      "title": "Systems Engineer I - (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6acdb1c209635d4ede00aa8f",
+      "location": "Tucson, AZ",
+      "datePosted": 1793687475,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5808db8f51964c040466c5",
+      "company": "The D. E. Shaw Group",
+      "title": "Human Capital Analytics Developer",
+      "url": "https://jobright.ai/jobs/info/6a5808db8f51964c040466c5",
+      "location": "New York, NY",
+      "datePosted": 1793687083,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -124,17 +223,6 @@
       "datePosted": 1793685731,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf89c59a8c91d5c3586643",
-      "company": "Seerist",
-      "title": "Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6adf89c59a8c91d5c3586643",
-      "location": "Washington, DC; Reston, VA",
-      "datePosted": 1793684099,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1233,94 +1321,6 @@
       "url": "https://jobright.ai/jobs/info/6ae940ab73d24ab055c56408",
       "location": "Newport News, VA",
       "datePosted": 1793642539,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae940a773d24ab055c563e8",
-      "company": "Leidos",
-      "title": "Embedded Flight Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae940a773d24ab055c563e8",
-      "location": "Huntsville, AL",
-      "datePosted": 1793642535,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae94092a291a1db4de22ed0",
-      "company": "Leidos",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae94092a291a1db4de22ed0",
-      "location": "Huntsville, AL",
-      "datePosted": 1793642514,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae92e41777c336eb6d6a34d",
-      "company": "California Correctional Health Care Services",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae92e41777c336eb6d6a34d",
-      "location": "Sacramento, CA",
-      "datePosted": 1793641860,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae93d2ea291a1db4de22e01",
-      "company": "GenMD",
-      "title": "Member of Technical Staff Intern, Applied AI",
-      "url": "https://jobright.ai/jobs/info/6ae93d2ea291a1db4de22e01",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793641646,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9350b32411b3e5a2df708",
-      "company": "A Full Renovation \u2013 Interiors & Design",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae9350b32411b3e5a2df708",
-      "location": "United States",
-      "datePosted": 1793639563,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9325efb2cd420ace6cda6",
-      "company": "3fa",
-      "title": "Founding Software Engineer (Full Stack)",
-      "url": "https://jobright.ai/jobs/info/6ae9325efb2cd420ace6cda6",
-      "location": "United States",
-      "datePosted": 1793638878,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8d16f777c336eb6d66842",
-      "company": "Microsoft",
-      "title": "Software Engineer: Internship Opportunities",
-      "url": "https://jobright.ai/jobs/info/6ae8d16f777c336eb6d66842",
-      "location": "Aliso Viejo, CA",
-      "datePosted": 1793638420,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8d8a703f4a1104b256f90",
-      "company": "Costco Wholesale",
-      "title": "CDS Intern - Software Engineer - International Depot",
-      "url": "https://jobright.ai/jobs/info/6ae8d8a703f4a1104b256f90",
-      "location": "Issaquah, WA",
-      "datePosted": 1793638420,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
