@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-03T18:40:30Z",
-  "totalOpen": 1530,
+  "generatedAt": "2026-11-03T18:50:26Z",
+  "totalOpen": 1532,
   "totalNewgrad": 251,
-  "totalOther": 1279,
+  "totalOther": 1281,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -50,6 +50,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a51cb5502522b5b722eb9ff",
+      "company": "SpaceX",
+      "title": "Software Engineer, Propulsion Simulation & Data Analysis",
+      "url": "https://jobright.ai/jobs/info/6a51cb5502522b5b722eb9ff",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793698105,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aea198c4f991d64376caa7b",
+      "company": "Cohere Health",
+      "title": "Software Engineer I, Integrations",
+      "url": "https://jobright.ai/jobs/info/6aea198c4f991d64376caa7b",
+      "location": "United States",
+      "datePosted": 1793698060,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aea18451ba298c77776f5c0",
       "company": "First Citizens Wealth",
       "title": "2027 Summer Intern - Applied AI (Raleigh, NC)",
@@ -58,7 +80,7 @@
       "datePosted": 1793697733,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea16624f991d64376ca81e",
@@ -69,6 +91,17 @@
       "datePosted": 1793697250,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aea162efc85f3a39433022e",
+      "company": "New York Air Brake",
+      "title": "Intern, Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aea162efc85f3a39433022e",
+      "location": "Watertown, NY",
+      "datePosted": 1793697198,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -622,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae9d458b387e4d91fac5fe5",
-      "company": "Leidos",
-      "title": "Website & Multimedia Content Developer",
-      "url": "https://jobright.ai/jobs/info/6ae9d458b387e4d91fac5fe5",
-      "location": "Chesapeake, VA",
-      "datePosted": 1793680344,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a50f294bf63b66c79977871",
       "company": "DRW",
       "title": "Trade Systems Engineer",
@@ -721,26 +743,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab1bdbcf9692ca98b04ba24",
-      "company": "Rivian",
-      "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op",
-      "url": "https://jobright.ai/jobs/info/6ab1bdbcf9692ca98b04ba24",
-      "location": "Normal, IL",
-      "datePosted": 1793673167,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a67a454872eb74f9eada18a",
-      "company": "CLEAR",
-      "title": "Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a67a454872eb74f9eada18a",
-      "location": "New York, NY",
-      "datePosted": 1793673086,
-      "source": "newgrad-jobs",
+      "id": "simplify:01cd3b84-db7b-469d-8f33-e2065ef6fe27",
+      "company": "SpaceX",
+      "title": "Software Engineer, Starlink Enterprise",
+      "url": "https://go.vansh.nyc/1dT",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793668369,
+      "source": "aggregator",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "simplify:d0150e72-84f1-48a6-9bb0-510c59682678",
@@ -752,6 +763,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:8b2ae827-15bc-47f0-82c4-15d5b208d3cd",
+      "company": "American Express",
+      "title": "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/1dS",
+      "location": "Phoenix, AZ",
+      "datePosted": 1793664000,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:6ec1e81b-4fcc-4f96-8e08-01f231df526c",
@@ -1297,28 +1319,6 @@
       "company": "Tesla",
       "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
       "url": "https://go.vansh.nyc/1b0",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e384b3fa-321b-46ab-8264-a33fa1436fcd",
-      "company": "Tesla",
-      "title": "Red Team Security Engineer Intern, Vehicle Software",
-      "url": "https://go.vansh.nyc/1b1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:57d95069-ab51-4db1-bbc2-ccc08a95d729",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, SI Hardware Infrastructure",
-      "url": "https://go.vansh.nyc/1b3",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
