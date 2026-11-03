@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-11-03T06:50:17Z",
-  "totalOpen": 1519,
+  "generatedAt": "2026-11-03T07:00:20Z",
+  "totalOpen": 1523,
   "totalNewgrad": 242,
-  "totalOther": 1277,
+  "totalOther": 1281,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:c80f24e3-b3cf-46b1-a2cc-5ebf75869a17",
+      "company": "RTX",
+      "title": "Software Engineering Co-op, AGS",
+      "url": "https://go.vansh.nyc/1cQ",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1793685978,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:f5e91aa3-cfb9-4e02-bc8b-049375cdcdfa",
+      "company": "RTX",
+      "title": "Cyber Research Intern",
+      "url": "https://go.vansh.nyc/1cR",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1793685978,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:fad43ccf-798d-4a0e-bc56-fc0f4506bec3",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1cS",
+      "location": "East Hartford, CT",
+      "datePosted": 1793685978,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:5264730d-9bed-4ea5-9bae-337de50e2920",
+      "company": "RTX",
+      "title": "Systems Engineer Intern, Mission Sensor Manager",
+      "url": "https://go.vansh.nyc/1cT",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1793685978,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:6ec1e81b-4fcc-4f96-8e08-01f231df526c",
       "company": "Meta AI",
@@ -809,17 +853,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:e9db29d3-8963-43ba-8092-0817d1304cc0",
-      "company": "Verkada",
-      "title": "Backend Software Engineer",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
-      "location": "San Mateo, CA",
-      "datePosted": 1793645249,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae8de5b061d6d7ff3d7df8b",
       "company": "Qualtrics",
       "title": "Software Development Engineer I - Data Platform",
@@ -1290,39 +1323,6 @@
       "datePosted": 1793630495,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:42ac5574-2678-41c7-9396-732c5a690fd0",
-      "company": "Decagon",
-      "title": "New Grad 2027: Member of Technical Staff",
-      "url": "https://go.vansh.nyc/19g",
-      "location": "San Francisco, CA",
-      "datePosted": 1793628976,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
-      "company": "Google DeepMind",
-      "title": "Software Engineer 2 \u2013 Early Career",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
-      "location": "Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA",
-      "datePosted": 1793603487,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e861041e-d053-4d73-b1a5-91fcf979f848",
-      "company": "RTX",
-      "title": "RF Test Systems Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF-Test-Systems-Engineer-1---Onsite-McKinney-TX_01886691",
-      "location": "McKinney, TX",
-      "datePosted": 1793577600,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
