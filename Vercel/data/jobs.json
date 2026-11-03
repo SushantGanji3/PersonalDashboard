@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-03T14:40:19Z",
-  "totalOpen": 1523,
-  "totalNewgrad": 246,
-  "totalOther": 1277,
+  "generatedAt": "2026-11-03T14:50:17Z",
+  "totalOpen": 1522,
+  "totalNewgrad": 244,
+  "totalOther": 1278,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
+      "company": "Northrop Grumman",
+      "title": "Cyber Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1dD",
+      "location": "Roy, UT",
+      "datePosted": 1793716605,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:c80f24e3-b3cf-46b1-a2cc-5ebf75869a17",
       "company": "RTX",
@@ -67,28 +78,6 @@
       "url": "https://jobright.ai/jobs/info/6ae220ef6679108488c47cb6",
       "location": "Dallas, TX",
       "datePosted": 1793682971,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9dab3a291a1db4de25ac5",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6ae9dab3a291a1db4de25ac5",
-      "location": "Frisco, TX",
-      "datePosted": 1793681971,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9dab173d24ab055c59038",
-      "company": "UST HealthProof",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6ae9dab173d24ab055c59038",
-      "location": "Bellevue, WA",
-      "datePosted": 1793681969,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -160,10 +149,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada3828950ef68d5185511f",
+      "id": "newgrad-jobs:6ada485354bbabbab0714812",
       "company": "CACI International Inc",
       "title": "Embedded Software Engineering Co-op - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ada3828950ef68d5185511f",
+      "url": "https://jobright.ai/jobs/info/6ada485354bbabbab0714812",
       "location": "Danbury, CT",
       "datePosted": 1793675683,
       "source": "newgrad-jobs",
@@ -1161,17 +1150,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:9ab6e3ea-0469-42ae-9bb6-f2f55696880d",
-      "company": "Verkada",
-      "title": "New Grad 2027: Backend Software Engineer",
-      "url": "https://go.vansh.nyc/19H",
-      "location": "San Mateo, CA",
-      "datePosted": 1793645823,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae8de5b061d6d7ff3d7df8b",
       "company": "Qualtrics",
       "title": "Software Development Engineer I - Data Platform",
@@ -1321,6 +1299,28 @@
       "url": "https://jobright.ai/jobs/info/6ae8d617777c336eb6d66b7b",
       "location": "Seattle, WA",
       "datePosted": 1793638407,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae93002777c336eb6d6a43d",
+      "company": "Paylocity",
+      "title": "Associate Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae93002777c336eb6d6a43d",
+      "location": "United States",
+      "datePosted": 1793638274,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae686c5fb2cd420ace60ba9",
+      "company": "Tesla",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae686c5fb2cd420ace60ba9",
+      "location": "Fremont, CA",
+      "datePosted": 1793637786,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
