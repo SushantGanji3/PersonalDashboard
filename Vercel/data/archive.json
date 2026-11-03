@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T09:40:15Z",
+  "generatedAt": "2026-11-03T09:50:26Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793689220
+    },
+    {
+      "id": "newgrad-jobs:6ae9a27473d24ab055c581a3",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6ae9a27473d24ab055c581a3",
+      "location": "Bellevue, WA",
+      "datePosted": 1793667572,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793699426
+    },
+    {
+      "id": "newgrad-jobs:6ae9a267a291a1db4de24c90",
+      "company": "UST HealthProof",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae9a267a291a1db4de24c90",
+      "location": "Frisco, TX",
+      "datePosted": 1793667559,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793699426
     },
     {
       "id": "newgrad-jobs:6ae99520b4cb239414bd8b2e",
@@ -50964,50 +50986,6 @@
       "source": "newgrad-jobs",
       "season": "Fall 2026",
       "firstSeenAt": 1791136218
-    },
-    {
-      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
-      "company": "Spotify",
-      "title": "Research Scientist - Generative Audio",
-      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
-      "location": "United States",
-      "datePosted": 1791107408,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791306020
-    },
-    {
-      "id": "newgrad-jobs:6ac281b6d9621c5b2839acf9",
-      "company": "TikTok",
-      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac281b6d9621c5b2839acf9",
-      "location": "San Jose, CA",
-      "datePosted": 1791106886,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1791133827
-    },
-    {
-      "id": "newgrad-jobs:6ac281b0064da25272e0c541",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac281b0064da25272e0c541",
-      "location": "Seattle, WA",
-      "datePosted": 1791106880,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1791133827
-    },
-    {
-      "id": "newgrad-jobs:6ac281ac372c01f6cd72f185",
-      "company": "TikTok",
-      "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac281ac372c01f6cd72f185",
-      "location": "Seattle, WA",
-      "datePosted": 1791106876,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1791133827
     }
   ]
 }
