@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-03T15:30:18Z",
-  "totalOpen": 1521,
-  "totalNewgrad": 243,
-  "totalOther": 1278,
+  "generatedAt": "2026-11-03T15:40:18Z",
+  "totalOpen": 1526,
+  "totalNewgrad": 247,
+  "totalOther": 1279,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - FM Quality ML",
+      "url": "https://www.metacareers.com/jobs/1125383989877928",
+      "location": "Menlo Park, CA",
+      "datePosted": 1793718516,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
       "company": "Northrop Grumman",
@@ -15,6 +26,50 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4556f04f64ba41dcb4d0e2",
+      "company": "IMC Trading",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a4556f04f64ba41dcb4d0e2",
+      "location": "Chicago, IL",
+      "datePosted": 1793689944,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae9f5cca5966d341d02ba4b",
+      "company": "Fareway Stores, Inc.",
+      "title": "Corporate IT Full Stack Development Intern",
+      "url": "https://jobright.ai/jobs/info/6ae9f5cca5966d341d02ba4b",
+      "location": "Johnston, IA",
+      "datePosted": 1793688908,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae9f5c5a291a1db4de264db",
+      "company": "Fareway Stores, Inc.",
+      "title": "IBM I RPG Developer Internship",
+      "url": "https://jobright.ai/jobs/info/6ae9f5c5a291a1db4de264db",
+      "location": "Johnston, IA",
+      "datePosted": 1793688901,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae9f2afa291a1db4de26371",
+      "company": "Horizon Lane",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae9f2afa291a1db4de26371",
+      "location": "United States",
+      "datePosted": 1793688111,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:c80f24e3-b3cf-46b1-a2cc-5ebf75869a17",
@@ -1139,17 +1194,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:a81cce2a-9d0b-4eef-9ad8-184ad5fb2eac",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "url": "https://go.vansh.nyc/19Q",
-      "location": "Redmond, WA",
-      "datePosted": 1793646749,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae91454061d6d7ff3d804d7",
       "company": "Metro Sales Inc.",
       "title": "Software Developer",
@@ -1277,50 +1321,6 @@
       "url": "https://jobright.ai/jobs/info/6ae8d8a703f4a1104b256f90",
       "location": "Issaquah, WA",
       "datePosted": 1793638420,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8f884fb2cd420ace6acfd",
-      "company": "AMEWAS",
-      "title": "Software Developer-Junior",
-      "url": "https://jobright.ai/jobs/info/6ae8f884fb2cd420ace6acfd",
-      "location": "Patuxent River, MD",
-      "datePosted": 1793638417,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8f7be061d6d7ff3d7f139",
-      "company": "NASA Jet Propulsion Laboratory",
-      "title": "Engineering Applications Software Engineer l",
-      "url": "https://jobright.ai/jobs/info/6ae8f7be061d6d7ff3d7f139",
-      "location": "Pasadena, CA",
-      "datePosted": 1793638410,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8d617777c336eb6d66b7b",
-      "company": "Qualtrics",
-      "title": "Software Engineer I - XMD",
-      "url": "https://jobright.ai/jobs/info/6ae8d617777c336eb6d66b7b",
-      "location": "Seattle, WA",
-      "datePosted": 1793638407,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae93002777c336eb6d6a43d",
-      "company": "Paylocity",
-      "title": "Associate Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae93002777c336eb6d6a43d",
-      "location": "United States",
-      "datePosted": 1793638274,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
