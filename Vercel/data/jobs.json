@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:50:16Z",
+  "generatedAt": "2026-11-04T03:00:19Z",
   "totalOpen": 1542,
   "totalNewgrad": 248,
   "totalOther": 1294,
@@ -94,6 +94,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab2e08f1e4847ddae916e53",
+      "company": "Tyler Technologies",
+      "title": "Application Developer",
+      "url": "https://jobright.ai/jobs/info/6ab2e08f1e4847ddae916e53",
+      "location": "Yarmouth, ME; Augusta, ME",
+      "datePosted": 1793729374,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab30c54326574570a004bb7",
+      "company": "Astranis Space Technologies",
+      "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab30c54326574570a004bb7",
+      "location": "San Francisco, CA",
+      "datePosted": 1793728377,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab30bdc30340229a323159f",
+      "company": "Astranis Space Technologies",
+      "title": "Software Engineer Backend Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ab30bdc30340229a323159f",
+      "location": "San Francisco, CA",
+      "datePosted": 1793728362,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:20eef2b5-2b76-436c-be94-9a14b28c9a90",
       "company": "SambaNova",
       "title": "Machine Learning Engineer New Grad",
@@ -105,45 +138,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea8464897466e69e31fbc9",
-      "company": "Leidos",
-      "title": "Website & Multimedia Content Developer",
-      "url": "https://jobright.ai/jobs/info/6aea8464897466e69e31fbc9",
-      "location": "Chesapeake, VA",
-      "datePosted": 1793725412,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea8408fc85f3a394334548",
-      "company": "Leidos",
-      "title": "Embedded Flight Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aea8408fc85f3a394334548",
-      "location": "Huntsville, AL",
-      "datePosted": 1793725320,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea83ff897466e69e31f9f9",
-      "company": "Leidos",
-      "title": "Jr Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6aea83ff897466e69e31f9f9",
-      "location": "Newport News, VA",
-      "datePosted": 1793725311,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea83ff440b469a1c0aea52",
-      "company": "Leidos",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aea83ff440b469a1c0aea52",
-      "location": "Huntsville, AL",
-      "datePosted": 1793725311,
+      "id": "newgrad-jobs:6aea475f4f991d64376cc7de",
+      "company": "Boston Scientific",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aea475f4f991d64376cc7de",
+      "location": "Maple Grove, MN",
+      "datePosted": 1793726068,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -226,37 +226,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea475f4f991d64376cc7de",
-      "company": "Boston Scientific",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aea475f4f991d64376cc7de",
-      "location": "Maple Grove, MN",
-      "datePosted": 1793724271,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab30c54326574570a004bb7",
-      "company": "Astranis Space Technologies",
-      "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab30c54326574570a004bb7",
-      "location": "San Francisco, CA",
-      "datePosted": 1793723499,
+      "id": "newgrad-jobs:6aea6cb91ba298c777772c27",
+      "company": "BAE Systems",
+      "title": "AI/ML Engineer Intern, Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aea6cb91ba298c777772c27",
+      "location": "Rockville, MD",
+      "datePosted": 1793724309,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab30bdc30340229a323159f",
-      "company": "Astranis Space Technologies",
-      "title": "Software Engineer Backend Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab30bdc30340229a323159f",
-      "location": "San Francisco, CA",
-      "datePosted": 1793723498,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae240da05a39c3e2c71858c",
@@ -806,6 +784,28 @@
       "datePosted": 1793714432,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aea1096913589212b1f3041",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA",
+      "url": "https://jobright.ai/jobs/info/6aea1096913589212b1f3041",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793714432,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad92836950ef68d5184eb4f",
+      "company": "Twitch",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad92836950ef68d5184eb4f",
+      "location": "Seattle, WA",
+      "datePosted": 1793714172,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
