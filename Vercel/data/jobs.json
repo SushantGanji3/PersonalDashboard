@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T18:10:20Z",
-  "totalOpen": 1539,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-11-04T18:20:17Z",
+  "totalOpen": 1538,
+  "totalNewgrad": 246,
   "totalOther": 1292,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -69,7 +69,7 @@
       "datePosted": 1793784399,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aeb33a665311d97105b65e9",
@@ -80,7 +80,7 @@
       "datePosted": 1793784060,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aeb672882f0ac077443959a",
@@ -91,7 +91,7 @@
       "datePosted": 1793783464,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aeb6095765815f7d745fa7e",
@@ -523,17 +523,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeb3700fbe13dfb53df1d8f",
-      "company": "Torentify",
-      "title": "Data Scientist (WFH)",
-      "url": "https://jobright.ai/jobs/info/6aeb3700fbe13dfb53df1d8f",
-      "location": "United States",
-      "datePosted": 1793771136,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae9db1232411b3e5a2e26f0",
       "company": "RTX",
       "title": "Embedded Security Software Engineer I (Onsite)",
@@ -729,6 +718,17 @@
       "datePosted": 1793760428,
       "source": "aggregator",
       "season": "Spring",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ace8713ba99f15ef41258a3",
+      "company": "Medpace",
+      "title": "Python Developer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ace8713ba99f15ef41258a3",
+      "location": "Cincinnati, OH",
+      "datePosted": 1793758623,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
