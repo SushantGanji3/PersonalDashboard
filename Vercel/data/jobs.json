@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-04T13:00:26Z",
-  "totalOpen": 1536,
-  "totalNewgrad": 245,
-  "totalOther": 1291,
+  "generatedAt": "2026-11-04T13:10:18Z",
+  "totalOpen": 1538,
+  "totalNewgrad": 246,
+  "totalOther": 1292,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:112f90c2-1f3b-446b-8b52-275a8020f3fc",
+      "company": "Northrop Grumman",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gn",
+      "location": "Roy, UT",
+      "datePosted": 1793795822,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:cf77144b-ecb7-4759-9b25-3e456f726e10",
       "company": "Northrop Grumman",
@@ -26,6 +37,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeb22eaf40efa43f4a1388e",
+      "company": "b.well Connected Health",
+      "title": "Test Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeb22eaf40efa43f4a1388e",
+      "location": "United States",
+      "datePosted": 1793765994,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a968641455eaf6a08c17d4e",
@@ -798,17 +820,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea328e440b469a1c0ab9eb",
-      "company": "Commonwealth Fusion Systems",
-      "title": "Intern - Software Engineer - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aea328e440b469a1c0ab9eb",
-      "location": "Devens, MA",
-      "datePosted": 1793722652,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:2898b74c-bc91-4f06-b910-1d62bdba0c18",
       "company": "American Express",
       "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
@@ -1308,17 +1319,6 @@
       "company": "Tesla",
       "title": "Software Engineer Intern, Camera & Robotics",
       "url": "https://go.vansh.nyc/1aw",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:00d844d4-12f5-41a4-bc4f-a2f20b260014",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
-      "url": "https://go.vansh.nyc/1ax",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
