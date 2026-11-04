@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T15:50:16Z",
-  "totalOpen": 1542,
+  "generatedAt": "2026-11-04T16:00:20Z",
+  "totalOpen": 1543,
   "totalNewgrad": 250,
-  "totalOther": 1292,
+  "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:4f99432b-8328-4c8e-8953-21f6a3c0e46c",
+      "company": "L3Harris",
+      "title": "Associate, Software Engineer",
+      "url": "https://go.vansh.nyc/1gD",
+      "location": "Palm Bay, FL",
+      "datePosted": 1793804867,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:112f90c2-1f3b-446b-8b52-275a8020f3fc",
@@ -58,7 +69,7 @@
       "datePosted": 1793775671,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9e309e68f82b4036738d34",
@@ -69,7 +80,7 @@
       "datePosted": 1793775596,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab2ea9a326574570a003ae7",
@@ -80,7 +91,7 @@
       "datePosted": 1793775453,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab2e08f1e4847ddae916e53",
@@ -212,7 +223,7 @@
       "datePosted": 1793771182,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aeb3700fbe13dfb53df1d8f",
@@ -1308,17 +1319,6 @@
       "company": "Tesla",
       "title": "Embedded Software Engineer Intern, Body Controls Firmware",
       "url": "https://go.vansh.nyc/1au",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:6f22b50f-08ee-450f-bb76-5f5e998ac5a3",
-      "company": "Tesla",
-      "title": "Software Engineer Opticaster Intern, Energy Engineering",
-      "url": "https://go.vansh.nyc/1av",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
