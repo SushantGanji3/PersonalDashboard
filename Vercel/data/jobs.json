@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:10:18Z",
+  "generatedAt": "2026-11-04T13:20:17Z",
   "totalOpen": 1538,
   "totalNewgrad": 246,
   "totalOther": 1292,
@@ -14,7 +14,7 @@
       "datePosted": 1793795822,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:cf77144b-ecb7-4759-9b25-3e456f726e10",
@@ -39,6 +39,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab197da23005eee3545b68a",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - Digital Product: Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6ab197da23005eee3545b68a",
+      "location": "Warren, MI; Seattle, WA; Austin, TX; Milford Charter Township, MI; Mountain View, CA",
+      "datePosted": 1793766384,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aeb22eaf40efa43f4a1388e",
       "company": "b.well Connected Health",
       "title": "Test Software Engineer",
@@ -47,7 +58,7 @@
       "datePosted": 1793765994,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a968641455eaf6a08c17d4e",
@@ -67,17 +78,6 @@
       "url": "https://jobright.ai/jobs/info/6a9638ba9fcec54423731f7d",
       "location": "Washington, DC",
       "datePosted": 1793764888,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab197da23005eee3545b68a",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - Digital Product: Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ab197da23005eee3545b68a",
-      "location": "Warren, MI; Seattle, WA; Austin, TX; Milford Charter Township, MI; Mountain View, CA",
-      "datePosted": 1793764510,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -248,10 +248,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac55e324ac55253f5d76505",
+      "id": "newgrad-jobs:6a7a7e3967a1ad0bc53d3979",
       "company": "Medpace",
       "title": "Data Engineer Intern - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ac55e324ac55253f5d76505",
+      "url": "https://jobright.ai/jobs/info/6a7a7e3967a1ad0bc53d3979",
       "location": "Cincinnati, OH",
       "datePosted": 1793758580,
       "source": "newgrad-jobs",
@@ -743,10 +743,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea3d9b913589212b1f4e69",
+      "id": "newgrad-jobs:6aea3d9b897466e69e31d086",
       "company": "Staples",
       "title": "Software Engineer Intern (SDS e-Commerce Team)",
-      "url": "https://jobright.ai/jobs/info/6aea3d9b913589212b1f4e69",
+      "url": "https://jobright.ai/jobs/info/6aea3d9b897466e69e31d086",
       "location": "Framingham, MA",
       "datePosted": 1793724451,
       "source": "newgrad-jobs",
