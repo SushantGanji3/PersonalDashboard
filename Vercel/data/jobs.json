@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T08:00:21Z",
-  "totalOpen": 1540,
+  "generatedAt": "2026-11-04T08:08:05Z",
+  "totalOpen": 1541,
   "totalNewgrad": 250,
-  "totalOther": 1290,
+  "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Spring",
       "isNew": false
+    },
+    {
+      "id": "simplify:79477bc2-76a3-4678-90ed-8684e8e45c02",
+      "company": "Etched",
+      "title": "IA Research Engineer Intern - Kernels",
+      "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true",
+      "location": "San Jose, CA",
+      "datePosted": 1793750400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:628318f8-ee8f-45d1-9737-0c3b6ca4a924",
@@ -58,7 +69,7 @@
       "datePosted": 1793746826,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aead2c0913589212b1f8ff4",
@@ -69,7 +80,7 @@
       "datePosted": 1793745472,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c9942f0a-e3da-4b00-9ee2-be611a85daca",
@@ -113,7 +124,7 @@
       "datePosted": 1793744623,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aeac923fc85f3a394335ae6",
@@ -1308,17 +1319,6 @@
       "company": "Tesla",
       "title": "Data Engineer Intern, Fleet Analytics",
       "url": "https://go.vansh.nyc/1az",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:37642ec1-1ab0-4c11-8b12-18f93ae53d13",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, Data Platforms",
-      "url": "https://go.vansh.nyc/1aB",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
