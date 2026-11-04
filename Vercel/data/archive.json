@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:50:15Z",
+  "generatedAt": "2026-11-04T04:00:22Z",
   "windowDays": 30,
   "items": [
     {
@@ -122,6 +122,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793733627
+    },
+    {
+      "id": "newgrad-jobs:6aea9b6c440b469a1c0af37e",
+      "company": "Etched",
+      "title": "IA Research Engineer (Kernels) Intern",
+      "url": "https://jobright.ai/jobs/info/6aea9b6c440b469a1c0af37e",
+      "location": "San Jose, CA",
+      "datePosted": 1793731308,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793764822
     },
     {
       "id": "newgrad-jobs:6ad8194d950ef68d51846c2b",
@@ -52328,28 +52339,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791262216
-    },
-    {
-      "id": "newgrad-jobs:6ac3d3c3064da25272e0f9d2",
-      "company": "Altron, Inc.",
-      "title": "Software Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac3d3c3064da25272e0f9d2",
-      "location": "Middletown, RI",
-      "datePosted": 1791172693,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791222617
-    },
-    {
-      "id": "newgrad-jobs:6ac3d3ccd9621c5b2839e0c7",
-      "company": "Altron, Inc.",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac3d3ccd9621c5b2839e0c7",
-      "location": "Middletown, RI",
-      "datePosted": 1791172609,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791222617
     }
   ]
 }
