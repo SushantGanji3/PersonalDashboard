@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:30:20Z",
+  "generatedAt": "2026-11-04T02:40:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -122,6 +122,50 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793749215
+    },
+    {
+      "id": "newgrad-jobs:6aea8464897466e69e31fbc9",
+      "company": "Leidos",
+      "title": "Website & Multimedia Content Developer",
+      "url": "https://jobright.ai/jobs/info/6aea8464897466e69e31fbc9",
+      "location": "Chesapeake, VA",
+      "datePosted": 1793725412,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793760017
+    },
+    {
+      "id": "newgrad-jobs:6aea8408fc85f3a394334548",
+      "company": "Leidos",
+      "title": "Embedded Flight Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aea8408fc85f3a394334548",
+      "location": "Huntsville, AL",
+      "datePosted": 1793725320,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793760017
+    },
+    {
+      "id": "newgrad-jobs:6aea83ff897466e69e31f9f9",
+      "company": "Leidos",
+      "title": "Jr Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aea83ff897466e69e31f9f9",
+      "location": "Newport News, VA",
+      "datePosted": 1793725311,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793760017
+    },
+    {
+      "id": "newgrad-jobs:6aea83ff440b469a1c0aea52",
+      "company": "Leidos",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aea83ff440b469a1c0aea52",
+      "location": "Huntsville, AL",
+      "datePosted": 1793725311,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793760017
     },
     {
       "id": "newgrad-jobs:6aea8393913589212b1f7794",
@@ -52295,17 +52339,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1791199817
-    },
-    {
-      "id": "newgrad-jobs:6ac3705b0e027c0f3b3a641f",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, AI Hardware Infrastructure (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ac3705b0e027c0f3b3a641f",
-      "location": "Palo Alto, CA",
-      "datePosted": 1791167979,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "firstSeenAt": 1791197415
     }
   ]
 }
