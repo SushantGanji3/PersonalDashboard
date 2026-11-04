@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:40:17Z",
+  "generatedAt": "2026-11-04T00:50:16Z",
   "totalOpen": 1549,
   "totalNewgrad": 255,
   "totalOther": 1294,
@@ -125,6 +125,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aea334b4f991d64376cba85",
+      "company": "STV",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6aea334b4f991d64376cba85",
+      "location": "New York, NY; Boston, MA",
+      "datePosted": 1793720150,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
@@ -793,17 +804,6 @@
       "url": "https://jobright.ai/jobs/info/6aea37f9440b469a1c0abcd9",
       "location": "San Mateo, CA",
       "datePosted": 1793705849,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea36d11ba298c777770a30",
-      "company": "Mayo Clinic",
-      "title": "HTM Associate Information Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6aea36d11ba298c777770a30",
-      "location": "Eau Claire, WI",
-      "datePosted": 1793705553,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
