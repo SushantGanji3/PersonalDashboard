@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-04T18:50:42Z",
-  "totalOpen": 1176,
-  "totalNewgrad": 246,
-  "totalOther": 930,
+  "generatedAt": "2026-11-04T19:00:20Z",
+  "totalOpen": 1541,
+  "totalNewgrad": 248,
+  "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
+      "company": "L3Harris",
+      "title": "Systems Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors",
+      "location": "Nashville, TN",
+      "datePosted": 1793804868,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "simplify:4f99432b-8328-4c8e-8953-21f6a3c0e46c",
       "company": "L3Harris",
@@ -50,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aeb6ffe65311d97105b8932",
+      "company": "Serco",
+      "title": "Junior Data Engineer/Scientist - Washington, D.C",
+      "url": "https://jobright.ai/jobs/info/6aeb6ffe65311d97105b8932",
+      "location": "Washington, DC",
+      "datePosted": 1793785726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aeb6acfa0b134121d99a7c1",
       "company": "C3 AI",
       "title": "Associate Site Reliability Engineer/Site Reliability Engineer",
@@ -83,6 +105,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab1ddeb23005eee3545cd2d",
+      "company": "SpaceX",
+      "title": "Software Engineer, Simulations (Vehicle Engineering)",
+      "url": "https://jobright.ai/jobs/info/6ab1ddeb23005eee3545cd2d",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793782919,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aeb6095765815f7d745fa7e",
       "company": "RWE",
       "title": "Junior Software Engineer Job Details | RWE",
@@ -92,6 +125,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a950e331e67aa542830d8a9",
+      "company": "SpaceX",
+      "title": "Software Engineer, Collision Avoidance (Starshield)",
+      "url": "https://jobright.ai/jobs/info/6a950e331e67aa542830d8a9",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793782440,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa8a7bd58d9ccf2690b599d",
+      "company": "SpaceX",
+      "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
+      "url": "https://jobright.ai/jobs/info/6aa8a7bd58d9ccf2690b599d",
+      "location": "Redmond, WA",
+      "datePosted": 1793781959,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aac8191636cddf7396f4523",
@@ -105,15 +160,37 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aeb409b765815f7d745e71c",
+      "company": "CriticalSolutions, LLC",
+      "title": "Site Reliability Automation and Orchestration Engineer \u2013 Junior \u2013 (w/ active Secret)",
+      "url": "https://jobright.ai/jobs/info/6aeb409b765815f7d745e71c",
+      "location": "Norfolk, VA",
+      "datePosted": 1793781786,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aeb5e7365311d97105b7c5f",
       "company": "Innovative Defense Technologies (IDT)",
       "title": "Associate Systems Engineer - JobID-0183",
       "url": "https://jobright.ai/jobs/info/6aeb5e7365311d97105b7c5f",
       "location": "Mount Laurel Township, NJ",
-      "datePosted": 1793781235,
+      "datePosted": 1793781458,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeb5936fbe13dfb53df2d9d",
+      "company": "Lighthouse Electric Company, Inc.",
+      "title": "Developer I",
+      "url": "https://jobright.ai/jobs/info/6aeb5936fbe13dfb53df2d9d",
+      "location": "Canonsburg, PA",
+      "datePosted": 1793781241,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aeb41a4a0b134121d998d5f",
@@ -644,61 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea7a8b4f991d64376ce48b",
-      "company": "Spectrum",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aea7a8b4f991d64376ce48b",
-      "location": "Englewood, CO",
-      "datePosted": 1793763648,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acecc3aba99f15ef4126db2",
-      "company": "Brain Co.",
-      "title": "Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acecc3aba99f15ef4126db2",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1793762125,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a905ab20bd89e205d249c9f",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
-      "location": "Offutt Air Force Base, NE",
-      "datePosted": 1793762075,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acecc3c4391691a335ae9eb",
-      "company": "Brain Co.",
-      "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acecc3c4391691a335ae9eb",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1793761897,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acecc3bbb78de94580d829b",
-      "company": "Brain Co.",
-      "title": "AI Security Engineer Co-Op Intern, Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acecc3bbb78de94580d829b",
-      "location": "San Francisco Bay Area, United States",
-      "datePosted": 1793761715,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:75884364-ef47-417e-9213-db39cd22a5ba",
       "company": "Etched",
       "title": "IA Research Engineer Intern, Kernels",
@@ -710,14 +732,36 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ace8713ba99f15ef41258a3",
-      "company": "Medpace",
-      "title": "Python Developer Internship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ace8713ba99f15ef41258a3",
-      "location": "Cincinnati, OH",
-      "datePosted": 1793758623,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
+      "id": "simplify:79477bc2-76a3-4678-90ed-8684e8e45c02",
+      "company": "Etched",
+      "title": "IA Research Engineer Intern - Kernels",
+      "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true",
+      "location": "San Jose, CA",
+      "datePosted": 1793750400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:628318f8-ee8f-45d1-9737-0c3b6ca4a924",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - GenAI Safety",
+      "url": "https://www.metacareers.com/jobs/993713283787464",
+      "location": "SF, Menlo Park, CA",
+      "datePosted": 1793748264,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:305f85d5-4a7e-488b-849e-5804911af318",
+      "company": "American Express",
+      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
+      "location": "Phoenix, AZ",
+      "datePosted": 1793748143,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -765,17 +809,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:0c9514de-36e1-457f-a3ff-175576714aae",
-      "company": "Northrop Grumman",
-      "title": "Ground Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1e5",
-      "location": "Redondo Beach, CA",
-      "datePosted": 1793734769,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:92a80325-0afd-4f33-9c06-b87732f97b84",
       "company": "RTX",
       "title": "Software Engineering Intern",
@@ -795,7 +828,7 @@
       "datePosted": 1793733736,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:aecc2da7-51c6-40b6-8c3d-2dbab1338249",
@@ -804,17 +837,6 @@
       "url": "https://go.vansh.nyc/1dY",
       "location": "Redmond, WA",
       "datePosted": 1793732873,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:ded5db26-d978-4651-b419-864dfd189e62",
-      "company": "Northrop Grumman",
-      "title": "Flight Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1dV",
-      "location": "Manhattan Beach, CA",
-      "datePosted": 1793732118,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
@@ -831,6 +853,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:2898b74c-bc91-4f06-b910-1d62bdba0c18",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793721064,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
       "id": "simplify:7cc3221f-7db3-4ab6-8897-e0b946c27a7e",
       "company": "American Express",
       "title": "Undergraduate Program Software Engineer Intern, Enterprise Technology Services",
@@ -839,6 +872,17 @@
       "datePosted": 1793721064,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - FM Quality ML",
+      "url": "https://www.metacareers.com/jobs/1125383989877928",
+      "location": "Menlo Park, CA",
+      "datePosted": 1793718516,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     },
     {
@@ -851,17 +895,6 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
-    },
-    {
-      "id": "simplify:edcbc397-3c1c-4a2f-87d5-fad298b406f2",
-      "company": "RTX",
-      "title": "Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/1cO",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1793685978,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": true
     },
     {
       "id": "simplify:c80f24e3-b3cf-46b1-a2cc-5ebf75869a17",
@@ -897,45 +930,34 @@
       "isNew": false
     },
     {
-      "id": "simplify:1eeb3eed-2c42-4293-9bff-39edb4c4c66e",
-      "company": "RTX",
-      "title": "Systems Engineer Co-op",
-      "url": "https://go.vansh.nyc/1cU",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1793685978,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": true
-    },
-    {
-      "id": "simplify:8d1de8c3-243c-4952-bc63-9d00716ceba8",
-      "company": "Micron",
-      "title": "IT Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1d6",
-      "location": "Boise, ID",
-      "datePosted": 1793685978,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": true
-    },
-    {
-      "id": "simplify:86a17a77-06bc-4ba0-aade-d64b0d08bead",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1d8",
-      "location": "Linthicum, MD",
-      "datePosted": 1793685978,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": true
-    },
-    {
       "id": "simplify:01cd3b84-db7b-469d-8f33-e2065ef6fe27",
       "company": "SpaceX",
       "title": "Software Engineer, Starlink Enterprise",
       "url": "https://go.vansh.nyc/1dT",
       "location": "Palo Alto, CA",
       "datePosted": 1793668369,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:f3d897bf-f136-496c-9994-5a34953c7c3b",
+      "company": "Northrop Grumman",
+      "title": "Flight Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
+      "location": "Manhattan Beach, CA",
+      "datePosted": 1793664000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:c5e86824-dfe7-4736-af3b-f8a7222c6536",
+      "company": "Northrop Grumman",
+      "title": "Ground Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
+      "location": "Redondo Beach, CA",
+      "datePosted": 1793664000,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -996,12 +1018,56 @@
       "isNew": false
     },
     {
+      "id": "simplify:6ec1e81b-4fcc-4f96-8e08-01f231df526c",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Robotic Control Policy",
+      "url": "https://www.metacareers.com/jobs/1872420890835857",
+      "location": "Redmond, WA",
+      "datePosted": 1793663365,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:4489f18f-4490-438c-9c19-4a7c9724659f",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
+      "url": "https://www.metacareers.com/jobs/1272664685039241",
+      "location": "Menlo Park, CA, NYC",
+      "datePosted": 1793663365,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:805fa8a6-96cb-4f51-8398-5cca7acfe9a8",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
+      "url": "https://www.metacareers.com/jobs/1143164681833409",
+      "location": "Redmond, WA",
+      "datePosted": 1793663364,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
       "company": "Microsoft",
       "title": "Software Engineer IC2",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
       "location": "Redmond, WA",
       "datePosted": 1793663300,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:5cbbef3c-c5a1-47a0-9772-22bb958a3000",
+      "company": "Microsoft",
+      "title": "Research Intern - Foundational Models & Agent",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
+      "location": "Redmond, WA",
+      "datePosted": 1793663299,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1257,72 +1323,6 @@
       "datePosted": 1793660574,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:488e712f-fe7b-42d6-921f-f4a95914bf34",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern, Body Controls Firmware",
-      "url": "https://go.vansh.nyc/1au",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:6f22b50f-08ee-450f-bb76-5f5e998ac5a3",
-      "company": "Tesla",
-      "title": "Software Engineer Opticaster Intern, Energy Engineering",
-      "url": "https://go.vansh.nyc/1av",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:2d306709-5135-46b8-876d-6b66331430a8",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, Camera & Robotics",
-      "url": "https://go.vansh.nyc/1aw",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:00d844d4-12f5-41a4-bc4f-a2f20b260014",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
-      "url": "https://go.vansh.nyc/1ax",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:0df1956d-5647-49d5-be9a-d3b711914eef",
-      "company": "Tesla",
-      "title": "Fullstack Software Engineer Intern, Fleetnet",
-      "url": "https://go.vansh.nyc/1ay",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:20f2f0c9-29fa-41ae-bc1b-a5d4b76083fa",
-      "company": "Tesla",
-      "title": "Data Engineer Intern, Fleet Analytics",
-      "url": "https://go.vansh.nyc/1az",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
       "isNew": false
     }
   ]
