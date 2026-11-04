@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T12:20:17Z",
-  "totalOpen": 1543,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-11-04T12:30:22Z",
+  "totalOpen": 1539,
+  "totalNewgrad": 247,
   "totalOther": 1292,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793793413,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:a0910ed7-6677-4130-9e9d-fa2c16691578",
@@ -25,7 +25,40 @@
       "datePosted": 1793793413,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acecc3aba99f15ef4126db2",
+      "company": "Brain Co.",
+      "title": "Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6acecc3aba99f15ef4126db2",
+      "location": "San Francisco Bay Area, United States",
+      "datePosted": 1793762125,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acecc3c4391691a335ae9eb",
+      "company": "Brain Co.",
+      "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
+      "url": "https://jobright.ai/jobs/info/6acecc3c4391691a335ae9eb",
+      "location": "San Francisco Bay Area, United States",
+      "datePosted": 1793761897,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acfab4cc0dd9da253cf3d7f",
+      "company": "Stripe",
+      "title": "High School Internship, Software Engineering (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6acfab4cc0dd9da253cf3d7f",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1793761001,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "simplify:75884364-ef47-417e-9213-db39cd22a5ba",
@@ -36,17 +69,6 @@
       "datePosted": 1793760428,
       "source": "aggregator",
       "season": "Spring",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeb0cba65311d97105b4819",
-      "company": "UST",
-      "title": "Junior Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aeb0cba65311d97105b4819",
-      "location": "Frisco, TX",
-      "datePosted": 1793760314,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -81,6 +103,17 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1bda832552369083e4195",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Design Automation (Spring 2027 Co-Op)",
+      "url": "https://jobright.ai/jobs/info/6ab1bda832552369083e4195",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793759149,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ace8713ba99f15ef41258a3",
@@ -798,17 +831,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea48ef4f991d64376cc971",
-      "company": "Seagate Technology",
-      "title": "Summer Intern - Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aea48ef4f991d64376cc971",
-      "location": "Shakopee, MN",
-      "datePosted": 1793718920,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
       "company": "Meta AI",
       "title": "Research Scientist Intern - FM Quality ML",
@@ -816,28 +838,6 @@
       "location": "Menlo Park, CA",
       "datePosted": 1793718516,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea67de913589212b1f6abe",
-      "company": "Lockheed Martin",
-      "title": "Java Software Developer-INTERN",
-      "url": "https://jobright.ai/jobs/info/6aea67de913589212b1f6abe",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1793718110,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea48684f991d64376cc8fc",
-      "company": "Starkey M\u00e9xico",
-      "title": "Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6aea48684f991d64376cc8fc",
-      "location": "Eden Prairie, MN",
-      "datePosted": 1793717963,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
