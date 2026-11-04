@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T11:20:19Z",
+  "generatedAt": "2026-11-04T11:30:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,61 @@
       "source": "aggregator",
       "season": "Spring",
       "firstSeenAt": 1793762416
+    },
+    {
+      "id": "newgrad-jobs:6aeb0cba65311d97105b4819",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6aeb0cba65311d97105b4819",
+      "location": "Frisco, TX",
+      "datePosted": 1793760314,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793791818
+    },
+    {
+      "id": "newgrad-jobs:6ab1bda632552369083e418f",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Product Development Portal (Spring Co-Op)",
+      "url": "https://jobright.ai/jobs/info/6ab1bda632552369083e418f",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793759577,
+      "source": "newgrad-jobs",
+      "season": "Spring",
+      "firstSeenAt": 1793791818
+    },
+    {
+      "id": "newgrad-jobs:6ab1bda9d2a93d5a97ebcaa1",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
+      "url": "https://jobright.ai/jobs/info/6ab1bda9d2a93d5a97ebcaa1",
+      "location": "Plymouth, MI",
+      "datePosted": 1793759317,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1793791818
+    },
+    {
+      "id": "newgrad-jobs:6ac55e324ac55253f5d76505",
+      "company": "Medpace",
+      "title": "Data Engineer Intern - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6ac55e324ac55253f5d76505",
+      "location": "Cincinnati, OH",
+      "datePosted": 1793758580,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1793791818
+    },
+    {
+      "id": "newgrad-jobs:6ac6a8218ff3fb9b3bc8e65f",
+      "company": "Deloitte",
+      "title": "Consultant II, Backend Software Engineering - Tax Transformation",
+      "url": "https://jobright.ai/jobs/info/6ac6a8218ff3fb9b3bc8e65f",
+      "location": "New Orleans, LA",
+      "datePosted": 1793757097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793791818
     },
     {
       "id": "newgrad-jobs:6aeaf9c2fbe13dfb53def9ba",
@@ -52075,28 +52130,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1791230431
-    },
-    {
-      "id": "newgrad-jobs:6ac3eb6bd9621c5b2839e949",
-      "company": "Enterprise Mobility",
-      "title": "Intern - Data Engineer (EFM IT), Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ac3eb6bd9621c5b2839e949",
-      "location": "St. Louis, MO; Brentwood, MO; Richmond Heights, MO; Clayton, MO; Maplewood, MO",
-      "datePosted": 1791199483,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "firstSeenAt": 1791227427
-    },
-    {
-      "id": "newgrad-jobs:6a5808db8f51964c040466c5",
-      "company": "The D. E. Shaw Group",
-      "title": "Human Capital Analytics Developer",
-      "url": "https://jobright.ai/jobs/info/6a5808db8f51964c040466c5",
-      "location": "New York, NY",
-      "datePosted": 1791199481,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791227427
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T11:20:19Z",
+  "generatedAt": "2026-11-04T11:30:18Z",
   "totalOpen": 1542,
   "totalNewgrad": 251,
   "totalOther": 1291,
@@ -15,6 +15,83 @@
       "source": "aggregator",
       "season": "Spring",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeb0cba65311d97105b4819",
+      "company": "UST",
+      "title": "Junior Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6aeb0cba65311d97105b4819",
+      "location": "Frisco, TX",
+      "datePosted": 1793760314,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab1bda632552369083e418f",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Product Development Portal (Spring Co-Op)",
+      "url": "https://jobright.ai/jobs/info/6ab1bda632552369083e418f",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793759577,
+      "source": "newgrad-jobs",
+      "season": "Spring",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa2003a3272060a8e3f32fe",
+      "company": "Westinghouse Electric Company",
+      "title": "Summer Intern -Computer Engineering / Software Engineering Job Details | Westinghouse Electric Company, LLC",
+      "url": "https://jobright.ai/jobs/info/6aa2003a3272060a8e3f32fe",
+      "location": "Rock Hill, SC; Columbia, SC",
+      "datePosted": 1793759512,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab1bda9d2a93d5a97ebcaa1",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
+      "url": "https://jobright.ai/jobs/info/6ab1bda9d2a93d5a97ebcaa1",
+      "location": "Plymouth, MI",
+      "datePosted": 1793759317,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ace8713ba99f15ef41258a3",
+      "company": "Medpace",
+      "title": "Python Developer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ace8713ba99f15ef41258a3",
+      "location": "Cincinnati, OH",
+      "datePosted": 1793758623,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac55e324ac55253f5d76505",
+      "company": "Medpace",
+      "title": "Data Engineer Intern - Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6ac55e324ac55253f5d76505",
+      "location": "Cincinnati, OH",
+      "datePosted": 1793758580,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6a8218ff3fb9b3bc8e65f",
+      "company": "Deloitte",
+      "title": "Consultant II, Backend Software Engineering - Tax Transformation",
+      "url": "https://jobright.ai/jobs/info/6ac6a8218ff3fb9b3bc8e65f",
+      "location": "New Orleans, LA",
+      "datePosted": 1793757097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac42aea064da25272e11932",
@@ -738,83 +815,6 @@
       "url": "https://jobright.ai/jobs/info/6aea48684f991d64376cc8fc",
       "location": "Eden Prairie, MN",
       "datePosted": 1793717963,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea674a913589212b1f6a33",
-      "company": "Sentient Digital, Inc.",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aea674a913589212b1f6a33",
-      "location": "Brunswick, ME",
-      "datePosted": 1793717962,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea64df1ba298c7777727a9",
-      "company": "Astrolab",
-      "title": "Full Stack Developer (All Levels)",
-      "url": "https://jobright.ai/jobs/info/6aea64df1ba298c7777727a9",
-      "location": "United States",
-      "datePosted": 1793717847,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8c455fb2cd420ace688ba",
-      "company": "Resideo",
-      "title": "Mobile Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae8c455fb2cd420ace688ba",
-      "location": "Austin, TX",
-      "datePosted": 1793717484,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea64c0897466e69e31ea78",
-      "company": "RoboForce",
-      "title": "Machine Learning Engineer Intern, AI & Robotics",
-      "url": "https://jobright.ai/jobs/info/6aea64c0897466e69e31ea78",
-      "location": "Milpitas, CA",
-      "datePosted": 1793717312,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea4cc8913589212b1f59e5",
-      "company": "Engramme",
-      "title": "Full-Stack Software Engineer (Co-op / extended internship)",
-      "url": "https://jobright.ai/jobs/info/6aea4cc8913589212b1f59e5",
-      "location": "San Francisco, CA",
-      "datePosted": 1793717242,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea4cc44f991d64376ccc6f",
-      "company": "Engramme",
-      "title": "Back-End Software Engineer (Co-op / extended internship)",
-      "url": "https://jobright.ai/jobs/info/6aea4cc44f991d64376ccc6f",
-      "location": "San Francisco, CA",
-      "datePosted": 1793717239,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea4cc4fc85f3a3943327bb",
-      "company": "Engramme",
-      "title": "Machine Learning Engineer (Co-op / extended internship)",
-      "url": "https://jobright.ai/jobs/info/6aea4cc4fc85f3a3943327bb",
-      "location": "San Francisco, CA",
-      "datePosted": 1793717234,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
