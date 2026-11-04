@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T09:30:18Z",
+  "generatedAt": "2026-11-04T10:10:18Z",
   "totalOpen": 1540,
-  "totalNewgrad": 250,
-  "totalOther": 1290,
+  "totalNewgrad": 249,
+  "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -17,6 +17,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a4182d216b14939532842f7",
+      "company": "Thatch",
+      "title": "Software Engineer: Full Stack",
+      "url": "https://jobright.ai/jobs/info/6a4182d216b14939532842f7",
+      "location": "United States",
+      "datePosted": 1793751874,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aea2227897466e69e31bdcf",
+      "company": "Dell",
+      "title": "CSG Software Engineering Undergraduate Intern",
+      "url": "https://jobright.ai/jobs/info/6aea2227897466e69e31bdcf",
+      "location": "Austin, TX",
+      "datePosted": 1793751705,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:79477bc2-76a3-4678-90ed-8684e8e45c02",
       "company": "Etched",
       "title": "IA Research Engineer Intern - Kernels",
@@ -24,6 +46,17 @@
       "location": "San Jose, CA",
       "datePosted": 1793750400,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeae47059a085bcfcdcacde",
+      "company": "AfterQuery",
+      "title": "Bilingual Audio Contributor (Indian/English)",
+      "url": "https://jobright.ai/jobs/info/6aeae47059a085bcfcdcacde",
+      "location": "United States",
+      "datePosted": 1793750000,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -111,6 +144,39 @@
       "url": "https://jobright.ai/jobs/info/6aea8008913589212b1f7543",
       "location": "Plymouth, MN",
       "datePosted": 1793744623,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a987f6383fc633357631d3b",
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Embedded Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a987f6383fc633357631d3b",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793743518,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad11b5fe2d41540d4a6e341",
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Information Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad11b5fe2d41540d4a6e341",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793743516,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae944f5e50c01a743a8842a",
+      "company": "General Matter",
+      "title": "Applied AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae944f5e50c01a743a8842a",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793743514,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -391,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea3d9b913589212b1f4e69",
+      "id": "newgrad-jobs:6aea3d9b897466e69e31d086",
       "company": "Staples",
       "title": "Software Engineer Intern (SDS e-Commerce Team)",
-      "url": "https://jobright.ai/jobs/info/6aea3d9b913589212b1f4e69",
+      "url": "https://jobright.ai/jobs/info/6aea3d9b897466e69e31d086",
       "location": "Framingham, MA",
       "datePosted": 1793724451,
       "source": "newgrad-jobs",
@@ -754,28 +820,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea38d6913589212b1f4b44",
-      "company": "Toshiba Global Commerce Solutions",
-      "title": "AI Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aea38d6913589212b1f4b44",
-      "location": "Frisco, TX",
-      "datePosted": 1793716751,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea62121ba298c7777725ab",
-      "company": "IBM",
-      "title": "Firmware and Systems Developer Intern 2027 -Poughkeepsie, NY",
-      "url": "https://jobright.ai/jobs/info/6aea62121ba298c7777725ab",
-      "location": "Poughkeepsie, AR; Poughkeepsie, NY",
-      "datePosted": 1793716626,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
       "company": "Northrop Grumman",
       "title": "Cyber Systems Engineer Intern",
@@ -784,50 +828,6 @@
       "datePosted": 1793716605,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea61c7440b469a1c0ad7dc",
-      "company": "Columbia Technology Partners",
-      "title": "Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6aea61c7440b469a1c0ad7dc",
-      "location": "Alexandria, VA",
-      "datePosted": 1793716551,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea4a22897466e69e31da40",
-      "company": "Capgemini",
-      "title": "Java Developer with Snowflake",
-      "url": "https://jobright.ai/jobs/info/6aea4a22897466e69e31da40",
-      "location": "New York, NY",
-      "datePosted": 1793716510,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea278dfc85f3a394330d1c",
-      "company": "SpaceX",
-      "title": "Software Engineer, Full Stack (Data & Video Analysis)",
-      "url": "https://jobright.ai/jobs/info/6aea278dfc85f3a394330d1c",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793716253,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea60814f991d64376cd779",
-      "company": "StudyArena",
-      "title": "Research Intern, Agent Experience \u00b7 Student Jobs",
-      "url": "https://jobright.ai/jobs/info/6aea60814f991d64376cd779",
-      "location": "San Francisco, CA",
-      "datePosted": 1793716225,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
