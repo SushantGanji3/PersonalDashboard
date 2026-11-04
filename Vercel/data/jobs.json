@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T19:30:19Z",
-  "totalOpen": 1545,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-11-04T19:40:18Z",
+  "totalOpen": 1547,
+  "totalNewgrad": 254,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -61,6 +61,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab2f17d30340229a323081d",
+      "company": "Tencent",
+      "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ab2f17d30340229a323081d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793789120,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aeb7bb4f40efa43f4a17e1e",
+      "company": "AmTrust Financial Services, Inc.",
+      "title": "IT Data Engineer Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aeb7bb4f40efa43f4a17e1e",
+      "location": "Dallas, TX",
+      "datePosted": 1793788724,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aeb76f565311d97105b8db8",
       "company": "Guidewire Software",
       "title": "Software Engineer",
@@ -103,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2c39930340229a322f8fe",
+      "company": "Symbotic",
+      "title": "Intern- Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab2c39930340229a322f8fe",
+      "location": "Wilmington, MA",
+      "datePosted": 1793785658,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aeb6acfa0b134121d99a7c1",
@@ -199,6 +232,17 @@
       "url": "https://jobright.ai/jobs/info/6aeb409b765815f7d745e71c",
       "location": "Norfolk, VA",
       "datePosted": 1793781786,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9e309e68f82b4036738d34",
+      "company": "IBM",
+      "title": "Power Firmware Developer Intern - Rochester, MN & Austin, TX - 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e309e68f82b4036738d34",
+      "location": "Rochester, MN; Austin, TX",
+      "datePosted": 1793781534,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -413,6 +457,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a9e30db2c964816f65ebe38",
+      "company": "IBM",
+      "title": "Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027",
+      "url": "https://jobright.ai/jobs/info/6a9e30db2c964816f65ebe38",
+      "location": "Rochester, MN; Austin, TX",
+      "datePosted": 1793777920,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a95fbc4cabc9f6703e1b604",
       "company": "Amazon",
       "title": "Robotics - Embedded Software Development Engineer",
@@ -474,17 +529,6 @@
       "url": "https://jobright.ai/jobs/info/6aeb48b7f40efa43f4a15a70",
       "location": "Sunnyvale, CA",
       "datePosted": 1793775671,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e309e68f82b4036738d34",
-      "company": "IBM",
-      "title": "Power Firmware Developer Intern - Rochester, MN & Austin, TX - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e309e68f82b4036738d34",
-      "location": "Rochester, MN; Austin, TX",
-      "datePosted": 1793775596,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -672,50 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6ab29ace8254c44790e55e91",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "datePosted": 1793769581,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab29ade8254c44790e55e99",
-      "company": "Rippling",
-      "title": "Full Stack Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ab29ade8254c44790e55e99",
-      "location": "San Francisco, CA; New York, NY; Seattle, WA",
-      "datePosted": 1793769386,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95f62d3843db0159908988",
-      "company": "Noblis",
-      "title": ".NET Software Developer - Full-Stack (Multiple Levels)",
-      "url": "https://jobright.ai/jobs/info/6a95f62d3843db0159908988",
-      "location": "Washington, DC",
-      "datePosted": 1793768539,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9638acf28891320e860c1c",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Security Engineer Intern (Security & Privacy) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a9638acf28891320e860c1c",
-      "location": "Washington, DC",
-      "datePosted": 1793768008,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab197da23005eee3545b68a",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - Digital Product: Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ab197da23005eee3545b68a",
-      "location": "Warren, MI; Seattle, WA; Austin, TX; Milford Charter Township, MI; Mountain View, CA",
-      "datePosted": 1793767771,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
