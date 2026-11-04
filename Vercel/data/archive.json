@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:50:15Z",
+  "generatedAt": "2026-11-04T00:00:22Z",
   "windowDays": 30,
   "items": [
     {
@@ -168,6 +168,17 @@
       "firstSeenAt": 1793749815
     },
     {
+      "id": "newgrad-jobs:6aea64df1ba298c7777727a9",
+      "company": "Astrolab",
+      "title": "Full Stack Developer (All Levels)",
+      "url": "https://jobright.ai/jobs/info/6aea64df1ba298c7777727a9",
+      "location": "United States",
+      "datePosted": 1793717847,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793750422
+    },
+    {
       "id": "newgrad-jobs:6aea64c0897466e69e31ea78",
       "company": "RoboForce",
       "title": "Machine Learning Engineer Intern, AI & Robotics",
@@ -212,6 +223,17 @@
       "firstSeenAt": 1793749815
     },
     {
+      "id": "newgrad-jobs:6aea6206fc85f3a3943333a5",
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6aea6206fc85f3a3943333a5",
+      "location": "Redmond, WA",
+      "datePosted": 1793716614,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793750422
+    },
+    {
       "id": "simplify:6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
       "company": "Northrop Grumman",
       "title": "Cyber Systems Engineer Intern",
@@ -223,6 +245,28 @@
       "firstSeenAt": 1793717417
     },
     {
+      "id": "newgrad-jobs:6aea61ca1ba298c777772574",
+      "company": "ServiceNow",
+      "title": "Software Engineer, Agent Eval Platform",
+      "url": "https://jobright.ai/jobs/info/6aea61ca1ba298c777772574",
+      "location": "Mountain View, CA",
+      "datePosted": 1793716554,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793750422
+    },
+    {
+      "id": "newgrad-jobs:6aea61c7440b469a1c0ad7dc",
+      "company": "Columbia Technology Partners",
+      "title": "Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6aea61c7440b469a1c0ad7dc",
+      "location": "Alexandria, VA",
+      "datePosted": 1793716551,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793750422
+    },
+    {
       "id": "newgrad-jobs:6aea60814f991d64376cd779",
       "company": "StudyArena",
       "title": "Research Intern, Agent Experience \u00b7 Student Jobs",
@@ -232,6 +276,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793749815
+    },
+    {
+      "id": "newgrad-jobs:6aea20634f991d64376cae92",
+      "company": "Vantive",
+      "title": "Embedded Software Engineer (hybrid)",
+      "url": "https://jobright.ai/jobs/info/6aea20634f991d64376cae92",
+      "location": "Plymouth, MN",
+      "datePosted": 1793716052,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793750422
     },
     {
       "id": "newgrad-jobs:6ae4ee29c3139b475b5b7531",
@@ -52042,61 +52097,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791188419
-    },
-    {
-      "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "location": "Santa Clara, CA",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791196816
-    },
-    {
-      "id": "simplify:b5be1176-4a77-4aa0-a229-cb9959886d0a",
-      "company": "Expedia",
-      "title": "Software Development Engineer Intern",
-      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
-      "location": "Seattle, WA, Austin, TX, San Jose, CA",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791240020
-    },
-    {
-      "id": "simplify:75269b0a-c784-4fec-94a8-afe657a39877",
-      "company": "Micron",
-      "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
-      "location": "Boise, ID",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791241816
-    },
-    {
-      "id": "simplify:0904ada8-dd5b-47ed-b6b2-f23cdd66fb39",
-      "company": "Mastercard",
-      "title": "Software Engineer 1",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
-      "location": "O'Fallon, MO",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791241816
-    },
-    {
-      "id": "simplify:74f23be6-961c-4635-8a88-b9779934f8a5",
-      "company": "General Dynamics",
-      "title": "Software Developer Associate",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
-      "location": "Chantilly, VA",
-      "datePosted": 1791158400,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1791254416
     }
   ]
 }
