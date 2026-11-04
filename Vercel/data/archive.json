@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T16:40:17Z",
+  "generatedAt": "2026-11-04T16:50:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,50 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793794817
+    },
+    {
+      "id": "newgrad-jobs:6a962810c8763a3a87ffec45",
+      "company": "Whatnot",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a962810c8763a3a87ffec45",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1793778926,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793811017
+    },
+    {
+      "id": "newgrad-jobs:6aeb50e365311d97105b72a2",
+      "company": "Zebra Technologies",
+      "title": "2027 Summer Internship (US) - Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeb50e365311d97105b72a2",
+      "location": "Holtsville, NY",
+      "datePosted": 1793778684,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793811017
+    },
+    {
+      "id": "newgrad-jobs:6aeb50eba0b134121d9993be",
+      "company": "Zebra Technologies",
+      "title": "2027 Summer Internship (US) - Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeb50eba0b134121d9993be",
+      "location": "Germantown, MD",
+      "datePosted": 1793778635,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793811017
+    },
+    {
+      "id": "newgrad-jobs:6aeb52c582f0ac0774438505",
+      "company": "IBM",
+      "title": "SW Developer Intern | AI Center of Excellence - Austin, TX - 2027",
+      "url": "https://jobright.ai/jobs/info/6aeb52c582f0ac0774438505",
+      "location": "Austin, TX",
+      "datePosted": 1793778245,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793811017
     },
     {
       "id": "newgrad-jobs:6a7a560c67a1ad0bc53d3024",
@@ -51921,17 +51965,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791328816
-    },
-    {
-      "id": "newgrad-jobs:6ac4905c372c01f6cd735f1a",
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "Application Developer",
-      "url": "https://jobright.ai/jobs/info/6ac4905c372c01f6cd735f1a",
-      "location": "Armonk, NY",
-      "datePosted": 1791218521,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791271217
     }
   ]
 }
