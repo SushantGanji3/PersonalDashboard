@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T16:00:20Z",
+  "generatedAt": "2026-11-04T16:10:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793794817
+    },
+    {
+      "id": "newgrad-jobs:6a7a560c67a1ad0bc53d3024",
+      "company": "DV Trading LLC",
+      "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+      "url": "https://jobright.ai/jobs/info/6a7a560c67a1ad0bc53d3024",
+      "location": "New York, NY",
+      "datePosted": 1793776756,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793808616
+    },
+    {
+      "id": "newgrad-jobs:6aeb4af9f40efa43f4a15b3b",
+      "company": "PACCAR",
+      "title": "2027 Summer Internship: Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeb4af9f40efa43f4a15b3b",
+      "location": "Denton, TX",
+      "datePosted": 1793776249,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1793808616
     },
     {
       "id": "newgrad-jobs:6aeb48b7f40efa43f4a15a70",
@@ -51899,28 +51921,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1791246619
-    },
-    {
-      "id": "newgrad-jobs:6ac42dc0d9621c5b283a0134",
-      "company": "Better Direct",
-      "title": "Software Development Engineer (Full Stack \u2013 CRM Application)",
-      "url": "https://jobright.ai/jobs/info/6ac42dc0d9621c5b283a0134",
-      "location": "Tempe, AZ",
-      "datePosted": 1791216464,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791244219
-    },
-    {
-      "id": "newgrad-jobs:6ac40edb064da25272e10fb1",
-      "company": "Atoms",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac40edb064da25272e10fb1",
-      "location": "San Francisco, CA",
-      "datePosted": 1791216371,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1791244219
     }
   ]
 }
