@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T08:30:17Z",
-  "totalOpen": 1528,
-  "totalNewgrad": 224,
-  "totalOther": 1304,
+  "generatedAt": "2026-11-05T08:40:15Z",
+  "totalOpen": 1549,
+  "totalNewgrad": 225,
+  "totalOther": 1324,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:59e8bcfa-d272-4908-b44c-ffb7fa90719a",
+      "company": "General Dynamics",
+      "title": "Software Engineering Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
+      "location": "Lakewood, OH",
+      "datePosted": 1793864887,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:31b390de-ce34-4df7-9935-808f52002862",
+      "company": "General Dynamics",
+      "title": "Systems Engineer Intern - FCS Auxiliary and Training Systems",
+      "url": "https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false",
+      "location": "Pittsfield, MA",
+      "datePosted": 1793864887,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:e60dfb39-6279-46ca-9802-7328d053355a",
@@ -149,6 +171,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aec36f8f69ea487dd5d7b16",
+      "company": "Interbiz Consulting",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aec36f8f69ea487dd5d7b16",
+      "location": "Tempe, AZ",
+      "datePosted": 1793836664,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:93503435-116f-4656-9090-2c094bb6d6bd",
       "company": "Twitch",
       "title": "Software Development Engineer 1 - Security Platform",
@@ -237,15 +270,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae2a303de23f466ec8c7f33",
+      "id": "newgrad-jobs:6ae2baaa829a3bada1606f2a",
       "company": "HP",
       "title": "Software Engineering Intern - HP IQ",
-      "url": "https://jobright.ai/jobs/info/6ae2a303de23f466ec8c7f33",
+      "url": "https://jobright.ai/jobs/info/6ae2baaa829a3bada1606f2a",
       "location": "San Francisco, CA",
       "datePosted": 1793827620,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aebb4ecfbe13dfb53df6a5d",
@@ -831,17 +864,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1793796171,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:112f90c2-1f3b-446b-8b52-275a8020f3fc",
       "company": "Northrop Grumman",
       "title": "Software Engineering Intern",
@@ -1297,28 +1319,6 @@
       "company": "Tesla",
       "title": "Distributed Systems Software Engineer Intern, Energy Engineering",
       "url": "https://go.vansh.nyc/1a1",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:cab2c3c2-3515-4321-b4db-edfbcabd5c7e",
-      "company": "Tesla",
-      "title": "Data Engineer Intern, Energy",
-      "url": "https://go.vansh.nyc/1a3",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:830bf168-9d98-44ed-b965-6b2da4d0f452",
-      "company": "Tesla",
-      "title": "SI Software Engineer Intern, Core Infrastructure",
-      "url": "https://go.vansh.nyc/1a7",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
