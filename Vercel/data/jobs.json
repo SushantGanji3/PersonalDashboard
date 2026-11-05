@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T18:10:17Z",
-  "totalOpen": 1580,
-  "totalNewgrad": 249,
+  "generatedAt": "2026-11-05T18:20:17Z",
+  "totalOpen": 1582,
+  "totalNewgrad": 251,
   "totalOther": 1331,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,6 +36,39 @@
       "datePosted": 1793896336,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4c66a5971cd25b06f9a795",
+      "company": "SpaceX",
+      "title": "Software Engineer, Network Observability (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a4c66a5971cd25b06f9a795",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793870611,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecba7e3a3fa7f03ea8897f",
+      "company": "Paul Logistics",
+      "title": "Full Stack Developer I",
+      "url": "https://jobright.ai/jobs/info/6aecba7e3a3fa7f03ea8897f",
+      "location": "Tulsa, OK",
+      "datePosted": 1793870334,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9b4f299c24314c35f98e12",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Connected Systems (January - August 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9b4f299c24314c35f98e12",
+      "location": "Irvine, CA; Palo Alto, CA",
+      "datePosted": 1793870142,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -193,22 +226,33 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac52f4e0e027c0f3b3ad622",
-      "company": "Booz Allen Hamilton",
-      "title": "Power Platform Developer",
-      "url": "https://jobright.ai/jobs/info/6ac52f4e0e027c0f3b3ad622",
-      "location": "Washington, DC",
-      "datePosted": 1793867246,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
       "company": "Booz Allen Hamilton",
       "title": "Software Engineer",
       "url": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
       "location": "Tampa, FL",
+      "datePosted": 1793867264,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3f1188ff3fb9b3bc831b0",
+      "company": "Booz Allen Hamilton",
+      "title": "Back End Developer",
+      "url": "https://jobright.ai/jobs/info/6ac3f1188ff3fb9b3bc831b0",
+      "location": "McLean, VA; Fort Belvoir, VA",
+      "datePosted": 1793867255,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac52f4e0e027c0f3b3ad622",
+      "company": "Booz Allen Hamilton",
+      "title": "Power Platform Developer",
+      "url": "https://jobright.ai/jobs/info/6ac52f4e0e027c0f3b3ad622",
+      "location": "Washington, DC",
       "datePosted": 1793867246,
       "source": "newgrad-jobs",
       "season": null,
@@ -235,6 +279,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a970608d13b4819f39de986",
+      "company": "SpaceX",
+      "title": "Full Stack Engineer, Flight Software",
+      "url": "https://jobright.ai/jobs/info/6a970608d13b4819f39de986",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793867089,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aec91f6a2661405dc2c4306",
+      "company": "Priceline",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aec91f6a2661405dc2c4306",
+      "location": "New York, NY",
+      "datePosted": 1793867036,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
@@ -265,17 +331,6 @@
       "url": "https://jobright.ai/jobs/info/6aecabb8a2661405dc2c5030",
       "location": "VA, United States",
       "datePosted": 1793866552,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3f1188ff3fb9b3bc831b0",
-      "company": "Booz Allen Hamilton",
-      "title": "Back End Developer",
-      "url": "https://jobright.ai/jobs/info/6ac3f1188ff3fb9b3bc831b0",
-      "location": "McLean, VA; Fort Belvoir, VA",
-      "datePosted": 1793866455,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -672,61 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6acfc32a2cc4e9d17e90a406",
       "location": "San Diego, CA",
       "datePosted": 1793853760,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfc7fafe7a9bd5a6b99f33",
-      "company": "General Motors",
-      "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6acfc7fafe7a9bd5a6b99f33",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1793852960,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada43114c3adc437cecb1d6",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada43114c3adc437cecb1d6",
-      "location": "Tulsa, OK",
-      "datePosted": 1793852885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adff9b1c5c64fa3d9cc17e7",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer Job Details | L3HHCM20",
-      "url": "https://jobright.ai/jobs/info/6adff9b1c5c64fa3d9cc17e7",
-      "location": "Tulsa, OK",
-      "datePosted": 1793852885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1793852885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adffa3e5dc7953215a44e15",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT) Job Details | L3HHCM20",
-      "url": "https://jobright.ai/jobs/info/6adffa3e5dc7953215a44e15",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1793852885,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
