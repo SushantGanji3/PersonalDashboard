@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T23:40:18Z",
-  "totalOpen": 1584,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-11-05T23:50:17Z",
+  "totalOpen": 1583,
+  "totalNewgrad": 250,
   "totalOther": 1333,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793920091,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:02f41834-2a2e-4964-8780-2ad1148d6a18",
@@ -25,7 +25,7 @@
       "datePosted": 1793920000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:15fa9474-f3bf-465f-9aef-20f746c86a5f",
@@ -72,6 +72,83 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aece217ab48a7079381f4dd",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "url": "https://jobright.ai/jobs/info/6aece217ab48a7079381f4dd",
+      "location": "Redmond, WA",
+      "datePosted": 1793890053,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecfe823967d67f635a197b",
+      "company": "DwyerOmega",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aecfe823967d67f635a197b",
+      "location": "Westerville, OH",
+      "datePosted": 1793889701,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecc6db3a3fa7f03ea8909e",
+      "company": "Apex",
+      "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aecc6db3a3fa7f03ea8909e",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793889638,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecd2853967d67f635a00d8",
+      "company": "Apex",
+      "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aecd2853967d67f635a00d8",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793889086,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed01d93a3fa7f03ea8b2b6",
+      "company": "Ford Motor Company",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aed01d93a3fa7f03ea8b2b6",
+      "location": "Dearborn, MI",
+      "datePosted": 1793888601,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ada7e4b3a69033df2259e21",
+      "company": "Formlabs",
+      "title": "Software Engineer, API & Automation",
+      "url": "https://jobright.ai/jobs/info/6ada7e4b3a69033df2259e21",
+      "location": "Somerville, MA",
+      "datePosted": 1793888579,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae1268b6679108488c416bc",
+      "company": "JM Family Enterprises, Inc.",
+      "title": "Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ae1268b6679108488c416bc",
+      "location": "Deerfield Beach, FL",
+      "datePosted": 1793888528,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aed00ebab48a707938206bf",
       "company": "Infosys",
       "title": "Java Developer",
@@ -100,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
       "location": "Houston, TX",
       "datePosted": 1793887582,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aece217ab48a7079381f4dd",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "url": "https://jobright.ai/jobs/info/6aece217ab48a7079381f4dd",
-      "location": "Redmond, WA",
-      "datePosted": 1793887565,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -611,17 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aecd2853967d67f635a00d8",
-      "company": "Apex",
-      "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aecd2853967d67f635a00d8",
-      "location": "Los Angeles, CA",
-      "datePosted": 1793876485,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aecc8c53967d67f6359fa3e",
       "company": "Shield AI",
       "title": "June 2027 Co-Op - Software Engineer Intern",
@@ -674,61 +729,6 @@
       "datePosted": 1793874436,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a42d0df6a9c2774b3fa7686",
-      "company": "Palantir",
-      "title": "Privacy and Civil Liberties Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a42d0df6a9c2774b3fa7686",
-      "location": "New York, NY",
-      "datePosted": 1793874422,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
-      "company": "Palantir",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
-      "location": "New York, NY",
-      "datePosted": 1793874414,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeb7027765815f7d74605bd",
-      "company": "ICF",
-      "title": "Seasonal Associate, Full Stack Developer (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aeb7027765815f7d74605bd",
-      "location": "United States",
-      "datePosted": 1793873611,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecc6db3a3fa7f03ea8909e",
-      "company": "Apex",
-      "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aecc6db3a3fa7f03ea8909e",
-      "location": "Los Angeles, CA",
-      "datePosted": 1793873499,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecacf8a9ea762a04090e84",
-      "company": "Parsons Corporation",
-      "title": "Summer Embedded Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aecacf8a9ea762a04090e84",
-      "location": "Columbia, MD",
-      "datePosted": 1793873329,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
