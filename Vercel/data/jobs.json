@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:10:17Z",
+  "generatedAt": "2026-11-05T02:11:07Z",
   "totalOpen": 1527,
   "totalNewgrad": 236,
   "totalOther": 1291,
@@ -13,6 +13,39 @@
       "location": "West Valley City, UT",
       "datePosted": 1793839956,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aebdef865311d97105bc783",
+      "company": "SpaceX",
+      "title": "Software Engineer, Telemetry - Top Secret Clearance (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6aebdef865311d97105bc783",
+      "location": "Washington, DC",
+      "datePosted": 1793814136,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aebdd4665311d97105bc74d",
+      "company": "PayPal",
+      "title": "Machine Learning Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aebdd4665311d97105bc74d",
+      "location": "San Jose, CA",
+      "datePosted": 1793813702,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aebb1daa0b134121d99d364",
+      "company": "Reflex",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aebb1daa0b134121d99d364",
+      "location": "San Francisco, CA",
+      "datePosted": 1793812282,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -81,6 +114,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad6b3d852aa6152bb697d89",
+      "company": "Vitu",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad6b3d852aa6152bb697d89",
+      "location": "United States",
+      "datePosted": 1793809720,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:695c42e822c9dc0d3d54206a",
@@ -248,6 +292,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aeb60aaa0b134121d999f72",
+      "company": "Leidos",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://jobright.ai/jobs/info/6aeb60aaa0b134121d999f72",
+      "location": "United States",
+      "datePosted": 1793805317,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aeb9554fbe13dfb53df572e",
       "company": "Casey's",
       "title": "Associate Data Engineer",
@@ -292,17 +347,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeb60aaa0b134121d999f72",
-      "company": "Leidos",
-      "title": "Software Engineering & AI Intern",
-      "url": "https://jobright.ai/jobs/info/6aeb60aaa0b134121d999f72",
-      "location": "United States",
-      "datePosted": 1793804485,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aebb85b82f0ac077443c95d",
       "company": "Corel Corporation",
       "title": "AI Software Developer Intern",
@@ -331,17 +375,6 @@
       "url": "https://jobright.ai/jobs/info/6ad9256ae4b94611ab8538f2",
       "location": "Maryland Heights, MO",
       "datePosted": 1793803722,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aebb1daa0b134121d99d364",
-      "company": "Reflex",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aebb1daa0b134121d99d364",
-      "location": "San Francisco, CA",
-      "datePosted": 1793802586,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -696,39 +729,6 @@
       "datePosted": 1793788724,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeb6edef40efa43f4a17502",
-      "company": "BorgWarner",
-      "title": "Software Engineering Intern (Year-Round)",
-      "url": "https://jobright.ai/jobs/info/6aeb6edef40efa43f4a17502",
-      "location": "Auburn Hills, MI",
-      "datePosted": 1793788606,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeb6ffe65311d97105b8932",
-      "company": "Serco",
-      "title": "Junior Data Engineer/Scientist - Washington, D.C",
-      "url": "https://jobright.ai/jobs/info/6aeb6ffe65311d97105b8932",
-      "location": "Washington, DC",
-      "datePosted": 1793788500,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada7afc4c3adc437cecd9b1",
-      "company": "Mission Technologies, a division of HII",
-      "title": "Software Engineer Intern (Multiple Levels) - 30069 Job Details | HII's Mission Technologies division",
-      "url": "https://jobright.ai/jobs/info/6ada7afc4c3adc437cecd9b1",
-      "location": "Columbia, MD",
-      "datePosted": 1793788245,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
