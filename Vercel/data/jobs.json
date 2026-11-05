@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-05T02:30:19Z",
-  "totalOpen": 1528,
+  "generatedAt": "2026-11-05T02:40:18Z",
+  "totalOpen": 1530,
   "totalNewgrad": 236,
-  "totalOther": 1292,
+  "totalOther": 1294,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1ebb8945-a47e-48a3-a181-d6bc174efd7d",
+      "company": "Amazon",
+      "title": "Software Developer Engineer 1 - Security Platform",
+      "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform",
+      "location": "Seattle, WA, SF, Irvine, CA",
+      "datePosted": 1793845099,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:07e1f6dd-a46e-489d-b04c-f42fe868abfc",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend 1",
+      "url": "https://careers.cisco.com/global/en/job/2028784",
+      "location": "Austin, TX",
+      "datePosted": 1793844912,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:c29dbe6b-db02-459e-a6eb-08709c520e08",
       "company": "Cisco",
@@ -26,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:93503435-116f-4656-9090-2c094bb6d6bd",
+      "company": "Twitch",
+      "title": "Software Development Engineer 1 - Security Platform",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+      "location": "Seattle, WA",
+      "datePosted": 1793836198,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aebdef865311d97105bc783",
@@ -1286,39 +1319,6 @@
       "company": "Tesla",
       "title": "Mobile Application Software Engineer Intern, Energy Engineering",
       "url": "https://go.vansh.nyc/1an",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:19010d13-5d2f-4982-86f5-38689c8f4f29",
-      "company": "Tesla",
-      "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
-      "url": "https://go.vansh.nyc/1ao",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:c450d8f4-e995-4625-8c8a-5a952a6c5df3",
-      "company": "Tesla",
-      "title": "Residential Energy Device Software Engineer Intern, Energy Engineering",
-      "url": "https://go.vansh.nyc/1ap",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:4a3d3ac6-a747-4173-8f99-8a3d9e542236",
-      "company": "Tesla",
-      "title": "Software Engineer Industrial Firmware Intern, Energy Engineering",
-      "url": "https://go.vansh.nyc/1aq",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
