@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T03:10:15Z",
-  "totalOpen": 1541,
-  "totalNewgrad": 236,
-  "totalOther": 1305,
+  "generatedAt": "2026-11-05T03:20:18Z",
+  "totalOpen": 1537,
+  "totalNewgrad": 233,
+  "totalOther": 1304,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1793845832,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:ce81bab2-f54c-4774-92ac-b82f7b0c9eb3",
@@ -25,7 +25,7 @@
       "datePosted": 1793845831,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:895e7a39-8d76-43eb-8176-ea90e58b2223",
@@ -36,7 +36,7 @@
       "datePosted": 1793845831,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:7c1bbb4d-9914-41c7-a380-95de6cbc42b5",
@@ -47,7 +47,7 @@
       "datePosted": 1793845719,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:929a4211-aa7e-4011-9c18-b021c6b75c2c",
@@ -58,7 +58,7 @@
       "datePosted": 1793845715,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b18ff132-aa14-44b4-be12-11abaa64b110",
@@ -69,7 +69,7 @@
       "datePosted": 1793845715,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:3eacf92d-e5c6-4bcb-a075-2caec8c4ae32",
@@ -80,7 +80,7 @@
       "datePosted": 1793845711,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2829786f-ab16-4e99-ae3e-e89a46653381",
@@ -91,7 +91,7 @@
       "datePosted": 1793845711,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:1ebb8945-a47e-48a3-a181-d6bc174efd7d",
@@ -149,6 +149,61 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a7cd1d6d77e8156a8e34665",
+      "company": "WD",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a7cd1d6d77e8156a8e34665",
+      "location": "Colorado Springs, CO; Irvine, CA; Longmont, CO; Fremont, CA; Rochester, MN; San Jose, CA",
+      "datePosted": 1793816760,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aebe925fbe13dfb53df807e",
+      "company": "RS Global Services",
+      "title": "Full Stack Engineer - Onsite - San Francisco, CA",
+      "url": "https://jobright.ai/jobs/info/6aebe925fbe13dfb53df807e",
+      "location": "San Francisco, CA",
+      "datePosted": 1793816741,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aebe5babf2fc41b316e7c7b",
+      "company": "A Full Renovation \u2013 Interiors & Design",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aebe5babf2fc41b316e7c7b",
+      "location": "United States",
+      "datePosted": 1793815866,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aeba7f1a0b134121d99ce77",
+      "company": "Vizient",
+      "title": "Associate Software Engineer (Hybrid)",
+      "url": "https://jobright.ai/jobs/info/6aeba7f1a0b134121d99ce77",
+      "location": "Irving, TX",
+      "datePosted": 1793815842,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aebe478ef3e65925305a389",
+      "company": "PayPal",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aebe478ef3e65925305a389",
+      "location": "San Jose, CA; Chicago, IL; Omaha, NE; Scottsdale, AZ; Austin, TX",
+      "datePosted": 1793815544,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aebdef865311d97105bc783",
       "company": "SpaceX",
       "title": "Software Engineer, Telemetry - Top Secret Clearance (Starlink)",
@@ -157,17 +212,6 @@
       "datePosted": 1793814136,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aebdd4665311d97105bc74d",
-      "company": "PayPal",
-      "title": "Machine Learning Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aebdd4665311d97105bc74d",
-      "location": "San Jose, CA",
-      "datePosted": 1793813702,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -232,17 +276,6 @@
       "url": "https://jobright.ai/jobs/info/6aebc997fbe13dfb53df7481",
       "location": "Waltham, MA",
       "datePosted": 1793810642,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeba7f1a0b134121d99ce77",
-      "company": "Vizient",
-      "title": "Associate Software Engineer (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6aeba7f1a0b134121d99ce77",
-      "location": "Irving, TX",
-      "datePosted": 1793810626,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -358,10 +391,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a750c1237da8525e8cdc18f",
+      "id": "newgrad-jobs:6a750c34bb6ca93ae560d6de",
       "company": "HP",
       "title": "AI Software Engineer - HP IQ",
-      "url": "https://jobright.ai/jobs/info/6a750c1237da8525e8cdc18f",
+      "url": "https://jobright.ai/jobs/info/6a750c34bb6ca93ae560d6de",
       "location": "San Francisco, CA",
       "datePosted": 1793806198,
       "source": "newgrad-jobs",
@@ -831,39 +864,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2c76f1508734c1530be1d",
-      "company": "Tencent",
-      "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ab2c76f1508734c1530be1d",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793789120,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac560d5372c01f6cd7396f6",
-      "company": "Vantor",
-      "title": "AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac560d5372c01f6cd7396f6",
-      "location": "United States",
-      "datePosted": 1793788783,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeb7bb4f40efa43f4a17e1e",
-      "company": "AmTrust Financial Services, Inc.",
-      "title": "IT Data Engineer Internship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aeb7bb4f40efa43f4a17e1e",
-      "location": "Dallas, TX",
-      "datePosted": 1793788724,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:75884364-ef47-417e-9213-db39cd22a5ba",
       "company": "Etched",
       "title": "IA Research Engineer Intern, Kernels",
@@ -894,7 +894,7 @@
       "datePosted": 1793750400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c7693c27-b654-4f6b-a1aa-7437f09193c5",
@@ -905,7 +905,7 @@
       "datePosted": 1793750400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:628318f8-ee8f-45d1-9737-0c3b6ca4a924",
