@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-05T02:11:07Z",
-  "totalOpen": 1527,
+  "generatedAt": "2026-11-05T02:20:15Z",
+  "totalOpen": 1528,
   "totalNewgrad": 236,
-  "totalOther": 1291,
+  "totalOther": 1292,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:c29dbe6b-db02-459e-a6eb-08709c520e08",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend I",
+      "url": "https://go.vansh.nyc/1hr",
+      "location": "Austin, TX",
+      "datePosted": 1793841666,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:b2bc073d-d896-48f1-8b4e-38273c90cdfb",
       "company": "RTX",
@@ -25,7 +36,7 @@
       "datePosted": 1793814136,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aebdd4665311d97105bc74d",
@@ -36,7 +47,7 @@
       "datePosted": 1793813702,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aebb1daa0b134121d99d364",
@@ -124,7 +135,7 @@
       "datePosted": 1793809720,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:695c42e822c9dc0d3d54206a",
@@ -1308,17 +1319,6 @@
       "company": "Tesla",
       "title": "Software Engineer Industrial Firmware Intern, Energy Engineering",
       "url": "https://go.vansh.nyc/1aq",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793660574,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e6bb3868-85d1-4e86-8cbf-007ceb4c7eff",
-      "company": "Tesla",
-      "title": "Robotics Modeling & Simulation Engineer Intern, Optimus",
-      "url": "https://go.vansh.nyc/1ar",
       "location": "Palo Alto, CA",
       "datePosted": 1793660574,
       "source": "aggregator",
