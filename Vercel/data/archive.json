@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:10:16Z",
+  "generatedAt": "2026-11-05T23:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,28 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1793898020
+    },
+    {
+      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
+      "company": "Infosys",
+      "title": "Java Developer",
+      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
+      "location": "Bellevue, WA",
+      "datePosted": 1793888363,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793920816
+    },
+    {
+      "id": "newgrad-jobs:6aecfec7ab48a70793820584",
+      "company": "Amazon",
+      "title": "Data Engineer I, Secure Third Party Tools (S3T)",
+      "url": "https://jobright.ai/jobs/info/6aecfec7ab48a70793820584",
+      "location": "Austin, TX",
+      "datePosted": 1793887815,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1793920816
     },
     {
       "id": "newgrad-jobs:6aecfa243967d67f635a17cd",
