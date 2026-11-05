@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:50:15Z",
+  "generatedAt": "2026-11-05T05:00:17Z",
   "totalOpen": 1538,
   "totalNewgrad": 234,
   "totalOther": 1304,
@@ -145,6 +145,17 @@
       "location": "Seattle, WA",
       "datePosted": 1793836198,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aebbcf4fbe13dfb53df6e8a",
+      "company": "Trusted Concepts, Inc.",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aebbcf4fbe13dfb53df6e8a",
+      "location": "Arlington, VA",
+      "datePosted": 1793822186,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -391,10 +402,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a750c1237da8525e8cdc18f",
+      "id": "newgrad-jobs:6a750c34bb6ca93ae560d6de",
       "company": "HP",
       "title": "AI Software Engineer - HP IQ",
-      "url": "https://jobright.ai/jobs/info/6a750c1237da8525e8cdc18f",
+      "url": "https://jobright.ai/jobs/info/6a750c34bb6ca93ae560d6de",
       "location": "San Francisco, CA",
       "datePosted": 1793806198,
       "source": "newgrad-jobs",
@@ -430,17 +441,6 @@
       "url": "https://jobright.ai/jobs/info/6acd4dc4e7a1d933321111eb",
       "location": "United States",
       "datePosted": 1793805926,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aebbcf4fbe13dfb53df6e8a",
-      "company": "Trusted Concepts, Inc.",
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aebbcf4fbe13dfb53df6e8a",
-      "location": "Arlington, VA",
-      "datePosted": 1793805428,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
