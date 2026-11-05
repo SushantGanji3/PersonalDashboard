@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T17:38:07Z",
+  "generatedAt": "2026-11-05T17:40:16Z",
   "totalOpen": 1578,
   "totalNewgrad": 249,
   "totalOther": 1329,
@@ -17,6 +17,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ad6bcce950ef68d5183c8aa",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad6bcce950ef68d5183c8aa",
+      "location": "Tucson, AZ",
+      "datePosted": 1793869404,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aecb345465e3d2371380b34",
       "company": "RTX",
       "title": "Internship \u2013 Raytheon Systems Security Engineer -Onsite",
@@ -25,7 +36,51 @@
       "datePosted": 1793869389,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95fbc4cabc9f6703e1b604",
+      "company": "Amazon",
+      "title": "Robotics - Embedded Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
+      "location": "North Reading, MA; Westborough, MA",
+      "datePosted": 1793868958,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecb49e465e3d2371380c14",
+      "company": "Tokenworks Inc",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aecb49e465e3d2371380c14",
+      "location": "Bronxville, NY",
+      "datePosted": 1793868830,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecb02b3a3fa7f03ea88150",
+      "company": "CGI",
+      "title": "Software Developer \u2013 Entry Level (Top Secret Clearance Required)",
+      "url": "https://jobright.ai/jobs/info/6aecb02b3a3fa7f03ea88150",
+      "location": "Fairfax, VA",
+      "datePosted": 1793868618,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeca267ab48a7079381cdbc",
+      "company": "SpaceX",
+      "title": "Space Operations Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeca267ab48a7079381cdbc",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793868146,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecb066465e3d2371380915",
@@ -34,17 +89,6 @@
       "url": "https://jobright.ai/jobs/info/6aecb066465e3d2371380915",
       "location": "Warrenville, IL",
       "datePosted": 1793867750,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecb02b3a3fa7f03ea88150",
-      "company": "CGI",
-      "title": "Software Developer \u2013 Entry Level (Top Secret Clearance Required)",
-      "url": "https://jobright.ai/jobs/info/6aecb02b3a3fa7f03ea88150",
-      "location": "Fairfax, VA",
-      "datePosted": 1793867691,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -114,6 +158,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7b6e0db933773d16be7349",
+      "company": "Booz Allen Hamilton",
+      "title": "AI Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a7b6e0db933773d16be7349",
+      "location": "San Diego, CA",
+      "datePosted": 1793867239,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aecae14a9ea762a04090f48",
@@ -314,17 +369,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeca267ab48a7079381cdbc",
-      "company": "SpaceX",
-      "title": "Space Operations Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aeca267ab48a7079381cdbc",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793864167,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aec9fdca2661405dc2c4a37",
       "company": "Torentify",
       "title": "Node.js Developer  | Remote",
@@ -353,17 +397,6 @@
       "url": "https://jobright.ai/jobs/info/6a9e30db2c964816f65ebe38",
       "location": "Rochester, MN; Austin, TX",
       "datePosted": 1793863200,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95fbc4cabc9f6703e1b604",
-      "company": "Amazon",
-      "title": "Robotics - Embedded Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
-      "location": "North Reading, MA; Westborough, MA",
-      "datePosted": 1793862674,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -674,39 +707,6 @@
       "datePosted": 1793852533,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a16e03ad6a04f21602e0f69",
-      "company": "Layup Parts",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a16e03ad6a04f21602e0f69",
-      "location": "Huntington Beach, CA",
-      "datePosted": 1793852180,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a974550e4e60e4b8da5d4fd",
-      "company": "Genuine Parts Company",
-      "title": "Cloud Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a974550e4e60e4b8da5d4fd",
-      "location": "Birmingham, AL",
-      "datePosted": 1793851597,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab35a2d5d482753f3e68b5b",
-      "company": "KLA",
-      "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "url": "https://jobright.ai/jobs/info/6ab35a2d5d482753f3e68b5b",
-      "location": "Milpitas, CA",
-      "datePosted": 1793851446,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
