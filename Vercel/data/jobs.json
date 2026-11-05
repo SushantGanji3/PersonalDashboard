@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T19:20:15Z",
-  "totalOpen": 1577,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-11-05T19:30:19Z",
+  "totalOpen": 1581,
+  "totalNewgrad": 250,
   "totalOther": 1331,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1793903717,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d546770e-dd2e-464d-9989-c0e2490d38f6",
@@ -50,12 +50,111 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aecc8c53967d67f6359fa3e",
+      "company": "Shield AI",
+      "title": "June 2027 Co-Op - Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aecc8c53967d67f6359fa3e",
+      "location": "Dallas, TX; Washington, DC; Seattle, WA; San Diego, CA",
+      "datePosted": 1793873989,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aeb7027765815f7d74605bd",
+      "company": "ICF",
+      "title": "Seasonal Associate, Full Stack Developer (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aeb7027765815f7d74605bd",
+      "location": "United States",
+      "datePosted": 1793873611,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecc6db3a3fa7f03ea8909e",
+      "company": "Apex",
+      "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aecc6db3a3fa7f03ea8909e",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793873499,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecacf8a9ea762a04090e84",
+      "company": "Parsons Corporation",
+      "title": "Summer Embedded Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aecacf8a9ea762a04090e84",
+      "location": "Columbia, MD",
+      "datePosted": 1793873329,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aecc6183a3fa7f03ea88fc5",
       "company": "Microsoft",
       "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
       "url": "https://jobright.ai/jobs/info/6aecc6183a3fa7f03ea88fc5",
       "location": "Redmond, WA",
       "datePosted": 1793873304,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecb33ea9ea762a040912c6",
+      "company": "Naval Nuclear Laboratory (FMP)",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aecb33ea9ea762a040912c6",
+      "location": "Niskayuna, NY",
+      "datePosted": 1793873084,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a9754a1e4e60e4b8da5da4d",
+      "company": "Ingredion Incorporated",
+      "title": "AI & Data Scientist Intern",
+      "url": "https://jobright.ai/jobs/info/6a9754a1e4e60e4b8da5da4d",
+      "location": "Westchester, IL",
+      "datePosted": 1793873016,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecc499465e3d23713815ba",
+      "company": "SecondWind by Joveo",
+      "title": "Research Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aecc499465e3d23713815ba",
+      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
+      "datePosted": 1793872921,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecc4823967d67f6359f619",
+      "company": "SecondWind by Joveo",
+      "title": "Software Engineering Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aecc4823967d67f6359f619",
+      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
+      "datePosted": 1793872898,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecc40dab48a7079381e219",
+      "company": "Scowtt",
+      "title": "Fullstack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aecc40dab48a7079381e219",
+      "location": "Seattle, WA",
+      "datePosted": 1793872781,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -94,15 +193,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aecb2ea465e3d2371380ae4",
+      "id": "newgrad-jobs:6aecb2fd3967d67f6359eb44",
       "company": "Mastercard",
       "title": "Site Reliability Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aecb2ea465e3d2371380ae4",
+      "url": "https://jobright.ai/jobs/info/6aecb2fd3967d67f6359eb44",
       "location": "O'Fallon, MO",
       "datePosted": 1793871583,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aeca86b465e3d237138042b",
@@ -342,17 +441,6 @@
       "url": "https://jobright.ai/jobs/info/6a7a4a43a26ccc369f83dad3",
       "location": "Dallas, TX",
       "datePosted": 1793867486,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecaf4fab48a7079381d558",
-      "company": "SecondWind by Joveo",
-      "title": "Research Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aecaf4fab48a7079381d558",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1793867471,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -650,94 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6ab471a20e0ae54eeea488b9",
       "location": "New York, NY",
       "datePosted": 1793859367,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab486b8ef911c35dffa5763",
-      "company": "Ramp",
-      "title": "Software Engineering Intern, iOS",
-      "url": "https://jobright.ai/jobs/info/6ab486b8ef911c35dffa5763",
-      "location": "New York, NY",
-      "datePosted": 1793859106,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfa517fe7a9bd5a6b99229",
-      "company": "Atoms",
-      "title": "Software Engineering Intern - 2027 Winter Term",
-      "url": "https://jobright.ai/jobs/info/6acfa517fe7a9bd5a6b99229",
-      "location": "New York, NY; Seattle, WA; Los Angeles, CA; Mountain View, CA; San Francisco, CA",
-      "datePosted": 1793858129,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab30bdc30340229a323159f",
-      "company": "Astranis Space Technologies",
-      "title": "Software Engineer Backend Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6ab30bdc30340229a323159f",
-      "location": "San Francisco, CA",
-      "datePosted": 1793857475,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab30c8730340229a32315dd",
-      "company": "Relativity Space",
-      "title": "Software Engineer I (Factory Platform)",
-      "url": "https://jobright.ai/jobs/info/6ab30c8730340229a32315dd",
-      "location": "Long Beach, CA",
-      "datePosted": 1793857227,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad3bd92f04335fc70eda0f7",
-      "company": "Expedition Technology",
-      "title": "Software Engineer - Cloud Development - R116",
-      "url": "https://jobright.ai/jobs/info/6ad3bd92f04335fc70eda0f7",
-      "location": "Herndon, VA",
-      "datePosted": 1793856605,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a974545e4e60e4b8da5d4f6",
-      "company": "Genuine Parts Company",
-      "title": "Cloud SRE Intern",
-      "url": "https://jobright.ai/jobs/info/6a974545e4e60e4b8da5d4f6",
-      "location": "Birmingham, AL",
-      "datePosted": 1793856501,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aec86f0ab48a7079381c20a",
-      "company": "Central Insurance",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aec86f0ab48a7079381c20a",
-      "location": "Van Wert, OH; Dublin, OH",
-      "datePosted": 1793856465,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aec9fe6a9ea762a04090765",
-      "company": "Torentify",
-      "title": "Data Scientist (WFH)",
-      "url": "https://jobright.ai/jobs/info/6aec9fe6a9ea762a04090765",
-      "location": "United States",
-      "datePosted": 1793856292,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
