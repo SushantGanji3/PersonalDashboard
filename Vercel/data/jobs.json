@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-05T17:40:16Z",
-  "totalOpen": 1578,
+  "generatedAt": "2026-11-05T17:50:14Z",
+  "totalOpen": 1580,
   "totalNewgrad": 249,
-  "totalOther": 1329,
+  "totalOther": 1331,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d546770e-dd2e-464d-9989-c0e2490d38f6",
+      "company": "Amazon",
+      "title": "New Grad 2027: Software Development Engineer, Amazon Leo",
+      "url": "https://go.vansh.nyc/1iP",
+      "location": "Redmond, WA",
+      "datePosted": 1793900437,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:1346f02d-6ff9-4c77-965d-5e7067f3e79b",
+      "company": "Shield AI",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1iN",
+      "location": "Dallas, TX, Washington, DC, Seattle, WA, San Diego, CA",
+      "datePosted": 1793898866,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:3ba67c9a-ba35-4cbe-8778-1f8db0f17d9a",
       "company": "RTX",
@@ -25,7 +47,7 @@
       "datePosted": 1793869404,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecb345465e3d2371380b34",
@@ -39,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aecb55da2661405dc2c56da",
+      "company": "SecondWind by Joveo",
+      "title": "Market Research Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aecb55da2661405dc2c56da",
+      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
+      "datePosted": 1793869021,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a95fbc4cabc9f6703e1b604",
       "company": "Amazon",
       "title": "Robotics - Embedded Software Development Engineer",
@@ -50,12 +83,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab426190e0ae54eeea46e6d",
+      "company": "ZipRecruiter",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ab426190e0ae54eeea46e6d",
+      "location": "Santa Monica, CA",
+      "datePosted": 1793868927,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aecb49e465e3d2371380c14",
       "company": "Tokenworks Inc",
       "title": "Junior Software Developer",
       "url": "https://jobright.ai/jobs/info/6aecb49e465e3d2371380c14",
       "location": "Bronxville, NY",
       "datePosted": 1793868830,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecb453ab48a7079381d8bf",
+      "company": "IBM",
+      "title": "Software Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6aecb453ab48a7079381d8bf",
+      "location": "Austin, TX",
+      "datePosted": 1793868755,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -81,6 +136,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab2a6708254c44790e5649b",
+      "company": "GuideStone Financial Resources",
+      "title": "Summer Intern - Software Developer",
+      "url": "https://jobright.ai/jobs/info/6ab2a6708254c44790e5649b",
+      "location": "Dallas, TX",
+      "datePosted": 1793868078,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aecb066465e3d2371380915",
@@ -111,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6a7a4a43a26ccc369f83dad3",
       "location": "Dallas, TX",
       "datePosted": 1793867486,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecaf5ca2661405dc2c528b",
-      "company": "SecondWind by Joveo",
-      "title": "Market Research Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aecaf5ca2661405dc2c528b",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1793867484,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -168,7 +223,7 @@
       "datePosted": 1793867239,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecae14a9ea762a04090f48",
@@ -655,21 +710,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adffa25065c4e77efafd75c",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT) Job Details | L3HHCM20",
-      "url": "https://jobright.ai/jobs/info/6adffa25065c4e77efafd75c",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1793852885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd081d372c01f6cd71df1d",
+      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd081d372c01f6cd71df1d",
+      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
       "location": "Salt Lake City, UT",
       "datePosted": 1793852885,
       "source": "newgrad-jobs",
@@ -677,36 +721,14 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
-      "company": "Amazon",
-      "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
-      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
-      "datePosted": 1793852804,
+      "id": "newgrad-jobs:6adffa3e5dc7953215a44e15",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer (Salt Lake City, UT) Job Details | L3HHCM20",
+      "url": "https://jobright.ai/jobs/info/6adffa3e5dc7953215a44e15",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1793852885,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
-      "company": "MANTECH",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
-      "location": "Saint Inigoes, MD",
-      "datePosted": 1793852665,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acfbd7978d51ae69ce07b3a",
-      "company": "Skydio",
-      "title": "Manufacturing Software Engineer Intern - Winter 2027",
-      "url": "https://jobright.ai/jobs/info/6acfbd7978d51ae69ce07b3a",
-      "location": "San Mateo, CA",
-      "datePosted": 1793852533,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
       "isNew": false
     },
     {
@@ -1297,28 +1319,6 @@
       "company": "Tesla",
       "title": "Commercial UI Software Engineer Intern, Energy Engineering",
       "url": "https://go.vansh.nyc/1b5",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793661261,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:cd011298-299a-4fe0-84f3-e64579787554",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, Vehicle UI Development",
-      "url": "https://go.vansh.nyc/1b6",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793661261,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:88c92c01-67c2-4557-ab13-bfbaffd8926a",
-      "company": "Tesla",
-      "title": "Software Engineer Intern, Maps & Navigation Validation",
-      "url": "https://go.vansh.nyc/1b7",
       "location": "Palo Alto, CA",
       "datePosted": 1793661261,
       "source": "aggregator",
