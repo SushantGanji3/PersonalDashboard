@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T21:00:21Z",
-  "totalOpen": 1578,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-11-05T21:10:15Z",
+  "totalOpen": 1579,
+  "totalNewgrad": 248,
   "totalOther": 1331,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,6 +47,94 @@
       "datePosted": 1793896336,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aece871a2661405dc2c76e6",
+      "company": "FishEye Software, Inc.",
+      "title": "Junior Front-End Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aece871a2661405dc2c76e6",
+      "location": "Huntsville, AL",
+      "datePosted": 1793882097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecb2fd3967d67f6359eb44",
+      "company": "Mastercard",
+      "title": "Site Reliability Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aecb2fd3967d67f6359eb44",
+      "location": "O'Fallon, MO",
+      "datePosted": 1793881402,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aece54c465e3d2371382a17",
+      "company": "DBR",
+      "title": "Python Developer I",
+      "url": "https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
+      "location": "Houston, TX",
+      "datePosted": 1793881292,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aece354a9ea762a0409302d",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - Early Career",
+      "url": "https://jobright.ai/jobs/info/6aece354a9ea762a0409302d",
+      "location": "Fort Worth, TX",
+      "datePosted": 1793880788,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aece217ab48a7079381f4dd",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "url": "https://jobright.ai/jobs/info/6aece217ab48a7079381f4dd",
+      "location": "Redmond, WA",
+      "datePosted": 1793880471,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad8f8ad67bec1d0d9c812a1",
+      "company": "Microsoft",
+      "title": "Software Engineer - Systems and Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ad8f8ad67bec1d0d9c812a1",
+      "location": "Mountain View, CA",
+      "datePosted": 1793880422,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aece118a9ea762a04092f05",
+      "company": "Avanza",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6aece118a9ea762a04092f05",
+      "location": "Arlington, VA",
+      "datePosted": 1793880216,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8d163777c336eb6d6683c",
+      "company": "Microsoft",
+      "title": "Software Engineer- CoreAI",
+      "url": "https://jobright.ai/jobs/info/6ae8d163777c336eb6d6683c",
+      "location": "Redmond, WA",
+      "datePosted": 1793879913,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -281,17 +369,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aecb2fd3967d67f6359eb44",
-      "company": "Mastercard",
-      "title": "Site Reliability Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aecb2fd3967d67f6359eb44",
-      "location": "O'Fallon, MO",
-      "datePosted": 1793875854,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aec91f6a2661405dc2c4306",
       "company": "Priceline",
       "title": "Associate Software Engineer",
@@ -479,6 +556,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acd9691e7a1d93332112287",
+      "company": "CGI",
+      "title": "Jr.-Level Full-Stack AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6acd9691e7a1d93332112287",
+      "location": "Knoxville, TN",
+      "datePosted": 1793872404,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ac7c67e51a1b3e4219ee63f",
       "company": "General Dynamics",
       "title": "Junior Embedded RUST Software Engineer (cleared)",
@@ -619,94 +707,6 @@
       "datePosted": 1793868755,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea4a72897466e69e31da93",
-      "company": "Booz Allen Hamilton",
-      "title": "Reinforcement Learning AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aea4a72897466e69e31da93",
-      "location": "Huntsville, AL; McLean, VA; El Segundo, CA; Colorado Springs, CO",
-      "datePosted": 1793868661,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecb02b3a3fa7f03ea88150",
-      "company": "CGI",
-      "title": "Software Developer \u2013 Entry Level (Top Secret Clearance Required)",
-      "url": "https://jobright.ai/jobs/info/6aecb02b3a3fa7f03ea88150",
-      "location": "Fairfax, VA",
-      "datePosted": 1793868618,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
-      "location": "Tampa, FL",
-      "datePosted": 1793868578,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac52f4e0e027c0f3b3ad622",
-      "company": "Booz Allen Hamilton",
-      "title": "Power Platform Developer",
-      "url": "https://jobright.ai/jobs/info/6ac52f4e0e027c0f3b3ad622",
-      "location": "Washington, DC",
-      "datePosted": 1793868198,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeca267ab48a7079381cdbc",
-      "company": "SpaceX",
-      "title": "Space Operations Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aeca267ab48a7079381cdbc",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793868146,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7b6e0db933773d16be7349",
-      "company": "Booz Allen Hamilton",
-      "title": "AI Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a7b6e0db933773d16be7349",
-      "location": "San Diego, CA",
-      "datePosted": 1793868094,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2eec030340229a323067f",
-      "company": "Booz Allen Hamilton",
-      "title": "Aircraft Survivability Equipment Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab2eec030340229a323067f",
-      "location": "Jacksonville, FL",
-      "datePosted": 1793868088,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab2a6708254c44790e5649b",
-      "company": "GuideStone Financial Resources",
-      "title": "Summer Intern - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ab2a6708254c44790e5649b",
-      "location": "Dallas, TX",
-      "datePosted": 1793868078,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
