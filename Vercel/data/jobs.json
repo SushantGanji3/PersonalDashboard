@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T20:20:16Z",
+  "generatedAt": "2026-11-05T20:30:17Z",
   "totalOpen": 1577,
   "totalNewgrad": 246,
   "totalOther": 1331,
@@ -58,7 +58,7 @@
       "datePosted": 1793878728,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac52c654ac55253f5d74f71",
@@ -91,7 +91,7 @@
       "datePosted": 1793878582,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecd7c43a3fa7f03ea89b11",
@@ -102,7 +102,7 @@
       "datePosted": 1793877828,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecd7aaa2661405dc2c6d61",
@@ -113,7 +113,7 @@
       "datePosted": 1793877802,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecd78cab48a7079381efa0",
@@ -122,6 +122,28 @@
       "url": "https://jobright.ai/jobs/info/6aecd78cab48a7079381efa0",
       "location": "San Francisco, CA",
       "datePosted": 1793877772,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecd76b465e3d2371382318",
+      "company": "SecondWind by Joveo",
+      "title": "Research Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aecd76b465e3d2371382318",
+      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
+      "datePosted": 1793877739,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecd747465e3d23713822f0",
+      "company": "SecondWind by Joveo",
+      "title": "Software Engineering Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aecd747465e3d23713822f0",
+      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
+      "datePosted": 1793877703,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -135,7 +157,7 @@
       "datePosted": 1793877639,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecd513a2661405dc2c6bc5",
@@ -146,7 +168,7 @@
       "datePosted": 1793877139,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecd28d465e3d2371382094",
@@ -157,7 +179,7 @@
       "datePosted": 1793876493,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecd2853967d67f635a00d8",
@@ -168,7 +190,7 @@
       "datePosted": 1793876485,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecc8c53967d67f6359fa3e",
@@ -292,17 +314,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aecc9f93967d67f6359fb16",
-      "company": "SecondWind by Joveo",
-      "title": "Software Engineering Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aecc9f93967d67f6359fb16",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1793874297,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aeb7027765815f7d74605bd",
       "company": "ICF",
       "title": "Seasonal Associate, Full Stack Developer (Remote)",
@@ -364,17 +375,6 @@
       "url": "https://jobright.ai/jobs/info/6a9754a1e4e60e4b8da5da4d",
       "location": "Westchester, IL",
       "datePosted": 1793873016,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecc499465e3d23713815ba",
-      "company": "SecondWind by Joveo",
-      "title": "Research Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aecc499465e3d23713815ba",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1793872921,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -457,6 +457,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aecd75d3a3fa7f03ea89ad0",
+      "company": "SecondWind by Joveo",
+      "title": "Market Research Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6aecd75d3a3fa7f03ea89ad0",
+      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
+      "datePosted": 1793870447,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a9b4f299c24314c35f98e12",
       "company": "Rivian",
       "title": "Software Engineering Intern - Connected Systems (January - August 2027)",
@@ -485,17 +496,6 @@
       "url": "https://jobright.ai/jobs/info/6aecb345465e3d2371380b34",
       "location": "Tewksbury, MA",
       "datePosted": 1793869389,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecb55da2661405dc2c56da",
-      "company": "SecondWind by Joveo",
-      "title": "Market Research Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aecb55da2661405dc2c56da",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1793869021,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
