@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T23:50:16Z",
-  "totalOpen": 1536,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-11-05T00:00:18Z",
+  "totalOpen": 1535,
+  "totalNewgrad": 243,
   "totalOther": 1292,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,7 +47,7 @@
       "datePosted": 1793803722,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aebb1daa0b134121d99d364",
@@ -446,15 +446,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2f17d30340229a323081d",
+      "id": "newgrad-jobs:6ab2c76f1508734c1530be1d",
       "company": "Tencent",
       "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ab2f17d30340229a323081d",
+      "url": "https://jobright.ai/jobs/info/6ab2c76f1508734c1530be1d",
       "location": "Palo Alto, CA",
       "datePosted": 1793789120,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac560d5372c01f6cd7396f6",
+      "company": "Vantor",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac560d5372c01f6cd7396f6",
+      "location": "United States",
+      "datePosted": 1793788783,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aeb7bb4f40efa43f4a17e1e",
@@ -705,17 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6aeb41a4a0b134121d998d5f",
       "location": "Torrance, CA",
       "datePosted": 1793781139,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab1dde7d2a93d5a97ebd14b",
-      "company": "SpaceX",
-      "title": "Software Engineer, C++ (Simulations)",
-      "url": "https://jobright.ai/jobs/info/6ab1dde7d2a93d5a97ebd14b",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793781083,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
