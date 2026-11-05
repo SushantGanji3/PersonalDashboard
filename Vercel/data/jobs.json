@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T15:10:16Z",
+  "generatedAt": "2026-11-05T15:20:15Z",
   "totalOpen": 1573,
   "totalNewgrad": 245,
   "totalOther": 1328,
@@ -45,6 +45,28 @@
       "url": "https://jobright.ai/jobs/info/6ad018702cc4e9d17e90c15d",
       "location": "United States",
       "datePosted": 1793859702,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab471a20e0ae54eeea488b9",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, Frontend",
+      "url": "https://jobright.ai/jobs/info/6ab471a20e0ae54eeea488b9",
+      "location": "New York, NY",
+      "datePosted": 1793859367,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab486b8ef911c35dffa5763",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, iOS",
+      "url": "https://jobright.ai/jobs/info/6ab486b8ef911c35dffa5763",
+      "location": "New York, NY",
+      "datePosted": 1793859106,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -116,6 +138,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aec86f0ab48a7079381c20a",
+      "company": "Central Insurance",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aec86f0ab48a7079381c20a",
+      "location": "Van Wert, OH; Dublin, OH",
+      "datePosted": 1793856465,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aec83b8a9ea762a0408fb7b",
       "company": "DrewFeig",
       "title": "Programmer Analyst Intern",
@@ -135,7 +168,7 @@
       "datePosted": 1793855888,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfc7f92cc4e9d17e90a6c7",
@@ -259,10 +292,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd081d372c01f6cd71df1d",
+      "id": "newgrad-jobs:6aa95da028e24cb38513a038",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd081d372c01f6cd71df1d",
+      "url": "https://jobright.ai/jobs/info/6aa95da028e24cb38513a038",
       "location": "Salt Lake City, UT",
       "datePosted": 1793852885,
       "source": "newgrad-jobs",
@@ -399,7 +432,7 @@
       "datePosted": 1793847106,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e60dfb39-6279-46ca-9802-7328d053355a",
@@ -721,17 +754,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aec36f8f69ea487dd5d7b16",
-      "company": "Interbiz Consulting",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aec36f8f69ea487dd5d7b16",
-      "location": "Tempe, AZ",
-      "datePosted": 1793836664,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:93503435-116f-4656-9090-2c094bb6d6bd",
       "company": "Twitch",
       "title": "Software Development Engineer 1 - Security Platform",
@@ -820,34 +842,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea471a897466e69e31d795",
+      "id": "newgrad-jobs:6aea44a24f991d64376cc554",
       "company": "HP",
       "title": "Software Engineering Intern, Product & Developer Productivity - HP IQ",
-      "url": "https://jobright.ai/jobs/info/6aea471a897466e69e31d795",
+      "url": "https://jobright.ai/jobs/info/6aea44a24f991d64376cc554",
       "location": "San Francisco, CA",
       "datePosted": 1793827560,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea31e54f991d64376cb9c8",
-      "company": "Northrop Grumman",
-      "title": "2027 Flight Software Engineer Intern - Redondo Beach CA",
-      "url": "https://jobright.ai/jobs/info/6aea31e54f991d64376cb9c8",
-      "location": "Redondo Beach, CA",
-      "datePosted": 1793827546,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9f86c2b0b1eb5805b53b6",
-      "company": "Northrop Grumman",
-      "title": "2027 Cyber Systems Engineer Intern - Roy UT",
-      "url": "https://jobright.ai/jobs/info/6ae9f86c2b0b1eb5805b53b6",
-      "location": "Roy, UT",
-      "datePosted": 1793827545,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
