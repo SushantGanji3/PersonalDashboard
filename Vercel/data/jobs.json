@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T09:50:16Z",
-  "totalOpen": 1581,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-11-06T10:00:43Z",
+  "totalOpen": 1577,
+  "totalNewgrad": 241,
   "totalOther": 1336,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,15 +83,48 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed8d01c7498922fe0c3484",
-      "company": "DCCA",
-      "title": "Systems Engineer - Test with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6aed8d01c7498922fe0c3484",
-      "location": "Chevy Chase, MD",
-      "datePosted": 1793924225,
+      "id": "newgrad-jobs:6ae22357829a3bada160175f",
+      "company": "Intuitive",
+      "title": "AI Research Intern",
+      "url": "https://jobright.ai/jobs/info/6ae22357829a3bada160175f",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1793927303,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a996f3b040e5c3d0759629a",
+      "company": "Bobcat Company",
+      "title": "Embedded Software Engineer Student Experience - Spring 2027 Job Details | Doosan Corp",
+      "url": "https://jobright.ai/jobs/info/6a996f3b040e5c3d0759629a",
+      "location": "Bismarck, ND; Fargo, ND",
+      "datePosted": 1793927277,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a99bd37ad752e2ad55018ea",
+      "company": "Adobe",
+      "title": "2027 Intern - Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a99bd37ad752e2ad55018ea",
+      "location": "San Jose, CA; Waltham, MA; Austin, TX; San Francisco, CA; Lehi, UT; Seattle, WA; New York, NY",
+      "datePosted": 1793927179,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad881cb67bec1d0d9c7db75",
+      "company": "Bobcat Company",
+      "title": "Embedded Software Engineer Student Experience - Summer 2027 Job Details | Doosan Corp",
+      "url": "https://jobright.ai/jobs/info/6ad881cb67bec1d0d9c7db75",
+      "location": "Bismarck, ND; Fargo, ND",
+      "datePosted": 1793927126,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
@@ -688,6 +721,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aed947bc7498922fe0c3602",
+      "company": "Altice USA",
+      "title": "Software Development Engineer I, Tools",
+      "url": "https://jobright.ai/jobs/info/6aed947bc7498922fe0c3602",
+      "location": "Bethpage, NY",
+      "datePosted": 1793894400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aed0f06a2661405dc2c8db3",
       "company": "BAE Systems",
       "title": "Embedded Software Engineer Spring/Summer 2027",
@@ -699,10 +743,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed00eb465e3d2371383a38",
+      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
       "company": "Infosys",
       "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00eb465e3d2371383a38",
+      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
       "location": "Bellevue, WA",
       "datePosted": 1793893620,
       "source": "newgrad-jobs",
@@ -795,50 +839,6 @@
       "datePosted": 1793891291,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecd78cab48a7079381efa0",
-      "company": "Trajectory",
-      "title": "Member of Technical Staff - Research Intern",
-      "url": "https://jobright.ai/jobs/info/6aecd78cab48a7079381efa0",
-      "location": "San Francisco, CA",
-      "datePosted": 1793890897,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeb8dd1f40efa43f4a18823",
-      "company": "Charles Schwab",
-      "title": ".NET/Angular Developer",
-      "url": "https://jobright.ai/jobs/info/6aeb8dd1f40efa43f4a18823",
-      "location": "Austin, TX",
-      "datePosted": 1793889911,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecfe823967d67f635a197b",
-      "company": "DwyerOmega",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aecfe823967d67f635a197b",
-      "location": "Westerville, OH",
-      "datePosted": 1793889701,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecc6db3a3fa7f03ea8909e",
-      "company": "Apex",
-      "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aecc6db3a3fa7f03ea8909e",
-      "location": "Los Angeles, CA",
-      "datePosted": 1793889638,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
