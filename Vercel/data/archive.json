@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:10:16Z",
+  "generatedAt": "2026-11-06T22:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,50 @@
       "source": "aggregator",
       "season": "Fall",
       "firstSeenAt": 1793994015
+    },
+    {
+      "id": "newgrad-jobs:6ab6de6cd7fde2c08ec89e19",
+      "company": "DoorDash",
+      "title": "Machine Learning Intern (Masters) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ab6de6cd7fde2c08ec89e19",
+      "location": "San Francisco, CA; Sunnyvale, CA; New York, NY; Seattle, WA",
+      "datePosted": 1793972793,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1794003616
+    },
+    {
+      "id": "newgrad-jobs:6aee40efd20350c7a507b57c",
+      "company": "Docusign",
+      "title": "Agentic AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aee40efd20350c7a507b57c",
+      "location": "San Francisco, CA",
+      "datePosted": 1793970287,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794003616
+    },
+    {
+      "id": "newgrad-jobs:6ab6d5a581e327c4bf20165f",
+      "company": "PathAI",
+      "title": "Software Engineer I, Fullstack",
+      "url": "https://jobright.ai/jobs/info/6ab6d5a581e327c4bf20165f",
+      "location": "United States",
+      "datePosted": 1793970091,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794003616
+    },
+    {
+      "id": "newgrad-jobs:6aee3f6f5c81f621d3114746",
+      "company": "Schneider",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aee3f6f5c81f621d3114746",
+      "location": "Green Bay, WI",
+      "datePosted": 1793969903,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1794003616
     },
     {
       "id": "newgrad-jobs:6aee3d08caf8e660b87dd749",
@@ -485,6 +529,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1793994015
+    },
+    {
+      "id": "newgrad-jobs:6aee416f5c81f621d311495b",
+      "company": "Audible",
+      "title": "Software Development Engineer, Early Career",
+      "url": "https://jobright.ai/jobs/info/6aee416f5c81f621d311495b",
+      "location": "Cambridge, MA",
+      "datePosted": 1793956010,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794003616
     },
     {
       "id": "newgrad-jobs:6aee32e85c81f621d3113a34",
@@ -13599,6 +13654,17 @@
       "firstSeenAt": 1793826020
     },
     {
+      "id": "newgrad-jobs:6ad12135e2d41540d4a6e7ed",
+      "company": "Infinitive",
+      "title": "Consultant, Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad12135e2d41540d4a6e7ed",
+      "location": "McLean, VA",
+      "datePosted": 1792159671,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794003616
+    },
+    {
       "id": "newgrad-jobs:6ad27dbe25289a0b3bf57143",
       "company": "FWI (FedWriters, Inc.)",
       "title": "Data Engineer",
@@ -14608,28 +14674,6 @@
       "datePosted": 1791417600,
       "source": "aggregator",
       "season": "Spring",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:9dfe7746-ba68-48c6-8d73-9a3e54ea661f",
-      "company": "General Dynamics",
-      "title": "Embedded Software Engineer Entry Level",
-      "url": "https://careers-gdms.icims.com/jobs/75161/job?mobile=true&needsRedirect=false",
-      "location": "Bloomington, MN",
-      "datePosted": 1791411440,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1793868015
-    },
-    {
-      "id": "simplify:24901885-b792-4344-a66a-26907a743ebc",
-      "company": "Otter.ai",
-      "title": "Software Engineer New Grad - Front-End",
-      "url": "https://otter.ai/careers?gh_jid=8016078003",
-      "location": "Mountain View, CA",
-      "datePosted": 1791411293,
-      "source": "aggregator",
-      "season": null,
       "firstSeenAt": 1793826020
     }
   ]
