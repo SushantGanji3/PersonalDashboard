@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T08:10:14Z",
-  "totalOpen": 1584,
-  "totalNewgrad": 248,
+  "generatedAt": "2026-11-06T08:20:16Z",
+  "totalOpen": 1581,
+  "totalNewgrad": 245,
   "totalOther": 1336,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,13 +14,24 @@
       "datePosted": 1793950131,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0559e77e-4693-4e8a-a1c3-177e65abdd9a",
       "company": "Amazon",
       "title": "Software Development Engineer - SoC Hardware Abstraction Layer",
       "url": "https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
+      "location": "Cupertino, CA",
+      "datePosted": 1793950073,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:ad84a1d1-575a-4cae-b0b7-d09551a5898b",
+      "company": "Amazon",
+      "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
+      "url": "https://go.vansh.nyc/1k0",
       "location": "Cupertino, CA",
       "datePosted": 1793950073,
       "source": "aggregator",
@@ -83,6 +94,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aed7da32f56743632810490",
+      "company": "Optimum",
+      "title": "Software Development Engineer I, Tools",
+      "url": "https://jobright.ai/jobs/info/6aed7da32f56743632810490",
+      "location": "Bethpage, NY",
+      "datePosted": 1793920291,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed7cdbf46c27c797e9cdd6",
+      "company": "Janus Henderson Investors",
+      "title": "Investments Technology Research Intern",
+      "url": "https://jobright.ai/jobs/info/6aed7cdbf46c27c797e9cdd6",
+      "location": "Denver, CO",
+      "datePosted": 1793920091,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:65e41535-86d1-4d10-9d27-bac6fad3e8d9",
       "company": "Shield AI",
       "title": "Software Engineer Co-op Intern",
@@ -92,6 +125,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed7c83f46c27c797e9cdb6",
+      "company": "A Full Renovation \u2013 Residential Remodeling",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aed7c83f46c27c797e9cdb6",
+      "location": "United States",
+      "datePosted": 1793920003,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:02f41834-2a2e-4964-8780-2ad1148d6a18",
@@ -611,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed00eb465e3d2371383a38",
+      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
       "company": "Infosys",
       "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00eb465e3d2371383a38",
+      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
       "location": "Bellevue, WA",
       "datePosted": 1793893620,
       "source": "newgrad-jobs",
@@ -793,39 +837,6 @@
       "url": "https://jobright.ai/jobs/info/6aed01d93a3fa7f03ea8b2b6",
       "location": "Dearborn, MI",
       "datePosted": 1793888601,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada7e4b3a69033df2259e21",
-      "company": "Formlabs",
-      "title": "Software Engineer, API & Automation",
-      "url": "https://jobright.ai/jobs/info/6ada7e4b3a69033df2259e21",
-      "location": "Somerville, MA",
-      "datePosted": 1793888579,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae1268b6679108488c416bc",
-      "company": "JM Family Enterprises, Inc.",
-      "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae1268b6679108488c416bc",
-      "location": "Deerfield Beach, FL",
-      "datePosted": 1793888528,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecfec7ab48a70793820584",
-      "company": "Amazon",
-      "title": "Data Engineer I, Secure Third Party Tools (S3T)",
-      "url": "https://jobright.ai/jobs/info/6aecfec7ab48a70793820584",
-      "location": "Austin, TX",
-      "datePosted": 1793887815,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1309,17 +1320,6 @@
       "title": "Flight Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
       "location": "Manhattan Beach, CA",
-      "datePosted": 1793664000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c5e86824-dfe7-4736-af3b-f8a7222c6536",
-      "company": "Northrop Grumman",
-      "title": "Ground Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
-      "location": "Redondo Beach, CA",
       "datePosted": 1793664000,
       "source": "aggregator",
       "season": null,
