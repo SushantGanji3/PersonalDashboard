@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-06T00:00:20Z",
-  "totalOpen": 1584,
+  "generatedAt": "2026-11-06T00:10:16Z",
+  "totalOpen": 1588,
   "totalNewgrad": 250,
-  "totalOther": 1334,
+  "totalOther": 1338,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
+      "company": "Palantir",
+      "title": "Software Engineer Intern - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply",
+      "location": "NYC",
+      "datePosted": 1793922079,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:65e41535-86d1-4d10-9d27-bac6fad3e8d9",
       "company": "Shield AI",
@@ -36,7 +47,7 @@
       "datePosted": 1793919996,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:15fa9474-f3bf-465f-9aef-20f746c86a5f",
@@ -83,12 +94,89 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aeceeb2ab48a7079381fe01",
+      "company": "Nooks",
+      "title": "Software Engineer, Intern",
+      "url": "https://jobright.ai/jobs/info/6aeceeb2ab48a7079381fe01",
+      "location": "San Francisco, CA; Seattle, WA",
+      "datePosted": 1793891348,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecf700a9ea762a04093cc6",
+      "company": "The Cincinnati Insurance Companies",
+      "title": "Planning Analytics and Risk Management - Associate Data Scientist,  Innovation and Research",
+      "url": "https://jobright.ai/jobs/info/6aecf700a9ea762a04093cc6",
+      "location": "Fairfield, OH",
+      "datePosted": 1793891074,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed0b6aab48a70793820d9d",
+      "company": "PROJXON",
+      "title": "Full Stack Engineer (Internship)",
+      "url": "https://jobright.ai/jobs/info/6aed0b6aab48a70793820d9d",
+      "location": "United States",
+      "datePosted": 1793891050,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aece54c465e3d2371382a17",
+      "company": "DBR",
+      "title": "Python Developer I",
+      "url": "https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
+      "location": "Houston, TX",
+      "datePosted": 1793891005,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeceb7d3a3fa7f03ea8a6d6",
+      "company": "IBM",
+      "title": "ML/AI Engineer - Consultant",
+      "url": "https://jobright.ai/jobs/info/6aeceb7d3a3fa7f03ea8a6d6",
+      "location": "United States",
+      "datePosted": 1793891001,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed0812ab48a70793820b0d",
+      "company": "Daiichi Sankyo",
+      "title": "Data Scientist and AI Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aed0812ab48a70793820b0d",
+      "location": "Bernards, NJ",
+      "datePosted": 1793890194,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aece217ab48a7079381f4dd",
       "company": "Microsoft",
       "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
       "url": "https://jobright.ai/jobs/info/6aece217ab48a7079381f4dd",
       "location": "Redmond, WA",
       "datePosted": 1793890053,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeb8dd1f40efa43f4a18823",
+      "company": "Charles Schwab",
+      "title": ".NET/Angular Developer",
+      "url": "https://jobright.ai/jobs/info/6aeb8dd1f40efa43f4a18823",
+      "location": "Austin, TX",
+      "datePosted": 1793889911,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -111,6 +199,28 @@
       "url": "https://jobright.ai/jobs/info/6aecc6db3a3fa7f03ea8909e",
       "location": "Los Angeles, CA",
       "datePosted": 1793889638,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecc40dab48a7079381e219",
+      "company": "Scowtt",
+      "title": "Fullstack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aecc40dab48a7079381e219",
+      "location": "Seattle, WA",
+      "datePosted": 1793889546,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecd28d465e3d2371382094",
+      "company": "Apex",
+      "title": "Ground Software Engineering Internship (Spring or Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aecd28d465e3d2371382094",
+      "location": "Los Angeles, CA",
+      "datePosted": 1793889121,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -177,17 +287,6 @@
       "url": "https://jobright.ai/jobs/info/6aecfec7ab48a70793820584",
       "location": "Austin, TX",
       "datePosted": 1793887815,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aece54c465e3d2371382a17",
-      "company": "DBR",
-      "title": "Python Developer I",
-      "url": "https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
-      "location": "Houston, TX",
-      "datePosted": 1793887582,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -270,28 +369,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aecf700a9ea762a04093cc6",
-      "company": "The Cincinnati Insurance Companies",
-      "title": "Planning Analytics and Risk Management - Associate Data Scientist,  Innovation and Research",
-      "url": "https://jobright.ai/jobs/info/6aecf700a9ea762a04093cc6",
-      "location": "Fairfield, OH",
-      "datePosted": 1793885824,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeceeb2ab48a7079381fe01",
-      "company": "Nooks",
-      "title": "Software Engineer, Intern",
-      "url": "https://jobright.ai/jobs/info/6aeceeb2ab48a7079381fe01",
-      "location": "San Francisco, CA; Seattle, WA",
-      "datePosted": 1793883698,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aecee313a3fa7f03ea8a8e7",
       "company": "Tenet Healthcare",
       "title": "Data Engineer Intern  \u2013 Summer 2027 \u2013 Onsite in Dallas, TX",
@@ -309,17 +386,6 @@
       "url": "https://jobright.ai/jobs/info/6aececddab48a7079381fcc7",
       "location": "United States; Canada; United Kingdom; Australia; New Zealand",
       "datePosted": 1793883229,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeceb7d3a3fa7f03ea8a6d6",
-      "company": "IBM",
-      "title": "ML/AI Engineer - Consultant",
-      "url": "https://jobright.ai/jobs/info/6aeceb7d3a3fa7f03ea8a6d6",
-      "location": "United States",
-      "datePosted": 1793882877,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -567,17 +633,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac52c654ac55253f5d74f71",
-      "company": "Roblox",
-      "title": "Software Engineer, Foundation AI",
-      "url": "https://jobright.ai/jobs/info/6ac52c654ac55253f5d74f71",
-      "location": "San Mateo, CA",
-      "datePosted": 1793878582,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aea37f9440b469a1c0abcd9",
       "company": "Roblox",
       "title": "Software Engineer, Engine Productivity",
@@ -677,17 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aecd28d465e3d2371382094",
-      "company": "Apex",
-      "title": "Ground Software Engineering Internship (Spring or Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aecd28d465e3d2371382094",
-      "location": "Los Angeles, CA",
-      "datePosted": 1793876493,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aecc8c53967d67f6359fa3e",
       "company": "Shield AI",
       "title": "June 2027 Co-Op - Software Engineer Intern",
@@ -705,39 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6aec91f6a2661405dc2c4306",
       "location": "New York, NY",
       "datePosted": 1793875713,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeccbd9a9ea762a0409235d",
-      "company": "Deltek",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aeccbd9a9ea762a0409235d",
-      "location": "Herndon, VA",
-      "datePosted": 1793874777,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
-      "company": "Palantir",
-      "title": "Software Engineer - Apollo Platform",
-      "url": "https://jobright.ai/jobs/info/6a557daaae07d60a8d0119c6",
-      "location": "Seattle, WA",
-      "datePosted": 1793874436,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a50aa075165966a1161a9b2",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Production Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a50aa075165966a1161a9b2",
-      "location": "New York, NY; Seattle, WA",
-      "datePosted": 1793874436,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -906,6 +917,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:5e01c887-e95d-4785-9a00-436d4da36038",
+      "company": "Shield AI",
+      "title": "Software Engineer Intern Co-op",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true",
+      "location": "Dallas, TX",
+      "datePosted": 1793836800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:234d1614-a2c5-423b-a77c-2f8a075a980f",
@@ -1299,28 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1872420890835857",
       "location": "Redmond, WA",
       "datePosted": 1793663365,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:805fa8a6-96cb-4f51-8398-5cca7acfe9a8",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
-      "url": "https://www.metacareers.com/jobs/1143164681833409",
-      "location": "Redmond, WA",
-      "datePosted": 1793663364,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
-      "company": "Microsoft",
-      "title": "Software Engineer IC2",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
-      "location": "Redmond, WA",
-      "datePosted": 1793663300,
       "source": "aggregator",
       "season": null,
       "isNew": false
