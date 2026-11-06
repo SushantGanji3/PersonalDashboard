@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06T03:30:18Z",
-  "totalOpen": 1583,
+  "generatedAt": "2026-11-06T03:40:17Z",
+  "totalOpen": 1582,
   "totalNewgrad": 242,
-  "totalOther": 1341,
+  "totalOther": 1340,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -90,6 +90,17 @@
       "location": "Redmond, WA, Northridge, LA",
       "datePosted": 1793919996,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeceb7d3a3fa7f03ea8a6d6",
+      "company": "IBM",
+      "title": "ML/AI Engineer - Consultant",
+      "url": "https://jobright.ai/jobs/info/6aeceb7d3a3fa7f03ea8a6d6",
+      "location": "United States",
+      "datePosted": 1793904247,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -221,17 +232,6 @@
       "url": "https://jobright.ai/jobs/info/6aed274e465e3d2371384e59",
       "location": "Lafayette, LA; Knoxville, TN; Fairfax, VA",
       "datePosted": 1793898190,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeceb7d3a3fa7f03ea8a6d6",
-      "company": "IBM",
-      "title": "ML/AI Engineer - Consultant",
-      "url": "https://jobright.ai/jobs/info/6aeceb7d3a3fa7f03ea8a6d6",
-      "location": "United States",
-      "datePosted": 1793897587,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -391,10 +391,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed00eb465e3d2371383a38",
+      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
       "company": "Infosys",
       "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00eb465e3d2371383a38",
+      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
       "location": "Bellevue, WA",
       "datePosted": 1793893620,
       "source": "newgrad-jobs",
@@ -743,17 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a53f3128576ec69c0151779",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a53f3128576ec69c0151779",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793881093,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aece354a9ea762a0409302d",
       "company": "Lockheed Martin",
       "title": "Software Engineer Asc - Early Career",
@@ -795,6 +784,17 @@
       "datePosted": 1793880183,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
+      "location": "Seattle, WA",
+      "datePosted": 1793880183,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
