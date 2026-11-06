@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06T23:30:18Z",
-  "totalOpen": 1575,
-  "totalNewgrad": 250,
-  "totalOther": 1325,
+  "generatedAt": "2026-11-06T23:40:15Z",
+  "totalOpen": 1581,
+  "totalNewgrad": 254,
+  "totalOther": 1327,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Winter",
       "isNew": false
+    },
+    {
+      "id": "simplify:77831821-1f7c-4c6e-86e0-f33a98bcad8d",
+      "company": "Astranis",
+      "title": "Embedded Software Developer \u2013 Network/Payload Software Intern",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704571006",
+      "location": "SF",
+      "datePosted": 1794004211,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:2abe537f-7430-4129-9693-b9dbae53fd75",
@@ -50,6 +61,72 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aee58d2caf8e660b87deca2",
+      "company": "Jorie AI",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aee58d2caf8e660b87deca2",
+      "location": "United States",
+      "datePosted": 1793976402,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adbc2310a4cc7090f974930",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern - Labs (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6adbc2310a4cc7090f974930",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "datePosted": 1793976345,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee5894d20350c7a507c6bf",
+      "company": "Ryzoe",
+      "title": "Trainee (Intern) Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6aee5894d20350c7a507c6bf",
+      "location": "United States",
+      "datePosted": 1793976340,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aee56585c81f621d31155f9",
+      "company": "Charles Schwab",
+      "title": "Jr. Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aee56585c81f621d31155f9",
+      "location": "Omaha, NE; Austin, TX",
+      "datePosted": 1793975768,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aee55a0c7498922fe0cb994",
+      "company": "Astranis Space Technologies",
+      "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aee55a0c7498922fe0cb994",
+      "location": "San Francisco, CA",
+      "datePosted": 1793975584,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aee559de0c9de7b05f8dcbf",
+      "company": "Career Launch Tech Initiative",
+      "title": "Software Engineer Internship",
+      "url": "https://jobright.ai/jobs/info/6aee559de0c9de7b05f8dcbf",
+      "location": "United States",
+      "datePosted": 1793975581,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aee54fcd20350c7a507c052",
       "company": "Apple",
       "title": "AI Operations, Applied AI Research and Design Developer",
@@ -67,6 +144,17 @@
       "url": "https://jobright.ai/jobs/info/6aee54e8bd2f33eea72dadcf",
       "location": "Plano, TX",
       "datePosted": 1793975400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee3cbccaf8e660b87dd6fe",
+      "company": "Smart Circle International",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6aee3cbccaf8e660b87dd6fe",
+      "location": "United States",
+      "datePosted": 1793975349,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -303,17 +391,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aee3cbccaf8e660b87dd6fe",
-      "company": "Smart Circle International",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6aee3cbccaf8e660b87dd6fe",
-      "location": "United States",
-      "datePosted": 1793972706,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aecf98bab48a70793820385",
       "company": "Bristol Myers Squibb",
       "title": "Data Engineer, Clinical Operations",
@@ -388,17 +465,6 @@
       "datePosted": 1793969288,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adbc2310a4cc7090f974930",
-      "company": "DoorDash",
-      "title": "Software Engineer, Intern - Labs (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6adbc2310a4cc7090f974930",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "datePosted": 1793969206,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -600,10 +666,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a989de6c8ed473c5c765202",
+      "id": "newgrad-jobs:6a99082811f73b6462c9012a",
       "company": "Shure",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a989de6c8ed473c5c765202",
+      "url": "https://jobright.ai/jobs/info/6a99082811f73b6462c9012a",
       "location": "Niles, IL",
       "datePosted": 1793960800,
       "source": "newgrad-jobs",
@@ -650,61 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6a989dfb83fc633357632942",
       "location": "Niles, IL",
       "datePosted": 1793959675,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed18ba3a3fa7f03ea8bf37",
-      "company": "Light & Wonder",
-      "title": "Intern Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6aed18ba3a3fa7f03ea8bf37",
-      "location": "Reno, NV",
-      "datePosted": 1793959506,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a978c84e4e60e4b8da5e6b0",
-      "company": "Avicena Tech",
-      "title": "Hardware Automation Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a978c84e4e60e4b8da5e6b0",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1793958124,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adb91afc5c64fa3d9cb01a6",
-      "company": "Type One Energy",
-      "title": "Summer Internship - Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6adb91afc5c64fa3d9cb01a6",
-      "location": "Madison, WI; Knoxville, TN",
-      "datePosted": 1793957754,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee073e5c81f621d3110ba3",
-      "company": "Allied Consultants, Inc.",
-      "title": "Power Platform Admin/Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aee073e5c81f621d3110ba3",
-      "location": "Austin, TX",
-      "datePosted": 1793957424,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee2d08bd2f33eea72d8ae6",
-      "company": "GM Financial",
-      "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aee2d08bd2f33eea72d8ae6",
-      "location": "Arlington, TX",
-      "datePosted": 1793956853,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -785,6 +796,28 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:206ba36a-050c-448b-b880-2b4c5ab214d4",
+      "company": "Charles Schwab",
+      "title": "Associate Software Engineer",
+      "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
+      "location": "Austin, TX",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:6ec3eae2-325c-4d6b-9eed-6f8044285aa2",
+      "company": "Charles Schwab",
+      "title": "Junior Software Developer",
+      "url": "https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false",
+      "location": "Austin, TX, Omaha, NE",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
@@ -1288,39 +1321,6 @@
       "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
       "location": "Austin, TX, San Jose, CA",
       "datePosted": 1793726490,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:2898b74c-bc91-4f06-b910-1d62bdba0c18",
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1793721064,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:7cc3221f-7db3-4ab6-8897-e0b946c27a7e",
-      "company": "American Express",
-      "title": "Undergraduate Program Software Engineer Intern, Enterprise Technology Services",
-      "url": "https://go.vansh.nyc/1dH",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1793721064,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - FM Quality ML",
-      "url": "https://www.metacareers.com/jobs/1125383989877928",
-      "location": "Menlo Park, CA",
-      "datePosted": 1793718516,
       "source": "aggregator",
       "season": null,
       "isNew": false
