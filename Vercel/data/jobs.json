@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T06:20:16Z",
-  "totalOpen": 1584,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-11-06T06:30:18Z",
+  "totalOpen": 1585,
+  "totalNewgrad": 246,
   "totalOther": 1339,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -102,7 +102,7 @@
       "datePosted": 1793913377,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aed3f68401428aac42f7e7f",
@@ -113,6 +113,17 @@
       "datePosted": 1793913274,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecf810ab48a707938202c0",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aecf810ab48a707938202c0",
+      "location": "Aurora, CO",
+      "datePosted": 1793913274,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -784,17 +795,6 @@
       "datePosted": 1793883569,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aececddab48a7079381fcc7",
-      "company": "SecondWind by Joveo",
-      "title": "Machine Learning Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aececddab48a7079381fcc7",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1793883229,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
