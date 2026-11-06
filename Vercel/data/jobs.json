@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-11-06T16:30:17Z",
-  "totalOpen": 1569,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-06T16:40:17Z",
+  "totalOpen": 1568,
+  "totalNewgrad": 238,
   "totalOther": 1330,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aedf639d20350c7a5076994",
+      "company": "Paychex",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aedf639d20350c7a5076994",
+      "location": "Webster, NY",
+      "datePosted": 1793951161,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aedd97fcaf8e660b87d7ce8",
+      "company": "American College of Obstetricians and Gynecologists (ACOG)",
+      "title": "Full-Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6aedd97fcaf8e660b87d7ce8",
+      "location": "Washington, DC",
+      "datePosted": 1793951001,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad1451ae2d41540d4a6f943",
+      "company": "Kensho Technologies",
+      "title": "Machine Learning Operations Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad1451ae2d41540d4a6f943",
+      "location": "United States",
+      "datePosted": 1793950900,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aedf4f2caf8e660b87d8d92",
+      "company": "Eaton",
+      "title": "Software Engineer Acs Early Career - Fort Worth TX",
+      "url": "https://jobright.ai/jobs/info/6aedf4f2caf8e660b87d8d92",
+      "location": "Fort Worth, TX",
+      "datePosted": 1793950834,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
       "company": "TikTok",
@@ -149,17 +193,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aedd97fcaf8e660b87d7ce8",
-      "company": "American College of Obstetricians and Gynecologists (ACOG)",
-      "title": "Full-Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aedd97fcaf8e660b87d7ce8",
-      "location": "Washington, DC",
-      "datePosted": 1793947751,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aede83fc7498922fe0c57bf",
       "company": "Tinder",
       "title": "Backend Engineer Intern",
@@ -177,17 +210,6 @@
       "url": "https://jobright.ai/jobs/info/6aede82dbd2f33eea72d4e4f",
       "location": "Palo Alto, CA",
       "datePosted": 1793947565,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1451ae2d41540d4a6f943",
-      "company": "Kensho Technologies",
-      "title": "Machine Learning Operations Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ad1451ae2d41540d4a6f943",
-      "location": "United States",
-      "datePosted": 1793946506,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -721,17 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad881cb67bec1d0d9c7db75",
-      "company": "Bobcat Company",
-      "title": "Embedded Software Engineer Student Experience - Summer 2027 Job Details | Doosan Corp",
-      "url": "https://jobright.ai/jobs/info/6ad881cb67bec1d0d9c7db75",
-      "location": "Bismarck, ND; Fargo, ND",
-      "datePosted": 1793927126,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
       "company": "Palantir",
       "title": "Software Engineer Intern - Sovereign AI Systems",
@@ -739,17 +750,6 @@
       "location": "NYC",
       "datePosted": 1793922079,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7dc7dc0cd4a0703257bd70",
-      "company": "Faraday Future",
-      "title": "Robotics Data Operator Intern",
-      "url": "https://jobright.ai/jobs/info/6a7dc7dc0cd4a0703257bd70",
-      "location": "El Segundo, CA; Los Angeles, CA",
-      "datePosted": 1793921532,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
