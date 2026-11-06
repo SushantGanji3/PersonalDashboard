@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:50:17Z",
+  "generatedAt": "2026-11-06T05:00:17Z",
   "totalOpen": 1583,
   "totalNewgrad": 243,
   "totalOther": 1340,
@@ -92,6 +92,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4fa53dfc327f422fef5e6e",
+      "company": "Peraton",
+      "title": "Jr Software Engineer TS/SCI with Poly",
+      "url": "https://jobright.ai/jobs/info/6a4fa53dfc327f422fef5e6e",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1793907995,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aeceb7d3a3fa7f03ea8a6d6",
@@ -300,7 +311,7 @@
       "datePosted": 1793896828,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecd7aaa2661405dc2c6d61",
@@ -402,23 +413,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
+      "id": "newgrad-jobs:6aed00eb465e3d2371383a38",
       "company": "Infosys",
       "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
+      "url": "https://jobright.ai/jobs/info/6aed00eb465e3d2371383a38",
       "location": "Bellevue, WA",
       "datePosted": 1793893620,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed15633a3fa7f03ea8bde1",
-      "company": "Netrolynx AI",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aed15633a3fa7f03ea8bde1",
-      "location": "United States",
-      "datePosted": 1793893603,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
