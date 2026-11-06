@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-06T03:00:19Z",
-  "totalOpen": 1578,
-  "totalNewgrad": 241,
-  "totalOther": 1337,
+  "generatedAt": "2026-11-06T03:10:16Z",
+  "totalOpen": 1581,
+  "totalNewgrad": 242,
+  "totalOther": 1339,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:c924f746-7ad7-4688-a1d2-00db70c70823",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Software Systems",
+      "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply",
+      "location": "Foster City, CA",
+      "datePosted": 1793932597,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:bfd495aa-8461-4455-8885-5db271cd1cc0",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Software Platforms & Product",
+      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply",
+      "location": "Foster City, CA",
+      "datePosted": 1793932595,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
       "company": "Palantir",
@@ -59,6 +81,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3a9104233a2201a2b2b73",
+      "company": "Trihydro Corporation",
+      "title": "Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa3a9104233a2201a2b2b73",
+      "location": "Fort Collins, CO; Laramie, WY; Sheridan, WY",
+      "datePosted": 1793902508,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aed0812ab48a70793820b0d",
@@ -281,6 +314,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aed28a83a3fa7f03ea8c6ae",
+      "company": "GALLO",
+      "title": "Associate Platform Developer",
+      "url": "https://jobright.ai/jobs/info/6aed28a83a3fa7f03ea8c6ae",
+      "location": "Modesto, CA",
+      "datePosted": 1793896145,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aeccd3fa9ea762a04092470",
       "company": "T-Mobile",
       "title": "Summer 2027 Software Engineering Internship",
@@ -325,10 +369,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
+      "id": "newgrad-jobs:6aed00eb465e3d2371383a38",
       "company": "Infosys",
       "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
+      "url": "https://jobright.ai/jobs/info/6aed00eb465e3d2371383a38",
       "location": "Bellevue, WA",
       "datePosted": 1793893620,
       "source": "newgrad-jobs",
@@ -710,17 +754,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027) - Austin, TX",
-      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
-      "location": "Austin, TX",
-      "datePosted": 1793880422,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aece118a9ea762a04092f05",
       "company": "Avanza",
       "title": "AI Engineer",
@@ -740,17 +773,6 @@
       "datePosted": 1793880183,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
-      "company": "Atlassian",
-      "title": "Data Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
-      "location": "Seattle, WA",
-      "datePosted": 1793880183,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1301,28 +1323,6 @@
       "datePosted": 1793664000,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:7d80b5cb-a9b9-426e-9a61-56275efe901a",
-      "company": "Northrop Grumman",
-      "title": "New Grad 2027: Associate Flight Software Engineer",
-      "url": "https://go.vansh.nyc/1fG",
-      "location": "Manhattan Beach, CA",
-      "datePosted": 1793664000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6ec1e81b-4fcc-4f96-8e08-01f231df526c",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Robotic Control Policy",
-      "url": "https://www.metacareers.com/jobs/1872420890835857",
-      "location": "Redmond, WA",
-      "datePosted": 1793663365,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
