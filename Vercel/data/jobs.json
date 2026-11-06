@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:10:15Z",
+  "generatedAt": "2026-11-06T23:20:15Z",
   "totalOpen": 1575,
   "totalNewgrad": 250,
   "totalOther": 1325,
@@ -14,7 +14,7 @@
       "datePosted": 1794004814,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2abe537f-7430-4129-9693-b9dbae53fd75",
@@ -48,6 +48,105 @@
       "source": "aggregator",
       "season": "Fall",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee54fcd20350c7a507c052",
+      "company": "Apple",
+      "title": "AI Operations, Applied AI Research and Design Developer",
+      "url": "https://jobright.ai/jobs/info/6aee54fcd20350c7a507c052",
+      "location": "Cupertino, CA",
+      "datePosted": 1793975420,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aee54e8bd2f33eea72dadcf",
+      "company": "Republic Finance",
+      "title": "React Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aee54e8bd2f33eea72dadcf",
+      "location": "Plano, TX",
+      "datePosted": 1793975400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aee53e8d20350c7a507bfe5",
+      "company": "New York Life",
+      "title": "Associate - Full-Stack Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aee53e8d20350c7a507bfe5",
+      "location": "New York, NY",
+      "datePosted": 1793975144,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aee52bdc7498922fe0cb690",
+      "company": "Markondo",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aee52bdc7498922fe0cb690",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1793974845,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6a8218ff3fb9b3bc8e65f",
+      "company": "Deloitte",
+      "title": "Consultant II, Backend Software Engineering - Tax Transformation",
+      "url": "https://jobright.ai/jobs/info/6ac6a8218ff3fb9b3bc8e65f",
+      "location": "New Orleans, LA",
+      "datePosted": 1793974761,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed8b2bc7498922fe0c346c",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer, SoC HAL",
+      "url": "https://jobright.ai/jobs/info/6aed8b2bc7498922fe0c346c",
+      "location": "Cupertino, CA",
+      "datePosted": 1793974761,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee206be0c9de7b05f8a91d",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Storage Systems/Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aee206be0c9de7b05f8a91d",
+      "location": "Andover, MA",
+      "datePosted": 1793974761,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ace9d724f3229123da3d3a0",
+      "company": "ServiceNow",
+      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
+      "url": "https://jobright.ai/jobs/info/6ace9d724f3229123da3d3a0",
+      "location": "Santa Clara, CA; San Diego, CA; Kirkland, WA; West Palm Beach, FL",
+      "datePosted": 1793974761,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed1bc1ab48a707938214d2",
+      "company": "Citadel",
+      "title": "Software Engineer \u2013 Intern (US)",
+      "url": "https://jobright.ai/jobs/info/6aed1bc1ab48a707938214d2",
+      "location": "New York, NY; Miami, FL; Houston, TX; Greenwich, CT",
+      "datePosted": 1793974761,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae148efde23f466ec8bdd3c",
@@ -133,17 +232,6 @@
       "url": "https://jobright.ai/jobs/info/6aee20c4d20350c7a5078e44",
       "location": "New York, NY",
       "datePosted": 1793973337,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace9d724f3229123da3d3a0",
-      "company": "ServiceNow",
-      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
-      "url": "https://jobright.ai/jobs/info/6ace9d724f3229123da3d3a0",
-      "location": "Santa Clara, CA; San Diego, CA; Kirkland, WA; West Palm Beach, FL",
-      "datePosted": 1793973180,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -523,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a99b3b48a8b765bc55f4e70",
+      "id": "newgrad-jobs:6a99b3a690a313642c652281",
       "company": "V2X Inc",
       "title": "Systems Security Engineer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a99b3b48a8b765bc55f4e70",
+      "url": "https://jobright.ai/jobs/info/6a99b3a690a313642c652281",
       "location": "Indianapolis, IN",
       "datePosted": 1793960476,
       "source": "newgrad-jobs",
@@ -617,94 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6aee2d08bd2f33eea72d8ae6",
       "location": "Arlington, TX",
       "datePosted": 1793956853,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad1163d3d3a5aa909b37a37",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Audible AI Voice Production",
-      "url": "https://jobright.ai/jobs/info/6ad1163d3d3a5aa909b37a37",
-      "location": "Cambridge, MA",
-      "datePosted": 1793956459,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee416f5c81f621d311495b",
-      "company": "Audible",
-      "title": "Software Development Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6aee416f5c81f621d311495b",
-      "location": "Cambridge, MA",
-      "datePosted": 1793956010,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aedd97fcaf8e660b87d7ce8",
-      "company": "American College of Obstetricians and Gynecologists (ACOG)",
-      "title": "Full-Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aedd97fcaf8e660b87d7ce8",
-      "location": "Washington, DC",
-      "datePosted": 1793955477,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee00fac7498922fe0c666a",
-      "company": "Samsara",
-      "title": "Software Engineering Internship - San Francisco",
-      "url": "https://jobright.ai/jobs/info/6aee00fac7498922fe0c666a",
-      "location": "San Francisco, CA",
-      "datePosted": 1793955390,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab697e29d4843569fe4e11f",
-      "company": "CoreWeave",
-      "title": "Software Engineer, Inference",
-      "url": "https://jobright.ai/jobs/info/6ab697e29d4843569fe4e11f",
-      "location": "United States",
-      "datePosted": 1793955126,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea0f024f991d64376ca04c",
-      "company": "IBM",
-      "title": "Back End Developer Intern - Poughkeepsie, NY - 2027",
-      "url": "https://jobright.ai/jobs/info/6aea0f024f991d64376ca04c",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1793954922,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a50f292ae4052672fe9581d",
-      "company": "SpaceX",
-      "title": "Application Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a50f292ae4052672fe9581d",
-      "location": "Palo Alto, CA",
-      "datePosted": 1793954882,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed7785a3da3840d4abb4f8",
-      "company": "Chewy",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aed7785a3da3840d4abb4f8",
-      "location": "Bellevue, WA",
-      "datePosted": 1793954658,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
