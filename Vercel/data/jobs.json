@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-06T08:00:19Z",
-  "totalOpen": 1582,
+  "generatedAt": "2026-11-06T08:10:14Z",
+  "totalOpen": 1584,
   "totalNewgrad": 248,
-  "totalOther": 1334,
+  "totalOther": 1336,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
+      "company": "TikTok",
+      "title": "Research Engineer - Agentic Video Editing",
+      "url": "https://lifeattiktok.com/search/7704036750285867269",
+      "location": "San Jose, CA",
+      "datePosted": 1793950131,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:0559e77e-4693-4e8a-a1c3-177e65abdd9a",
+      "company": "Amazon",
+      "title": "Software Development Engineer - SoC Hardware Abstraction Layer",
+      "url": "https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
+      "location": "Cupertino, CA",
+      "datePosted": 1793950073,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:c924f746-7ad7-4688-a1d2-00db70c70823",
       "company": "Zoox",
@@ -1301,28 +1323,6 @@
       "datePosted": 1793664000,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e5621469-d49a-465d-a557-2ef4692874ce",
-      "company": "Northrop Grumman",
-      "title": "Associate Flight Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061",
-      "location": "Manhattan Beach, CA",
-      "datePosted": 1793664000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d0150e72-84f1-48a6-9bb0-510c59682678",
-      "company": "Dell",
-      "title": "Software Engineering Undergraduate Intern, CSG",
-      "url": "https://go.vansh.nyc/1dN",
-      "location": "United States",
-      "datePosted": 1793664000,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
