@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-06T23:00:21Z",
-  "totalOpen": 1574,
+  "generatedAt": "2026-11-06T23:10:15Z",
+  "totalOpen": 1575,
   "totalNewgrad": 250,
-  "totalOther": 1324,
+  "totalOther": 1325,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:350d28f8-5462-4813-9d81-b07550f1c3bd",
+      "company": "Astranis",
+      "title": "Embedded Software Developer Intern, Network/Payload",
+      "url": "https://go.vansh.nyc/1lz",
+      "location": "San Francisco, CA",
+      "datePosted": 1794004814,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
     {
       "id": "simplify:2abe537f-7430-4129-9693-b9dbae53fd75",
       "company": "Notion",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793718516,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c80f24e3-b3cf-46b1-a2cc-5ebf75869a17",
-      "company": "RTX",
-      "title": "Software Engineering Co-op, AGS",
-      "url": "https://go.vansh.nyc/1cQ",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1793685978,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
