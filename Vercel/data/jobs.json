@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T00:40:19Z",
-  "totalOpen": 1590,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-11-06T00:50:17Z",
+  "totalOpen": 1588,
+  "totalNewgrad": 250,
   "totalOther": 1338,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -94,12 +94,133 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aed1b4a3a3fa7f03ea8c083",
+      "company": "Citadel",
+      "title": "Software Engineer \u2013 Intern (US)",
+      "url": "https://jobright.ai/jobs/info/6aed1b4a3a3fa7f03ea8c083",
+      "location": "New York, NY; Miami, FL; Houston, TX; Greenwich, CT",
+      "datePosted": 1793895114,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed0812ab48a70793820b0d",
+      "company": "Daiichi Sankyo",
+      "title": "Data Scientist and AI Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6aed0812ab48a70793820b0d",
+      "location": "Bernards, NJ",
+      "datePosted": 1793894340,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed0f06a2661405dc2c8db3",
+      "company": "BAE Systems",
+      "title": "Embedded Software Engineer Spring/Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aed0f06a2661405dc2c8db3",
+      "location": "Maple Grove, MN",
+      "datePosted": 1793893913,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed15bd465e3d23713845ee",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Systems [Summer 2027]",
+      "url": "https://jobright.ai/jobs/info/6aed15bd465e3d23713845ee",
+      "location": "Foster City, CA",
+      "datePosted": 1793893693,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed15bc465e3d23713845ec",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+      "url": "https://jobright.ai/jobs/info/6aed15bc465e3d23713845ec",
+      "location": "Foster City, CA",
+      "datePosted": 1793893692,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
+      "company": "Infosys",
+      "title": "Java Developer",
+      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
+      "location": "Bellevue, WA",
+      "datePosted": 1793893620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed15633a3fa7f03ea8bde1",
+      "company": "Netrolynx AI",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aed15633a3fa7f03ea8bde1",
+      "location": "United States",
+      "datePosted": 1793893603,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aeceeb2ab48a7079381fe01",
+      "company": "Nooks",
+      "title": "Software Engineer, Intern",
+      "url": "https://jobright.ai/jobs/info/6aeceeb2ab48a7079381fe01",
+      "location": "San Francisco, CA; Seattle, WA",
+      "datePosted": 1793893574,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aece54c465e3d2371382a17",
+      "company": "DBR",
+      "title": "Python Developer I",
+      "url": "https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
+      "location": "Houston, TX",
+      "datePosted": 1793893535,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed1432a9ea762a04094bbc",
+      "company": "SpaceX",
+      "title": "Site Reliability Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6aed1432a9ea762a04094bbc",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793893298,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aed1424a9ea762a04094baf",
       "company": "GALLO",
       "title": "Associate Platform Developer",
       "url": "https://jobright.ai/jobs/info/6aed1424a9ea762a04094baf",
       "location": "Modesto, CA",
       "datePosted": 1793893284,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed0fc9ab48a70793821075",
+      "company": "General Atomics",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6aed0fc9ab48a70793821075",
+      "location": "Poway, CA",
+      "datePosted": 1793892169,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -113,7 +234,7 @@
       "datePosted": 1793892159,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad9076267bec1d0d9c82370",
@@ -124,15 +245,15 @@
       "datePosted": 1793891534,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeceeb2ab48a7079381fe01",
-      "company": "Nooks",
-      "title": "Software Engineer, Intern",
-      "url": "https://jobright.ai/jobs/info/6aeceeb2ab48a7079381fe01",
-      "location": "San Francisco, CA; Seattle, WA",
-      "datePosted": 1793891348,
+      "id": "newgrad-jobs:6aeba7f1a0b134121d99ce77",
+      "company": "Vizient",
+      "title": "Associate Software Engineer (Hybrid)",
+      "url": "https://jobright.ai/jobs/info/6aeba7f1a0b134121d99ce77",
+      "location": "Irving, TX",
+      "datePosted": 1793891291,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -149,45 +270,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed0b6aab48a70793820d9d",
-      "company": "PROJXON",
-      "title": "Full Stack Engineer (Internship)",
-      "url": "https://jobright.ai/jobs/info/6aed0b6aab48a70793820d9d",
-      "location": "United States",
-      "datePosted": 1793891050,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aece54c465e3d2371382a17",
-      "company": "DBR",
-      "title": "Python Developer I",
-      "url": "https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
-      "location": "Houston, TX",
-      "datePosted": 1793891005,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aeceb7d3a3fa7f03ea8a6d6",
       "company": "IBM",
       "title": "ML/AI Engineer - Consultant",
       "url": "https://jobright.ai/jobs/info/6aeceb7d3a3fa7f03ea8a6d6",
       "location": "United States",
       "datePosted": 1793891001,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed0812ab48a70793820b0d",
-      "company": "Daiichi Sankyo",
-      "title": "Data Scientist and AI Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aed0812ab48a70793820b0d",
-      "location": "Bernards, NJ",
-      "datePosted": 1793890194,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -298,17 +386,6 @@
       "url": "https://jobright.ai/jobs/info/6ae1268b6679108488c416bc",
       "location": "Deerfield Beach, FL",
       "datePosted": 1793888528,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
-      "company": "Infosys",
-      "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
-      "location": "Bellevue, WA",
-      "datePosted": 1793888363,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -672,83 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6aea37f9440b469a1c0abcd9",
       "location": "San Mateo, CA",
       "datePosted": 1793878582,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa83600654b2a9424cfb529",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1793878582,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecd7c43a3fa7f03ea89b11",
-      "company": "Together AI",
-      "title": "Hardware Security Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aecd7c43a3fa7f03ea89b11",
-      "location": "San Francisco, CA",
-      "datePosted": 1793877828,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecd7aaa2661405dc2c6d61",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Sovereign AI Systems",
-      "url": "https://jobright.ai/jobs/info/6aecd7aaa2661405dc2c6d61",
-      "location": "New York, NY",
-      "datePosted": 1793877802,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecd78cab48a7079381efa0",
-      "company": "Trajectory",
-      "title": "Member of Technical Staff - Research Intern",
-      "url": "https://jobright.ai/jobs/info/6aecd78cab48a7079381efa0",
-      "location": "San Francisco, CA",
-      "datePosted": 1793877772,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecd747465e3d23713822f0",
-      "company": "SecondWind by Joveo",
-      "title": "Software Engineering Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6aecd747465e3d23713822f0",
-      "location": "United States; Canada; United Kingdom; Australia; New Zealand",
-      "datePosted": 1793877703,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a93b5283603630099198d89",
-      "company": "Eluvio",
-      "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
-      "url": "https://jobright.ai/jobs/info/6a93b5283603630099198d89",
-      "location": "Berkeley, CA",
-      "datePosted": 1793877639,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae83e85bad9293a40a44c07",
-      "company": "Snap Inc.",
-      "title": "2027 Generative Media Research Intern",
-      "url": "https://jobright.ai/jobs/info/6ae83e85bad9293a40a44c07",
-      "location": "Los Angeles, CA",
-      "datePosted": 1793877474,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
