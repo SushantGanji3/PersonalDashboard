@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T03:14:21Z",
-  "totalOpen": 1582,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-11-06T03:20:16Z",
+  "totalOpen": 1583,
+  "totalNewgrad": 242,
   "totalOther": 1341,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1793932597,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bfd495aa-8461-4455-8885-5db271cd1cc0",
@@ -47,7 +47,7 @@
       "datePosted": 1793932595,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
@@ -102,17 +102,6 @@
       "datePosted": 1793903717,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa3a9104233a2201a2b2b73",
-      "company": "Trihydro Corporation",
-      "title": "Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa3a9104233a2201a2b2b73",
-      "location": "Fort Collins, CO; Laramie, WY; Sheridan, WY",
-      "datePosted": 1793902508,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -770,6 +759,17 @@
       "title": "Software Engineer - Systems and Infrastructure",
       "url": "https://jobright.ai/jobs/info/6ad8f8ad67bec1d0d9c812a1",
       "location": "Mountain View, CA",
+      "datePosted": 1793880422,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (2027) - Austin, TX",
+      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
+      "location": "Austin, TX",
       "datePosted": 1793880422,
       "source": "newgrad-jobs",
       "season": null,
