@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:10:15Z",
+  "generatedAt": "2026-11-06T18:20:15Z",
   "totalOpen": 1567,
   "totalNewgrad": 238,
   "totalOther": 1329,
@@ -39,12 +39,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a50f292ae4052672fe9581d",
+      "company": "SpaceX",
+      "title": "Application Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a50f292ae4052672fe9581d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1793954882,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aedf639d20350c7a5076994",
       "company": "Paychex",
       "title": "Systems Engineer I",
       "url": "https://jobright.ai/jobs/info/6aedf639d20350c7a5076994",
       "location": "Webster, NY",
       "datePosted": 1793954731,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee00fac7498922fe0c666a",
+      "company": "Samsara",
+      "title": "Software Engineering Internship - San Francisco",
+      "url": "https://jobright.ai/jobs/info/6aee00fac7498922fe0c666a",
+      "location": "San Francisco, CA",
+      "datePosted": 1793954674,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -83,15 +105,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aee00fac7498922fe0c666a",
-      "company": "Samsara",
-      "title": "Software Engineering Internship - San Francisco",
-      "url": "https://jobright.ai/jobs/info/6aee00fac7498922fe0c666a",
-      "location": "San Francisco, CA",
-      "datePosted": 1793953980,
+      "id": "newgrad-jobs:6a9b9322fe45b8490f608970",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a9b9322fe45b8490f608970",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793954161,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad167383d3a5aa909b3a4cd",
@@ -105,15 +127,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9a5221fe45b8490f603859",
+      "id": "newgrad-jobs:6a989dff83fc633357632945",
       "company": "Shure",
       "title": "Cloud Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a9a5221fe45b8490f603859",
+      "url": "https://jobright.ai/jobs/info/6a989dff83fc633357632945",
       "location": "Niles, IL",
       "datePosted": 1793953773,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad1163d3d3a5aa909b37a37",
@@ -125,6 +147,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7d1c637c52154b59f5dfeb",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Manufacturing Systems",
+      "url": "https://jobright.ai/jobs/info/6a7d1c637c52154b59f5dfeb",
+      "location": "Hawthorne, CA",
+      "datePosted": 1793953026,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aedfba7caf8e660b87d90e3",
@@ -435,10 +468,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1793944256,
       "source": "newgrad-jobs",
@@ -661,39 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6aed78f3465e3d23713863eb",
       "location": "Bethpage, NY",
       "datePosted": 1793938036,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab46aabef911c35dffa52a6",
-      "company": "Qualcomm",
-      "title": "#5G/6G Modem Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ab46aabef911c35dffa52a6",
-      "location": "San Diego, CA",
-      "datePosted": 1793937805,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a984018def18223c854e3ec",
-      "company": "Intel",
-      "title": "Software Engineering - Intern, Bachelor\u2019s",
-      "url": "https://jobright.ai/jobs/info/6a984018def18223c854e3ec",
-      "location": "Hillsboro, OR; Folsom, CA; Santa Clara, CA; Austin, TX; Phoenix, AZ",
-      "datePosted": 1793937720,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adc9a689e3e874dbfba4b76",
-      "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6adc9a689e3e874dbfba4b76",
-      "location": "Brea, CA",
-      "datePosted": 1793936858,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
