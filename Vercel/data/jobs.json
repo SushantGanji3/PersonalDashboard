@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06T07:10:15Z",
-  "totalOpen": 1583,
-  "totalNewgrad": 246,
-  "totalOther": 1337,
+  "generatedAt": "2026-11-06T07:20:15Z",
+  "totalOpen": 1582,
+  "totalNewgrad": 247,
+  "totalOther": 1335,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -105,6 +105,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aed73bd964cd7c72a4fad64",
+      "company": "TikTok",
+      "title": "Research Engineer, Agentic Video Editing - TikTok",
+      "url": "https://jobright.ai/jobs/info/6aed73bd964cd7c72a4fad64",
+      "location": "San Jose, CA",
+      "datePosted": 1793917757,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed6eb9c3da5933b8136fd3",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "url": "https://jobright.ai/jobs/info/6aed6eb9c3da5933b8136fd3",
+      "location": "Redmond, WA",
+      "datePosted": 1793916473,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:59f6cfa9-54cc-419a-91fb-54b8d4c15197",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1jj",
+      "location": "Aurora, CO",
+      "datePosted": 1793916379,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aeb303365311d97105b64f5",
       "company": "Northrop Grumman",
       "title": "2027 DevOps Software Engineering Intern - Roy UT",
@@ -113,7 +146,7 @@
       "datePosted": 1793915597,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aeb3067a0b134121d9986c5",
@@ -124,7 +157,7 @@
       "datePosted": 1793915547,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aeb3023765815f7d745e1a3",
@@ -776,28 +809,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aecfa22a2661405dc2c822f",
-      "company": "Colony Brands, Inc.",
-      "title": "Data Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6aecfa22a2661405dc2c822f",
-      "location": "Monroe, WI",
-      "datePosted": 1793886626,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecb2ea465e3d2371380ae4",
-      "company": "Mastercard",
-      "title": "Site Reliability Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aecb2ea465e3d2371380ae4",
-      "location": "O'Fallon, MO",
-      "datePosted": 1793886384,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:c94d843b-6831-4906-8af6-9b2f52f8c06f",
       "company": "Susquehanna International Group",
       "title": "Software Developer - Core Order Management System - C++",
@@ -1161,17 +1172,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:92a80325-0afd-4f33-9c06-b87732f97b84",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1e6",
-      "location": "West Valley City, UT",
-      "datePosted": 1793734769,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:8f04aa66-6738-46ab-8325-413dfb18b24f",
       "company": "SpaceX",
       "title": "Propulsion Software Engineer, Falcon Engineering",
@@ -1235,17 +1235,6 @@
       "datePosted": 1793718516,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
-      "company": "Northrop Grumman",
-      "title": "Cyber Systems Engineer Intern",
-      "url": "https://go.vansh.nyc/1dD",
-      "location": "Roy, UT",
-      "datePosted": 1793716605,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     },
     {
@@ -1323,6 +1312,17 @@
       "datePosted": 1793664000,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:d0150e72-84f1-48a6-9bb0-510c59682678",
+      "company": "Dell",
+      "title": "Software Engineering Undergraduate Intern, CSG",
+      "url": "https://go.vansh.nyc/1dN",
+      "location": "United States",
+      "datePosted": 1793664000,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
