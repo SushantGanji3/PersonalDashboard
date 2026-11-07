@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T19:40:15Z",
-  "totalOpen": 1567,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-11-07T19:50:14Z",
+  "totalOpen": 1568,
+  "totalNewgrad": 234,
   "totalOther": 1334,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,17 @@
       "location": "New York, NY, Boston, MA",
       "datePosted": 1794057641,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee31f1e0c9de7b05f8c00a",
+      "company": "L3Harris",
+      "title": "Specialist, Software Engineering 1 1",
+      "url": "https://jobright.ai/jobs/info/6aee31f1e0c9de7b05f8c00a",
+      "location": "Salt Lake City, UT; Carlsbad, CA",
+      "datePosted": 1794048030,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -685,17 +696,6 @@
       "datePosted": 1794016413,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab58d58d85922de20ce1eea",
-      "company": "Atlassian",
-      "title": "Security Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6ab58d58d85922de20ce1eea",
-      "location": "Seattle, WA; San Francisco, CA",
-      "datePosted": 1794016364,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
