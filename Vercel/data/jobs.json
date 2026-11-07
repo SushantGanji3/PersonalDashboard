@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-11-07T11:40:16Z",
-  "totalOpen": 1568,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-11-07T11:50:15Z",
+  "totalOpen": 1569,
+  "totalNewgrad": 234,
   "totalOther": 1335,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a99c95213883870605905c9",
+      "company": "Torc Robotics",
+      "title": "Software Engineer, I - Data Engineering",
+      "url": "https://jobright.ai/jobs/info/6a99c95213883870605905c9",
+      "location": "United States",
+      "datePosted": 1794020397,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aef04610fe787d00ed19584",
+      "company": "UST",
+      "title": "Junior Full Stack Developer (Data CoE)",
+      "url": "https://jobright.ai/jobs/info/6aef04610fe787d00ed19584",
+      "location": "Atlanta, GA",
+      "datePosted": 1794020321,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab554724873fd3fd8528f5b",
+      "company": "Mill",
+      "title": "Computer Vision Intern, Fall/Winter 2026",
+      "url": "https://jobright.ai/jobs/info/6ab554724873fd3fd8528f5b",
+      "location": "San Bruno, CA",
+      "datePosted": 1794020131,
+      "source": "newgrad-jobs",
+      "season": "Winter 2026",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a965e6c4c22023a07939065",
+      "company": "K2 Space Corporation",
+      "title": "Software Engineering Intern \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a965e6c4c22023a07939065",
+      "location": "Torrance, CA",
+      "datePosted": 1794019830,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac7f02bfe8f33a85d4fe20d",
+      "company": "KAYAK",
+      "title": "Software Engineer, Ads (Backend)",
+      "url": "https://jobright.ai/jobs/info/6ac7f02bfe8f33a85d4fe20d",
+      "location": "Concord, MA; Cambridge, MA",
+      "datePosted": 1794019689,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:680cbf01-1662-4204-9638-55b49e07da7c",
       "company": "Zoox",
@@ -15,6 +70,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac7cc47fcdafb60c6a45cda",
+      "company": "Capgemini",
+      "title": "Lead Java Full Stack with React",
+      "url": "https://jobright.ai/jobs/info/6ac7cc47fcdafb60c6a45cda",
+      "location": "New York, NY",
+      "datePosted": 1794018975,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
+      "company": "Capgemini",
+      "title": "JOB ID 12239: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
+      "location": "Ashburn, VA",
+      "datePosted": 1794018949,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae8f7be061d6d7ff3d7f139",
+      "company": "NASA Jet Propulsion Laboratory",
+      "title": "Engineering Applications Software Engineer l",
+      "url": "https://jobright.ai/jobs/info/6ae8f7be061d6d7ff3d7f139",
+      "location": "Pasadena, CA",
+      "datePosted": 1794018457,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad3b2eef04335fc70ed9f10",
+      "company": "Planview",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad3b2eef04335fc70ed9f10",
+      "location": "United States",
+      "datePosted": 1794018359,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab56fb9d85922de20ce113b",
@@ -39,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeef56c9f8e479a8bcfb081",
-      "company": "UST",
-      "title": "Junior Full Stack Developer (Data CoE)",
-      "url": "https://jobright.ai/jobs/info/6aeef56c9f8e479a8bcfb081",
-      "location": "Frisco, TX",
-      "datePosted": 1794016492,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad28e79f04335fc70ed6323",
       "company": "UST",
       "title": "Software Engineer",
@@ -58,6 +146,17 @@
       "datePosted": 1794016413,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab58d58d85922de20ce1eea",
+      "company": "Atlassian",
+      "title": "Security Engineer Intern, 2027 Summer U.S.",
+      "url": "https://jobright.ai/jobs/info/6ab58d58d85922de20ce1eea",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1794016364,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -155,17 +254,6 @@
       "url": "https://jobright.ai/jobs/info/6ab6de6cd7fde2c08ec89e19",
       "location": "San Francisco, CA; Sunnyvale, CA; New York, NY; Seattle, WA",
       "datePosted": 1794013591,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab58d58d85922de20ce1eea",
-      "company": "Atlassian",
-      "title": "Security Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6ab58d58d85922de20ce1eea",
-      "location": "Seattle, WA; San Francisco, CA",
-      "datePosted": 1794013588,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -578,10 +666,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1793985985,
       "source": "newgrad-jobs",
@@ -749,94 +837,6 @@
       "url": "https://jobright.ai/jobs/info/6aee6116bd2f33eea72dbb08",
       "location": "San Jose, CA; Milpitas, CA; Durham, NC",
       "datePosted": 1793981274,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee206be0c9de7b05f8a91d",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Storage Systems/Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aee206be0c9de7b05f8a91d",
-      "location": "Andover, MA",
-      "datePosted": 1793980762,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aedf639d20350c7a5076994",
-      "company": "Paychex",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aedf639d20350c7a5076994",
-      "location": "Webster, NY",
-      "datePosted": 1793980630,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed1bc1ab48a707938214d2",
-      "company": "Citadel",
-      "title": "Software Engineer \u2013 Intern (US)",
-      "url": "https://jobright.ai/jobs/info/6aed1bc1ab48a707938214d2",
-      "location": "New York, NY; Miami, FL; Houston, TX; Greenwich, CT",
-      "datePosted": 1793980622,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee54e8bd2f33eea72dadcf",
-      "company": "Republic Finance",
-      "title": "React Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aee54e8bd2f33eea72dadcf",
-      "location": "Plano, TX",
-      "datePosted": 1793980617,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adbc2310a4cc7090f974930",
-      "company": "DoorDash",
-      "title": "Software Engineer, Intern - Labs (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6adbc2310a4cc7090f974930",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "datePosted": 1793980616,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed39aa3967d67f635a32be",
-      "company": "Spectrum",
-      "title": "2027 Summer Intern: Data Developer",
-      "url": "https://jobright.ai/jobs/info/6aed39aa3967d67f635a32be",
-      "location": "Greenwood Village, CO",
-      "datePosted": 1793980471,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace9d724f3229123da3d3a0",
-      "company": "ServiceNow",
-      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
-      "url": "https://jobright.ai/jobs/info/6ace9d724f3229123da3d3a0",
-      "location": "Santa Clara, CA; San Diego, CA; Kirkland, WA; West Palm Beach, FL",
-      "datePosted": 1793980065,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee66e2e0c9de7b05f8e9e5",
-      "company": "Hitachi Digital Services",
-      "title": "Full Stack Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aee66e2e0c9de7b05f8e9e5",
-      "location": "Dallas, TX",
-      "datePosted": 1793980002,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
