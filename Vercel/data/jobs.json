@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-11-07T00:00:21Z",
-  "totalOpen": 1581,
+  "generatedAt": "2026-11-07T00:10:15Z",
+  "totalOpen": 1595,
   "totalNewgrad": 254,
-  "totalOther": 1327,
+  "totalOther": 1341,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:8c8362c9-f137-4db2-bae1-421d4b24b60c",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - SI Reinforcement Learning",
+      "url": "https://www.tesla.com/careers/search/job/289240",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794008818,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
+      "company": "Tesla",
+      "title": "Associate Data Engineer - Manufacturing Planning Systems - Semi",
+      "url": "https://www.tesla.com/careers/search/job/289265",
+      "location": "Sparks, NV",
+      "datePosted": 1794008807,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:87e1f5e6-e654-4a3e-9613-a3d4a907216b",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Synthetic Data for Computer Use Agents",
+      "url": "https://www.metacareers.com/jobs/1667187061776108",
+      "location": "Menlo Park, CA",
+      "datePosted": 1794007688,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:96dafcaa-2476-4a84-96ac-a87e54927f0c",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - AI Agents and Machine Learning",
+      "url": "https://www.metacareers.com/jobs/1826604892017856",
+      "location": "Menlo Park, CA, Sunnyvale, CA",
+      "datePosted": 1794007671,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b129bf00-6769-4d00-8d81-c8e844b7adf3",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - AI Systems and Infrastructure",
+      "url": "https://www.metacareers.com/jobs/1750797606003820",
+      "location": "Menlo Park, CA, NYC",
+      "datePosted": 1794007670,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:d4373beb-9b94-4d3e-8145-7efff9fd8b79",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Robotics Foundation Models - Agentic RL",
+      "url": "https://www.metacareers.com/jobs/1414987577372371",
+      "location": "Menlo Park, CA",
+      "datePosted": 1794007668,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:91f8c203-61ee-41ea-9dfd-cb9d9f2a8e9b",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Generative AI & 3D Generation",
+      "url": "https://www.metacareers.com/jobs/1406087328180524",
+      "location": "Burlingame, CA",
+      "datePosted": 1794007666,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:350d28f8-5462-4813-9d81-b07550f1c3bd",
       "company": "Astranis",
@@ -59,6 +136,17 @@
       "source": "aggregator",
       "season": "Fall",
       "isNew": false
+    },
+    {
+      "id": "simplify:0a166f66-2d80-4495-b1b9-2706d5329ded",
+      "company": "Samsara",
+      "title": "Software Engineer Intern",
+      "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
+      "location": "SF",
+      "datePosted": 1793982589,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aee58d2caf8e660b87deca2",
@@ -798,6 +886,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:be4332c5-d83a-4a08-8665-0ca7425c43ad",
+      "company": "Notion",
+      "title": "Software Engineer Intern - iOS",
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:9da8ee81-7d41-47af-9cae-52f1be53bbcd",
+      "company": "Notion",
+      "title": "Software Engineer Intern - Frontend",
+      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:206ba36a-050c-448b-b880-2b4c5ab214d4",
       "company": "Charles Schwab",
       "title": "Associate Software Engineer",
@@ -818,6 +928,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:baa7db80-093c-476c-98be-1c4418831513",
+      "company": "RTX",
+      "title": "Software Security Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:179b5a71-bced-4789-b7f0-7c3c7424214c",
+      "company": "Wells Fargo",
+      "title": "Software Engineer",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Software-Engineer_R-586193-1",
+      "location": "Charlotte, NC, Irving, TX",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:58a39cbd-4604-4dae-9205-3b5ddd7f8b7a",
+      "company": "Chewy",
+      "title": "Software Engineer 1 - Full Stack - Promotions",
+      "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
+      "location": "Boston, MA",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
@@ -1180,149 +1323,6 @@
       "datePosted": 1793793413,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:75884364-ef47-417e-9213-db39cd22a5ba",
-      "company": "Etched",
-      "title": "IA Research Engineer Intern, Kernels",
-      "url": "https://go.vansh.nyc/1fS",
-      "location": "San Jose, CA",
-      "datePosted": 1793760428,
-      "source": "aggregator",
-      "season": "Spring",
-      "isNew": false
-    },
-    {
-      "id": "simplify:79477bc2-76a3-4678-90ed-8684e8e45c02",
-      "company": "Etched",
-      "title": "IA Research Engineer Intern - Kernels",
-      "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true",
-      "location": "San Jose, CA",
-      "datePosted": 1793750400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:85773b47-5ed9-48dd-abb9-1d1c91adb439",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Co-op Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329",
-      "location": "McClellan Park, CA",
-      "datePosted": 1793750400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c7693c27-b654-4f6b-a1aa-7437f09193c5",
-      "company": "Northrop Grumman",
-      "title": "Associate Embedded Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300",
-      "location": "Roy, UT",
-      "datePosted": 1793750400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:628318f8-ee8f-45d1-9737-0c3b6ca4a924",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - GenAI Safety",
-      "url": "https://www.metacareers.com/jobs/993713283787464",
-      "location": "SF, Menlo Park, CA",
-      "datePosted": 1793748264,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:305f85d5-4a7e-488b-849e-5804911af318",
-      "company": "American Express",
-      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
-      "location": "Phoenix, AZ",
-      "datePosted": 1793748143,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9276c377-0f8e-47c4-b813-b5d5be35a978",
-      "company": "Amazon",
-      "title": "Software Development Engineer \u2013 Early Career - Embedded Systems",
-      "url": "https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us",
-      "location": "Seattle, WA, Cupertino, CA, United States",
-      "datePosted": 1793747158,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c9942f0a-e3da-4b00-9ee2-be611a85daca",
-      "company": "Microsoft",
-      "title": "Data Scientist",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
-      "location": "Mountain View, CA",
-      "datePosted": 1793745192,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ad7ee672-286b-4929-9c20-6a5cdab58d98",
-      "company": "ServiceNow",
-      "title": "Software Engineer - Agent Eval Platform",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159509479",
-      "location": "Mountain View, CA",
-      "datePosted": 1793744959,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e8764904-db74-45be-ae45-a194c869f494",
-      "company": "Amazon",
-      "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
-      "url": "https://go.vansh.nyc/1ec",
-      "location": "Seattle, WA",
-      "datePosted": 1793736686,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8f04aa66-6738-46ab-8325-413dfb18b24f",
-      "company": "SpaceX",
-      "title": "Propulsion Software Engineer, Falcon Engineering",
-      "url": "https://go.vansh.nyc/1gU",
-      "location": "Hawthorne, CA",
-      "datePosted": 1793733736,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:aecc2da7-51c6-40b6-8c3d-2dbab1338249",
-      "company": "Microsoft",
-      "title": "Software Engineer Intern, Teamwork Experiences",
-      "url": "https://go.vansh.nyc/1dY",
-      "location": "Redmond, WA",
-      "datePosted": 1793732873,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:20eef2b5-2b76-436c-be94-9a14b28c9a90",
-      "company": "SambaNova",
-      "title": "Machine Learning Engineer New Grad",
-      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
-      "location": "Austin, TX, San Jose, CA",
-      "datePosted": 1793726490,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
