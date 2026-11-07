@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-07T17:20:16Z",
-  "totalOpen": 1563,
-  "totalNewgrad": 231,
-  "totalOther": 1332,
+  "generatedAt": "2026-11-07T17:30:16Z",
+  "totalOpen": 1565,
+  "totalNewgrad": 230,
+  "totalOther": 1335,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:2c0f0ca5-f8d1-44e1-99f9-ce7b7f79a736",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer",
+      "url": "https://go.vansh.nyc/1ml",
+      "location": "New York, NY, Boston, MA",
+      "datePosted": 1794057643,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:3e4fffc8-067c-46ed-95c4-0109aa3a557d",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Backend Leaning)",
+      "url": "https://go.vansh.nyc/1mm",
+      "location": "New York, NY, Boston, MA",
+      "datePosted": 1794057641,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac83bd551a1b3e4219f0eb2",
       "company": "RTX",
@@ -787,6 +809,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:cc160e77-55ac-4bdf-8ab7-31e78a8ee0bc",
+      "company": "Apple",
+      "title": "AI Operations, Applied AI Research and Design Developer",
+      "url": "https://go.vansh.nyc/1mi",
+      "location": "Cupertino, CA",
+      "datePosted": 1794001356,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aee6380bd2f33eea72dbc4e",
       "company": "Engine",
       "title": "Software Engineer - GTM Engineering",
@@ -1290,39 +1323,6 @@
       "datePosted": 1793836198,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:04e80c03-2cb1-479e-9bf5-067d57f8bfd3",
-      "company": "L3Harris",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors",
-      "location": "Nashville, TN",
-      "datePosted": 1793804868,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4f99432b-8328-4c8e-8953-21f6a3c0e46c",
-      "company": "L3Harris",
-      "title": "Associate, Software Engineer",
-      "url": "https://go.vansh.nyc/1gD",
-      "location": "Palm Bay, FL",
-      "datePosted": 1793804867,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:75884364-ef47-417e-9213-db39cd22a5ba",
-      "company": "Etched",
-      "title": "IA Research Engineer Intern, Kernels",
-      "url": "https://go.vansh.nyc/1fS",
-      "location": "San Jose, CA",
-      "datePosted": 1793760428,
-      "source": "aggregator",
-      "season": "Spring",
       "isNew": false
     }
   ]
