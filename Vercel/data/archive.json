@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:10:15Z",
+  "generatedAt": "2026-11-07T01:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -166,6 +166,50 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1794010215
+    },
+    {
+      "id": "newgrad-jobs:6aee29d65c81f621d3112c89",
+      "company": "ICF",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aee29d65c81f621d3112c89",
+      "location": "United States",
+      "datePosted": 1793982036,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794014416
+    },
+    {
+      "id": "newgrad-jobs:6aee6dcb5c81f621d3116741",
+      "company": "Maverick Power",
+      "title": "Junior Software Developer - Research and Development",
+      "url": "https://jobright.ai/jobs/info/6aee6dcb5c81f621d3116741",
+      "location": "Plano, TX",
+      "datePosted": 1793981771,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794014416
+    },
+    {
+      "id": "newgrad-jobs:6aee6cffcaf8e660b87df9b6",
+      "company": "Serrala",
+      "title": "Junior Site Reliability Engineer",
+      "url": "https://jobright.ai/jobs/info/6aee6cffcaf8e660b87df9b6",
+      "location": "United States; Canada",
+      "datePosted": 1793981567,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794014416
+    },
+    {
+      "id": "newgrad-jobs:6aee6cb4caf8e660b87df96b",
+      "company": "Netrolynx AI",
+      "title": "IOS Developer",
+      "url": "https://jobright.ai/jobs/info/6aee6cb4caf8e660b87df96b",
+      "location": "United States",
+      "datePosted": 1793981492,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794014416
     },
     {
       "id": "newgrad-jobs:6aed39aa3967d67f635a32be",
@@ -15158,17 +15202,6 @@
       "datePosted": 1791450861,
       "source": "aggregator",
       "season": "Summer",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:37c0ef9d-0888-48e6-b1a1-9c82e6a264c7",
-      "company": "TikTok",
-      "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph",
-      "url": "https://go.vansh.nyc/HR",
-      "location": "Seattle, WA",
-      "datePosted": 1791422026,
-      "source": "aggregator",
-      "season": null,
       "firstSeenAt": 1793826020
     }
   ]
