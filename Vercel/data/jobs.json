@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:40:15Z",
+  "generatedAt": "2026-11-08T12:50:15Z",
   "totalOpen": 1557,
   "totalNewgrad": 226,
   "totalOther": 1331,
@@ -14,7 +14,7 @@
       "datePosted": 1794110680,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af064279f8e479a8bd0018d",
@@ -25,7 +25,7 @@
       "datePosted": 1794110375,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af064237bf8e8b9eaf825be",
@@ -36,7 +36,7 @@
       "datePosted": 1794110371,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9a0343ad752e2ad55035bb",
@@ -45,6 +45,17 @@
       "url": "https://jobright.ai/jobs/info/6a9a0343ad752e2ad55035bb",
       "location": "San Mateo, CA",
       "datePosted": 1794110247,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9b5db99c24314c35f990bb",
+      "company": "Nuvo",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a9b5db99c24314c35f990bb",
+      "location": "San Francisco, CA; New York, NY",
+      "datePosted": 1794109878,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -149,15 +160,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9b40089c24314c35f988ca",
+      "id": "newgrad-jobs:6a9b153ed5ff1f3f1c39d933",
       "company": "CNH",
       "title": "Embedded Software Engineer Intern 1",
-      "url": "https://jobright.ai/jobs/info/6a9b40089c24314c35f988ca",
+      "url": "https://jobright.ai/jobs/info/6a9b153ed5ff1f3f1c39d933",
       "location": "New Holland, PA",
-      "datePosted": 1794099986,
+      "datePosted": 1794099985,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af03b4f0fe787d00ed1d8bb",
@@ -177,17 +188,6 @@
       "url": "https://jobright.ai/jobs/info/6a7f63d1927c79391ad08821",
       "location": "Chicago, IL",
       "datePosted": 1794099832,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9b3ff8fe45b8490f6079bf",
-      "company": "CNH",
-      "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a9b3ff8fe45b8490f6079bf",
-      "location": "Phoenix, AZ; Tempe, AZ",
-      "datePosted": 1794099780,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
