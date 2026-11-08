@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-08T13:30:18Z",
-  "totalOpen": 1556,
-  "totalNewgrad": 225,
+  "generatedAt": "2026-11-08T13:40:15Z",
+  "totalOpen": 1553,
+  "totalNewgrad": 222,
   "totalOther": 1331,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:683df139abb1ff44979fe7bb",
+      "company": "Neuralink",
+      "title": "Software Engineer, BCI Applications",
+      "url": "https://jobright.ai/jobs/info/683df139abb1ff44979fe7bb",
+      "location": "Fremont, CA",
+      "datePosted": 1794113626,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a626309846162391c935914",
       "company": "Appian",
@@ -611,45 +622,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a52c0efe726ec56126a450c",
-      "company": "SpaceX",
-      "title": "Software Infrastructure Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
-      "location": "Redmond, WA",
-      "datePosted": 1794042005,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7f55b1e2030208f276d2ce",
-      "company": "SpaceX",
-      "title": "Satellite On-Orbit Operations Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a7f55b1e2030208f276d2ce",
-      "location": "Redmond, WA",
-      "datePosted": 1794041843,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae027d70a4cc7090f985cba",
       "company": "York Space Systems",
       "title": "Flight Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6ae027d70a4cc7090f985cba",
       "location": "Greenwood Village, CO",
       "datePosted": 1794041219,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aef55889f8e479a8bcfc7a8",
-      "company": "Swisslog",
-      "title": "Software Engineer - Sustaining Engineering Job Details | KUKA Group",
-      "url": "https://jobright.ai/jobs/info/6aef55889f8e479a8bcfc7a8",
-      "location": "Denver, NY",
-      "datePosted": 1794041096,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -666,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a7cb9c4dc3dff2d1c0c8b48",
-      "company": "Amentum",
-      "title": "RTOS / VXWorks developer",
-      "url": "https://jobright.ai/jobs/info/6a7cb9c4dc3dff2d1c0c8b48",
-      "location": "Dahlgren, VA",
-      "datePosted": 1794040774,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aef6f260fe787d00ed1b1e0",
       "company": "Amazon",
       "title": "Software Development Engineer Intern/Co-Op, ROBOTICS - 2027",
@@ -685,6 +652,39 @@
       "datePosted": 1794040450,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a47509d971cd25b06f91b8b",
+      "company": "Obsidian Security",
+      "title": "Software Engineer - AI Security Product",
+      "url": "https://jobright.ai/jobs/info/6a47509d971cd25b06f91b8b",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794040425,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab5bc02b3db59402d0fecc2",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+      "url": "https://jobright.ai/jobs/info/6ab5bc02b3db59402d0fecc2",
+      "location": "Jessup, MD; Seattle, WA; Arlington, VA; Denver, CO",
+      "datePosted": 1794039910,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a99d46c90a313642c6530af",
+      "company": "Motorola Solutions",
+      "title": "Android Platform Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6a99d46c90a313642c6530af",
+      "location": "Plantation, FL; Schaumburg, IL",
+      "datePosted": 1794039640,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
