@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-09T01:20:16Z",
-  "totalOpen": 1560,
+  "generatedAt": "2026-11-09T01:30:17Z",
+  "totalOpen": 1563,
   "totalNewgrad": 225,
-  "totalOther": 1335,
+  "totalOther": 1338,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b4892726-cfe4-4939-9206-05b96357599e",
+      "company": "Shield AI",
+      "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
+      "url": "https://go.vansh.nyc/1nm",
+      "location": "Washington, DC",
+      "datePosted": 1794186872,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
       "company": "Shield AI",
@@ -15,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:f9985eb0-f56d-4d99-a3fc-db38c029e40a",
+      "company": "Shield AI",
+      "title": "New Grad 2027: Engineer 1 - Software - Perception",
+      "url": "https://go.vansh.nyc/1nl",
+      "location": "Washington, DC",
+      "datePosted": 1794179352,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af116a7676e3f91d3271493",
@@ -699,6 +721,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:4e07ad8d-5f10-42fe-9e01-a1faa5d071b1",
+      "company": "Shield AI",
+      "title": "New Grad 2027: Engineer I, Software - Autonomy Capabilities",
+      "url": "https://go.vansh.nyc/1nj",
+      "location": "Remote",
+      "datePosted": 1794096000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:2c0f0ca5-f8d1-44e1-99f9-ce7b7f79a736",
       "company": "ElevenLabs",
       "title": "Full-Stack Engineer",
@@ -1288,39 +1321,6 @@
       "url": "https://careers.cisco.com/global/en/job/2028784",
       "location": "Austin, TX",
       "datePosted": 1793844912,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c29dbe6b-db02-459e-a6eb-08709c520e08",
-      "company": "Cisco",
-      "title": "Software Engineer Full Stack / Backend I",
-      "url": "https://go.vansh.nyc/1hr",
-      "location": "Austin, TX",
-      "datePosted": 1793841666,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:5e01c887-e95d-4785-9a00-436d4da36038",
-      "company": "Shield AI",
-      "title": "Software Engineer Intern Co-op",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true",
-      "location": "Dallas, TX",
-      "datePosted": 1793836800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bac55bb0-5951-498b-9e5a-e62a2febea17",
-      "company": "RTX",
-      "title": "Systems Engineer 1 - Open Systems Solutions",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I_01887271",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1793836800,
       "source": "aggregator",
       "season": null,
       "isNew": false
