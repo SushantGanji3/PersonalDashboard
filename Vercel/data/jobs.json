@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-09T23:30:18Z",
-  "totalOpen": 1593,
-  "totalNewgrad": 258,
-  "totalOther": 1335,
+  "generatedAt": "2026-11-09T23:40:18Z",
+  "totalOpen": 1594,
+  "totalNewgrad": 255,
+  "totalOther": 1339,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:93dc8a39-b123-4a92-b9c8-10dc0b91ad3b",
+      "company": "Epic Games",
+      "title": "AI Programmer Intern",
+      "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
+      "location": "Cary, NC",
+      "datePosted": 1794265681,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:821ddc2d-4f85-430a-82eb-ab034f0ac3c9",
       "company": "Whoop",
@@ -37,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:3dbb6972-d6ac-421f-a585-0e73f702f92a",
+      "company": "Wolverine Trading",
+      "title": "C++ Software Engineer New Grad",
+      "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq",
+      "location": "Chicago, IL",
+      "datePosted": 1794242819,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:f15a2007-ee95-4196-a904-f041ce1406d1",
@@ -72,6 +94,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af24fb662fb9f5fcd896e7a",
+      "company": "Rocket Lab",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6af24fb662fb9f5fcd896e7a",
+      "location": "Pasadena, CA",
+      "datePosted": 1794236214,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:8fa2e7e6-1cd2-40bb-beef-79cc408d52ff",
       "company": "Cisco",
       "title": "Software Engineer Intern, Full-Stack / Backend I",
@@ -81,6 +114,50 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af21c251116f6f0a0765f46",
+      "company": "Visa",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af21c251116f6f0a0765f46",
+      "location": "Foster City, CA",
+      "datePosted": 1794236081,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af24d4c1aaffa49f7383c05",
+      "company": "ECM Tek, LLC",
+      "title": "Intern Developer - Python Development",
+      "url": "https://jobright.ai/jobs/info/6af24d4c1aaffa49f7383c05",
+      "location": "Nashville, TN",
+      "datePosted": 1794235596,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af22ed88cbcfef4a59d9fd7",
+      "company": "Reyes Beverage Group",
+      "title": "Application Developer - VIP",
+      "url": "https://jobright.ai/jobs/info/6af22ed88cbcfef4a59d9fd7",
+      "location": "Rosemont, IL",
+      "datePosted": 1794235309,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af24c001aaffa49f7383a4d",
+      "company": "Illumio",
+      "title": "Engineering Intern, SRE",
+      "url": "https://jobright.ai/jobs/info/6af24c001aaffa49f7383a4d",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794235264,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a95d646f28891320e85e544",
@@ -380,17 +457,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af21c251116f6f0a0765f46",
-      "company": "Visa",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af21c251116f6f0a0765f46",
-      "location": "Foster City, CA",
-      "datePosted": 1794232934,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a9e2d492c964816f65ebd76",
       "company": "IBM",
       "title": "Intern Data Engineer - Data Services - 2027",
@@ -655,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af238e28cbcfef4a59da71f",
-      "company": "Growth Mesh",
-      "title": "Programmer Analyst Intern",
-      "url": "https://jobright.ai/jobs/info/6af238e28cbcfef4a59da71f",
-      "location": "United States",
-      "datePosted": 1794230370,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af204c162fb9f5fcd892d70",
       "company": "Rubrik",
       "title": "Application Security Engineer",
@@ -710,39 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af2324c0cb834dad9324e2b",
-      "company": "Universal Leaf Tobacco Company",
-      "title": "AI Engineer I",
-      "url": "https://jobright.ai/jobs/info/6af2324c0cb834dad9324e2b",
-      "location": "Richmond, VA",
-      "datePosted": 1794228684,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf97c1065c4e77efaf9432",
-      "company": "Aquatic Capital Management",
-      "title": "Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6adf97c1065c4e77efaf9432",
-      "location": "Chicago, IL; New York, NY",
-      "datePosted": 1794228616,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2309c1116f6f0a07671a3",
-      "company": "Reyes Holdings",
-      "title": "Application Developer - VIP",
-      "url": "https://jobright.ai/jobs/info/6af2309c1116f6f0a07671a3",
-      "location": "Rosemont, IL",
-      "datePosted": 1794228252,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:b4892726-cfe4-4939-9206-05b96357599e",
       "company": "Shield AI",
       "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
@@ -774,6 +796,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:8311a236-895c-4bee-b40e-ed11cf6127e8",
+      "company": "Whoop",
+      "title": "Software Engineer 1 - Backend - Growth",
+      "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true",
+      "location": "Boston, MA",
+      "datePosted": 1794182400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
@@ -961,6 +994,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:3ab617a6-87c9-444b-9ee1-14921a74b0ae",
+      "company": "L3Harris",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.l3harris.com/job/Carlsbad-Specialist,-Software-Engineering-1-1-CA-92009/1448651700/?ats=successfactors",
+      "location": "Salt Lake City, UT, Carlsbad, CA",
+      "datePosted": 1794006630,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:350d28f8-5462-4813-9d81-b07550f1c3bd",
@@ -1277,50 +1321,6 @@
       "url": "https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false",
       "location": "Chicago, IL",
       "datePosted": 1793865154,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:59e8bcfa-d272-4908-b44c-ffb7fa90719a",
-      "company": "General Dynamics",
-      "title": "Software Engineering Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
-      "location": "Lakewood, OH",
-      "datePosted": 1793864887,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:31b390de-ce34-4df7-9935-808f52002862",
-      "company": "General Dynamics",
-      "title": "Systems Engineer Intern - FCS Auxiliary and Training Systems",
-      "url": "https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false",
-      "location": "Pittsfield, MA",
-      "datePosted": 1793864887,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e60dfb39-6279-46ca-9802-7328d053355a",
-      "company": "PayPal",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://paypal.eightfold.ai/careers/job/274922983149",
-      "location": "San Jose, CA",
-      "datePosted": 1793845832,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ce81bab2-f54c-4774-92ac-b82f7b0c9eb3",
-      "company": "PayPal",
-      "title": "Software Engineer Intern",
-      "url": "https://paypal.eightfold.ai/careers/job/274922982814",
-      "location": "Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ",
-      "datePosted": 1793845831,
       "source": "aggregator",
       "season": null,
       "isNew": false
