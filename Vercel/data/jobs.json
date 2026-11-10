@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:10:17Z",
+  "generatedAt": "2026-11-10T16:20:17Z",
   "totalOpen": 1591,
   "totalNewgrad": 250,
   "totalOther": 1341,
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad90a3a950ef68d5184d6e4",
+      "company": "Ascend Analytics",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad90a3a950ef68d5184d6e4",
+      "location": "Boulder, CO; Raleigh, NC",
+      "datePosted": 1794294595,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af3322580020ca3a89731ec",
@@ -419,17 +430,6 @@
       "url": "https://jobright.ai/jobs/info/6a9740adb22f636c81416f5d",
       "location": "New York, NY",
       "datePosted": 1794277611,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af250e10cb834dad93263a1",
-      "company": "Walker Advertising",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af250e10cb834dad93263a1",
-      "location": "United States",
-      "datePosted": 1794276941,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
