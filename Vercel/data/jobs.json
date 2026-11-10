@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10T22:40:16Z",
-  "totalOpen": 1582,
-  "totalNewgrad": 243,
-  "totalOther": 1339,
+  "generatedAt": "2026-11-10T22:50:19Z",
+  "totalOpen": 1577,
+  "totalNewgrad": 242,
+  "totalOther": 1335,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:7ae9c9a0-b81b-4b36-9b22-76b22a5547ff",
+      "company": "Skydio",
+      "title": "Middleware Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1s9",
+      "location": "San Mateo, CA",
+      "datePosted": 1794347533,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:cb297c7a-59d5-4986-9f29-2aebcf665141",
@@ -59,6 +70,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af391304ac248020e8d26c5",
+      "company": "Citizen Watch America",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af391304ac248020e8d26c5",
+      "location": "New York, NY",
+      "datePosted": 1794318512,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af34a597c81de7a524be02e",
@@ -754,17 +776,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa08252dbc0e60e37e0e299",
-      "company": "Garmin",
-      "title": "Software Engineer 1 (Android)",
-      "url": "https://jobright.ai/jobs/info/6aa08252dbc0e60e37e0e299",
-      "location": "Yarmouth, ME",
-      "datePosted": 1794298382,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:aa272dfa-e020-4bb3-91d2-1826def725c1",
       "company": "Morgan Stanley",
       "title": "Software Engineer Co-op, Parametric",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793932597,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:50cfd082-a01c-412b-9307-ccb67e4c5f8a",
-      "company": "Zoox",
-      "title": "Software Engineer Intern, Software Systems",
-      "url": "https://go.vansh.nyc/1jW",
-      "location": "Foster City, CA",
-      "datePosted": 1793932597,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
