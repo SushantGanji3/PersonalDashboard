@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-10T21:10:16Z",
+  "generatedAt": "2026-11-10T21:20:17Z",
   "totalOpen": 1581,
-  "totalNewgrad": 241,
-  "totalOther": 1340,
+  "totalNewgrad": 240,
+  "totalOther": 1341,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:cb297c7a-59d5-4986-9f29-2aebcf665141",
+      "company": "Anduril",
+      "title": "New Grad 2027: Information Security Engineer",
+      "url": "https://go.vansh.nyc/1s4",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1794344428,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
       "company": "Skydio",
@@ -39,6 +50,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a72091245b6af1c30dbc1e6",
+      "company": "AV",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a72091245b6af1c30dbc1e6",
+      "location": "Jessup, MD",
+      "datePosted": 1794312806,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af37ac080020ca3a8975f7b",
       "company": "Clayton County Water Authority",
       "title": "Data Engineer I",
@@ -47,7 +69,7 @@
       "datePosted": 1794312768,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3771df6053e296fc7cc62",
@@ -644,10 +666,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab31e3230340229a3231937",
+      "id": "newgrad-jobs:6aa08252dbc0e60e37e0e299",
       "company": "Garmin",
       "title": "Software Engineer 1 (Android)",
-      "url": "https://jobright.ai/jobs/info/6ab31e3230340229a3231937",
+      "url": "https://jobright.ai/jobs/info/6aa08252dbc0e60e37e0e299",
       "location": "Yarmouth, ME",
       "datePosted": 1794298382,
       "source": "newgrad-jobs",
@@ -727,17 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6a9485d1d18f75674827f6e2",
       "location": "Annapolis Junction, MD",
       "datePosted": 1794292519,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af32a9d4ac248020e8ce47e",
-      "company": "Lumbermen's Inc.",
-      "title": "Software Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6af32a9d4ac248020e8ce47e",
-      "location": "Grand Rapids, MI",
-      "datePosted": 1794292253,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1793932595,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fe252f01-13cf-4442-a65c-d32b8fe94a3e",
-      "company": "Zoox",
-      "title": "Software Engineer Intern, Software Platforms & Product",
-      "url": "https://go.vansh.nyc/1jV",
-      "location": "Foster City, CA",
-      "datePosted": 1793932595,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
