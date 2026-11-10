@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T10:40:17Z",
-  "totalOpen": 1597,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-11-10T10:50:16Z",
+  "totalOpen": 1596,
+  "totalNewgrad": 253,
   "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794305830,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:aa272dfa-e020-4bb3-91d2-1826def725c1",
@@ -26,6 +26,61 @@
       "source": "aggregator",
       "season": "Spring",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acd0d11002e496d4bef03f5",
+      "company": "Databricks",
+      "title": "Software Engineering Intern (2027)",
+      "url": "https://jobright.ai/jobs/info/6acd0d11002e496d4bef03f5",
+      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, BC",
+      "datePosted": 1794276641,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af2ed9e7666e3c5fb716164",
+      "company": "ION",
+      "title": "Developer",
+      "url": "https://jobright.ai/jobs/info/6af2ed9e7666e3c5fb716164",
+      "location": "Jersey City, NJ",
+      "datePosted": 1794276638,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad695de950ef68d5183b772",
+      "company": "Netflix",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad695de950ef68d5183b772",
+      "location": "Los Gatos, CA; Los Angeles, CA",
+      "datePosted": 1794275959,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a755424c95371686f9b824c",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Foundation Platform) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a755424c95371686f9b824c",
+      "location": "San Jose, CA",
+      "datePosted": 1794275855,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abaadc3ad8589219ef7ea1f",
+      "company": "RTX",
+      "title": "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abaadc3ad8589219ef7ea1f",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1794275773,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af29f666d2bd34f89adba8d",
@@ -202,6 +257,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af2e9ca80020ca3a89715ea",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6af2e9ca80020ca3a89715ea",
+      "location": "Bellevue, WA; Overland Park, KS",
+      "datePosted": 1794264817,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af23a830cb834dad9325351",
@@ -644,17 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af268fe1aaffa49f73846d1",
-      "company": "T-Mobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6af268fe1aaffa49f73846d1",
-      "location": "Bellevue, WA",
-      "datePosted": 1794242686,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aee62a6bd2f33eea72dbc0b",
       "company": "T-Mobile",
       "title": "Summer 2027 Software Engineer HR Data Products Internship",
@@ -771,61 +826,6 @@
       "url": "https://jobright.ai/jobs/info/6af2309d62fb9f5fcd8958ca",
       "location": "Maine, United States",
       "datePosted": 1794239079,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af25a2d0cb834dad9326700",
-      "company": "CACI International Inc",
-      "title": "Junior Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af25a2d0cb834dad9326700",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1794238893,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af252448cbcfef4a59db977",
-      "company": "Kyndryl",
-      "title": "Early Career Consult Program - Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af252448cbcfef4a59db977",
-      "location": "Frisco, TX",
-      "datePosted": 1794238465,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af24c001aaffa49f7383a4d",
-      "company": "Illumio",
-      "title": "Engineering Intern, SRE",
-      "url": "https://jobright.ai/jobs/info/6af24c001aaffa49f7383a4d",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794238461,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a836c871081a745e970f16f",
-      "company": "Xantium",
-      "title": "Quantitative Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a836c871081a745e970f16f",
-      "location": "New York, NY; London, England",
-      "datePosted": 1794238170,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1f7ac0cb834dad9321835",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6af1f7ac0cb834dad9321835",
-      "location": "Goleta, CA",
-      "datePosted": 1794238034,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
