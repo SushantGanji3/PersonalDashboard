@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10T08:10:18Z",
+  "generatedAt": "2026-11-10T08:20:19Z",
   "totalOpen": 1600,
-  "totalNewgrad": 258,
-  "totalOther": 1342,
+  "totalNewgrad": 257,
+  "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Spring",
       "isNew": false
+    },
+    {
+      "id": "simplify:5b8e4ad0-e54a-4c77-94c1-09f70c16e127",
+      "company": "Cursor",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1qa",
+      "location": "San Francisco, CA",
+      "datePosted": 1794273212,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:bdd3a0f8-3d9c-4fba-9550-fba440691018",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply",
       "location": "Seattle, WA, Washington, DC, Dallas, TX, San Diego, CA",
       "datePosted": 1793920091,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:02f41834-2a2e-4964-8780-2ad1148d6a18",
-      "company": "Amazon",
-      "title": "Software Development Engineer \u2013 Early Career",
-      "url": "https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us",
-      "location": "Redmond, WA",
-      "datePosted": 1793920000,
       "source": "aggregator",
       "season": null,
       "isNew": false
