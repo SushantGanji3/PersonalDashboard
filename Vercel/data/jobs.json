@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T21:20:17Z",
-  "totalOpen": 1581,
-  "totalNewgrad": 240,
+  "generatedAt": "2026-11-10T21:27:05Z",
+  "totalOpen": 1584,
+  "totalNewgrad": 243,
   "totalOther": 1341,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794344428,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
@@ -50,6 +50,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a9718c6f5337b2cf731ff94",
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6a9718c6f5337b2cf731ff94",
+      "location": "San Francisco, CA",
+      "datePosted": 1794314744,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af37db480020ca3a8976196",
+      "company": "Axon",
+      "title": "AfroTech 2026 Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6af37db480020ca3a8976196",
+      "location": "Seattle, WA; Boston, MA",
+      "datePosted": 1794313524,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a72091245b6af1c30dbc1e6",
       "company": "AV",
       "title": "Junior Software Engineer",
@@ -58,7 +80,7 @@
       "datePosted": 1794312806,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af37ac080020ca3a8975f7b",
@@ -354,6 +376,17 @@
       "location": "Palo Alto, CA",
       "datePosted": 1794305830,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac67d564ac55253f5d7a693",
+      "company": "Leonardo DRS",
+      "title": "Systems Engineer Intern Job Details | Leonardo DRS, Inc.",
+      "url": "https://jobright.ai/jobs/info/6ac67d564ac55253f5d7a693",
+      "location": "Bridgeton, MO",
+      "datePosted": 1794305327,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -677,6 +710,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af37ba9769e9374033c6b72",
+      "company": "Hunt Oil Company",
+      "title": "Application Developer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6af37ba9769e9374033c6b72",
+      "location": "Dallas, TX",
+      "datePosted": 1794297994,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af33e907c81de7a524bd6ea",
       "company": "Veolia",
       "title": "Manufacturing Software Engineer Intern",
@@ -705,50 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6ad90a3a950ef68d5184d6e4",
       "location": "Boulder, CO; Raleigh, NC",
       "datePosted": 1794294595,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aba83dfd2914e9273eebb1d",
-      "company": "Indiana Farm Bureau Insurance",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aba83dfd2914e9273eebb1d",
-      "location": "Indianapolis, IN",
-      "datePosted": 1794294245,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3322580020ca3a89731ec",
-      "company": "Veolia | Water Tech",
-      "title": "Manufacturing Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af3322580020ca3a89731ec",
-      "location": "Boulder, CO",
-      "datePosted": 1794294181,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5b579ac8e3a473cb8afcc4",
-      "company": "Peraton",
-      "title": "Cloud Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6a5b579ac8e3a473cb8afcc4",
-      "location": "Fort Meade, MD",
-      "datePosted": 1794292895,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9485d1d18f75674827f6e2",
-      "company": "BigBear.ai",
-      "title": "Jr. Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a9485d1d18f75674827f6e2",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1794292519,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
