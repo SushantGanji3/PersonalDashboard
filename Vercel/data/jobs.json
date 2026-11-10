@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T20:40:15Z",
-  "totalOpen": 1582,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-11-10T20:50:17Z",
+  "totalOpen": 1585,
+  "totalNewgrad": 245,
   "totalOther": 1340,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -37,6 +37,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af37345f6053e296fc7ca7d",
+      "company": "Brilliant Infotech Inc.",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6af37345f6053e296fc7ca7d",
+      "location": "Edison, NJ",
+      "datePosted": 1794310853,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6af249b50cb834dad9325c2d",
       "location": "New York, NY",
       "datePosted": 1794291100,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3249a10c7aed77861756e",
-      "company": "B4Corp",
-      "title": "812298 Software Engineer $280,000.00",
-      "url": "https://jobright.ai/jobs/info/6af3249a10c7aed77861756e",
-      "location": "Chantilly, VA",
-      "datePosted": 1794290714,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
