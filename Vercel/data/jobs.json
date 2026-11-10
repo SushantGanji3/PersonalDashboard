@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T11:00:19Z",
-  "totalOpen": 1596,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-11-10T11:10:16Z",
+  "totalOpen": 1595,
+  "totalNewgrad": 252,
   "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,26 +28,92 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acd0d11002e496d4bef03f5",
-      "company": "Databricks",
-      "title": "Software Engineering Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6acd0d11002e496d4bef03f5",
-      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, BC",
-      "datePosted": 1794276641,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af2ed9e7666e3c5fb716164",
       "company": "ION",
       "title": "Developer",
       "url": "https://jobright.ai/jobs/info/6af2ed9e7666e3c5fb716164",
       "location": "Jersey City, NJ",
-      "datePosted": 1794276638,
+      "datePosted": 1794278845,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af21c468cbcfef4a59d8eb5",
+      "company": "Synchrony",
+      "title": "API Software Development Engineer - I",
+      "url": "https://jobright.ai/jobs/info/6af21c468cbcfef4a59d8eb5",
+      "location": "United States",
+      "datePosted": 1794277920,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acd0d11002e496d4bef03f5",
+      "company": "Databricks",
+      "title": "Software Engineering Intern (2027)",
+      "url": "https://jobright.ai/jobs/info/6acd0d11002e496d4bef03f5",
+      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, BC",
+      "datePosted": 1794277744,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9740adb22f636c81416f5d",
+      "company": "Eulerity",
+      "title": "Backend Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6a9740adb22f636c81416f5d",
+      "location": "New York, NY",
+      "datePosted": 1794277611,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af250e10cb834dad93263a1",
+      "company": "Walker Advertising",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af250e10cb834dad93263a1",
+      "location": "United States",
+      "datePosted": 1794276941,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad66a8967bec1d0d9c6eb68",
+      "company": "Amplify",
+      "title": "Summer 2027: Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ad66a8967bec1d0d9c6eb68",
+      "location": "United States",
+      "datePosted": 1794276798,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ad694d2e4b94611ab840542",
+      "company": "Patreon",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542",
+      "location": "New York, NY; San Francisco, CA",
+      "datePosted": 1794276765,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abac1eb1acb8fc6f09c15dc",
+      "company": "Watts Water Technologies",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc",
+      "location": "Blauvelt, NY",
+      "datePosted": 1794276624,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad695de950ef68d5183b772",
@@ -191,6 +257,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
+      "company": "Cursor",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
+      "location": "Palo Alto, CA, SF, NYC",
+      "datePosted": 1794268800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:bdf95c3c-92e8-478f-b997-6d325dd7a0e8",
@@ -430,17 +507,6 @@
       "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
       "location": "New York, NY",
       "datePosted": 1794254511,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af250e10cb834dad93263a1",
-      "company": "Walker Advertising",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af250e10cb834dad93263a1",
-      "location": "United States",
-      "datePosted": 1794254508,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -765,28 +831,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af283f3f1ee406a27fde06e",
-      "company": "Multi Media, LLC",
-      "title": "Software Engineer I/II",
-      "url": "https://jobright.ai/jobs/info/6af283f3f1ee406a27fde06e",
-      "location": "United States",
-      "datePosted": 1794240000,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af25c591aaffa49f738425c",
-      "company": "FormFactor Inc.",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af25c591aaffa49f738425c",
-      "location": "Livermore, CA",
-      "datePosted": 1794239907,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:bcbd3d91-e2a7-446f-ae18-f25df3395228",
       "company": "Comcast",
       "title": "Data, AI & Machine Learning Intern, Media Tech",
@@ -795,39 +839,6 @@
       "datePosted": 1794239714,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af25bc6905985ccaa40c0d7",
-      "company": "Pivotal",
-      "title": "Internship, Software Engineering (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6af25bc6905985ccaa40c0d7",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794239302,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2416d8cbcfef4a59dac02",
-      "company": "Mercury Insurance",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6af2416d8cbcfef4a59dac02",
-      "location": "United States",
-      "datePosted": 1794239184,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2309d62fb9f5fcd8958ca",
-      "company": "WEX",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af2309d62fb9f5fcd8958ca",
-      "location": "Maine, United States",
-      "datePosted": 1794239079,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
       "location": "Boston, MA",
       "datePosted": 1793923200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:911a94f7-eed7-475d-8816-a0b3b9dbfb40",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Sovereign AI Systems",
-      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply",
-      "location": "NYC",
-      "datePosted": 1793922079,
       "source": "aggregator",
       "season": null,
       "isNew": false
