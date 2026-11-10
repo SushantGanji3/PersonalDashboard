@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-10T18:40:17Z",
-  "totalOpen": 1590,
+  "generatedAt": "2026-11-10T18:50:20Z",
+  "totalOpen": 1591,
   "totalNewgrad": 251,
-  "totalOther": 1339,
+  "totalOther": 1340,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
+      "company": "Skydio",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1rH",
+      "location": "San Mateo, CA",
+      "datePosted": 1794334344,
+      "source": "aggregator",
+      "season": "Winter",
+      "isNew": true
+    },
     {
       "id": "simplify:5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
       "company": "Palantir",
@@ -61,6 +72,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af35776f6053e296fc7b9dd",
+      "company": "Consumer Cellular, Inc.",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6af35776f6053e296fc7b9dd",
+      "location": "Scottsdale, AZ",
+      "datePosted": 1794304163,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
+      "company": "Infosys",
+      "title": "Java Developer",
+      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
+      "location": "Bellevue, WA",
+      "datePosted": 1794303987,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ad649213dc655658d8e41de",
       "company": "eClerx",
       "title": "Software Engineer",
@@ -78,6 +111,17 @@
       "url": "https://jobright.ai/jobs/info/6af34363f6053e296fc7a9d5",
       "location": "Sterling, VA",
       "datePosted": 1794302930,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae83e99bad9293a40a44c1c",
+      "company": "PayPal",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae83e99bad9293a40a44c1c",
+      "location": "San Jose, CA; Scottsdale, AZ",
+      "datePosted": 1794302786,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -105,15 +149,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeba7f1a0b134121d99ce77",
+      "id": "newgrad-jobs:6af34bb8f6053e296fc7b14f",
       "company": "Vizient",
       "title": "Associate Software Engineer (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6aeba7f1a0b134121d99ce77",
+      "url": "https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f",
       "location": "Irving, TX",
       "datePosted": 1794301785,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af34fb880020ca3a897462a",
@@ -191,6 +235,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af34fad10c7aed7786193d1",
+      "company": "Jabil",
+      "title": "AI Agent Developer Intern (Supply Chain IT - AI & Enablement)",
+      "url": "https://jobright.ai/jobs/info/6af34fad10c7aed7786193d1",
+      "location": "St. Petersburg, FL; Tampa, FL",
+      "datePosted": 1794300544,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
@@ -512,10 +567,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1794285268,
       "source": "newgrad-jobs",
@@ -633,10 +688,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af248851aaffa49f73835e4",
+      "id": "newgrad-jobs:6af25a2d0cb834dad9326700",
       "company": "CACI International Inc",
       "title": "Junior Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af248851aaffa49f73835e4",
+      "url": "https://jobright.ai/jobs/info/6af25a2d0cb834dad9326700",
       "location": "Colorado Springs, CO",
       "datePosted": 1794280519,
       "source": "newgrad-jobs",
@@ -685,50 +740,6 @@
       "datePosted": 1794278579,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acd0d11002e496d4bef03f5",
-      "company": "Databricks",
-      "title": "Software Engineering Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6acd0d11002e496d4bef03f5",
-      "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, BC",
-      "datePosted": 1794278560,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9740adb22f636c81416f5d",
-      "company": "Eulerity",
-      "title": "Backend Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6a9740adb22f636c81416f5d",
-      "location": "New York, NY",
-      "datePosted": 1794277611,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad66a8967bec1d0d9c6eb68",
-      "company": "Amplify",
-      "title": "Summer 2027: Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ad66a8967bec1d0d9c6eb68",
-      "location": "United States",
-      "datePosted": 1794276798,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad694d2e4b94611ab840542",
-      "company": "Patreon",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542",
-      "location": "New York, NY; San Francisco, CA",
-      "datePosted": 1794276765,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1312,17 +1323,6 @@
       "datePosted": 1793932595,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:be4332c5-d83a-4a08-8665-0ca7425c43ad",
-      "company": "Notion",
-      "title": "Software Engineer Intern - iOS",
-      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1793923200,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
