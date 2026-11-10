@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10T03:10:15Z",
-  "totalOpen": 1604,
+  "generatedAt": "2026-11-10T03:20:16Z",
+  "totalOpen": 1605,
   "totalNewgrad": 261,
-  "totalOther": 1343,
+  "totalOther": 1344,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:bdf95c3c-92e8-478f-b997-6d325dd7a0e8",
+      "company": "Pika",
+      "title": "Applied AI Engineer Intern, Creative Experiences",
+      "url": "https://go.vansh.nyc/1pR",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794268800,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
@@ -1312,17 +1323,6 @@
       "datePosted": 1793919996,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:59f6cfa9-54cc-419a-91fb-54b8d4c15197",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1jj",
-      "location": "Aurora, CO",
-      "datePosted": 1793916379,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
