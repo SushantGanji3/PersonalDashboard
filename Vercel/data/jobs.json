@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T19:10:20Z",
-  "totalOpen": 1589,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-11-10T19:20:16Z",
+  "totalOpen": 1588,
+  "totalNewgrad": 249,
   "totalOther": 1339,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -600,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1794285268,
       "source": "newgrad-jobs",
@@ -837,17 +837,6 @@
       "url": "https://go.vansh.nyc/1pe",
       "location": "Boston, MA",
       "datePosted": 1794256008,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8f1a3e3b-9081-4212-8c51-544821eaafe6",
-      "company": "Adobe",
-      "title": "New Grad 2027: Data Engineer",
-      "url": "https://go.vansh.nyc/1p4",
-      "location": "San Jose, CA",
-      "datePosted": 1794251695,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1323,6 +1312,17 @@
       "datePosted": 1793932595,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:be4332c5-d83a-4a08-8665-0ca7425c43ad",
+      "company": "Notion",
+      "title": "Software Engineer Intern - iOS",
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true",
+      "location": "NYC",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
