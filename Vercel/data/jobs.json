@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T12:10:17Z",
-  "totalOpen": 1599,
-  "totalNewgrad": 256,
+  "generatedAt": "2026-11-10T12:20:16Z",
+  "totalOpen": 1598,
+  "totalNewgrad": 255,
   "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -61,17 +61,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af2fe7b80020ca3a8971d26",
-      "company": "Teledyne Brown Engineering",
-      "title": "NHRC Software Engineering Internship (Summer 2027) with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6af2fe7b80020ca3a8971d26",
-      "location": "Huntsville, AL",
-      "datePosted": 1794280955,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6af2fe7580020ca3a8971d23",
       "company": "Reqpedia",
       "title": "Software Engineer",
@@ -80,7 +69,7 @@
       "datePosted": 1794280949,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af25a2d0cb834dad9326700",
@@ -102,7 +91,7 @@
       "datePosted": 1794280222,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad69b5052aa6152bb6971e3",
@@ -124,7 +113,7 @@
       "datePosted": 1794278944,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af2ed9e7666e3c5fb716164",
@@ -837,6 +826,17 @@
       "url": "https://jobright.ai/jobs/info/6af2708d1116f6f0a07693c2",
       "location": "San Francisco, CA",
       "datePosted": 1794244621,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af200e51aaffa49f737fac8",
+      "company": "UiPath",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6af200e51aaffa49f737fac8",
+      "location": "Bellevue, WA",
+      "datePosted": 1794243391,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
