@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T08:50:17Z",
-  "totalOpen": 1597,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-11-10T09:00:19Z",
+  "totalOpen": 1598,
+  "totalNewgrad": 255,
   "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,6 +47,28 @@
       "datePosted": 1794268800,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af2cc1f56fd115cb6941796",
+      "company": "Torentify",
+      "title": "Python Developer",
+      "url": "https://jobright.ai/jobs/info/6af2cc1f56fd115cb6941796",
+      "location": "United States",
+      "datePosted": 1794268063,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af29f666d2bd34f89adba8d",
+      "company": "Duly Health and Care",
+      "title": "Data Engineer I",
+      "url": "https://jobright.ai/jobs/info/6af29f666d2bd34f89adba8d",
+      "location": "Downers Grove, IL",
+      "datePosted": 1794267929,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -100,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6af23a830cb834dad9325351",
       "location": "United States",
       "datePosted": 1794261270,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af29f666d2bd34f89adba8d",
-      "company": "Duly Health and Care",
-      "title": "Data Engineer I",
-      "url": "https://jobright.ai/jobs/info/6af29f666d2bd34f89adba8d",
-      "location": "Downers Grove, IL",
-      "datePosted": 1794261265,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -815,17 +826,6 @@
       "url": "https://jobright.ai/jobs/info/6a95d65b9fcec5442372f84c",
       "location": "San Francisco, CA",
       "datePosted": 1794235072,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95d646cabc9f6703e1a495",
-      "company": "HP IQ",
-      "title": "Software Engineering Intern, AML Platform (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a95d646cabc9f6703e1a495",
-      "location": "San Francisco, CA",
-      "datePosted": 1794235065,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
