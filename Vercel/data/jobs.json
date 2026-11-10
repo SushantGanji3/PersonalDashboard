@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T12:20:16Z",
-  "totalOpen": 1598,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-11-10T12:30:20Z",
+  "totalOpen": 1599,
+  "totalNewgrad": 256,
   "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -58,6 +58,17 @@
       "datePosted": 1794283631,
       "source": "aggregator",
       "season": "Spring",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af2fe7b80020ca3a8971d26",
+      "company": "Teledyne Brown Engineering",
+      "title": "NHRC Software Engineering Internship (Summer 2027) with Security Clearance",
+      "url": "https://jobright.ai/jobs/info/6af2fe7b80020ca3a8971d26",
+      "location": "Huntsville, AL",
+      "datePosted": 1794280955,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -826,17 +837,6 @@
       "url": "https://jobright.ai/jobs/info/6af2708d1116f6f0a07693c2",
       "location": "San Francisco, CA",
       "datePosted": 1794244621,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af200e51aaffa49f737fac8",
-      "company": "UiPath",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af200e51aaffa49f737fac8",
-      "location": "Bellevue, WA",
-      "datePosted": 1794243391,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
