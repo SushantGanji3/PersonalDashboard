@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T03:20:16Z",
-  "totalOpen": 1605,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-11-10T03:30:16Z",
+  "totalOpen": 1606,
+  "totalNewgrad": 262,
   "totalOther": 1344,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1794268800,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
@@ -79,6 +79,50 @@
       "location": "San Jose, CA",
       "datePosted": 1794251695,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af280f76d2bd34f89adb187",
+      "company": "Pika",
+      "title": "Applied AI Engineer, Creative Experiences",
+      "url": "https://jobright.ai/jobs/info/6af280f76d2bd34f89adb187",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794248823,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af250e10cb834dad93263a1",
+      "company": "Walker Advertising",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af250e10cb834dad93263a1",
+      "location": "United States",
+      "datePosted": 1794248661,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1794248659,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af21c251116f6f0a0765f46",
+      "company": "Visa",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af21c251116f6f0a0765f46",
+      "location": "Foster City, CA",
+      "datePosted": 1794248658,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -204,17 +248,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af21c251116f6f0a0765f46",
-      "company": "Visa",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af21c251116f6f0a0765f46",
-      "location": "Foster City, CA",
-      "datePosted": 1794247372,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af257f21116f6f0a0768aa5",
       "company": "ASML",
       "title": "Internship-Co-Op: AI Engineer",
@@ -287,28 +320,6 @@
       "url": "https://jobright.ai/jobs/info/6af2708d1116f6f0a07693c2",
       "location": "San Francisco, CA",
       "datePosted": 1794244621,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af250e10cb834dad93263a1",
-      "company": "Walker Advertising",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af250e10cb834dad93263a1",
-      "location": "United States",
-      "datePosted": 1794243401,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1794243393,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -793,17 +804,6 @@
       "url": "https://jobright.ai/jobs/info/6af1f9a18cbcfef4a59d6eaa",
       "location": "San Jose, CA; Austin, TX; Durham, NC",
       "datePosted": 1794233392,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2447a905985ccaa40b27d",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship -  Applied AI Engineering",
-      "url": "https://jobright.ai/jobs/info/6af2447a905985ccaa40b27d",
-      "location": "Austin, TX",
-      "datePosted": 1794233338,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
