@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-10T22:00:20Z",
-  "totalOpen": 1578,
-  "totalNewgrad": 240,
-  "totalOther": 1338,
+  "generatedAt": "2026-11-10T22:10:18Z",
+  "totalOpen": 1580,
+  "totalNewgrad": 241,
+  "totalOther": 1339,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:bafc9090-b9c7-4bef-a0be-926faf866497",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
+      "url": "https://go.vansh.nyc/1s7",
+      "location": "San Jose, CA",
+      "datePosted": 1794348356,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:cb297c7a-59d5-4986-9f29-2aebcf665141",
       "company": "Anduril",
@@ -50,6 +61,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af34a597c81de7a524be02e",
+      "company": "Palantir",
+      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "url": "https://jobright.ai/jobs/info/6af34a597c81de7a524be02e",
+      "location": "Denver, CO; New York, NY",
+      "datePosted": 1794318203,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af38afc4ac248020e8d2396",
+      "company": "University of South Florida",
+      "title": "IAE Software Engineering Internship \u2013 Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6af38afc4ac248020e8d2396",
+      "location": "Tampa, FL",
+      "datePosted": 1794316924,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af387644ac248020e8d218a",
       "company": "Elevated Web Design",
       "title": "GTM Software Engineering Internship",
@@ -58,7 +91,7 @@
       "datePosted": 1794316004,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af384ba769e9374033c73e4",
@@ -69,7 +102,7 @@
       "datePosted": 1794315322,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af38420769e9374033c7375",
@@ -80,7 +113,7 @@
       "datePosted": 1794315168,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a9718c6f5337b2cf731ff94",
@@ -336,15 +369,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af2f76ef6053e296fc78848",
+      "id": "newgrad-jobs:6af2f170e2f8101c3d5bd188",
       "company": "7-Eleven",
       "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af2f76ef6053e296fc78848",
+      "url": "https://jobright.ai/jobs/info/6af2f170e2f8101c3d5bd188",
       "location": "Irving, TX",
       "datePosted": 1794307300,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af36551f6053e296fc7bff9",
@@ -375,17 +408,6 @@
       "url": "https://jobright.ai/jobs/info/6aee31f1e0c9de7b05f8c00a",
       "location": "Salt Lake City, UT; Carlsbad, CA",
       "datePosted": 1794306446,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34a597c81de7a524be02e",
-      "company": "Palantir",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
-      "url": "https://jobright.ai/jobs/info/6af34a597c81de7a524be02e",
-      "location": "Denver, CO; New York, NY",
-      "datePosted": 1794306380,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -740,17 +762,6 @@
       "datePosted": 1794298382,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af37ba9769e9374033c6b72",
-      "company": "Hunt Oil Company",
-      "title": "Application Developer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af37ba9769e9374033c6b72",
-      "location": "Dallas, TX",
-      "datePosted": 1794297994,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1312,17 +1323,6 @@
       "datePosted": 1793932597,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:bfd495aa-8461-4455-8885-5db271cd1cc0",
-      "company": "Zoox",
-      "title": "Software Engineer Intern - Software Platforms & Product",
-      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply",
-      "location": "Foster City, CA",
-      "datePosted": 1793932595,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
