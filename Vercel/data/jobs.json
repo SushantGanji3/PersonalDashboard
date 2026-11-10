@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-10T17:10:16Z",
-  "totalOpen": 1585,
-  "totalNewgrad": 244,
-  "totalOther": 1341,
+  "generatedAt": "2026-11-10T17:20:18Z",
+  "totalOpen": 1588,
+  "totalNewgrad": 246,
+  "totalOther": 1342,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
+      "company": "Palantir",
+      "title": "Software Engineer Intern, Connectivity Platform and Product",
+      "url": "https://go.vansh.nyc/1rs",
+      "location": "Denver, CO",
+      "datePosted": 1794329291,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:fb423ebc-8446-4ede-a5d2-7142d03e548f",
       "company": "SambaNova",
@@ -46,6 +57,39 @@
       "location": "Palo Alto, CA",
       "datePosted": 1794305830,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
+      "location": "New York, NY",
+      "datePosted": 1794300380,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a900e320bd89e205d24861b",
+      "company": "Palantir",
+      "title": "Information Security Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a900e320bd89e205d24861b",
+      "location": "New York, NY",
+      "datePosted": 1794300374,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a519afc02522b5b722e911f",
+      "company": "Inversion",
+      "title": "Autonomy Engineer I, Arc Vehicle",
+      "url": "https://jobright.ai/jobs/info/6a519afc02522b5b722e911f",
+      "location": "Los Angeles, CA",
+      "datePosted": 1794298820,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -292,10 +336,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1794285268,
       "source": "newgrad-jobs",
@@ -771,39 +815,6 @@
       "url": "https://jobright.ai/jobs/info/6af259341aaffa49f738414d",
       "location": "San Mateo, CA",
       "datePosted": 1794261264,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2b0c16d2bd34f89adbed1",
-      "company": "Georgia Institute of Technology",
-      "title": "Research Info Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af2b0c16d2bd34f89adbed1",
-      "location": "Atlanta, GA",
-      "datePosted": 1794261057,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2696b1116f6f0a07690af",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6af2696b1116f6f0a07690af",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1794259724,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af273410cb834dad932701f",
-      "company": "Regions Bank",
-      "title": "Software Engineer - Risk Systems",
-      "url": "https://jobright.ai/jobs/info/6af273410cb834dad932701f",
-      "location": "Hoover, AL; Charlotte, NC; Atlanta, GA",
-      "datePosted": 1794259338,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1308,17 +1319,6 @@
       "company": "Notion",
       "title": "Software Engineer Intern - iOS",
       "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1793923200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9da8ee81-7d41-47af-9cae-52f1be53bbcd",
-      "company": "Notion",
-      "title": "Software Engineer Intern - Frontend",
-      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true",
       "location": "NYC",
       "datePosted": 1793923200,
       "source": "aggregator",
