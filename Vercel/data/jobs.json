@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:40:17Z",
+  "generatedAt": "2026-11-10T02:50:16Z",
   "totalOpen": 1605,
   "totalNewgrad": 262,
   "totalOther": 1343,
@@ -14,7 +14,7 @@
       "datePosted": 1794268800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
@@ -116,6 +116,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a557daaae07d60a8d0119c6",
+      "location": "Seattle, WA",
+      "datePosted": 1794247657,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ad6afaa52aa6152bb697c18",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Query Engines",
@@ -146,7 +157,7 @@
       "datePosted": 1794247593,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5312428576ec69c014e7de",
@@ -168,7 +179,29 @@
       "datePosted": 1794247544,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af27b4f8cbcfef4a59dc640",
+      "company": "B4Corp",
+      "title": "812246 Software Engineer $300,000.00",
+      "url": "https://jobright.ai/jobs/info/6af27b4f8cbcfef4a59dc640",
+      "location": "Dulles, VA",
+      "datePosted": 1794247375,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af21c251116f6f0a0765f46",
+      "company": "Visa",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af21c251116f6f0a0765f46",
+      "location": "Foster City, CA",
+      "datePosted": 1794247372,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af257f21116f6f0a0768aa5",
@@ -201,7 +234,7 @@
       "datePosted": 1794245388,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af270a90cb834dad9326f54",
@@ -325,17 +358,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af21c251116f6f0a0765f46",
-      "company": "Visa",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af21c251116f6f0a0765f46",
-      "location": "Foster City, CA",
-      "datePosted": 1794242616,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af268ac1116f6f0a0769031",
       "company": "T-Mobile",
       "title": "Summer 2027 Software Engineer HR Data Products Internship",
@@ -378,6 +400,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af27d2fc1c5e295b30f7620",
+      "company": "SLAS (Society for Laboratory Automation and Screening)",
+      "title": "Research Scientist I, Attribute Sciences Computational Biology, AI &amp; Scientific Informatics",
+      "url": "https://jobright.ai/jobs/info/6af27d2fc1c5e295b30f7620",
+      "location": "Santa Monica, CA",
+      "datePosted": 1794240590,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af220161116f6f0a07664eb",
@@ -578,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af22ea862fb9f5fcd8956d7",
+      "id": "newgrad-jobs:6af22ed88cbcfef4a59d9fd7",
       "company": "Reyes Beverage Group",
       "title": "Application Developer - VIP",
-      "url": "https://jobright.ai/jobs/info/6af22ea862fb9f5fcd8956d7",
+      "url": "https://jobright.ai/jobs/info/6af22ed88cbcfef4a59d9fd7",
       "location": "Rosemont, IL",
       "datePosted": 1794235309,
       "source": "newgrad-jobs",
@@ -762,39 +795,6 @@
       "datePosted": 1794233338,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab6cb6a39fd8792cb73c19e",
-      "company": "Roblox",
-      "title": "Software Engineer, GenAI Platform",
-      "url": "https://jobright.ai/jobs/info/6ab6cb6a39fd8792cb73c19e",
-      "location": "San Mateo, CA",
-      "datePosted": 1794233183,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a984018def18223c854e3ec",
-      "company": "Intel",
-      "title": "Software Engineering - Intern, Bachelor\u2019s",
-      "url": "https://jobright.ai/jobs/info/6a984018def18223c854e3ec",
-      "location": "Hillsboro, OR; Folsom, CA; Santa Clara, CA; Austin, TX; Phoenix, AZ",
-      "datePosted": 1794233183,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af116a09f8e479a8bd021ce",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Finance Programs (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6af116a09f8e479a8bd021ce",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794233183,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
