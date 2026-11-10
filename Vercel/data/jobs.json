@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T08:40:17Z",
-  "totalOpen": 1600,
-  "totalNewgrad": 257,
+  "generatedAt": "2026-11-10T08:50:17Z",
+  "totalOpen": 1597,
+  "totalNewgrad": 254,
   "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,6 +47,17 @@
       "datePosted": 1794268800,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1794267927,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -111,17 +122,6 @@
       "url": "https://jobright.ai/jobs/info/6af259341aaffa49f738414d",
       "location": "San Mateo, CA",
       "datePosted": 1794261264,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1794261257,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
