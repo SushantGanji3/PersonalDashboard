@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-10T00:00:20Z",
-  "totalOpen": 1594,
-  "totalNewgrad": 255,
-  "totalOther": 1339,
+  "generatedAt": "2026-11-10T00:10:16Z",
+  "totalOpen": 1602,
+  "totalNewgrad": 254,
+  "totalOther": 1348,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
+      "company": "Microsoft",
+      "title": "Software Engineering",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557039397",
+      "location": "Redmond, WA",
+      "datePosted": 1794267493,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:90b5d92f-64d7-4ce9-a653-023885a5846a",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Computational Photography & Computer Vision",
+      "url": "https://www.metacareers.com/jobs/1670489511324528",
+      "location": "Redmond, WA",
+      "datePosted": 1794267352,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:93dc8a39-b123-4a92-b9c8-10dc0b91ad3b",
       "company": "Epic Games",
@@ -353,17 +375,6 @@
       "url": "https://jobright.ai/jobs/info/6af2447a905985ccaa40b27d",
       "location": "Austin, TX",
       "datePosted": 1794233338,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2442c905985ccaa40b25c",
-      "company": "Microsoft",
-      "title": "Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6af2442c905985ccaa40b25c",
-      "location": "Redmond, WA",
-      "datePosted": 1794233260,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -765,6 +776,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af2324c0cb834dad9324e2b",
+      "company": "Universal Leaf Tobacco Company",
+      "title": "AI Engineer I",
+      "url": "https://jobright.ai/jobs/info/6af2324c0cb834dad9324e2b",
+      "location": "Richmond, VA",
+      "datePosted": 1794228684,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:b4892726-cfe4-4939-9206-05b96357599e",
       "company": "Shield AI",
       "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
@@ -807,6 +829,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:90eba3b6-ee58-462c-9160-be4761e299c0",
+      "company": "Northrop Grumman",
+      "title": "Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762",
+      "location": "San Antonio, TX",
+      "datePosted": 1794182400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
@@ -1205,6 +1238,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:179b5a71-bced-4789-b7f0-7c3c7424214c",
+      "company": "Wells Fargo",
+      "title": "Software Engineer",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Software-Engineer_R-586193-1",
+      "location": "Charlotte, NC, Irving, TX",
+      "datePosted": 1793923200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:58a39cbd-4604-4dae-9205-3b5ddd7f8b7a",
       "company": "Chewy",
       "title": "Software Engineer 1 - Full Stack - Promotions",
@@ -1279,50 +1323,6 @@
       "datePosted": 1793903717,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:d546770e-dd2e-464d-9989-c0e2490d38f6",
-      "company": "Amazon",
-      "title": "New Grad 2027: Software Development Engineer, Amazon Leo",
-      "url": "https://go.vansh.nyc/1iP",
-      "location": "Redmond, WA",
-      "datePosted": 1793900437,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1346f02d-6ff9-4c77-965d-5e7067f3e79b",
-      "company": "Shield AI",
-      "title": "Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/1iN",
-      "location": "Dallas, TX, Washington, DC, Seattle, WA, San Diego, CA",
-      "datePosted": 1793898866,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:3ba67c9a-ba35-4cbe-8778-1f8db0f17d9a",
-      "company": "RTX",
-      "title": "Systems Security Engineer Intern",
-      "url": "https://go.vansh.nyc/1iL",
-      "location": "Tewksbury, MA",
-      "datePosted": 1793896336,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:c94d843b-6831-4906-8af6-9b2f52f8c06f",
-      "company": "Susquehanna International Group",
-      "title": "Software Developer - Core Order Management System - C++",
-      "url": "https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false",
-      "location": "Chicago, IL",
-      "datePosted": 1793865154,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
