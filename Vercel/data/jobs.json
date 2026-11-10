@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T18:50:20Z",
-  "totalOpen": 1591,
-  "totalNewgrad": 251,
+  "generatedAt": "2026-11-10T19:00:19Z",
+  "totalOpen": 1590,
+  "totalNewgrad": 250,
   "totalOther": 1340,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794334344,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
@@ -72,6 +72,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af35a4c7c81de7a524beba0",
+      "company": "T-Mobile",
+      "title": "Summer 2027 T-Ads Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6af35a4c7c81de7a524beba0",
+      "location": "Philadelphia, PA",
+      "datePosted": 1794304460,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af359ea10c7aed778619997",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Site Reliability Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6af359ea10c7aed778619997",
+      "location": "Atlanta, GA; Frisco, TX",
+      "datePosted": 1794304362,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af35776f6053e296fc7b9dd",
       "company": "Consumer Cellular, Inc.",
       "title": "AI Engineer",
@@ -80,7 +102,7 @@
       "datePosted": 1794304163,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aed00ebab48a707938206bf",
@@ -92,6 +114,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abad46ad2914e9273eed8ec",
+      "company": "Boehringer Ingelheim",
+      "title": "Scientific Software Engineering Co-Op - Computational Chemistry & Spectroscopy",
+      "url": "https://jobright.ai/jobs/info/6abad46ad2914e9273eed8ec",
+      "location": "Ridgefield, CT",
+      "datePosted": 1794303587,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad649213dc655658d8e41de",
@@ -157,7 +190,7 @@
       "datePosted": 1794301785,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af34fb880020ca3a897462a",
@@ -245,7 +278,7 @@
       "datePosted": 1794300544,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
@@ -699,45 +732,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8d00ba2a252e219429a9e",
+      "id": "newgrad-jobs:6ad655fe950ef68d51838aa1",
       "company": "Garmin",
       "title": "Cyber Security Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae8d00ba2a252e219429a9e",
+      "url": "https://jobright.ai/jobs/info/6ad655fe950ef68d51838aa1",
       "location": "Olathe, KS",
       "datePosted": 1794280222,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab301f7326574570a0046b8",
-      "company": "MatX",
-      "title": "Software Engineer, AI Tooling",
-      "url": "https://jobright.ai/jobs/info/6ab301f7326574570a0046b8",
-      "location": "Mountain View, CA",
-      "datePosted": 1794278944,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2ed9e7666e3c5fb716164",
-      "company": "ION",
-      "title": "Developer",
-      "url": "https://jobright.ai/jobs/info/6af2ed9e7666e3c5fb716164",
-      "location": "Jersey City, NJ",
-      "datePosted": 1794278845,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af21c468cbcfef4a59d8eb5",
-      "company": "Synchrony",
-      "title": "API Software Development Engineer - I",
-      "url": "https://jobright.ai/jobs/info/6af21c468cbcfef4a59d8eb5",
-      "location": "United States",
-      "datePosted": 1794278579,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
