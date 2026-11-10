@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-10T02:30:18Z",
-  "totalOpen": 1598,
-  "totalNewgrad": 254,
-  "totalOther": 1344,
+  "generatedAt": "2026-11-10T02:40:17Z",
+  "totalOpen": 1605,
+  "totalNewgrad": 262,
+  "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:bdd3a0f8-3d9c-4fba-9550-fba440691018",
+      "company": "Pika",
+      "title": "Applied AI Engineer Intern - Creative Experiences",
+      "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794268800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
       "company": "Microsoft",
@@ -72,6 +83,127 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
+      "company": "Palantir",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
+      "location": "New York, NY",
+      "datePosted": 1794247795,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a53f3128576ec69c0151779",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a53f3128576ec69c0151779",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794247794,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a42d0df6a9c2774b3fa7686",
+      "company": "Palantir",
+      "title": "Privacy and Civil Liberties Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a42d0df6a9c2774b3fa7686",
+      "location": "New York, NY",
+      "datePosted": 1794247791,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad6afaa52aa6152bb697c18",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Query Engines",
+      "url": "https://jobright.ai/jobs/info/6ad6afaa52aa6152bb697c18",
+      "location": "New York, NY",
+      "datePosted": 1794247654,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecd7aaa2661405dc2c6d61",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobright.ai/jobs/info/6aecd7aaa2661405dc2c6d61",
+      "location": "New York, NY",
+      "datePosted": 1794247618,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a51c8bfae4052672fe9acff",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Defense Tech",
+      "url": "https://jobright.ai/jobs/info/6a51c8bfae4052672fe9acff",
+      "location": "New York, NY; Palo Alto, CA; Washington, DC",
+      "datePosted": 1794247593,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
+      "location": "New York, NY",
+      "datePosted": 1794247592,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a50aa075165966a1161a9b2",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a50aa075165966a1161a9b2",
+      "location": "New York, NY; Seattle, WA",
+      "datePosted": 1794247544,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af257f21116f6f0a0768aa5",
+      "company": "ASML",
+      "title": "Internship-Co-Op: AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6af257f21116f6f0a0768aa5",
+      "location": "San Diego, CA",
+      "datePosted": 1794247312,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af258061116f6f0a0768ab3",
+      "company": "ASML",
+      "title": "Internship- Co-Op: AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6af258061116f6f0a0768ab3",
+      "location": "San Diego, CA",
+      "datePosted": 1794247287,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac41543064da25272e111f5",
+      "company": "Bobyard",
+      "title": "Computer Vision Research Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ac41543064da25272e111f5",
+      "location": "San Francisco, CA",
+      "datePosted": 1794245388,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af270a90cb834dad9326f54",
       "company": "Tesla",
       "title": "Internship, Software Engineering, People Products (Summer 2027)",
@@ -116,17 +248,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af257f21116f6f0a0768aa5",
-      "company": "ASML",
-      "title": "Internship-Co-Op: AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6af257f21116f6f0a0768aa5",
-      "location": "San Diego, CA",
-      "datePosted": 1794243881,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af250e10cb834dad93263a1",
       "company": "Walker Advertising",
       "title": "Data Engineer",
@@ -160,17 +281,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af258061116f6f0a0768ab3",
-      "company": "ASML",
-      "title": "Internship- Co-Op: AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6af258061116f6f0a0768ab3",
-      "location": "San Diego, CA",
-      "datePosted": 1794243338,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af26b6e905985ccaa40c68e",
       "company": "Tiposi",
       "title": "Software Engineer \u2014 Device Software Support (Associate / Junior)",
@@ -179,6 +289,17 @@
       "datePosted": 1794243310,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af244d98cbcfef4a59dadfc",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6af244d98cbcfef4a59dadfc",
+      "location": "Boston, MA; Austin, TX; Seattle, WA; Arlington, VA; Denver, CO; Phoenix, AZ; Tempe, AZ; Berkeley, CA; Culver City, CA; Cupertino, CA; East Palo Alto, CA; Hawthorne, CA; Irvine, CA; Los Gatos, CA; Los Angeles, CA; Manhattan Beach, CA; Mountain View, CA; Palo Alto, CA; Pasadena, CA; San Diego, CA; San Francisco, CA; San Jose, CA; San Luis Obispo, CA; Santa Barbara, CA; Santa Clara, CA; Santa Cruz, CA; Santa Monica, CA; Sunnyvale, CA; Boulder, CO; Atlanta, GA; Kennesaw, GA; Chicago, IL; Cambridge, MA; Hudson, MA; North Reading, MA; Westborough, MA; Annapolis Junction, MD; Baltimore, MD; Detroit, MI; Minneapolis, MN; Raleigh, NC; Jersey City, NJ; Newark, NJ; New York, NY; Portland, OR; Philadelphia, PA; Pittsburgh, PA; Nashville, TN; Carrollton, TX; Dallas, TX; Irving, TX; Herndon, VA; Madison, WI; Bellevue, WA; Redmond, WA",
+      "datePosted": 1794242994,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -232,17 +353,6 @@
       "url": "https://jobright.ai/jobs/info/6af21722905985ccaa4085ad",
       "location": "La Vista, NE; Omaha, NE",
       "datePosted": 1794242299,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af244d98cbcfef4a59dadfc",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af244d98cbcfef4a59dadfc",
-      "location": "Boston, MA; Austin, TX; Seattle, WA; Arlington, VA; Denver, CO; Phoenix, AZ; Tempe, AZ; Berkeley, CA; Culver City, CA; Cupertino, CA; East Palo Alto, CA; Hawthorne, CA; Irvine, CA; Los Gatos, CA; Los Angeles, CA; Manhattan Beach, CA; Mountain View, CA; Palo Alto, CA; Pasadena, CA; San Diego, CA; San Francisco, CA; San Jose, CA; San Luis Obispo, CA; Santa Barbara, CA; Santa Clara, CA; Santa Cruz, CA; Santa Monica, CA; Sunnyvale, CA; Boulder, CO; Atlanta, GA; Kennesaw, GA; Chicago, IL; Cambridge, MA; Hudson, MA; North Reading, MA; Westborough, MA; Annapolis Junction, MD; Baltimore, MD; Detroit, MI; Minneapolis, MN; Raleigh, NC; Jersey City, NJ; Newark, NJ; New York, NY; Portland, OR; Philadelphia, PA; Pittsburgh, PA; Nashville, TN; Carrollton, TX; Dallas, TX; Irving, TX; Herndon, VA; Madison, WI; Bellevue, WA; Redmond, WA",
-      "datePosted": 1794241525,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -683,105 +793,6 @@
       "url": "https://jobright.ai/jobs/info/6af116a09f8e479a8bd021ce",
       "location": "Palo Alto, CA",
       "datePosted": 1794233183,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1169b0fe787d00ed20198",
-      "company": "Tesla",
-      "title": "Internship, SI Software Engineer, Core Infrastructure (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6af1169b0fe787d00ed20198",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794233183,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af243d70cb834dad93258d5",
-      "company": "aspectLED",
-      "title": "Shopify Frontend Developer",
-      "url": "https://jobright.ai/jobs/info/6af243d70cb834dad93258d5",
-      "location": "White Bear Lake, MN; Saint Paul, MN",
-      "datePosted": 1794233175,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee588ccaf8e660b87dec46",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI II (Full Time) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6aee588ccaf8e660b87dec46",
-      "location": "San Jose, CA; Carlsbad, CA; Durham, NC; San Francisco, CA; Seattle, WA",
-      "datePosted": 1794233013,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee6116bd2f33eea72dbb08",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems I (Full Time) - United States",
-      "url": "https://jobright.ai/jobs/info/6aee6116bd2f33eea72dbb08",
-      "location": "San Jose, CA; Milpitas, CA; Durham, NC",
-      "datePosted": 1794233013,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a9e2d492c964816f65ebd76",
-      "company": "IBM",
-      "title": "Intern Data Engineer - Data Services - 2027",
-      "url": "https://jobright.ai/jobs/info/6a9e2d492c964816f65ebd76",
-      "location": "Monroe, LA",
-      "datePosted": 1794232934,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
-      "company": "Figma",
-      "title": "Data Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1794232934,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
-      "company": "Meta AI",
-      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6abaac6cee0b348be729ad33",
-      "location": "Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1794232934,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
-      "company": "Atlassian",
-      "title": "Data Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
-      "location": "Seattle, WA",
-      "datePosted": 1794232934,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae3edb6eab1f967309782de",
-      "company": "Tesla",
-      "title": "Internship, Data Engineer, Energy (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6ae3edb6eab1f967309782de",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794232934,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1jj",
       "location": "Aurora, CO",
       "datePosted": 1793916379,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:15fa9474-f3bf-465f-9aef-20f746c86a5f",
-      "company": "Palantir",
-      "title": "Software Engineer Intern, Sovereign AI Systems",
-      "url": "https://go.vansh.nyc/1j0",
-      "location": "New York, NY",
-      "datePosted": 1793903717,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
