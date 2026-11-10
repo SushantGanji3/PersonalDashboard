@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-10T11:10:16Z",
-  "totalOpen": 1595,
+  "generatedAt": "2026-11-10T11:20:17Z",
+  "totalOpen": 1596,
   "totalNewgrad": 252,
-  "totalOther": 1343,
+  "totalOther": 1344,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:fb423ebc-8446-4ede-a5d2-7142d03e548f",
+      "company": "SambaNova",
+      "title": "New Grad: Cloud Platform Engineer",
+      "url": "https://go.vansh.nyc/1qj",
+      "location": "Austin, TX, San Jose, CA",
+      "datePosted": 1794309161,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:bfeb1b0f-cfff-49ae-9e46-beab7029bbe4",
+      "company": "SambaNova",
+      "title": "New Grad: Machine Learning Engineer",
+      "url": "https://go.vansh.nyc/1qm",
+      "location": "Austin, TX, San Jose, CA",
+      "datePosted": 1794309161,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:7f0254fe-9c00-438d-a6d2-293fb21c6dc4",
+      "company": "SambaNova",
+      "title": "New Grad: ML Infrastructure Engineer",
+      "url": "https://go.vansh.nyc/1qn",
+      "location": "Austin, TX, San Jose, CA",
+      "datePosted": 1794309161,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:e6830c63-857b-4f03-83ac-bb0149515d2d",
       "company": "Tesla",
@@ -47,7 +80,7 @@
       "datePosted": 1794277920,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acd0d11002e496d4bef03f5",
@@ -69,7 +102,7 @@
       "datePosted": 1794277611,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af250e10cb834dad93263a1",
@@ -91,7 +124,7 @@
       "datePosted": 1794276798,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad694d2e4b94611ab840542",
@@ -102,7 +135,7 @@
       "datePosted": 1794276765,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abac1eb1acb8fc6f09c15dc",
@@ -113,7 +146,7 @@
       "datePosted": 1794276624,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad695de950ef68d5183b772",
@@ -267,7 +300,7 @@
       "datePosted": 1794268800,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bdf95c3c-92e8-478f-b997-6d325dd7a0e8",
@@ -279,6 +312,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:62b968b8-7ea5-492d-8e8a-bb4fe3a0e949",
+      "company": "Waymo",
+      "title": "Software Engineer Intern, Multiverse",
+      "url": "https://go.vansh.nyc/1qh",
+      "location": "San Francisco, CA",
+      "datePosted": 1794268461,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af2cc1f56fd115cb6941796",
@@ -1276,50 +1320,6 @@
       "title": "Software Engineer Intern - iOS",
       "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true",
       "location": "NYC",
-      "datePosted": 1793923200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9da8ee81-7d41-47af-9cae-52f1be53bbcd",
-      "company": "Notion",
-      "title": "Software Engineer Intern - Frontend",
-      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true",
-      "location": "NYC",
-      "datePosted": 1793923200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:6ec3eae2-325c-4d6b-9eed-6f8044285aa2",
-      "company": "Charles Schwab",
-      "title": "Junior Software Developer",
-      "url": "https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false",
-      "location": "Austin, TX, Omaha, NE",
-      "datePosted": 1793923200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:179b5a71-bced-4789-b7f0-7c3c7424214c",
-      "company": "Wells Fargo",
-      "title": "Software Engineer",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Software-Engineer_R-586193-1",
-      "location": "Charlotte, NC, Irving, TX",
-      "datePosted": 1793923200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:58a39cbd-4604-4dae-9205-3b5ddd7f8b7a",
-      "company": "Chewy",
-      "title": "Software Engineer 1 - Full Stack - Promotions",
-      "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
-      "location": "Boston, MA",
       "datePosted": 1793923200,
       "source": "aggregator",
       "season": null,
