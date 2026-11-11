@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:00:19Z",
+  "generatedAt": "2026-11-11T11:10:15Z",
   "totalOpen": 1537,
   "totalNewgrad": 192,
   "totalOther": 1345,
@@ -254,6 +254,17 @@
       "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply",
       "location": "NYC",
       "datePosted": 1794352138,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "company": "Goldman Sachs",
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://higher.gs.com/roles/188640",
+      "location": "Dallas, TX",
+      "datePosted": 1794351889,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1794007688,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:74323cbe-ff4d-4647-9f84-c946b6fc1b71",
-      "company": "Varda Space",
-      "title": "Site Reliability Intern",
-      "url": "https://go.vansh.nyc/1lP",
-      "location": "El Segundo, CA",
-      "datePosted": 1794007676,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
