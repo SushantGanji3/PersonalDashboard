@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-11T07:30:16Z",
-  "totalOpen": 1573,
+  "generatedAt": "2026-11-11T07:40:27Z",
+  "totalOpen": 1574,
   "totalNewgrad": 226,
-  "totalOther": 1347,
+  "totalOther": 1348,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:46b48762-e76f-4598-8440-e22bebf7a645",
+      "company": "Astranis",
+      "title": "Embedded Software Developer \u2013 Network/Payload Intern",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006",
+      "location": "SF",
+      "datePosted": 1794370459,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:794be3df-1425-488c-b884-a8d29f0732f1",
       "company": "Amazon",
@@ -124,7 +135,7 @@
       "datePosted": 1794350030,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af408ed50da4f72009244ab",
@@ -135,7 +146,7 @@
       "datePosted": 1794349165,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af408ea39bc2e330fdbd0c6",
@@ -146,7 +157,7 @@
       "datePosted": 1794349162,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3b3f780020ca3a89787c9",
@@ -179,7 +190,7 @@
       "datePosted": 1794348211,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3eaa3e841cc0145ad64a5",
@@ -223,7 +234,7 @@
       "datePosted": 1794346750,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3b8294ac248020e8d403d",
@@ -1310,17 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1826604892017856",
       "location": "Menlo Park, CA, Sunnyvale, CA",
       "datePosted": 1794007671,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b129bf00-6769-4d00-8d81-c8e844b7adf3",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - AI Systems and Infrastructure",
-      "url": "https://www.metacareers.com/jobs/1750797606003820",
-      "location": "Menlo Park, CA, NYC",
-      "datePosted": 1794007670,
       "source": "aggregator",
       "season": null,
       "isNew": false
