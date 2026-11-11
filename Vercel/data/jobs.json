@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T03:10:15Z",
-  "totalOpen": 1572,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-11-11T03:20:16Z",
+  "totalOpen": 1570,
+  "totalNewgrad": 224,
   "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794364751,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:69fc016e-5ad7-44cf-b4a2-2659826b2808",
@@ -146,6 +146,17 @@
       "datePosted": 1794334344,
       "source": "aggregator",
       "season": "Winter",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
+      "location": "New York, NY",
+      "datePosted": 1794333724,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -413,15 +424,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8dbea4cc0cf27068524d2f",
+      "id": "newgrad-jobs:6a8dbeb2a5639a481032738f",
       "company": "HP",
       "title": "Software Product Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6a8dbea4cc0cf27068524d2f",
+      "url": "https://jobright.ai/jobs/info/6a8dbeb2a5639a481032738f",
       "location": "Spring, TX",
       "datePosted": 1794324550,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af3887f4ac248020e8d223e",
@@ -490,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad105f0e2d41540d4a6d7c5",
+      "id": "newgrad-jobs:6af3698880020ca3a8975743",
       "company": "Cognizant",
       "title": "Full Stack Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ad105f0e2d41540d4a6d7c5",
+      "url": "https://jobright.ai/jobs/info/6af3698880020ca3a8975743",
       "location": "Plano, TX; United States",
       "datePosted": 1794322169,
       "source": "newgrad-jobs",
@@ -685,7 +696,7 @@
       "datePosted": 1794308477,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af36956769e9374033c612d",
@@ -754,10 +765,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af2f170e2f8101c3d5bd188",
+      "id": "newgrad-jobs:6af2f76ef6053e296fc78848",
       "company": "7-Eleven",
       "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af2f170e2f8101c3d5bd188",
+      "url": "https://jobright.ai/jobs/info/6af2f76ef6053e296fc78848",
       "location": "Irving, TX",
       "datePosted": 1794307300,
       "source": "newgrad-jobs",
@@ -886,23 +897,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeba7f1a0b134121d99ce77",
+      "id": "newgrad-jobs:6af34bb8f6053e296fc7b14f",
       "company": "Vizient",
       "title": "Associate Software Engineer (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6aeba7f1a0b134121d99ce77",
+      "url": "https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f",
       "location": "Irving, TX",
       "datePosted": 1794301785,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34f81f6053e296fc7b51a",
-      "company": "Dolby",
-      "title": "Information Security Engineer Job Details | Dolby Laboratories, Inc.",
-      "url": "https://jobright.ai/jobs/info/6af34f81f6053e296fc7b51a",
-      "location": "Atlanta, GA",
-      "datePosted": 1794301697,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
