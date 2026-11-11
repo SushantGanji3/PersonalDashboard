@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T12:50:15Z",
-  "totalOpen": 1548,
-  "totalNewgrad": 201,
+  "generatedAt": "2026-11-11T13:00:20Z",
+  "totalOpen": 1543,
+  "totalNewgrad": 196,
   "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,28 @@
       "datePosted": 1794369810,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9d2ed43826864b0fbac99",
+      "company": "Swarm Aero",
+      "title": "Software Engineer, Real-Time Systems (Early Career)",
+      "url": "https://jobright.ai/jobs/info/6ae9d2ed43826864b0fbac99",
+      "location": "San Francisco, CA",
+      "datePosted": 1794369269,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a83c40f2dbaf907b076a8b1",
+      "company": "HavocAI",
+      "title": "Field Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a83c40f2dbaf907b076a8b1",
+      "location": "United States",
+      "datePosted": 1794368358,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -58,7 +80,7 @@
       "datePosted": 1794366326,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8ca4ca25fc4e7ae3db9993",
@@ -69,7 +91,7 @@
       "datePosted": 1794366326,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:6c623df8-7d81-4f90-be6f-b3fdde876280",
@@ -765,10 +787,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1794334541,
       "source": "newgrad-jobs",
@@ -815,28 +837,6 @@
       "url": "https://jobright.ai/jobs/info/6af3f4a4e229a09f423798f7",
       "location": "San Francisco, CA",
       "datePosted": 1794333600,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abdfedb372c01f6cd7226fb",
-      "company": "Raydar",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abdfedb372c01f6cd7226fb",
-      "location": "San Francisco, CA",
-      "datePosted": 1794331806,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af399394ac248020e8d2c24",
-      "company": "Verkada",
-      "title": "Full Stack Engineer, Go-to-Market Systems",
-      "url": "https://jobright.ai/jobs/info/6af399394ac248020e8d2c24",
-      "location": "San Mateo, CA",
-      "datePosted": 1794330035,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
