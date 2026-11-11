@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:20:15Z",
+  "generatedAt": "2026-11-11T18:30:18Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1794421215
+    },
+    {
+      "id": "newgrad-jobs:6af49c401b2c5dcbbcd6276f",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6af49c401b2c5dcbbcd6276f",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1794387811,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794421818
     },
     {
       "id": "newgrad-jobs:6af49c362278454e18c36b13",
@@ -22166,17 +22177,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1794354016
-    },
-    {
-      "id": "newgrad-jobs:6acd31cb3c831dc4086c1114",
-      "company": "Westport Properties, Inc.",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6acd31cb3c831dc4086c1114",
-      "location": "United States",
-      "datePosted": 1791829790,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1793826020
     }
   ]
 }
