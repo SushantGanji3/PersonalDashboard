@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T15:40:17Z",
-  "totalOpen": 1539,
-  "totalNewgrad": 193,
+  "generatedAt": "2026-11-11T15:50:15Z",
+  "totalOpen": 1541,
+  "totalNewgrad": 195,
   "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,17 @@
       "datePosted": 1794409386,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aea8a48897466e69e31ff6d",
+      "company": "Vontier",
+      "title": "Engineering Intern - Software Engineering (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aea8a48897466e69e31ff6d",
+      "location": "Simsbury, CT",
+      "datePosted": 1794379640,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -270,10 +281,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbe5edd6acfd3dd29fa6c1",
+      "id": "newgrad-jobs:6aa9b7033387a3d9b67d646f",
       "company": "Q2",
       "title": "2027 Summer Internship - Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbe5edd6acfd3dd29fa6c1",
+      "url": "https://jobright.ai/jobs/info/6aa9b7033387a3d9b67d646f",
       "location": "Austin, TX; Cary, NC",
       "datePosted": 1794366124,
       "source": "newgrad-jobs",
@@ -652,7 +663,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:5d1a3f0e-ab9b-430a-affb-25361ff9d644",
@@ -663,7 +674,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3eaa3e841cc0145ad64a5",
@@ -849,17 +860,6 @@
       "location": "Costa Mesa, CA",
       "datePosted": 1794344428,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3c0ca769e9374033c98e3",
-      "company": "Amentum",
-      "title": "Jr. Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6af3c0ca769e9374033c98e3",
-      "location": "Springfield, VA",
-      "datePosted": 1794343918,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
