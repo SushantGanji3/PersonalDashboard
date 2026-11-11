@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T16:40:18Z",
-  "totalOpen": 1542,
-  "totalNewgrad": 195,
+  "generatedAt": "2026-11-11T16:50:44Z",
+  "totalOpen": 1541,
+  "totalNewgrad": 194,
   "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af48fffcbd2ee75d155ac2e",
+      "company": "LiteLLM AI Gateway",
+      "title": "ML Engineer",
+      "url": "https://jobright.ai/jobs/info/6af48fffcbd2ee75d155ac2e",
+      "location": "San Francisco, CA",
+      "datePosted": 1794383743,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aea8a48897466e69e31ff6d",
@@ -848,17 +859,6 @@
       "url": "https://jobright.ai/jobs/info/6af3fba5e229a09f42379f02",
       "location": "United States",
       "datePosted": 1794345765,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a55b6ec2ce8bf79a139fc1c",
-      "company": "Parallel Web Systems",
-      "title": "Early Career Research Engineer",
-      "url": "https://jobright.ai/jobs/info/6a55b6ec2ce8bf79a139fc1c",
-      "location": "Palo Alto, CA; New York, NY; San Francisco, CA",
-      "datePosted": 1794345472,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
