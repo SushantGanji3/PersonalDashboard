@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-11T03:00:20Z",
-  "totalOpen": 1576,
-  "totalNewgrad": 228,
-  "totalOther": 1348,
+  "generatedAt": "2026-11-11T03:10:15Z",
+  "totalOpen": 1572,
+  "totalNewgrad": 226,
+  "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:794be3df-1425-488c-b884-a8d29f0732f1",
+      "company": "Amazon",
+      "title": "Software Development Engineer Early Career - Amazon Dedicated Cloud",
+      "url": "https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
+      "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA",
+      "datePosted": 1794364751,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:69fc016e-5ad7-44cf-b4a2-2659826b2808",
       "company": "Tesla",
@@ -105,17 +116,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:60ba5d46-1da9-4411-9d8c-797c4a1811f2",
-      "company": "Goldman Sachs",
-      "title": "Software Engineer - Software Engineering",
-      "url": "https://higher.gs.com/roles/188640",
-      "location": "Dallas, TX",
-      "datePosted": 1794351889,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:bafc9090-b9c7-4bef-a0be-926faf866497",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
@@ -146,6 +146,17 @@
       "datePosted": 1794334344,
       "source": "aggregator",
       "season": "Winter",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a900e320bd89e205d24861b",
+      "company": "Palantir",
+      "title": "Information Security Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a900e320bd89e205d24861b",
+      "location": "New York, NY",
+      "datePosted": 1794333716,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -309,6 +320,17 @@
       "url": "https://jobright.ai/jobs/info/6af3b3f780020ca3a89787c9",
       "location": "San Mateo, CA",
       "datePosted": 1794327415,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af36551f6053e296fc7bff9",
+      "company": "REGENT",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6af36551f6053e296fc7bff9",
+      "location": "North Kingstown, RI",
+      "datePosted": 1794326560,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -655,6 +677,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abbd0c3b23c6fb2b81a3233",
+      "company": "Enova International",
+      "title": "Software Engineer Internship Summer 2027 (Hybrid)",
+      "url": "https://jobright.ai/jobs/info/6abbd0c3b23c6fb2b81a3233",
+      "location": "Chicago, IL",
+      "datePosted": 1794308477,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af36956769e9374033c612d",
       "company": "Siemens",
       "title": "Building X Software Developer Internship",
@@ -721,34 +754,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbd6d43217d1d13329b3a4",
-      "company": "Enova International",
-      "title": "Software Engineer Internship Summer 2027 (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6abbd6d43217d1d13329b3a4",
-      "location": "Chicago, IL",
-      "datePosted": 1794307504,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af2f170e2f8101c3d5bd188",
       "company": "7-Eleven",
       "title": "Data Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6af2f170e2f8101c3d5bd188",
       "location": "Irving, TX",
       "datePosted": 1794307300,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af36551f6053e296fc7bff9",
-      "company": "REGENT",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6af36551f6053e296fc7bff9",
-      "location": "North Kingstown, RI",
-      "datePosted": 1794307281,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -776,17 +787,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af34a6a769e9374033c4b85",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Data Connectors",
-      "url": "https://jobright.ai/jobs/info/6af34a6a769e9374033c4b85",
-      "location": "New York, NY",
-      "datePosted": 1794306320,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:e6830c63-857b-4f03-83ac-bb0149515d2d",
       "company": "Tesla",
       "title": "Mobile Application Developer Intern",
@@ -794,17 +794,6 @@
       "location": "Palo Alto, CA",
       "datePosted": 1794305830,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac67d564ac55253f5d7a693",
-      "company": "Leonardo DRS",
-      "title": "Systems Engineer Intern Job Details | Leonardo DRS, Inc.",
-      "url": "https://jobright.ai/jobs/info/6ac67d564ac55253f5d7a693",
-      "location": "Bridgeton, MO",
-      "datePosted": 1794305327,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -903,6 +892,17 @@
       "url": "https://jobright.ai/jobs/info/6aeba7f1a0b134121d99ce77",
       "location": "Irving, TX",
       "datePosted": 1794301785,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af34f81f6053e296fc7b51a",
+      "company": "Dolby",
+      "title": "Information Security Engineer Job Details | Dolby Laboratories, Inc.",
+      "url": "https://jobright.ai/jobs/info/6af34f81f6053e296fc7b51a",
+      "location": "Atlanta, GA",
+      "datePosted": 1794301697,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
