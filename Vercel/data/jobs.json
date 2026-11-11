@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-11T02:30:17Z",
-  "totalOpen": 1574,
+  "generatedAt": "2026-11-11T02:40:16Z",
+  "totalOpen": 1576,
   "totalNewgrad": 228,
-  "totalOther": 1346,
+  "totalOther": 1348,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:69fc016e-5ad7-44cf-b4a2-2659826b2808",
+      "company": "Tesla",
+      "title": "Software Developer Intern - IT Apps",
+      "url": "https://www.tesla.com/careers/search/job/289683",
+      "location": "Fremont, CA",
+      "datePosted": 1794363974,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:1026c810-c164-4212-b162-cc4482482cc9",
       "company": "Cisco",
@@ -1238,6 +1249,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:45c3b7e6-ab17-438a-8639-6e361d0cb2bd",
+      "company": "Shield AI",
+      "title": "Software Engineer 1 New Grad - Internal Tools",
+      "url": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+      "location": "Seattle, WA",
+      "datePosted": 1794009600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:536ab817-e285-42e5-aaad-a2a0c95b9622",
       "company": "Cisco",
       "title": "Software Engineer Embedded Systems I",
@@ -1299,28 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1750797606003820",
       "location": "Menlo Park, CA, NYC",
       "datePosted": 1794007670,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:d4373beb-9b94-4d3e-8145-7efff9fd8b79",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Robotics Foundation Models - Agentic RL",
-      "url": "https://www.metacareers.com/jobs/1414987577372371",
-      "location": "Menlo Park, CA",
-      "datePosted": 1794007668,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:91f8c203-61ee-41ea-9dfd-cb9d9f2a8e9b",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Generative AI & 3D Generation",
-      "url": "https://www.metacareers.com/jobs/1406087328180524",
-      "location": "Burlingame, CA",
-      "datePosted": 1794007666,
       "source": "aggregator",
       "season": null,
       "isNew": false
