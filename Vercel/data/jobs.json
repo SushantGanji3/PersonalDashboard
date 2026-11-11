@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:00:23Z",
+  "generatedAt": "2026-11-11T01:10:16Z",
   "totalOpen": 1576,
   "totalNewgrad": 231,
   "totalOther": 1345,
@@ -138,6 +138,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af3b8294ac248020e8d403d",
+      "company": "MANTECH",
+      "title": "Associate CNO Developer",
+      "url": "https://jobright.ai/jobs/info/6af3b8294ac248020e8d403d",
+      "location": "Hanover, MD",
+      "datePosted": 1794328489,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:def9b2ef-44f6-407d-91a5-fc96f24a61fb",
       "company": "Addepar",
       "title": "Software Engineering Intern",
@@ -146,6 +157,17 @@
       "datePosted": 1794328067,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
+      "datePosted": 1794328048,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -182,12 +204,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af3b3f780020ca3a89787c9",
+      "company": "Roblox",
+      "title": "Software Engineer, ROS Open Platform & AI Enablement",
+      "url": "https://jobright.ai/jobs/info/6af3b3f780020ca3a89787c9",
+      "location": "San Mateo, CA",
+      "datePosted": 1794327415,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af391304ac248020e8d26c5",
       "company": "Citizen Watch America",
       "title": "Data Engineer",
       "url": "https://jobright.ai/jobs/info/6af391304ac248020e8d26c5",
       "location": "New York, NY",
-      "datePosted": 1794325349,
+      "datePosted": 1794326008,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3693c769e9374033c60c8",
+      "company": "MANTECH",
+      "title": "Junior ServiceNow Developer",
+      "url": "https://jobright.ai/jobs/info/6af3693c769e9374033c60c8",
+      "location": "United States",
+      "datePosted": 1794325606,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -212,7 +256,7 @@
       "datePosted": 1794324986,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3aa3580020ca3a897848d",
@@ -223,7 +267,29 @@
       "datePosted": 1794324917,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acfa3ddc9f40bec907fd406",
+      "company": "Gen II Fund Services",
+      "title": "Jr Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6acfa3ddc9f40bec907fd406",
+      "location": "New York, NY",
+      "datePosted": 1794324779,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af283f3f1ee406a27fde06e",
+      "company": "Multi Media, LLC",
+      "title": "Software Engineer I/II",
+      "url": "https://jobright.ai/jobs/info/6af283f3f1ee406a27fde06e",
+      "location": "United States",
+      "datePosted": 1794324632,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8dbea4cc0cf27068524d2f",
@@ -234,7 +300,7 @@
       "datePosted": 1794324550,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3887f4ac248020e8d223e",
@@ -256,7 +322,7 @@
       "datePosted": 1794324372,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3842af6053e296fc7d638",
@@ -457,17 +523,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
-      "company": "Amazon",
-      "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
-      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
-      "datePosted": 1794309731,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:fb423ebc-8446-4ede-a5d2-7142d03e548f",
       "company": "SambaNova",
       "title": "New Grad: Cloud Platform Engineer",
@@ -518,17 +573,6 @@
       "url": "https://jobright.ai/jobs/info/6af36956769e9374033c612d",
       "location": "Buffalo Grove, IL; Chicago, IL",
       "datePosted": 1794308310,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3693c769e9374033c60c8",
-      "company": "MANTECH",
-      "title": "Junior ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6af3693c769e9374033c60c8",
-      "location": "United States",
-      "datePosted": 1794308284,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -837,50 +881,6 @@
       "url": "https://jobright.ai/jobs/info/6af34f81f6053e296fc7b51a",
       "location": "Atlanta, GA",
       "datePosted": 1794301697,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34a2b769e9374033c4b2e",
-      "company": "Ingersoll Rand",
-      "title": "AI Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6af34a2b769e9374033c4b2e",
-      "location": "Davidson, NC",
-      "datePosted": 1794301302,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34b877c81de7a524be1b5",
-      "company": "Amentum",
-      "title": "RTOS / VXWorks developer",
-      "url": "https://jobright.ai/jobs/info/6af34b877c81de7a524be1b5",
-      "location": "Dahlgren, VA",
-      "datePosted": 1794300621,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34fad10c7aed7786193d1",
-      "company": "Jabil",
-      "title": "AI Agent Developer Intern (Supply Chain IT - AI & Enablement)",
-      "url": "https://jobright.ai/jobs/info/6af34fad10c7aed7786193d1",
-      "location": "St. Petersburg, FL; Tampa, FL",
-      "datePosted": 1794300544,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5f65eab0f20036bc630b44",
-      "company": "Palantir",
-      "title": "Software Engineer - Apollo Platform",
-      "url": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
-      "location": "New York, NY",
-      "datePosted": 1794300380,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
