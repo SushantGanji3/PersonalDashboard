@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T03:30:17Z",
-  "totalOpen": 1570,
-  "totalNewgrad": 224,
+  "generatedAt": "2026-11-11T03:40:15Z",
+  "totalOpen": 1572,
+  "totalNewgrad": 226,
   "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -136,6 +136,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc625773339662c7723bce",
+      "company": "Amca",
+      "title": "Software Engineering Internship (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6abc625773339662c7723bce",
+      "location": "El Segundo, CA",
+      "datePosted": 1794336704,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
@@ -892,17 +903,6 @@
       "url": "https://jobright.ai/jobs/info/6af34f07f6053e296fc7b4b2",
       "location": "United States",
       "datePosted": 1794302243,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34bb8f6053e296fc7b14f",
-      "company": "Vizient",
-      "title": "Associate Software Engineer (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f",
-      "location": "Irving, TX",
-      "datePosted": 1794301785,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
