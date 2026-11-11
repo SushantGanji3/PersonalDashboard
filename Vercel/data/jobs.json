@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T11:40:16Z",
-  "totalOpen": 1548,
-  "totalNewgrad": 201,
+  "generatedAt": "2026-11-11T11:50:16Z",
+  "totalOpen": 1549,
+  "totalNewgrad": 202,
   "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,28 @@
       "datePosted": 1794366177,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa9b7033387a3d9b67d646f",
+      "company": "Q2",
+      "title": "2027 Summer Internship - Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa9b7033387a3d9b67d646f",
+      "location": "Austin, TX; Cary, NC",
+      "datePosted": 1794366124,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa018b6a2266b538d22e2a8",
+      "company": "Datadog",
+      "title": "Software Engineering Intern (Summer)",
+      "url": "https://jobright.ai/jobs/info/6aa018b6a2266b538d22e2a8",
+      "location": "Boston, MA; New York, NY",
+      "datePosted": 1794365923,
+      "source": "newgrad-jobs",
+      "season": "Summer",
       "isNew": false
     },
     {
@@ -688,10 +710,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1794334541,
       "source": "newgrad-jobs",
@@ -864,34 +886,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af36551f6053e296fc7bff9",
-      "company": "REGENT",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6af36551f6053e296fc7bff9",
-      "location": "North Kingstown, RI",
-      "datePosted": 1794326560,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af391304ac248020e8d26c5",
       "company": "Citizen Watch America",
       "title": "Data Engineer",
       "url": "https://jobright.ai/jobs/info/6af391304ac248020e8d26c5",
       "location": "New York, NY",
       "datePosted": 1794326008,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3693c769e9374033c60c8",
-      "company": "MANTECH",
-      "title": "Junior ServiceNow Developer",
-      "url": "https://jobright.ai/jobs/info/6af3693c769e9374033c60c8",
-      "location": "United States",
-      "datePosted": 1794325606,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
