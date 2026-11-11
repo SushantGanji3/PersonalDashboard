@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T08:40:15Z",
-  "totalOpen": 1565,
-  "totalNewgrad": 216,
+  "generatedAt": "2026-11-11T08:50:18Z",
+  "totalOpen": 1564,
+  "totalNewgrad": 215,
   "totalOther": 1349,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -69,7 +69,7 @@
       "datePosted": 1794356487,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c4d7ab6c-a1c8-427a-9a75-340e78062307",
@@ -171,6 +171,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af3bab7f6053e296fc7f9a1",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems I (Intern) - United States",
+      "url": "https://jobright.ai/jobs/info/6af3bab7f6053e296fc7f9a1",
+      "location": "San Jose, CA; Austin, TX; Durham, NC",
+      "datePosted": 1794349689,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6af408ed50da4f72009244ab",
       "company": "Optimum",
       "title": "Intern - Developer, Financial & People Systems",
@@ -232,17 +243,6 @@
       "url": "https://jobright.ai/jobs/info/6aa041d9ea127c379469602d",
       "location": "Irvine, CA; Palo Alto, CA",
       "datePosted": 1794347251,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3bab7f6053e296fc7f9a1",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems I (Intern) - United States",
-      "url": "https://jobright.ai/jobs/info/6af3bab7f6053e296fc7f9a1",
-      "location": "San Jose, CA; Austin, TX; Durham, NC",
-      "datePosted": 1794347179,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -809,17 +809,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9718c6f5337b2cf731ff94",
-      "company": "HP IQ",
-      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6a9718c6f5337b2cf731ff94",
-      "location": "San Francisco, CA",
-      "datePosted": 1794314744,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a72091245b6af1c30dbc1e6",
       "company": "AV",
       "title": "Junior Software Engineer",
@@ -914,6 +903,17 @@
       "url": "https://jobright.ai/jobs/info/6af36894f6053e296fc7c228",
       "location": "United States",
       "datePosted": 1794308116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acdba132bd01b08973f1048",
+      "company": "RTX",
+      "title": "Research Software Engineer I - Onsite",
+      "url": "https://jobright.ai/jobs/info/6acdba132bd01b08973f1048",
+      "location": "Cambridge, MA",
+      "datePosted": 1794308024,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
