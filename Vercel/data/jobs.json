@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:40:18Z",
+  "generatedAt": "2026-11-11T04:50:15Z",
   "totalOpen": 1569,
   "totalNewgrad": 223,
   "totalOther": 1346,
@@ -136,6 +136,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3eaa3e841cc0145ad64a5",
+      "company": "Amazon",
+      "title": "Software Engineer I, Commerce",
+      "url": "https://jobright.ai/jobs/info/6af3eaa3e841cc0145ad64a5",
+      "location": "Seattle, WA; San Francisco, CA",
+      "datePosted": 1794341411,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abc625773339662c7723bce",
@@ -776,10 +787,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af2f170e2f8101c3d5bd188",
+      "id": "newgrad-jobs:6af2f76ef6053e296fc78848",
       "company": "7-Eleven",
       "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af2f170e2f8101c3d5bd188",
+      "url": "https://jobright.ai/jobs/info/6af2f76ef6053e296fc78848",
       "location": "Irving, TX",
       "datePosted": 1794307300,
       "source": "newgrad-jobs",
@@ -842,10 +853,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
+      "id": "newgrad-jobs:6aed00eb465e3d2371383a38",
       "company": "Infosys",
       "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
+      "url": "https://jobright.ai/jobs/info/6aed00eb465e3d2371383a38",
       "location": "Bellevue, WA",
       "datePosted": 1794303987,
       "source": "newgrad-jobs",
@@ -892,17 +903,6 @@
       "url": "https://jobright.ai/jobs/info/6ae83e99bad9293a40a44c1c",
       "location": "San Jose, CA; Scottsdale, AZ",
       "datePosted": 1794302786,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34f07f6053e296fc7b4b2",
-      "company": "Abnormal AI",
-      "title": "Software Engineer 1 - Cloud Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6af34f07f6053e296fc7b4b2",
-      "location": "United States",
-      "datePosted": 1794302243,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
