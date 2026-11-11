@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T00:40:15Z",
-  "totalOpen": 1584,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-11T00:50:15Z",
+  "totalOpen": 1583,
+  "totalNewgrad": 238,
   "totalOther": 1345,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -180,6 +180,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3887f4ac248020e8d223e",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - Machine Learning Engineer, Embodied AI",
+      "url": "https://jobright.ai/jobs/info/6af3887f4ac248020e8d223e",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794324529,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af3842af6053e296fc7d638",
@@ -870,17 +881,6 @@
       "url": "https://jobright.ai/jobs/info/6af34a2b769e9374033c4b2e",
       "location": "Davidson, NC",
       "datePosted": 1794301302,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34b877c81de7a524be1b5",
-      "company": "Amentum",
-      "title": "RTOS / VXWorks developer",
-      "url": "https://jobright.ai/jobs/info/6af34b877c81de7a524be1b5",
-      "location": "Dahlgren, VA",
-      "datePosted": 1794300621,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
