@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:10:17Z",
+  "generatedAt": "2026-11-11T06:20:15Z",
   "totalOpen": 1574,
   "totalNewgrad": 227,
   "totalOther": 1347,
@@ -124,6 +124,17 @@
       "datePosted": 1794348356,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a55b6ec2ce8bf79a139fc1c",
+      "company": "Parallel Web Systems",
+      "title": "Early Career Research Engineer",
+      "url": "https://jobright.ai/jobs/info/6a55b6ec2ce8bf79a139fc1c",
+      "location": "Palo Alto, CA; New York, NY; San Francisco, CA",
+      "datePosted": 1794345472,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -892,17 +903,6 @@
       "url": "https://jobright.ai/jobs/info/6af35776f6053e296fc7b9dd",
       "location": "Scottsdale, AZ",
       "datePosted": 1794304163,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed00ebab48a707938206bf",
-      "company": "Infosys",
-      "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6aed00ebab48a707938206bf",
-      "location": "Bellevue, WA",
-      "datePosted": 1794303987,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
