@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-11T01:10:16Z",
-  "totalOpen": 1576,
-  "totalNewgrad": 231,
-  "totalOther": 1345,
+  "generatedAt": "2026-11-11T01:20:16Z",
+  "totalOpen": 1573,
+  "totalNewgrad": 227,
+  "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1026c810-c164-4212-b162-cc4482482cc9",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems I Intern",
+      "url": "https://go.vansh.nyc/1sE",
+      "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
+      "datePosted": 1794357721,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:c4d7ab6c-a1c8-427a-9a75-340e78062307",
       "company": "Amazon",
@@ -146,7 +157,7 @@
       "datePosted": 1794328489,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:def9b2ef-44f6-407d-91a5-fc96f24a61fb",
@@ -166,6 +177,17 @@
       "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1794328048,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3693080020ca3a8975558",
+      "company": "Optimum",
+      "title": "Intern - Site Reliability Engineer",
+      "url": "https://jobright.ai/jobs/info/6af3693080020ca3a8975558",
+      "location": "Bethpage, NY",
+      "datePosted": 1794327597,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -212,7 +234,7 @@
       "datePosted": 1794327415,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af391304ac248020e8d26c5",
@@ -278,7 +300,7 @@
       "datePosted": 1794324779,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af283f3f1ee406a27fde06e",
@@ -589,17 +611,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af3693080020ca3a8975558",
-      "company": "Optimum",
-      "title": "Intern - Site Reliability Engineer",
-      "url": "https://jobright.ai/jobs/info/6af3693080020ca3a8975558",
-      "location": "Bethpage, NY",
-      "datePosted": 1794308272,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af3689e4ac248020e8d0abe",
       "company": "Toccata Data Solutions",
       "title": "Junior Database Developer",
@@ -776,17 +787,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad7731b67bec1d0d9c7542b",
-      "company": "Ciena",
-      "title": "Software Engineer (Security) - Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6ad7731b67bec1d0d9c7542b",
-      "location": "Atlanta, GA",
-      "datePosted": 1794304093,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aed00eb465e3d2371383a38",
       "company": "Infosys",
       "title": "Java Developer",
@@ -806,17 +806,6 @@
       "datePosted": 1794303887,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abad46ad2914e9273eed8ec",
-      "company": "Boehringer Ingelheim",
-      "title": "Scientific Software Engineering Co-Op - Computational Chemistry & Spectroscopy",
-      "url": "https://jobright.ai/jobs/info/6abad46ad2914e9273eed8ec",
-      "location": "Ridgefield, CT",
-      "datePosted": 1794303587,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -881,6 +870,28 @@
       "url": "https://jobright.ai/jobs/info/6af34f81f6053e296fc7b51a",
       "location": "Atlanta, GA",
       "datePosted": 1794301697,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af34a2b769e9374033c4b2e",
+      "company": "Ingersoll Rand",
+      "title": "AI Engineer Intern (2027)",
+      "url": "https://jobright.ai/jobs/info/6af34a2b769e9374033c4b2e",
+      "location": "Davidson, NC",
+      "datePosted": 1794301302,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af34b877c81de7a524be1b5",
+      "company": "Amentum",
+      "title": "RTOS / VXWorks developer",
+      "url": "https://jobright.ai/jobs/info/6af34b877c81de7a524be1b5",
+      "location": "Dahlgren, VA",
+      "datePosted": 1794300621,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1794006630,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:350d28f8-5462-4813-9d81-b07550f1c3bd",
-      "company": "Astranis",
-      "title": "Embedded Software Developer Intern, Network/Payload",
-      "url": "https://go.vansh.nyc/1lz",
-      "location": "San Francisco, CA",
-      "datePosted": 1794004814,
-      "source": "aggregator",
-      "season": "Winter",
       "isNew": false
     }
   ]
