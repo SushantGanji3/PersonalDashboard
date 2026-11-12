@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T00:10:16Z",
-  "totalOpen": 1561,
-  "totalNewgrad": 206,
+  "generatedAt": "2026-11-12T00:20:17Z",
+  "totalOpen": 1562,
+  "totalNewgrad": 207,
   "totalOther": 1355,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794440956,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:36e6d23c-4ded-42d3-b2a4-30e860836348",
@@ -72,6 +72,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae27697829a3bada160545f",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, CPU Debugger (NTD)",
+      "url": "https://jobright.ai/jobs/info/6ae27697829a3bada160545f",
+      "location": "Redmond, WA",
+      "datePosted": 1794410611,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae274506679108488c4b98f",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, DevOps (NTD)",
+      "url": "https://jobright.ai/jobs/info/6ae274506679108488c4b98f",
+      "location": "Redmond, WA",
+      "datePosted": 1794410513,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af4f7ffcd7be4db20d8a2dd",
       "company": "Infosys",
       "title": "Java Backend Developer",
@@ -80,7 +102,7 @@
       "datePosted": 1794410367,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4f7cd1b2c5dcbbcd65e7b",
@@ -91,7 +113,7 @@
       "datePosted": 1794410317,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4b5e53a9a26aee709febf",
@@ -102,7 +124,7 @@
       "datePosted": 1794410265,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4f73bcd7be4db20d8a26d",
@@ -113,7 +135,7 @@
       "datePosted": 1794410171,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4f7042278454e18c3a101",
@@ -122,6 +144,17 @@
       "url": "https://jobright.ai/jobs/info/6af4f7042278454e18c3a101",
       "location": "New York City metropolitan area, United States",
       "datePosted": 1794410116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa426f4c1928370a285cc61",
+      "company": "AV",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa426f4c1928370a285cc61",
+      "location": "Centreville, VA",
+      "datePosted": 1794410084,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -146,6 +179,17 @@
       "datePosted": 1794409839,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4d423cbd2ee75d155d744",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6af4d423cbd2ee75d155d744",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1794409418,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -157,7 +201,7 @@
       "datePosted": 1794409416,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:ff7873c8-dcc8-4bbf-ac84-f574d92d2e1a",
@@ -213,6 +257,28 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7269d6cb96192a3684dfd2",
+      "company": "Valstad Shipworks",
+      "title": "Software Engineering Intern, 3D & Manufacturing Applications",
+      "url": "https://jobright.ai/jobs/info/6a7269d6cb96192a3684dfd2",
+      "location": "Austin, TX",
+      "datePosted": 1794407883,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4e4859144106c56a22564",
+      "company": "MKS Inc.",
+      "title": "2027 Summer Software Engineer Co-op",
+      "url": "https://jobright.ai/jobs/info/6af4e4859144106c56a22564",
+      "location": "Andover, MA",
+      "datePosted": 1794407568,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af4ebfbcbd2ee75d155e5ff",
@@ -677,72 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbd3eea9a644f965688389",
-      "company": "Marvell Technology",
-      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abbd3eea9a644f965688389",
-      "location": "Santa Clara, CA",
-      "datePosted": 1794394527,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af49dae2278454e18c36c79",
-      "company": "PayPal",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6af49dae2278454e18c36c79",
-      "location": "Scottsdale, AZ",
-      "datePosted": 1794394469,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4928bcbd2ee75d155adb9",
-      "company": "ZT Systems",
-      "title": "Test Software Developer",
-      "url": "https://jobright.ai/jobs/info/6af4928bcbd2ee75d155adb9",
-      "location": "Secaucus, NJ",
-      "datePosted": 1794393885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3f4a4e229a09f423798f7",
-      "company": "SEPHORA",
-      "title": "Intern, Technology, DevOps & Site Reliability Engineering (SRE)",
-      "url": "https://jobright.ai/jobs/info/6af3f4a4e229a09f423798f7",
-      "location": "San Francisco, CA",
-      "datePosted": 1794393496,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4858c3a9a26aee709de4c",
-      "company": "ICF",
-      "title": "2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)",
-      "url": "https://jobright.ai/jobs/info/6af4858c3a9a26aee709de4c",
-      "location": "Reston, VA",
-      "datePosted": 1794393355,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4b51ecd7be4db20d87d54",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af4b51ecd7be4db20d87d54",
-      "location": "Marietta, GA",
-      "datePosted": 1794393246,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:46b48762-e76f-4598-8440-e22bebf7a645",
       "company": "Astranis",
       "title": "Embedded Software Developer \u2013 Network/Payload Intern",
@@ -817,7 +817,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c274d687-71f7-4484-8ae0-52884c72e8f8",
@@ -861,7 +861,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b232ce33-4440-4e8e-a7aa-5525eec04558",
@@ -872,7 +872,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:040ae0b9-6d76-4faf-9fbb-83d3353f714f",
@@ -884,6 +884,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:b505d4e2-0947-4acc-9e14-04e508c4e248",
+      "company": "Boeing",
+      "title": "Missions Systems Software Engineer, Embedded",
+      "url": "https://go.vansh.nyc/1vN",
+      "location": "Berkeley, MO",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:b6640bbb-3cf3-4d86-9a7e-903895a5d6cb",
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1nm",
       "location": "Washington, DC",
       "datePosted": 1794186872,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3eea2d75-ce28-4813-8c57-7ebbd52e2fa2",
-      "company": "General Dynamics",
-      "title": "Full-Stack Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false",
-      "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
-      "datePosted": 1794182400,
       "source": "aggregator",
       "season": null,
       "isNew": false
