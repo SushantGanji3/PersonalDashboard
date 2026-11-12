@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T22:10:16Z",
-  "totalOpen": 1568,
-  "totalNewgrad": 221,
+  "generatedAt": "2026-11-12T22:20:16Z",
+  "totalOpen": 1565,
+  "totalNewgrad": 218,
   "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,6 +36,17 @@
       "datePosted": 1794490653,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af630ecf10ae27369e178ae",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+      "url": "https://jobright.ai/jobs/info/6af630ecf10ae27369e178ae",
+      "location": "San Diego, CA; Washington, DC",
+      "datePosted": 1794490476,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -47,7 +58,7 @@
       "datePosted": 1794490298,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4b4b9cd7be4db20d87cfc",
@@ -58,7 +69,7 @@
       "datePosted": 1794489800,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af268208cbcfef4a59dc059",
@@ -80,7 +91,18 @@
       "datePosted": 1794488502,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa075e03b5aa83237b0949d",
+      "company": "MKS Inc.",
+      "title": "2027 Spring Software Engineering Intern (R19945)",
+      "url": "https://jobright.ai/jobs/info/6aa075e03b5aa83237b0949d",
+      "location": "Rochester, NY",
+      "datePosted": 1794488100,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae2317f05a39c3e2c717c54",
@@ -179,17 +201,6 @@
       "datePosted": 1794485074,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aa075e03b5aa83237b0949d",
-      "company": "MKS Inc.",
-      "title": "2027 Spring Software Engineering Intern (R19945)",
-      "url": "https://jobright.ai/jobs/info/6aa075e03b5aa83237b0949d",
-      "location": "Rochester, NY",
-      "datePosted": 1794484868,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
       "isNew": false
     },
     {
@@ -202,6 +213,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4f5751b2c5dcbbcd65d5d",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6af4f5751b2c5dcbbcd65d5d",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794484709,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer-Intern",
+      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
+      "location": "King of Prussia, PA",
+      "datePosted": 1794484709,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
+      "location": "Fort Worth, TX",
+      "datePosted": 1794484709,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adb0b0bc5c64fa3d9cad6a1",
@@ -232,28 +276,6 @@
       "url": "https://jobright.ai/jobs/info/6af1eac0905985ccaa406a79",
       "location": "Fort Worth, TX",
       "datePosted": 1794484254,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6af1e39f905985ccaa406776",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e39f905985ccaa406776",
-      "location": "Fort Worth, TX; Orlando, FL",
-      "datePosted": 1794484004,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
-      "location": "King of Prussia, PA",
-      "datePosted": 1794484004,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -353,17 +375,6 @@
       "url": "https://jobright.ai/jobs/info/6af4f45a2278454e18c39fc9",
       "location": "Herndon, VA",
       "datePosted": 1794483951,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4f5751b2c5dcbbcd65d5d",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af4f5751b2c5dcbbcd65d5d",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794483950,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -600,6 +611,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa0b8d7ea127c3794698c8d",
+      "company": "SWIVEL",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa0b8d7ea127c3794698c8d",
+      "location": "San Antonio, TX",
+      "datePosted": 1794482578,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ad77b0567bec1d0d9c7587f",
       "company": "Lockheed Martin",
       "title": "Software Engineer / Configuration Management",
@@ -661,28 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6af5f6d879862a378dcef4a1",
       "location": "Mountain View, CA",
       "datePosted": 1794481496,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af5f0738cc703bba47ae40f",
-      "company": "RLI Insurance Company",
-      "title": "Associate Software Engineer (.Net) - Peoria, IL or Tempe, AZ",
-      "url": "https://jobright.ai/jobs/info/6af5f0738cc703bba47ae40f",
-      "location": "Peoria, IL; Tempe, AZ",
-      "datePosted": 1794481494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae45a5fd45dc30fb7d2f8df",
-      "company": "Gournay Consulting",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ae45a5fd45dc30fb7d2f8df",
-      "location": "New Hope, PA",
-      "datePosted": 1794481437,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false

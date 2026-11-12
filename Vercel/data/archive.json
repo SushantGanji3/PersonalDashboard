@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:10:16Z",
+  "generatedAt": "2026-11-12T22:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -34,6 +34,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1794521416
+    },
+    {
+      "id": "newgrad-jobs:6af630ecf10ae27369e178ae",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+      "url": "https://jobright.ai/jobs/info/6af630ecf10ae27369e178ae",
+      "location": "San Diego, CA; Washington, DC",
+      "datePosted": 1794490476,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1794522016
     },
     {
       "id": "newgrad-jobs:6af6303aa4a5218a07e84268",
@@ -144,6 +155,17 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1794518416
+    },
+    {
+      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
+      "location": "Fort Worth, TX",
+      "datePosted": 1794484709,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794522016
     },
     {
       "id": "newgrad-jobs:6adb0b0bc5c64fa3d9cad6a1",
@@ -331,6 +353,17 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "firstSeenAt": 1794514816
+    },
+    {
+      "id": "newgrad-jobs:6aa0b8d7ea127c3794698c8d",
+      "company": "SWIVEL",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa0b8d7ea127c3794698c8d",
+      "location": "San Antonio, TX",
+      "datePosted": 1794482578,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794522016
     },
     {
       "id": "newgrad-jobs:6af4b4503a9a26aee709fd4b",
@@ -25345,28 +25378,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793869815
-    },
-    {
-      "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
-      "company": "Amazon",
-      "title": "Hardware Development Engineer Intern Co-op - Robotics",
-      "url": "https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
-      "location": "North Reading, MA, Westborough, MA",
-      "datePosted": 1791929907,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:fa621e40-4b60-4912-8246-670d0d5554a6",
-      "company": "Netflix",
-      "title": "Software Engineer Intern",
-      "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-      "location": "LA, Los Gatos, CA",
-      "datePosted": 1791929715,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1793826020
     }
   ]
 }
