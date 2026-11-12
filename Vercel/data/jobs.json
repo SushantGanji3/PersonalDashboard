@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T02:40:16Z",
-  "totalOpen": 1567,
-  "totalNewgrad": 213,
+  "generatedAt": "2026-11-12T02:50:15Z",
+  "totalOpen": 1566,
+  "totalNewgrad": 212,
   "totalOther": 1354,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -69,7 +69,7 @@
       "datePosted": 1794420158,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af51dfc1b2c5dcbbcd66b95",
@@ -78,50 +78,6 @@
       "url": "https://jobright.ai/jobs/info/6af51dfc1b2c5dcbbcd66b95",
       "location": "Cleveland, OH",
       "datePosted": 1794420092,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6af4cbae1b2c5dcbbcd64245",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Creator Marketplace",
-      "url": "https://jobright.ai/jobs/info/6af4cbae1b2c5dcbbcd64245",
-      "location": "Culver City, CA",
-      "datePosted": 1794419583,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4f888cbd2ee75d155eda6",
-      "company": "Excellus BCBS",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6af4f888cbd2ee75d155eda6",
-      "location": "Rochester, NY; Albany, NY; Binghamton, NY; Buffalo, NY; DeWitt, NY; Utica, NY",
-      "datePosted": 1794419567,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4ef363a9a26aee70a1ee4",
-      "company": "Jamf",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6af4ef363a9a26aee70a1ee4",
-      "location": "United States",
-      "datePosted": 1794418984,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4f6101b2c5dcbbcd65d9e",
-      "company": "Jamf",
-      "title": "Associate Software Engineer (Full Stack)",
-      "url": "https://jobright.ai/jobs/info/6af4f6101b2c5dcbbcd65d9e",
-      "location": "United States",
-      "datePosted": 1794418978,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -160,15 +116,48 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4f77d2278454e18c3a151",
-      "company": "Univera Healthcare",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6af4f77d2278454e18c3a151",
-      "location": "Rochester, NY; Albany, NY; Binghamton, NY; Buffalo, NY; DeWitt, NY; Utica, NY",
-      "datePosted": 1794416111,
+      "id": "newgrad-jobs:6af4ef363a9a26aee70a1ee4",
+      "company": "Jamf",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af4ef363a9a26aee70a1ee4",
+      "location": "United States",
+      "datePosted": 1794416245,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4cbae1b2c5dcbbcd64245",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Creator Marketplace",
+      "url": "https://jobright.ai/jobs/info/6af4cbae1b2c5dcbbcd64245",
+      "location": "Culver City, CA",
+      "datePosted": 1794415939,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4f888cbd2ee75d155eda6",
+      "company": "Excellus BCBS",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6af4f888cbd2ee75d155eda6",
+      "location": "Rochester, NY; Albany, NY; Binghamton, NY; Buffalo, NY; DeWitt, NY; Utica, NY",
+      "datePosted": 1794415919,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4f6101b2c5dcbbcd65d9e",
+      "company": "Jamf",
+      "title": "Associate Software Engineer (Full Stack)",
+      "url": "https://jobright.ai/jobs/info/6af4f6101b2c5dcbbcd65d9e",
+      "location": "United States",
+      "datePosted": 1794415915,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af493851b2c5dcbbcd61ff2",
@@ -608,7 +597,7 @@
       "datePosted": 1794406615,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
@@ -738,6 +727,17 @@
       "url": "https://jobright.ai/jobs/info/6af4b8a92278454e18c37e84",
       "location": "Chantilly, VA",
       "datePosted": 1794401024,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af493069144106c56a1f307",
+      "company": "MACOM",
+      "title": "Information Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6af493069144106c56a1f307",
+      "location": "Hamilton Township, NJ",
+      "datePosted": 1794400997,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -883,7 +883,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:040ae0b9-6d76-4faf-9fbb-83d3353f714f",
