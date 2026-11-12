@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-12T20:10:17Z",
-  "totalOpen": 1558,
-  "totalNewgrad": 211,
-  "totalOther": 1347,
+  "generatedAt": "2026-11-12T20:20:16Z",
+  "totalOpen": 1560,
+  "totalNewgrad": 212,
+  "totalOther": 1348,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:c7e6a21c-950d-4911-9d30-2d9677d32f46",
+      "company": "General Dynamics",
+      "title": "Professional Programmer Intern",
+      "url": "https://go.vansh.nyc/1xx",
+      "location": "Raleigh, NC",
+      "datePosted": 1794514007,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:ec1537b4-5000-4cc3-9bc6-5b33c3078d15",
       "company": "Micron",
@@ -13,6 +24,138 @@
       "location": "Boise, ID",
       "datePosted": 1794512469,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae11c3067c31ab3489a0a67",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ae11c3067c31ab3489a0a67",
+      "location": "Longmont, CO; Boulder, CO",
+      "datePosted": 1794482795,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af612e7f10ae27369e164f9",
+      "company": "Docusign",
+      "title": "AI Platform Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6af612e7f10ae27369e164f9",
+      "location": "San Francisco, CA",
+      "datePosted": 1794482791,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af6128380054650a5e7bbf6",
+      "company": "Klaviyo",
+      "title": "Software Engineer Co-op (Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6af6128380054650a5e7bbf6",
+      "location": "Boston, MA",
+      "datePosted": 1794482691,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aece331465e3d23713828cb",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - Early Career",
+      "url": "https://jobright.ai/jobs/info/6aece331465e3d23713828cb",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1794482391,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4b4503a9a26aee709fd4b",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - Early Career",
+      "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
+      "location": "Marietta, GA",
+      "datePosted": 1794482391,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a95e4f9c8763a3a87ffcdeb",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a95e4f9c8763a3a87ffcdeb",
+      "location": "King of Prussia, PA",
+      "datePosted": 1794482387,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3fc81d9621c5b2839eefb",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
+      "location": "Owego, NY",
+      "datePosted": 1794482387,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af224d68cbcfef4a59d997c",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Associate - Early Career",
+      "url": "https://jobright.ai/jobs/info/6af224d68cbcfef4a59d997c",
+      "location": "Littleton, CO",
+      "datePosted": 1794482381,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4f5751b2c5dcbbcd65d5d",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6af4f5751b2c5dcbbcd65d5d",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794482381,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a905ab20bd89e205d249c9f",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
+      "location": "Offutt Air Force Base, NE",
+      "datePosted": 1794482311,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9751014b684da08de01dd",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc- Early Career",
+      "url": "https://jobright.ai/jobs/info/6ae9751014b684da08de01dd",
+      "location": "Orlando, FL",
+      "datePosted": 1794482300,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af268208cbcfef4a59dc059",
+      "company": "Lockheed Martin",
+      "title": "Operations AI Engineer - Early Career",
+      "url": "https://jobright.ai/jobs/info/6af268208cbcfef4a59dc059",
+      "location": "Palmdale, CA",
+      "datePosted": 1794481886,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -28,54 +171,43 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95e4f9c8763a3a87ffcdeb",
+      "id": "newgrad-jobs:6ac6db30372c01f6cd73f6d5",
       "company": "Lockheed Martin",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a95e4f9c8763a3a87ffcdeb",
-      "location": "King of Prussia, PA",
-      "datePosted": 1794481855,
+      "title": "Systems Engineer Asc - E1",
+      "url": "https://jobright.ai/jobs/info/6ac6db30372c01f6cd73f6d5",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794481817,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac3fc81d9621c5b2839eefb",
+      "id": "newgrad-jobs:6ae8fbc603f4a1104b2589e7",
       "company": "Lockheed Martin",
-      "title": "Systems Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
-      "location": "Owego, NY",
-      "datePosted": 1794481855,
+      "title": "Software Engineer (Embedded) Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6ae8fbc603f4a1104b2589e7",
+      "location": "Highlands Ranch, CO; Louisville, CO",
+      "datePosted": 1794481813,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Summer 2027",
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae11c3067c31ab3489a0a67",
+      "id": "newgrad-jobs:6ae3e669fb2cd420ace54dc7",
       "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae11c3067c31ab3489a0a67",
-      "location": "Longmont, CO; Boulder, CO",
-      "datePosted": 1794481822,
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6ae3e669fb2cd420ace54dc7",
+      "location": "Fort Worth, TX",
+      "datePosted": 1794481802,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6a905ab20bd89e205d249c9f",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
-      "location": "Offutt Air Force Base, NE",
-      "datePosted": 1794481811,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea67fcfc85f3a3943337c9",
+      "id": "newgrad-jobs:6aea67fb4f991d64376cdcb9",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aea67fcfc85f3a3943337c9",
+      "url": "https://jobright.ai/jobs/info/6aea67fb4f991d64376cdcb9",
       "location": "Huntsville, AL; Sunnyvale, CA; Littleton, CO",
       "datePosted": 1794481797,
       "source": "newgrad-jobs",
@@ -138,17 +270,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af5fb7d79862a378dcef674",
-      "company": "Docusign",
-      "title": "AI Platform Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af5fb7d79862a378dcef674",
-      "location": "San Francisco, CA",
-      "datePosted": 1794481494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af60d3ef10ae27369e1628d",
       "company": "Accenture Federal Services",
       "title": "Associate Software Engineer-Hire-to-Train Program (Pega)",
@@ -168,17 +289,6 @@
       "datePosted": 1794481173,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4f5751b2c5dcbbcd65d5d",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af4f5751b2c5dcbbcd65d5d",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794481166,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -204,48 +314,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae9751014b684da08de01dd",
+      "id": "newgrad-jobs:6af36db5f6053e296fc7c7d0",
       "company": "Lockheed Martin",
-      "title": "Software Engineer Asc- Early Career",
-      "url": "https://jobright.ai/jobs/info/6ae9751014b684da08de01dd",
-      "location": "Orlando, FL",
-      "datePosted": 1794480949,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeca83da2661405dc2c4dee",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6aeca83da2661405dc2c4dee",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af36db5f6053e296fc7c7d0",
       "location": "Fort Worth, TX; Orlando, FL",
-      "datePosted": 1794480949,
+      "datePosted": 1794480831,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
+      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
+      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
       "location": "King of Prussia, PA",
       "datePosted": 1794480831,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af224b68cbcfef4a59d996d",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af224b68cbcfef4a59d996d",
-      "location": "Fort Worth, TX",
-      "datePosted": 1794480831,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae4b853c3139b475b5b51f8",
@@ -259,55 +347,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae8fbc603f4a1104b2589e7",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer (Embedded) Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae8fbc603f4a1104b2589e7",
-      "location": "Highlands Ranch, CO; Louisville, CO",
-      "datePosted": 1794480691,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aece331465e3d23713828cb",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6aece331465e3d23713828cb",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1794480606,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6db30372c01f6cd73f6d5",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Asc - E1",
-      "url": "https://jobright.ai/jobs/info/6ac6db30372c01f6cd73f6d5",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794480588,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aeca84fa9ea762a04090b87",
       "company": "Lockheed Martin",
       "title": "Software Engineer-INTERN",
       "url": "https://jobright.ai/jobs/info/6aeca84fa9ea762a04090b87",
       "location": "King of Prussia, PA; United States",
-      "datePosted": 1794480585,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8bd316c51033758f4232f",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6ae8bd316c51033758f4232f",
-      "location": "Aguadilla, PR",
       "datePosted": 1794480585,
       "source": "newgrad-jobs",
       "season": null,
@@ -391,17 +435,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af601daa4a5218a07e823eb",
-      "company": "POZzlePiece Inc",
-      "title": "Q&A Tester/Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6af601daa4a5218a07e823eb",
-      "location": "United States",
-      "datePosted": 1794478426,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af6013079862a378dcefb5c",
       "company": "Point72",
       "title": "Post-Training Research Scientist",
@@ -413,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd081d372c01f6cd71df1d",
+      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd081d372c01f6cd71df1d",
+      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
       "location": "Salt Lake City, UT",
       "datePosted": 1794478256,
       "source": "newgrad-jobs",
@@ -674,28 +707,6 @@
       "datePosted": 1794470877,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada18d354bbabbab071287f",
-      "company": "IBM",
-      "title": "Research Intern 2027 \u2013 Quantum-HPC Integration",
-      "url": "https://jobright.ai/jobs/info/6ada18d354bbabbab071287f",
-      "location": "Yorktown Heights, NY",
-      "datePosted": 1794470726,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee30d55c81f621d31136e2",
-      "company": "Vercel",
-      "title": "Software Engineering Intern - Summer '27",
-      "url": "https://jobright.ai/jobs/info/6aee30d55c81f621d31136e2",
-      "location": "San Francisco, CA",
-      "datePosted": 1794470474,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1670489511324528",
       "location": "Redmond, WA",
       "datePosted": 1794267352,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:93dc8a39-b123-4a92-b9c8-10dc0b91ad3b",
-      "company": "Epic Games",
-      "title": "AI Programmer Intern",
-      "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
-      "location": "Cary, NC",
-      "datePosted": 1794265681,
       "source": "aggregator",
       "season": null,
       "isNew": false
