@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T13:10:19Z",
-  "totalOpen": 1577,
-  "totalNewgrad": 218,
-  "totalOther": 1359,
+  "generatedAt": "2026-11-12T13:20:19Z",
+  "totalOpen": 1579,
+  "totalNewgrad": 221,
+  "totalOther": 1358,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1794457648,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af5afaca4a5218a07e7f823",
@@ -47,7 +47,29 @@
       "datePosted": 1794457388,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac294c95c707f49dfefd28",
+      "company": "ConductorAI",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aac294c95c707f49dfefd28",
+      "location": "New York, NY; Washington, DC",
+      "datePosted": 1794457107,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa0d339ea127c3794699159",
+      "company": "K2 Space Corporation",
+      "title": "Simulation Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa0d339ea127c3794699159",
+      "location": "Torrance, CA",
+      "datePosted": 1794456743,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "simplify:bc41dd4e-3319-4672-8e56-bee0b6b615df",
@@ -69,7 +91,7 @@
       "datePosted": 1794455731,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
@@ -103,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
+      "company": "The Nuclear Company",
+      "title": "Spring 2027 Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f",
+      "location": "Washington, DC",
+      "datePosted": 1794454113,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abaac6cee0b348be729ad33",
@@ -182,14 +215,25 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac362b0064da25272e0e179",
+      "id": "newgrad-jobs:6a71a41071acd469eeda392f",
       "company": "TikTok",
-      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac362b0064da25272e0e179",
+      "title": "Machine Learning Engineer Intern (App Ads and Gaming) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71a41071acd469eeda392f",
       "location": "San Jose, CA",
-      "datePosted": 1794450225,
+      "datePosted": 1794450477,
       "source": "newgrad-jobs",
-      "season": null,
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a71a40e02d93145bf890237",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Brand Ads) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71a40e02d93145bf890237",
+      "location": "San Jose, CA",
+      "datePosted": 1794450476,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -198,9 +242,20 @@
       "title": "(General Hire) Software Engineer Intern (Trust and Safety-Engineering) - 2027 Summer",
       "url": "https://jobright.ai/jobs/info/6a779187b17cba56903606c2",
       "location": "San Jose, CA",
-      "datePosted": 1794450207,
+      "datePosted": 1794450476,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac362b0064da25272e0e179",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6ac362b0064da25272e0e179",
+      "location": "San Jose, CA",
+      "datePosted": 1794450225,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -501,17 +556,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a71a40e02d93145bf890237",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (Brand Ads) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a40e02d93145bf890237",
-      "location": "San Jose, CA",
-      "datePosted": 1794447985,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a701a1ef5953013637f726e",
       "company": "TikTok",
       "title": "Backend Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer",
@@ -611,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a701a44cd3bac13d3709855",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Creative Intelligence and Brand Innovation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a44cd3bac13d3709855",
-      "location": "San Jose, CA",
-      "datePosted": 1794446992,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a71a41f71acd469eeda3931",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation-Global E-Commerce) - 2027 Summer",
@@ -672,39 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ad7d1ea52aa6152bb69fbff",
       "location": "Boise, ID",
       "datePosted": 1794445524,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af577ac3a9a26aee70a49c7",
-      "company": "Torentify",
-      "title": "Software Engineer - Remote Role",
-      "url": "https://jobright.ai/jobs/info/6af577ac3a9a26aee70a49c7",
-      "location": "United States",
-      "datePosted": 1794443052,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af577652278454e18c3c84d",
-      "company": "TETRAHED INC",
-      "title": "Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)",
-      "url": "https://jobright.ai/jobs/info/6af577652278454e18c3c84d",
-      "location": "Washington, DC",
-      "datePosted": 1794442981,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af571ab2278454e18c3c746",
-      "company": "OneForma",
-      "title": "Tagalog Speech Translation Evaluator",
-      "url": "https://jobright.ai/jobs/info/6af571ab2278454e18c3c746",
-      "location": "Australia; Canada; Hong Kong; India; New Zealand; Singapore; United Arab Emirates; United Kingdom; United States",
-      "datePosted": 1794441515,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1293,17 +1293,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:e03b6712-6fc8-49ac-8eff-78c833c529fa",
-      "company": "Whoop",
-      "title": "Software Engineer Co-op, Backend, Business Systems",
-      "url": "https://go.vansh.nyc/1sK",
-      "location": "Boston, MA",
-      "datePosted": 1794262317,
-      "source": "aggregator",
-      "season": "Spring",
-      "isNew": false
-    },
-    {
       "id": "simplify:821ddc2d-4f85-430a-82eb-ab034f0ac3c9",
       "company": "Whoop",
       "title": "Software Engineer I (Backend, Growth)",
@@ -1321,6 +1310,17 @@
       "url": "https://go.vansh.nyc/1oT",
       "location": "Chicago, IL",
       "datePosted": 1794247809,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:3dbb6972-d6ac-421f-a585-0e73f702f92a",
+      "company": "Wolverine Trading",
+      "title": "C++ Software Engineer New Grad",
+      "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq",
+      "location": "Chicago, IL",
+      "datePosted": 1794242819,
       "source": "aggregator",
       "season": null,
       "isNew": false
