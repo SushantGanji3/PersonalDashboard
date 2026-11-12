@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T11:10:19Z",
-  "totalOpen": 1575,
+  "generatedAt": "2026-11-12T11:20:17Z",
+  "totalOpen": 1576,
   "totalNewgrad": 217,
-  "totalOther": 1358,
+  "totalOther": 1359,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:a7ece1d7-457b-4996-86ff-666aa9b7490a",
+      "company": "Microsoft",
+      "title": "Data Scientist Intern, CoreAI",
+      "url": "https://go.vansh.nyc/1wj",
+      "location": "Redmond, WA",
+      "datePosted": 1794478846,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:bc41dd4e-3319-4672-8e56-bee0b6b615df",
@@ -47,7 +58,7 @@
       "datePosted": 1794449387,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a765c34a26ccc369f834fee",
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1oT",
       "location": "Chicago, IL",
       "datePosted": 1794247809,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3dbb6972-d6ac-421f-a585-0e73f702f92a",
-      "company": "Wolverine Trading",
-      "title": "C++ Software Engineer New Grad",
-      "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq",
-      "location": "Chicago, IL",
-      "datePosted": 1794242819,
       "source": "aggregator",
       "season": null,
       "isNew": false
