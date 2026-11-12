@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T08:10:15Z",
-  "totalOpen": 1573,
-  "totalNewgrad": 216,
+  "generatedAt": "2026-11-12T08:20:17Z",
+  "totalOpen": 1570,
+  "totalNewgrad": 213,
   "totalOther": 1357,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af56fd43a9a26aee70a4893",
+      "company": "OneForma",
+      "title": "Tagalog Speech Translation Evaluator",
+      "url": "https://jobright.ai/jobs/info/6af56fd43a9a26aee70a4893",
+      "location": "Australia; Canada; Hong Kong; India; New Zealand; Singapore; United Arab Emirates; United Kingdom; United States",
+      "datePosted": 1794441044,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
@@ -754,17 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aee2cc9c7498922fe0c94ca",
-      "company": "Gotham Technology Group",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6aee2cc9c7498922fe0c94ca",
-      "location": "New York, NY",
-      "datePosted": 1794406615,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:46b48762-e76f-4598-8440-e22bebf7a645",
       "company": "Astranis",
       "title": "Embedded Software Developer \u2013 Network/Payload Intern",
@@ -927,7 +927,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:040ae0b9-6d76-4faf-9fbb-83d3353f714f",
