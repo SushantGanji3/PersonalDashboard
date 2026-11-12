@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T07:30:17Z",
-  "totalOpen": 1570,
-  "totalNewgrad": 215,
-  "totalOther": 1355,
+  "generatedAt": "2026-11-12T07:40:15Z",
+  "totalOpen": 1572,
+  "totalNewgrad": 216,
+  "totalOther": 1356,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -105,6 +105,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af3d124f6053e296fc80299",
+      "company": "Spectrum",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af3d124f6053e296fc80299",
+      "location": "Greenwood Village, CO",
+      "datePosted": 1794433948,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6af510fa2278454e18c3ab5b",
       "company": "Viasat",
       "title": "Associate Software Engineer, Early Career",
@@ -113,17 +124,6 @@
       "datePosted": 1794433876,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3d124f6053e296fc80299",
-      "company": "Spectrum",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6af3d124f6053e296fc80299",
-      "location": "Greenwood Village, CO",
-      "datePosted": 1794433002,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -446,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4fb93cbd2ee75d155ef16",
+      "id": "newgrad-jobs:6af4f7cd1b2c5dcbbcd65e7b",
       "company": "Infosys",
       "title": "React Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6af4fb93cbd2ee75d155ef16",
+      "url": "https://jobright.ai/jobs/info/6af4f7cd1b2c5dcbbcd65e7b",
       "location": "Dallas, TX; New York, NY",
       "datePosted": 1794412115,
       "source": "newgrad-jobs",
@@ -1007,6 +1007,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "company": "Goldman Sachs",
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://higher.gs.com/roles/188640",
+      "location": "Dallas, TX",
+      "datePosted": 1794351889,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:bafc9090-b9c7-4bef-a0be-926faf866497",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794241394,
       "source": "aggregator",
       "season": "Spring",
-      "isNew": false
-    },
-    {
-      "id": "simplify:fc4f1ed1-70db-4802-943c-a9bb80317c2a",
-      "company": "Comcast",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1oA",
-      "location": "New York, NY",
-      "datePosted": 1794240794,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
