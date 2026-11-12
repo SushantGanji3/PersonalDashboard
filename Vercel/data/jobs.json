@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T13:00:21Z",
-  "totalOpen": 1579,
-  "totalNewgrad": 220,
+  "generatedAt": "2026-11-12T13:10:19Z",
+  "totalOpen": 1577,
+  "totalNewgrad": 218,
   "totalOther": 1359,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,6 +28,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a846b9cd34f700f87fb8607",
+      "company": "Trusted Concepts, Inc.",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a846b9cd34f700f87fb8607",
+      "location": "Aurora, CO; Herndon, VA",
+      "datePosted": 1794457648,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af5afaca4a5218a07e7f823",
+      "company": "CACI International Inc",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af5afaca4a5218a07e7f823",
+      "location": "Lisle, IL",
+      "datePosted": 1794457388,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:bc41dd4e-3319-4672-8e56-bee0b6b615df",
       "company": "RTX",
       "title": "Associate Software Engineer I, CDS / Engine System Software",
@@ -37,6 +59,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeded03c7498922fe0c5a2c",
+      "company": "Quicken Loans",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aeded03c7498922fe0c5a2c",
+      "location": "Detroit, MI; Cypress Waters, TX, United States",
+      "datePosted": 1794455731,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
@@ -58,6 +91,17 @@
       "datePosted": 1794454734,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3b8294ac248020e8d403d",
+      "company": "MANTECH",
+      "title": "Associate CNO Developer",
+      "url": "https://jobright.ai/jobs/info/6af3b8294ac248020e8d403d",
+      "location": "Hanover, MD",
+      "datePosted": 1794454194,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -677,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af510fa2278454e18c3ab5b",
-      "company": "Viasat",
-      "title": "Associate Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6af510fa2278454e18c3ab5b",
-      "location": "Carlsbad, CA",
-      "datePosted": 1794440822,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:36e6d23c-4ded-42d3-b2a4-30e860836348",
       "company": "Meta AI",
       "title": "Research Scientist Intern - LLM Memory and Skills",
@@ -728,39 +761,6 @@
       "location": "Palo Alto, CA",
       "datePosted": 1794437669,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae29a261f9d9308370b34ab",
-      "company": "Bending Spoons",
-      "title": "Security engineer, US",
-      "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
-      "location": "United States",
-      "datePosted": 1794436285,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a2d8018fc0644749054c588",
-      "company": "Rundoo",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a2d8018fc0644749054c588",
-      "location": "San Mateo, CA",
-      "datePosted": 1794434899,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecb33ea9ea762a040912c6",
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Associate Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6aecb33ea9ea762a040912c6",
-      "location": "Niskayuna, NY",
-      "datePosted": 1794434826,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
