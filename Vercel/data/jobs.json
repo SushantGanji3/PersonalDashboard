@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-12T23:30:20Z",
-  "totalOpen": 1573,
+  "generatedAt": "2026-11-12T23:40:17Z",
+  "totalOpen": 1580,
   "totalNewgrad": 227,
-  "totalOther": 1346,
+  "totalOther": 1353,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
+      "company": "Apple",
+      "title": "Software Engineer - Ad Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200694769",
+      "location": "Cupertino, CA",
+      "datePosted": 1794525361,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:c7e6a21c-950d-4911-9d30-2d9677d32f46",
       "company": "General Dynamics",
@@ -26,6 +37,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:d195e49a-0c54-46a9-aba8-414e38f7ec6d",
+      "company": "SpaceX",
+      "title": "Aerospace Software Engineer New Grad - Aerospace Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939697002",
+      "location": "Hawthorne, CA",
+      "datePosted": 1794506168,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af5f5aca4a5218a07e81be4",
@@ -732,6 +754,28 @@
       "isNew": false
     },
     {
+      "id": "simplify:c7ea0325-d8d2-42f5-b7ac-3e4998fe42a5",
+      "company": "General Dynamics",
+      "title": "Programmer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030",
+      "location": "Raleigh, NC",
+      "datePosted": 1794441600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:bbdfb49e-0626-477a-9634-418d14fcc979",
+      "company": "Boeing",
+      "title": "Entry Flight Software Engineer - Vehicle Management Systems",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015",
+      "location": "El Segundo, CA",
+      "datePosted": 1794441600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
       "company": "Microsoft",
       "title": "Software Development Engineer",
@@ -1277,50 +1321,6 @@
       "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true",
       "location": "San Mateo, CA",
       "datePosted": 1794268800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
-      "company": "Cursor",
-      "title": "Software Engineer New Grad",
-      "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
-      "location": "Palo Alto, CA, SF, NYC",
-      "datePosted": 1794268800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bdf95c3c-92e8-478f-b997-6d325dd7a0e8",
-      "company": "Pika",
-      "title": "Applied AI Engineer Intern, Creative Experiences",
-      "url": "https://go.vansh.nyc/1pR",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794268800,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:62b968b8-7ea5-492d-8e8a-bb4fe3a0e949",
-      "company": "Waymo",
-      "title": "Software Engineer Intern, Multiverse",
-      "url": "https://go.vansh.nyc/1qh",
-      "location": "San Francisco, CA",
-      "datePosted": 1794268461,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:90b5d92f-64d7-4ce9-a653-023885a5846a",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Computational Photography & Computer Vision",
-      "url": "https://www.metacareers.com/jobs/1670489511324528",
-      "location": "Redmond, WA",
-      "datePosted": 1794267352,
       "source": "aggregator",
       "season": null,
       "isNew": false
