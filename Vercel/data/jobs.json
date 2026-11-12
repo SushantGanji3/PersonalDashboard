@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T02:20:15Z",
-  "totalOpen": 1566,
-  "totalNewgrad": 213,
+  "generatedAt": "2026-11-12T02:30:18Z",
+  "totalOpen": 1565,
+  "totalNewgrad": 212,
   "totalOther": 1353,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -69,7 +69,7 @@
       "datePosted": 1794417663,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af50fce2278454e18c3ab0d",
@@ -80,7 +80,7 @@
       "datePosted": 1794416462,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4ef363a9a26aee70a1ee4",
@@ -92,6 +92,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af50eca3a9a26aee70a2c84",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6af50eca3a9a26aee70a2c84",
+      "location": "San Jose, CA",
+      "datePosted": 1794416202,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af4cbae1b2c5dcbbcd64245",
@@ -234,7 +245,7 @@
       "datePosted": 1794412115,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4cde69144106c56a217dc",
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6af4cc569144106c56a21700",
       "location": "United States",
       "datePosted": 1794399190,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4cbaf3a9a26aee70a0856",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, Inference models optimization, AWS Neuron Inference",
-      "url": "https://jobright.ai/jobs/info/6af4cbaf3a9a26aee70a0856",
-      "location": "Cupertino, CA",
-      "datePosted": 1794399023,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
