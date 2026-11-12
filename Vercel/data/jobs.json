@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T08:00:21Z",
-  "totalOpen": 1572,
+  "generatedAt": "2026-11-12T08:10:15Z",
+  "totalOpen": 1573,
   "totalNewgrad": 216,
-  "totalOther": 1356,
+  "totalOther": 1357,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -35,6 +35,17 @@
       "location": "Redmond, WA",
       "datePosted": 1794440956,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af510fa2278454e18c3ab5b",
+      "company": "Viasat",
+      "title": "Associate Software Engineer, Early Career",
+      "url": "https://jobright.ai/jobs/info/6af510fa2278454e18c3ab5b",
+      "location": "Carlsbad, CA",
+      "datePosted": 1794440822,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -113,17 +124,6 @@
       "datePosted": 1794433948,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af510fa2278454e18c3ab5b",
-      "company": "Viasat",
-      "title": "Associate Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6af510fa2278454e18c3ab5b",
-      "location": "Carlsbad, CA",
-      "datePosted": 1794433876,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -446,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4f7cd1b2c5dcbbcd65e7b",
+      "id": "newgrad-jobs:6af4fb93cbd2ee75d155ef16",
       "company": "Infosys",
       "title": "React Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6af4f7cd1b2c5dcbbcd65e7b",
+      "url": "https://jobright.ai/jobs/info/6af4fb93cbd2ee75d155ef16",
       "location": "Dallas, TX; New York, NY",
       "datePosted": 1794412115,
       "source": "newgrad-jobs",
@@ -501,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4f73bcd7be4db20d8a26d",
+      "id": "newgrad-jobs:6af4f73bcd7be4db20d8a26e",
       "company": "Mayo Clinic",
       "title": "Software Engineer - Limited Tenure - Hybrid",
-      "url": "https://jobright.ai/jobs/info/6af4f73bcd7be4db20d8a26d",
+      "url": "https://jobright.ai/jobs/info/6af4f73bcd7be4db20d8a26e",
       "location": "Rochester, MN",
       "datePosted": 1794410171,
       "source": "newgrad-jobs",
@@ -919,6 +919,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:84233195-c78a-453a-b511-5847d39d555b",
+      "company": "RTX",
+      "title": "Associate Software Engineer 1 - CDS / Engine System Software",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197",
+      "location": "East Hartford, CT",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:040ae0b9-6d76-4faf-9fbb-83d3353f714f",
       "company": "Salesforce",
       "title": "New Grad: Software Engineering AMTS",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794242819,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f15a2007-ee95-4196-a904-f041ce1406d1",
-      "company": "Warner Bros. Discovery",
-      "title": "Software Engineering Co-op, WB Games",
-      "url": "https://go.vansh.nyc/1oz",
-      "location": "Needham, MA",
-      "datePosted": 1794241394,
-      "source": "aggregator",
-      "season": "Spring",
       "isNew": false
     }
   ]
