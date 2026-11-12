@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T12:40:16Z",
+  "generatedAt": "2026-11-12T12:50:15Z",
   "totalOpen": 1579,
   "totalNewgrad": 220,
   "totalOther": 1359,
@@ -35,6 +35,17 @@
       "location": "Etc, CT",
       "datePosted": 1794456017,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Implant",
+      "url": "https://jobright.ai/jobs/info/6a8ca19725fc4e7ae3db985e",
+      "location": "Austin, TX; South San Francisco, CA",
+      "datePosted": 1794454918,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -114,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a29044340ac8e32932a4da1",
+      "company": "TikTok",
+      "title": "Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6a29044340ac8e32932a4da1",
+      "location": "San Jose, CA",
+      "datePosted": 1794450962,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac362b0064da25272e0e179",
@@ -567,39 +589,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab4155ed2f5fbd604be1755",
-      "company": "CNH",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ab4155ed2f5fbd604be1755",
-      "location": "Oak Brook, IL",
-      "datePosted": 1794445868,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af36dab80020ca3a8975944",
-      "company": "Trimble Inc.",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6af36dab80020ca3a8975944",
-      "location": "Knoxville, TN",
-      "datePosted": 1794445845,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa13361b766020e9cd28ffd",
-      "company": "CNH",
-      "title": "Data Engineer Intern - Python",
-      "url": "https://jobright.ai/jobs/info/6aa13361b766020e9cd28ffd",
-      "location": "Sioux Falls, SD; Goodfield, IL; New Holland, PA; Oak Brook, IL",
-      "datePosted": 1794445725,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad905f9b0725dc268dd88b9",
       "company": "Akamai Technologies",
       "title": "Software Engineer",
@@ -609,6 +598,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa0adb2500b01124c77a86a",
+      "company": "CNH",
+      "title": "Data Engineer Intern - Python",
+      "url": "https://jobright.ai/jobs/info/6aa0adb2500b01124c77a86a",
+      "location": "Sioux Falls, SD",
+      "datePosted": 1794445689,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad7f19b52aa6152bb6a14f8",
