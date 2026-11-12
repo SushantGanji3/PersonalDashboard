@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-11-12T19:10:19Z",
-  "totalOpen": 1563,
-  "totalNewgrad": 209,
+  "generatedAt": "2026-11-12T19:11:07Z",
+  "totalOpen": 1560,
+  "totalNewgrad": 206,
   "totalOther": 1354,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6aa19c70ef23570cae245121",
-      "company": "MKS Inc.",
-      "title": "2027 Spring Software Engineering Undergraduate Intern/Co-op (R20377)",
-      "url": "https://jobright.ai/jobs/info/6aa19c70ef23570cae245121",
-      "location": "Rochester, NY",
-      "datePosted": 1794478859,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": true
-    },
     {
       "id": "simplify:6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
       "company": "Microsoft",
@@ -39,28 +28,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad8267f67bec1d0d9c7c27f",
-      "company": "Cboe Global Markets",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ad8267f67bec1d0d9c7c27f",
-      "location": "Chicago, IL; Kansas City, MO; New York, NY",
-      "datePosted": 1794478783,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af601daa4a5218a07e823eb",
-      "company": "POZzlePiece Inc",
-      "title": "Q&A Tester/Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6af601daa4a5218a07e823eb",
-      "location": "United States",
-      "datePosted": 1794478426,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6ad8e905950ef68d5184b59c",
       "company": "Tanium",
       "title": "AI Research Scientist",
@@ -69,7 +36,7 @@
       "datePosted": 1794478384,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af6013079862a378dcefb5c",
@@ -80,15 +47,15 @@
       "datePosted": 1794478256,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
-      "company": "L3Harris",
-      "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
-      "location": "Salt Lake City, UT",
-      "datePosted": 1794478256,
+      "id": "newgrad-jobs:6abbccd0d6acfd3dd29f9f08",
+      "company": "Systems Planning & Analysis",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abbccd0d6acfd3dd29f9f08",
+      "location": "San Diego, CA",
+      "datePosted": 1794478235,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -102,18 +69,18 @@
       "datePosted": 1794478168,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af5e5cea4a5218a07e811a9",
-      "company": "Entegris",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6af5e5cea4a5218a07e811a9",
-      "location": "Bloomington, MN",
-      "datePosted": 1794477676,
+      "id": "newgrad-jobs:6af5fe3c323c531f31e2ea90",
+      "company": "SpaceX",
+      "title": "Aerospace Software Engineer (Starfall)",
+      "url": "https://jobright.ai/jobs/info/6af5fe3c323c531f31e2ea90",
+      "location": "Hawthorne, CA",
+      "datePosted": 1794477500,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af5fc0ff10ae27369e154d8",
@@ -204,6 +171,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6abd573f372c01f6cd71ff3b",
+      "company": "SpaceX",
+      "title": "RF Silicon Software Engineer (RFIC Engineering)",
+      "url": "https://jobright.ai/jobs/info/6abd573f372c01f6cd71ff3b",
+      "location": "Redmond, WA",
+      "datePosted": 1794475110,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a860428d34f700f87fbfb14",
+      "company": "SpaceX",
+      "title": "Wi-Fi Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a860428d34f700f87fbfb14",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794475007,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac6b9a7372c01f6cd73ece4",
+      "company": "Docusign",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac6b9a7372c01f6cd73ece4",
+      "location": "Seattle, WA",
+      "datePosted": 1794475003,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6a693d783b549b0b531d49d0",
       "company": "SpaceX",
       "title": "Operations Engineer, Applied AI (Application Software)",
@@ -212,7 +212,18 @@
       "datePosted": 1794474979,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af5f0738cc703bba47ae40f",
+      "company": "RLI Insurance Company",
+      "title": "Associate Software Engineer (.Net) - Peoria, IL or Tempe, AZ",
+      "url": "https://jobright.ai/jobs/info/6af5f0738cc703bba47ae40f",
+      "location": "Peoria, IL; Tempe, AZ",
+      "datePosted": 1794474913,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aac0d113d96632d741a8d5c",
@@ -226,17 +237,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0d75a5a5afc94bd2c7e66",
-      "company": "RTX",
-      "title": "Part Time Systems Engineer Co-Op (Remote)",
-      "url": "https://jobright.ai/jobs/info/6ae0d75a5a5afc94bd2c7e66",
-      "location": "United States",
-      "datePosted": 1794474588,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6ad8fa40b0725dc268dd7f4f",
       "company": "Honeywell Technologies",
       "title": "Spring 2027 Artificial Intelligence/Machine Learning Co-Op",
@@ -245,17 +245,6 @@
       "datePosted": 1794474434,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af5f0738cc703bba47ae40f",
-      "company": "RLI Insurance Company",
-      "title": "Associate Software Engineer (.Net) - Peoria, IL or Tempe, AZ",
-      "url": "https://jobright.ai/jobs/info/6af5f0738cc703bba47ae40f",
-      "location": "Peoria, IL; Tempe, AZ",
-      "datePosted": 1794473845,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -347,6 +336,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af5e5cea4a5218a07e811a9",
+      "company": "Entegris",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6af5e5cea4a5218a07e811a9",
+      "location": "Bloomington, MN",
+      "datePosted": 1794471132,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6af4cc2ecd7be4db20d887e2",
       "company": "Amazon",
       "title": "Data Engineer , PXT EXR-Ops Tech",
@@ -408,6 +408,17 @@
       "url": "https://jobright.ai/jobs/info/6aeb7342f40efa43f4a17713",
       "location": "Andover, MA",
       "datePosted": 1794469519,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad8267f67bec1d0d9c7c27f",
+      "company": "Cboe Global Markets",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ad8267f67bec1d0d9c7c27f",
+      "location": "Chicago, IL; Kansas City, MO; New York, NY",
+      "datePosted": 1794468195,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -684,17 +695,6 @@
       "location": "Etc, CT",
       "datePosted": 1794456017,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aeded03c7498922fe0c5a2c",
-      "company": "Quicken Loans",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6aeded03c7498922fe0c5a2c",
-      "location": "Detroit, MI; Cypress Waters, TX, United States",
-      "datePosted": 1794455731,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
