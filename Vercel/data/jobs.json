@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T10:40:17Z",
-  "totalOpen": 1577,
-  "totalNewgrad": 218,
+  "generatedAt": "2026-11-12T10:50:17Z",
+  "totalOpen": 1574,
+  "totalNewgrad": 215,
   "totalOther": 1359,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794478846,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bc41dd4e-3319-4672-8e56-bee0b6b615df",
@@ -36,7 +36,7 @@
       "datePosted": 1794449383,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a714fde9a0ca4480c7d3c2b",
@@ -47,7 +47,7 @@
       "datePosted": 1794449382,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a3d04fe4d047136e093200a",
@@ -72,28 +72,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
-      "company": "Deloitte",
-      "title": "Palantir Developer, Consultant",
-      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
-      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
-      "datePosted": 1794448940,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ad8f0bd39284cd524281d1c",
-      "company": "Tommy Bahama",
-      "title": "Associate Front End Web Developer",
-      "url": "https://jobright.ai/jobs/info/6ad8f0bd39284cd524281d1c",
-      "location": "Seattle, WA",
-      "datePosted": 1794448490,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6a71a42dcb96192a368499a0",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer",
@@ -102,7 +80,7 @@
       "datePosted": 1794448191,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a706e6ab85a7d35acd1c393",
@@ -113,29 +91,7 @@
       "datePosted": 1794448131,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ae5e215d45dc30fb7d37bad",
-      "company": "TikTok",
-      "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6ae5e215d45dc30fb7d37bad",
-      "location": "San Jose, CA",
-      "datePosted": 1794448130,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ad76437950ef68d5183faf9",
-      "company": "RTX",
-      "title": "Flight Control Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ad76437950ef68d5183faf9",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1794448125,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac63dfe372c01f6cd73c1b3",
@@ -146,7 +102,7 @@
       "datePosted": 1794448108,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a71a409ee751e0c7934463a",
@@ -157,7 +113,7 @@
       "datePosted": 1794448045,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a701a2c41b41d325296dda9",
@@ -179,7 +135,7 @@
       "datePosted": 1794447196,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a71a41f71acd469eeda3931",
@@ -699,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4f7ffcd7be4db20d8a2dd",
+      "id": "newgrad-jobs:6af4fb8f1b2c5dcbbcd66057",
       "company": "Infosys",
       "title": "Java Backend Developer",
-      "url": "https://jobright.ai/jobs/info/6af4f7ffcd7be4db20d8a2dd",
+      "url": "https://jobright.ai/jobs/info/6af4fb8f1b2c5dcbbcd66057",
       "location": "Dallas, TX; New York, NY",
       "datePosted": 1794414089,
       "source": "newgrad-jobs",
@@ -760,6 +716,50 @@
       "url": "https://jobright.ai/jobs/info/6af5007f2278454e18c3a4ac",
       "location": "Rochester, MN",
       "datePosted": 1794412543,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4ff37cbd2ee75d155eff5",
+      "company": "Mayo Clinic Rochester",
+      "title": "Software Engineer - Limited Tenure - Hybrid",
+      "url": "https://jobright.ai/jobs/info/6af4ff37cbd2ee75d155eff5",
+      "location": "Rochester, MN",
+      "datePosted": 1794412215,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4fb93cbd2ee75d155ef16",
+      "company": "Infosys",
+      "title": "React Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6af4fb93cbd2ee75d155ef16",
+      "location": "Dallas, TX; New York, NY",
+      "datePosted": 1794412115,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af371387c81de7a524bfa28",
+      "company": "Snowflake",
+      "title": "Software Engineer - Customer Experience Engineering",
+      "url": "https://jobright.ai/jobs/info/6af371387c81de7a524bfa28",
+      "location": "Menlo Park, CA",
+      "datePosted": 1794411837,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4ebfbcbd2ee75d155e5ff",
+      "company": "BehaviorAI",
+      "title": "Machine Learning Engineer Internship \u2014 Generative Modeling",
+      "url": "https://jobright.ai/jobs/info/6af4ebfbcbd2ee75d155e5ff",
+      "location": "New York, NY",
+      "datePosted": 1794411078,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
