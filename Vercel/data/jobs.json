@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T23:40:17Z",
-  "totalOpen": 1580,
+  "generatedAt": "2026-11-12T23:50:16Z",
+  "totalOpen": 1581,
   "totalNewgrad": 227,
-  "totalOther": 1353,
+  "totalOther": 1354,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1794525361,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c7e6a21c-950d-4911-9d30-2d9677d32f46",
@@ -47,7 +47,7 @@
       "datePosted": 1794506168,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af5f5aca4a5218a07e81be4",
@@ -762,13 +762,24 @@
       "datePosted": 1794441600,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bbdfb49e-0626-477a-9634-418d14fcc979",
       "company": "Boeing",
       "title": "Entry Flight Software Engineer - Vehicle Management Systems",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015",
+      "location": "El Segundo, CA",
+      "datePosted": 1794441600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:386bc549-fcff-4df1-acf1-d6380e7c183a",
+      "company": "Boeing",
+      "title": "Flight Software Engineer, Vehicle Management Systems",
+      "url": "https://go.vansh.nyc/1y8",
       "location": "El Segundo, CA",
       "datePosted": 1794441600,
       "source": "aggregator",
@@ -1309,17 +1320,6 @@
       "title": "Software Engineering Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806",
       "location": "St. Petersburg, FL",
-      "datePosted": 1794268800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:77f95303-20e3-473d-bd6e-a80db7329381",
-      "company": "Skydio",
-      "title": "Middleware Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true",
-      "location": "San Mateo, CA",
       "datePosted": 1794268800,
       "source": "aggregator",
       "season": null,
