@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T04:20:15Z",
-  "totalOpen": 1566,
-  "totalNewgrad": 211,
+  "generatedAt": "2026-11-12T04:30:17Z",
+  "totalOpen": 1567,
+  "totalNewgrad": 212,
   "totalOther": 1355,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794456017,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:347a6b27-ec19-490b-9189-2c5f45152597",
@@ -94,12 +94,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac94e36af788e6ad3b5adfc",
+      "company": "JourneyTeam",
+      "title": "Associate Developer, Business Central",
+      "url": "https://jobright.ai/jobs/info/6ac94e36af788e6ad3b5adfc",
+      "location": "United States",
+      "datePosted": 1794422528,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af524621b2c5dcbbcd66d35",
       "company": "ServiceNow",
       "title": "Assoc Information Security Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6af524621b2c5dcbbcd66d35",
       "location": "San Diego, CA",
       "datePosted": 1794421730,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4cbaf3a9a26aee70a0856",
+      "company": "Amazon",
+      "title": "Software Development Engineer I, Inference models optimization, AWS Neuron Inference",
+      "url": "https://jobright.ai/jobs/info/6af4cbaf3a9a26aee70a0856",
+      "location": "Cupertino, CA",
+      "datePosted": 1794420312,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -168,7 +190,7 @@
       "datePosted": 1794417990,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af5147f3a9a26aee70a2e08",
@@ -234,7 +256,7 @@
       "datePosted": 1794414340,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:7c3a4e38-9f60-4930-b927-0bca4f0e442f",
@@ -244,6 +266,28 @@
       "location": "SF",
       "datePosted": 1794414205,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4cde69144106c56a217dc",
+      "company": "Infosys",
+      "title": "Java Developer",
+      "url": "https://jobright.ai/jobs/info/6af4cde69144106c56a217dc",
+      "location": "Bernards, NJ; Richardson, TX; Tampa, FL",
+      "datePosted": 1794414092,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4fb8f1b2c5dcbbcd66057",
+      "company": "Infosys",
+      "title": "Java Backend Developer",
+      "url": "https://jobright.ai/jobs/info/6af4fb8f1b2c5dcbbcd66057",
+      "location": "Dallas, TX; New York, NY",
+      "datePosted": 1794414089,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -325,34 +369,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4cde69144106c56a217dc",
-      "company": "Infosys",
-      "title": "Java Developer",
-      "url": "https://jobright.ai/jobs/info/6af4cde69144106c56a217dc",
-      "location": "Bernards, NJ; Richardson, TX; Tampa, FL",
-      "datePosted": 1794412080,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af371387c81de7a524bfa28",
       "company": "Snowflake",
       "title": "Software Engineer - Customer Experience Engineering",
       "url": "https://jobright.ai/jobs/info/6af371387c81de7a524bfa28",
       "location": "Menlo Park, CA",
       "datePosted": 1794411837,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4fb8f1b2c5dcbbcd66057",
-      "company": "Infosys",
-      "title": "Java Backend Developer",
-      "url": "https://jobright.ai/jobs/info/6af4fb8f1b2c5dcbbcd66057",
-      "location": "Dallas, TX; New York, NY",
-      "datePosted": 1794411279,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -740,28 +762,6 @@
       "datePosted": 1794405696,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af497762278454e18c365c7",
-      "company": "Brex",
-      "title": "Software Engineer, Intern  (Summer 2027(",
-      "url": "https://jobright.ai/jobs/info/6af497762278454e18c365c7",
-      "location": "San Francisco, CA",
-      "datePosted": 1794404922,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a96bf28f5337b2cf731dcf5",
-      "company": "Leonardo DRS",
-      "title": "Systems Engineer - DevOps",
-      "url": "https://jobright.ai/jobs/info/6a96bf28f5337b2cf731dcf5",
-      "location": "Germantown, MD",
-      "datePosted": 1794401316,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
