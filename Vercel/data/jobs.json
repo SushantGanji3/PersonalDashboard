@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:00:20Z",
+  "generatedAt": "2026-11-12T07:10:16Z",
   "totalOpen": 1570,
   "totalNewgrad": 215,
   "totalOther": 1355,
@@ -79,6 +79,17 @@
       "location": "Palo Alto, CA",
       "datePosted": 1794437669,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae29a261f9d9308370b34ab",
+      "company": "Bending Spoons",
+      "title": "Security engineer, US",
+      "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
+      "location": "United States",
+      "datePosted": 1794436285,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -435,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4f7cd1b2c5dcbbcd65e7b",
+      "id": "newgrad-jobs:6af4fb93cbd2ee75d155ef16",
       "company": "Infosys",
       "title": "React Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6af4f7cd1b2c5dcbbcd65e7b",
+      "url": "https://jobright.ai/jobs/info/6af4fb93cbd2ee75d155ef16",
       "location": "Dallas, TX; New York, NY",
       "datePosted": 1794412115,
       "source": "newgrad-jobs",
@@ -490,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4f73bcd7be4db20d8a26e",
+      "id": "newgrad-jobs:6af4f73bcd7be4db20d8a26d",
       "company": "Mayo Clinic",
       "title": "Software Engineer - Limited Tenure - Hybrid",
-      "url": "https://jobright.ai/jobs/info/6af4f73bcd7be4db20d8a26e",
+      "url": "https://jobright.ai/jobs/info/6af4f73bcd7be4db20d8a26d",
       "location": "Rochester, MN",
       "datePosted": 1794410171,
       "source": "newgrad-jobs",
@@ -754,17 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
-      "company": "AMD",
-      "title": "Distributed Systems Software Engineer, Collectives",
-      "url": "https://jobright.ai/jobs/info/6ae23d0a1f9d9308370afd1d",
-      "location": "San Jose, CA; Austin, TX",
-      "datePosted": 1794406491,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:46b48762-e76f-4598-8440-e22bebf7a645",
       "company": "Astranis",
       "title": "Embedded Software Developer \u2013 Network/Payload Intern",
@@ -862,6 +862,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:42f44307-aff3-43e3-a668-7c1e8f770572",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Pathways",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171",
+      "location": "Boulder, CO",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:ca395a24-b9ab-4e88-8638-0a2610af77fe",
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1oA",
       "location": "New York, NY",
       "datePosted": 1794240794,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:bcbd3d91-e2a7-446f-ae18-f25df3395228",
-      "company": "Comcast",
-      "title": "Data, AI & Machine Learning Intern, Media Tech",
-      "url": "https://go.vansh.nyc/1oD",
-      "location": "Universal City, CA",
-      "datePosted": 1794239714,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
