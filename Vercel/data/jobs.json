@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T20:50:17Z",
-  "totalOpen": 1560,
-  "totalNewgrad": 212,
+  "generatedAt": "2026-11-12T21:00:25Z",
+  "totalOpen": 1559,
+  "totalNewgrad": 211,
   "totalOther": 1348,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,17 @@
       "location": "Boise, ID",
       "datePosted": 1794512469,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af600d8323c531f31e2ed4d",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "url": "https://jobright.ai/jobs/info/6af600d8323c531f31e2ed4d",
+      "location": "Redmond, WA",
+      "datePosted": 1794483942,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -61,6 +72,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a95e4f9c8763a3a87ffcdeb",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a95e4f9c8763a3a87ffcdeb",
+      "location": "King of Prussia, PA",
+      "datePosted": 1794482435,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3fc81d9621c5b2839eefb",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
+      "location": "Owego, NY",
+      "datePosted": 1794482435,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aece331465e3d23713828cb",
       "company": "Lockheed Martin",
       "title": "Software Engineer - Early Career",
@@ -78,28 +111,6 @@
       "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
       "location": "Marietta, GA",
       "datePosted": 1794482391,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95e4f9c8763a3a87ffcdeb",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a95e4f9c8763a3a87ffcdeb",
-      "location": "King of Prussia, PA",
-      "datePosted": 1794482387,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3fc81d9621c5b2839eefb",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
-      "location": "Owego, NY",
-      "datePosted": 1794482387,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -314,17 +325,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af36db5f6053e296fc7c7d0",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af36db5f6053e296fc7c7d0",
-      "location": "Fort Worth, TX; Orlando, FL",
-      "datePosted": 1794480831,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
@@ -334,6 +334,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af216ea1aaffa49f738070c",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af216ea1aaffa49f738070c",
+      "location": "Fort Worth, TX; Orlando, FL",
+      "datePosted": 1794480831,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae4b853c3139b475b5b51f8",
@@ -446,15 +457,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abd0ef08ff3fb9b3bc6e331",
+      "id": "newgrad-jobs:6ad9052654bbabbab070b627",
       "company": "L3Harris",
       "title": "Intern, Software Engineer (Salt Lake City, UT)",
-      "url": "https://jobright.ai/jobs/info/6abd0ef08ff3fb9b3bc6e331",
+      "url": "https://jobright.ai/jobs/info/6ad9052654bbabbab070b627",
       "location": "Salt Lake City, UT",
       "datePosted": 1794478256,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abbccd0d6acfd3dd29f9f08",
@@ -463,17 +474,6 @@
       "url": "https://jobright.ai/jobs/info/6abbccd0d6acfd3dd29f9f08",
       "location": "San Diego, CA",
       "datePosted": 1794478235,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af600d8323c531f31e2ed4d",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "url": "https://jobright.ai/jobs/info/6af600d8323c531f31e2ed4d",
-      "location": "Redmond, WA",
-      "datePosted": 1794478168,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
