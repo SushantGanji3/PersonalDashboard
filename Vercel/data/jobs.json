@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T18:30:19Z",
-  "totalOpen": 1556,
+  "generatedAt": "2026-11-12T18:40:17Z",
+  "totalOpen": 1555,
   "totalNewgrad": 200,
-  "totalOther": 1356,
+  "totalOther": 1355,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1794475608,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6b9a7372c01f6cd73ece4",
@@ -765,17 +765,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:7c3a4e38-9f60-4930-b927-0bca4f0e442f",
-      "company": "Brex",
-      "title": "Software Engineer Intern",
-      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-      "location": "SF",
-      "datePosted": 1794414205,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:ff7873c8-dcc8-4bbf-ac84-f574d92d2e1a",
       "company": "RTX",
       "title": "Software Engineer I",
@@ -1321,6 +1310,17 @@
       "url": "https://go.vansh.nyc/1oT",
       "location": "Chicago, IL",
       "datePosted": 1794247809,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:3dbb6972-d6ac-421f-a585-0e73f702f92a",
+      "company": "Wolverine Trading",
+      "title": "C++ Software Engineer New Grad",
+      "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq",
+      "location": "Chicago, IL",
+      "datePosted": 1794242819,
       "source": "aggregator",
       "season": null,
       "isNew": false
