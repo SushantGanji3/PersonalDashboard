@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T15:20:16Z",
-  "totalOpen": 1578,
-  "totalNewgrad": 220,
+  "generatedAt": "2026-11-12T15:30:19Z",
+  "totalOpen": 1577,
+  "totalNewgrad": 219,
   "totalOther": 1358,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,7 +47,7 @@
       "datePosted": 1794464388,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad8f94e39284cd52428224d",
@@ -72,6 +72,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a62a7cac28982326de97e9c",
+      "company": "Verkada",
+      "title": "Embedded Software Engineer, Access Control",
+      "url": "https://jobright.ai/jobs/info/6a62a7cac28982326de97e9c",
+      "location": "San Mateo, CA",
+      "datePosted": 1794463268,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6abd72f48ff3fb9b3bc70a89",
       "company": "Schr\u00f6dinger",
       "title": "Scientific Machine Learning Engineer",
@@ -80,7 +91,7 @@
       "datePosted": 1794462856,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd25414ac55253f5d5b652",
@@ -91,7 +102,7 @@
       "datePosted": 1794462296,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab7020639fd8792cb73d1b6",
@@ -201,7 +212,7 @@
       "datePosted": 1794458485,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a846b9cd34f700f87fb8607",
@@ -278,7 +289,7 @@
       "datePosted": 1794454883,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7ad673dc655658d8eed8d",
@@ -290,6 +301,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a0f500d83d714428981e885",
+      "company": "Neuralink",
+      "title": "Embedded Software Engineer, Implant Embedded Systems",
+      "url": "https://jobright.ai/jobs/info/6a0f500d83d714428981e885",
+      "location": "San Francisco, CA",
+      "datePosted": 1794454593,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a76229767a1ad0bc53c8e9f",
@@ -685,28 +707,6 @@
       "datePosted": 1794448130,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad76437950ef68d5183faf9",
-      "company": "RTX",
-      "title": "Flight Control Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6ad76437950ef68d5183faf9",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1794448125,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac63dfe372c01f6cd73c1b3",
-      "company": "TikTok",
-      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6ac63dfe372c01f6cd73c1b3",
-      "location": "San Jose, CA",
-      "datePosted": 1794448108,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
