@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:30:19Z",
+  "generatedAt": "2026-11-12T13:40:20Z",
   "totalOpen": 1579,
   "totalNewgrad": 221,
   "totalOther": 1358,
@@ -26,6 +26,50 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3b8294ac248020e8d403d",
+      "company": "MANTECH",
+      "title": "Associate CNO Developer",
+      "url": "https://jobright.ai/jobs/info/6af3b8294ac248020e8d403d",
+      "location": "Hanover, MD",
+      "datePosted": 1794459033,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7ad6667bec1d0d9c77c4a",
+      "company": "Meta AI",
+      "title": "Product Security Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad7ad6667bec1d0d9c77c4a",
+      "location": "Menlo Park, CA; New York, NY",
+      "datePosted": 1794458823,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Implant",
+      "url": "https://jobright.ai/jobs/info/6a8ca19725fc4e7ae3db985e",
+      "location": "Austin, TX; South San Francisco, CA",
+      "datePosted": 1794458555,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7ad69e4b94611ab8478ad",
+      "company": "Meta AI",
+      "title": "Enterprise Security Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6ad7ad69e4b94611ab8478ad",
+      "location": "Menlo Park, CA; New York, NY",
+      "datePosted": 1794458444,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a846b9cd34f700f87fb8607",
@@ -94,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ca19725fc4e7ae3db985e",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, Implant",
-      "url": "https://jobright.ai/jobs/info/6a8ca19725fc4e7ae3db985e",
-      "location": "Austin, TX; South San Francisco, CA",
-      "datePosted": 1794454918,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad7ad673dc655658d8eed8d",
       "company": "Meta AI",
       "title": "Detection & Response Security Engineer, Intern (Summer 2027)",
@@ -113,17 +146,6 @@
       "datePosted": 1794454734,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3b8294ac248020e8d403d",
-      "company": "MANTECH",
-      "title": "Associate CNO Developer",
-      "url": "https://jobright.ai/jobs/info/6af3b8294ac248020e8d403d",
-      "location": "Hanover, MD",
-      "datePosted": 1794454194,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -182,10 +204,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa9b81aeff87f571fc9af06",
+      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
       "company": "Q2",
       "title": "2027 Summer Internship - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa9b81aeff87f571fc9af06",
+      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
       "location": "Austin, TX; Cary, NC",
       "datePosted": 1794451250,
       "source": "newgrad-jobs",
@@ -683,28 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6aa0adb2500b01124c77a86a",
       "location": "Sioux Falls, SD",
       "datePosted": 1794445689,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7f19b52aa6152bb6a14f8",
-      "company": "Micron",
-      "title": "Intern - Machine Learning Engineering",
-      "url": "https://jobright.ai/jobs/info/6ad7f19b52aa6152bb6a14f8",
-      "location": "Richardson, TX",
-      "datePosted": 1794445528,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7d1ea52aa6152bb69fbff",
-      "company": "Micron",
-      "title": "Intern - SMAI Probe AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad7d1ea52aa6152bb69fbff",
-      "location": "Boise, ID",
-      "datePosted": 1794445524,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
