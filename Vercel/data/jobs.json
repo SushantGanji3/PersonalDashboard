@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-12T00:00:19Z",
-  "totalOpen": 1556,
-  "totalNewgrad": 205,
-  "totalOther": 1351,
+  "generatedAt": "2026-11-12T00:10:16Z",
+  "totalOpen": 1561,
+  "totalNewgrad": 206,
+  "totalOther": 1355,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "simplify:f626c3a1-0755-4d04-aa67-00c39408902e",
-      "company": "Shield AI",
-      "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-      "url": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply",
-      "location": "United States",
-      "datePosted": 1794439281,
+      "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
+      "company": "Microsoft",
+      "title": "Software Development Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050698",
+      "location": "Redmond, WA",
+      "datePosted": 1794440956,
       "source": "aggregator",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "simplify:36e6d23c-4ded-42d3-b2a4-30e860836348",
@@ -72,6 +72,61 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af4f7ffcd7be4db20d8a2dd",
+      "company": "Infosys",
+      "title": "Java Backend Developer",
+      "url": "https://jobright.ai/jobs/info/6af4f7ffcd7be4db20d8a2dd",
+      "location": "Dallas, TX; New York, NY",
+      "datePosted": 1794410367,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4f7cd1b2c5dcbbcd65e7b",
+      "company": "Infosys",
+      "title": "React Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6af4f7cd1b2c5dcbbcd65e7b",
+      "location": "Dallas, TX; New York, NY",
+      "datePosted": 1794410317,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4b5e53a9a26aee709febf",
+      "company": "Bose Corporation",
+      "title": "Data Engineer Co-Op",
+      "url": "https://jobright.ai/jobs/info/6af4b5e53a9a26aee709febf",
+      "location": "Framingham, MA; Atlanta, GA; Bloomfield Hills, MI",
+      "datePosted": 1794410265,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4f73bcd7be4db20d8a26d",
+      "company": "Mayo Clinic",
+      "title": "Software Engineer - Limited Tenure - Hybrid",
+      "url": "https://jobright.ai/jobs/info/6af4f73bcd7be4db20d8a26d",
+      "location": "Rochester, MN",
+      "datePosted": 1794410171,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4f7042278454e18c3a101",
+      "company": "Revolve",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af4f7042278454e18c3a101",
+      "location": "New York City metropolitan area, United States",
+      "datePosted": 1794410116,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af4f6101b2c5dcbbcd65d9e",
       "company": "Jamf",
       "title": "Associate Software Engineer (Full Stack)",
@@ -81,6 +136,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada60014c3adc437cecc33c",
+      "company": "CDK Global",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ada60014c3adc437cecc33c",
+      "location": "Austin, TX",
+      "datePosted": 1794409839,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4d3e43a9a26aee70a0d76",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6af4d3e43a9a26aee70a0d76",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1794409416,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:ff7873c8-dcc8-4bbf-ac84-f574d92d2e1a",
@@ -135,7 +212,7 @@
       "datePosted": 1794407908,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4ebfbcbd2ee75d155e5ff",
@@ -366,17 +443,6 @@
       "datePosted": 1794406136,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4e7422278454e18c3963c",
-      "company": "Microsoft",
-      "title": "Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6af4e7422278454e18c3963c",
-      "location": "Redmond, WA",
-      "datePosted": 1794406082,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -677,72 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1da890cb834dad9320aa1",
-      "company": "Serco",
-      "title": "Junior Software Engineer - Remote",
-      "url": "https://jobright.ai/jobs/info/6af1da890cb834dad9320aa1",
-      "location": "United States",
-      "datePosted": 1794393018,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4b2252278454e18c37a2e",
-      "company": "Zotec Partners",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af4b2252278454e18c37a2e",
-      "location": "Carmel, IN",
-      "datePosted": 1794392485,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4b2242278454e18c37a2b",
-      "company": "Zotec Partners",
-      "title": "Software Engineer Intern, RCI",
-      "url": "https://jobright.ai/jobs/info/6af4b2242278454e18c37a2b",
-      "location": "Carmel, IN",
-      "datePosted": 1794392484,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4afc72278454e18c378e7",
-      "company": "CACI International Inc",
-      "title": "ArcGis Developer",
-      "url": "https://jobright.ai/jobs/info/6af4afc72278454e18c378e7",
-      "location": "United States",
-      "datePosted": 1794391879,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4ae6f9144106c56a2080d",
-      "company": "General Atomics",
-      "title": "Software Developer I",
-      "url": "https://jobright.ai/jobs/info/6af4ae6f9144106c56a2080d",
-      "location": "Poway, CA",
-      "datePosted": 1794391535,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea64c0897466e69e31ea78",
-      "company": "RoboForce",
-      "title": "Machine Learning Engineer Intern, AI & Robotics",
-      "url": "https://jobright.ai/jobs/info/6aea64c0897466e69e31ea78",
-      "location": "Milpitas, CA",
-      "datePosted": 1794391029,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:46b48762-e76f-4598-8440-e22bebf7a645",
       "company": "Astranis",
       "title": "Embedded Software Developer \u2013 Network/Payload Intern",
@@ -809,6 +809,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
+      "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true",
+      "location": "United States",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:c274d687-71f7-4484-8ae0-52884c72e8f8",
       "company": "Salesforce",
       "title": "Software Engineering AMTS New Grad",
@@ -840,6 +851,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:81315681-6dd1-4be6-b44a-b38bc073ce53",
+      "company": "Boeing",
+      "title": "Embedded Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493",
+      "location": "Long Beach, CA",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b232ce33-4440-4e8e-a7aa-5525eec04558",
+      "company": "Boeing",
+      "title": "Entry-Level Missions Systems Software Engineer - Embedded",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463",
+      "location": "Berkeley, MO",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:040ae0b9-6d76-4faf-9fbb-83d3353f714f",
@@ -1288,39 +1321,6 @@
       "url": "https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false",
       "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
       "datePosted": 1794182400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0f772ef3-bf68-469c-8f4e-85239e83014d",
-      "company": "General Dynamics",
-      "title": "Full-Stack Application Development Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false",
-      "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
-      "datePosted": 1794182400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8311a236-895c-4bee-b40e-ed11cf6127e8",
-      "company": "Whoop",
-      "title": "Software Engineer 1 - Backend - Growth",
-      "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true",
-      "location": "Boston, MA",
-      "datePosted": 1794182400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
-      "company": "Shield AI",
-      "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
-      "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply",
-      "location": "United States",
-      "datePosted": 1794179352,
       "source": "aggregator",
       "season": null,
       "isNew": false
