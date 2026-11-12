@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T14:40:18Z",
-  "totalOpen": 1578,
-  "totalNewgrad": 220,
+  "generatedAt": "2026-11-12T14:50:17Z",
+  "totalOpen": 1575,
+  "totalNewgrad": 217,
   "totalOther": 1358,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1794461958,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abd5f5c8ff3fb9b3bc70405",
@@ -45,6 +45,17 @@
       "url": "https://jobright.ai/jobs/info/6abd5f5c8ff3fb9b3bc70405",
       "location": "Fairfax, VA",
       "datePosted": 1794461599,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc1b403217d1d13329d244",
+      "company": "Amazon",
+      "title": "Systems Development Engineer, Managed Edge Compute (Amazon Robotics)",
+      "url": "https://jobright.ai/jobs/info/6abc1b403217d1d13329d244",
+      "location": "Austin, TX",
+      "datePosted": 1794461429,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -58,7 +69,7 @@
       "datePosted": 1794461287,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af3b8294ac248020e8d403d",
@@ -80,6 +91,17 @@
       "datePosted": 1794458823,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae29a261f9d9308370b34ab",
+      "company": "Bending Spoons",
+      "title": "Security engineer, US",
+      "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
+      "location": "United States",
+      "datePosted": 1794458577,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -685,28 +707,6 @@
       "datePosted": 1794446990,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad905f9b0725dc268dd88b9",
-      "company": "Akamai Technologies",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad905f9b0725dc268dd88b9",
-      "location": "United States",
-      "datePosted": 1794445722,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa0adb2500b01124c77a86a",
-      "company": "CNH",
-      "title": "Data Engineer Intern - Python",
-      "url": "https://jobright.ai/jobs/info/6aa0adb2500b01124c77a86a",
-      "location": "Sioux Falls, SD",
-      "datePosted": 1794445689,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
