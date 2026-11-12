@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:10:16Z",
+  "generatedAt": "2026-11-12T07:20:16Z",
   "totalOpen": 1570,
   "totalNewgrad": 215,
   "totalOther": 1355,
@@ -124,6 +124,17 @@
       "datePosted": 1794433002,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af50fce2278454e18c3ab0d",
+      "company": "Rhoda AI",
+      "title": "Research Intern",
+      "url": "https://jobright.ai/jobs/info/6af50fce2278454e18c3ab0d",
+      "location": "Mountain View, CA",
+      "datePosted": 1794432885,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -298,17 +309,6 @@
       "url": "https://jobright.ai/jobs/info/6af50eca3a9a26aee70a2c84",
       "location": "San Jose, CA",
       "datePosted": 1794416611,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af50fce2278454e18c3ab0d",
-      "company": "Rhoda AI",
-      "title": "Research Intern",
-      "url": "https://jobright.ai/jobs/info/6af50fce2278454e18c3ab0d",
-      "location": "Mountain View, CA",
-      "datePosted": 1794416462,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -872,7 +872,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:ca395a24-b9ab-4e88-8638-0a2610af77fe",
