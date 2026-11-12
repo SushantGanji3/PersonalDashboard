@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T06:30:17Z",
-  "totalOpen": 1567,
-  "totalNewgrad": 212,
+  "generatedAt": "2026-11-12T06:40:15Z",
+  "totalOpen": 1569,
+  "totalNewgrad": 214,
   "totalOther": 1355,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -83,14 +83,36 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a2d8018fc0644749054c588",
+      "company": "Rundoo",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a2d8018fc0644749054c588",
+      "location": "San Mateo, CA",
+      "datePosted": 1794434899,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af510fa2278454e18c3ab5b",
       "company": "Viasat",
       "title": "Associate Software Engineer, Early Career",
       "url": "https://jobright.ai/jobs/info/6af510fa2278454e18c3ab5b",
       "location": "Carlsbad, CA",
-      "datePosted": 1794431770,
+      "datePosted": 1794433876,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3d124f6053e296fc80299",
+      "company": "Spectrum",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af3d124f6053e296fc80299",
+      "location": "Greenwood Village, CO",
+      "datePosted": 1794433002,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -413,10 +435,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4fb93cbd2ee75d155ef16",
+      "id": "newgrad-jobs:6af4f7cd1b2c5dcbbcd65e7b",
       "company": "Infosys",
       "title": "React Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6af4fb93cbd2ee75d155ef16",
+      "url": "https://jobright.ai/jobs/info/6af4f7cd1b2c5dcbbcd65e7b",
       "location": "Dallas, TX; New York, NY",
       "datePosted": 1794412115,
       "source": "newgrad-jobs",
@@ -738,28 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6ae23d0a1f9d9308370afd1d",
       "location": "San Jose, CA; Austin, TX",
       "datePosted": 1794406491,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3b3f780020ca3a89787c9",
-      "company": "Roblox",
-      "title": "Software Engineer, ROS Open Platform & AI Enablement",
-      "url": "https://jobright.ai/jobs/info/6af3b3f780020ca3a89787c9",
-      "location": "San Mateo, CA",
-      "datePosted": 1794406410,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af49c3bcbd2ee75d155b63a",
-      "company": "IBM",
-      "title": "Entry Level Software Developer",
-      "url": "https://jobright.ai/jobs/info/6af49c3bcbd2ee75d155b63a",
-      "location": "Poughkeepsie, NY; Rochester, NY; Tucson, AZ; San Jose, CA; Austin, TX; Minnesota, United States",
-      "datePosted": 1794406410,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
