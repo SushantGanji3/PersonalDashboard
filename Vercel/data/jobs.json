@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T16:50:16Z",
-  "totalOpen": 1567,
-  "totalNewgrad": 208,
+  "generatedAt": "2026-11-12T17:00:19Z",
+  "totalOpen": 1564,
+  "totalNewgrad": 205,
   "totalOther": 1359,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,12 +28,34 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af5e00b80054650a5e799ec",
+      "company": "Elevated Web Design",
+      "title": "Founding Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6af5e00b80054650a5e799ec",
+      "location": "United States",
+      "datePosted": 1794469771,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aeb7342f40efa43f4a17713",
       "company": "Smith+Nephew",
       "title": "Intern Computer Vision Software Engineering",
       "url": "https://jobright.ai/jobs/info/6aeb7342f40efa43f4a17713",
       "location": "Andover, MA",
       "datePosted": 1794469519,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa0ab4aa2266b538d231bff",
+      "company": "Cboe Global Markets",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa0ab4aa2266b538d231bff",
+      "location": "Chicago, IL; Kansas City, MO; New York, NY",
+      "datePosted": 1794468195,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -578,50 +600,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a701a1cc56c0956e8adda5a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a701a1cc56c0956e8adda5a",
-      "location": "San Jose, CA",
-      "datePosted": 1794449316,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abc8f5c73339662c772450e",
-      "company": "RTX",
-      "title": "2027 Systems Engineer Intern (Onsite) - Mission Sensor Manager",
-      "url": "https://jobright.ai/jobs/info/6abc8f5c73339662c772450e",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1794449287,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a79c504b17cba5690363a0d",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a79c504b17cba5690363a0d",
-      "location": "Seattle, WA",
-      "datePosted": 1794449246,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a79c504a26ccc369f83abed",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6a79c504a26ccc369f83abed",
-      "location": "Seattle, WA",
-      "datePosted": 1794449244,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:347a6b27-ec19-490b-9189-2c5f45152597",
       "company": "ServiceNow",
       "title": "Associate Information Security Engineer Intern",
@@ -630,17 +608,6 @@
       "datePosted": 1794449190,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a714fd0ee751e0c7934335d",
-      "company": "TikTok",
-      "title": "Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a714fd0ee751e0c7934335d",
-      "location": "Seattle, WA",
-      "datePosted": 1794448814,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -705,6 +672,39 @@
       "url": "https://jobright.ai/jobs/info/6ac63dfe372c01f6cd73c1b3",
       "location": "San Jose, CA",
       "datePosted": 1794448108,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a71a409ee751e0c7934463a",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (AI Agent & Global Revenue Platform) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a71a409ee751e0c7934463a",
+      "location": "San Jose, CA",
+      "datePosted": 1794448045,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a701a2c41b41d325296dda9",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a701a2c41b41d325296dda9",
+      "location": "Seattle, WA",
+      "datePosted": 1794447293,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a75b46f7b3417772ade4eee",
+      "company": "TikTok",
+      "title": "Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a75b46f7b3417772ade4eee",
+      "location": "San Jose, CA",
+      "datePosted": 1794447196,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
