@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T18:50:16Z",
-  "totalOpen": 1582,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-11-13T19:00:21Z",
+  "totalOpen": 1589,
+  "totalNewgrad": 240,
   "totalOther": 1349,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1794564356,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af7504641166cab7564a198",
@@ -36,7 +36,7 @@
       "datePosted": 1794564038,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abe890c4ac55253f5d612de",
@@ -83,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa1933f0ffb3d4fea6b59ff",
+      "company": "Shure",
+      "title": "Application Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aa1933f0ffb3d4fea6b59ff",
+      "location": "United States",
+      "datePosted": 1794562774,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6adaa7a74c3adc437cecee9f",
       "company": "Motorola Solutions",
       "title": "Software Engineer",
@@ -102,7 +113,7 @@
       "datePosted": 1794562385,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af747ac82422864006438f9",
@@ -113,7 +124,7 @@
       "datePosted": 1794561836,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af72d4a41166cab756489e3",
@@ -122,6 +133,94 @@
       "url": "https://jobright.ai/jobs/info/6af72d4a41166cab756489e3",
       "location": "Austin, TX; San Jose, CA; Milpitas, CA; Dallas, TX; Durham, NC",
       "datePosted": 1794561487,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa4f910a77a53f5a156ed56",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern (Rochester, NY)",
+      "url": "https://jobright.ai/jobs/info/6aa4f910a77a53f5a156ed56",
+      "location": "Rochester, NY",
+      "datePosted": 1794561480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa4cb8e654b2a9424cf1523",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern (Melbourne, FL)",
+      "url": "https://jobright.ai/jobs/info/6aa4cb8e654b2a9424cf1523",
+      "location": "Melbourne, FL",
+      "datePosted": 1794561480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adffa420a4cc7090f9851ef",
+      "company": "L3Harris",
+      "title": "Software Engineer Intern Job Details | L3HHCM20",
+      "url": "https://jobright.ai/jobs/info/6adffa420a4cc7090f9851ef",
+      "location": "Rochester, NY",
+      "datePosted": 1794561480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adffa385dc7953215a44dff",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern Job Details | L3HHCM20",
+      "url": "https://jobright.ai/jobs/info/6adffa385dc7953215a44dff",
+      "location": "Clifton, NJ",
+      "datePosted": 1794561480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adffa0f5dc7953215a44d88",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern (Melbourne, FL) Job Details | L3HHCM20",
+      "url": "https://jobright.ai/jobs/info/6adffa0f5dc7953215a44d88",
+      "location": "Melbourne, FL",
+      "datePosted": 1794561480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae24655eb7e8f715a60c389",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern (Carlsbad, CA)",
+      "url": "https://jobright.ai/jobs/info/6ae24655eb7e8f715a60c389",
+      "location": "Carlsbad, CA",
+      "datePosted": 1794561480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae49725eab1f9673097afde",
+      "company": "L3Harris",
+      "title": "Software Engineering Intern (Carlsbad, CA) Job Details | L3HHCM20",
+      "url": "https://jobright.ai/jobs/info/6ae49725eab1f9673097afde",
+      "location": "Carlsbad, CA",
+      "datePosted": 1794561480,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeb676882f0ac0774439605",
+      "company": "L3Harris",
+      "title": "Intern, Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeb676882f0ac0774439605",
+      "location": "Nashville, TN",
+      "datePosted": 1794561480,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -209,7 +308,7 @@
       "title": "Year at Palantir - Software Engineer, Internship",
       "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
       "location": "New York, NY",
-      "datePosted": 1794559527,
+      "datePosted": 1794559546,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -325,6 +424,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af63e938cc703bba47b13da",
+      "company": "Brevan Howard",
+      "title": "2027 Summer Internship Program \u2013 Systematic Trading Technology Software Engineer, New York",
+      "url": "https://jobright.ai/jobs/info/6af63e938cc703bba47b13da",
+      "location": "New York, NY",
+      "datePosted": 1794558357,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af73a058242286400642e24",
       "company": "Wyetech, LLC",
       "title": "Software Engineer, Skill Level 0 or 1",
@@ -413,6 +523,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ada6abf03d2da7528914d95",
+      "company": "Twitch",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6ada6abf03d2da7528914d95",
+      "location": "San Francisco, CA",
+      "datePosted": 1794557203,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a5fd8fa8c7fd835513bb729",
       "company": "Palantir",
       "title": "Software Engineer, Internship",
@@ -435,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea67fcfc85f3a3943337c9",
+      "id": "newgrad-jobs:6aea67fb4f991d64376cdcb9",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aea67fcfc85f3a3943337c9",
+      "url": "https://jobright.ai/jobs/info/6aea67fb4f991d64376cdcb9",
       "location": "Huntsville, AL; Sunnyvale, CA; Littleton, CO",
       "datePosted": 1794556906,
       "source": "newgrad-jobs",
@@ -446,10 +567,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af62f40323c531f31e30c9c",
+      "id": "newgrad-jobs:6af62f2b8cc703bba47b0c27",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af62f40323c531f31e30c9c",
+      "url": "https://jobright.ai/jobs/info/6af62f2b8cc703bba47b0c27",
       "location": "Highlands Ranch, CO",
       "datePosted": 1794556906,
       "source": "newgrad-jobs",
@@ -556,127 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af731c1824228640064284f",
-      "company": "Aether Field",
-      "title": "Programmer Analyst Intern",
-      "url": "https://jobright.ai/jobs/info/6af731c1824228640064284f",
-      "location": "Waller, TX",
-      "datePosted": 1794556225,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1aec9ef23570cae24598c",
-      "company": "True Anomaly",
-      "title": "Machine Learning Engineer (II-III), Space Edge Deployment",
-      "url": "https://jobright.ai/jobs/info/6aa1aec9ef23570cae24598c",
-      "location": "Denver, CO; Long Beach, CA",
-      "datePosted": 1794556210,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd4fd1d9621c5b2838b807",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
-      "url": "https://jobright.ai/jobs/info/6abd4fd1d9621c5b2838b807",
-      "location": "Austin, TX; Seattle, WA; East Palo Alto, CA; New York, NY; Carrollton, TX; Dallas, TX; Irving, TX; Arlington, VA; Herndon, VA; Bellevue, WA; Redmond, WA",
-      "datePosted": 1794555111,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af72cb941166cab7564896b",
-      "company": "Publix Super Markets",
-      "title": "Associate Software Engineer - Finance Systems (Hybrid)",
-      "url": "https://jobright.ai/jobs/info/6af72cb941166cab7564896b",
-      "location": "Lakeland, FL",
-      "datePosted": 1794554937,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1bcd0dbc0e60e37e13491",
-      "company": "DV Trading LLC",
-      "title": "AI Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aa1bcd0dbc0e60e37e13491",
-      "location": "Chicago, IL",
-      "datePosted": 1794554699,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abe96980e027c0f3b399b35",
-      "company": "Pinterest",
-      "title": "Software Engineer Intern 2027 (USA)",
-      "url": "https://jobright.ai/jobs/info/6abe96980e027c0f3b399b35",
-      "location": "United States",
-      "datePosted": 1794554666,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa39025626f9945308b18bd",
-      "company": "Insulet Corporation",
-      "title": "Co-op, Embedded Software Engineering: January-June 2027 (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aa39025626f9945308b18bd",
-      "location": "Acton, MA",
-      "datePosted": 1794554181,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa196af500b01124c77dad0",
-      "company": "MKS Inc.",
-      "title": "2027 Spring Software Engineering Undergraduate Co-op (R20319)",
-      "url": "https://jobright.ai/jobs/info/6aa196af500b01124c77dad0",
-      "location": "Rochester, NY",
-      "datePosted": 1794553877,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ada60014c3adc437cecc33c",
-      "company": "CDK Global",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada60014c3adc437cecc33c",
-      "location": "Austin, TX",
-      "datePosted": 1794553439,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af726b841166cab75648704",
-      "company": "Nightwing",
-      "title": "Cloud Infrastructure Systems Engineer I with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6af726b841166cab75648704",
-      "location": "Sterling, VA",
-      "datePosted": 1794553400,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af726b2e3d8d612bf420707",
-      "company": "Nightwing",
-      "title": "Junior Software Engineer (SWE0) with Security Clearance",
-      "url": "https://jobright.ai/jobs/info/6af726b2e3d8d612bf420707",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1794553394,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:b56e91ef-db7b-4b0a-bcb7-19bc013e1f4c",
       "company": "Aurora",
       "title": "Software Engineer Intern, Vehicle Platforms",
@@ -762,7 +762,7 @@
       "datePosted": 1794524947,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c7e6a21c-950d-4911-9d30-2d9677d32f46",
