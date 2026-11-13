@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T20:50:17Z",
-  "totalOpen": 1589,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-11-13T21:00:22Z",
+  "totalOpen": 1590,
+  "totalNewgrad": 243,
   "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af7698141166cab7564b374",
+      "company": "Netrolynx AI",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6af7698141166cab7564b374",
+      "location": "United States",
+      "datePosted": 1794570497,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af7697e3ba46d7b6c16677f",
+      "company": "Netrolynx AI",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af7697e3ba46d7b6c16677f",
+      "location": "United States",
+      "datePosted": 1794570494,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af7668e3ba46d7b6c1665c2",
+      "company": "Elucid",
+      "title": "Software Engineering Intern: Spring 2027",
+      "url": "https://jobright.ai/jobs/info/6af7668e3ba46d7b6c1665c2",
+      "location": "Boston, MA",
+      "datePosted": 1794569742,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af76161e3d8d612bf422d64",
@@ -39,15 +72,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abec44a064da25272e02b39",
+      "id": "newgrad-jobs:6ae3d98c77c09cb3bd4a98e1",
       "company": "InComm Payments",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6abec44a064da25272e02b39",
+      "url": "https://jobright.ai/jobs/info/6ae3d98c77c09cb3bd4a98e1",
       "location": "Sandy, UT",
       "datePosted": 1794567934,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6adb5aed46a8cabdc1ff27b9",
@@ -160,6 +193,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac7b8340e573df8adc73ce9",
+      "company": "Amentum",
+      "title": "Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6ac7b8340e573df8adc73ce9",
+      "location": "Hanover, MD",
+      "datePosted": 1794566901,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af75aeac7349029d7094def",
       "company": "ServiceNow",
       "title": "AI Security Engineer Intern",
@@ -171,10 +215,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1682c3272060a8e3ef935",
+      "id": "newgrad-jobs:6aa163130ffb3d4fea6b481a",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1682c3272060a8e3ef935",
+      "url": "https://jobright.ai/jobs/info/6aa163130ffb3d4fea6b481a",
       "location": "Vienna, VA",
       "datePosted": 1794566404,
       "source": "newgrad-jobs",
@@ -182,15 +226,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1630cdbc0e60e37e110e4",
+      "id": "newgrad-jobs:6aa16828dbc0e60e37e111ab",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Associate Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1630cdbc0e60e37e110e4",
+      "url": "https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ab",
       "location": "Vienna, VA",
       "datePosted": 1794566404,
       "source": "newgrad-jobs",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af5f6d0323c531f31e2e683",
+      "company": "CME Group",
+      "title": "Software Engineering Fellowship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6af5f6d0323c531f31e2e683",
+      "location": "Chicago, IL",
+      "datePosted": 1794566287,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af73318e3d8d612bf420ce2",
@@ -303,12 +358,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6acd4dc4e7a1d933321111eb",
+      "company": "CAI",
+      "title": "GIS Software Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6acd4dc4e7a1d933321111eb",
+      "location": "United States",
+      "datePosted": 1794563036,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af72d43c7349029d7092daf",
       "company": "Equinix",
       "title": "AI/Machine Learning Experience Engineer",
       "url": "https://jobright.ai/jobs/info/6af72d43c7349029d7092daf",
       "location": "Dallas, TX; Toronto, ON",
       "datePosted": 1794563002,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af72d4a41166cab756489e3",
+      "company": "Cisco",
+      "title": "Software Engineer Compiler I (Full Time) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6af72d4a41166cab756489e3",
+      "location": "Austin, TX; San Jose, CA; Milpitas, CA; Dallas, TX; Durham, NC",
+      "datePosted": 1794562978,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af71ad68242286400641c41",
+      "company": "Voyager Technologies",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6af71ad68242286400641c41",
+      "location": "El Segundo, CA",
+      "datePosted": 1794562876,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -342,17 +430,6 @@
       "url": "https://jobright.ai/jobs/info/6ae11cc667c31ab3489a0a96",
       "location": "Marlborough, MA",
       "datePosted": 1794562140,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af72d4a41166cab756489e3",
-      "company": "Cisco",
-      "title": "Software Engineer Compiler I (Full Time) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6af72d4a41166cab756489e3",
-      "location": "Austin, TX; San Jose, CA; Milpitas, CA; Dallas, TX; Durham, NC",
-      "datePosted": 1794561487,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -595,83 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6aec7974465e3d237137f156",
       "location": "King of Prussia, PA; United States",
       "datePosted": 1794559786,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
-      "company": "Palantir",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
-      "location": "New York, NY",
-      "datePosted": 1794559546,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a860428d34f700f87fbfb14",
-      "company": "SpaceX",
-      "title": "Wi-Fi Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a860428d34f700f87fbfb14",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794559509,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a693d8805bae84301b5b392",
-      "company": "SpaceX",
-      "title": "Operations Engineer, Applied AI (Application Software)",
-      "url": "https://jobright.ai/jobs/info/6a693d8805bae84301b5b392",
-      "location": "Vandenberg Village, CA",
-      "datePosted": 1794559508,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab404e30e0ae54eeea46070",
-      "company": "RTX",
-      "title": "Systems Engineer I- Onsite Portsmouth, RI",
-      "url": "https://jobright.ai/jobs/info/6ab404e30e0ae54eeea46070",
-      "location": "Portsmouth, RI",
-      "datePosted": 1794559465,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8629fdd34f700f87fc0c5a",
-      "company": "Copart",
-      "title": "Site Reliability Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a8629fdd34f700f87fc0c5a",
-      "location": "Dallas, TX",
-      "datePosted": 1794559403,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af73dbbe3d8d612bf421470",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6af73dbbe3d8d612bf421470",
-      "location": "Seattle, WA",
-      "datePosted": 1794559291,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4c1ccc3139b475b5b57a0",
-      "company": "Accenture Federal Services",
-      "title": "Mobile/TAK Developer",
-      "url": "https://jobright.ai/jobs/info/6ae4c1ccc3139b475b5b57a0",
-      "location": "United States",
-      "datePosted": 1794559273,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
