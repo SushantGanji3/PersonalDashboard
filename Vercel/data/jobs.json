@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-13T21:40:16Z",
-  "totalOpen": 1583,
-  "totalNewgrad": 237,
-  "totalOther": 1346,
+  "generatedAt": "2026-11-13T21:50:16Z",
+  "totalOpen": 1581,
+  "totalNewgrad": 234,
+  "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:a73403c0-30ce-4961-9980-73cb517b313f",
+      "company": "RTX",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1zb",
+      "location": "Richardson, TX",
+      "datePosted": 1794604797,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:4bbbf732-35b2-45f5-9c77-3d3536bef7f0",
       "company": "Cisco",
@@ -13,6 +24,39 @@
       "location": "Austin, TX",
       "datePosted": 1794585487,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af73be4c7349029d7093688",
+      "company": "Akeneo",
+      "title": "Software Engineer (CEQ)",
+      "url": "https://jobright.ai/jobs/info/6af73be4c7349029d7093688",
+      "location": "Boston, MA",
+      "datePosted": 1794574364,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad69fcde327d3e210d23fd",
+      "company": "Together AI",
+      "title": "Research Intern, Model Shaping (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aad69fcde327d3e210d23fd",
+      "location": "San Francisco, CA",
+      "datePosted": 1794574281,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af747ac82422864006438f9",
+      "company": "CMT.AI",
+      "title": "Software Engineer I, Cloud",
+      "url": "https://jobright.ai/jobs/info/6af747ac82422864006438f9",
+      "location": "Cambridge, MA",
+      "datePosted": 1794574137,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -259,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abea3728ff3fb9b3bc74d22",
+      "id": "newgrad-jobs:6aa0e04dea127c3794699354",
       "company": "Lockheed Martin",
       "title": "Software Engineer Asc",
-      "url": "https://jobright.ai/jobs/info/6abea3728ff3fb9b3bc74d22",
+      "url": "https://jobright.ai/jobs/info/6aa0e04dea127c3794699354",
       "location": "Manassas, VA",
       "datePosted": 1794572270,
       "source": "newgrad-jobs",
@@ -347,10 +391,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae4b859d7424a2a828e7de5",
+      "id": "newgrad-jobs:6ae4b861c3139b475b5b5205",
       "company": "Lockheed Martin",
       "title": "sUAS/Drone Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6ae4b859d7424a2a828e7de5",
+      "url": "https://jobright.ai/jobs/info/6ae4b861c3139b475b5b5205",
       "location": "San Luis Obispo, CA",
       "datePosted": 1794571733,
       "source": "newgrad-jobs",
@@ -391,10 +435,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeca84fa9ea762a04090b87",
+      "id": "newgrad-jobs:6aec7974465e3d237137f156",
       "company": "Lockheed Martin",
       "title": "Software Engineer-INTERN",
-      "url": "https://jobright.ai/jobs/info/6aeca84fa9ea762a04090b87",
+      "url": "https://jobright.ai/jobs/info/6aec7974465e3d237137f156",
       "location": "King of Prussia, PA; United States",
       "datePosted": 1794571486,
       "source": "newgrad-jobs",
@@ -523,17 +567,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aad69fcde327d3e210d23fd",
-      "company": "Together AI",
-      "title": "Research Intern, Model Shaping (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aad69fcde327d3e210d23fd",
-      "location": "San Francisco, CA",
-      "datePosted": 1794567807,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aad69e0de327d3e210d23e8",
       "company": "Together AI",
       "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
@@ -553,28 +586,6 @@
       "datePosted": 1794567797,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af747ac82422864006438f9",
-      "company": "CMT.AI",
-      "title": "Software Engineer I, Cloud",
-      "url": "https://jobright.ai/jobs/info/6af747ac82422864006438f9",
-      "location": "Cambridge, MA",
-      "datePosted": 1794567514,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af73be4c7349029d7093688",
-      "company": "Akeneo",
-      "title": "Software Engineer (CEQ)",
-      "url": "https://jobright.ai/jobs/info/6af73be4c7349029d7093688",
-      "location": "Boston, MA",
-      "datePosted": 1794567503,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -611,6 +622,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af74f28c7349029d7094490",
+      "company": "Personify Health",
+      "title": "Data Engineer l",
+      "url": "https://jobright.ai/jobs/info/6af74f28c7349029d7094490",
+      "location": "United States",
+      "datePosted": 1794566951,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ac7b8340e573df8adc73ce9",
       "company": "Amentum",
       "title": "Software Engineer 1",
@@ -633,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1682c3272060a8e3ef935",
+      "id": "newgrad-jobs:6aa163130ffb3d4fea6b481a",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1682c3272060a8e3ef935",
+      "url": "https://jobright.ai/jobs/info/6aa163130ffb3d4fea6b481a",
       "location": "Vienna, VA",
       "datePosted": 1794566404,
       "source": "newgrad-jobs",
@@ -644,10 +666,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa1630cdbc0e60e37e110e4",
+      "id": "newgrad-jobs:6aa16828dbc0e60e37e111ab",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Associate Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa1630cdbc0e60e37e110e4",
+      "url": "https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ab",
       "location": "Vienna, VA",
       "datePosted": 1794566404,
       "source": "newgrad-jobs",
@@ -663,17 +685,6 @@
       "datePosted": 1794566326,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af5f6d0323c531f31e2e683",
-      "company": "CME Group",
-      "title": "Software Engineering Fellowship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af5f6d0323c531f31e2e683",
-      "location": "Chicago, IL",
-      "datePosted": 1794566287,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1312,17 +1323,6 @@
       "datePosted": 1794328067,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:40777e16-e8c0-49d2-9b63-a8911984fcc1",
-      "company": "Addepar",
-      "title": "Data Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002",
-      "location": "NYC",
-      "datePosted": 1794327597,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
