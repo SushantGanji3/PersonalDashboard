@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T20:10:15Z",
-  "totalOpen": 1590,
+  "generatedAt": "2026-11-13T20:20:15Z",
+  "totalOpen": 1589,
   "totalNewgrad": 242,
-  "totalOther": 1348,
+  "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af76161e3d8d612bf422d64",
+      "company": "Career Launch Tech Initiative",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6af76161e3d8d612bf422d64",
+      "location": "United States",
+      "datePosted": 1794568417,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af660e48cc703bba47b269d",
@@ -160,26 +171,26 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa163130ffb3d4fea6b481a",
+      "id": "newgrad-jobs:6aa1682c3272060a8e3ef935",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa163130ffb3d4fea6b481a",
+      "url": "https://jobright.ai/jobs/info/6aa1682c3272060a8e3ef935",
       "location": "Vienna, VA",
       "datePosted": 1794566404,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "newgrad-jobs:6aa16828dbc0e60e37e111ab",
+      "id": "newgrad-jobs:6aa1630cdbc0e60e37e110e4",
       "company": "Navy Federal Credit Union",
       "title": "Summer Associate Internship (Associate Data Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111ab",
+      "url": "https://jobright.ai/jobs/info/6aa1630cdbc0e60e37e110e4",
       "location": "Vienna, VA",
       "datePosted": 1794566404,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af73318e3d8d612bf420ce2",
@@ -567,17 +578,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeca84fa9ea762a04090b87",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer-INTERN",
-      "url": "https://jobright.ai/jobs/info/6aeca84fa9ea762a04090b87",
-      "location": "King of Prussia, PA; United States",
-      "datePosted": 1794559786,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae8213503f4a1104b252444",
       "company": "Lockheed Martin",
       "title": "Software Engineer - Intern",
@@ -589,10 +589,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a063968320bff2205eaa361",
+      "id": "newgrad-jobs:6aec7974465e3d237137f156",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer-INTERN",
+      "url": "https://jobright.ai/jobs/info/6aec7974465e3d237137f156",
+      "location": "King of Prussia, PA; United States",
+      "datePosted": 1794559786,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
       "company": "Palantir",
       "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
+      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
       "location": "New York, NY",
       "datePosted": 1794559546,
       "source": "newgrad-jobs",
@@ -666,17 +677,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af7586bc7349029d7094b83",
-      "company": "Career Launch Tech Initiative",
-      "title": "Software Engineer Internship(Volunteer)",
-      "url": "https://jobright.ai/jobs/info/6af7586bc7349029d7094b83",
-      "location": "United States",
-      "datePosted": 1794558907,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:b56e91ef-db7b-4b0a-bcb7-19bc013e1f4c",
       "company": "Aurora",
       "title": "Software Engineer Intern, Vehicle Platforms",
@@ -697,6 +697,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:b4fffabe-25c5-4ccc-920f-6ea9369ba9fa",
+      "company": "Micron",
+      "title": "AI Engineer Platform Intern",
+      "url": "https://go.vansh.nyc/1z5",
+      "location": "Boise, ID",
+      "datePosted": 1794528404,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:d52ae577-609f-49a7-bc5e-5c2a1e928841",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794328067,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:40777e16-e8c0-49d2-9b63-a8911984fcc1",
-      "company": "Addepar",
-      "title": "Data Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002",
-      "location": "NYC",
-      "datePosted": 1794327597,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
