@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T15:30:18Z",
+  "generatedAt": "2026-11-13T15:40:16Z",
   "totalOpen": 1579,
-  "totalNewgrad": 226,
-  "totalOther": 1353,
+  "totalNewgrad": 225,
+  "totalOther": 1354,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -94,15 +94,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af6176f323c531f31e2fa41",
+      "id": "newgrad-jobs:6af60e9179862a378dcf0532",
       "company": "Micron",
       "title": "Intern - IT Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6af6176f323c531f31e2fa41",
+      "url": "https://jobright.ai/jobs/info/6af60e9179862a378dcf0532",
       "location": "Boise, ID",
       "datePosted": 1794546428,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6abf2574372c01f6cd7274fb",
@@ -644,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a71a4229a0ca4480c7d4ef0",
-      "company": "TikTok",
-      "title": "Backend Software Engineer Intern (TikTok-Global Live-Foundation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71a4229a0ca4480c7d4ef0",
-      "location": "San Jose, CA",
-      "datePosted": 1794534351,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a84194d85e0d023aaea2841",
       "company": "TikTok",
       "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Fall",
@@ -672,6 +661,17 @@
       "url": "https://jobright.ai/jobs/info/6a79e1c267a1ad0bc53d03fa",
       "location": "San Jose, CA",
       "datePosted": 1794533677,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a84192ce459fa3baa85cf48",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a84192ce459fa3baa85cf48",
+      "location": "San Jose, CA",
+      "datePosted": 1794533610,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -697,6 +697,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:13e19999-69ce-4245-a0f6-9b5b7fd62382",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
+      "location": "McClellan Park, CA",
+      "datePosted": 1794528000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:c6e45d65-5cbd-4eec-b84d-4cbdaf868c28",
@@ -1308,17 +1319,6 @@
       "company": "SambaNova",
       "title": "New Grad: Cloud Platform Engineer",
       "url": "https://go.vansh.nyc/1qj",
-      "location": "Austin, TX, San Jose, CA",
-      "datePosted": 1794309161,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bfeb1b0f-cfff-49ae-9e46-beab7029bbe4",
-      "company": "SambaNova",
-      "title": "New Grad: Machine Learning Engineer",
-      "url": "https://go.vansh.nyc/1qm",
       "location": "Austin, TX, San Jose, CA",
       "datePosted": 1794309161,
       "source": "aggregator",
