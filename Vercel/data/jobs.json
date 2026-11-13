@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-13T00:40:19Z",
-  "totalOpen": 1589,
+  "generatedAt": "2026-11-13T00:50:15Z",
+  "totalOpen": 1590,
   "totalNewgrad": 232,
-  "totalOther": 1357,
+  "totalOther": 1358,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:7e29045c-9c6b-48ca-b87a-46cf0966f84d",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+      "url": "https://go.vansh.nyc/1ym",
+      "location": "San Jose, CA",
+      "datePosted": 1794530238,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
       "company": "Apple",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794283631,
       "source": "aggregator",
       "season": "Spring",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5b8e4ad0-e54a-4c77-94c1-09f70c16e127",
-      "company": "Cursor",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://go.vansh.nyc/1qa",
-      "location": "San Francisco, CA",
-      "datePosted": 1794273212,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
