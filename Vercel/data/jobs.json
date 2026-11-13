@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T06:00:20Z",
-  "totalOpen": 1590,
+  "generatedAt": "2026-11-13T06:10:16Z",
+  "totalOpen": 1589,
   "totalNewgrad": 237,
-  "totalOther": 1353,
+  "totalOther": 1352,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -58,7 +58,7 @@
       "datePosted": 1794517417,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af65df5a4a5218a07e85a3d",
@@ -69,7 +69,7 @@
       "datePosted": 1794517405,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af698068a9bd36b08993d17",
@@ -985,6 +985,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:2340e846-c70c-49d0-b110-70c6e65ba5fa",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01888146",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:c274d687-71f7-4484-8ae0-52884c72e8f8",
       "company": "Salesforce",
       "title": "Software Engineering AMTS New Grad",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794283631,
       "source": "aggregator",
       "season": "Spring",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5b8e4ad0-e54a-4c77-94c1-09f70c16e127",
-      "company": "Cursor",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://go.vansh.nyc/1qa",
-      "location": "San Francisco, CA",
-      "datePosted": 1794273212,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
