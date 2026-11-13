@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-13T06:10:16Z",
+  "generatedAt": "2026-11-13T06:20:16Z",
   "totalOpen": 1589,
-  "totalNewgrad": 237,
-  "totalOther": 1352,
+  "totalNewgrad": 236,
+  "totalOther": 1353,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b56e91ef-db7b-4b0a-bcb7-19bc013e1f4c",
+      "company": "Aurora",
+      "title": "Software Engineer Intern, Vehicle Platforms",
+      "url": "https://go.vansh.nyc/1yu",
+      "location": "Mountain View, CA",
+      "datePosted": 1794538186,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:7e29045c-9c6b-48ca-b87a-46cf0966f84d",
       "company": "TikTok",
@@ -72,23 +83,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af6771980054650a5e7efac",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6af6771980054650a5e7efac",
+      "location": "San Jose, CA",
+      "datePosted": 1794517386,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6af698068a9bd36b08993d17",
       "company": "Ortelan",
       "title": "Full Stack Engineer",
       "url": "https://jobright.ai/jobs/info/6af698068a9bd36b08993d17",
       "location": "United States",
       "datePosted": 1794516870,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af67b1b8a9bd36b08993786",
-      "company": "Aurora",
-      "title": "Software Engineer Intern, Vehicle Platforms",
-      "url": "https://jobright.ai/jobs/info/6af67b1b8a9bd36b08993786",
-      "location": "Mountain View, CA",
-      "datePosted": 1794516438,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -132,7 +143,7 @@
       "title": "Software Engineer I, Backend (Continuous Delivery)",
       "url": "https://jobright.ai/jobs/info/6af648d7323c531f31e31de3",
       "location": "United States",
-      "datePosted": 1794514179,
+      "datePosted": 1794515191,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -177,17 +188,6 @@
       "url": "https://jobright.ai/jobs/info/6af67c73f10ae27369e19b21",
       "location": "United States",
       "datePosted": 1794509811,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af6771980054650a5e7efac",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6af6771980054650a5e7efac",
-      "location": "San Jose, CA",
-      "datePosted": 1794508441,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -732,6 +732,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aa075e03b5aa83237b0949d",
+      "company": "MKS Inc.",
+      "title": "2027 Spring Software Engineering Intern (R19945)",
+      "url": "https://jobright.ai/jobs/info/6aa075e03b5aa83237b0949d",
+      "location": "Rochester, NY",
+      "datePosted": 1794488100,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
       "company": "Microsoft",
       "title": "Data Scientist Intern - CoreAI",
@@ -993,7 +1004,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c274d687-71f7-4484-8ae0-52884c72e8f8",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794305830,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:aa272dfa-e020-4bb3-91d2-1826def725c1",
-      "company": "Morgan Stanley",
-      "title": "Software Engineer Co-op, Parametric",
-      "url": "https://go.vansh.nyc/1q1",
-      "location": "New York, NY, Alpharetta, GA",
-      "datePosted": 1794283631,
-      "source": "aggregator",
-      "season": "Spring",
       "isNew": false
     }
   ]
