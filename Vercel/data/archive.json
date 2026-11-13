@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:30:17Z",
+  "generatedAt": "2026-11-13T22:40:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1794586817
+    },
+    {
+      "id": "newgrad-jobs:6ac83471fcdafb60c6a48113",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ac83471fcdafb60c6a48113",
+      "location": "Boulder, CO; Herndon, VA; Longmont, CO",
+      "datePosted": 1794577454,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1794609616
     },
     {
       "id": "newgrad-jobs:6af3aadd80020ca3a89784e1",
@@ -28028,39 +28039,6 @@
       "datePosted": 1792017647,
       "source": "aggregator",
       "season": "Summer",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:2acdcd90-8b9e-4836-9f89-88b79316d9ec",
-      "company": "Figure AI",
-      "title": "Embedded Software Engineer Intern - Platform",
-      "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
-      "location": "San Jose, CA",
-      "datePosted": 1792017153,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:358ae923-bc8c-4090-911b-14df17f50011",
-      "company": "Figure AI",
-      "title": "Embedded Software Engineer Intern, Platform",
-      "url": "https://go.vansh.nyc/Cq",
-      "location": "San Jose, CA",
-      "datePosted": 1792017153,
-      "source": "aggregator",
-      "season": "Summer",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:5dda5cf0-7ad7-41aa-9942-9cccb3a303b8",
-      "company": "Meta AI",
-      "title": "Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs",
-      "url": "https://www.metacareers.com/jobs/1758435721926913",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1792017027,
-      "source": "aggregator",
-      "season": null,
       "firstSeenAt": 1793826020
     }
   ]
