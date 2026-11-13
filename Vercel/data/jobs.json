@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T08:00:20Z",
-  "totalOpen": 1588,
+  "generatedAt": "2026-11-13T08:10:16Z",
+  "totalOpen": 1589,
   "totalNewgrad": 235,
-  "totalOther": 1353,
+  "totalOther": 1354,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:d52ae577-609f-49a7-bc5e-5c2a1e928841",
+      "company": "Aurora",
+      "title": "Software Engineer Intern - Vehicle Platforms",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
+      "location": "Mountain View, CA",
+      "datePosted": 1794528000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794308773,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:e6830c63-857b-4f03-83ac-bb0149515d2d",
-      "company": "Tesla",
-      "title": "Mobile Application Developer Intern",
-      "url": "https://www.tesla.com/careers/search/job/289480",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794305830,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
