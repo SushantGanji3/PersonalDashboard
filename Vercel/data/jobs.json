@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T00:00:18Z",
-  "totalOpen": 1584,
+  "generatedAt": "2026-11-13T00:10:17Z",
+  "totalOpen": 1587,
   "totalNewgrad": 230,
-  "totalOther": 1354,
+  "totalOther": 1357,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:6aeeb00d-88c5-4ee8-871e-ff119dee63bb",
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Backend - Continuous Delivery",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+      "location": "Remote in USA",
+      "datePosted": 1794525354,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:c7e6a21c-950d-4911-9d30-2d9677d32f46",
@@ -80,7 +91,7 @@
       "datePosted": 1794494497,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af6387c79862a378dcf1e3c",
@@ -102,7 +113,7 @@
       "datePosted": 1794494352,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af5f5aca4a5218a07e81be4",
@@ -124,7 +135,7 @@
       "datePosted": 1794494009,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af63e80323c531f31e313e6",
@@ -157,7 +168,7 @@
       "datePosted": 1794493412,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af6327df10ae27369e1798b",
@@ -168,7 +179,7 @@
       "datePosted": 1794493412,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af63c1280054650a5e7d49a",
@@ -619,7 +630,7 @@
       "datePosted": 1794483949,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae8bd316c51033758f4232f",
@@ -774,6 +785,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:31a732f2-d65e-41e9-818b-7b4da40f9eae",
+      "company": "General Dynamics",
+      "title": "Platform Services Software Engineer Entry Level",
+      "url": "https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false",
+      "location": "Scottsdale, AZ",
+      "datePosted": 1794441600,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:386bc549-fcff-4df1-acf1-d6380e7c183a",
@@ -1299,28 +1321,6 @@
       "url": "https://go.vansh.nyc/1qa",
       "location": "San Francisco, CA",
       "datePosted": 1794273212,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bdd3a0f8-3d9c-4fba-9550-fba440691018",
-      "company": "Pika",
-      "title": "Applied AI Engineer Intern - Creative Experiences",
-      "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794268800,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3978f6f3-57fe-4e9f-808a-e68e8daa32ca",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806",
-      "location": "St. Petersburg, FL",
-      "datePosted": 1794268800,
       "source": "aggregator",
       "season": null,
       "isNew": false
