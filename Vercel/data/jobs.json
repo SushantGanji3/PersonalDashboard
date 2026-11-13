@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T18:10:15Z",
-  "totalOpen": 1579,
+  "generatedAt": "2026-11-13T18:20:17Z",
+  "totalOpen": 1577,
   "totalNewgrad": 227,
-  "totalOther": 1352,
+  "totalOther": 1350,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abee53e0e027c0f3b39bc38",
+      "company": "SpaceX",
+      "title": "Software Engineer, AI Infrastructure (Starshield)",
+      "url": "https://jobright.ai/jobs/info/6abee53e0e027c0f3b39bc38",
+      "location": "Hawthorne, CA",
+      "datePosted": 1794561029,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abde7e38ff3fb9b3bc7258f",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6abde7e38ff3fb9b3bc7258f",
+      "location": "East Hartford, CT",
+      "datePosted": 1794560543,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af729abd0eefb7d11b89708",
@@ -36,7 +58,7 @@
       "datePosted": 1794560282,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aebdef865311d97105bc783",
@@ -45,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6aebdef865311d97105bc783",
       "location": "Washington, DC",
       "datePosted": 1794560282,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af72d43c7349029d7092daf",
+      "company": "Equinix",
+      "title": "AI/Machine Learning Experience Engineer",
+      "url": "https://jobright.ai/jobs/info/6af72d43c7349029d7092daf",
+      "location": "Dallas, TX; Toronto, ON",
+      "datePosted": 1794560272,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -59,6 +92,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a860428d34f700f87fbfb14",
+      "company": "SpaceX",
+      "title": "Wi-Fi Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a860428d34f700f87fbfb14",
+      "location": "Palo Alto, CA",
+      "datePosted": 1794559509,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a693d8805bae84301b5b392",
+      "company": "SpaceX",
+      "title": "Operations Engineer, Applied AI (Application Software)",
+      "url": "https://jobright.ai/jobs/info/6a693d8805bae84301b5b392",
+      "location": "Vandenberg Village, CA",
+      "datePosted": 1794559508,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab404e30e0ae54eeea46070",
@@ -193,12 +248,45 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a51e21902522b5b722ecfda",
+      "company": "True Anomaly",
+      "title": "Platform Engineer, AI (Levels I, II, III)",
+      "url": "https://jobright.ai/jobs/info/6a51e21902522b5b722ecfda",
+      "location": "Denver, CO; Long Beach, CA",
+      "datePosted": 1794557864,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aa3ec1df7baf881567cc1c2",
       "company": "Envita Solutions",
       "title": "Software Engineering Intern, Applied AI",
       "url": "https://jobright.ai/jobs/info/6aa3ec1df7baf881567cc1c2",
       "location": "Indianapolis, IN",
       "datePosted": 1794557669,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae9751014b684da08de01dd",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc- Early Career",
+      "url": "https://jobright.ai/jobs/info/6ae9751014b684da08de01dd",
+      "location": "Orlando, FL",
+      "datePosted": 1794557294,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeca83da2661405dc2c4dee",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - Early Career",
+      "url": "https://jobright.ai/jobs/info/6aeca83da2661405dc2c4dee",
+      "location": "Fort Worth, TX; Orlando, FL",
+      "datePosted": 1794557294,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -325,17 +413,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af4b4503a9a26aee709fd4b",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
-      "location": "Marietta, GA",
-      "datePosted": 1794556849,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af73318e3d8d612bf420ce2",
       "company": "Edgewater Federal Solutions, Inc.",
       "title": "Application Developer I",
@@ -397,17 +474,6 @@
       "url": "https://jobright.ai/jobs/info/6abd4fd1d9621c5b2838b807",
       "location": "Austin, TX; Seattle, WA; East Palo Alto, CA; New York, NY; Carrollton, TX; Dallas, TX; Irving, TX; Arlington, VA; Herndon, VA; Bellevue, WA; Redmond, WA",
       "datePosted": 1794555111,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abee53e0e027c0f3b39bc37",
-      "company": "SpaceX",
-      "title": "Software Engineer, AI Infrastructure (Starshield)",
-      "url": "https://jobright.ai/jobs/info/6abee53e0e027c0f3b39bc37",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794554996,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -606,72 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6af7133041166cab75647cdf",
       "location": "California, United States; Colorado, United States; Georgia, United States; Massachusetts, United States; Texas, United States; United States; Virginia, United States; Washington, DC; Washington, United States",
       "datePosted": 1794548400,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1c4e42f936e4a53dadf60",
-      "company": "Leader Bank",
-      "title": "Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aa1c4e42f936e4a53dadf60",
-      "location": "Arlington, MA",
-      "datePosted": 1794547271,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af60e9179862a378dcf0532",
-      "company": "Micron",
-      "title": "Intern - IT Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6af60e9179862a378dcf0532",
-      "location": "Boise, ID",
-      "datePosted": 1794546428,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abf2574372c01f6cd7274fb",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
-      "url": "https://jobright.ai/jobs/info/6abf2574372c01f6cd7274fb",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794546342,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abdecb54ac55253f5d5f252",
-      "company": "Onestream",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6abdecb54ac55253f5d5f252",
-      "location": "Chicago, IL; Fort Lauderdale, FL; New York, NY; Birmingham, AL",
-      "datePosted": 1794546251,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8b51d17ddad6a8a47cd5c",
-      "company": "Danaher",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8b51d17ddad6a8a47cd5c",
-      "location": "Chaska, MN",
-      "datePosted": 1794544447,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af671dd8a9bd36b08993453",
-      "company": "Amazon",
-      "title": "Security Engineer Internship \u2013 2027 (US)",
-      "url": "https://jobright.ai/jobs/info/6af671dd8a9bd36b08993453",
-      "location": "Seattle, WA; Greater Seattle Area, United States; Greater Bay Area, United States; Austin, TX; New York, NY; Minneapolis, MN; Greater DMV",
-      "datePosted": 1794544020,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
