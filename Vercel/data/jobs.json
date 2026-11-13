@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T01:10:16Z",
-  "totalOpen": 1594,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-11-13T01:20:14Z",
+  "totalOpen": 1595,
+  "totalNewgrad": 237,
   "totalOther": 1358,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -68,6 +68,28 @@
       "location": "Hawthorne, CA",
       "datePosted": 1794506168,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a723da3ee751e0c79347c23",
+      "company": "Systems Planning & Analysis",
+      "title": "Associate Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a723da3ee751e0c79347c23",
+      "location": "San Diego, CA",
+      "datePosted": 1794500370,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
+      "company": "Arcfield",
+      "title": "Models Based Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6af60f5a80054650a5e7ba8f",
+      "location": "Chantilly, VA",
+      "datePosted": 1794499890,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -166,17 +188,6 @@
       "url": "https://jobright.ai/jobs/info/6ad9076267bec1d0d9c82370",
       "location": "Sterling, VA",
       "datePosted": 1794497133,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
-      "company": "Arcfield",
-      "title": "Models Based Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af60f5a80054650a5e7ba8f",
-      "location": "Chantilly, VA",
-      "datePosted": 1794497023,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -292,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af620bc79862a378dcf0f26",
+      "id": "newgrad-jobs:6af620ba8cc703bba47b01ab",
       "company": "Brady Corporation",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af620bc79862a378dcf0f26",
+      "url": "https://jobright.ai/jobs/info/6af620ba8cc703bba47b01ab",
       "location": "Milwaukee, WI; Plymouth, MN",
       "datePosted": 1794494009,
       "source": "newgrad-jobs",
@@ -578,6 +589,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a95e4f9c8763a3a87ffcdeb",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a95e4f9c8763a3a87ffcdeb",
+      "location": "King of Prussia, PA",
+      "datePosted": 1794485620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3fc81d9621c5b2839eefb",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
+      "location": "Owego, NY",
+      "datePosted": 1794485620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6af61c8479862a378dcf0c43",
       "company": "NVIDIA",
       "title": "NVIDIA 2027 Internships: Software Engineering",
@@ -611,6 +644,50 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a905ab20bd89e205d249c9f",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
+      "location": "Offutt Air Force Base, NE",
+      "datePosted": 1794484732,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a91d94dc12c90443efc8873",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6a91d94dc12c90443efc8873",
+      "location": "Salina, NY",
+      "datePosted": 1794484732,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4b4503a9a26aee709fd4b",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - Early Career",
+      "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
+      "location": "Marietta, GA",
+      "datePosted": 1794484729,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a96ea29e4e60e4b8da5ab41",
+      "company": "Lockheed Martin",
+      "title": "LRASM Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a96ea29e4e60e4b8da5ab41",
+      "location": "Orlando, FL",
+      "datePosted": 1794484726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af4f5751b2c5dcbbcd65d5d",
       "company": "Lockheed Martin",
       "title": "Software Engineer Intern - Summer 2027",
@@ -633,11 +710,11 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
+      "id": "newgrad-jobs:6af1e39f905985ccaa406776",
       "company": "Lockheed Martin",
       "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
-      "location": "Fort Worth, TX",
+      "url": "https://jobright.ai/jobs/info/6af1e39f905985ccaa406776",
+      "location": "Fort Worth, TX; Orlando, FL",
       "datePosted": 1794484709,
       "source": "newgrad-jobs",
       "season": null,
@@ -652,83 +729,6 @@
       "datePosted": 1794484432,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae11c3067c31ab3489a0a67",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae11c3067c31ab3489a0a67",
-      "location": "Longmont, CO; Boulder, CO",
-      "datePosted": 1794484269,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1eac0905985ccaa406a79",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6af1eac0905985ccaa406a79",
-      "location": "Fort Worth, TX",
-      "datePosted": 1794484254,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4b861c3139b475b5b5205",
-      "company": "Lockheed Martin",
-      "title": "sUAS/Drone Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6ae4b861c3139b475b5b5205",
-      "location": "San Luis Obispo, CA",
-      "datePosted": 1794484001,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4b4503a9a26aee709fd4b",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
-      "location": "Marietta, GA",
-      "datePosted": 1794483974,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95e4f9c8763a3a87ffcdeb",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6a95e4f9c8763a3a87ffcdeb",
-      "location": "King of Prussia, PA",
-      "datePosted": 1794483969,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3fc81d9621c5b2839eefb",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ac3fc81d9621c5b2839eefb",
-      "location": "Owego, NY",
-      "datePosted": 1794483969,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8fbc603f4a1104b2589e7",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer (Embedded) Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae8fbc603f4a1104b2589e7",
-      "location": "Highlands Ranch, CO; Louisville, CO",
-      "datePosted": 1794483969,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
