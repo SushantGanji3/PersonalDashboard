@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T21:32:30Z",
-  "totalOpen": 1584,
+  "generatedAt": "2026-11-13T21:40:16Z",
+  "totalOpen": 1583,
   "totalNewgrad": 237,
-  "totalOther": 1347,
+  "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -1029,17 +1029,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:69fc016e-5ad7-44cf-b4a2-2659826b2808",
-      "company": "Tesla",
-      "title": "Software Developer Intern - IT Apps",
-      "url": "https://www.tesla.com/careers/search/job/289683",
-      "location": "Fremont, CA",
-      "datePosted": 1794363974,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:1026c810-c164-4212-b162-cc4482482cc9",
       "company": "Cisco",
       "title": "Software Engineer Embedded Systems I Intern",
@@ -1323,6 +1312,17 @@
       "datePosted": 1794328067,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:40777e16-e8c0-49d2-9b63-a8911984fcc1",
+      "company": "Addepar",
+      "title": "Data Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002",
+      "location": "NYC",
+      "datePosted": 1794327597,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
