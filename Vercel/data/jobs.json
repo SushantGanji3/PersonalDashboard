@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-14T00:00:20Z",
-  "totalOpen": 1579,
-  "totalNewgrad": 235,
-  "totalOther": 1344,
+  "generatedAt": "2026-11-14T00:10:16Z",
+  "totalOpen": 1584,
+  "totalNewgrad": 238,
+  "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d064d6a0-7525-406b-8cfc-490eca3f6d09",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Materials Architecture & Device Integration",
+      "url": "https://www.metacareers.com/jobs/1674297360998408",
+      "location": "Redmond, WA",
+      "datePosted": 1794613756,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:1c21b84c-49d3-4c76-93cb-4433ffa3743c",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Diffractive Optics",
+      "url": "https://www.metacareers.com/jobs/1158829233342350",
+      "location": "Redmond, WA",
+      "datePosted": 1794613756,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:a73403c0-30ce-4961-9980-73cb517b313f",
       "company": "RTX",
@@ -47,7 +69,7 @@
       "datePosted": 1794582385,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af75265c7349029d709465c",
@@ -58,7 +80,7 @@
       "datePosted": 1794581941,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af73be4c7349029d7093688",
@@ -91,7 +113,7 @@
       "datePosted": 1794580971,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae4ec5777c09cb3bd4b0363",
@@ -102,7 +124,7 @@
       "datePosted": 1794580890,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af7588ce3d8d612bf42272d",
@@ -135,7 +157,7 @@
       "datePosted": 1794580250,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af75184e3d8d612bf4221b6",
@@ -155,6 +177,17 @@
       "url": "https://jobright.ai/jobs/info/6aad59670ebc8fb2313e8eaf",
       "location": "United States",
       "datePosted": 1794579959,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af77cebc7349029d70965f0",
+      "company": "MUFG",
+      "title": "Global Red Team AI Engineer, Analyst",
+      "url": "https://jobright.ai/jobs/info/6af77cebc7349029d70965f0",
+      "location": "Jersey City, NJ; Tempe, AZ; Irving, TX",
+      "datePosted": 1794579791,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -179,7 +212,7 @@
       "datePosted": 1794579212,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af75aeac7349029d7094def",
@@ -672,17 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ac3c193372c01f6cd731e8f",
       "location": "Orlando, FL",
       "datePosted": 1794572261,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a96ea29e4e60e4b8da5ab41",
-      "company": "Lockheed Martin",
-      "title": "LRASM Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a96ea29e4e60e4b8da5ab41",
-      "location": "Orlando, FL",
-      "datePosted": 1794572194,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1271,6 +1293,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "company": "Goldman Sachs",
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://higher.gs.com/roles/188640",
+      "location": "Dallas, TX",
+      "datePosted": 1794351889,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:bafc9090-b9c7-4bef-a0be-926faf866497",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
@@ -1290,39 +1323,6 @@
       "datePosted": 1794344428,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
-      "company": "Skydio",
-      "title": "Hardware In Loop (HIL) Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1rH",
-      "location": "San Mateo, CA",
-      "datePosted": 1794334344,
-      "source": "aggregator",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
-      "company": "Palantir",
-      "title": "Software Engineer Intern, Connectivity Platform and Product",
-      "url": "https://go.vansh.nyc/1rs",
-      "location": "Denver, CO",
-      "datePosted": 1794329291,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:def9b2ef-44f6-407d-91a5-fc96f24a61fb",
-      "company": "Addepar",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1rW",
-      "location": "New York, NY",
-      "datePosted": 1794328067,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
