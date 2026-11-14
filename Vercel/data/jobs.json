@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T02:10:15Z",
-  "totalOpen": 1593,
-  "totalNewgrad": 246,
-  "totalOther": 1347,
+  "generatedAt": "2026-11-14T02:20:15Z",
+  "totalOpen": 1594,
+  "totalNewgrad": 248,
+  "totalOther": 1346,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -39,15 +39,81 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af796a3d0eefb7d11b8e3e6",
-      "company": "Postman",
-      "title": "AI Engineer, Intern",
-      "url": "https://jobright.ai/jobs/info/6af796a3d0eefb7d11b8e3e6",
-      "location": "San Francisco, CA",
-      "datePosted": 1794590371,
+      "id": "newgrad-jobs:6ae2317f05a39c3e2c717c54",
+      "company": "Oracle",
+      "title": "[Remote] Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6ae2317f05a39c3e2c717c54",
+      "location": "United States",
+      "datePosted": 1794590909,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aebea40765815f7d7464767",
+      "company": "Apple",
+      "title": "Machine Learning Engineer, Siri Speech",
+      "url": "https://jobright.ai/jobs/info/6aebea40765815f7d7464767",
+      "location": "Cupertino, CA",
+      "datePosted": 1794590909,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
+      "company": "AMD",
+      "title": "Distributed Systems Software Engineer, Collectives",
+      "url": "https://jobright.ai/jobs/info/6ae23d0a1f9d9308370afd1d",
+      "location": "San Jose, CA; Austin, TX",
+      "datePosted": 1794590701,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee206be0c9de7b05f8a91d",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Storage Systems/Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aee206be0c9de7b05f8a91d",
+      "location": "Andover, MA",
+      "datePosted": 1794590701,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af61fb580054650a5e7c3b7",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Systems/Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6af61fb580054650a5e7c3b7",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794590701,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee588ccaf8e660b87dec46",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Full Time) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6aee588ccaf8e660b87dec46",
+      "location": "San Jose, CA; Carlsbad, CA; Durham, NC; San Francisco, CA; Seattle, WA",
+      "datePosted": 1794590500,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af72d4a41166cab756489e3",
+      "company": "Cisco",
+      "title": "Software Engineer Compiler I (Full Time) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6af72d4a41166cab756489e3",
+      "location": "Austin, TX; San Jose, CA; Milpitas, CA; Dallas, TX; Durham, NC",
+      "datePosted": 1794590500,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac044eb4ac55253f5d6866c",
@@ -641,83 +707,6 @@
       "datePosted": 1794576026,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7668e3ba46d7b6c1665c2",
-      "company": "Elucid",
-      "title": "Software Engineering Intern: Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6af7668e3ba46d7b6c1665c2",
-      "location": "Boston, MA",
-      "datePosted": 1794575432,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3aadd80020ca3a89784e1",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Associate - Early Career",
-      "url": "https://jobright.ai/jobs/info/6af3aadd80020ca3a89784e1",
-      "location": "King of Prussia, PA",
-      "datePosted": 1794575406,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a905ab20bd89e205d249c9f",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
-      "location": "Offutt Air Force Base, NE",
-      "datePosted": 1794575029,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad26d645290d4375c452f86",
-      "company": "Wellmark Blue Cross and Blue Shield",
-      "title": "Software Engineer Internship \u2013 Technology Health Plan",
-      "url": "https://jobright.ai/jobs/info/6ad26d645290d4375c452f86",
-      "location": "Des Moines, IA",
-      "datePosted": 1794574851,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af77a7f3ba46d7b6c1672ff",
-      "company": "BHE Compression Services",
-      "title": "Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6af77a7f3ba46d7b6c1672ff",
-      "location": "Reno, NV",
-      "datePosted": 1794574847,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af747ac82422864006438f9",
-      "company": "CMT.AI",
-      "title": "Software Engineer I, Cloud",
-      "url": "https://jobright.ai/jobs/info/6af747ac82422864006438f9",
-      "location": "Cambridge, MA",
-      "datePosted": 1794574137,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b56e91ef-db7b-4b0a-bcb7-19bc013e1f4c",
-      "company": "Aurora",
-      "title": "Software Engineer Intern, Vehicle Platforms",
-      "url": "https://go.vansh.nyc/1yu",
-      "location": "Mountain View, CA",
-      "datePosted": 1794538186,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     },
     {
@@ -1323,6 +1312,17 @@
       "datePosted": 1794344428,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
+      "company": "Skydio",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1rH",
+      "location": "San Mateo, CA",
+      "datePosted": 1794334344,
+      "source": "aggregator",
+      "season": "Winter",
       "isNew": false
     }
   ]
