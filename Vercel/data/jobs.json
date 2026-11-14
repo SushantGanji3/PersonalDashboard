@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T23:50:15Z",
-  "totalOpen": 1576,
-  "totalNewgrad": 232,
+  "generatedAt": "2026-11-14T00:00:20Z",
+  "totalOpen": 1579,
+  "totalNewgrad": 235,
   "totalOther": 1344,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,6 +36,28 @@
       "datePosted": 1794582621,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab40c50ef911c35dffa2ff3",
+      "company": "Qumulo",
+      "title": "Software Development Engineer (Seattle) - Internship 2027",
+      "url": "https://jobright.ai/jobs/info/6ab40c50ef911c35dffa2ff3",
+      "location": "Seattle, WA",
+      "datePosted": 1794582385,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af75265c7349029d709465c",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6af75265c7349029d709465c",
+      "location": "Washington, DC",
+      "datePosted": 1794581941,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -61,12 +83,78 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae4c71977c09cb3bd4ae936",
+      "company": "IBM",
+      "title": "AI Software Engineer Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6ae4c71977c09cb3bd4ae936",
+      "location": "Poughkeepsie, NY; Durham, NC; San Jose, CA",
+      "datePosted": 1794580971,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae4ec5777c09cb3bd4b0363",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, Graphics (NTD)",
+      "url": "https://jobright.ai/jobs/info/6ae4ec5777c09cb3bd4b0363",
+      "location": "Redmond, WA",
+      "datePosted": 1794580890,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af7588ce3d8d612bf42272d",
+      "company": "Reliable Robotics Corporation",
+      "title": "Flight Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6af7588ce3d8d612bf42272d",
+      "location": "Mountain View, CA",
+      "datePosted": 1794580770,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6af7916ee3d8d612bf424e66",
       "company": "DCS Corp",
       "title": "Systems Engineer",
       "url": "https://jobright.ai/jobs/info/6af7916ee3d8d612bf424e66",
       "location": "Bedford, MA; Concord, MA",
       "datePosted": 1794580718,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af78f9a41166cab7564cd7a",
+      "company": "IDEMIA",
+      "title": "Full Stack Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6af78f9a41166cab7564cd7a",
+      "location": "Eden Prairie, MN",
+      "datePosted": 1794580250,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af75184e3d8d612bf4221b6",
+      "company": "Horizon3.ai",
+      "title": "Research Intern, Adversarial Intelligence",
+      "url": "https://jobright.ai/jobs/info/6af75184e3d8d612bf4221b6",
+      "location": "Chicago, IL; West Lafayette, IN",
+      "datePosted": 1794580049,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aad59670ebc8fb2313e8eaf",
+      "company": "Cotiviti",
+      "title": "Intern - Gen AI Research Engineer (Hiring Now!)",
+      "url": "https://jobright.ai/jobs/info/6aad59670ebc8fb2313e8eaf",
+      "location": "United States",
+      "datePosted": 1794579959,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -81,6 +169,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a8f11a2d7c91d0cf446d5e1",
+      "company": "Realm Alliance",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6a8f11a2d7c91d0cf446d5e1",
+      "location": "United States",
+      "datePosted": 1794579212,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af75aeac7349029d7094def",
@@ -413,21 +512,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aece2c3ab48a7079381f545",
+      "id": "newgrad-jobs:6ae8bd316c51033758f4232f",
       "company": "Lockheed Martin",
       "title": "Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6aece2c3ab48a7079381f545",
-      "location": "Fort Worth, TX",
+      "url": "https://jobright.ai/jobs/info/6ae8bd316c51033758f4232f",
+      "location": "Aguadilla, PR",
       "datePosted": 1794573069,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeca84fa9ea762a04090b87",
+      "id": "newgrad-jobs:6aec7974465e3d237137f156",
       "company": "Lockheed Martin",
       "title": "Software Engineer-INTERN",
-      "url": "https://jobright.ai/jobs/info/6aeca84fa9ea762a04090b87",
+      "url": "https://jobright.ai/jobs/info/6aec7974465e3d237137f156",
       "location": "King of Prussia, PA; United States",
       "datePosted": 1794573069,
       "source": "newgrad-jobs",
@@ -457,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1e39f905985ccaa406776",
+      "id": "newgrad-jobs:6af1e3a762fb9f5fcd8919d8",
       "company": "Lockheed Martin",
       "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e39f905985ccaa406776",
+      "url": "https://jobright.ai/jobs/info/6af1e3a762fb9f5fcd8919d8",
       "location": "Fort Worth, TX; Orlando, FL",
       "datePosted": 1794572890,
       "source": "newgrad-jobs",
@@ -512,22 +611,22 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aea67fcfc85f3a3943337c9",
+      "id": "newgrad-jobs:6af62f2b8cc703bba47b0c27",
       "company": "Lockheed Martin",
-      "title": "Embedded Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aea67fcfc85f3a3943337c9",
-      "location": "Huntsville, AL; Sunnyvale, CA; Littleton, CO",
+      "title": "Embedded Software Engineering Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6af62f2b8cc703bba47b0c27",
+      "location": "Highlands Ranch, CO",
       "datePosted": 1794572493,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af62f40323c531f31e30c9c",
+      "id": "newgrad-jobs:6aea67fb4f991d64376cdcb9",
       "company": "Lockheed Martin",
-      "title": "Embedded Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af62f40323c531f31e30c9c",
-      "location": "Highlands Ranch, CO",
+      "title": "Embedded Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aea67fb4f991d64376cdcb9",
+      "location": "Huntsville, AL; Sunnyvale, CA; Littleton, CO",
       "datePosted": 1794572493,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -553,17 +652,6 @@
       "datePosted": 1794572410,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7588ce3d8d612bf42272d",
-      "company": "Reliable Robotics Corporation",
-      "title": "Flight Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6af7588ce3d8d612bf42272d",
-      "location": "Mountain View, CA",
-      "datePosted": 1794572283,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -595,94 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a96ea29e4e60e4b8da5ab41",
       "location": "Orlando, FL",
       "datePosted": 1794572194,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad77b0567bec1d0d9c7587f",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer / Configuration Management",
-      "url": "https://jobright.ai/jobs/info/6ad77b0567bec1d0d9c7587f",
-      "location": "Salina, NY",
-      "datePosted": 1794572136,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea67de913589212b1f6abe",
-      "company": "Lockheed Martin",
-      "title": "Java Software Developer-INTERN",
-      "url": "https://jobright.ai/jobs/info/6aea67de913589212b1f6abe",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1794572110,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa1e2e5dbc0e60e37e14275",
-      "company": "Lockheed Martin",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa1e2e5dbc0e60e37e14275",
-      "location": "Huntsville, AL; Colorado Springs, CO",
-      "datePosted": 1794571845,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af62efa79862a378dcf1957",
-      "company": "Lockheed Martin",
-      "title": "A/AI Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6af62efa79862a378dcf1957",
-      "location": "Manassas, VA",
-      "datePosted": 1794571671,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2249c62fb9f5fcd8950c8",
-      "company": "Lockheed Martin",
-      "title": "Linux Infrastructure Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6af2249c62fb9f5fcd8950c8",
-      "location": "Moorestown, NJ",
-      "datePosted": 1794571536,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af669a4323c531f31e32a2c",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer (Configuration Management) - Intern",
-      "url": "https://jobright.ai/jobs/info/6af669a4323c531f31e32a2c",
-      "location": "Fort Worth, TX",
-      "datePosted": 1794571470,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af76c71e3d8d612bf4233cd",
-      "company": "Berkshire Hathaway Energy",
-      "title": "Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6af76c71e3d8d612bf4233cd",
-      "location": "Reno, NV",
-      "datePosted": 1794571249,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af76b72e3d8d612bf42337b",
-      "company": "SpaceX",
-      "title": "High Performance Computing Systems Engineer (HPC)",
-      "url": "https://jobright.ai/jobs/info/6af76b72e3d8d612bf42337b",
-      "location": "Hawthorne, CA",
-      "datePosted": 1794570994,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
