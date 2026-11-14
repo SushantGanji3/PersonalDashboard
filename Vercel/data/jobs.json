@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T10:40:16Z",
-  "totalOpen": 1599,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-11-14T10:50:16Z",
+  "totalOpen": 1601,
+  "totalNewgrad": 256,
   "totalOther": 1345,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,6 +25,28 @@
       "datePosted": 1794621588,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7635852aa6152bb69b2e0",
+      "company": "RTX",
+      "title": "Flight Control Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ad7635852aa6152bb69b2e0",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1794621491,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac63dfe4ac55253f5d79179",
+      "company": "TikTok",
+      "title": "Software Engineer intern (Global Traffic Architecture) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ac63dfe4ac55253f5d79179",
+      "location": "San Jose, CA",
+      "datePosted": 1794621393,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": true
     },
     {
@@ -36,7 +58,7 @@
       "datePosted": 1794621386,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a866763d34f700f87fc1a2d",
@@ -47,7 +69,7 @@
       "datePosted": 1794621091,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac540e9064da25272e15b35",
@@ -58,7 +80,7 @@
       "datePosted": 1794620982,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac40b8a0e027c0f3b3a8e95",
@@ -688,28 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af7b015e3d8d612bf425d41",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Energy Engineering (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6af7b015e3d8d612bf425d41",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794588565,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7b012e3d8d612bf425d3c",
-      "company": "Tesla",
-      "title": "Internship, Mobile Developer, Optimus (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6af7b012e3d8d612bf425d3c",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794588562,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:4bbbf732-35b2-45f5-9c77-3d3536bef7f0",
       "company": "Cisco",
       "title": "Software Engineer Compiler I",
@@ -751,7 +751,7 @@
       "datePosted": 1794528000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:13e19999-69ce-4245-a0f6-9b5b7fd62382",
