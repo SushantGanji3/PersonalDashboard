@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-14T11:50:16Z",
-  "totalOpen": 1603,
-  "totalNewgrad": 258,
+  "generatedAt": "2026-11-14T12:00:18Z",
+  "totalOpen": 1602,
+  "totalNewgrad": 257,
   "totalOther": 1345,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6af760f6e3d8d612bf422d15",
+      "company": "Fannie Mae",
+      "title": "Software Engineer - Associate (AWS)",
+      "url": "https://jobright.ai/jobs/info/6af760f6e3d8d612bf422d15",
+      "location": "Reston, VA",
+      "datePosted": 1794625603,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa3b3ec4238ea18d430d91a",
+      "company": "Emerson",
+      "title": "Software Engineering Co-op (Jun-Dec 2027)",
+      "url": "https://jobright.ai/jobs/info/6aa3b3ec4238ea18d430d91a",
+      "location": "Eden Prairie, MN",
+      "datePosted": 1794624031,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6adbd12ac5c64fa3d9cb1bb8",
       "company": "Scout AI",
@@ -14,7 +36,18 @@
       "datePosted": 1794624030,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af620ba8cc703bba47b01ab",
+      "company": "Brady Corporation",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6af620ba8cc703bba47b01ab",
+      "location": "Milwaukee, WI; Plymouth, MN",
+      "datePosted": 1794623614,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abf6d08372c01f6cd727ece",
@@ -674,39 +707,6 @@
       "datePosted": 1794590819,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
-      "company": "AMD",
-      "title": "Distributed Systems Software Engineer, Collectives",
-      "url": "https://jobright.ai/jobs/info/6ae23d0a1f9d9308370afd1d",
-      "location": "San Jose, CA; Austin, TX",
-      "datePosted": 1794590701,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee206be0c9de7b05f8a91d",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Storage Systems/Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aee206be0c9de7b05f8a91d",
-      "location": "Andover, MA",
-      "datePosted": 1794590701,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee588ccaf8e660b87dec46",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI II (Full Time) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6aee588ccaf8e660b87dec46",
-      "location": "San Jose, CA; Carlsbad, CA; Durham, NC; San Francisco, CA; Seattle, WA",
-      "datePosted": 1794590500,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
