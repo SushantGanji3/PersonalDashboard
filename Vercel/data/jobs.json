@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:40:16Z",
+  "generatedAt": "2026-11-14T04:50:18Z",
   "totalOpen": 1600,
   "totalNewgrad": 255,
   "totalOther": 1345,
@@ -48,6 +48,39 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af7df5342ae65e2c8f39bf3",
+      "company": "PACCAR",
+      "title": "Purchasing Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6af7df5342ae65e2c8f39bf3",
+      "location": "Bellevue, WA",
+      "datePosted": 1794600659,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af7b2bf171381948c9d2e01",
+      "company": "ServiceNow",
+      "title": "Security Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6af7b2bf171381948c9d2e01",
+      "location": "Kirkland, WA",
+      "datePosted": 1794600448,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af7dd0842ae65e2c8f399e8",
+      "company": "Leidos",
+      "title": "Embedded Flight Software Developer",
+      "url": "https://jobright.ai/jobs/info/6af7dd0842ae65e2c8f399e8",
+      "location": "Huntsville, AL",
+      "datePosted": 1794600072,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af796a3d0eefb7d11b8e3e6",
@@ -322,17 +355,6 @@
       "datePosted": 1794590188,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7b2bf171381948c9d2e01",
-      "company": "ServiceNow",
-      "title": "Security Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af7b2bf171381948c9d2e01",
-      "location": "Kirkland, WA",
-      "datePosted": 1794589247,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -696,28 +718,6 @@
       "datePosted": 1794580890,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae34520c3139b475b5abaa4",
-      "company": "Coinflow",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae34520c3139b475b5abaa4",
-      "location": "Chicago, IL",
-      "datePosted": 1794580804,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7588ce3d8d612bf42272d",
-      "company": "Reliable Robotics Corporation",
-      "title": "Flight Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6af7588ce3d8d612bf42272d",
-      "location": "Mountain View, CA",
-      "datePosted": 1794580770,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
