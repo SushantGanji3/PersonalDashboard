@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-14T02:30:17Z",
-  "totalOpen": 1595,
+  "generatedAt": "2026-11-14T02:40:20Z",
+  "totalOpen": 1596,
   "totalNewgrad": 249,
-  "totalOther": 1346,
+  "totalOther": 1347,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
+      "company": "Microsoft",
+      "title": "Software Engineer - Microsoft Business Operations",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
+      "location": "Redmond, WA",
+      "datePosted": 1794623047,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:d064d6a0-7525-406b-8cfc-490eca3f6d09",
       "company": "Meta AI",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794344428,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
-      "company": "Skydio",
-      "title": "Hardware In Loop (HIL) Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1rH",
-      "location": "San Mateo, CA",
-      "datePosted": 1794334344,
-      "source": "aggregator",
-      "season": "Winter",
       "isNew": false
     }
   ]
