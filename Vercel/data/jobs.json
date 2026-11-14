@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-14T23:20:14Z",
-  "totalOpen": 1578,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-11-14T23:30:22Z",
+  "totalOpen": 1576,
+  "totalNewgrad": 235,
   "totalOther": 1341,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6af501f41b2c5dcbbcd66242",
+      "company": "Accenture",
+      "title": "Custom Software Engineer - 6588434",
+      "url": "https://jobright.ai/jobs/info/6af501f41b2c5dcbbcd66242",
+      "location": "Memphis, TN",
+      "datePosted": 1794667668,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aebea40765815f7d7464767",
+      "company": "Apple",
+      "title": "Machine Learning Engineer, Siri Speech",
+      "url": "https://jobright.ai/jobs/info/6aebea40765815f7d7464767",
+      "location": "Cupertino, CA",
+      "datePosted": 1794667208,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6af8e157a68705504beb8dc1",
       "company": "VWell",
@@ -14,7 +36,7 @@
       "datePosted": 1794666711,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af7c264c7349029d70986d6",
@@ -33,17 +55,6 @@
       "title": "[Remote] Machine Learning Engineer",
       "url": "https://jobright.ai/jobs/info/6ae2317f05a39c3e2c717c54",
       "location": "United States",
-      "datePosted": 1794663245,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aebea40765815f7d7464767",
-      "company": "Apple",
-      "title": "Machine Learning Engineer, Siri Speech",
-      "url": "https://jobright.ai/jobs/info/6aebea40765815f7d7464767",
-      "location": "Cupertino, CA",
       "datePosted": 1794663245,
       "source": "newgrad-jobs",
       "season": null,
@@ -133,17 +144,6 @@
       "url": "https://jobright.ai/jobs/info/6af890b335427cce9bb2e3f3",
       "location": "Rochester, MN",
       "datePosted": 1794663046,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af501f41b2c5dcbbcd66242",
-      "company": "Accenture",
-      "title": "Custom Software Engineer - 6588434",
-      "url": "https://jobright.ai/jobs/info/6af501f41b2c5dcbbcd66242",
-      "location": "Memphis, TN",
-      "datePosted": 1794662655,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -377,7 +377,7 @@
       "datePosted": 1794652002,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6abfd052064da25272e05f1d",
