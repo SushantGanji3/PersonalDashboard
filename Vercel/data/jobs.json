@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T10:30:18Z",
-  "totalOpen": 1592,
-  "totalNewgrad": 252,
-  "totalOther": 1340,
+  "generatedAt": "2026-11-14T10:40:16Z",
+  "totalOpen": 1599,
+  "totalNewgrad": 254,
+  "totalOther": 1345,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,50 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa1d953dbc0e60e37e13f57",
+      "company": "Deloitte",
+      "title": "Palantir Developer, Consultant",
+      "url": "https://jobright.ai/jobs/info/6aa1d953dbc0e60e37e13f57",
+      "location": "Washington, DC; McLean, VA; Richmond, VA; Baltimore, MD; Arlington, VA",
+      "datePosted": 1794621588,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac40b740e027c0f3b3a8e89",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "url": "https://jobright.ai/jobs/info/6ac40b740e027c0f3b3a8e89",
+      "location": "San Jose, CA",
+      "datePosted": 1794621386,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a866763d34f700f87fc1a2d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a866763d34f700f87fc1a2d",
+      "location": "San Jose, CA",
+      "datePosted": 1794621091,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac540e9064da25272e15b35",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6ac540e9064da25272e15b35",
+      "location": "San Jose, CA",
+      "datePosted": 1794620982,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac40b8a0e027c0f3b3a8e95",
@@ -666,50 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af798dd824228640064715f",
-      "company": "Rhoback",
-      "title": "Associate Frontend Developer, UI/UX",
-      "url": "https://jobright.ai/jobs/info/6af798dd824228640064715f",
-      "location": "Charlottesville, VA",
-      "datePosted": 1794587818,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1da890cb834dad9320aa1",
-      "company": "Serco",
-      "title": "Junior Software Engineer - Remote",
-      "url": "https://jobright.ai/jobs/info/6af1da890cb834dad9320aa1",
-      "location": "United States",
-      "datePosted": 1794587419,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8612e8e459fa3baa865c33",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a8612e8e459fa3baa865c33",
-      "location": "San Jose, CA",
-      "datePosted": 1794587304,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af76e9d8242286400645275",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Bespoke Solutions; ADC Hardware & Software Team",
-      "url": "https://jobright.ai/jobs/info/6af76e9d8242286400645275",
-      "location": "Jessup, MD; Arlington, VA; Denver, CO; Herndon, VA",
-      "datePosted": 1794587115,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:4bbbf732-35b2-45f5-9c77-3d3536bef7f0",
       "company": "Cisco",
       "title": "Software Engineer Compiler I",
@@ -743,15 +743,15 @@
       "isNew": false
     },
     {
-      "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
+      "id": "simplify:dcad63ca-676a-4159-a102-8c42f2d872c5",
       "company": "Shield AI",
       "title": "Software Engineer 1 New Grad",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+      "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
       "location": "Washington, DC",
       "datePosted": 1794528000,
       "source": "aggregator",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "simplify:13e19999-69ce-4245-a0f6-9b5b7fd62382",
@@ -1282,6 +1282,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "company": "Goldman Sachs",
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://higher.gs.com/roles/188640",
+      "location": "Dallas, TX",
+      "datePosted": 1794351889,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:bafc9090-b9c7-4bef-a0be-926faf866497",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794334344,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
-      "company": "Palantir",
-      "title": "Software Engineer Intern, Connectivity Platform and Product",
-      "url": "https://go.vansh.nyc/1rs",
-      "location": "Denver, CO",
-      "datePosted": 1794329291,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
