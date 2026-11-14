@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T03:20:15Z",
-  "totalOpen": 1595,
-  "totalNewgrad": 250,
+  "generatedAt": "2026-11-14T03:30:17Z",
+  "totalOpen": 1596,
+  "totalNewgrad": 251,
   "totalOther": 1345,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -58,7 +58,7 @@
       "datePosted": 1794593252,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad92836950ef68d5184eb4f",
@@ -644,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af75265c7349029d709465c",
-      "company": "Shield AI",
-      "title": "Summer 2027 - Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af75265c7349029d709465c",
-      "location": "Washington, DC",
-      "datePosted": 1794581941,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af78a5ee3d8d612bf424857",
       "company": "University of Illinois Chicago",
       "title": "Research Systems Engineer - Technology Solutions",
@@ -716,6 +705,17 @@
       "url": "https://jobright.ai/jobs/info/6af7916ee3d8d612bf424e66",
       "location": "Bedford, MA; Concord, MA",
       "datePosted": 1794580718,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af78f9a41166cab7564cd7a",
+      "company": "IDEMIA",
+      "title": "Full Stack Software Engineering Internship",
+      "url": "https://jobright.ai/jobs/info/6af78f9a41166cab7564cd7a",
+      "location": "Eden Prairie, MN",
+      "datePosted": 1794580696,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
