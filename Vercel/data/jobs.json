@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-15T01:10:14Z",
+  "generatedAt": "2026-11-15T01:20:15Z",
   "totalOpen": 1578,
-  "totalNewgrad": 235,
-  "totalOther": 1343,
+  "totalNewgrad": 234,
+  "totalOther": 1344,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1c056340-a057-4f3e-a0c6-a22b4280495c",
+      "company": "NVIDIA",
+      "title": "Deep Learning Framework Communications Engineer",
+      "url": "https://go.vansh.nyc/1zO",
+      "location": "Santa Clara, CA",
+      "datePosted": 1794704678,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6af77ceec7349029d70965f6",
       "company": "Applied Materials",
@@ -215,10 +226,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af34a5e769e9374033c4b73",
+      "id": "newgrad-jobs:6af34a597c81de7a524be02e",
       "company": "Palantir",
       "title": "Software Engineer, Intern - Connectivity Platform and Product",
-      "url": "https://jobright.ai/jobs/info/6af34a5e769e9374033c4b73",
+      "url": "https://jobright.ai/jobs/info/6af34a597c81de7a524be02e",
       "location": "Denver, CO; New York, NY",
       "datePosted": 1794662655,
       "source": "newgrad-jobs",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794344428,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
-      "company": "Skydio",
-      "title": "Hardware In Loop (HIL) Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1rH",
-      "location": "San Mateo, CA",
-      "datePosted": 1794334344,
-      "source": "aggregator",
-      "season": "Winter",
       "isNew": false
     }
   ]
