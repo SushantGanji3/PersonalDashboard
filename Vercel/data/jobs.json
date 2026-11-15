@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-15T13:40:15Z",
-  "totalOpen": 1565,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-11-15T13:50:15Z",
+  "totalOpen": 1563,
+  "totalNewgrad": 224,
   "totalOther": 1339,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6af3c0ba7c81de7a524c2b8b",
+      "company": "General Motors",
+      "title": "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
+      "url": "https://jobright.ai/jobs/info/6af3c0ba7c81de7a524c2b8b",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794718859,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6a86674674e02153f145bc59",
       "company": "TikTok",
@@ -61,10 +72,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af620ba8cc703bba47b01ab",
+      "id": "newgrad-jobs:6af620bc79862a378dcf0f26",
       "company": "Brady Corporation",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af620ba8cc703bba47b01ab",
+      "url": "https://jobright.ai/jobs/info/6af620bc79862a378dcf0f26",
       "location": "Milwaukee, WI; Plymouth, MN",
       "datePosted": 1794709983,
       "source": "newgrad-jobs",
@@ -94,10 +105,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abf6d078ff3fb9b3bc780c8",
+      "id": "newgrad-jobs:6abf6d08372c01f6cd727ece",
       "company": "ShopBack",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6abf6d078ff3fb9b3bc780c8",
+      "url": "https://jobright.ai/jobs/info/6abf6d08372c01f6cd727ece",
       "location": "United States",
       "datePosted": 1794708989,
       "source": "newgrad-jobs",
@@ -243,17 +254,6 @@
       "url": "https://jobright.ai/jobs/info/6af73be4c7349029d7093688",
       "location": "Boston, MA",
       "datePosted": 1794703287,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af71f238242286400641d97",
-      "company": "Northrop Grumman",
-      "title": "2027 - Associate Software Engineer - McClellan CA",
-      "url": "https://jobright.ai/jobs/info/6af71f238242286400641d97",
-      "location": "McClellan Park, CA",
-      "datePosted": 1794691534,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -622,17 +622,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aba71507220f52e62ae6465",
-      "company": "RouteOne",
-      "title": "Software Engineer Intern -.NET - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aba71507220f52e62ae6465",
-      "location": "Farmington Hills, MI",
-      "datePosted": 1794657897,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af8b7cda68705504beb8746",
       "company": "NVIDIA",
       "title": "NVIDIA 2027 Internships: Deep Learning",
@@ -672,6 +661,17 @@
       "url": "https://jobright.ai/jobs/info/6a7def220cd4a0703257c980",
       "location": "Frisco, TX",
       "datePosted": 1794648750,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a87a59d4afae74a08349c6e",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer - Simulation & Flight Systems",
+      "url": "https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e",
+      "location": "Hawthorne, CA",
+      "datePosted": 1794648651,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
