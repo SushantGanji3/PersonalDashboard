@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T01:20:15Z",
-  "totalOpen": 1578,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-11-15T01:30:18Z",
+  "totalOpen": 1577,
+  "totalNewgrad": 233,
   "totalOther": 1344,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,18 @@
       "datePosted": 1794704678,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af1da890cb834dad9320aa1",
+      "company": "Serco",
+      "title": "Junior Software Engineer - Remote",
+      "url": "https://jobright.ai/jobs/info/6af1da890cb834dad9320aa1",
+      "location": "United States",
+      "datePosted": 1794673781,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af77ceec7349029d70965f6",
@@ -663,17 +674,6 @@
       "datePosted": 1794646044,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adba966389e06bb41ad3312",
-      "company": "Copart",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6adba966389e06bb41ad3312",
-      "location": "Dallas, TX",
-      "datePosted": 1794645480,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
