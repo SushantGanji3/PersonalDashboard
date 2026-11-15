@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T11:10:19Z",
-  "totalOpen": 1566,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-11-15T11:20:14Z",
+  "totalOpen": 1565,
+  "totalNewgrad": 225,
   "totalOther": 1340,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794709761,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac028e90e027c0f3b3a02a9",
@@ -61,10 +61,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af620ba8cc703bba47b01ab",
+      "id": "newgrad-jobs:6af620bc79862a378dcf0f26",
       "company": "Brady Corporation",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af620ba8cc703bba47b01ab",
+      "url": "https://jobright.ai/jobs/info/6af620bc79862a378dcf0f26",
       "location": "Milwaukee, WI; Plymouth, MN",
       "datePosted": 1794708034,
       "source": "newgrad-jobs",
@@ -644,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abfd052064da25272e05f1d",
-      "company": "BAE Systems",
-      "title": "Software Engineering Intern II, Summer 2027 (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6abfd052064da25272e05f1d",
-      "location": "Totowa, NJ",
-      "datePosted": 1794650974,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af7df5342ae65e2c8f39bf3",
       "company": "PACCAR",
       "title": "Purchasing Data Engineer",
@@ -672,6 +661,17 @@
       "url": "https://jobright.ai/jobs/info/6a7def220cd4a0703257c980",
       "location": "Frisco, TX",
       "datePosted": 1794648750,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a87a59d4afae74a08349c6e",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer - Simulation & Flight Systems",
+      "url": "https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e",
+      "location": "Hawthorne, CA",
+      "datePosted": 1794648651,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
