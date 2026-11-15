@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:40:15Z",
+  "generatedAt": "2026-11-15T01:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1794705615
+    },
+    {
+      "id": "newgrad-jobs:6af904d59501ee962015dee1",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Information Security (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6af904d59501ee962015dee1",
+      "location": "Bellevue, WA",
+      "datePosted": 1794675797,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1794707415
     },
     {
       "id": "newgrad-jobs:6af77ceec7349029d70965f6",
@@ -29755,28 +29766,6 @@
       "datePosted": 1792142428,
       "source": "newgrad-jobs",
       "season": null,
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:c6cf89af-fd3e-48e3-b886-b14efade21e6",
-      "company": "TikTok",
-      "title": "Software Engineer Intern - Recommendation Performance Efficiency",
-      "url": "https://lifeattiktok.com/search/7673636206961641781",
-      "location": "San Jose, CA",
-      "datePosted": 1792114830,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:003d3576-aa77-444f-813f-3072e227f8bd",
-      "company": "TikTok",
-      "title": "Software Engineer Intern, Recommendation Performance Efficiency",
-      "url": "https://go.vansh.nyc/aQ",
-      "location": "San Jose, CA",
-      "datePosted": 1792114830,
-      "source": "aggregator",
-      "season": "Summer",
       "firstSeenAt": 1793826020
     }
   ]
