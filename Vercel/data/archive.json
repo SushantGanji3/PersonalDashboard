@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:40:15Z",
+  "generatedAt": "2026-11-15T12:50:15Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1794739820
+    },
+    {
+      "id": "newgrad-jobs:6ad2f652f04335fc70ed8164",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ad2f652f04335fc70ed8164",
+      "location": "Seattle, WA",
+      "datePosted": 1794707528,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1794747015
     },
     {
       "id": "newgrad-jobs:6af97ec9f015f35e7418d75d",
@@ -29943,17 +29954,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1794003616
-    },
-    {
-      "id": "newgrad-jobs:6ad27dbe25289a0b3bf57143",
-      "company": "FWI (FedWriters, Inc.)",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad27dbe25289a0b3bf57143",
-      "location": "Arlington, VA",
-      "datePosted": 1792154446,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1793826020
     }
   ]
 }
