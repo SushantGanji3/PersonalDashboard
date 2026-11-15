@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:20:14Z",
+  "generatedAt": "2026-11-15T06:30:17Z",
   "totalOpen": 1577,
   "totalNewgrad": 232,
   "totalOther": 1345,
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af71f238242286400641d97",
+      "company": "Northrop Grumman",
+      "title": "2027 - Associate Software Engineer - McClellan CA",
+      "url": "https://jobright.ai/jobs/info/6af71f238242286400641d97",
+      "location": "McClellan Park, CA",
+      "datePosted": 1794691534,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af920d65c0a9086f3614611",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6af861c8cb5a5d4a77fcbbcc",
       "location": "Newport News, VA",
       "datePosted": 1794646791,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adbf0829e3e874dbfba2be5",
-      "company": "ASML",
-      "title": "Internship- Platform Software Engineer In Test",
-      "url": "https://jobright.ai/jobs/info/6adbf0829e3e874dbfba2be5",
-      "location": "San Jose, CA",
-      "datePosted": 1794646404,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
