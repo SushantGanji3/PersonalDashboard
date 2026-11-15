@@ -1,17 +1,50 @@
 {
-  "generatedAt": "2026-11-15T17:20:21Z",
-  "totalOpen": 1562,
-  "totalNewgrad": 223,
+  "generatedAt": "2026-11-15T17:30:17Z",
+  "totalOpen": 1564,
+  "totalNewgrad": 225,
   "totalOther": 1339,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6af1e3a762fb9f5fcd8919d8",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3a762fb9f5fcd8919d8",
-      "location": "Fort Worth, TX; Orlando, FL",
-      "datePosted": 1794729705,
+      "id": "newgrad-jobs:6aa528ed654b2a9424cf3139",
+      "company": "Ibotta",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa528ed654b2a9424cf3139",
+      "location": "Denver, CO",
+      "datePosted": 1794730442,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abfd6ab0e027c0f3b39e2a3",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6abfd6ab0e027c0f3b39e2a3",
+      "location": "Seattle, WA; Redmond, WA; Santa Clara, CA; Los Angeles, CA; Cupertino, CA; Palo Alto, CA; Los Gatos, CA; San Diego, CA; San Francisco, CA; San Jose, CA; Sunnyvale, CA; Bellevue, WA",
+      "datePosted": 1794730322,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5fde616e0c3c7c7d3d9a52",
+      "company": "Current",
+      "title": "Software Engineer, iOS",
+      "url": "https://jobright.ai/jobs/info/6a5fde616e0c3c7c7d3d9a52",
+      "location": "New York, NY",
+      "datePosted": 1794729979,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af9d81d9501ee962015f311",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+      "url": "https://jobright.ai/jobs/info/6af9d81d9501ee962015f311",
+      "location": "Santa Clara, CA",
+      "datePosted": 1794729885,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -28,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af8741635427cce9bb2de61",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af8741635427cce9bb2de61",
+      "location": "Fort Worth, TX; Orlando, FL",
+      "datePosted": 1794729705,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af61d50a4a5218a07e834a1",
       "company": "Amazon",
       "title": "Security Engineer SoC, Devices and Services Security",
@@ -36,17 +80,6 @@
       "datePosted": 1794729632,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abfd6ab0e027c0f3b39e2a3",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
-      "url": "https://jobright.ai/jobs/info/6abfd6ab0e027c0f3b39e2a3",
-      "location": "Seattle, WA; Redmond, WA; Santa Clara, CA; Los Angeles, CA; Cupertino, CA; Palo Alto, CA; Los Gatos, CA; San Diego, CA; San Francisco, CA; San Jose, CA; Sunnyvale, CA; Bellevue, WA",
-      "datePosted": 1794729554,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -226,10 +259,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa4c54ea77a53f5a156dfdc",
+      "id": "newgrad-jobs:6ac96b62fe8f33a85d503cfc",
       "company": "Toyota Automated Logistics",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa4c54ea77a53f5a156dfdc",
+      "url": "https://jobright.ai/jobs/info/6ac96b62fe8f33a85d503cfc",
       "location": "Meridian, ID",
       "datePosted": 1794710423,
       "source": "newgrad-jobs",
@@ -639,39 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ae83e94fb2cd420ace65494",
       "location": "San Jose, CA",
       "datePosted": 1794661855,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af6319df10ae27369e1790f",
-      "company": "Microsoft",
-      "title": "Software Engineer - Systems and Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6af6319df10ae27369e1790f",
-      "location": "Mountain View, CA",
-      "datePosted": 1794661855,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af8b7cda68705504beb8746",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Deep Learning",
-      "url": "https://jobright.ai/jobs/info/6af8b7cda68705504beb8746",
-      "location": "Santa Clara, CA",
-      "datePosted": 1794656077,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea8a5dfc85f3a394334a68",
-      "company": "TetraMem - Accelerate The World",
-      "title": "US 2026 Software - Machine Learning Intern",
-      "url": "https://jobright.ai/jobs/info/6aea8a5dfc85f3a394334a68",
-      "location": "San Jose, CA",
-      "datePosted": 1794652002,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
