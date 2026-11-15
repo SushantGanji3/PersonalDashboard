@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-15T00:10:15Z",
+  "generatedAt": "2026-11-15T00:20:14Z",
   "totalOpen": 1577,
   "totalNewgrad": 234,
   "totalOther": 1343,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6af8ef641465de0d45f83711",
+      "company": "T-Mobile",
+      "title": "Associate Software Engineer- Billing Platform",
+      "url": "https://jobright.ai/jobs/info/6af8ef641465de0d45f83711",
+      "location": "Frisco, TX; Overland Park, KS; Atlanta, GA",
+      "datePosted": 1794670061,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6af8e8bb48f3528e5a72e6b8",
       "company": "University of Idaho",
@@ -45,17 +56,6 @@
       "url": "https://jobright.ai/jobs/info/6aebea40765815f7d7464767",
       "location": "Cupertino, CA",
       "datePosted": 1794667208,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af8e157a68705504beb8dc1",
-      "company": "VWell",
-      "title": "Software Engineering & AI Intern",
-      "url": "https://jobright.ai/jobs/info/6af8e157a68705504beb8dc1",
-      "location": "Washington, DC",
-      "datePosted": 1794666711,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -204,10 +204,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af34a597c81de7a524be02e",
+      "id": "newgrad-jobs:6af34a5e769e9374033c4b73",
       "company": "Palantir",
       "title": "Software Engineer, Intern - Connectivity Platform and Product",
-      "url": "https://jobright.ai/jobs/info/6af34a597c81de7a524be02e",
+      "url": "https://jobright.ai/jobs/info/6af34a5e769e9374033c4b73",
       "location": "Denver, CO; New York, NY",
       "datePosted": 1794662655,
       "source": "newgrad-jobs",
@@ -751,7 +751,7 @@
       "datePosted": 1794528000,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:13e19999-69ce-4245-a0f6-9b5b7fd62382",
