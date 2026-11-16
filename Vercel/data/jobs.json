@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T15:50:16Z",
-  "totalOpen": 1577,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-11-16T16:00:21Z",
+  "totalOpen": 1579,
+  "totalNewgrad": 245,
   "totalOther": 1334,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794811887,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb186d04af1c9f075c3d36",
@@ -23,6 +23,28 @@
       "url": "https://jobright.ai/jobs/info/6afb186d04af1c9f075c3d36",
       "location": "Bethpage, NY",
       "datePosted": 1794811885,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb18445305ed998d919c21",
+      "company": "IBM",
+      "title": "Application Developer-DevOps",
+      "url": "https://jobright.ai/jobs/info/6afb18445305ed998d919c21",
+      "location": "Irving, TX",
+      "datePosted": 1794811844,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afb17437f9ead6668e9e212",
+      "company": "IBM",
+      "title": "Application Developer-Cloud FullStack",
+      "url": "https://jobright.ai/jobs/info/6afb17437f9ead6668e9e212",
+      "location": "Paramus, NJ",
+      "datePosted": 1794811587,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -36,7 +58,7 @@
       "datePosted": 1794811005,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb0edb7d1820d918c25f65",
@@ -171,15 +193,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af61fb580054650a5e7c3b7",
+      "id": "newgrad-jobs:6af6234279862a378dcf10e2",
       "company": "Hewlett Packard Enterprise",
       "title": "Systems/Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6af61fb580054650a5e7c3b7",
+      "url": "https://jobright.ai/jobs/info/6af6234279862a378dcf10e2",
       "location": "Sunnyvale, CA",
       "datePosted": 1794804147,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac4b589064da25272e136a5",
@@ -639,28 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6af9d81d9501ee962015f311",
       "location": "Santa Clara, CA",
       "datePosted": 1794729885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af61d50a4a5218a07e834a1",
-      "company": "Amazon",
-      "title": "Security Engineer SoC, Devices and Services Security",
-      "url": "https://jobright.ai/jobs/info/6af61d50a4a5218a07e834a1",
-      "location": "Seattle, WA",
-      "datePosted": 1794729632,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa37c036b9ea4538f928bf3",
-      "company": "SpaceX",
-      "title": "Software Engineer, Test Engineering and Operations",
-      "url": "https://jobright.ai/jobs/info/6aa37c036b9ea4538f928bf3",
-      "location": "Hawthorne, CA",
-      "datePosted": 1794728783,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
