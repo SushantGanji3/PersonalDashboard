@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T14:50:23Z",
-  "totalOpen": 1581,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-11-16T15:00:23Z",
+  "totalOpen": 1579,
+  "totalNewgrad": 244,
   "totalOther": 1335,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -12,6 +12,17 @@
       "url": "https://jobright.ai/jobs/info/6afb0edb7d1820d918c25f65",
       "location": "Maryland Heights, MO; Hazelwood, MO",
       "datePosted": 1794809435,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb0d31317abe715a26025f",
+      "company": "Irradiant Technologies",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6afb0d31317abe715a26025f",
+      "location": "Waltham, MA",
+      "datePosted": 1794809009,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -25,7 +36,7 @@
       "datePosted": 1794808322,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb057a04af1c9f075c33ec",
@@ -110,7 +121,7 @@
       "title": "Software Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6a91dc6b8e5968545337823c",
       "location": "Spring, TX; Westford, MA; Fort Collins, CO; Chippewa Falls, WI; Durham, NC; Sunnyvale, CA; Roseville, CA; San Jose, CA; Bloomington, MN; Andover, MA",
-      "datePosted": 1794804420,
+      "datePosted": 1794804462,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -201,17 +212,6 @@
       "datePosted": 1794793326,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afabe46932361ec3b6e52bb",
-      "company": "Enervexa PowerLabs",
-      "title": "Intern, Software Engineering (R20319)",
-      "url": "https://jobright.ai/jobs/info/6afabe46932361ec3b6e52bb",
-      "location": "United States",
-      "datePosted": 1794788806,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -314,15 +314,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afa46ef48f3528e5a730c0e",
-      "company": "Yellow Digital",
-      "title": "React Native Developer",
-      "url": "https://jobright.ai/jobs/info/6afa46ef48f3528e5a730c0e",
-      "location": "United States",
-      "datePosted": 1794758255,
+      "id": "newgrad-jobs:6afb0cc0317abe715a2601cc",
+      "company": "Analog Devices",
+      "title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
+      "url": "https://jobright.ai/jobs/info/6afb0cc0317abe715a2601cc",
+      "location": "Wilmington, MA",
+      "datePosted": 1794758400,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
@@ -622,28 +622,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
-      "company": "Palantir",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
-      "location": "New York, NY",
-      "datePosted": 1794730806,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa528ed654b2a9424cf3139",
-      "company": "Ibotta",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa528ed654b2a9424cf3139",
-      "location": "Denver, CO",
-      "datePosted": 1794730442,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af9d81d9501ee962015f311",
       "company": "NVIDIA",
       "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
@@ -661,6 +639,28 @@
       "url": "https://jobright.ai/jobs/info/6af61d50a4a5218a07e834a1",
       "location": "Seattle, WA",
       "datePosted": 1794729632,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa37c036b9ea4538f928bf3",
+      "company": "SpaceX",
+      "title": "Software Engineer, Test Engineering and Operations",
+      "url": "https://jobright.ai/jobs/info/6aa37c036b9ea4538f928bf3",
+      "location": "Hawthorne, CA",
+      "datePosted": 1794728783,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af9c9931465de0d45f84cd5",
+      "company": "Redhorse Corporation",
+      "title": "Cloud Software Engineer (Full-Stack and AI) - Junior Level with Security Clearance",
+      "url": "https://jobright.ai/jobs/info/6af9c9931465de0d45f84cd5",
+      "location": "Gainesville, VA",
+      "datePosted": 1794726163,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
