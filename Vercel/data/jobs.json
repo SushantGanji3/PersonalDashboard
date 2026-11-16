@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T17:50:16Z",
-  "totalOpen": 1572,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-16T18:00:21Z",
+  "totalOpen": 1570,
+  "totalNewgrad": 237,
   "totalOther": 1333,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794819720,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfab4cc0dd9da253cf3d7f",
@@ -25,7 +25,7 @@
       "datePosted": 1794819460,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb1f637d1820d918c26839",
@@ -292,10 +292,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af641868cc703bba47b19f4",
+      "id": "newgrad-jobs:6af6234279862a378dcf10e2",
       "company": "Hewlett Packard Enterprise",
       "title": "Systems/Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6af641868cc703bba47b19f4",
+      "url": "https://jobright.ai/jobs/info/6af6234279862a378dcf10e2",
       "location": "Sunnyvale, CA",
       "datePosted": 1794804147,
       "source": "newgrad-jobs",
@@ -468,6 +468,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6afb3931484fef921e04908b",
+      "company": "Symbotic",
+      "title": "Software Engineer, Core Systems & Platform Services",
+      "url": "https://jobright.ai/jobs/info/6afb3931484fef921e04908b",
+      "location": "Wilmington, MA",
+      "datePosted": 1794758400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6afb0cc0317abe715a2601cc",
       "company": "Analog Devices",
       "title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
@@ -487,7 +498,7 @@
       "datePosted": 1794758400,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
       "location": "Redmond, WA",
       "datePosted": 1794731974,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af9d81d9501ee962015f311",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
-      "url": "https://jobright.ai/jobs/info/6af9d81d9501ee962015f311",
-      "location": "Santa Clara, CA",
-      "datePosted": 1794729885,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
