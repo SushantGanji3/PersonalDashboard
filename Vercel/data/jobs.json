@@ -1,17 +1,61 @@
 {
-  "generatedAt": "2026-11-16T19:20:17Z",
-  "totalOpen": 1566,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-11-16T19:30:17Z",
+  "totalOpen": 1562,
+  "totalNewgrad": 230,
   "totalOther": 1332,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6afb3931484fef921e04908b",
+      "id": "newgrad-jobs:6afb186d04af1c9f075c3d36",
+      "company": "Optimum",
+      "title": "Intern - Software Developer",
+      "url": "https://jobright.ai/jobs/info/6afb186d04af1c9f075c3d36",
+      "location": "Bethpage, NY",
+      "datePosted": 1794824539,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb45da5305ed998d91bca2",
+      "company": "Clark Associates",
+      "title": "Front-End Developer Intern (Remote)",
+      "url": "https://jobright.ai/jobs/info/6afb45da5305ed998d91bca2",
+      "location": "United States",
+      "datePosted": 1794823514,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afb45ab317abe715a262903",
+      "company": "TalentSphere Global",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6afb45ab317abe715a262903",
+      "location": "Rochester, NY",
+      "datePosted": 1794823467,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afb3eec7f9ead6668ea002f",
       "company": "Symbotic",
       "title": "Software Engineer, Core Systems & Platform Services",
-      "url": "https://jobright.ai/jobs/info/6afb3931484fef921e04908b",
+      "url": "https://jobright.ai/jobs/info/6afb3eec7f9ead6668ea002f",
       "location": "Wilmington, MA",
       "datePosted": 1794823349,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afb0cc0317abe715a2601cc",
+      "company": "Analog Devices",
+      "title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
+      "url": "https://jobright.ai/jobs/info/6afb0cc0317abe715a2601cc",
+      "location": "Wilmington, MA",
+      "datePosted": 1794822979,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -100,6 +144,28 @@
       "url": "https://jobright.ai/jobs/info/6afb3e355305ed998d91b832",
       "location": "Sunnyvale, CA",
       "datePosted": 1794821557,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb18445305ed998d919c21",
+      "company": "IBM",
+      "title": "Application Developer-DevOps",
+      "url": "https://jobright.ai/jobs/info/6afb18445305ed998d919c21",
+      "location": "Irving, TX",
+      "datePosted": 1794821086,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb17437f9ead6668e9e212",
+      "company": "IBM",
+      "title": "Application Developer-Cloud FullStack",
+      "url": "https://jobright.ai/jobs/info/6afb17437f9ead6668e9e212",
+      "location": "Paramus, NJ",
+      "datePosted": 1794820997,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -237,39 +303,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afb186d04af1c9f075c3d36",
-      "company": "Optimum",
-      "title": "Intern - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6afb186d04af1c9f075c3d36",
-      "location": "Bethpage, NY",
-      "datePosted": 1794811885,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb18445305ed998d919c21",
-      "company": "IBM",
-      "title": "Application Developer-DevOps",
-      "url": "https://jobright.ai/jobs/info/6afb18445305ed998d919c21",
-      "location": "Irving, TX",
-      "datePosted": 1794811844,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb17437f9ead6668e9e212",
-      "company": "IBM",
-      "title": "Application Developer-Cloud FullStack",
-      "url": "https://jobright.ai/jobs/info/6afb17437f9ead6668e9e212",
-      "location": "Paramus, NJ",
-      "datePosted": 1794811587,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae88d45061d6d7ff3d7ae76",
       "company": "ParetoHealth",
       "title": "Software Engineering Summer Intern",
@@ -320,17 +353,6 @@
       "url": "https://jobright.ai/jobs/info/6af639d6323c531f31e311b2",
       "location": "Tampa, FL",
       "datePosted": 1794808322,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb057a04af1c9f075c33ec",
-      "company": "Clark Associates",
-      "title": "Front-End Developer Intern (Remote)",
-      "url": "https://jobright.ai/jobs/info/6afb057a04af1c9f075c33ec",
-      "location": "United States",
-      "datePosted": 1794807034,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -523,45 +545,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afa573e48f3528e5a730ee7",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Infotainment Platforms Validation (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6afa573e48f3528e5a730ee7",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794762430,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afa57331465de0d45f85fb3",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Build & Simulation Platform (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6afa57331465de0d45f85fb3",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794762419,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afa00309501ee962015f943",
       "company": "Mach Industries",
       "title": "Security Engineer",
       "url": "https://jobright.ai/jobs/info/6afa00309501ee962015f943",
       "location": "Huntington Beach, CA",
       "datePosted": 1794761357,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac29dcf372c01f6cd72fef0",
-      "company": "TikTok",
-      "title": "Software Engineer - Intern (CIS) - 2027 Start",
-      "url": "https://jobright.ai/jobs/info/6ac29dcf372c01f6cd72fef0",
-      "location": "Seattle, WA",
-      "datePosted": 1794760905,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -578,26 +567,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afb0cc0317abe715a2601cc",
-      "company": "Analog Devices",
-      "title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
-      "url": "https://jobright.ai/jobs/info/6afb0cc0317abe715a2601cc",
-      "location": "Wilmington, MA",
-      "datePosted": 1794758400,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb349a04af1c9f075c52d2",
-      "company": "Altice USA",
-      "title": "Intern - Software Developer",
-      "url": "https://jobright.ai/jobs/info/6afb349a04af1c9f075c52d2",
+      "id": "newgrad-jobs:6afb46307d1820d918c28572",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Systems Engineer - Bethpage NY",
+      "url": "https://jobright.ai/jobs/info/6afb46307d1820d918c28572",
       "location": "Bethpage, NY",
       "datePosted": 1794758400,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
@@ -661,6 +639,28 @@
       "url": "https://jobright.ai/jobs/info/6af79ecfc7349029d7097ba0",
       "location": "Liberty Lake, WA",
       "datePosted": 1794742987,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ada7aed03d2da7528915e81",
+      "company": "Mission Technologies, a division of HII",
+      "title": "SharePoint Developer 1 Job Details | HII's Mission Technologies division",
+      "url": "https://jobright.ai/jobs/info/6ada7aed03d2da7528915e81",
+      "location": "Annapolis Junction, MD; Fort Meade, MD",
+      "datePosted": 1794737155,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a34ac64ce501060b5cf21b8",
+      "company": "CGI",
+      "title": "SAP Fiori UX Consultant/Developer (Jr.) - U.S. Citizenship Required",
+      "url": "https://jobright.ai/jobs/info/6a34ac64ce501060b5cf21b8",
+      "location": "Fairfax, VA; Lebanon, VA; Lafayette, LA; Knoxville, TN",
+      "datePosted": 1794736779,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
