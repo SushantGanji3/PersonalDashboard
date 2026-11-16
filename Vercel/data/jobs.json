@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T11:10:16Z",
-  "totalOpen": 1579,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-11-16T11:20:15Z",
+  "totalOpen": 1577,
+  "totalNewgrad": 240,
   "totalOther": 1337,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,17 +14,6 @@
       "datePosted": 1794793326,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afac3fd1460f8021289ceff",
-      "company": "IBM",
-      "title": "Data Engineer-Data Integration",
-      "url": "https://jobright.ai/jobs/info/6afac3fd1460f8021289ceff",
-      "location": "Dallas, TX",
-      "datePosted": 1794790269,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -457,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a063968320bff2205eaa361",
+      "id": "newgrad-jobs:6a1de8459111f771d1a1be26",
       "company": "Palantir",
       "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a063968320bff2205eaa361",
+      "url": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26",
       "location": "New York, NY",
       "datePosted": 1794730806,
       "source": "newgrad-jobs",
@@ -490,21 +479,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1e39f905985ccaa406776",
+      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
       "company": "Lockheed Martin",
       "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e39f905985ccaa406776",
-      "location": "Fort Worth, TX; Orlando, FL",
+      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
+      "location": "Fort Worth, TX",
       "datePosted": 1794729705,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
+      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
+      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
       "location": "King of Prussia, PA",
       "datePosted": 1794729705,
       "source": "newgrad-jobs",
@@ -673,6 +662,17 @@
       "location": "Palo Alto, CA",
       "datePosted": 1794711583,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a51080dae4052672fe96435",
+      "company": "Nuro",
+      "title": "Software Engineer, AI Platform - Intern",
+      "url": "https://jobright.ai/jobs/info/6a51080dae4052672fe96435",
+      "location": "Mountain View, CA",
+      "datePosted": 1794711141,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -1158,7 +1158,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:84233195-c78a-453a-b511-5847d39d555b",
