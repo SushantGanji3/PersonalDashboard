@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T23:40:16Z",
-  "totalOpen": 1568,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-11-17T23:50:16Z",
+  "totalOpen": 1567,
+  "totalNewgrad": 252,
   "totalOther": 1315,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794956595,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:00b1c762-9ca4-4c23-afff-d070ee8279e6",
@@ -25,7 +25,84 @@
       "datePosted": 1794943065,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee588ccaf8e660b87dec46",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Full Time) \u2013 United States",
+      "url": "https://jobright.ai/jobs/info/6aee588ccaf8e660b87dec46",
+      "location": "San Jose, CA; Carlsbad, CA; Durham, NC; San Francisco, CA; Seattle, WA",
+      "datePosted": 1794927640,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb18445305ed998d919c21",
+      "company": "IBM",
+      "title": "Application Developer-DevOps",
+      "url": "https://jobright.ai/jobs/info/6afb18445305ed998d919c21",
+      "location": "Irving, TX",
+      "datePosted": 1794927568,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc8b051e98d304ea7f1d85",
+      "company": "IBM",
+      "title": "Application Developer-Open Source",
+      "url": "https://jobright.ai/jobs/info/6afc8b051e98d304ea7f1d85",
+      "location": "Austin, TX",
+      "datePosted": 1794927530,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afcccc6e8a9612f4e0dbb3b",
+      "company": "Brillio",
+      "title": "OIC / HCM Developer - R01573079",
+      "url": "https://jobright.ai/jobs/info/6afcccc6e8a9612f4e0dbb3b",
+      "location": "United States",
+      "datePosted": 1794927286,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afcacafd86c15318a38d0ba",
+      "company": "Benchling",
+      "title": "Software Engineer, CDC",
+      "url": "https://jobright.ai/jobs/info/6afcacafd86c15318a38d0ba",
+      "location": "San Francisco, CA",
+      "datePosted": 1794926902,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afcd8a194232f5ac42d2a58",
+      "company": "Reliable Robotics Corporation",
+      "title": "Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6afcd8a194232f5ac42d2a58",
+      "location": "Mountain View, CA",
+      "datePosted": 1794926625,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc9e32d86c15318a38c63e",
+      "company": "ForeFlight",
+      "title": "Jr. Security Engineer- Platform Security",
+      "url": "https://jobright.ai/jobs/info/6afc9e32d86c15318a38c63e",
+      "location": "United States",
+      "datePosted": 1794926367,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afcbe9ce8a9612f4e0db25e",
@@ -122,17 +199,6 @@
       "url": "https://jobright.ai/jobs/info/6afcd0722ac165125e4ccd7f",
       "location": "Tempe, AZ",
       "datePosted": 1794924530,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afcacaee8a9612f4e0da6a1",
-      "company": "Benchling",
-      "title": "Software Engineer, CDC",
-      "url": "https://jobright.ai/jobs/info/6afcacaee8a9612f4e0da6a1",
-      "location": "San Francisco, CA",
-      "datePosted": 1794923788,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -254,17 +320,6 @@
       "url": "https://jobright.ai/jobs/info/6afca47794232f5ac42d05a3",
       "location": "San Mateo, CA",
       "datePosted": 1794920119,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aee588ccaf8e660b87dec46",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI II (Full Time) \u2013 United States",
-      "url": "https://jobright.ai/jobs/info/6aee588ccaf8e660b87dec46",
-      "location": "San Jose, CA; Carlsbad, CA; Durham, NC; San Francisco, CA; Seattle, WA",
-      "datePosted": 1794920020,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -468,15 +523,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:69e6ede97820c036924d2bcb",
+      "id": "newgrad-jobs:6a5fdf398c7fd835513bbb1c",
       "company": "Saalex Solutions - A Saalex Company",
       "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/69e6ede97820c036924d2bcb",
-      "location": "San Diego, CA; Tidewater, Virginia, United States",
+      "url": "https://jobright.ai/jobs/info/6a5fdf398c7fd835513bbb1c",
+      "location": "Tidewater, Virginia, United States; San Diego, CA",
       "datePosted": 1794915847,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afca9bdd86c15318a38cfa8",
@@ -622,67 +677,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afc9e32d86c15318a38c63e",
-      "company": "ForeFlight",
-      "title": "Jr. Security Engineer- Platform Security",
-      "url": "https://jobright.ai/jobs/info/6afc9e32d86c15318a38c63e",
-      "location": "United States",
-      "datePosted": 1794911666,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae3b1ea77c09cb3bd4a8402",
       "company": "Toyota Research Institute",
       "title": "Robotics Intern, Human-Machine Interaction Research",
       "url": "https://jobright.ai/jobs/info/6ae3b1ea77c09cb3bd4a8402",
       "location": "Los Altos, CA",
       "datePosted": 1794911619,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc9d28e0cdcfc91142dced",
-      "company": "Falcomm",
-      "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
-      "url": "https://jobright.ai/jobs/info/6afc9d28e0cdcfc91142dced",
-      "location": "Atlanta, GA",
-      "datePosted": 1794911400,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc9d06e0cdcfc91142dce5",
-      "company": "Banterra Bank",
-      "title": "Support Programmer",
-      "url": "https://jobright.ai/jobs/info/6afc9d06e0cdcfc91142dce5",
-      "location": "Marion, IL",
-      "datePosted": 1794911366,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
-      "location": "San Jose, CA",
-      "datePosted": 1794911182,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
-      "company": "Arcfield",
-      "title": "Models Based Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af60f5a80054650a5e7ba8f",
-      "location": "Chantilly, VA",
-      "datePosted": 1794909956,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
