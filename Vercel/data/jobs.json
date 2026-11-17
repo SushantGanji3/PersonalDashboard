@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T21:00:20Z",
+  "generatedAt": "2026-11-17T21:10:18Z",
   "totalOpen": 1564,
   "totalNewgrad": 247,
   "totalOther": 1317,
@@ -14,6 +14,28 @@
       "datePosted": 1794943065,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afcba52e8a9612f4e0dae30",
+      "company": "Beast Code",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afcba52e8a9612f4e0dae30",
+      "location": "United States",
+      "datePosted": 1794918866,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc790629e5a8844e6589b0",
+      "company": "Personify Health",
+      "title": "Data Engineer l",
+      "url": "https://jobright.ai/jobs/info/6afc790629e5a8844e6589b0",
+      "location": "United States",
+      "datePosted": 1794918583,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -158,6 +180,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc9af72ac165125e4ca6ea",
+      "company": "Boeing",
+      "title": "Software Systems Engineer (Associate or Experienced)",
+      "url": "https://jobright.ai/jobs/info/6afc9af72ac165125e4ca6ea",
+      "location": "Seal Beach, CA",
+      "datePosted": 1794912245,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afc9fe394232f5ac42d013d",
@@ -611,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae66c1cfb2cd420ace609d6",
+      "id": "newgrad-jobs:6ae66c18eab1f967309838d1",
       "company": "Corgi",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae66c1cfb2cd420ace609d6",
+      "url": "https://jobright.ai/jobs/info/6ae66c18eab1f967309838d1",
       "location": "Dallas, TX",
       "datePosted": 1794904687,
       "source": "newgrad-jobs",
@@ -639,39 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6adf97e29a8c91d5c3586fff",
       "location": "Seattle, WA",
       "datePosted": 1794904413,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc81081e98d304ea7f1520",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Real Time Aviation Data",
-      "url": "https://jobright.ai/jobs/info/6afc81081e98d304ea7f1520",
-      "location": "Chanhassen, MN",
-      "datePosted": 1794904200,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae02ce59e3e874dbfbb2fd3",
-      "company": "IBM",
-      "title": "Software Engineering Intern - Quantum Information Science 2027",
-      "url": "https://jobright.ai/jobs/info/6ae02ce59e3e874dbfbb2fd3",
-      "location": "Poughkeepsie, NY; Yorktown Heights, NY; Cambridge, MA; Chicago, IL",
-      "datePosted": 1794904052,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc804907bef169f5001983",
-      "company": "Trinnex",
-      "title": "Entry Artificial Intelligence/Machine Learning Developer",
-      "url": "https://jobright.ai/jobs/info/6afc804907bef169f5001983",
-      "location": "Fairfax, VA",
-      "datePosted": 1794904009,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
