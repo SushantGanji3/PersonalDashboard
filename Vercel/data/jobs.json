@@ -1,20 +1,31 @@
 {
-  "generatedAt": "2026-11-17T23:30:24Z",
-  "totalOpen": 1566,
+  "generatedAt": "2026-11-17T23:40:16Z",
+  "totalOpen": 1568,
   "totalNewgrad": 253,
-  "totalOther": 1313,
+  "totalOther": 1315,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "simplify:1af331ba-e480-4f07-ab54-58c66c97a662",
+      "id": "simplify:02939f60-613d-484c-89e0-8418680bc77a",
+      "company": "Virtu Financial",
+      "title": "Hardware Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8469926002",
+      "location": "Austin, TX",
+      "datePosted": 1794956595,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:00b1c762-9ca4-4c23-afff-d070ee8279e6",
       "company": "Anduril",
       "title": "Machine Learning Engineer Intern",
-      "url": "https://go.vansh.nyc/1Bo",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007",
       "location": "Santa Ana, CA",
       "datePosted": 1794943065,
       "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afcbe9ce8a9612f4e0db25e",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794344428,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
-      "company": "Skydio",
-      "title": "Hardware In Loop (HIL) Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1rH",
-      "location": "San Mateo, CA",
-      "datePosted": 1794334344,
-      "source": "aggregator",
-      "season": "Winter",
       "isNew": false
     }
   ]
