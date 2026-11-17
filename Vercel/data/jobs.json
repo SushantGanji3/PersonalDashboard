@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T03:10:15Z",
-  "totalOpen": 1567,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-11-17T03:20:15Z",
+  "totalOpen": 1568,
+  "totalNewgrad": 238,
   "totalOther": 1330,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1794883795,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:589a7388-e840-4761-93bd-fd0c1df06b38",
@@ -36,6 +36,17 @@
       "datePosted": 1794871037,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac40b8a0e027c0f3b3a8e95",
+      "company": "TikTok",
+      "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ac40b8a0e027c0f3b3a8e95",
+      "location": "Seattle, WA",
+      "datePosted": 1794854491,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -413,10 +424,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afb6e36c5917ce34b5dac6e",
+      "id": "newgrad-jobs:6afb6e3fb2e06df25797424f",
       "company": "Cognizant",
       "title": "Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6afb6e36c5917ce34b5dac6e",
+      "url": "https://jobright.ai/jobs/info/6afb6e3fb2e06df25797424f",
       "location": "Teaneck, NJ",
       "datePosted": 1794841636,
       "source": "newgrad-jobs",
@@ -683,17 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6af89ea086a9b19681afa84b",
       "location": "Santa Clara, CA",
       "datePosted": 1794833172,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027) - Austin, TX",
-      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
-      "location": "Austin, TX",
-      "datePosted": 1794832996,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
