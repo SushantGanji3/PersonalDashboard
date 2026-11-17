@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-11-17T17:10:17Z",
+  "generatedAt": "2026-11-17T17:20:21Z",
   "totalOpen": 1560,
   "totalNewgrad": 241,
   "totalOther": 1319,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6afc81081e98d304ea7f1520",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Real Time Aviation Data",
-      "url": "https://jobright.ai/jobs/info/6afc81081e98d304ea7f1520",
-      "location": "Chanhassen, MN",
-      "datePosted": 1794904200,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
     {
       "id": "newgrad-jobs:6afc804907bef169f5001983",
       "company": "Trinnex",
@@ -25,7 +14,7 @@
       "datePosted": 1794904009,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea61e34f991d64376cd87a",
@@ -36,18 +25,51 @@
       "datePosted": 1794903879,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf94019e3e874dbfbadc8f",
+      "company": "Boeing",
+      "title": "Software Systems Engineer (Associate or Experienced)",
+      "url": "https://jobright.ai/jobs/info/6adf94019e3e874dbfbadc8f",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1794903635,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
-      "id": "newgrad-jobs:6afc7bb907bef169f5001805",
-      "company": "Basis Research Institute",
-      "title": "Research Intern, Summer 2026",
-      "url": "https://jobright.ai/jobs/info/6afc7bb907bef169f5001805",
-      "location": "New York, NY; Cambridge, MA; Boston, MA",
-      "datePosted": 1794902841,
+      "id": "newgrad-jobs:6afc68b640b855eb290ca945",
+      "company": "General Atomics",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6afc68b640b855eb290ca945",
+      "location": "Poway, CA",
+      "datePosted": 1794903524,
       "source": "newgrad-jobs",
-      "season": "Summer 2026",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc7e3f07bef169f5001934",
+      "company": "Wyetech, LLC",
+      "title": "SWE 0- Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6afc7e3f07bef169f5001934",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1794903487,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6adf8a569a8c91d5c35866b2",
+      "company": "Twitch",
+      "title": "Software Engineer I - Engagement Growth",
+      "url": "https://jobright.ai/jobs/info/6adf8a569a8c91d5c35866b2",
+      "location": "San Francisco, CA",
+      "datePosted": 1794902568,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc7a9e40b855eb290cb19f",
@@ -72,12 +94,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
+      "id": "newgrad-jobs:6af36db5f6053e296fc7c7d0",
       "company": "Lockheed Martin",
       "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
-      "location": "Fort Worth, TX",
+      "url": "https://jobright.ai/jobs/info/6af36db5f6053e296fc7c7d0",
+      "location": "Fort Worth, TX; Orlando, FL",
       "datePosted": 1794902530,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6db30372c01f6cd73f6d5",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Asc - E1",
+      "url": "https://jobright.ai/jobs/info/6ac6db30372c01f6cd73f6d5",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794902500,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -201,17 +234,6 @@
       "datePosted": 1794900171,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc706c29e5a8844e6585ac",
-      "company": "General Atomics",
-      "title": "Software Developer I",
-      "url": "https://jobright.ai/jobs/info/6afc706c29e5a8844e6585ac",
-      "location": "Charlottesville, VA",
-      "datePosted": 1794899948,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -650,28 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6afc1b961e98d304ea7ef221",
       "location": "Dayton, OH",
       "datePosted": 1794878230,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc1b8240b855eb290c91e6",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Software Developer Intern - Albuquerque, NM",
-      "url": "https://jobright.ai/jobs/info/6afc1b8240b855eb290c91e6",
-      "location": "Albuquerque, NM",
-      "datePosted": 1794878210,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc1b7940b855eb290c91e4",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Software Developer Intern - Lexington, MA",
-      "url": "https://jobright.ai/jobs/info/6afc1b7940b855eb290c91e4",
-      "location": "Lexington, MA",
-      "datePosted": 1794878201,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
