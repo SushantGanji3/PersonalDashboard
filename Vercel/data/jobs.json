@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T01:40:17Z",
-  "totalOpen": 1569,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-17T01:50:15Z",
+  "totalOpen": 1570,
+  "totalNewgrad": 240,
   "totalOther": 1330,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1794849060,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb51e804af1c9f075c68b7",
@@ -47,7 +47,7 @@
       "datePosted": 1794849041,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afba7fc06c0aac84dd97e38",
@@ -58,7 +58,7 @@
       "datePosted": 1794848636,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afba7b106c0aac84dd97e17",
@@ -69,7 +69,18 @@
       "datePosted": 1794848561,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb587d04af1c9f075c6c5e",
+      "company": "The University of Texas at Dallas",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afb587d04af1c9f075c6c5e",
+      "location": "Dallas, TX",
+      "datePosted": 1794848430,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb680c7f9ead6668ea1fc9",
@@ -80,7 +91,29 @@
       "datePosted": 1794848430,
       "source": "newgrad-jobs",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3b0904ac55253f5d6e867",
+      "company": "Deloitte",
+      "title": "ServiceNow Developer -  TS SCI w/ Polygraph Required",
+      "url": "https://jobright.ai/jobs/info/6ac3b0904ac55253f5d6e867",
+      "location": "McLean, VA",
+      "datePosted": 1794848066,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "company": "Amazon",
+      "title": "Robotics - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
+      "datePosted": 1794847886,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb8a7db2e06df257975784",
@@ -94,6 +127,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6afb67487f9ead6668ea1f3a",
+      "company": "RRD",
+      "title": "Associate Software Developer (Manufacturing)",
+      "url": "https://jobright.ai/jobs/info/6afb67487f9ead6668ea1f3a",
+      "location": "Houston, TX",
+      "datePosted": 1794847444,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6afba2cf06c0aac84dd97b38",
       "company": "Lockheed Martin",
       "title": "Systems Engineer (Network & Enterprise Services) Intern",
@@ -102,7 +146,7 @@
       "datePosted": 1794847311,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb73c906c0aac84dd95e10",
@@ -113,7 +157,7 @@
       "datePosted": 1794847142,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af4858c3a9a26aee709de4c",
@@ -144,6 +188,17 @@
       "url": "https://jobright.ai/jobs/info/6afba1dbbe8589f0b74bfce7",
       "location": "Atlanta, GA",
       "datePosted": 1794847067,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afba0a706c0aac84dd979fc",
+      "company": "MANTECH",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6afba0a706c0aac84dd979fc",
+      "location": "Saint Inigoes, MD",
+      "datePosted": 1794846759,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -182,26 +237,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ace7689ba99f15ef4124df0",
+      "id": "newgrad-jobs:6afb8681c5917ce34b5dbe09",
       "company": "Sierra Space",
       "title": "Software Engineer I - Flight Software",
-      "url": "https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
+      "url": "https://jobright.ai/jobs/info/6afb8681c5917ce34b5dbe09",
       "location": "Centennial, CO; Louisville, CO",
       "datePosted": 1794845049,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb587d04af1c9f075c6c5e",
-      "company": "The University of Texas at Dallas",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6afb587d04af1c9f075c6c5e",
-      "location": "Dallas, TX",
-      "datePosted": 1794844121,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aebea40765815f7d7464767",
@@ -210,17 +254,6 @@
       "url": "https://jobright.ai/jobs/info/6aebea40765815f7d7464767",
       "location": "Cupertino, CA",
       "datePosted": 1794844079,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae2b505829a3bada1606c75",
-      "company": "MANTECH",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae2b505829a3bada1606c75",
-      "location": "Saint Inigoes, MD",
-      "datePosted": 1794843125,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -355,7 +388,7 @@
       "datePosted": 1794841636,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afb5fc97f9ead6668ea19f3",
@@ -375,17 +408,6 @@
       "url": "https://jobright.ai/jobs/info/6afb8c50c5917ce34b5dc2c8",
       "location": "Great River, NY",
       "datePosted": 1794841361,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb67487f9ead6668ea1f3a",
-      "company": "RRD",
-      "title": "Associate Software Developer (Manufacturing)",
-      "url": "https://jobright.ai/jobs/info/6afb67487f9ead6668ea1f3a",
-      "location": "Houston, TX",
-      "datePosted": 1794840549,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -663,28 +685,6 @@
       "datePosted": 1794832996,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af786833ba46d7b6c167a96",
-      "company": "Cloudflare",
-      "title": "People Team: Software Engineer Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6af786833ba46d7b6c167a96",
-      "location": "Austin, TX",
-      "datePosted": 1794832996,
-      "source": "newgrad-jobs",
-      "season": "Winter 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34a597c81de7a524be02e",
-      "company": "Palantir",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
-      "url": "https://jobright.ai/jobs/info/6af34a597c81de7a524be02e",
-      "location": "Denver, CO; New York, NY",
-      "datePosted": 1794832996,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
