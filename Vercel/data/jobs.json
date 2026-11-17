@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T22:30:17Z",
-  "totalOpen": 1566,
+  "generatedAt": "2026-11-17T22:40:16Z",
+  "totalOpen": 1565,
   "totalNewgrad": 251,
-  "totalOther": 1315,
+  "totalOther": 1314,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -985,17 +985,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
-      "company": "Microsoft",
-      "title": "Software Development Engineer",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050698",
-      "location": "Redmond, WA",
-      "datePosted": 1794440956,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:36e6d23c-4ded-42d3-b2a4-30e860836348",
       "company": "Meta AI",
       "title": "Research Scientist Intern - LLM Memory and Skills",
@@ -1323,6 +1312,17 @@
       "datePosted": 1794348356,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:cb297c7a-59d5-4986-9f29-2aebcf665141",
+      "company": "Anduril",
+      "title": "New Grad 2027: Information Security Engineer",
+      "url": "https://go.vansh.nyc/1s4",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1794344428,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
