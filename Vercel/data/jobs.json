@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T23:20:16Z",
-  "totalOpen": 1567,
+  "generatedAt": "2026-11-17T23:30:24Z",
+  "totalOpen": 1566,
   "totalNewgrad": 253,
-  "totalOther": 1314,
+  "totalOther": 1313,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -875,17 +875,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:ec1537b4-5000-4cc3-9bc6-5b33c3078d15",
-      "company": "Micron",
-      "title": "Software Engineer",
-      "url": "https://go.vansh.nyc/1xw",
-      "location": "Boise, ID",
-      "datePosted": 1794512469,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:d195e49a-0c54-46a9-aba8-414e38f7ec6d",
       "company": "SpaceX",
       "title": "Aerospace Software Engineer New Grad - Aerospace Software",
@@ -1323,6 +1312,17 @@
       "datePosted": 1794344428,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:38075853-84d1-4661-b7de-b5c05974406d",
+      "company": "Skydio",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1rH",
+      "location": "San Mateo, CA",
+      "datePosted": 1794334344,
+      "source": "aggregator",
+      "season": "Winter",
       "isNew": false
     }
   ]
