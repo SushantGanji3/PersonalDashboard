@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-17T03:00:19Z",
-  "totalOpen": 1568,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-11-17T03:10:15Z",
+  "totalOpen": 1567,
+  "totalNewgrad": 237,
   "totalOther": 1330,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
+      "company": "Microsoft",
+      "title": "Software Engineer Agentic Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
+      "location": "Redmond, WA",
+      "datePosted": 1794883795,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:589a7388-e840-4761-93bd-fd0c1df06b38",
       "company": "Meta AI",
@@ -89,17 +100,6 @@
       "url": "https://jobright.ai/jobs/info/6afbabf8c5917ce34b5dd325",
       "location": "Plano, TX",
       "datePosted": 1794849656,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afbabf1be8589f0b74c01ee",
-      "company": "Microsoft",
-      "title": "Software Engineer Agentic Security",
-      "url": "https://jobright.ai/jobs/info/6afbabf1be8589f0b74c01ee",
-      "location": "Redmond, WA",
-      "datePosted": 1794849649,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -683,6 +683,17 @@
       "url": "https://jobright.ai/jobs/info/6af89ea086a9b19681afa84b",
       "location": "Santa Clara, CA",
       "datePosted": 1794833172,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad7c355950ef68d51843977",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (2027) - Austin, TX",
+      "url": "https://jobright.ai/jobs/info/6ad7c355950ef68d51843977",
+      "location": "Austin, TX",
+      "datePosted": 1794832996,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1794334344,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
-      "company": "Palantir",
-      "title": "Software Engineer Intern, Connectivity Platform and Product",
-      "url": "https://go.vansh.nyc/1rs",
-      "location": "Denver, CO",
-      "datePosted": 1794329291,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
