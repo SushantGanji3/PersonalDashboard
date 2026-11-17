@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T02:38:13Z",
+  "generatedAt": "2026-11-17T02:40:14Z",
   "totalOpen": 1569,
   "totalNewgrad": 239,
   "totalOther": 1330,
@@ -24,6 +24,39 @@
       "location": "Redmond, WA",
       "datePosted": 1794871037,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb587d04af1c9f075c6c5e",
+      "company": "The University of Texas at Dallas",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afb587d04af1c9f075c6c5e",
+      "location": "Dallas, TX",
+      "datePosted": 1794852133,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ace7689ba99f15ef4124df0",
+      "company": "Sierra Space",
+      "title": "Software Engineer I - Flight Software",
+      "url": "https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
+      "location": "Centennial, CO; Louisville, CO",
+      "datePosted": 1794852118,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb868cbe8589f0b74bed83",
+      "company": "Sierra Space",
+      "title": "Software Engineer I - Ground Software",
+      "url": "https://jobright.ai/jobs/info/6afb868cbe8589f0b74bed83",
+      "location": "Centennial, CO; Louisville, CO",
+      "datePosted": 1794852116,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -149,17 +182,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afb587d04af1c9f075c6c5e",
-      "company": "The University of Texas at Dallas",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6afb587d04af1c9f075c6c5e",
-      "location": "Dallas, TX",
-      "datePosted": 1794848430,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afb680c7f9ead6668ea1fc9",
       "company": "Kensho Technologies",
       "title": "Machine Learning Engineer - Summer Intern 2027",
@@ -248,17 +270,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afb868cbe8589f0b74bed83",
-      "company": "Sierra Space",
-      "title": "Software Engineer I - Ground Software",
-      "url": "https://jobright.ai/jobs/info/6afb868cbe8589f0b74bed83",
-      "location": "Centennial, CO; Louisville, CO",
-      "datePosted": 1794845499,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afb5b275305ed998d91cc23",
       "company": "S&P Global",
       "title": "Machine Learning Engineer - Summer Intern 2027",
@@ -276,17 +287,6 @@
       "url": "https://jobright.ai/jobs/info/6af6319df10ae27369e1790f",
       "location": "Mountain View, CA",
       "datePosted": 1794845452,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace7689ba99f15ef4124df0",
-      "company": "Sierra Space",
-      "title": "Software Engineer I - Flight Software",
-      "url": "https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
-      "location": "Centennial, CO; Louisville, CO",
-      "datePosted": 1794845049,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -413,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afb6e3fb2e06df25797424f",
+      "id": "newgrad-jobs:6afb6e36c5917ce34b5dac6e",
       "company": "Cognizant",
       "title": "Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6afb6e3fb2e06df25797424f",
+      "url": "https://jobright.ai/jobs/info/6afb6e36c5917ce34b5dac6e",
       "location": "Teaneck, NJ",
       "datePosted": 1794841636,
       "source": "newgrad-jobs",
