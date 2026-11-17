@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-17T14:10:23Z",
-  "totalOpen": 1566,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-11-17T14:20:20Z",
+  "totalOpen": 1568,
+  "totalNewgrad": 243,
   "totalOther": 1325,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ae0815e8b6154d50cdf6cc3",
+      "company": "Addepar",
+      "title": "AI Engineer - AI Platform",
+      "url": "https://jobright.ai/jobs/info/6ae0815e8b6154d50cdf6cc3",
+      "location": "New York, NY",
+      "datePosted": 1794893245,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6af781983ba46d7b6c167870",
       "company": "TikTok",
@@ -25,7 +36,7 @@
       "datePosted": 1794892286,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
@@ -48,6 +59,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf6daf5dc7953215a3ec09",
+      "company": "Madhive",
+      "title": "Software Engineer, Financial Systems",
+      "url": "https://jobright.ai/jobs/info/6adf6daf5dc7953215a3ec09",
+      "location": "New York, NY",
+      "datePosted": 1794890525,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae29a261f9d9308370b34ab",
@@ -102,7 +124,7 @@
       "datePosted": 1794889023,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc44f107bef169f50000fd",
@@ -672,28 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6afbabf8c5917ce34b5dd325",
       "location": "Plano, TX",
       "datePosted": 1794849656,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb680c7f9ead6668ea1fc9",
-      "company": "Kensho Technologies",
-      "title": "Machine Learning Engineer - Summer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6afb680c7f9ead6668ea1fc9",
-      "location": "Cambridge, MA; New York, NY",
-      "datePosted": 1794849544,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3b0904ac55253f5d6e867",
-      "company": "Deloitte",
-      "title": "ServiceNow Developer -  TS SCI w/ Polygraph Required",
-      "url": "https://jobright.ai/jobs/info/6ac3b0904ac55253f5d6e867",
-      "location": "McLean, VA",
-      "datePosted": 1794849340,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
