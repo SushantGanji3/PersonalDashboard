@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-17T18:50:15Z",
-  "totalOpen": 1560,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-11-17T19:00:21Z",
+  "totalOpen": 1559,
+  "totalNewgrad": 242,
   "totalOther": 1317,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6afc75131e98d304ea7f0fcf",
+      "company": "Sallie Mae",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6afc75131e98d304ea7f0fcf",
+      "location": "Indianapolis, IN",
+      "datePosted": 1794909340,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6afc9489bc723850cf8355b9",
       "company": "Ferry International",
@@ -14,7 +25,7 @@
       "datePosted": 1794909193,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc85983786d28f21459c37",
@@ -25,7 +36,7 @@
       "datePosted": 1794908929,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc932f693f8cfb490adeff",
@@ -34,6 +45,28 @@
       "url": "https://jobright.ai/jobs/info/6afc932f693f8cfb490adeff",
       "location": "Colorado Springs, CO",
       "datePosted": 1794908847,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc5842755d7cdf657ffde8",
+      "company": "Sallie Mae",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6afc5842755d7cdf657ffde8",
+      "location": "Indianapolis, IN",
+      "datePosted": 1794908628,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a96257bc8763a3a87ffebef",
+      "company": "Emerson",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6a96257bc8763a3a87ffebef",
+      "location": "Shakopee, MN",
+      "datePosted": 1794908321,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -124,7 +157,7 @@
       "datePosted": 1794906223,
       "source": "newgrad-jobs",
       "season": "Spring",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a50dfe22b161c5241662944",
@@ -201,7 +234,7 @@
       "datePosted": 1794905744,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aece54c465e3d2371382a17",
@@ -267,7 +300,7 @@
       "datePosted": 1794904687,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc82e97df9c4ceafeba9c7",
@@ -446,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
-      "location": "Fort Worth, TX",
-      "datePosted": 1794902530,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
@@ -466,6 +488,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af224b68cbcfef4a59d996d",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af224b68cbcfef4a59d996d",
+      "location": "Fort Worth, TX",
+      "datePosted": 1794902530,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afb64f5317abe715a264314",
@@ -628,39 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6ad6bcce950ef68d5183c8aa",
       "location": "Tucson, AZ",
       "datePosted": 1794896165,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa83600654b2a9424cfb529",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1794895877,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac43cea372c01f6cd734f29",
-      "company": "Anduril",
-      "title": "2027 Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac43cea372c01f6cd734f29",
-      "location": "Boston, MA; Costa Mesa, CA; Fort Collins, CO; Reston, VA; Seattle, WA",
-      "datePosted": 1794894733,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf7df05dc7953215a3f5c5",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)",
-      "url": "https://jobright.ai/jobs/info/6adf7df05dc7953215a3f5c5",
-      "location": "San Mateo, CA",
-      "datePosted": 1794894648,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
