@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-17T15:40:15Z",
-  "totalOpen": 1562,
-  "totalNewgrad": 236,
-  "totalOther": 1326,
+  "generatedAt": "2026-11-17T15:50:24Z",
+  "totalOpen": 1558,
+  "totalNewgrad": 233,
+  "totalOther": 1325,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6afc706c29e5a8844e6585ac",
+      "company": "General Atomics",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6afc706c29e5a8844e6585ac",
+      "location": "Charlottesville, VA",
+      "datePosted": 1794899948,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6afc701829e5a8844e65858a",
       "company": "AeroNex Systems",
@@ -14,7 +25,7 @@
       "datePosted": 1794899864,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a550868268af95237be8c2a",
@@ -25,17 +36,6 @@
       "datePosted": 1794898369,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6afc68b640b855eb290ca945",
-      "company": "General Atomics",
-      "title": "Software Developer I",
-      "url": "https://jobright.ai/jobs/info/6afc68b640b855eb290ca945",
-      "location": "Poway, CA",
-      "datePosted": 1794897974,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -531,17 +531,6 @@
       "datePosted": 1794877849,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5f48f5fa-99cf-41f8-a755-c038a1debc45",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern, Artificial General Intelligence",
-      "url": "https://go.vansh.nyc/1Bf",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794873600,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     },
     {
@@ -1323,6 +1312,17 @@
       "datePosted": 1794348356,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "simplify:cb297c7a-59d5-4986-9f29-2aebcf665141",
+      "company": "Anduril",
+      "title": "New Grad 2027: Information Security Engineer",
+      "url": "https://go.vansh.nyc/1s4",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1794344428,
+      "source": "aggregator",
+      "season": null,
       "isNew": false
     }
   ]
