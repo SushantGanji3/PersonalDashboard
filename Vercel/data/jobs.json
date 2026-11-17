@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T20:20:14Z",
-  "totalOpen": 1566,
-  "totalNewgrad": 249,
+  "generatedAt": "2026-11-17T20:30:18Z",
+  "totalOpen": 1565,
+  "totalNewgrad": 248,
   "totalOther": 1317,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1794914010,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afca7012ac165125e4cb320",
@@ -36,7 +36,7 @@
       "datePosted": 1794913655,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
@@ -45,6 +45,17 @@
       "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
       "location": "Littleton, CO",
       "datePosted": 1794913646,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afca47794232f5ac42d05a3",
+      "company": "Roblox",
+      "title": "Software Engineer, Communication Safety",
+      "url": "https://jobright.ai/jobs/info/6afca47794232f5ac42d05a3",
+      "location": "San Mateo, CA",
+      "datePosted": 1794913271,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -78,17 +89,6 @@
       "url": "https://jobright.ai/jobs/info/6afca230e0cdcfc91142e2d3",
       "location": "Rochester, NY",
       "datePosted": 1794912688,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afca084d86c15318a38c952",
-      "company": "Roblox",
-      "title": "Software Engineer, Communication Safety",
-      "url": "https://jobright.ai/jobs/info/6afca084d86c15318a38c952",
-      "location": "San Mateo, CA",
-      "datePosted": 1794912260,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -523,10 +523,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae66c18eab1f967309838d1",
+      "id": "newgrad-jobs:6ae66c1cfb2cd420ace609d6",
       "company": "Corgi",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae66c18eab1f967309838d1",
+      "url": "https://jobright.ai/jobs/info/6ae66c1cfb2cd420ace609d6",
       "location": "Dallas, TX",
       "datePosted": 1794904687,
       "source": "newgrad-jobs",
