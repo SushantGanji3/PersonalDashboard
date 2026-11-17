@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T10:30:19Z",
-  "totalOpen": 1556,
+  "generatedAt": "2026-11-17T10:40:16Z",
+  "totalOpen": 1557,
   "totalNewgrad": 230,
-  "totalOther": 1326,
+  "totalOther": 1327,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,7 +25,7 @@
       "datePosted": 1794878289,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc1bc77df9c4ceafeb864d",
@@ -36,7 +36,7 @@
       "datePosted": 1794878279,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af781983ba46d7b6c167870",
@@ -58,7 +58,7 @@
       "datePosted": 1794878230,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc1b8240b855eb290c91e6",
@@ -69,7 +69,7 @@
       "datePosted": 1794878210,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc1b7940b855eb290c91e4",
@@ -80,7 +80,7 @@
       "datePosted": 1794878201,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc1ac17df9c4ceafeb863d",
@@ -91,7 +91,7 @@
       "datePosted": 1794878017,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afc1a8840b855eb290c91da",
@@ -102,7 +102,7 @@
       "datePosted": 1794877960,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfbd56065c4e77efafb070",
@@ -113,7 +113,7 @@
       "datePosted": 1794877895,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6adfbd3fc5c64fa3d9cbf09b",
@@ -1194,6 +1194,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
+      "company": "Shield AI",
+      "title": "Engineer 2 New Grad - Software - Perception",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+      "location": "United States",
+      "datePosted": 1794355200,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:040ae0b9-6d76-4faf-9fbb-83d3353f714f",
       "company": "Salesforce",
       "title": "New Grad: Software Engineering AMTS",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794334344,
       "source": "aggregator",
       "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "simplify:5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
-      "company": "Palantir",
-      "title": "Software Engineer Intern, Connectivity Platform and Product",
-      "url": "https://go.vansh.nyc/1rs",
-      "location": "Denver, CO",
-      "datePosted": 1794329291,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
