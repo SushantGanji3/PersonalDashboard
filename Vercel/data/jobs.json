@@ -1,20 +1,174 @@
 {
-  "generatedAt": "2026-11-17T19:40:15Z",
-  "totalOpen": 1561,
-  "totalNewgrad": 245,
-  "totalOther": 1316,
+  "generatedAt": "2026-11-17T19:50:18Z",
+  "totalOpen": 1565,
+  "totalNewgrad": 248,
+  "totalOther": 1317,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6afc98e6374dc4f49a3a5fb0",
-      "company": "Banterra Bank",
-      "title": "Support Programmer",
-      "url": "https://jobright.ai/jobs/info/6afc98e6374dc4f49a3a5fb0",
-      "location": "Marion, IL",
-      "datePosted": 1794910310,
+      "id": "simplify:1af331ba-e480-4f07-ab54-58c66c97a662",
+      "company": "Anduril",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1Bo",
+      "location": "Santa Ana, CA",
+      "datePosted": 1794943065,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afca3882ac165125e4cb0f4",
+      "company": "Falcomm",
+      "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
+      "url": "https://jobright.ai/jobs/info/6afca3882ac165125e4cb0f4",
+      "location": "Atlanta, GA",
+      "datePosted": 1794913032,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae4c1ccc3139b475b5b57a0",
+      "company": "Accenture Federal Services",
+      "title": "Mobile/TAK Developer",
+      "url": "https://jobright.ai/jobs/info/6ae4c1ccc3139b475b5b57a0",
+      "location": "United States",
+      "datePosted": 1794912726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afca230e0cdcfc91142e2d3",
+      "company": "AeroNex Systems",
+      "title": "Software Engineer Intern, Full-Time",
+      "url": "https://jobright.ai/jobs/info/6afca230e0cdcfc91142e2d3",
+      "location": "Rochester, NY",
+      "datePosted": 1794912688,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afca084d86c15318a38c952",
+      "company": "Roblox",
+      "title": "Software Engineer, Communication Safety",
+      "url": "https://jobright.ai/jobs/info/6afca084d86c15318a38c952",
+      "location": "San Mateo, CA",
+      "datePosted": 1794912260,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc9fe394232f5ac42d013d",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6afc9fe394232f5ac42d013d",
+      "location": "Seattle, WA",
+      "datePosted": 1794912099,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc9f3394232f5ac42d0079",
+      "company": "Crusoe Energy",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6afc9f3394232f5ac42d0079",
+      "location": "San Francisco, CA",
+      "datePosted": 1794911923,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc9e95d163750294924db6",
+      "company": "Warp Sciences",
+      "title": "Member of Technical Staff Intern - Robotics Learning",
+      "url": "https://jobright.ai/jobs/info/6afc9e95d163750294924db6",
+      "location": "South San Francisco, CA",
+      "datePosted": 1794911765,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc7a9e40b855eb290cb19f",
+      "company": "EY",
+      "title": "Project-Based Long Duration, Service Delivery Center, Java Developer - Analyst",
+      "url": "https://jobright.ai/jobs/info/6afc7a9e40b855eb290cb19f",
+      "location": "Phoenix, AZ",
+      "datePosted": 1794911753,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc9e32d86c15318a38c63e",
+      "company": "ForeFlight",
+      "title": "Jr. Security Engineer- Platform Security",
+      "url": "https://jobright.ai/jobs/info/6afc9e32d86c15318a38c63e",
+      "location": "United States",
+      "datePosted": 1794911666,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae3b1ea77c09cb3bd4a8402",
+      "company": "Toyota Research Institute",
+      "title": "Robotics Intern, Human-Machine Interaction Research",
+      "url": "https://jobright.ai/jobs/info/6ae3b1ea77c09cb3bd4a8402",
+      "location": "Los Altos, CA",
+      "datePosted": 1794911619,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc9d28e0cdcfc91142dced",
+      "company": "Falcomm",
+      "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+      "url": "https://jobright.ai/jobs/info/6afc9d28e0cdcfc91142dced",
+      "location": "Atlanta, GA",
+      "datePosted": 1794911400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc9d06e0cdcfc91142dce5",
+      "company": "Banterra Bank",
+      "title": "Support Programmer",
+      "url": "https://jobright.ai/jobs/info/6afc9d06e0cdcfc91142dce5",
+      "location": "Marion, IL",
+      "datePosted": 1794911366,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
+      "location": "San Jose, CA",
+      "datePosted": 1794911182,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc91ba3786d28f2145a40e",
+      "company": "Regency Centers",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6afc91ba3786d28f2145a40e",
+      "location": "Jacksonville, FL",
+      "datePosted": 1794910955,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
@@ -303,17 +457,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
-      "location": "San Jose, CA",
-      "datePosted": 1794905118,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af61121323c531f31e2f853",
       "company": "Boeing",
       "title": "Software Engineer | Vehicle Management Systems (Associate or Experienced)",
@@ -347,10 +490,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae66c1cfb2cd420ace609d6",
+      "id": "newgrad-jobs:6ae66c18eab1f967309838d1",
       "company": "Corgi",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae66c1cfb2cd420ace609d6",
+      "url": "https://jobright.ai/jobs/info/6ae66c18eab1f967309838d1",
       "location": "Dallas, TX",
       "datePosted": 1794904687,
       "source": "newgrad-jobs",
@@ -501,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afc7a9e40b855eb290cb19f",
-      "company": "EY",
-      "title": "Project-Based Long Duration, Service Delivery Center, Java Developer - Analyst",
-      "url": "https://jobright.ai/jobs/info/6afc7a9e40b855eb290cb19f",
-      "location": "Phoenix, AZ",
-      "datePosted": 1794902558,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af224d68cbcfef4a59d997c",
       "company": "Lockheed Martin",
       "title": "Systems Engineer Associate - Early Career",
@@ -534,135 +666,14 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
+      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
+      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
       "location": "King of Prussia, PA",
       "datePosted": 1794902530,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb64f5317abe715a264314",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6afb64f5317abe715a264314",
-      "location": "Manassas, VA",
-      "datePosted": 1794902527,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aece331465e3d23713828cb",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6aece331465e3d23713828cb",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1794902526,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af4b4503a9a26aee709fd4b",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
-      "location": "Marietta, GA",
-      "datePosted": 1794902526,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae8fb7a6c51033758f450d2",
-      "company": "Lockheed Martin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ae8fb7a6c51033758f450d2",
-      "location": "Fort Worth, TX",
-      "datePosted": 1794902519,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af620dbf10ae27369e16d9d",
-      "company": "Lockheed Martin",
-      "title": "Software Engineering- Intern",
-      "url": "https://jobright.ai/jobs/info/6af620dbf10ae27369e16d9d",
-      "location": "Uniondale, NY",
-      "datePosted": 1794902519,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afba2cf06c0aac84dd97b38",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer (Network & Enterprise Services) Intern",
-      "url": "https://jobright.ai/jobs/info/6afba2cf06c0aac84dd97b38",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1794902516,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6db30372c01f6cd73f6d5",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Asc - E1",
-      "url": "https://jobright.ai/jobs/info/6ac6db30372c01f6cd73f6d5",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794902500,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb64a1317abe715a2642d1",
-      "company": "Lockheed Martin",
-      "title": "Network Systems Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6afb64a1317abe715a2642d1",
-      "location": "Moorestown, NJ",
-      "datePosted": 1794902493,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af2167b905985ccaa408262",
-      "company": "IBM",
-      "title": "Back End Developer Intern 2027 - Poughkeepsie",
-      "url": "https://jobright.ai/jobs/info/6af2167b905985ccaa408262",
-      "location": "Poughkeepsie, NY",
-      "datePosted": 1794902409,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af6490ea4a5218a07e85307",
-      "company": "Health Care Service Corporation",
-      "title": "Early Careers - Infrastructure Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6af6490ea4a5218a07e85307",
-      "location": "Chicago, IL; Richardson, TX",
-      "datePosted": 1794901780,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc7389755d7cdf65800a05",
-      "company": "Peraton",
-      "title": "Summer 2027 Cyber Research Intern",
-      "url": "https://jobright.ai/jobs/info/6afc7389755d7cdf65800a05",
-      "location": "Silver Spring, MD; Bernards, NJ; Bedford, NH; West Lafayette, IN",
-      "datePosted": 1794900745,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1312,17 +1323,6 @@
       "datePosted": 1794348356,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:cb297c7a-59d5-4986-9f29-2aebcf665141",
-      "company": "Anduril",
-      "title": "New Grad 2027: Information Security Engineer",
-      "url": "https://go.vansh.nyc/1s4",
-      "location": "Costa Mesa, CA",
-      "datePosted": 1794344428,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
