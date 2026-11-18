@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T23:50:16Z",
-  "totalOpen": 1567,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-11-18T00:00:20Z",
+  "totalOpen": 1568,
+  "totalNewgrad": 253,
   "totalOther": 1315,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afcdcbbe8a9612f4e0dc7d0",
+      "company": "Lightpath",
+      "title": "Intern - Application Developer",
+      "url": "https://jobright.ai/jobs/info/6afcdcbbe8a9612f4e0dc7d0",
+      "location": "Bethpage, NY",
+      "datePosted": 1794927675,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aee588ccaf8e660b87dec46",
@@ -69,7 +80,7 @@
       "datePosted": 1794927286,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afcacafd86c15318a38d0ba",
@@ -89,6 +100,28 @@
       "url": "https://jobright.ai/jobs/info/6afcd8a194232f5ac42d2a58",
       "location": "Mountain View, CA",
       "datePosted": 1794926625,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afcd846d86c15318a38efaa",
+      "company": "Booz Allen Hamilton",
+      "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
+      "url": "https://jobright.ai/jobs/info/6afcd846d86c15318a38efaa",
+      "location": "McLean, VA",
+      "datePosted": 1794926534,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afca10dd86c15318a38c9c8",
+      "company": "Motorola Solutions",
+      "title": "Software Engineer Co-op",
+      "url": "https://jobright.ai/jobs/info/6afca10dd86c15318a38c9c8",
+      "location": "United States",
+      "datePosted": 1794926426,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -531,7 +564,7 @@
       "datePosted": 1794915847,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afca9bdd86c15318a38cfa8",
@@ -650,39 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6afc75131e98d304ea7f0fcf",
       "location": "Indianapolis, IN",
       "datePosted": 1794911785,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc9e95d163750294924db6",
-      "company": "Warp Sciences",
-      "title": "Member of Technical Staff Intern - Robotics Learning",
-      "url": "https://jobright.ai/jobs/info/6afc9e95d163750294924db6",
-      "location": "South San Francisco, CA",
-      "datePosted": 1794911765,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc7a9e40b855eb290cb19f",
-      "company": "EY",
-      "title": "Project-Based Long Duration, Service Delivery Center, Java Developer - Analyst",
-      "url": "https://jobright.ai/jobs/info/6afc7a9e40b855eb290cb19f",
-      "location": "Phoenix, AZ",
-      "datePosted": 1794911753,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae3b1ea77c09cb3bd4a8402",
-      "company": "Toyota Research Institute",
-      "title": "Robotics Intern, Human-Machine Interaction Research",
-      "url": "https://jobright.ai/jobs/info/6ae3b1ea77c09cb3bd4a8402",
-      "location": "Los Altos, CA",
-      "datePosted": 1794911619,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
