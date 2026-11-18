@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T10:40:17Z",
-  "totalOpen": 1565,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-11-18T10:50:17Z",
+  "totalOpen": 1566,
+  "totalNewgrad": 255,
   "totalOther": 1311,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa8ba1410b1cd4f41603b32",
+      "company": "Lowe's Companies, Inc.",
+      "title": "Exploratory Software Engineering - Undergrad Internship - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aa8ba1410b1cd4f41603b32",
+      "location": "Charlotte, NC",
+      "datePosted": 1794965329,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae26d27eb7e8f715a60df5a",
@@ -754,17 +765,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95fec94c22023a07937674",
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://jobright.ai/jobs/info/6a95fec94c22023a07937674",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
-      "datePosted": 1794927488,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:2273a2fa-d0fb-449a-b1fa-0abd15a3ea32",
       "company": "Micron",
       "title": "Software Engineer",
@@ -1257,7 +1257,7 @@
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
