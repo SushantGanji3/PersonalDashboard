@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T11:10:15Z",
-  "totalOpen": 1566,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-11-18T11:20:18Z",
+  "totalOpen": 1563,
+  "totalNewgrad": 252,
   "totalOther": 1311,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af85ded42ae65e2c8f3c515",
+      "company": "Supermicro",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af85ded42ae65e2c8f3c515",
+      "location": "San Jose, CA",
+      "datePosted": 1794968666,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af371387c81de7a524bfa28",
+      "company": "Snowflake",
+      "title": "Software Engineer - Customer Experience Engineering",
+      "url": "https://jobright.ai/jobs/info/6af371387c81de7a524bfa28",
+      "location": "Menlo Park, CA",
+      "datePosted": 1794966930,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa8ba1410b1cd4f41603b32",
@@ -738,28 +760,6 @@
       "url": "https://jobright.ai/jobs/info/6aee588ccaf8e660b87dec46",
       "location": "San Jose, CA; Carlsbad, CA; Durham, NC; San Francisco, CA; Seattle, WA",
       "datePosted": 1794927640,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afcd846d86c15318a38efaa",
-      "company": "Booz Allen Hamilton",
-      "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
-      "url": "https://jobright.ai/jobs/info/6afcd846d86c15318a38efaa",
-      "location": "McLean, VA",
-      "datePosted": 1794927556,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afc8b051e98d304ea7f1d85",
-      "company": "IBM",
-      "title": "Application Developer-Open Source",
-      "url": "https://jobright.ai/jobs/info/6afc8b051e98d304ea7f1d85",
-      "location": "Austin, TX",
-      "datePosted": 1794927530,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
