@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:10:16Z",
+  "generatedAt": "2026-11-18T08:20:23Z",
   "totalOpen": 1574,
   "totalNewgrad": 258,
   "totalOther": 1316,
@@ -25,7 +25,7 @@
       "datePosted": 1794978014,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:372dccd9-1f30-4e08-89c6-71ef714dfb33",
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4b44fc971cd25b06f97194",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - Swedish Speakers",
+      "url": "https://jobright.ai/jobs/info/6a4b44fc971cd25b06f97194",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Bellevue, WA; Burlingame, CA; New York, NY; Los Angeles, CA; Washington, DC; Boston, MA; Chicago, IL; Austin, TX",
+      "datePosted": 1794958368,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:fb343e07-172a-4524-9c6c-df8e4b48c5a2",
@@ -124,17 +135,6 @@
       "datePosted": 1794952584,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afd0c4115e7dea6639ccfd1",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "url": "https://jobright.ai/jobs/info/6afd0c4115e7dea6639ccfd1",
-      "location": "Mountain View, CA; San Francisco, CA",
-      "datePosted": 1794951756,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -270,10 +270,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aee2d08bd2f33eea72d8ae6",
+      "id": "newgrad-jobs:6afced852ac165125e4ce212",
       "company": "GM Financial",
       "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aee2d08bd2f33eea72d8ae6",
+      "url": "https://jobright.ai/jobs/info/6afced852ac165125e4ce212",
       "location": "Arlington, TX",
       "datePosted": 1794946639,
       "source": "newgrad-jobs",
