@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T03:00:18Z",
-  "totalOpen": 1570,
-  "totalNewgrad": 256,
+  "generatedAt": "2026-11-18T03:10:18Z",
+  "totalOpen": 1572,
+  "totalNewgrad": 258,
   "totalOther": 1314,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -81,6 +81,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afd0c4115e7dea6639ccfd1",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://jobright.ai/jobs/info/6afd0c4115e7dea6639ccfd1",
+      "location": "Mountain View, CA; San Francisco, CA",
+      "datePosted": 1794939841,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afd0b346a51d629d475af29",
+      "company": "True Rx Health Strategists",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6afd0b346a51d629d475af29",
+      "location": "Washington, IN",
+      "datePosted": 1794939572,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afd08f456aa9772e7d5623a",
@@ -721,28 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afca47794232f5ac42d05a3",
-      "company": "Roblox",
-      "title": "Software Engineer, Communication Safety",
-      "url": "https://jobright.ai/jobs/info/6afca47794232f5ac42d05a3",
-      "location": "San Mateo, CA",
-      "datePosted": 1794920119,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af79a7dd0eefb7d11b8e623",
-      "company": "Twitch",
-      "title": "Software Engineer I, Payments",
-      "url": "https://jobright.ai/jobs/info/6af79a7dd0eefb7d11b8e623",
-      "location": "San Francisco, CA",
-      "datePosted": 1794920020,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
       "company": "Microsoft",
       "title": "Software Engineer Agentic Security",
@@ -892,17 +892,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
       "location": "Richardson, TX",
       "datePosted": 1794528000,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
-      "company": "Apple",
-      "title": "Software Engineer - Ad Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200694769",
-      "location": "Cupertino, CA",
-      "datePosted": 1794525361,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1117,17 +1106,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:7eb39d7e-4a98-4f1b-804c-3c37cc25e95f",
-      "company": "Firefly Aerospace",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1x0",
-      "location": "Cedar Park, TX",
-      "datePosted": 1794380065,
-      "source": "aggregator",
-      "season": "Spring",
-      "isNew": false
-    },
-    {
       "id": "simplify:46b48762-e76f-4598-8440-e22bebf7a645",
       "company": "Astranis",
       "title": "Embedded Software Developer \u2013 Network/Payload Intern",
@@ -1321,6 +1299,28 @@
       "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply",
       "location": "Denver, CO",
       "datePosted": 1794352139,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:085bcd5c-f487-43b1-9767-fdeae81205b0",
+      "company": "Palantir",
+      "title": "Software Engineer Intern - Data Connectors",
+      "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply",
+      "location": "NYC",
+      "datePosted": 1794352138,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "company": "Goldman Sachs",
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://higher.gs.com/roles/188640",
+      "location": "Dallas, TX",
+      "datePosted": 1794351889,
       "source": "aggregator",
       "season": null,
       "isNew": false
