@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18T19:20:17Z",
-  "totalOpen": 1540,
+  "generatedAt": "2026-11-18T19:30:22Z",
+  "totalOpen": 1539,
   "totalNewgrad": 238,
-  "totalOther": 1302,
+  "totalOther": 1301,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -25,7 +25,7 @@
       "datePosted": 1794996358,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac562d2064da25272e16b96",
@@ -47,7 +47,7 @@
       "datePosted": 1794996009,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afdcce88cffea7c97c8ce0b",
@@ -58,7 +58,7 @@
       "datePosted": 1794995688,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afde61ff170d82b3966f489",
@@ -69,7 +69,7 @@
       "datePosted": 1794995615,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a63c950e8d8d22e3292aabb",
@@ -80,7 +80,7 @@
       "datePosted": 1794995522,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa9a46b28e24cb38513b3d3",
@@ -91,7 +91,7 @@
       "datePosted": 1794995192,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afde4388cffea7c97c8df66",
@@ -111,17 +111,6 @@
       "url": "https://jobright.ai/jobs/info/6afde3c4758942b6422b50d7",
       "location": "Austin, TX",
       "datePosted": 1794995012,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa95ef13387a3d9b67d4bfb",
-      "company": "Analog Devices",
-      "title": "Associate Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aa95ef13387a3d9b67d4bfb",
-      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
-      "datePosted": 1794994996,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -224,6 +213,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac3fdd90e027c0f3b3a8917",
+      "company": "BAE Systems",
+      "title": "Mk21A Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac3fdd90e027c0f3b3a8917",
+      "location": "Hill Afb, UT",
+      "datePosted": 1794992636,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ad8b47039284cd52427f9e7",
@@ -358,15 +358,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae11c3067c31ab3489a0a67",
+      "id": "newgrad-jobs:6adf90d95dc7953215a404f8",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae11c3067c31ab3489a0a67",
-      "location": "Longmont, CO; Boulder, CO",
+      "url": "https://jobright.ai/jobs/info/6adf90d95dc7953215a404f8",
+      "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1794988915,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aeca83da2661405dc2c4dee",
@@ -419,17 +419,6 @@
       "url": "https://jobright.ai/jobs/info/6ac510d68ff3fb9b3bc8759c",
       "location": "Denver, CO; Long Beach, CA",
       "datePosted": 1794988571,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7d169a444ac5d36f85f4c",
-      "company": "Sierra Nevada Corporation",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6ac7d169a444ac5d36f85f4c",
-      "location": "Lone Tree, CO",
-      "datePosted": 1794988497,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -683,6 +672,17 @@
       "url": "https://jobright.ai/jobs/info/6ac56f98372c01f6cd739af8",
       "location": "New York, NY",
       "datePosted": 1794974999,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a473469971cd25b06f9164f",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - Danish Speakers",
+      "url": "https://jobright.ai/jobs/info/6a473469971cd25b06f9164f",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Los Angeles, CA; Washington, DC; Boston, MA; Chicago, IL; Austin, TX",
+      "datePosted": 1794974852,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
