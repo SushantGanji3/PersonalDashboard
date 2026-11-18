@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18T18:40:15Z",
-  "totalOpen": 1545,
+  "generatedAt": "2026-11-18T18:50:16Z",
+  "totalOpen": 1544,
   "totalNewgrad": 241,
-  "totalOther": 1304,
+  "totalOther": 1303,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1794995128,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aa95ee3eff87f571fc995fb",
@@ -25,7 +25,7 @@
       "datePosted": 1794995114,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afde3d8f3e7976cc6109bca",
@@ -36,7 +36,7 @@
       "datePosted": 1794995032,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afde3c4758942b6422b50d7",
@@ -45,6 +45,17 @@
       "url": "https://jobright.ai/jobs/info/6afde3c4758942b6422b50d7",
       "location": "Austin, TX",
       "datePosted": 1794995012,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa95ef13387a3d9b67d4bfb",
+      "company": "Analog Devices",
+      "title": "Associate Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa95ef13387a3d9b67d4bfb",
+      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
+      "datePosted": 1794994996,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -56,6 +67,17 @@
       "url": "https://jobright.ai/jobs/info/6afde3b00cde47528ec0f7f6",
       "location": "United States",
       "datePosted": 1794994992,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afdbdb4f170d82b3966d83c",
+      "company": "Stryker",
+      "title": "Software Developer in Test",
+      "url": "https://jobright.ai/jobs/info/6afdbdb4f170d82b3966d83c",
+      "location": "Portage, MI",
+      "datePosted": 1794994573,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -91,7 +113,7 @@
       "datePosted": 1794993598,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afddd83758942b6422b4cc1",
@@ -666,28 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afca6eae8a9612f4e0da3bd",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Systems Engineer/Systems Engineer - Gilbert AZ",
-      "url": "https://jobright.ai/jobs/info/6afca6eae8a9612f4e0da3bd",
-      "location": "Gilbert, AZ",
-      "datePosted": 1794972440,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb1d2d04af1c9f075c401e",
-      "company": "IBM",
-      "title": "Data Engineer-Data Integration",
-      "url": "https://jobright.ai/jobs/info/6afb1d2d04af1c9f075c401e",
-      "location": "Paramus, NJ",
-      "datePosted": 1794972043,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:372dccd9-1f30-4e08-89c6-71ef714dfb33",
       "company": "Qualcomm",
       "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
@@ -905,7 +905,7 @@
       "datePosted": 1794529372,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b4fffabe-25c5-4ccc-920f-6ea9369ba9fa",
