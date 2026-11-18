@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18T08:00:20Z",
-  "totalOpen": 1573,
+  "generatedAt": "2026-11-18T08:10:16Z",
+  "totalOpen": 1574,
   "totalNewgrad": 258,
-  "totalOther": 1315,
+  "totalOther": 1316,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:27c63eb2-f606-4f11-bf9a-3392a2d765f1",
+      "company": "Airbnb",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+      "location": "SF",
+      "datePosted": 1794978014,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:372dccd9-1f30-4e08-89c6-71ef714dfb33",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743/apply",
       "location": "NYC",
       "datePosted": 1794352141,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8294c7c7-66b5-4770-b125-1ad606214411",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Connectivity Platform - Product",
-      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply",
-      "location": "Denver, CO",
-      "datePosted": 1794352139,
       "source": "aggregator",
       "season": null,
       "isNew": false
