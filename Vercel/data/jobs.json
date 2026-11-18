@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-18T06:10:23Z",
-  "totalOpen": 1575,
-  "totalNewgrad": 261,
-  "totalOther": 1314,
+  "generatedAt": "2026-11-18T06:20:20Z",
+  "totalOpen": 1574,
+  "totalNewgrad": 259,
+  "totalOther": 1315,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:73863aac-542c-4b1b-a529-014e8b839a56",
+      "company": "Airbnb",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1C6",
+      "location": "San Francisco, CA",
+      "datePosted": 1794978623,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:372dccd9-1f30-4e08-89c6-71ef714dfb33",
       "company": "Qualcomm",
@@ -70,6 +81,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afd33d5f1e9f80d47c33848",
+      "company": "Torentify",
+      "title": "Data Engineer - WFH",
+      "url": "https://jobright.ai/jobs/info/6afd33d5f1e9f80d47c33848",
+      "location": "United States",
+      "datePosted": 1794949973,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afd3156c9f7ca2bdfb20ed1",
@@ -193,6 +215,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6afd3077af5227454a93c520",
+      "company": "PT Indorama Petrochemical",
+      "title": "AI & Full-Stack Development Intern 2027",
+      "url": "https://jobright.ai/jobs/info/6afd3077af5227454a93c520",
+      "location": "Hilton Head Island, SC",
+      "datePosted": 1794946684,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6afced852ac165125e4ce212",
       "company": "GM Financial",
       "title": "Intern - Software Development Engineer",
@@ -232,17 +265,6 @@
       "url": "https://jobright.ai/jobs/info/6afd0b346a51d629d475af29",
       "location": "Washington, IN",
       "datePosted": 1794945078,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afd1f47661724f2a358be9b",
-      "company": "Oakridge",
-      "title": "Software Engineering Intern for OAKRIDGE HOLDINGS the parent company of danieldeboulay.com & phonesheet.org",
-      "url": "https://jobright.ai/jobs/info/6afd1f47661724f2a358be9b",
-      "location": "United States",
-      "datePosted": 1794944711,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -446,17 +468,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afcf1c3e8a9612f4e0dd2e6",
-      "company": "Corel Corporation",
-      "title": "AI Software Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6afcf1c3e8a9612f4e0dd2e6",
-      "location": "United States",
-      "datePosted": 1794933059,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afcef9ad163750294928501",
       "company": "General Atomics",
       "title": "Intern - Software Engineer",
@@ -495,17 +506,6 @@
       "title": "Software Engineer & Tester",
       "url": "https://jobright.ai/jobs/info/6afd316bc9f7ca2bdfb20ed9",
       "location": "Edison, NJ; United States",
-      "datePosted": 1794931200,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afd3077af5227454a93c520",
-      "company": "PT Indorama Petrochemical",
-      "title": "AI & Full-Stack Development Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6afd3077af5227454a93c520",
-      "location": "Hilton Head Island, SC",
       "datePosted": 1794931200,
       "source": "newgrad-jobs",
       "season": null,
@@ -738,6 +738,17 @@
       "url": "https://jobright.ai/jobs/info/6afca10dd86c15318a38c9c8",
       "location": "United States",
       "datePosted": 1794926426,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc9e32d86c15318a38c63e",
+      "company": "ForeFlight",
+      "title": "Jr. Security Engineer- Platform Security",
+      "url": "https://jobright.ai/jobs/info/6afc9e32d86c15318a38c63e",
+      "location": "United States",
+      "datePosted": 1794926367,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply",
       "location": "Denver, CO",
       "datePosted": 1794352139,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:085bcd5c-f487-43b1-9767-fdeae81205b0",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Data Connectors",
-      "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply",
-      "location": "NYC",
-      "datePosted": 1794352138,
       "source": "aggregator",
       "season": null,
       "isNew": false
