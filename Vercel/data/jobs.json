@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T23:49:27Z",
-  "totalOpen": 1537,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-19T23:50:20Z",
+  "totalOpen": 1535,
+  "totalNewgrad": 237,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -50,28 +50,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aff6e8f6f4ca73dfeb441ff",
-      "company": "AcuityMD",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff6e8f6f4ca73dfeb441ff",
-      "location": "United States",
-      "datePosted": 1795100030,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff7dbc865dbcc3f26fd390",
-      "company": "Andrew Wommack Ministries, Inc.",
-      "title": "Full Stack WordPress Developer",
-      "url": "https://jobright.ai/jobs/info/6aff7dbc865dbcc3f26fd390",
-      "location": "Woodland Park, CO",
-      "datePosted": 1795099964,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6aff7d7e865dbcc3f26fd33d",
       "company": "Union Home Mortgage Corp.",
       "title": "AI Software Engineering Intern",
@@ -81,28 +59,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff7d59dd029d798066cf51",
-      "company": "The CCS Companies",
-      "title": "Associate Salesforce Developer & QA Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff7d59dd029d798066cf51",
-      "location": "Salem, NH",
-      "datePosted": 1795099865,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aff7caf72b9be36852927dc",
-      "company": "Leader Bank",
-      "title": "Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6aff7caf72b9be36852927dc",
-      "location": "Arlington, MA",
-      "datePosted": 1795099695,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff7c3edd029d798066cd35",
@@ -182,17 +138,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aff04eb97dcc4fc8dca7e31",
-      "company": "Intelliforce-IT Solutions Group, LLC.",
-      "title": "Junior Software Engineer (Prime)",
-      "url": "https://jobright.ai/jobs/info/6aff04eb97dcc4fc8dca7e31",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1795098171,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6aff5a79c1c02a9acd80b1e8",
       "company": "Idaho National Laboratory",
       "title": "Software Engineering Intern - Summer 2027 \u2014 Java/API Development for Neutronics Code",
@@ -243,6 +188,17 @@
       "url": "https://jobright.ai/jobs/info/6aff71e26f4ca73dfeb442f3",
       "location": "San Jose, CA",
       "datePosted": 1795096930,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff6e8f6f4ca73dfeb441ff",
+      "company": "AcuityMD",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff6e8f6f4ca73dfeb441ff",
+      "location": "United States",
+      "datePosted": 1795096079,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -683,6 +639,50 @@
       "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
       "location": "United States",
       "datePosted": 1795085160,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a723da3ee751e0c79347c23",
+      "company": "Systems Planning & Analysis",
+      "title": "Associate Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a723da3ee751e0c79347c23",
+      "location": "San Diego, CA",
+      "datePosted": 1795085097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff4323b88323bd981bd5b4",
+      "company": "Viasat",
+      "title": "Associate Software Engineer, Early Career",
+      "url": "https://jobright.ai/jobs/info/6aff4323b88323bd981bd5b4",
+      "location": "Carlsbad, CA",
+      "datePosted": 1795084963,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff430b97dcc4fc8dcaa6a5",
+      "company": "Yaskawa America, Inc. -  Drives & Motion Division",
+      "title": "Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff430b97dcc4fc8dcaa6a5",
+      "location": "San Francisco, CA",
+      "datePosted": 1795084939,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff09f41c42ea8f6b9fc723",
+      "company": "Formlabs",
+      "title": "Embedded Software Engineer - Entry Level",
+      "url": "https://jobright.ai/jobs/info/6aff09f41c42ea8f6b9fc723",
+      "location": "Somerville, MA",
+      "datePosted": 1795084775,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
