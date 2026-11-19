@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:30:19Z",
+  "generatedAt": "2026-11-19T01:40:24Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,39 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1795044621
+    },
+    {
+      "id": "newgrad-jobs:6afe4caa758942b6422b9231",
+      "company": "CACI International Inc",
+      "title": "Early Career NASA Space Reactor \u2013 1 Freedom Flight Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6afe4caa758942b6422b9231",
+      "location": "Houston, TX",
+      "datePosted": 1795021866,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795052424
+    },
+    {
+      "id": "newgrad-jobs:6afe4baf8cffea7c97c91eca",
+      "company": "SpaceX",
+      "title": "Backend Software Engineer, GNC (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6afe4baf8cffea7c97c91eca",
+      "location": "Redmond, WA",
+      "datePosted": 1795021615,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795052424
+    },
+    {
+      "id": "newgrad-jobs:6afe48478cffea7c97c91d8d",
+      "company": "Contexture",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6afe48478cffea7c97c91d8d",
+      "location": "Phoenix, AZ; Denver, CO; Grand Junction, CO",
+      "datePosted": 1795020743,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795052424
     },
     {
       "id": "simplify:3966d53c-f47c-411d-add7-e02180c0f986",
@@ -133,6 +166,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1795049416
+    },
+    {
+      "id": "newgrad-jobs:6afe0cc4f3e7976cc610b734",
+      "company": "Costco Wholesale",
+      "title": "Infrastructure Engineer - LTL Fulfillment Support and Operations",
+      "url": "https://jobright.ai/jobs/info/6afe0cc4f3e7976cc610b734",
+      "location": "Issaquah, WA",
+      "datePosted": 1795016706,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795052424
     },
     {
       "id": "newgrad-jobs:6afe2b170cde47528ec12924",
@@ -35156,28 +35200,6 @@
       "datePosted": 1792479600,
       "source": "aggregator",
       "season": "Summer",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:7605b774-f61b-4d04-876b-25c5e5883f86",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Query Engines",
-      "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply",
-      "location": "NYC",
-      "datePosted": 1792459830,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
-      "company": "Palantir",
-      "title": "Software Engineer New Grad - Query Engines",
-      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply",
-      "location": "NYC",
-      "datePosted": 1792459830,
-      "source": "aggregator",
-      "season": null,
       "firstSeenAt": 1793826020
     }
   ]
