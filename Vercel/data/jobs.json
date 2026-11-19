@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19T00:50:16Z",
-  "totalOpen": 1532,
+  "generatedAt": "2026-11-19T00:58:29Z",
+  "totalOpen": 1531,
   "totalNewgrad": 233,
-  "totalOther": 1299,
+  "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -47,7 +47,7 @@
       "datePosted": 1795016856,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afe38bb0324c008a17e5875",
@@ -58,7 +58,7 @@
       "datePosted": 1795016763,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afe320b758942b6422b86f5",
@@ -908,17 +908,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:4bbbf732-35b2-45f5-9c77-3d3536bef7f0",
-      "company": "Cisco",
-      "title": "Software Engineer Compiler I",
-      "url": "https://go.vansh.nyc/1yI",
-      "location": "Austin, TX",
-      "datePosted": 1794585487,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:7e29045c-9c6b-48ca-b87a-46cf0966f84d",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
@@ -1321,6 +1310,17 @@
       "url": "https://www.metacareers.com/jobs/997597222780035",
       "location": "Burlingame, CA, Menlo Park, CA, Sunnyvale, CA",
       "datePosted": 1794352756,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:dda69a41-7bb7-4af7-8916-fb802635f0bb",
+      "company": "Palantir",
+      "title": "Software Engineer Intern - Connectivity Platform and Product",
+      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743/apply",
+      "location": "NYC",
+      "datePosted": 1794352141,
       "source": "aggregator",
       "season": null,
       "isNew": false
