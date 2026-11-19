@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19T10:30:19Z",
-  "totalOpen": 1532,
-  "totalNewgrad": 232,
-  "totalOther": 1300,
+  "generatedAt": "2026-11-19T10:40:16Z",
+  "totalOpen": 1537,
+  "totalNewgrad": 238,
+  "totalOther": 1299,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -39,12 +39,67 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6afecc821c42ea8f6b9fb6d8",
+      "company": "PTC",
+      "title": "Creo Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6afecc821c42ea8f6b9fb6d8",
+      "location": "Boston, MA",
+      "datePosted": 1795054594,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afec95baea17e3f50eaba0f",
+      "company": "Micron",
+      "title": "Intern - Product Yield Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6afec95baea17e3f50eaba0f",
+      "location": "Boise, ID",
+      "datePosted": 1795053787,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae0ba4d1f9d9308370a3579",
+      "company": "RTX",
+      "title": "Flight Control Software Engineer I (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6ae0ba4d1f9d9308370a3579",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1795053121,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6afe48a30cde47528ec13775",
       "company": "Northwestern Mutual",
       "title": "Software Engineer I",
       "url": "https://jobright.ai/jobs/info/6afe48a30cde47528ec13775",
       "location": "Milwaukee, WI",
       "datePosted": 1795052560,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
+      "company": "AMD",
+      "title": "Distributed Systems Software Engineer, Collectives",
+      "url": "https://jobright.ai/jobs/info/6ae23d0a1f9d9308370afd1d",
+      "location": "San Jose, CA; Austin, TX",
+      "datePosted": 1795052199,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe25478cffea7c97c908f8",
+      "company": "Epic Games",
+      "title": "Tools Programmer Intern (Graphics)",
+      "url": "https://jobright.ai/jobs/info/6afe25478cffea7c97c908f8",
+      "location": "Cary, NC",
+      "datePosted": 1795051044,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -61,6 +116,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ae27b851f9d9308370b28ac",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, Platform Security (NTD)",
+      "url": "https://jobright.ai/jobs/info/6ae27b851f9d9308370b28ac",
+      "location": "Redmond, WA",
+      "datePosted": 1795050372,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ae27a59829a3bada16056cc",
       "company": "Nintendo",
       "title": "Intern - Software Engineer, Audio (NTD)",
@@ -70,6 +136,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae27697829a3bada160545f",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, CPU Debugger (NTD)",
+      "url": "https://jobright.ai/jobs/info/6ae27697829a3bada160545f",
+      "location": "Redmond, WA",
+      "datePosted": 1795050371,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae277c3829a3bada1605503",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, CPU Profiler (NTD)",
+      "url": "https://jobright.ai/jobs/info/6ae277c3829a3bada1605503",
+      "location": "Redmond, WA",
+      "datePosted": 1795050251,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae274506679108488c4b98f",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, DevOps (NTD)",
+      "url": "https://jobright.ai/jobs/info/6ae274506679108488c4b98f",
+      "location": "Redmond, WA",
+      "datePosted": 1795050251,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aa87b70a77a53f5a1579bf8",
@@ -149,10 +248,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
+      "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
+      "url": "https://jobright.ai/jobs/info/6af63621a4a5218a07e8458e",
       "location": "Kent, WA",
       "datePosted": 1795037340,
       "source": "newgrad-jobs",
@@ -380,10 +479,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1795019050,
       "source": "newgrad-jobs",
@@ -633,105 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afe054df3e7976cc610b29f",
-      "company": "Abridge",
-      "title": "Member of Technical Staff, Intern",
-      "url": "https://jobright.ai/jobs/info/6afe054df3e7976cc610b29f",
-      "location": "San Francisco, CA",
-      "datePosted": 1795013540,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe2c01f3e7976cc610cc8b",
-      "company": "HERE Technologies",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6afe2c01f3e7976cc610cc8b",
-      "location": "Chicago, IL",
-      "datePosted": 1795013505,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
-      "location": "Tampa, FL",
-      "datePosted": 1795013113,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af60c3fa4a5218a07e82c0f",
-      "company": "STC, an Arcfield Company",
-      "title": "Models Based Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af60c3fa4a5218a07e82c0f",
-      "location": "Chantilly, VA",
-      "datePosted": 1795013113,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af60c3e80054650a5e7b90b",
-      "company": "STC, an Arcfield Company",
-      "title": "Model Based Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af60c3e80054650a5e7b90b",
-      "location": "Chantilly, VA",
-      "datePosted": 1795013113,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
-      "company": "Capgemini",
-      "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
-      "location": "Ashburn, VA",
-      "datePosted": 1795012512,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe25478cffea7c97c908f8",
-      "company": "Epic Games",
-      "title": "Tools Programmer Intern (Graphics)",
-      "url": "https://jobright.ai/jobs/info/6afe25478cffea7c97c908f8",
-      "location": "Cary, NC",
-      "datePosted": 1795011783,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe1a4a0cde47528ec11c6b",
-      "company": "NASA Jet Propulsion Laboratory",
-      "title": "Engineering Applications Software Engineer Level 1",
-      "url": "https://jobright.ai/jobs/info/6afe1a4a0cde47528ec11c6b",
-      "location": "Pasadena, CA",
-      "datePosted": 1795011325,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe23560324c008a17e497b",
-      "company": "Mayo Clinic",
-      "title": "Software Engineer - Limited Tenure - Hybrid",
-      "url": "https://jobright.ai/jobs/info/6afe23560324c008a17e497b",
-      "location": "Rochester, MN",
-      "datePosted": 1795011286,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:73863aac-542c-4b1b-a529-014e8b839a56",
       "company": "Airbnb",
       "title": "Software Engineering Intern",
@@ -903,17 +903,6 @@
       "url": "https://go.vansh.nyc/1zO",
       "location": "Santa Clara, CA",
       "datePosted": 1794704678,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
-      "company": "Microsoft",
-      "title": "Software Engineer - Microsoft Business Operations",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
-      "location": "Redmond, WA",
-      "datePosted": 1794623047,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1321,6 +1310,17 @@
       "url": "https://www.metacareers.com/jobs/1560905132724186",
       "location": "Redmond, WA",
       "datePosted": 1794352758,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:68aba6ff-9ce9-41ef-aa64-76db72db0379",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Audio Systems",
+      "url": "https://www.metacareers.com/jobs/1100150399514897",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1794352757,
       "source": "aggregator",
       "season": null,
       "isNew": false
