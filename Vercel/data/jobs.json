@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T08:20:16Z",
-  "totalOpen": 1533,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-11-19T08:30:18Z",
+  "totalOpen": 1532,
+  "totalNewgrad": 233,
   "totalOther": 1299,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -92,6 +92,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae24b7deb7e8f715a60c635",
+      "company": "Genesis Molecular AI",
+      "title": "Software Engineer Intern - 2027",
+      "url": "https://jobright.ai/jobs/info/6ae24b7deb7e8f715a60c635",
+      "location": "San Mateo, CA; New York, NY",
+      "datePosted": 1795040592,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
@@ -721,17 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
-      "datePosted": 1795007015,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:73863aac-542c-4b1b-a529-014e8b839a56",
       "company": "Airbnb",
       "title": "Software Engineering Intern",
@@ -875,6 +875,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:894a0678-d486-4483-aa2a-5d69969e1df2",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1A3",
+      "location": "El Segundo, CA",
+      "datePosted": 1794807624,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:f74568a9-19a0-4465-b8c9-13309d11b990",
       "company": "SpaceX",
       "title": "Full Stack Software Engineer (Starlink)",
@@ -958,17 +969,6 @@
       "url": "https://go.vansh.nyc/1ym",
       "location": "San Jose, CA",
       "datePosted": 1794530238,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:43745b8d-0e85-4f00-b58c-71b5dcb8ffb5",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1yk",
-      "location": "Melbourne, FL",
-      "datePosted": 1794529372,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
