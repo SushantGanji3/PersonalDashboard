@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-19T17:40:18Z",
-  "totalOpen": 1522,
-  "totalNewgrad": 224,
+  "generatedAt": "2026-11-19T17:50:17Z",
+  "totalOpen": 1526,
+  "totalNewgrad": 228,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad039bfc9f40bec9080032d",
+      "company": "York Space Systems",
+      "title": "Flight Software Platform Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad039bfc9f40bec9080032d",
+      "location": "Greenwood Village, CO",
+      "datePosted": 1795077980,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
+      "company": "EY",
+      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
+      "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
+      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
+      "datePosted": 1795077904,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff255f97dcc4fc8dca90bc",
+      "company": "Carnival Corporation",
+      "title": "Intern, Crew Operations BI Report Developer",
+      "url": "https://jobright.ai/jobs/info/6aff255f97dcc4fc8dca90bc",
+      "location": "Seattle, WA",
+      "datePosted": 1795077343,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ac5aa25372c01f6cd73ae4a",
       "company": "Amazon",
@@ -23,17 +56,6 @@
       "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
       "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
       "datePosted": 1795075789,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
-      "company": "EY",
-      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
-      "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
-      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
-      "datePosted": 1795075778,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -61,6 +83,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6adf90d95dc7953215a404f8",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "url": "https://jobright.ai/jobs/info/6adf90d95dc7953215a404f8",
+      "location": "Fort Worth, TX; Marietta, GA",
+      "datePosted": 1795075312,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a905ab20bd89e205d249c9f",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
+      "location": "Offutt Air Force Base, NE",
+      "datePosted": 1795075307,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af1e3c81aaffa49f737e8cc",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af1e3c81aaffa49f737e8cc",
+      "location": "Fort Worth, TX",
+      "datePosted": 1795075304,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6afe04058cffea7c97c8f535",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineer - Early Career",
@@ -70,6 +125,61 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af620dbf10ae27369e16d9d",
+      "company": "Lockheed Martin",
+      "title": "Software Engineering- Intern",
+      "url": "https://jobright.ai/jobs/info/6af620dbf10ae27369e16d9d",
+      "location": "Uniondale, NY",
+      "datePosted": 1795075300,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afba2d106c0aac84dd97b3a",
+      "company": "Lockheed Martin",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6afba2d106c0aac84dd97b3a",
+      "location": "Moorestown, NJ",
+      "datePosted": 1795075300,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
+      "location": "Littleton, CO",
+      "datePosted": 1795075300,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
+      "location": "Fort Worth, TX",
+      "datePosted": 1795075300,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer-Intern",
+      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
+      "location": "King of Prussia, PA",
+      "datePosted": 1795075300,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff1d1072b9be368528e6e3",
@@ -138,15 +248,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa85e6d930bff471a2a6e41",
+      "id": "newgrad-jobs:6aa8ab296d0edc2d91b06d71",
       "company": "Tencent",
       "title": "Cyber Security Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa85e6d930bff471a2a6e41",
+      "url": "https://jobright.ai/jobs/info/6aa8ab296d0edc2d91b06d71",
       "location": "Palo Alto, CA",
       "datePosted": 1795073931,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff158e72b9be368528e178",
@@ -512,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae2f797684c93aab88cba87",
+      "id": "newgrad-jobs:6ae3115efb2cd420ace4ec52",
       "company": "KLA",
       "title": "System Software Engineer - Distributed Computing",
-      "url": "https://jobright.ai/jobs/info/6ae2f797684c93aab88cba87",
+      "url": "https://jobright.ai/jobs/info/6ae3115efb2cd420ace4ec52",
       "location": "Milpitas, CA",
       "datePosted": 1795062718,
       "source": "newgrad-jobs",
@@ -534,10 +644,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1795062621,
       "source": "newgrad-jobs",
@@ -563,116 +673,6 @@
       "location": "Littleton, CO",
       "datePosted": 1795061910,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad27dbe25289a0b3bf57143",
-      "company": "FWI (FedWriters, Inc.)",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad27dbe25289a0b3bf57143",
-      "location": "Arlington, VA",
-      "datePosted": 1795061814,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad10313a4f99fef81941014",
-      "company": "Atto Trading",
-      "title": "Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad10313a4f99fef81941014",
-      "location": "New York, NY",
-      "datePosted": 1795061674,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5528b6377f983ce8a982e2",
-      "company": "Serval",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a5528b6377f983ce8a982e2",
-      "location": "San Francisco, CA",
-      "datePosted": 1795061301,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae24719829a3bada1603309",
-      "company": "Broccoli AI",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae24719829a3bada1603309",
-      "location": "San Francisco, CA",
-      "datePosted": 1795060715,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aaa4ce02339cb004a614d36",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (Payment) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6aaa4ce02339cb004a614d36",
-      "location": "San Jose, CA",
-      "datePosted": 1795059620,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afedf37b88323bd981ba377",
-      "company": "AeroNex Systems",
-      "title": "Software Engineer Intern - Full Time",
-      "url": "https://jobright.ai/jobs/info/6afedf37b88323bd981ba377",
-      "location": "Rochester, NY",
-      "datePosted": 1795059383,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe120d0324c008a17e4085",
-      "company": "NetApp",
-      "title": "NetApp Emerging Talent - Entry Level Software Engineer (Systems)",
-      "url": "https://jobright.ai/jobs/info/6afe120d0324c008a17e4085",
-      "location": "Durham, NC; San Jose, CA",
-      "datePosted": 1795058819,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe1200758942b6422b7111",
-      "company": "NetApp",
-      "title": "NetApp Emerging Talent - Entry Level Software Engineer (Cloud)",
-      "url": "https://jobright.ai/jobs/info/6afe1200758942b6422b7111",
-      "location": "Durham, NC; San Jose, CA",
-      "datePosted": 1795058819,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe4caa758942b6422b9231",
-      "company": "CACI International Inc",
-      "title": "Early Career NASA Space Reactor \u2013 1 Freedom Flight Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6afe4caa758942b6422b9231",
-      "location": "Houston, TX",
-      "datePosted": 1795058134,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af25a2d0cb834dad9326700",
-      "company": "CACI International Inc",
-      "title": "Junior Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af25a2d0cb834dad9326700",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795058128,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
