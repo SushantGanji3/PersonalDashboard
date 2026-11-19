@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T03:10:16Z",
-  "totalOpen": 1535,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-11-19T03:20:15Z",
+  "totalOpen": 1534,
+  "totalNewgrad": 236,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795055981,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:05c2c1f1-af4c-4299-9e8a-f24cfcfa0927",
@@ -25,7 +25,7 @@
       "datePosted": 1795055909,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
@@ -48,6 +48,28 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aebd420a0b134121d99e534",
+      "company": "Filevine",
+      "title": "Legal Research Intern (Part-Time)",
+      "url": "https://jobright.ai/jobs/info/6aebd420a0b134121d99e534",
+      "location": "United States",
+      "datePosted": 1795027017,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a44e69d824ecd73beef1a56",
+      "company": "Welo Data",
+      "title": "Project Perseus | Speech & Voice AI Analyst - Dutch Speakers",
+      "url": "https://jobright.ai/jobs/info/6a44e69d824ecd73beef1a56",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Washington, DC; Los Angeles, CA; Boston, MA; Chicago, IL",
+      "datePosted": 1795025197,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afe5767758942b6422b947d",
@@ -694,28 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6ac4568d4ac55253f5d721e0",
       "location": "Bloomington, MN",
       "datePosted": 1795006430,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af89ea086a9b19681afa84b",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6af89ea086a9b19681afa84b",
-      "location": "Santa Clara, CA",
-      "datePosted": 1795006430,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea61ca1ba298c777772574",
-      "company": "ServiceNow",
-      "title": "Software Engineer, Agent Eval Platform",
-      "url": "https://jobright.ai/jobs/info/6aea61ca1ba298c777772574",
-      "location": "Mountain View, CA",
-      "datePosted": 1795005610,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
