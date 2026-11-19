@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-11-19T20:50:19Z",
+  "generatedAt": "2026-11-19T21:00:19Z",
   "totalOpen": 1529,
-  "totalNewgrad": 232,
-  "totalOther": 1297,
+  "totalNewgrad": 230,
+  "totalOther": 1299,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:eb0da105-f983-42b1-85f4-2723187d0458",
+      "company": "SpaceX",
+      "title": "Backend Software Engineer, GNC",
+      "url": "https://go.vansh.nyc/1D4",
+      "location": "Redmond, WA",
+      "datePosted": 1795121320,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:078b6818-fc81-4d2f-a236-ec54696f1971",
+      "company": "SpaceX",
+      "title": "Software Engineer, Alerts",
+      "url": "https://go.vansh.nyc/1D5",
+      "location": "Redmond, WA",
+      "datePosted": 1795121320,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff51f81c42ea8f6b9ff694",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6aff51f81c42ea8f6b9ff694",
+      "location": "Fort Worth, TX; Orlando, FL; Owego, NY",
+      "datePosted": 1795088760,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff4854aea17e3f50eaf48f",
+      "company": "Allied Consultants, Inc.",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aff4854aea17e3f50eaf48f",
+      "location": "Austin, TX",
+      "datePosted": 1795088692,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aff503e97dcc4fc8dcaae0b",
       "company": "VertoTech",
@@ -23,17 +67,6 @@
       "url": "https://jobright.ai/jobs/info/6aff4fdb72b9be3685290876",
       "location": "Vienna, VA",
       "datePosted": 1795088219,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff4c10b88323bd981bd9d7",
-      "company": "Allied Consultants, Inc.",
-      "title": "AI/ML Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aff4c10b88323bd981bd9d7",
-      "location": "Austin, TX",
-      "datePosted": 1795087248,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -113,7 +146,7 @@
       "datePosted": 1795085097,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff4323b88323bd981bd5b4",
@@ -212,7 +245,7 @@
       "datePosted": 1795082706,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff24571c42ea8f6b9fd777",
@@ -336,15 +369,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8dcaf3d34f700f87fd6131",
+      "id": "newgrad-jobs:6a8dd22347679c68bf5e4f34",
       "company": "Honeywell Technologies",
       "title": "Artificial Intelligence/Machine Learning - Summer 2027 Intern",
-      "url": "https://jobright.ai/jobs/info/6a8dcaf3d34f700f87fd6131",
+      "url": "https://jobright.ai/jobs/info/6a8dd22347679c68bf5e4f34",
       "location": "United States",
       "datePosted": 1795080240,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff2f5272b9be368528f514",
@@ -483,7 +516,7 @@
       "company": "Garmin",
       "title": "Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
-      "location": "Cary, NC; Tulsa, OK",
+      "location": "Tulsa, OK",
       "datePosted": 1795076990,
       "source": "newgrad-jobs",
       "season": null,
@@ -649,17 +682,6 @@
       "title": "Systems Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
       "location": "Littleton, CO",
-      "datePosted": 1795075300,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
-      "location": "King of Prussia, PA",
       "datePosted": 1795075300,
       "source": "newgrad-jobs",
       "season": null,
@@ -1299,28 +1321,6 @@
       "url": "https://go.vansh.nyc/1uI",
       "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN, San Francisco, CA, Dallas, TX, New York, NY, Bellevue, WA",
       "datePosted": 1794355200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b6640bbb-3cf3-4d86-9a7e-903895a5d6cb",
-      "company": "Meta AI",
-      "title": "Research Intern - Neural Network Training and Hardware-Software Co-Design",
-      "url": "https://www.metacareers.com/jobs/1560905132724186",
-      "location": "Redmond, WA",
-      "datePosted": 1794352758,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:68aba6ff-9ce9-41ef-aa64-76db72db0379",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Audio Systems",
-      "url": "https://www.metacareers.com/jobs/1100150399514897",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794352757,
       "source": "aggregator",
       "season": null,
       "isNew": false
