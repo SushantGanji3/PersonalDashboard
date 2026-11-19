@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:40:17Z",
+  "generatedAt": "2026-11-19T22:50:16Z",
   "totalOpen": 1538,
   "totalNewgrad": 241,
   "totalOther": 1297,
@@ -26,6 +26,83 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff73b7dd029d798066c2fc",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Creator Marketplace",
+      "url": "https://jobright.ai/jobs/info/6aff73b7dd029d798066c2fc",
+      "location": "Culver City, CA",
+      "datePosted": 1795097399,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aecfa243967d67f635a17cd",
+      "company": "Colony Brands, Inc.",
+      "title": "IT Developer Internship",
+      "url": "https://jobright.ai/jobs/info/6aecfa243967d67f635a17cd",
+      "location": "Monroe, WI",
+      "datePosted": 1795096989,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff71e26f4ca73dfeb442f3",
+      "company": "OKX",
+      "title": "Software Engineer, Card",
+      "url": "https://jobright.ai/jobs/info/6aff71e26f4ca73dfeb442f3",
+      "location": "San Jose, CA",
+      "datePosted": 1795096930,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff6e8f6f4ca73dfeb441ff",
+      "company": "AcuityMD",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff6e8f6f4ca73dfeb441ff",
+      "location": "United States",
+      "datePosted": 1795096079,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff6e316f4ca73dfeb441e0",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aff6e316f4ca73dfeb441e0",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795095985,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff6e31b47661ae4a62c8a2",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aff6e31b47661ae4a62c8a2",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795095985,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff6e2cc1c02a9acd80be65",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aff6e2cc1c02a9acd80be65",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795095980,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff697e6f4ca73dfeb44018",
@@ -232,17 +309,6 @@
       "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
       "location": "San Francisco, CA; New York, NY",
       "datePosted": 1795092442,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aece0c23a3fa7f03ea89f5c",
-      "company": "Colony Brands, Inc.",
-      "title": "IT Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6aece0c23a3fa7f03ea89f5c",
-      "location": "Monroe, WI",
-      "datePosted": 1795092323,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -617,72 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
       "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
       "datePosted": 1795081744,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1795081441,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a30f2e1524fd5657fe12995",
-      "company": "Ascensus",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a30f2e1524fd5657fe12995",
-      "location": "Dresher, PA; Philadelphia, PA",
-      "datePosted": 1795081201,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
-      "company": "MANTECH",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
-      "location": "Saint Inigoes, MD",
-      "datePosted": 1795080780,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff3261aea17e3f50eae797",
-      "company": "GM Financial",
-      "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff3261aea17e3f50eae797",
-      "location": "Arlington, TX",
-      "datePosted": 1795080673,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adfd11fc5c64fa3d9cbfd9a",
-      "company": "Health Care Service Corporation",
-      "title": "Early Careers \u2013 Product Engineering Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6adfd11fc5c64fa3d9cbfd9a",
-      "location": "Chicago, IL; Richardson, TX",
-      "datePosted": 1795080532,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff31a9aea17e3f50eae703",
-      "company": "Qualcomm",
-      "title": "#Embedded Audio Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff31a9aea17e3f50eae703",
-      "location": "San Diego, CA",
-      "datePosted": 1795080489,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
