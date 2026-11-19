@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-19T20:00:22Z",
-  "totalOpen": 1528,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-11-19T20:10:26Z",
+  "totalOpen": 1530,
+  "totalNewgrad": 233,
   "totalOther": 1297,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aff4fdb72b9be3685290876",
+      "company": "Esri",
+      "title": "Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff4fdb72b9be3685290876",
+      "location": "Vienna, VA",
+      "datePosted": 1795088219,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff4c4d72b9be3685290607",
+      "company": "CACI International Inc",
+      "title": "ArcGis Developer",
+      "url": "https://jobright.ai/jobs/info/6aff4c4d72b9be3685290607",
+      "location": "United States",
+      "datePosted": 1795087309,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aa196983272060a8e3f0c96",
       "company": "Crest Industries",
@@ -17,6 +39,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac54610064da25272e15d9e",
+      "company": "Pampered Chef",
+      "title": "Junior Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac54610064da25272e15d9e",
+      "location": "Addison, IL",
+      "datePosted": 1795086296,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aff4854aea17e3f50eaf48f",
       "company": "Allied Consultants, Inc.",
       "title": "AI/ML Engineer Intern",
@@ -26,6 +59,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe03d80cde47528ec10ebc",
+      "company": "L3Harris",
+      "title": "Associate, Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6afe03d80cde47528ec10ebc",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1795085352,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
+      "company": "Spotify",
+      "title": "Research Scientist - Generative Audio",
+      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
+      "location": "United States",
+      "datePosted": 1795085160,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff4323b88323bd981bd5b4",
@@ -490,10 +545,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0dc6d67c31ab34899ded3",
+      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae0dc6d67c31ab34899ded3",
+      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795075312,
       "source": "newgrad-jobs",
@@ -606,61 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6afe38bb0324c008a17e5875",
       "location": "Redmond, WA",
       "datePosted": 1795074692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a95835e9fcec5442372d63f",
-      "company": "Garmin",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95835e9fcec5442372d63f",
-      "location": "Chandler, AZ",
-      "datePosted": 1795074520,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa8ab296d0edc2d91b06d71",
-      "company": "Tencent",
-      "title": "Cyber Security Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8ab296d0edc2d91b06d71",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795073931,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad9c77d5ded0e353ea6a738",
-      "company": "Welo Data",
-      "title": "Project Perseus | Speech & Voice AI Analyst - Arabic Speakers",
-      "url": "https://jobright.ai/jobs/info/6ad9c77d5ded0e353ea6a738",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; Redmond, WA; Burlingame, CA; New York, NY; Washington, DC; Los Angeles, CA; Boston, MA",
-      "datePosted": 1795072924,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff136eb88323bd981bb25a",
-      "company": "RFA Engineering",
-      "title": "Embedded Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff136eb88323bd981bb25a",
-      "location": "Dubuque, IA",
-      "datePosted": 1795072750,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af504561b2c5dcbbcd66393",
-      "company": "Amazon",
-      "title": "Data Engineer I, Fire TV",
-      "url": "https://jobright.ai/jobs/info/6af504561b2c5dcbbcd66393",
-      "location": "Seattle, WA",
-      "datePosted": 1795072336,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
