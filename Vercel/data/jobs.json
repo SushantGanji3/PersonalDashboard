@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-19T13:40:16Z",
-  "totalOpen": 1533,
-  "totalNewgrad": 235,
+  "generatedAt": "2026-11-19T13:50:15Z",
+  "totalOpen": 1530,
+  "totalNewgrad": 232,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac63dfe372c01f6cd73c1b3",
+      "company": "TikTok",
+      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6ac63dfe372c01f6cd73c1b3",
+      "location": "San Jose, CA",
+      "datePosted": 1795063555,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "simplify:012cbd61-9586-48d1-ad35-dbd516313c1b",
       "company": "Lockheed Martin",
@@ -13,6 +24,39 @@
       "location": "Littleton, CO",
       "datePosted": 1795061910,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad27dbe25289a0b3bf57143",
+      "company": "FWI (FedWriters, Inc.)",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad27dbe25289a0b3bf57143",
+      "location": "Arlington, VA",
+      "datePosted": 1795061814,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5528b6377f983ce8a982e2",
+      "company": "Serval",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6a5528b6377f983ce8a982e2",
+      "location": "San Francisco, CA",
+      "datePosted": 1795061301,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1795060933,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -72,15 +116,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afb799d06c0aac84dd96122",
+      "id": "newgrad-jobs:6af248851aaffa49f73835e4",
       "company": "CACI International Inc",
       "title": "Junior Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6afb799d06c0aac84dd96122",
-      "location": "King George, VA",
+      "url": "https://jobright.ai/jobs/info/6af248851aaffa49f73835e4",
+      "location": "Colorado Springs, CO",
       "datePosted": 1795058128,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aaaaeef40807b73bd391333",
@@ -193,10 +237,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
+      "id": "newgrad-jobs:6aa9b81aeff87f571fc9af06",
       "company": "Q2",
       "title": "2027 Summer Internship - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
+      "url": "https://jobright.ai/jobs/info/6aa9b81aeff87f571fc9af06",
       "location": "Austin, TX; Cary, NC",
       "datePosted": 1795055905,
       "source": "newgrad-jobs",
@@ -446,10 +490,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
+      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6af63621a4a5218a07e8458e",
+      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
       "location": "Kent, WA",
       "datePosted": 1795037340,
       "source": "newgrad-jobs",
@@ -490,10 +534,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afe511ef3e7976cc610dca9",
+      "id": "newgrad-jobs:6afe3d06758942b6422b8b8d",
       "company": "The Church of Jesus Christ of Latter-day Saints",
       "title": "Email Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6afe511ef3e7976cc610dca9",
+      "url": "https://jobright.ai/jobs/info/6afe3d06758942b6422b8b8d",
       "location": "Salt Lake City, UT",
       "datePosted": 1795035589,
       "source": "newgrad-jobs",
@@ -683,50 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6afdc37e758942b6422b3ae3",
       "location": "Brisbane, CA",
       "datePosted": 1795018829,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe0b818cffea7c97c8fa26",
-      "company": "Truveta",
-      "title": "Winter Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6afe0b818cffea7c97c8fa26",
-      "location": "Seattle, WA",
-      "datePosted": 1795018770,
-      "source": "newgrad-jobs",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad01d4412303667b98a1fda",
-      "company": "Perpay Inc.",
-      "title": "Software Engineering Internship, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ad01d4412303667b98a1fda",
-      "location": "Philadelphia, PA",
-      "datePosted": 1795018662,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe2af2f170d82b3967220d",
-      "company": "Samsung Semiconductor",
-      "title": "Intern, Architecture Research Engineer (Resilient Collective Communications)",
-      "url": "https://jobright.ai/jobs/info/6afe2af2f170d82b3967220d",
-      "location": "San Jose, CA",
-      "datePosted": 1795018493,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe3e330cde47528ec132b7",
-      "company": "General Atomics",
-      "title": "Software Developer I",
-      "url": "https://jobright.ai/jobs/info/6afe3e330cde47528ec132b7",
-      "location": "Poway, CA",
-      "datePosted": 1795018163,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
