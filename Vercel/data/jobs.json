@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:10:17Z",
+  "generatedAt": "2026-11-19T10:20:15Z",
   "totalOpen": 1532,
   "totalNewgrad": 232,
   "totalOther": 1300,
@@ -35,6 +35,17 @@
       "location": "San Diego, CA",
       "datePosted": 1795055909,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe48a30cde47528ec13775",
+      "company": "Northwestern Mutual",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afe48a30cde47528ec13775",
+      "location": "Milwaukee, WI",
+      "datePosted": 1795052560,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -105,17 +116,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afe48a30cde47528ec13775",
-      "company": "Northwestern Mutual",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6afe48a30cde47528ec13775",
-      "location": "Milwaukee, WI",
-      "datePosted": 1795045581,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afe9e5e959c7033f184c4b6",
       "company": "Sentient Digital, Inc.",
       "title": "Software Engineer Intern (Summer 2027)",
@@ -149,10 +149,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
+      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6af63621a4a5218a07e8458e",
+      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
       "location": "Kent, WA",
       "datePosted": 1795037340,
       "source": "newgrad-jobs",
@@ -380,10 +380,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1795019050,
       "source": "newgrad-jobs",
