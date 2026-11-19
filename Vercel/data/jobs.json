@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T21:00:19Z",
-  "totalOpen": 1529,
-  "totalNewgrad": 230,
+  "generatedAt": "2026-11-19T21:10:14Z",
+  "totalOpen": 1532,
+  "totalNewgrad": 233,
   "totalOther": 1299,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795121320,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:078b6818-fc81-4d2f-a236-ec54696f1971",
@@ -24,6 +24,83 @@
       "location": "Redmond, WA",
       "datePosted": 1795121320,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf7d1ac5c64fa3d9cbc07a",
+      "company": "Roblox",
+      "title": "Software Engineer, Frontend - Economy",
+      "url": "https://jobright.ai/jobs/info/6adf7d1ac5c64fa3d9cbc07a",
+      "location": "San Mateo, CA",
+      "datePosted": 1795091986,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adf9e6d9a8c91d5c3587547",
+      "company": "CoreWeave",
+      "title": "Software Engineer, Inference",
+      "url": "https://jobright.ai/jobs/info/6adf9e6d9a8c91d5c3587547",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1795091986,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afca47794232f5ac42d05a3",
+      "company": "Roblox",
+      "title": "Software Engineer, Communication Safety",
+      "url": "https://jobright.ai/jobs/info/6afca47794232f5ac42d05a3",
+      "location": "San Mateo, CA",
+      "datePosted": 1795091986,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff5bf6b88323bd981be238",
+      "company": "Ortelan",
+      "title": "Full Stack Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff5bf6b88323bd981be238",
+      "location": "United States",
+      "datePosted": 1795091318,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff5b72c1c02a9acd80b23c",
+      "company": "Red Arch Solutions",
+      "title": "Jr. Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff5b72c1c02a9acd80b23c",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1795091186,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff595b72b9be3685290d05",
+      "company": "Shift Technology",
+      "title": "Data Scientist / Engineer (Healthcare Payment Integrity)",
+      "url": "https://jobright.ai/jobs/info/6aff595b72b9be3685290d05",
+      "location": "United States",
+      "datePosted": 1795090651,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff572597dcc4fc8dcab128",
+      "company": "Microsoft",
+      "title": "Software Engineer- CTJ- Poly",
+      "url": "https://jobright.ai/jobs/info/6aff572597dcc4fc8dcab128",
+      "location": "Reston, VA; Redmond, WA",
+      "datePosted": 1795090085,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -36,7 +113,7 @@
       "datePosted": 1795088760,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff4854aea17e3f50eaf48f",
@@ -377,7 +454,7 @@
       "datePosted": 1795080240,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff2f5272b9be368528f514",
@@ -606,83 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
       "location": "Marietta, GA",
       "datePosted": 1795075349,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0dc6d67c31ab34899ded3",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae0dc6d67c31ab34899ded3",
-      "location": "Fort Worth, TX; Marietta, GA",
-      "datePosted": 1795075312,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a905ab20bd89e205d249c9f",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
-      "location": "Offutt Air Force Base, NE",
-      "datePosted": 1795075307,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1e3c81aaffa49f737e8cc",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3c81aaffa49f737e8cc",
-      "location": "Fort Worth, TX",
-      "datePosted": 1795075304,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe04058cffea7c97c8f535",
-      "company": "Lockheed Martin",
-      "title": "Embedded Software Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6afe04058cffea7c97c8f535",
-      "location": "Littleton, CO",
-      "datePosted": 1795075300,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af620dbf10ae27369e16d9d",
-      "company": "Lockheed Martin",
-      "title": "Software Engineering- Intern",
-      "url": "https://jobright.ai/jobs/info/6af620dbf10ae27369e16d9d",
-      "location": "Uniondale, NY",
-      "datePosted": 1795075300,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afba2d106c0aac84dd97b3a",
-      "company": "Lockheed Martin",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6afba2d106c0aac84dd97b3a",
-      "location": "Moorestown, NJ",
-      "datePosted": 1795075300,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
-      "location": "Littleton, CO",
-      "datePosted": 1795075300,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
