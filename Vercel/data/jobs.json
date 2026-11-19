@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T02:50:17Z",
-  "totalOpen": 1534,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-11-19T03:00:21Z",
+  "totalOpen": 1533,
+  "totalNewgrad": 237,
   "totalOther": 1296,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe5767758942b6422b947d",
+      "company": "Tesla",
+      "title": "Internship, Embedded Software Engineer, Thermal Systems (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6afe5767758942b6422b947d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795024615,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afe3e78f3e7976cc610d588",
@@ -58,7 +69,7 @@
       "datePosted": 1795023216,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afe511ef3e7976cc610dca9",
@@ -683,17 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6aea61ca1ba298c777772574",
       "location": "Mountain View, CA",
       "datePosted": 1795005610,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe03d80cde47528ec10ebc",
-      "company": "L3Harris",
-      "title": "Associate, Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6afe03d80cde47528ec10ebc",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795003224,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
