@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-19T00:00:21Z",
-  "totalOpen": 1528,
-  "totalNewgrad": 230,
-  "totalOther": 1298,
+  "generatedAt": "2026-11-19T00:10:20Z",
+  "totalOpen": 1533,
+  "totalNewgrad": 233,
+  "totalOther": 1300,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
+      "company": "Zoox",
+      "title": "Contract Student Worker - Software Engineer - 40hrs/wk",
+      "url": "https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29/apply",
+      "location": "Foster City, CA",
+      "datePosted": 1795045791,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:e529c65c-8dcb-4357-b569-f601c04b1677",
       "company": "Microsoft",
@@ -15,6 +26,94 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "simplify:3966d53c-f47c-411d-add7-e02180c0f986",
+      "company": "Anduril",
+      "title": "Business Systems Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007",
+      "location": "Costa Mesa, CA",
+      "datePosted": 1795020329,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afe320b758942b6422b86f5",
+      "company": "Adyen",
+      "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
+      "url": "https://jobright.ai/jobs/info/6afe320b758942b6422b86f5",
+      "location": "Chicago, IL",
+      "datePosted": 1795015051,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2f455326574570a00402c",
+      "company": "Peraton",
+      "title": "Summer 2027 Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ab2f455326574570a00402c",
+      "location": "Herndon, VA; Blacksburg, VA",
+      "datePosted": 1795014677,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afe069d758942b6422b69f4",
+      "company": "Valeris",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6afe069d758942b6422b69f4",
+      "location": "Louisville, KY",
+      "datePosted": 1795014449,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afe2f76f170d82b396725c1",
+      "company": "Mercury Insurance",
+      "title": "Data Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afe2f76f170d82b396725c1",
+      "location": "United States",
+      "datePosted": 1795014390,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afe052a758942b6422b68df",
+      "company": "Amentum",
+      "title": "C/C++ Software Developer",
+      "url": "https://jobright.ai/jobs/info/6afe052a758942b6422b68df",
+      "location": "Dahlgren, VA",
+      "datePosted": 1795014097,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afe2e2cf170d82b3967241f",
+      "company": "StudyArena",
+      "title": "Research Intern, Agent Experience \u00b7 Student Jobs",
+      "url": "https://jobright.ai/jobs/info/6afe2e2cf170d82b3967241f",
+      "location": "San Francisco, CA",
+      "datePosted": 1795014060,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afdf964f170d82b39670167",
+      "company": "AMERICAN SYSTEMS",
+      "title": "Java Developer l",
+      "url": "https://jobright.ai/jobs/info/6afdf964f170d82b39670167",
+      "location": "Folsom, CA; Lakewood, CO",
+      "datePosted": 1795013894,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afe2c01f3e7976cc610cc8b",
@@ -34,6 +133,17 @@
       "url": "https://jobright.ai/jobs/info/6afe2af2f170d82b3967220d",
       "location": "San Jose, CA",
       "datePosted": 1795013234,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
+      "location": "Tampa, FL",
+      "datePosted": 1795013113,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -67,17 +177,6 @@
       "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
       "location": "Ashburn, VA",
       "datePosted": 1795012512,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
-      "location": "Tampa, FL",
-      "datePosted": 1795012184,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -122,6 +221,17 @@
       "url": "https://jobright.ai/jobs/info/6afe23560324c008a17e497b",
       "location": "Rochester, MN",
       "datePosted": 1795011286,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afde3c4758942b6422b50d7",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Software Engineer (AI/ML)",
+      "url": "https://jobright.ai/jobs/info/6afde3c4758942b6422b50d7",
+      "location": "Austin, TX",
+      "datePosted": 1795011180,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -369,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afdf96a8cffea7c97c8ef1f",
-      "company": "AMERICAN SYSTEMS",
-      "title": "Java Developer l",
-      "url": "https://jobright.ai/jobs/info/6afdf96a8cffea7c97c8ef1f",
-      "location": "Folsom, CA; Lakewood, CO",
-      "datePosted": 1795000554,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afdf963758942b6422b620a",
       "company": "AMERICAN SYSTEMS",
       "title": "Software Engineer/Developer",
@@ -595,83 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6afdcce88cffea7c97c8ce0b",
       "location": "Newark, DE",
       "datePosted": 1794995688,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a63c950e8d8d22e3292aabb",
-      "company": "PDT Partners",
-      "title": "Summer 2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a63c950e8d8d22e3292aabb",
-      "location": "New York, NY",
-      "datePosted": 1794995522,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa9a46b28e24cb38513b3d3",
-      "company": "NOV",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aa9a46b28e24cb38513b3d3",
-      "location": "Houston, TX",
-      "datePosted": 1794995192,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afde4388cffea7c97c8df66",
-      "company": "Conifer Health Solutions",
-      "title": "Software Developer Intern - Summer 2027 - Onsite in Dallas, TX",
-      "url": "https://jobright.ai/jobs/info/6afde4388cffea7c97c8df66",
-      "location": "Dallas, TX",
-      "datePosted": 1794995128,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afde3c4758942b6422b50d7",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship - Software Engineer (AI/ML)",
-      "url": "https://jobright.ai/jobs/info/6afde3c4758942b6422b50d7",
-      "location": "Austin, TX",
-      "datePosted": 1794995012,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afde3b00cde47528ec0f7f6",
-      "company": "Twilio",
-      "title": "Software Engineer, Platform Access (L2)",
-      "url": "https://jobright.ai/jobs/info/6afde3b00cde47528ec0f7f6",
-      "location": "United States",
-      "datePosted": 1794994992,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa16835500b01124c77c797",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Product Security Engineer)",
-      "url": "https://jobright.ai/jobs/info/6aa16835500b01124c77c797",
-      "location": "Vienna, VA",
-      "datePosted": 1794994897,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afdbdb4f170d82b3966d83c",
-      "company": "Stryker",
-      "title": "Software Developer in Test",
-      "url": "https://jobright.ai/jobs/info/6afdbdb4f170d82b3966d83c",
-      "location": "Portage, MI",
-      "datePosted": 1794994573,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1299,28 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/997597222780035",
       "location": "Burlingame, CA, Menlo Park, CA, Sunnyvale, CA",
       "datePosted": 1794352756,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:dda69a41-7bb7-4af7-8916-fb802635f0bb",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Connectivity Platform and Product",
-      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743/apply",
-      "location": "NYC",
-      "datePosted": 1794352141,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8294c7c7-66b5-4770-b125-1ad606214411",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Connectivity Platform - Product",
-      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply",
-      "location": "Denver, CO",
-      "datePosted": 1794352139,
       "source": "aggregator",
       "season": null,
       "isNew": false
