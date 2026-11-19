@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-11-19T15:10:16Z",
-  "totalOpen": 1532,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-11-19T15:20:21Z",
+  "totalOpen": 1533,
+  "totalNewgrad": 235,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6ae27b391f9d9308370b286c",
-      "company": "ASML",
-      "title": "Internship- Software Development Engineer in Test",
-      "url": "https://jobright.ai/jobs/info/6ae27b391f9d9308370b286c",
-      "location": "San Diego, CA",
-      "datePosted": 1795069339,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
     {
       "id": "newgrad-jobs:6aff0531c1c02a9acd807d98",
       "company": "Torentify",
@@ -39,28 +28,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac57b568ff3fb9b3bc8a0e1",
-      "company": "F5",
-      "title": "Software Development Engineer Intern (Seattle, WA)",
-      "url": "https://jobright.ai/jobs/info/6ac57b568ff3fb9b3bc8a0e1",
-      "location": "Seattle, WA",
-      "datePosted": 1795069031,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb1825fc4e7ae3dbe343",
-      "company": "Verkada",
-      "title": "Frontend Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb1825fc4e7ae3dbe343",
-      "location": "San Mateo, CA",
-      "datePosted": 1795068963,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
       "id": "newgrad-jobs:6aa8a7bd58d9ccf2690b599d",
       "company": "SpaceX",
       "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
@@ -78,17 +45,6 @@
       "url": "https://jobright.ai/jobs/info/6a8ddb0ea5639a4810328145",
       "location": "San Mateo, CA",
       "datePosted": 1795068064,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8ddb48a5639a4810328164",
-      "company": "Verkada",
-      "title": "Embedded Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb48a5639a4810328164",
-      "location": "San Mateo, CA",
-      "datePosted": 1795068005,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -127,34 +83,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a8ddb11a5639a4810328147",
-      "company": "Verkada",
-      "title": "Backend Software Engineering Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6a8ddb11a5639a4810328147",
-      "location": "San Mateo, CA",
-      "datePosted": 1795066555,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae21c446679108488c478f5",
       "company": "Guidehouse",
       "title": "Junior Developer",
       "url": "https://jobright.ai/jobs/info/6ae21c446679108488c478f5",
       "location": "Scott Air Force Base, IL",
       "datePosted": 1795065966,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1795065909,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -267,7 +201,7 @@
       "datePosted": 1795062065,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:012cbd61-9586-48d1-ad35-dbd516313c1b",
@@ -309,6 +243,17 @@
       "url": "https://jobright.ai/jobs/info/6a5528b6377f983ce8a982e2",
       "location": "San Francisco, CA",
       "datePosted": 1795061301,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1795060933,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -501,10 +446,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbe744d6acfd3dd29fa8ce",
+      "id": "newgrad-jobs:6aa9b81aeff87f571fc9af06",
       "company": "Q2",
       "title": "2027 Summer Internship - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6abbe744d6acfd3dd29fa8ce",
+      "url": "https://jobright.ai/jobs/info/6aa9b81aeff87f571fc9af06",
       "location": "Austin, TX; Cary, NC",
       "datePosted": 1795055905,
       "source": "newgrad-jobs",
@@ -710,6 +655,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6afe3e78f3e7976cc610d588",
+      "company": "Amazon",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afe3e78f3e7976cc610d588",
+      "location": "San Francisco, CA",
+      "datePosted": 1795045581,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe9e5e959c7033f184c4b6",
+      "company": "Sentient Digital, Inc.",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6afe9e5e959c7033f184c4b6",
+      "location": "Brunswick, ME",
+      "datePosted": 1795042782,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:e529c65c-8dcb-4357-b569-f601c04b1677",
       "company": "Microsoft",
       "title": "Research Intern, Computer Vision and Deep Learning",
@@ -718,6 +685,39 @@
       "datePosted": 1795040940,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae24b7deb7e8f715a60c635",
+      "company": "Genesis Molecular AI",
+      "title": "Software Engineer Intern - 2027",
+      "url": "https://jobright.ai/jobs/info/6ae24b7deb7e8f715a60c635",
+      "location": "San Mateo, CA; New York, NY",
+      "datePosted": 1795040592,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
+      "company": "Boeing",
+      "title": "Software Engineer (Associate or Experienced)",
+      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
+      "location": "Kent, WA",
+      "datePosted": 1795037340,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe1ef1f3e7976cc610c143",
+      "company": "Roche",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afe1ef1f3e7976cc610c143",
+      "location": "Boston, MA",
+      "datePosted": 1795036700,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
