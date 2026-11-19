@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-19T20:10:26Z",
-  "totalOpen": 1530,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-11-19T20:20:16Z",
+  "totalOpen": 1529,
+  "totalNewgrad": 232,
   "totalOther": 1297,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aff503e97dcc4fc8dcaae0b",
+      "company": "VertoTech",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6aff503e97dcc4fc8dcaae0b",
+      "location": "United States",
+      "datePosted": 1795088318,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aff4fdb72b9be3685290876",
       "company": "Esri",
@@ -14,7 +25,7 @@
       "datePosted": 1795088219,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff4c4d72b9be3685290607",
@@ -23,6 +34,28 @@
       "url": "https://jobright.ai/jobs/info/6aff4c4d72b9be3685290607",
       "location": "United States",
       "datePosted": 1795087309,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff4c10b88323bd981bd9d7",
+      "company": "Allied Consultants, Inc.",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aff4c10b88323bd981bd9d7",
+      "location": "Austin, TX",
+      "datePosted": 1795087248,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aa95ee3eff87f571fc995fb",
+      "company": "Analog Devices",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aa95ee3eff87f571fc995fb",
+      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
+      "datePosted": 1795086761,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -47,17 +80,6 @@
       "datePosted": 1795086296,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6aff4854aea17e3f50eaf48f",
-      "company": "Allied Consultants, Inc.",
-      "title": "AI/ML Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aff4854aea17e3f50eaf48f",
-      "location": "Austin, TX",
-      "datePosted": 1795086292,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -80,7 +102,7 @@
       "datePosted": 1795085160,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff4323b88323bd981bd5b4",
@@ -450,7 +472,7 @@
       "company": "Garmin",
       "title": "Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
-      "location": "Tulsa, OK",
+      "location": "Cary, NC; Tulsa, OK",
       "datePosted": 1795076990,
       "source": "newgrad-jobs",
       "season": null,
@@ -622,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af224b68cbcfef4a59d996d",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af224b68cbcfef4a59d996d",
-      "location": "Fort Worth, TX",
-      "datePosted": 1795075300,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
@@ -644,23 +655,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ada2e92e4b94611ab859c3b",
-      "company": "AISIN Manufacturing Illinois",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ada2e92e4b94611ab859c3b",
-      "location": "Marion, IL",
-      "datePosted": 1795075142,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe38bb0324c008a17e5875",
-      "company": "Microsoft",
-      "title": "Research Intern - Computer Vision and Deep Learning",
-      "url": "https://jobright.ai/jobs/info/6afe38bb0324c008a17e5875",
-      "location": "Redmond, WA",
-      "datePosted": 1795074692,
+      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
+      "location": "Fort Worth, TX",
+      "datePosted": 1795075300,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
