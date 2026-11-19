@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19T22:50:16Z",
-  "totalOpen": 1538,
+  "generatedAt": "2026-11-19T23:00:21Z",
+  "totalOpen": 1541,
   "totalNewgrad": 241,
-  "totalOther": 1297,
+  "totalOther": 1300,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,7 +36,7 @@
       "datePosted": 1795097399,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aecfa243967d67f635a17cd",
@@ -47,7 +47,7 @@
       "datePosted": 1795096989,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff71e26f4ca73dfeb442f3",
@@ -58,7 +58,7 @@
       "datePosted": 1795096930,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff6e8f6f4ca73dfeb441ff",
@@ -69,7 +69,7 @@
       "datePosted": 1795096079,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff6e316f4ca73dfeb441e0",
@@ -80,7 +80,7 @@
       "datePosted": 1795095985,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff6e31b47661ae4a62c8a2",
@@ -91,7 +91,7 @@
       "datePosted": 1795095985,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff6e2cc1c02a9acd80be65",
@@ -102,7 +102,7 @@
       "datePosted": 1795095980,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff697e6f4ca73dfeb44018",
@@ -721,6 +721,39 @@
       "isNew": false
     },
     {
+      "id": "simplify:f7292ae6-b467-4ecf-b1be-ce2df3d65e34",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern, Database Engineering",
+      "url": "https://go.vansh.nyc/1Dp",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1795046400,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:3cc9c507-1a42-4de3-b0c0-093e952dace4",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern, Core Infrastructure & Security",
+      "url": "https://go.vansh.nyc/1Dq",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1795046400,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:363d73ec-815f-4c95-bb0f-b34587572a05",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern, AI/ML",
+      "url": "https://go.vansh.nyc/1Dr",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1795046400,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
       "company": "Zoox",
       "title": "Contract Student Worker - Software Engineer - 40hrs/wk",
@@ -1287,39 +1320,6 @@
       "title": "Software Engineer New Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047",
       "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, NYC, Bellevue, WA",
-      "datePosted": 1794355200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ca395a24-b9ab-4e88-8638-0a2610af77fe",
-      "company": "Adobe",
-      "title": "Data Scientist New Grad",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462",
-      "location": "San Jose, CA",
-      "datePosted": 1794355200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
-      "company": "Shield AI",
-      "title": "Engineer 2 New Grad - Software - Perception",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-      "location": "United States",
-      "datePosted": 1794355200,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:040ae0b9-6d76-4faf-9fbb-83d3353f714f",
-      "company": "Salesforce",
-      "title": "New Grad: Software Engineering AMTS",
-      "url": "https://go.vansh.nyc/1uI",
-      "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN, San Francisco, CA, Dallas, TX, New York, NY, Bellevue, WA",
       "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
