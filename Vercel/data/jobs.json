@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-19T19:10:16Z",
-  "totalOpen": 1536,
-  "totalNewgrad": 238,
+  "generatedAt": "2026-11-19T19:20:19Z",
+  "totalOpen": 1533,
+  "totalNewgrad": 235,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aff32821c42ea8f6b9fe4d2",
+      "company": "Amperity",
+      "title": "Intern - Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff32821c42ea8f6b9fe4d2",
+      "location": "Seattle, WA",
+      "datePosted": 1795083783,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6aff3cadc1c02a9acd80a09f",
       "company": "Holland America Line",
@@ -14,18 +25,18 @@
       "datePosted": 1795083309,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a2d8018fc0644749054c588",
-      "company": "Rundoo",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a2d8018fc0644749054c588",
-      "location": "San Mateo, CA",
-      "datePosted": 1795082917,
+      "id": "newgrad-jobs:6aff3a65c1c02a9acd809eb2",
+      "company": "Ralliant",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aff3a65c1c02a9acd809eb2",
+      "location": "Beaverton, OR",
+      "datePosted": 1795082725,
       "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff24571c42ea8f6b9fd777",
@@ -36,6 +47,17 @@
       "datePosted": 1795082576,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff37071c42ea8f6b9fe63c",
+      "company": "Panasonic Energy Corporation of North America",
+      "title": "MTS I, Software\u200b",
+      "url": "https://jobright.ai/jobs/info/6aff37071c42ea8f6b9fe63c",
+      "location": "Irvine, CA",
+      "datePosted": 1795081863,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -61,39 +83,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a30f2e1524fd5657fe12995",
-      "company": "Ascensus",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a30f2e1524fd5657fe12995",
-      "location": "Dresher, PA; Philadelphia, PA",
-      "datePosted": 1795081201,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ac45d758ff3fb9b3bc854ff",
-      "company": "MANTECH",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ac45d758ff3fb9b3bc854ff",
-      "location": "Saint Inigoes, MD",
-      "datePosted": 1795080780,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff32821c42ea8f6b9fe4d2",
-      "company": "Amperity",
-      "title": "Intern - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff32821c42ea8f6b9fe4d2",
-      "location": "Seattle, WA",
-      "datePosted": 1795080706,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aff3261aea17e3f50eae797",
       "company": "GM Financial",
       "title": "Intern - Software Development Engineer",
@@ -114,6 +103,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6adfd11fc5c64fa3d9cbfd9a",
+      "company": "Health Care Service Corporation",
+      "title": "Early Careers \u2013 Product Engineering Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6adfd11fc5c64fa3d9cbfd9a",
+      "location": "Chicago, IL; Richardson, TX",
+      "datePosted": 1795080532,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff31a9aea17e3f50eae703",
@@ -168,7 +168,7 @@
       "datePosted": 1795080240,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff09f41c42ea8f6b9fc723",
@@ -318,7 +318,7 @@
       "company": "Garmin",
       "title": "Software Engineering Intern",
       "url": "https://jobright.ai/jobs/info/6aa3d3df4238ea18d430e961",
-      "location": "Tulsa, OK",
+      "location": "Cary, NC; Tulsa, OK",
       "datePosted": 1795076990,
       "source": "newgrad-jobs",
       "season": null,
@@ -490,10 +490,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
+      "id": "newgrad-jobs:6af224b68cbcfef4a59d996d",
       "company": "Lockheed Martin",
       "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
+      "url": "https://jobright.ai/jobs/info/6af224b68cbcfef4a59d996d",
       "location": "Fort Worth, TX",
       "datePosted": 1795075300,
       "source": "newgrad-jobs",
@@ -501,10 +501,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
+      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
+      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
       "location": "King of Prussia, PA",
       "datePosted": 1795075300,
       "source": "newgrad-jobs",
@@ -534,21 +534,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
+      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
-      "location": "Chandler, AZ",
+      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
+      "location": "Olathe, KS",
       "datePosted": 1795074520,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8ab296d0edc2d91b06d71",
+      "id": "newgrad-jobs:6aa85e6d930bff471a2a6e41",
       "company": "Tencent",
       "title": "Cyber Security Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa8ab296d0edc2d91b06d71",
+      "url": "https://jobright.ai/jobs/info/6aa85e6d930bff471a2a6e41",
       "location": "Palo Alto, CA",
       "datePosted": 1795073931,
       "source": "newgrad-jobs",
