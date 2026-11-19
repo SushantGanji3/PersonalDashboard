@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-19T03:00:21Z",
-  "totalOpen": 1533,
+  "generatedAt": "2026-11-19T03:10:16Z",
+  "totalOpen": 1535,
   "totalNewgrad": 237,
-  "totalOther": 1296,
+  "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:e8bbf313-db80-4a1b-b1fd-6c7cb8eb3583",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
+      "url": "https://www.metacareers.com/jobs/994911809842621",
+      "location": "Redmond, WA",
+      "datePosted": 1795055981,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:05c2c1f1-af4c-4299-9e8a-f24cfcfa0927",
+      "company": "Qualcomm",
+      "title": "Embedded Audio Software Engineer - Software Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722197774",
+      "location": "San Diego, CA",
+      "datePosted": 1795055909,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
       "company": "Zoox",
@@ -36,7 +58,7 @@
       "datePosted": 1795024615,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afe3e78f3e7976cc610d588",
@@ -1299,28 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1100150399514897",
       "location": "Sunnyvale, CA",
       "datePosted": 1794352757,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:626d4952-bced-472c-a267-7aaf06e5a54f",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Foundation Model Optimization",
-      "url": "https://www.metacareers.com/jobs/997597222780035",
-      "location": "Burlingame, CA, Menlo Park, CA, Sunnyvale, CA",
-      "datePosted": 1794352756,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:dda69a41-7bb7-4af7-8916-fb802635f0bb",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Connectivity Platform and Product",
-      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743/apply",
-      "location": "NYC",
-      "datePosted": 1794352141,
       "source": "aggregator",
       "season": null,
       "isNew": false
