@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:40:19Z",
+  "generatedAt": "2026-11-19T11:50:16Z",
   "totalOpen": 1538,
   "totalNewgrad": 239,
   "totalOther": 1299,
@@ -13,6 +13,17 @@
       "location": "Littleton, CO",
       "datePosted": 1795061910,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe48a30cde47528ec13775",
+      "company": "Northwestern Mutual",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afe48a30cde47528ec13775",
+      "location": "Milwaukee, WI",
+      "datePosted": 1795056249,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -54,7 +65,7 @@
       "company": "Q2",
       "title": "2027 Summer Internship - Machine Learning Engineer",
       "url": "https://jobright.ai/jobs/info/6aa9b81aeff87f571fc9af06",
-      "location": "Austin, TX",
+      "location": "Austin, TX; Cary, NC",
       "datePosted": 1795055905,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
@@ -94,26 +105,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afe48a30cde47528ec13775",
-      "company": "Northwestern Mutual",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6afe48a30cde47528ec13775",
-      "location": "Milwaukee, WI",
-      "datePosted": 1795052560,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae23d0a1f9d9308370afd1d",
+      "id": "newgrad-jobs:6ae23c5105a39c3e2c71826b",
       "company": "AMD",
       "title": "Distributed Systems Software Engineer, Collectives",
-      "url": "https://jobright.ai/jobs/info/6ae23d0a1f9d9308370afd1d",
+      "url": "https://jobright.ai/jobs/info/6ae23c5105a39c3e2c71826b",
       "location": "San Jose, CA; Austin, TX",
       "datePosted": 1795052199,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6afe25478cffea7c97c908f8",
@@ -270,10 +270,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
+      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6af63621a4a5218a07e8458e",
+      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
       "location": "Kent, WA",
       "datePosted": 1795037340,
       "source": "newgrad-jobs",
