@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-19T04:20:14Z",
-  "totalOpen": 1531,
+  "generatedAt": "2026-11-19T04:30:17Z",
+  "totalOpen": 1532,
   "totalNewgrad": 233,
-  "totalOther": 1298,
+  "totalOther": 1299,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:012cbd61-9586-48d1-ad35-dbd516313c1b",
+      "company": "Lockheed Martin",
+      "title": "Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/1CH",
+      "location": "Littleton, CO",
+      "datePosted": 1795061910,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:e8bbf313-db80-4a1b-b1fd-6c7cb8eb3583",
       "company": "Meta AI",
@@ -47,6 +58,17 @@
       "datePosted": 1795040940,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe3e78f3e7976cc610d588",
+      "company": "Amazon",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afe3e78f3e7976cc610d588",
+      "location": "San Francisco, CA",
+      "datePosted": 1795030951,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -135,17 +157,6 @@
       "datePosted": 1795024615,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe3e78f3e7976cc610d588",
-      "company": "Amazon",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6afe3e78f3e7976cc610d588",
-      "location": "San Francisco, CA",
-      "datePosted": 1795024585,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1560905132724186",
       "location": "Redmond, WA",
       "datePosted": 1794352758,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:68aba6ff-9ce9-41ef-aa64-76db72db0379",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Audio Systems",
-      "url": "https://www.metacareers.com/jobs/1100150399514897",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794352757,
       "source": "aggregator",
       "season": null,
       "isNew": false
