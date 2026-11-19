@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T12:20:16Z",
-  "totalOpen": 1534,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-11-19T12:30:19Z",
+  "totalOpen": 1535,
+  "totalNewgrad": 237,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,18 @@
       "datePosted": 1795059383,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe2f76f170d82b396725c1",
+      "company": "Mercury Insurance",
+      "title": "Data Engineer I",
+      "url": "https://jobright.ai/jobs/info/6afe2f76f170d82b396725c1",
+      "location": "United States",
+      "datePosted": 1795058021,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad7c355950ef68d51843977",
@@ -36,7 +47,7 @@
       "datePosted": 1795057959,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afdc1580324c008a17e0ae0",
@@ -47,7 +58,7 @@
       "datePosted": 1795057864,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af8233acb5a5d4a77fca321",
@@ -58,7 +69,7 @@
       "datePosted": 1795056292,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afe48a30cde47528ec13775",
@@ -114,6 +125,28 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af85ded42ae65e2c8f3c515",
+      "company": "Supermicro",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af85ded42ae65e2c8f3c515",
+      "location": "San Jose, CA",
+      "datePosted": 1795055880,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac6935cd9621c5b283a997e",
+      "company": "PayPal",
+      "title": "Software Engineer - Android",
+      "url": "https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e",
+      "location": "San Jose, CA; Austin, TX",
+      "datePosted": 1795055454,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af5fb7d79862a378dcef674",
@@ -545,10 +578,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
+      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
+      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1795019050,
       "source": "newgrad-jobs",
@@ -677,10 +710,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afe0ec80cde47528ec11603",
+      "id": "newgrad-jobs:6afe0cc4f3e7976cc610b734",
       "company": "Costco Wholesale",
       "title": "Infrastructure Engineer - LTL Fulfillment Support and Operations",
-      "url": "https://jobright.ai/jobs/info/6afe0ec80cde47528ec11603",
+      "url": "https://jobright.ai/jobs/info/6afe0cc4f3e7976cc610b734",
       "location": "Issaquah, WA",
       "datePosted": 1795016706,
       "source": "newgrad-jobs",
@@ -688,48 +721,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afe2b170cde47528ec12924",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6afe2b170cde47528ec12924",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1795015771,
+      "id": "newgrad-jobs:6afedefd97dcc4fc8dca74da",
+      "company": "J&T",
+      "title": "Software Engineer (Active TS/SCI with Full Scope Polygraph)",
+      "url": "https://jobright.ai/jobs/info/6afedefd97dcc4fc8dca74da",
+      "location": "Fort Meade, MD",
+      "datePosted": 1795016110,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afdd658758942b6422b47ae",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6afdd658758942b6422b47ae",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1795015771,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afbe3341c71d952627ef970",
-      "company": "T-Mobile",
-      "title": "Summer 2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6afbe3341c71d952627ef970",
-      "location": "Overland Park, KS; Frisco, TX",
-      "datePosted": 1795015637,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe320b758942b6422b86f5",
-      "company": "Adyen",
-      "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
-      "url": "https://jobright.ai/jobs/info/6afe320b758942b6422b86f5",
-      "location": "Chicago, IL",
-      "datePosted": 1795015051,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "simplify:73863aac-542c-4b1b-a529-014e8b839a56",
