@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20T23:00:25Z",
-  "totalOpen": 1531,
-  "totalNewgrad": 227,
-  "totalOther": 1304,
+  "generatedAt": "2026-11-20T23:10:16Z",
+  "totalOpen": 1536,
+  "totalNewgrad": 233,
+  "totalOther": 1303,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -14,7 +14,7 @@
       "datePosted": 1795214927,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:c1f70d5f-5bf6-460b-a8da-482ccf71c649",
@@ -72,6 +72,149 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af501f41b2c5dcbbcd66242",
+      "company": "Accenture",
+      "title": "Custom Software Engineer - 6588434",
+      "url": "https://jobright.ai/jobs/info/6af501f41b2c5dcbbcd66242",
+      "location": "Memphis, TN",
+      "datePosted": 1795183977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af6319df10ae27369e1790f",
+      "company": "Microsoft",
+      "title": "Software Engineer - Systems and Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6af6319df10ae27369e1790f",
+      "location": "Mountain View, CA",
+      "datePosted": 1795183977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa8275a82e82a31997c42f0",
+      "company": "Intuit",
+      "title": "Summer 2027: Software Engineering Intern - Full Stack",
+      "url": "https://jobright.ai/jobs/info/6aa8275a82e82a31997c42f0",
+      "location": "Mountain View, CA; San Diego, CA; New York, NY; Charlotte, NC; Atlanta, GA",
+      "datePosted": 1795183977,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
+      "company": "Meta AI",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
+      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+      "datePosted": 1795183977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afd3156c9f7ca2bdfb20ed1",
+      "company": "Airbnb",
+      "title": "Software Engineering Intern (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6afd3156c9f7ca2bdfb20ed1",
+      "location": "San Francisco, CA",
+      "datePosted": 1795183977,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b00b4b7d1fe3bc162e3e350",
+      "company": "Logistic Services International, Inc.",
+      "title": "SYSTEMS ENGINEER I",
+      "url": "https://jobright.ai/jobs/info/6b00b4b7d1fe3bc162e3e350",
+      "location": "Jacksonville, FL",
+      "datePosted": 1795183868,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aee3443d20350c7a507a88e",
+      "company": "Strategic Business Systems (SBS)",
+      "title": "Jr Software Developer - TS/SCI",
+      "url": "https://jobright.ai/jobs/info/6aee3443d20350c7a507a88e",
+      "location": "Chantilly, VA",
+      "datePosted": 1795183827,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00c4e6e0dc961959284181",
+      "company": "Eaton",
+      "title": "Junior Systems Engineer -Colorado Springs, CO",
+      "url": "https://jobright.ai/jobs/info/6b00c4e6e0dc961959284181",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1795183718,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b00c4a5d1fe3bc162e3ebca",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Top Secret",
+      "url": "https://jobright.ai/jobs/info/6b00c4a5d1fe3bc162e3ebca",
+      "location": "Reston, VA",
+      "datePosted": 1795183653,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6affe8fa3a9a0230ab025222",
+      "company": "Apple",
+      "title": "AR/VR Software Engineer - Spatial System UI, Vision Products Software",
+      "url": "https://jobright.ai/jobs/info/6affe8fa3a9a0230ab025222",
+      "location": "Boulder, CO; Sunnyvale, CA",
+      "datePosted": 1795183539,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6affb3f71126e09fee09216c",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6affb3f71126e09fee09216c",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795183539,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6affb3ed6f4ca73dfeb464ce",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6affb3ed6f4ca73dfeb464ce",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795183539,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00c3dbe0dc96195928413d",
+      "company": "Military Spouse Jobs",
+      "title": "Junior Systems Engineer -Colorado Springs, CO",
+      "url": "https://jobright.ai/jobs/info/6b00c3dbe0dc96195928413d",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1795183451,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6b00c2e50f536e0ba727702f",
       "company": "Optum",
       "title": "Software Engineer",
@@ -80,7 +223,7 @@
       "datePosted": 1795183205,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
@@ -113,7 +256,7 @@
       "datePosted": 1795182780,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af7d7544ddfc50167b9451e",
@@ -122,17 +265,6 @@
       "url": "https://jobright.ai/jobs/info/6af7d7544ddfc50167b9451e",
       "location": "Santa Monica, CA",
       "datePosted": 1795182472,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b00bedb3a9a0230ab02a4d3",
-      "company": "TalkTron",
-      "title": "Software Engineer Internship",
-      "url": "https://jobright.ai/jobs/info/6b00bedb3a9a0230ab02a4d3",
-      "location": "United States",
-      "datePosted": 1795182171,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -168,7 +300,7 @@
       "datePosted": 1795182056,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b00b68edfa58e4c244dddee",
@@ -534,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aee3443d20350c7a507a88e",
-      "company": "Strategic Business Systems (SBS)",
-      "title": "Jr Software Developer - TS/SCI",
-      "url": "https://jobright.ai/jobs/info/6aee3443d20350c7a507a88e",
-      "location": "Chantilly, VA",
-      "datePosted": 1795166675,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac83866fcdafb60c6a48202",
       "company": "SpaceX",
       "title": "Software Engineer (AI Data Engineering)",
@@ -578,10 +699,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afe052a758942b6422b68df",
+      "id": "newgrad-jobs:6b007ab53a9a0230ab0279f5",
       "company": "Amentum",
       "title": "C/C++ Software Developer",
-      "url": "https://jobright.ai/jobs/info/6afe052a758942b6422b68df",
+      "url": "https://jobright.ai/jobs/info/6b007ab53a9a0230ab0279f5",
       "location": "Dahlgren, VA",
       "datePosted": 1795165715,
       "source": "newgrad-jobs",
@@ -606,127 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6aff4eb9b88323bd981bdbe1",
       "location": "Huntsville, AL",
       "datePosted": 1795165301,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aede36dbd2f33eea72d4c7d",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
-      "url": "https://jobright.ai/jobs/info/6aede36dbd2f33eea72d4c7d",
-      "location": "San Francisco, CA",
-      "datePosted": 1795165165,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab697e29d4843569fe4e11f",
-      "company": "CoreWeave",
-      "title": "Software Engineer, Inference",
-      "url": "https://jobright.ai/jobs/info/6ab697e29d4843569fe4e11f",
-      "location": "Sunnyvale, CA; Bellevue, WA",
-      "datePosted": 1795165031,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aedea795c81f621d310f5d3",
-      "company": "Auria Space",
-      "title": "Jr-Mid Systems Engineer - Sentinel",
-      "url": "https://jobright.ai/jobs/info/6aedea795c81f621d310f5d3",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795164810,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae501a6d45dc30fb7d3464f",
-      "company": "DCS Corp",
-      "title": "Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae501a6d45dc30fb7d3464f",
-      "location": "Bedford, MA; Concord, MA",
-      "datePosted": 1795164475,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b007956e0dc961959281334",
-      "company": "Ralliant",
-      "title": "Software Engineering (AI Building) Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6b007956e0dc961959281334",
-      "location": "Beaverton, OR",
-      "datePosted": 1795164374,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6abd66684ac55253f5d5d3a7",
-      "company": "Enterprise Mobility",
-      "title": "Intern - Software Engineer, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6abd66684ac55253f5d5d3a7",
-      "location": "St. Louis, MO; Brentwood, MO; Richmond Heights, MO; Clayton, MO; Maplewood, MO",
-      "datePosted": 1795164018,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0016f8d1fe3bc162e39f86",
-      "company": "Trener Robotics",
-      "title": "Robotics Engineer/ Lab Technician (Intern)",
-      "url": "https://jobright.ai/jobs/info/6b0016f8d1fe3bc162e39f86",
-      "location": "San Jose, CA",
-      "datePosted": 1795163651,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a71335102d93145bf88ea02",
-      "company": "TikTok",
-      "title": "Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6a71335102d93145bf88ea02",
-      "location": "San Jose, CA",
-      "datePosted": 1795163572,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac90374d4a5a0370741032b",
-      "company": "GCM Grosvenor",
-      "title": "2027 Software Engineering Summer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac90374d4a5a0370741032b",
-      "location": "Chicago, IL",
-      "datePosted": 1795163022,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb64f5317abe715a264314",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6afb64f5317abe715a264314",
-      "location": "Manassas, VA",
-      "datePosted": 1795162213,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae0dc6d67c31ab34899ded3",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae0dc6d67c31ab34899ded3",
-      "location": "Fort Worth, TX; Marietta, GA",
-      "datePosted": 1795162201,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
