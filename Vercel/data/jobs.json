@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-20T20:50:16Z",
-  "totalOpen": 1529,
+  "generatedAt": "2026-11-20T21:00:21Z",
+  "totalOpen": 1530,
   "totalNewgrad": 229,
-  "totalOther": 1300,
+  "totalOther": 1301,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:efbf23fa-78fc-434a-a56c-538a08ce390f",
+      "company": "Boeing",
+      "title": "Software Engineer \u2013 Test & Verification",
+      "url": "https://go.vansh.nyc/1EZ",
+      "location": "Tinker AFB, OK",
+      "datePosted": 1795207098,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:0e961056-83ab-48ac-b418-5d457f9c4031",
       "company": "L3Harris",
@@ -36,7 +47,7 @@
       "datePosted": 1795176408,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b00a193e0dc961959282b50",
@@ -47,7 +58,7 @@
       "datePosted": 1795174675,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af825ed42ae65e2c8f3b2fc",
@@ -58,7 +69,7 @@
       "datePosted": 1795173216,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b009b7f89d8ca1e84957c2d",
@@ -80,7 +91,7 @@
       "datePosted": 1795173029,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af54c19a3cce217be6c9274",
@@ -91,7 +102,7 @@
       "datePosted": 1795172796,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b009a333a9a0230ab028d68",
@@ -1310,17 +1321,6 @@
       "url": "https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference",
       "location": "Cupertino, CA",
       "datePosted": 1794438290,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:54a75919-6e10-4a6a-8257-af5ebf85bf60",
-      "company": "Comcast",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529",
-      "location": "Universal City, LA",
-      "datePosted": 1794437779,
       "source": "aggregator",
       "season": null,
       "isNew": false
