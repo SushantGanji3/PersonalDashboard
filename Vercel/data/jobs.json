@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T00:10:17Z",
-  "totalOpen": 1551,
-  "totalNewgrad": 244,
+  "generatedAt": "2026-11-20T00:20:20Z",
+  "totalOpen": 1553,
+  "totalNewgrad": 246,
   "totalOther": 1307,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795132221,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bea86153-9907-43c5-afce-d4d63988acef",
@@ -58,7 +58,7 @@
       "datePosted": 1795102741,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff85cf72b9be3685292d38",
@@ -69,7 +69,7 @@
       "datePosted": 1795102031,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
@@ -83,6 +83,61 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aff697e6f4ca73dfeb44018",
+      "company": "Veolia",
+      "title": "Manufacturing Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aff697e6f4ca73dfeb44018",
+      "location": "Boulder, CO",
+      "datePosted": 1795101500,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5529e1f2c46727285f02da",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a5529e1f2c46727285f02da",
+      "location": "Washington, DC",
+      "datePosted": 1795101219,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5fd8fa8c7fd835513bb729",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a5fd8fa8c7fd835513bb729",
+      "location": "Denver, CO",
+      "datePosted": 1795101214,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a58747972fe7a7b98dce6e6",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Defense Tech",
+      "url": "https://jobright.ai/jobs/info/6a58747972fe7a7b98dce6e6",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795101208,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
+      "location": "New York, NY; Palo Alto, CA",
+      "datePosted": 1795101205,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aecd7aaa2661405dc2c6d61",
       "company": "Palantir",
       "title": "Software Engineer, Internship - Sovereign AI Systems",
@@ -91,7 +146,7 @@
       "datePosted": 1795101203,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
@@ -105,6 +160,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
+      "company": "Palantir",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
+      "location": "New York, NY",
+      "datePosted": 1795101200,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a42d0df6a9c2774b3fa7686",
+      "company": "Palantir",
+      "title": "Privacy and Civil Liberties Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a42d0df6a9c2774b3fa7686",
+      "location": "New York, NY",
+      "datePosted": 1795101196,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aff81fcb47661ae4a62d994",
       "company": "ECS",
       "title": "Jr Data Engineer",
@@ -113,7 +190,7 @@
       "datePosted": 1795101052,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff800add029d798066d13a",
@@ -270,17 +347,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aff7734c1c02a9acd80c285",
-      "company": "Tech World Networking",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6aff7734c1c02a9acd80c285",
-      "location": "Rochester, NY",
-      "datePosted": 1795098292,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aff04eb97dcc4fc8dca7e31",
       "company": "Intelliforce-IT Solutions Group, LLC.",
       "title": "Junior Software Engineer (Prime)",
@@ -366,17 +432,6 @@
       "datePosted": 1795095980,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff697e6f4ca73dfeb44018",
-      "company": "Veolia",
-      "title": "Manufacturing Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aff697e6f4ca73dfeb44018",
-      "location": "Boulder, CO",
-      "datePosted": 1795094782,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -655,61 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aff595b72b9be3685290d05",
-      "company": "Shift Technology",
-      "title": "Data Scientist / Engineer (Healthcare Payment Integrity)",
-      "url": "https://jobright.ai/jobs/info/6aff595b72b9be3685290d05",
-      "location": "United States",
-      "datePosted": 1795090651,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff572597dcc4fc8dcab128",
-      "company": "Microsoft",
-      "title": "Software Engineer- CTJ- Poly",
-      "url": "https://jobright.ai/jobs/info/6aff572597dcc4fc8dcab128",
-      "location": "Reston, VA; Redmond, WA",
-      "datePosted": 1795090085,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff51f81c42ea8f6b9ff694",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6aff51f81c42ea8f6b9ff694",
-      "location": "Fort Worth, TX; Orlando, FL; Owego, NY",
-      "datePosted": 1795088760,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff4854aea17e3f50eaf48f",
-      "company": "Allied Consultants, Inc.",
-      "title": "AI/ML Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aff4854aea17e3f50eaf48f",
-      "location": "Austin, TX",
-      "datePosted": 1795088692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff4fdb72b9be3685290876",
-      "company": "Esri",
-      "title": "Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff4fdb72b9be3685290876",
-      "location": "Vienna, VA",
-      "datePosted": 1795088219,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:012cbd61-9586-48d1-ad35-dbd516313c1b",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineer",
@@ -751,7 +751,7 @@
       "datePosted": 1795046400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b4ef0d6c-f65b-48c0-b030-61b50a0eb09b",
@@ -762,7 +762,7 @@
       "datePosted": 1795046400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:00cd908d-fc5f-4712-97e8-b714c9ca0b11",
@@ -773,7 +773,7 @@
       "datePosted": 1795046400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f7292ae6-b467-4ecf-b1be-ce2df3d65e34",
