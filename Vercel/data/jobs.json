@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:50:17Z",
+  "generatedAt": "2026-11-20T02:00:20Z",
   "totalOpen": 1555,
   "totalNewgrad": 247,
   "totalOther": 1308,
@@ -69,7 +69,7 @@
       "datePosted": 1795106812,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff8a3db47661ae4a62dd11",
@@ -91,7 +91,7 @@
       "datePosted": 1795105887,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff94b71126e09fee0917a4",
@@ -102,6 +102,17 @@
       "datePosted": 1795105847,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff93ff865dbcc3f26fdc7c",
+      "company": "Tektronix",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6aff93ff865dbcc3f26fdc7c",
+      "location": "Beaverton, OR",
+      "datePosted": 1795105663,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -704,17 +715,6 @@
       "title": "Software Engineer, Agent Eval Platform",
       "url": "https://jobright.ai/jobs/info/6aea61ca1ba298c777772574",
       "location": "Mountain View, CA",
-      "datePosted": 1795093308,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae4c71977c09cb3bd4ae936",
-      "company": "IBM",
-      "title": "AI Software Engineer Intern 2027",
-      "url": "https://jobright.ai/jobs/info/6ae4c71977c09cb3bd4ae936",
-      "location": "Poughkeepsie, NY; Durham, NC; San Jose, CA",
       "datePosted": 1795093308,
       "source": "newgrad-jobs",
       "season": null,
