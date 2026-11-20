@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T21:30:18Z",
-  "totalOpen": 1531,
-  "totalNewgrad": 229,
+  "generatedAt": "2026-11-20T21:40:15Z",
+  "totalOpen": 1533,
+  "totalNewgrad": 231,
   "totalOther": 1302,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795208877,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:efbf23fa-78fc-434a-a56c-538a08ce390f",
@@ -48,6 +48,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00b2d53a9a0230ab029cf8",
+      "company": "SpaceX",
+      "title": "Software Engineer, Development Test (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6b00b2d53a9a0230ab029cf8",
+      "location": "Redmond, WA",
+      "datePosted": 1795179093,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b00b280d1fe3bc162e3e129",
+      "company": "RADAR",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6b00b280d1fe3bc162e3e129",
+      "location": "Sunnyvale, CA",
+      "datePosted": 1795179008,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b00b20e0f536e0ba72765e0",
+      "company": "AAA Northeast",
+      "title": "Google Dialogflow Developer I (61088)",
+      "url": "https://jobright.ai/jobs/info/6b00b20e0f536e0ba72765e0",
+      "location": "Providence, RI",
+      "datePosted": 1795178894,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b00ad5989d8ca1e849585c4",
@@ -136,6 +169,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00b40de0dc9619592837e1",
+      "company": "Georgia Institute of Technology",
+      "title": "Application Developer (Designer)",
+      "url": "https://jobright.ai/jobs/info/6b00b40de0dc9619592837e1",
+      "location": "Atlanta metropolitan area, United States",
+      "datePosted": 1795172174,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b00946ee0dc961959282338",
@@ -424,10 +468,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b007ab53a9a0230ab0279f5",
+      "id": "newgrad-jobs:6b007ab53a9a0230ab0279f3",
       "company": "Amentum",
       "title": "C/C++ Software Developer",
-      "url": "https://jobright.ai/jobs/info/6b007ab53a9a0230ab0279f5",
+      "url": "https://jobright.ai/jobs/info/6b007ab53a9a0230ab0279f3",
       "location": "Dahlgren, VA",
       "datePosted": 1795165715,
       "source": "newgrad-jobs",
@@ -578,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0dc6d67c31ab34899ded3",
+      "id": "newgrad-jobs:6adf90d95dc7953215a404f8",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae0dc6d67c31ab34899ded3",
+      "url": "https://jobright.ai/jobs/info/6adf90d95dc7953215a404f8",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795162201,
       "source": "newgrad-jobs",
@@ -661,50 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6aff52051c42ea8f6b9ff6ae",
       "location": "Manassas, VA",
       "datePosted": 1795161685,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
-      "location": "Littleton, CO",
-      "datePosted": 1795161654,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
-      "location": "King of Prussia, PA",
-      "datePosted": 1795161654,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac7dcd944d6e65604a04ccc",
-      "company": "Twitch",
-      "title": "Software Engineer I - Community Growth",
-      "url": "https://jobright.ai/jobs/info/6ac7dcd944d6e65604a04ccc",
-      "location": "San Francisco, CA",
-      "datePosted": 1795161474,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae3b44ceab1f967309767d5",
-      "company": "GM Financial",
-      "title": "Intern - Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6ae3b44ceab1f967309767d5",
-      "location": "Arlington, TX",
-      "datePosted": 1795160530,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
