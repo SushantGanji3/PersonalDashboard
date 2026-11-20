@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-20T07:30:17Z",
+  "generatedAt": "2026-11-20T07:40:16Z",
   "totalOpen": 1531,
-  "totalNewgrad": 226,
-  "totalOther": 1305,
+  "totalNewgrad": 225,
+  "totalOther": 1306,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b3468972-56ab-4076-a1ee-c523f1a719cd",
+      "company": "Apple",
+      "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200696147",
+      "location": "Sunnyvale, CA, Boulder, CO",
+      "datePosted": 1795159460,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:2be0835e-fbfd-4ad1-8ee5-e83ce56a660b",
+      "company": "Qualcomm",
+      "title": "DSP Applications Software Engineer - ASICS Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722230518",
+      "location": "Austin, TX",
+      "datePosted": 1795158320,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:02b002ed-3eb7-4ff4-99c7-dc11da9ffd6f",
       "company": "Lucid Motors",
@@ -69,7 +91,7 @@
       "datePosted": 1795128097,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6affeb9c0cfc3b14e5ccc14f",
@@ -111,6 +133,28 @@
       "url": "https://jobright.ai/jobs/info/6affe326dd029d798066eebe",
       "location": "Durham, NC",
       "datePosted": 1795125926,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb6bb5c5917ce34b5daa3f",
+      "company": "Naval Nuclear Laboratory (FMP)",
+      "title": "Software Engineer, Entry Level",
+      "url": "https://jobright.ai/jobs/info/6afb6bb5c5917ce34b5daa3f",
+      "location": "West Mifflin, PA; Niskayuna, NY",
+      "datePosted": 1795125447,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afe0d68f170d82b39670d87",
+      "company": "Naval Nuclear Laboratory (FMP)",
+      "title": "Software Developer, Associate (Entry Level)",
+      "url": "https://jobright.ai/jobs/info/6afe0d68f170d82b39670d87",
+      "location": "West Mifflin, PA; Niskayuna, NY",
+      "datePosted": 1795125446,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -168,7 +212,7 @@
       "datePosted": 1795123492,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aff980772b9be3685293516",
@@ -705,28 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6aecd7aaa2661405dc2c6d61",
       "location": "New York, NY",
       "datePosted": 1795101203,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
-      "company": "Palantir",
-      "title": "Software Engineer - Apollo Platform",
-      "url": "https://jobright.ai/jobs/info/6a557daaae07d60a8d0119c6",
-      "location": "Seattle, WA",
-      "datePosted": 1795101202,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5489e68a74e077472fc23d",
-      "company": "Palantir",
-      "title": "Year at Palantir - Software Engineer, Internship",
-      "url": "https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d",
-      "location": "New York, NY",
-      "datePosted": 1795101200,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1299,28 +1321,6 @@
       "url": "https://go.vansh.nyc/1wQ",
       "location": "Starbase, TX",
       "datePosted": 1794430558,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7c3a4e38-9f60-4930-b927-0bca4f0e442f",
-      "company": "Brex",
-      "title": "Software Engineer Intern",
-      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-      "location": "SF",
-      "datePosted": 1794414205,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c8316886-10ef-4ff8-a0bb-6eb99ed17bbf",
-      "company": "RTX",
-      "title": "Software Engineer I",
-      "url": "https://go.vansh.nyc/1uL",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1794413487,
       "source": "aggregator",
       "season": null,
       "isNew": false
