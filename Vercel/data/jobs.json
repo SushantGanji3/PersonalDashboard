@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-20T21:27:46Z",
-  "totalOpen": 1530,
+  "generatedAt": "2026-11-20T21:30:18Z",
+  "totalOpen": 1531,
   "totalNewgrad": 229,
-  "totalOther": 1301,
+  "totalOther": 1302,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:6329f1b4-9d3b-4e82-9e87-a5425aa11916",
+      "company": "NVIDIA",
+      "title": "New Grad 2027: Software Engineer, DL Kernel Libraries",
+      "url": "https://go.vansh.nyc/1F0",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795208877,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:efbf23fa-78fc-434a-a56c-538a08ce390f",
       "company": "Boeing",
@@ -1310,17 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1676116714093186",
       "location": "Seattle, WA, NYC, Bellevue, WA",
       "datePosted": 1794438765,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:42c18703-03b0-4206-9280-c89c414cffec",
-      "company": "Amazon",
-      "title": "Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference",
-      "url": "https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference",
-      "location": "Cupertino, CA",
-      "datePosted": 1794438290,
       "source": "aggregator",
       "season": null,
       "isNew": false
