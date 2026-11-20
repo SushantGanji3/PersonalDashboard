@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T20:10:17Z",
-  "totalOpen": 1534,
-  "totalNewgrad": 232,
+  "generatedAt": "2026-11-20T20:20:22Z",
+  "totalOpen": 1530,
+  "totalNewgrad": 228,
   "totalOther": 1302,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1795173119,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b009a333a9a0230ab028d68",
@@ -47,7 +47,7 @@
       "datePosted": 1795172787,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b00946ee0dc961959282338",
@@ -61,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b008b9ad1fe3bc162e3c97c",
+      "company": "Amazon",
+      "title": "Data Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b008b9ad1fe3bc162e3c97c",
+      "location": "Bellevue, WA",
+      "datePosted": 1795171297,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aff742bc1c02a9acd80c0a4",
       "company": "NVIDIA",
       "title": "Compiler Software Engineering Intern - Summer 2027",
@@ -72,15 +83,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b005f7d89d8ca1e849558ae",
-      "company": "Capital Blue Cross",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b005f7d89d8ca1e849558ae",
-      "location": "United States",
-      "datePosted": 1795169967,
+      "id": "newgrad-jobs:6abc1b807119e56191ceb5e0",
+      "company": "Amazon",
+      "title": "Software Development Engineer, FinTech/Customer Service Tech",
+      "url": "https://jobright.ai/jobs/info/6abc1b807119e56191ceb5e0",
+      "location": "Newark, NJ",
+      "datePosted": 1795170384,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b00818489d8ca1e84956c68",
@@ -91,7 +102,7 @@
       "datePosted": 1795169795,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac64b724ac55253f5d79635",
@@ -155,6 +166,17 @@
       "url": "https://jobright.ai/jobs/info/6b008cc989d8ca1e849572b8",
       "location": "Redmond, WA",
       "datePosted": 1795169353,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0078020f536e0ba727417e",
+      "company": "ALLETE",
+      "title": "Data Platform Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b0078020f536e0ba727417e",
+      "location": "Duluth, MN",
+      "datePosted": 1795169329,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -243,6 +265,17 @@
       "url": "https://jobright.ai/jobs/info/6ac678f1d9621c5b283a8fa0",
       "location": "Redlands, CA",
       "datePosted": 1795167051,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
+      "company": "EY",
+      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
+      "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
+      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
+      "datePosted": 1795166936,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -391,17 +424,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0078020f536e0ba727417e",
-      "company": "ALLETE",
-      "title": "Data Platform Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b0078020f536e0ba727417e",
-      "location": "Duluth, MN",
-      "datePosted": 1795164034,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6abd66684ac55253f5d5d3a7",
       "company": "Enterprise Mobility",
       "title": "Intern - Software Engineer, Summer 2027",
@@ -457,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
-      "company": "EY",
-      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
-      "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
-      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
-      "datePosted": 1795162443,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afb64f5317abe715a264314",
       "company": "Lockheed Martin",
       "title": "Systems Engineer Asc - Early Career",
@@ -479,15 +490,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
+      "id": "newgrad-jobs:6adf90d95dc7953215a404f8",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
+      "url": "https://jobright.ai/jobs/info/6adf90d95dc7953215a404f8",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795162201,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b008e30e0dc961959281fa9",
@@ -694,17 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6ae40cd5eab1f96730979218",
       "location": "Hill Afb, UT",
       "datePosted": 1795156632,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b005a9689d8ca1e84955687",
-      "company": "Katmai",
-      "title": "Information Management Specialist (Sharepoint Developer Jr.)",
-      "url": "https://jobright.ai/jobs/info/6b005a9689d8ca1e84955687",
-      "location": "Quantico, VA",
-      "datePosted": 1795156502,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
