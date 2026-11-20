@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:40:16Z",
+  "generatedAt": "2026-11-20T07:50:17Z",
   "totalOpen": 1531,
   "totalNewgrad": 225,
   "totalOther": 1306,
@@ -14,7 +14,7 @@
       "datePosted": 1795159460,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2be0835e-fbfd-4ad1-8ee5-e83ce56a660b",
@@ -25,7 +25,7 @@
       "datePosted": 1795158320,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:02b002ed-3eb7-4ff4-99c7-dc11da9ffd6f",
@@ -125,6 +125,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6affb3f06f4ca73dfeb464cf",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6affb3f06f4ca73dfeb464cf",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "datePosted": 1795127350,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6affb3f71126e09fee09216c",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6affb3f71126e09fee09216c",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795127339,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6affb3ed6f4ca73dfeb464ce",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6affb3ed6f4ca73dfeb464ce",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795127339,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6affe326dd029d798066eebe",
@@ -435,17 +468,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6affb20f72b9be3685293ca1",
-      "company": "Brixenta",
-      "title": "Programmer Analyst Intern",
-      "url": "https://jobright.ai/jobs/info/6affb20f72b9be3685293ca1",
-      "location": "United States",
-      "datePosted": 1795113359,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6affab236f4ca73dfeb461e1",
       "company": "Astronics Corporation",
       "title": "Software Engineer Intern - Summer 2027",
@@ -727,28 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6a58747972fe7a7b98dce6e6",
       "location": "Palo Alto, CA",
       "datePosted": 1795101208,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5312428576ec69c014e7de",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6a5312428576ec69c014e7de",
-      "location": "New York, NY; Palo Alto, CA",
-      "datePosted": 1795101205,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aecd7aaa2661405dc2c6d61",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Sovereign AI Systems",
-      "url": "https://jobright.ai/jobs/info/6aecd7aaa2661405dc2c6d61",
-      "location": "New York, NY",
-      "datePosted": 1795101203,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
