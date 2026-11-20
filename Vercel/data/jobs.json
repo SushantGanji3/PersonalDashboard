@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T17:20:17Z",
-  "totalOpen": 1537,
-  "totalNewgrad": 235,
+  "generatedAt": "2026-11-20T17:30:20Z",
+  "totalOpen": 1540,
+  "totalNewgrad": 238,
   "totalOther": 1302,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00726289d8ca1e8495623f",
+      "company": "Career Launch Tech Initiative",
+      "title": "Software Engineer Intern-CLTI",
+      "url": "https://jobright.ai/jobs/info/6b00726289d8ca1e8495623f",
+      "location": "United States",
+      "datePosted": 1795162594,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
@@ -100,6 +111,50 @@
       "url": "https://jobright.ai/jobs/info/6aff52051c42ea8f6b9ff6ae",
       "location": "Manassas, VA",
       "datePosted": 1795161685,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
+      "location": "Littleton, CO",
+      "datePosted": 1795161654,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af224b68cbcfef4a59d996d",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af224b68cbcfef4a59d996d",
+      "location": "Fort Worth, TX",
+      "datePosted": 1795161654,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer-Intern",
+      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
+      "location": "King of Prussia, PA",
+      "datePosted": 1795161654,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af1e3c81aaffa49f737e8cc",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6af1e3c81aaffa49f737e8cc",
+      "location": "Fort Worth, TX",
+      "datePosted": 1795161652,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -292,17 +347,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b004a9be0dc96195927ff1c",
-      "company": "Tech World Networking",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6b004a9be0dc96195927ff1c",
-      "location": "Rochester, NY",
-      "datePosted": 1795152411,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae389cfd7424a2a828e0aa2",
       "company": "Leidos",
       "title": "Jr Systems Engineer",
@@ -413,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0002ee80dbbb90153930ad",
+      "id": "newgrad-jobs:6b00066d3a9a0230ab025596",
       "company": "Cadence",
       "title": "Software Engineering Intern - Circuit Simulation infrastructure",
-      "url": "https://jobright.ai/jobs/info/6b0002ee80dbbb90153930ad",
+      "url": "https://jobright.ai/jobs/info/6b00066d3a9a0230ab025596",
       "location": "San Jose, CA",
       "datePosted": 1795146551,
       "source": "newgrad-jobs",
@@ -666,28 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adbc2310a4cc7090f974930",
-      "company": "DoorDash",
-      "title": "Software Engineer, Intern - Labs (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6adbc2310a4cc7090f974930",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "datePosted": 1795136443,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0007b7d1fe3bc162e39baf",
-      "company": "TikTok",
-      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6b0007b7d1fe3bc162e39baf",
-      "location": "Seattle, WA",
-      "datePosted": 1795135287,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:02b002ed-3eb7-4ff4-99c7-dc11da9ffd6f",
       "company": "Lucid Motors",
       "title": "AI & Data Intern, Applied AI/Machine Learning",
@@ -710,17 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6affb3ed6f4ca73dfeb464ce",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6affb3ed6f4ca73dfeb464ce",
-      "location": "Menlo Park, CA; Bellevue, WA",
-      "datePosted": 1795131600,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:23c15372-9632-404c-a541-af54e55a15f8",
       "company": "Lucid Motors",
       "title": "AI & Data Intern - Applied AI/Machine Learning",
@@ -728,17 +739,6 @@
       "location": "Newark, CA",
       "datePosted": 1795130683,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af3d7e2ebe39ae3299d8ff0",
-      "company": "Welo Data",
-      "title": "Project Dorado | Robotics Teleoperator",
-      "url": "https://jobright.ai/jobs/info/6af3d7e2ebe39ae3299d8ff0",
-      "location": "San Francisco, CA",
-      "datePosted": 1795129845,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
