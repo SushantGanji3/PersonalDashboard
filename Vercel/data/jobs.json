@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T09:20:15Z",
-  "totalOpen": 1529,
-  "totalNewgrad": 225,
+  "generatedAt": "2026-11-20T09:30:23Z",
+  "totalOpen": 1527,
+  "totalNewgrad": 223,
   "totalOther": 1304,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1795135287,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:02b002ed-3eb7-4ff4-99c7-dc11da9ffd6f",
@@ -92,6 +92,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af3d7e2ebe39ae3299d8ff0",
+      "company": "Welo Data",
+      "title": "Project Dorado | Robotics Teleoperator",
+      "url": "https://jobright.ai/jobs/info/6af3d7e2ebe39ae3299d8ff0",
+      "location": "San Francisco, CA",
+      "datePosted": 1795129845,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:bea86153-9907-43c5-afce-d4d63988acef",
@@ -738,17 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6a5fd8fa8c7fd835513bb729",
       "location": "Denver, CO",
       "datePosted": 1795101214,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a58747972fe7a7b98dce6e6",
-      "company": "Palantir",
-      "title": "Software Engineer, Internship - Defense Tech",
-      "url": "https://jobright.ai/jobs/info/6a58747972fe7a7b98dce6e6",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795101208,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
