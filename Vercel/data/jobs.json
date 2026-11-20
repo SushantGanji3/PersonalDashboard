@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-20T00:00:22Z",
-  "totalOpen": 1539,
-  "totalNewgrad": 239,
-  "totalOther": 1300,
+  "generatedAt": "2026-11-20T00:10:17Z",
+  "totalOpen": 1551,
+  "totalNewgrad": 244,
+  "totalOther": 1307,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1d7c2362-8833-4c90-9f1d-acd69b406cf7",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - AI Agents for Autonomous Laboratories",
+      "url": "https://www.metacareers.com/jobs/29481973694788756",
+      "location": "Redmond, WA",
+      "datePosted": 1795132221,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:bea86153-9907-43c5-afce-d4d63988acef",
       "company": "Microsoft",
@@ -14,7 +25,7 @@
       "datePosted": 1795128875,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:eb0da105-f983-42b1-85f4-2723187d0458",
@@ -37,6 +48,72 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aed0fbf3a3fa7f03ea8bbf6",
+      "company": "General Atomics",
+      "title": "Machine Learning Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aed0fbf3a3fa7f03ea8bbf6",
+      "location": "Poway, CA",
+      "datePosted": 1795102741,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff85cf72b9be3685292d38",
+      "company": "Lucid Motors",
+      "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6aff85cf72b9be3685292d38",
+      "location": "Newark, CA",
+      "datePosted": 1795102031,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
+      "company": "Arcfield",
+      "title": "Models Based Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6af60f5a80054650a5e7ba8f",
+      "location": "Chantilly, VA",
+      "datePosted": 1795101803,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aecd7aaa2661405dc2c6d61",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobright.ai/jobs/info/6aecd7aaa2661405dc2c6d61",
+      "location": "New York, NY",
+      "datePosted": 1795101203,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a557daaae07d60a8d0119c6",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Platform",
+      "url": "https://jobright.ai/jobs/info/6a557daaae07d60a8d0119c6",
+      "location": "Seattle, WA",
+      "datePosted": 1795101202,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff81fcb47661ae4a62d994",
+      "company": "ECS",
+      "title": "Jr Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff81fcb47661ae4a62d994",
+      "location": "Springfield, VA; Fairfax, VA",
+      "datePosted": 1795101052,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aff800add029d798066d13a",
@@ -67,6 +144,17 @@
       "url": "https://jobright.ai/jobs/info/6aff6e8f6f4ca73dfeb441ff",
       "location": "United States",
       "datePosted": 1795100030,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff71e26f4ca73dfeb442f3",
+      "company": "OKX",
+      "title": "Software Engineer, Card",
+      "url": "https://jobright.ai/jobs/info/6aff71e26f4ca73dfeb442f3",
+      "location": "San Jose, CA",
+      "datePosted": 1795100023,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -243,17 +331,6 @@
       "url": "https://jobright.ai/jobs/info/6aecfa243967d67f635a17cd",
       "location": "Monroe, WI",
       "datePosted": 1795096989,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff71e26f4ca73dfeb442f3",
-      "company": "OKX",
-      "title": "Software Engineer, Card",
-      "url": "https://jobright.ai/jobs/info/6aff71e26f4ca73dfeb442f3",
-      "location": "San Jose, CA",
-      "datePosted": 1795096930,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -633,72 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa95ee3eff87f571fc995fb",
-      "company": "Analog Devices",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa95ee3eff87f571fc995fb",
-      "location": "Wilmington, MA; San Jose, CA; Durham, NC",
-      "datePosted": 1795086761,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa196983272060a8e3f0c96",
-      "company": "Crest Industries",
-      "title": "Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6aa196983272060a8e3f0c96",
-      "location": "Pineville, LA; Ruston, LA; Lafayette, LA",
-      "datePosted": 1795086650,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac54610064da25272e15d9e",
-      "company": "Pampered Chef",
-      "title": "Junior Infrastructure Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac54610064da25272e15d9e",
-      "location": "Addison, IL",
-      "datePosted": 1795086296,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afe03d80cde47528ec10ebc",
-      "company": "L3Harris",
-      "title": "Associate, Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6afe03d80cde47528ec10ebc",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795085352,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7dcfc4ddfc50167b94622",
-      "company": "EY",
-      "title": "SDC Front End Engineer--Analyst----Raleigh, NC or Dallas, TX",
-      "url": "https://jobright.ai/jobs/info/6af7dcfc4ddfc50167b94622",
-      "location": "Raleigh, NC; Dallas, TX",
-      "datePosted": 1795085340,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a5118c902522b5b722e7616",
-      "company": "Spotify",
-      "title": "Research Scientist - Generative Audio",
-      "url": "https://jobright.ai/jobs/info/6a5118c902522b5b722e7616",
-      "location": "United States",
-      "datePosted": 1795085160,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:012cbd61-9586-48d1-ad35-dbd516313c1b",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineer",
@@ -730,6 +741,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:9f29143b-2192-4ae7-b0aa-ddb9eacb3449",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - AI / ML",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1795046400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:b4ef0d6c-f65b-48c0-b030-61b50a0eb09b",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Core - Infrastructure & Security",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1795046400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:00cd908d-fc5f-4712-97e8-b714c9ca0b11",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Database Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "datePosted": 1795046400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:f7292ae6-b467-4ecf-b1be-ce2df3d65e34",
@@ -773,7 +817,7 @@
       "datePosted": 1795046400,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
@@ -1277,50 +1321,6 @@
       "url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716",
       "location": "Remote in USA",
       "datePosted": 1794366177,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:794be3df-1425-488c-b884-a8d29f0732f1",
-      "company": "Amazon",
-      "title": "Software Development Engineer Early Career - Amazon Dedicated Cloud",
-      "url": "https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
-      "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA",
-      "datePosted": 1794364751,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1026c810-c164-4212-b162-cc4482482cc9",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems I Intern",
-      "url": "https://go.vansh.nyc/1sE",
-      "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
-      "datePosted": 1794357721,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:c4d7ab6c-a1c8-427a-9a75-340e78062307",
-      "company": "Amazon",
-      "title": "New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud",
-      "url": "https://go.vansh.nyc/1sv",
-      "location": "Seattle, WA",
-      "datePosted": 1794355773,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
-      "company": "Shield AI",
-      "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-      "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true",
-      "location": "United States",
-      "datePosted": 1794355200,
       "source": "aggregator",
       "season": null,
       "isNew": false
