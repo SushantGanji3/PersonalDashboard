@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T03:10:16Z",
-  "totalOpen": 1543,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-11-20T03:20:18Z",
+  "totalOpen": 1537,
+  "totalNewgrad": 230,
   "totalOther": 1307,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -72,6 +72,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aff73b7dd029d798066c2fc",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Creator Marketplace",
+      "url": "https://jobright.ai/jobs/info/6aff73b7dd029d798066c2fc",
+      "location": "Culver City, CA",
+      "datePosted": 1795114028,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6aff9d2ddd029d798066dda8",
       "company": "Tesla",
       "title": "Internship, Commercial UI Software Engineer, Energy Engineering (Winter/Spring 2027)",
@@ -83,6 +94,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aff9d2572b9be36852937dd",
+      "company": "Tesla",
+      "title": "Software Engineer, IT Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6aff9d2572b9be36852937dd",
+      "location": "Fremont, CA",
+      "datePosted": 1795113999,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6affb20f72b9be3685293ca1",
       "company": "Brixenta",
       "title": "Programmer Analyst Intern",
@@ -91,7 +113,18 @@
       "datePosted": 1795113359,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff8a3db47661ae4a62dd11",
+      "company": "Specialized Bicycle Components",
+      "title": "Early Career Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6aff8a3db47661ae4a62dd11",
+      "location": "Morgan Hill, CA",
+      "datePosted": 1795112363,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6affab236f4ca73dfeb461e1",
@@ -138,17 +171,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aff9d2572b9be36852937dd",
-      "company": "Tesla",
-      "title": "Software Engineer, IT Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6aff9d2572b9be36852937dd",
-      "location": "Fremont, CA",
-      "datePosted": 1795108005,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aff9d25b47661ae4a62e5d1",
       "company": "Tesla",
       "title": "Internship, Residential Energy Device Software Engineer, Energy Engineering (Winter/Spring 2027)",
@@ -171,34 +193,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aff73b7dd029d798066c2fc",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Creator Marketplace",
-      "url": "https://jobright.ai/jobs/info/6aff73b7dd029d798066c2fc",
-      "location": "Culver City, CA",
-      "datePosted": 1795107140,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aff987c865dbcc3f26fde9f",
       "company": "SCCI",
       "title": "Software Tools Developer",
       "url": "https://jobright.ai/jobs/info/6aff987c865dbcc3f26fde9f",
       "location": "King George, VA; Dahlgren, VA",
       "datePosted": 1795106812,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff8a3db47661ae4a62dd11",
-      "company": "Specialized Bicycle Components",
-      "title": "Early Career Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6aff8a3db47661ae4a62dd11",
-      "location": "Morgan Hill, CA",
-      "datePosted": 1795106421,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -685,7 +685,7 @@
       "datePosted": 1795098904,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6afcf23894232f5ac42d3821",
