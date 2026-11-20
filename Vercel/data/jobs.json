@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T23:40:15Z",
-  "totalOpen": 1538,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-11-20T23:50:18Z",
+  "totalOpen": 1539,
+  "totalNewgrad": 234,
   "totalOther": 1305,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795216298,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:fe3a50c9-b467-40a8-8450-577080666a01",
@@ -69,7 +69,7 @@
       "datePosted": 1795198770,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:0e961056-83ab-48ac-b418-5d457f9c4031",
@@ -92,6 +92,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aee55a0c7498922fe0cb994",
+      "company": "Astranis Space Technologies",
+      "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
+      "url": "https://jobright.ai/jobs/info/6aee55a0c7498922fe0cb994",
+      "location": "San Francisco, CA",
+      "datePosted": 1795186097,
+      "source": "newgrad-jobs",
+      "season": "Winter 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b00cd272ad6cde5ef24f335",
+      "company": "Zscaler",
+      "title": "Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6b00cd272ad6cde5ef24f335",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795185831,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b00c443dfa58e4c244de4ec",
+      "company": "Jabil",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6b00c443dfa58e4c244de4ec",
+      "location": "Austin, TX",
+      "datePosted": 1795185208,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af501f41b2c5dcbbcd66242",
@@ -147,6 +180,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad22f4b25289a0b3bf548d7",
+      "company": "Atlas Air",
+      "title": "Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad22f4b25289a0b3bf548d7",
+      "location": "Erlanger, KY; Miami, FL",
+      "datePosted": 1795183892,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b00b4b7d1fe3bc162e3e350",
@@ -611,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0088e4e0dc961959281c70",
-      "company": "CliquePrize - Local Giveaway Marketing for Small Businesses",
-      "title": "Backend Software Engineer Intern \u2013 AutoDialer, API & Systems Integration",
-      "url": "https://jobright.ai/jobs/info/6b0088e4e0dc961959281c70",
-      "location": "United States",
-      "datePosted": 1795168356,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b002302d1fe3bc162e3a1cd",
       "company": "Takeda",
       "title": "2027 Summer Internship Program: Applied AI for Formulation Data Science Intern",
@@ -716,39 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6a57841410c4d945d864e88d",
       "location": "Boston, MA",
       "datePosted": 1795166439,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b007ab53a9a0230ab0279f5",
-      "company": "Amentum",
-      "title": "C/C++ Software Developer",
-      "url": "https://jobright.ai/jobs/info/6b007ab53a9a0230ab0279f5",
-      "location": "Dahlgren, VA",
-      "datePosted": 1795165715,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
-      "company": "Booz Allen Hamilton",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
-      "location": "Tampa, FL",
-      "datePosted": 1795165322,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff4eb9b88323bd981bdbe1",
-      "company": "SAIC",
-      "title": "Software Developer",
-      "url": "https://jobright.ai/jobs/info/6aff4eb9b88323bd981bdbe1",
-      "location": "Huntsville, AL",
-      "datePosted": 1795165301,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
