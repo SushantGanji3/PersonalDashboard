@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-20T22:50:15Z",
-  "totalOpen": 1530,
+  "generatedAt": "2026-11-20T23:00:25Z",
+  "totalOpen": 1531,
   "totalNewgrad": 227,
-  "totalOther": 1303,
+  "totalOther": 1304,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:fe3a50c9-b467-40a8-8450-577080666a01",
+      "company": "Amazon",
+      "title": "New Grad 2027: Security Engineer",
+      "url": "https://go.vansh.nyc/1F6",
+      "location": "Seattle, WA",
+      "datePosted": 1795214927,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:c1f70d5f-5bf6-460b-a8da-482ccf71c649",
       "company": "Rivian",
@@ -61,6 +72,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b00c2e50f536e0ba727702f",
+      "company": "Optum",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6b00c2e50f536e0ba727702f",
+      "location": "United States",
+      "datePosted": 1795183205,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
       "company": "Figma",
       "title": "Data Engineer Intern (2027)",
@@ -81,6 +103,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95fec94c22023a07937674",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://jobright.ai/jobs/info/6a95fec94c22023a07937674",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "datePosted": 1795182780,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af7d7544ddfc50167b9451e",
@@ -125,6 +158,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac91117d4a5a03707410887",
+      "company": "Danaher",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6ac91117d4a5a03707410887",
+      "location": "Vista, CA",
+      "datePosted": 1795182056,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b00b68edfa58e4c244dddee",
@@ -531,13 +575,13 @@
       "datePosted": 1795166439,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b007ab53a9a0230ab0279f3",
+      "id": "newgrad-jobs:6afe052a758942b6422b68df",
       "company": "Amentum",
       "title": "C/C++ Software Developer",
-      "url": "https://jobright.ai/jobs/info/6b007ab53a9a0230ab0279f3",
+      "url": "https://jobright.ai/jobs/info/6afe052a758942b6422b68df",
       "location": "Dahlgren, VA",
       "datePosted": 1795165715,
       "source": "newgrad-jobs",
@@ -666,17 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b00726289d8ca1e8495623f",
-      "company": "Career Launch Tech Initiative",
-      "title": "Software Engineer Intern-CLTI",
-      "url": "https://jobright.ai/jobs/info/6b00726289d8ca1e8495623f",
-      "location": "United States",
-      "datePosted": 1795162594,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6afb64f5317abe715a264314",
       "company": "Lockheed Martin",
       "title": "Systems Engineer Asc - Early Career",
@@ -694,28 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6ae0dc6d67c31ab34899ded3",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795162201,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b008e30e0dc961959281fa9",
-      "company": "Lockheed Martin",
-      "title": "Software Engineering Intern (Signal Processing)",
-      "url": "https://jobright.ai/jobs/info/6b008e30e0dc961959281fa9",
-      "location": "Manassas, VA",
-      "datePosted": 1795162193,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff13d872b9be368528df9b",
-      "company": "Lockheed Martin",
-      "title": "Full Stack Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6aff13d872b9be368528df9b",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795162123,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1309,17 +1320,6 @@
       "title": "Platform Services Software Engineer Entry Level",
       "url": "https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false",
       "location": "Scottsdale, AZ",
-      "datePosted": 1794441600,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:386bc549-fcff-4df1-acf1-d6380e7c183a",
-      "company": "Boeing",
-      "title": "Flight Software Engineer, Vehicle Management Systems",
-      "url": "https://go.vansh.nyc/1y8",
-      "location": "El Segundo, CA",
       "datePosted": 1794441600,
       "source": "aggregator",
       "season": null,
