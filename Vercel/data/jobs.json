@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T02:40:15Z",
-  "totalOpen": 1545,
-  "totalNewgrad": 237,
+  "generatedAt": "2026-11-20T02:50:18Z",
+  "totalOpen": 1547,
+  "totalNewgrad": 239,
   "totalOther": 1308,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -36,7 +36,7 @@
       "datePosted": 1795130683,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:bea86153-9907-43c5-afce-d4d63988acef",
@@ -70,6 +70,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6affab236f4ca73dfeb461e1",
+      "company": "Astronics Corporation",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6affab236f4ca73dfeb461e1",
+      "location": "Kirkland, WA",
+      "datePosted": 1795111587,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac7dcd944d6e65604a04ccc",
@@ -534,17 +545,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aed1b4a3a3fa7f03ea8c083",
-      "company": "Citadel",
-      "title": "Software Engineer \u2013 Intern (US)",
-      "url": "https://jobright.ai/jobs/info/6aed1b4a3a3fa7f03ea8c083",
-      "location": "New York, NY; Miami, FL; Houston, TX; Greenwich, CT",
-      "datePosted": 1795100133,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6aff7dbc865dbcc3f26fd390",
       "company": "Andrew Wommack Ministries, Inc.",
       "title": "Full Stack WordPress Developer",
@@ -655,6 +655,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aede83fc7498922fe0c57bf",
+      "company": "Tinder",
+      "title": "Backend Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aede83fc7498922fe0c57bf",
+      "location": "Los Angeles, CA; Palo Alto, CA",
+      "datePosted": 1795099098,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6afcf23894232f5ac42d3821",
       "company": "Twitch",
       "title": "Software Engineer I, Commerce",
@@ -699,34 +710,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aede82dbd2f33eea72d4e4f",
+      "company": "Tinder",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6aede82dbd2f33eea72d4e4f",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795098355,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aff04eb97dcc4fc8dca7e31",
       "company": "Intelliforce-IT Solutions Group, LLC.",
       "title": "Junior Software Engineer (Prime)",
       "url": "https://jobright.ai/jobs/info/6aff04eb97dcc4fc8dca7e31",
       "location": "Annapolis Junction, MD",
       "datePosted": 1795098171,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff5a79c1c02a9acd80b1e8",
-      "company": "Idaho National Laboratory",
-      "title": "Software Engineering Intern - Summer 2027 \u2014 Java/API Development for Neutronics Code",
-      "url": "https://jobright.ai/jobs/info/6aff5a79c1c02a9acd80b1e8",
-      "location": "Idaho Falls, ID",
-      "datePosted": 1795097461,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff61ec97dcc4fc8dcab8bb",
-      "company": "Bombardier",
-      "title": "Software Engineering Intern (Year-round)",
-      "url": "https://jobright.ai/jobs/info/6aff61ec97dcc4fc8dcab8bb",
-      "location": "Wichita, KS",
-      "datePosted": 1795097214,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
