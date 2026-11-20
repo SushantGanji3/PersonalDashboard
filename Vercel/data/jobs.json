@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T15:40:16Z",
-  "totalOpen": 1534,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-11-20T15:50:17Z",
+  "totalOpen": 1530,
+  "totalNewgrad": 229,
   "totalOther": 1301,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,6 +28,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b005f7d89d8ca1e849558ae",
+      "company": "Capital Blue Cross",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b005f7d89d8ca1e849558ae",
+      "location": "United States",
+      "datePosted": 1795157757,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6adb5aed46a8cabdc1ff27b9",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -37,6 +48,50 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b005a9689d8ca1e84955687",
+      "company": "Katmai",
+      "title": "Information Management Specialist (Sharepoint Developer Jr.)",
+      "url": "https://jobright.ai/jobs/info/6b005a9689d8ca1e84955687",
+      "location": "Quantico, VA",
+      "datePosted": 1795156502,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
+      "company": "EY",
+      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
+      "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
+      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
+      "datePosted": 1795155571,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0052be3a9a0230ab02655d",
+      "company": "Freedom Technology Solutions Group, LLC",
+      "title": "Junior Software Engineer 744",
+      "url": "https://jobright.ai/jobs/info/6b0052be3a9a0230ab02655d",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1795155018,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeb6acfa0b134121d99a7c1",
+      "company": "C3 AI",
+      "title": "Associate Site Reliability Engineer/Site Reliability Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeb6acfa0b134121d99a7c1",
+      "location": "Redwood City, CA",
+      "datePosted": 1795154899,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab598509d4843569fe4b2cd",
@@ -61,17 +116,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0052be3a9a0230ab02655d",
-      "company": "Freedom Technology Solutions Group, LLC",
-      "title": "Junior Software Engineer 744",
-      "url": "https://jobright.ai/jobs/info/6b0052be3a9a0230ab02655d",
-      "location": "Annapolis Junction, MD",
-      "datePosted": 1795154494,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ac6dfaf8ff3fb9b3bc8f747",
       "company": "Amazon",
       "title": "Data Engineer Internship - 2027 (US)",
@@ -80,7 +124,7 @@
       "datePosted": 1795152713,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b004a9be0dc96195927ff1c",
@@ -685,50 +729,6 @@
       "datePosted": 1795124359,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6affe11a1126e09fee092af9",
-      "company": "T-Mobile",
-      "title": "Summer 2027 AI Engineering Internship - Site Reliability & Automation",
-      "url": "https://jobright.ai/jobs/info/6affe11a1126e09fee092af9",
-      "location": "Atlanta, GA",
-      "datePosted": 1795123932,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff244b1c42ea8f6b9fd75f",
-      "company": "RTX",
-      "title": "Life Cycle Systems Engineer Intern (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aff244b1c42ea8f6b9fd75f",
-      "location": "Woburn, MA",
-      "datePosted": 1795123492,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff980772b9be3685293516",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6aff980772b9be3685293516",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1795122256,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afa63e6a68705504bebbb5e",
-      "company": "Shield",
-      "title": "Summer 2027 - Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6afa63e6a68705504bebbb5e",
-      "location": "San Diego, CA",
-      "datePosted": 1795122167,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
