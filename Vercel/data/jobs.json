@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20T16:50:16Z",
-  "totalOpen": 1533,
+  "generatedAt": "2026-11-20T17:00:23Z",
+  "totalOpen": 1534,
   "totalNewgrad": 232,
-  "totalOther": 1301,
+  "totalOther": 1302,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -17,6 +17,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:f787d653-3c92-4c8e-8cb2-f823907c1544",
+      "company": "L3Harris",
+      "title": "Associate, Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/1EK",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1795190327,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ae3b44ceab1f967309767d5",
       "company": "GM Financial",
       "title": "Intern - Data Engineer",
@@ -25,7 +36,7 @@
       "datePosted": 1795160530,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b3468972-56ab-4076-a1ee-c523f1a719cd",
@@ -1310,17 +1321,6 @@
       "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529",
       "location": "Universal City, LA",
       "datePosted": 1794437779,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:24b5352c-b4e7-4b78-9606-93d0612f5dba",
-      "company": "Rubrik",
-      "title": "Software Engineer - Virtual Platform",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794437669,
       "source": "aggregator",
       "season": null,
       "isNew": false
