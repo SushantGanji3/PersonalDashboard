@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:10:15Z",
+  "generatedAt": "2026-11-21T06:20:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -67,6 +67,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1795210218
+    },
+    {
+      "id": "newgrad-jobs:6b0125c70ae14188d58c38bd",
+      "company": "Leidos",
+      "title": "AI Software Developer - All Levels Remote",
+      "url": "https://jobright.ai/jobs/info/6b0125c70ae14188d58c38bd",
+      "location": "United States",
+      "datePosted": 1795208519,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795242016
     },
     {
       "id": "newgrad-jobs:6b0120f8df73191d2e6b0a34",
@@ -276,6 +287,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1795225817
+    },
+    {
+      "id": "newgrad-jobs:6b01258aa512f514bbde2890",
+      "company": "Cisco",
+      "title": "Software Engineer \u2013 India ComSec (NCCS) Hybrid",
+      "url": "https://jobright.ai/jobs/info/6b01258aa512f514bbde2890",
+      "location": "Durham, NC",
+      "datePosted": 1795190400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795242016
+    },
+    {
+      "id": "newgrad-jobs:6b0125802ad6cde5ef2511f5",
+      "company": "Cisco",
+      "title": "Software Engineer \u2013 India ComSec (NCCS)",
+      "url": "https://jobright.ai/jobs/info/6b0125802ad6cde5ef2511f5",
+      "location": "Durham, NC",
+      "datePosted": 1795190400,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795242016
     },
     {
       "id": "simplify:0e961056-83ab-48ac-b418-5d457f9c4031",
@@ -12893,6 +12926,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1794581417
+    },
+    {
+      "id": "newgrad-jobs:6aa0083d500b01124c77670c",
+      "company": "PepsiCo",
+      "title": "Analytics Platform Engineer",
+      "url": "https://jobright.ai/jobs/info/6aa0083d500b01124c77670c",
+      "location": "New York, NY",
+      "datePosted": 1794541224,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795242016
     },
     {
       "id": "newgrad-jobs:6ada8d654c3adc437cece3bc",
@@ -38775,17 +38819,6 @@
       "datePosted": 1792652400,
       "source": "aggregator",
       "season": "Summer",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
-      "company": "Amazon",
-      "title": "Robotics Embedded Software Development Engineer",
-      "url": "https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer",
-      "location": "North Reading, MA, Westborough, MA",
-      "datePosted": 1792649751,
-      "source": "aggregator",
-      "season": null,
       "firstSeenAt": 1793826020
     }
   ]
