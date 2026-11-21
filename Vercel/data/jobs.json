@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T19:20:17Z",
-  "totalOpen": 1543,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-11-21T19:30:19Z",
+  "totalOpen": 1542,
+  "totalNewgrad": 244,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -58,7 +58,7 @@
       "datePosted": 1795253313,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b00ae1689d8ca1e84958618",
@@ -69,7 +69,7 @@
       "datePosted": 1795253310,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b00ec700ae14188d58c282e",
@@ -80,7 +80,7 @@
       "datePosted": 1795253310,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ac6b9a78ff3fb9b3bc8ec78",
@@ -501,17 +501,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac931e8fe8f33a85d502be4",
-      "company": "Rivian",
-      "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
-      "url": "https://jobright.ai/jobs/info/6ac931e8fe8f33a85d502be4",
-      "location": "Atlanta, GA; Irvine, CA; Normal, IL; Palo Alto, CA; Plymouth, MI",
-      "datePosted": 1795230404,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ae4f26bd7424a2a828ea430",
       "company": "Built",
       "title": "Innovation Software Engineer 1",
@@ -728,6 +717,17 @@
       "location": "Santa Clara, CA",
       "datePosted": 1795208877,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0125c70ae14188d58c38bd",
+      "company": "Leidos",
+      "title": "AI Software Developer - All Levels Remote",
+      "url": "https://jobright.ai/jobs/info/6b0125c70ae14188d58c38bd",
+      "location": "United States",
+      "datePosted": 1795208519,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
