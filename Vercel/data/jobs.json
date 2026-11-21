@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-21T11:40:15Z",
-  "totalOpen": 1532,
-  "totalNewgrad": 235,
+  "generatedAt": "2026-11-21T11:50:15Z",
+  "totalOpen": 1530,
+  "totalNewgrad": 233,
   "totalOther": 1297,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ac9309cd4a5a0370741136c",
+      "company": "Rivian",
+      "title": "Software Engineering - Summer 2027 Internships",
+      "url": "https://jobright.ai/jobs/info/6ac9309cd4a5a0370741136c",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795229979,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6b017556f6ef85c61a50f50c",
       "company": "TikTok",
@@ -36,7 +47,7 @@
       "datePosted": 1795228662,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af781983ba46d7b6c167870",
@@ -347,10 +358,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a99b3a690a313642c652281",
+      "id": "newgrad-jobs:6a99b3b48a8b765bc55f4e70",
       "company": "V2X Inc",
       "title": "Systems Security Engineer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a99b3a690a313642c652281",
+      "url": "https://jobright.ai/jobs/info/6a99b3b48a8b765bc55f4e70",
       "location": "Indianapolis, IN",
       "datePosted": 1795193264,
       "source": "newgrad-jobs",
@@ -710,39 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aa8275a82e82a31997c42f0",
-      "company": "Intuit",
-      "title": "Summer 2027: Software Engineering Intern - Full Stack",
-      "url": "https://jobright.ai/jobs/info/6aa8275a82e82a31997c42f0",
-      "location": "Mountain View, CA; San Diego, CA; New York, NY; Charlotte, NC; Atlanta, GA",
-      "datePosted": 1795183977,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac5387e0e027c0f3b3ad915",
-      "company": "Meta AI",
-      "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915",
-      "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-      "datePosted": 1795183977,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afd3156c9f7ca2bdfb20ed1",
-      "company": "Airbnb",
-      "title": "Software Engineering Intern (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6afd3156c9f7ca2bdfb20ed1",
-      "location": "San Francisco, CA",
-      "datePosted": 1795183977,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ad22ebe810010ec72f55cbb",
       "company": "Atlas Air",
       "title": "Data Engineer",
@@ -782,6 +760,28 @@
       "url": "https://jobright.ai/jobs/info/6b00c4a5d1fe3bc162e3ebca",
       "location": "Reston, VA",
       "datePosted": 1795183653,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6affb3ed6f4ca73dfeb464ce",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6affb3ed6f4ca73dfeb464ce",
+      "location": "Menlo Park, CA; Bellevue, WA",
+      "datePosted": 1795183539,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00c3dbe0dc96195928413d",
+      "company": "Military Spouse Jobs",
+      "title": "Junior Systems Engineer -Colorado Springs, CO",
+      "url": "https://jobright.ai/jobs/info/6b00c3dbe0dc96195928413d",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1795183451,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
