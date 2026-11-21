@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T03:00:20Z",
-  "totalOpen": 1530,
-  "totalNewgrad": 229,
+  "generatedAt": "2026-11-21T03:10:16Z",
+  "totalOpen": 1532,
+  "totalNewgrad": 231,
   "totalOther": 1301,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -70,6 +70,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0100c9af6fea8c089b5ef3",
+      "company": "B4Corp",
+      "title": "812317 Systems Engineer $280,000.00",
+      "url": "https://jobright.ai/jobs/info/6b0100c9af6fea8c089b5ef3",
+      "location": "Sterling, VA",
+      "datePosted": 1795199049,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:0e3c923c-bece-473a-bc86-752ab836e558",
@@ -762,17 +773,6 @@
       "datePosted": 1795172796,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b009a333a9a0230ab028d68",
-      "company": "Tektronix",
-      "title": "Software Engineering (AI Building) Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6b009a333a9a0230ab028d68",
-      "location": "Beaverton, OR",
-      "datePosted": 1795172787,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
