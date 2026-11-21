@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T02:10:14Z",
-  "totalOpen": 1533,
-  "totalNewgrad": 231,
+  "generatedAt": "2026-11-21T02:20:16Z",
+  "totalOpen": 1532,
+  "totalNewgrad": 230,
   "totalOther": 1302,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -92,6 +92,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00eff2af6fea8c089b5a52",
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Streaming Infra)",
+      "url": "https://jobright.ai/jobs/info/6b00eff2af6fea8c089b5a52",
+      "location": "United States",
+      "datePosted": 1795194738,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b00ebc10ae14188d58c278b",
@@ -212,7 +223,7 @@
       "datePosted": 1795192222,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b00bd76d1fe3bc162e3e856",
@@ -762,17 +773,6 @@
       "datePosted": 1795171310,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aff742bc1c02a9acd80c0a4",
-      "company": "NVIDIA",
-      "title": "Compiler Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6aff742bc1c02a9acd80c0a4",
-      "location": "Redmond, WA",
-      "datePosted": 1795170822,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
