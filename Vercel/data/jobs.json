@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-21T18:30:17Z",
-  "totalOpen": 1540,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-11-21T18:40:15Z",
+  "totalOpen": 1542,
+  "totalNewgrad": 244,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6b00946ee0dc961959282338",
+      "company": "SAIC",
+      "title": "Software Engineer Associate",
+      "url": "https://jobright.ai/jobs/info/6b00946ee0dc961959282338",
+      "location": "Pensacola, FL",
+      "datePosted": 1795254459,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aadced23dbb1f8967cef8e8",
+      "company": "Perplexity",
+      "title": "Member of Technical Staff, AI Products (Early Career - Industry)",
+      "url": "https://jobright.ai/jobs/info/6aadced23dbb1f8967cef8e8",
+      "location": "San Francisco, CA",
+      "datePosted": 1795254175,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aff4eb9b88323bd981bdbe1",
+      "company": "SAIC",
+      "title": "Software Developer",
+      "url": "https://jobright.ai/jobs/info/6aff4eb9b88323bd981bdbe1",
+      "location": "Huntsville, AL",
+      "datePosted": 1795254104,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
       "company": "EY",
@@ -12,17 +45,6 @@
       "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
       "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
       "datePosted": 1795252274,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b00946ee0dc961959282338",
-      "company": "SAIC",
-      "title": "Software Engineer Associate",
-      "url": "https://jobright.ai/jobs/info/6b00946ee0dc961959282338",
-      "location": "Pensacola, FL",
-      "datePosted": 1795252109,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -424,6 +446,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ac931e8fe8f33a85d502be4",
+      "company": "Rivian",
+      "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
+      "url": "https://jobright.ai/jobs/info/6ac931e8fe8f33a85d502be4",
+      "location": "Atlanta, GA; Irvine, CA; Normal, IL; Palo Alto, CA; Plymouth, MI",
+      "datePosted": 1795230404,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ae4f26bd7424a2a828ea430",
       "company": "Built",
       "title": "Innovation Software Engineer 1",
@@ -510,6 +543,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abeb501064da25272e02388",
+      "company": "CNH",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6abeb501064da25272e02388",
+      "location": "Sioux Falls, SD",
+      "datePosted": 1795225147,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae4ec5777c09cb3bd4b0363",
@@ -688,17 +732,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b00be760f536e0ba7276daa",
-      "company": "Garmin",
-      "title": "Software Engineering Intern (Web/Mobile)",
-      "url": "https://jobright.ai/jobs/info/6b00be760f536e0ba7276daa",
-      "location": "Yarmouth, ME",
-      "datePosted": 1795204757,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b0100c9af6fea8c089b5ef3",
       "company": "B4Corp",
       "title": "812317 Systems Engineer $280,000.00",
@@ -721,28 +754,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b00fc0b0ae14188d58c2ba0",
-      "company": "B4Corp",
-      "title": "812314 Systems Engineer $280,000.00",
-      "url": "https://jobright.ai/jobs/info/6b00fc0b0ae14188d58c2ba0",
-      "location": "Sterling, VA",
-      "datePosted": 1795197835,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a7f7b9d19ce4e6e9d93854b",
-      "company": "The Nuclear Company",
-      "title": "Spring 2027 AI Applied Research Intern",
-      "url": "https://jobright.ai/jobs/info/6a7f7b9d19ce4e6e9d93854b",
-      "location": "Washington, DC",
-      "datePosted": 1795196750,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "simplify:bb4df03f-cdf9-493c-8743-3f139dc83df3",
       "company": "Zscaler",
       "title": "Software Development Engineer",
@@ -750,17 +761,6 @@
       "location": "Santa Clara, CA",
       "datePosted": 1795196320,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b00ebc10ae14188d58c278b",
-      "company": "Auria Space",
-      "title": "Jr-Mid Systems Engineer - Sentinel",
-      "url": "https://jobright.ai/jobs/info/6b00ebc10ae14188d58c278b",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795193665,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
