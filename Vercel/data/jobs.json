@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-11-21T16:40:17Z",
-  "totalOpen": 1539,
-  "totalNewgrad": 241,
+  "generatedAt": "2026-11-21T16:50:17Z",
+  "totalOpen": 1537,
+  "totalNewgrad": 239,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
-    {
-      "id": "newgrad-jobs:6ae1f048de23f466ec8c0f2e",
-      "company": "IBM",
-      "title": "Site Reliability Engineer Intern - OneIT - Rochester, MN",
-      "url": "https://jobright.ai/jobs/info/6ae1f048de23f466ec8c0f2e",
-      "location": "Rochester, MN",
-      "datePosted": 1795247210,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
     {
       "id": "newgrad-jobs:6afc6c4129e5a8844e6583b0",
       "company": "Leidos",
@@ -257,17 +246,6 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afa95639331e23f79cdd71f",
-      "company": "Snaphomz",
-      "title": "Full Stack Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6afa95639331e23f79cdd71f",
-      "location": "United States",
-      "datePosted": 1795232257,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae51d10d45dc30fb7d3549a",
@@ -644,10 +622,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a99b3b48a8b765bc55f4e70",
+      "id": "newgrad-jobs:6a99b3a690a313642c652281",
       "company": "V2X Inc",
       "title": "Systems Security Engineer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a99b3b48a8b765bc55f4e70",
+      "url": "https://jobright.ai/jobs/info/6a99b3a690a313642c652281",
       "location": "Indianapolis, IN",
       "datePosted": 1795193264,
       "source": "newgrad-jobs",
@@ -765,6 +743,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b0087bf0f536e0ba7274be4",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - AI Platform, Autonomy (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b0087bf0f536e0ba7274be4",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795191160,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "simplify:0e961056-83ab-48ac-b418-5d457f9c4031",
       "company": "L3Harris",
       "title": "Associate Embedded Software Engineer",
@@ -783,6 +772,17 @@
       "location": "Fort Wayne, IN",
       "datePosted": 1795190327,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00a858e0dc961959282f27",
+      "company": "Monarch Investment and Management Group",
+      "title": "Junior Applications Developer",
+      "url": "https://jobright.ai/jobs/info/6b00a858e0dc961959282f27",
+      "location": "Franktown, CO",
+      "datePosted": 1795190010,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
