@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-21T00:00:19Z",
-  "totalOpen": 1536,
-  "totalNewgrad": 233,
+  "generatedAt": "2026-11-21T00:10:19Z",
+  "totalOpen": 1533,
+  "totalNewgrad": 230,
   "totalOther": 1303,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:9c50d6d5-ef29-435d-8941-7d083495ada7",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - SI Hardware Architecture Simulation",
+      "url": "https://www.tesla.com/careers/search/job/290756",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795217608,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:1ce6ada2-5aa1-4d38-be28-f8fe2df04845",
       "company": "Oracle",
@@ -72,6 +83,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:bb4df03f-cdf9-493c-8743-3f139dc83df3",
+      "company": "Zscaler",
+      "title": "Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795196320,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:0e961056-83ab-48ac-b418-5d457f9c4031",
       "company": "L3Harris",
       "title": "Associate Embedded Software Engineer",
@@ -94,6 +116,83 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b00d9c9a512f514bbde0fb6",
+      "company": "Brewer Science",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b00d9c9a512f514bbde0fb6",
+      "location": "United States",
+      "datePosted": 1795189065,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6abdfedd064da25272dff9c2",
+      "company": "Raydar",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6abdfedd064da25272dff9c2",
+      "location": "San Francisco, CA",
+      "datePosted": 1795187420,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6acd0c0bd113c967e3c7bd3d",
+      "company": "Raydar",
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6acd0c0bd113c967e3c7bd3d",
+      "location": "New York, NY",
+      "datePosted": 1795187420,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6affe8fa3a9a0230ab025222",
+      "company": "Apple",
+      "title": "AR/VR Software Engineer - Spatial System UI, Vision Products Software",
+      "url": "https://jobright.ai/jobs/info/6affe8fa3a9a0230ab025222",
+      "location": "Boulder, CO; Sunnyvale, CA",
+      "datePosted": 1795187142,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aff9657dd029d798066da32",
+      "company": "University of Utah",
+      "title": "Web Developers, Full Stack I",
+      "url": "https://jobright.ai/jobs/info/6aff9657dd029d798066da32",
+      "location": "Salt Lake City, UT",
+      "datePosted": 1795187137,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b009b7f89d8ca1e84957c2d",
+      "company": "Mom's Meals | A Purfoods Company",
+      "title": "Salesforce Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6b009b7f89d8ca1e84957c2d",
+      "location": "Ankeny, IA",
+      "datePosted": 1795186914,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aa0b17bdbc0e60e37e0f481",
+      "company": "DataVisor",
+      "title": "Software Engineer, AI Solutions",
+      "url": "https://jobright.ai/jobs/info/6aa0b17bdbc0e60e37e0f481",
+      "location": "Mountain View, CA",
+      "datePosted": 1795186314,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6aee55a0c7498922fe0cb994",
       "company": "Astranis Space Technologies",
       "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
@@ -105,17 +204,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b00cd272ad6cde5ef24f335",
-      "company": "Zscaler",
-      "title": "Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6b00cd272ad6cde5ef24f335",
-      "location": "Santa Clara, CA",
-      "datePosted": 1795185831,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b00ccb6af6fea8c089b4903",
       "company": "TikTok",
       "title": "Self-Built CDN Platform Engineer",
@@ -124,7 +212,7 @@
       "datePosted": 1795185718,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b008d7189d8ca1e8495733c",
@@ -254,17 +342,6 @@
       "url": "https://jobright.ai/jobs/info/6b00c4a5d1fe3bc162e3ebca",
       "location": "Reston, VA",
       "datePosted": 1795183653,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6affe8fa3a9a0230ab025222",
-      "company": "Apple",
-      "title": "AR/VR Software Engineer - Spatial System UI, Vision Products Software",
-      "url": "https://jobright.ai/jobs/info/6affe8fa3a9a0230ab025222",
-      "location": "Boulder, CO; Sunnyvale, CA",
-      "datePosted": 1795183539,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -454,17 +531,6 @@
       "datePosted": 1795173216,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b009b7f89d8ca1e84957c2d",
-      "company": "Mom's Meals | A Purfoods Company",
-      "title": "Salesforce Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6b009b7f89d8ca1e84957c2d",
-      "location": "Ankeny, IA",
-      "datePosted": 1795173119,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -705,50 +771,6 @@
       "url": "https://jobright.ai/jobs/info/6b005fd5e0dc9619592805fb",
       "location": "United States",
       "datePosted": 1795166846,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a8e183125fc4e7ae3dbfac6",
-      "company": "Honeywell Technologies",
-      "title": "Software Engineer & Computer Science - Summer 2027 Intern",
-      "url": "https://jobright.ai/jobs/info/6a8e183125fc4e7ae3dbfac6",
-      "location": "United States",
-      "datePosted": 1795166746,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac83866fcdafb60c6a48202",
-      "company": "SpaceX",
-      "title": "Software Engineer (AI Data Engineering)",
-      "url": "https://jobright.ai/jobs/info/6ac83866fcdafb60c6a48202",
-      "location": "Hawthorne, CA",
-      "datePosted": 1795166520,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae394add7424a2a828e1161",
-      "company": "STERIS",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ae394add7424a2a828e1161",
-      "location": "Plymouth, MN",
-      "datePosted": 1795166509,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a57841410c4d945d864e88d",
-      "company": "Bracebridge Capital",
-      "title": "Machine Learning Analyst",
-      "url": "https://jobright.ai/jobs/info/6a57841410c4d945d864e88d",
-      "location": "Boston, MA",
-      "datePosted": 1795166439,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1299,28 +1321,6 @@
       "url": "https://go.vansh.nyc/1wj",
       "location": "Redmond, WA",
       "datePosted": 1794478846,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:bc41dd4e-3319-4672-8e56-bee0b6b615df",
-      "company": "RTX",
-      "title": "Associate Software Engineer I, CDS / Engine System Software",
-      "url": "https://go.vansh.nyc/1w2",
-      "location": "Etc, CT",
-      "datePosted": 1794456017,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:347a6b27-ec19-490b-9189-2c5f45152597",
-      "company": "ServiceNow",
-      "title": "Associate Information Security Engineer Intern",
-      "url": "https://go.vansh.nyc/1vY",
-      "location": "San Diego, CA",
-      "datePosted": 1794449190,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
