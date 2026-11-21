@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-21T03:30:17Z",
+  "generatedAt": "2026-11-21T03:40:16Z",
   "totalOpen": 1533,
   "totalNewgrad": 232,
   "totalOther": 1301,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:1dcb493b-6303-4588-bbca-137c506354f5",
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Backend - Streaming Infra",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+      "location": "Remote in USA",
+      "datePosted": 1795223349,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:9c50d6d5-ef29-435d-8941-7d083495ada7",
       "company": "Tesla",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794478846,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a7ece1d7-457b-4996-86ff-666aa9b7490a",
-      "company": "Microsoft",
-      "title": "Data Scientist Intern, CoreAI",
-      "url": "https://go.vansh.nyc/1wj",
-      "location": "Redmond, WA",
-      "datePosted": 1794478846,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
