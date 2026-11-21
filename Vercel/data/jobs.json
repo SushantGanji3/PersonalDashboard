@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:40:16Z",
+  "generatedAt": "2026-11-21T03:50:16Z",
   "totalOpen": 1533,
   "totalNewgrad": 232,
   "totalOther": 1301,
@@ -14,7 +14,7 @@
       "datePosted": 1795223349,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:9c50d6d5-ef29-435d-8941-7d083495ada7",
@@ -79,6 +79,28 @@
       "location": "Tinker AFB, OK",
       "datePosted": 1795207098,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
+      "location": "San Jose, CA",
+      "datePosted": 1795202241,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00eff2af6fea8c089b5a52",
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Streaming Infra)",
+      "url": "https://jobright.ai/jobs/info/6b00eff2af6fea8c089b5a52",
+      "location": "United States",
+      "datePosted": 1795200452,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -149,17 +171,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b00eff2af6fea8c089b5a52",
-      "company": "Affirm",
-      "title": "Software Engineer I, Backend (Streaming Infra)",
-      "url": "https://jobright.ai/jobs/info/6b00eff2af6fea8c089b5a52",
-      "location": "United States",
-      "datePosted": 1795194738,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b00ebc10ae14188d58c278b",
       "company": "Auria Space",
       "title": "Jr-Mid Systems Engineer - Sentinel",
@@ -171,10 +182,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a99b3b48a8b765bc55f4e70",
+      "id": "newgrad-jobs:6a99b3a690a313642c652281",
       "company": "V2X Inc",
       "title": "Systems Security Engineer Intern, Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a99b3b48a8b765bc55f4e70",
+      "url": "https://jobright.ai/jobs/info/6a99b3a690a313642c652281",
       "location": "Indianapolis, IN",
       "datePosted": 1795193264,
       "source": "newgrad-jobs",
@@ -254,17 +265,6 @@
       "url": "https://jobright.ai/jobs/info/6b00e662f6ef85c61a50d7bb",
       "location": "San Jose, CA",
       "datePosted": 1795192290,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6b9a78ff3fb9b3bc8ec78",
-      "company": "Docusign",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac6b9a78ff3fb9b3bc8ec78",
-      "location": "Seattle, WA",
-      "datePosted": 1795192222,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
