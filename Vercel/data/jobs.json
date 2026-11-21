@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:50:17Z",
+  "generatedAt": "2026-11-21T20:00:19Z",
   "totalOpen": 1545,
   "totalNewgrad": 247,
   "totalOther": 1298,
@@ -14,7 +14,7 @@
       "datePosted": 1795256525,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af87a0542ae65e2c8f3d58c",
@@ -83,17 +83,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b00ae1689d8ca1e84958618",
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer\u2013Test & Verification",
-      "url": "https://jobright.ai/jobs/info/6b00ae1689d8ca1e84958618",
-      "location": "Oklahoma City, OK",
-      "datePosted": 1795253310,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b00ec700ae14188d58c282e",
       "company": "Boeing",
       "title": "Embedded Software Engineer - Entry-Level",
@@ -103,6 +92,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00c6c8e0dc961959284254",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer\u2013Test & Verification",
+      "url": "https://jobright.ai/jobs/info/6b00c6c8e0dc961959284254",
+      "location": "Oklahoma City, OK",
+      "datePosted": 1795253310,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac6b9a7372c01f6cd73ece4",
