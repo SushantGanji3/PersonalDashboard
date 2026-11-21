@@ -1,64 +1,20 @@
 {
-  "generatedAt": "2026-11-21T17:40:18Z",
-  "totalOpen": 1537,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-21T17:50:15Z",
+  "totalOpen": 1539,
+  "totalNewgrad": 241,
   "totalOther": 1298,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
-      "id": "newgrad-jobs:6b00946ee0dc961959282338",
-      "company": "SAIC",
-      "title": "Software Engineer Associate",
-      "url": "https://jobright.ai/jobs/info/6b00946ee0dc961959282338",
-      "location": "Pensacola, FL",
-      "datePosted": 1795252109,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a72950702d93145bf895467",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer (Application Software)",
-      "url": "https://jobright.ai/jobs/info/6a72950702d93145bf895467",
-      "location": "Hawthorne, CA",
-      "datePosted": 1795252099,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae49d8a77c09cb3bd4ad2ce",
-      "company": "Cantor Fitzgerald",
-      "title": "Associate, Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae49d8a77c09cb3bd4ad2ce",
-      "location": "New York, NY",
-      "datePosted": 1795251546,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
+      "id": "newgrad-jobs:6a7debf70cd4a0703257c841",
       "company": "SpaceX",
       "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
+      "url": "https://jobright.ai/jobs/info/6a7debf70cd4a0703257c841",
+      "location": "Hawthorne, CA",
       "datePosted": 1795251498,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
-      "company": "EY",
-      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
-      "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
-      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
-      "datePosted": 1795251331,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b01c9b3df73191d2e6b1e23",
@@ -69,17 +25,6 @@
       "datePosted": 1795250483,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b00e53cdf73191d2e6af70b",
-      "company": "Baxter International Inc.",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6b00e53cdf73191d2e6af70b",
-      "location": "Skaneateles, NY",
-      "datePosted": 1795249758,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -102,7 +47,7 @@
       "datePosted": 1795248935,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae4c17ceab1f9673097c4da",
@@ -113,6 +58,17 @@
       "datePosted": 1795248792,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00e53cdf73191d2e6af70b",
+      "company": "Baxter International Inc.",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6b00e53cdf73191d2e6af70b",
+      "location": "Skaneateles, NY",
+      "datePosted": 1795248257,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
@@ -232,6 +188,17 @@
       "url": "https://jobright.ai/jobs/info/6a8f2f09a10ee661e24d6f6c",
       "location": "Redmond, WA",
       "datePosted": 1795241834,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af7dd8034e2d29dcb751c88",
+      "company": "EY",
+      "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
+      "url": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
+      "location": "Raleigh, NC; Dallas, TX; San Antonio, TX; United States",
+      "datePosted": 1795241631,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -760,6 +727,39 @@
       "url": "https://jobright.ai/jobs/info/6b00e852df73191d2e6af8a0",
       "location": "San Diego, CA",
       "datePosted": 1795192786,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00e74f0ae14188d58c2433",
+      "company": "Tesla",
+      "title": "Internship, Data Engineer, Data Engineering & Business Intelligence (Winter/Spring2027)",
+      "url": "https://jobright.ai/jobs/info/6b00e74f0ae14188d58c2433",
+      "location": "Fremont, CA",
+      "datePosted": 1795192527,
+      "source": "newgrad-jobs",
+      "season": "Winter",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00e662f6ef85c61a50d7bb",
+      "company": "IBM",
+      "title": "Entry Level Software Developer 2027",
+      "url": "https://jobright.ai/jobs/info/6b00e662f6ef85c61a50d7bb",
+      "location": "San Jose, CA",
+      "datePosted": 1795192290,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00bd76d1fe3bc162e3e856",
+      "company": "Parsons Corporation",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6b00bd76d1fe3bc162e3e856",
+      "location": "United States",
+      "datePosted": 1795192016,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
