@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T16:10:17Z",
-  "totalOpen": 1559,
-  "totalNewgrad": 262,
+  "generatedAt": "2026-11-22T16:20:15Z",
+  "totalOpen": 1558,
+  "totalNewgrad": 261,
   "totalOther": 1297,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795332747,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a90b5b48ffa38557e6ce863",
@@ -37,6 +37,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a3c3921982bb239f812edc3",
+      "company": "Esri",
+      "title": "Software Development Engineer I",
+      "url": "https://jobright.ai/jobs/info/6a3c3921982bb239f812edc3",
+      "location": "St. Louis, MO - Westport",
+      "datePosted": 1795329988,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b02ff29d7d09d301fa86f2c",
@@ -309,17 +320,6 @@
       "url": "https://jobright.ai/jobs/info/6b02c6f4f4f339a8f62b3533",
       "location": "Seattle, WA",
       "datePosted": 1795315316,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac931e8fe8f33a85d502be4",
-      "company": "Rivian",
-      "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
-      "url": "https://jobright.ai/jobs/info/6ac931e8fe8f33a85d502be4",
-      "location": "Atlanta, GA; Irvine, CA; Normal, IL; Palo Alto, CA; Plymouth, MI",
-      "datePosted": 1795314895,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
