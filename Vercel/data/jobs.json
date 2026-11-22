@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T14:50:15Z",
-  "totalOpen": 1558,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-11-22T15:00:20Z",
+  "totalOpen": 1556,
+  "totalNewgrad": 259,
   "totalOther": 1297,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795324865,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af781983ba46d7b6c167870",
@@ -36,6 +36,17 @@
       "datePosted": 1795324560,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afba0a706c0aac84dd979fc",
+      "company": "MANTECH",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6afba0a706c0aac84dd979fc",
+      "location": "Saint Inigoes, MD",
+      "datePosted": 1795323815,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -48,6 +59,17 @@
       "source": "newgrad-jobs",
       "season": "Winter 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7487e7bb6ca93ae560a772",
+      "company": "impact.com",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772",
+      "location": "Santa Barbara, CA",
+      "datePosted": 1795323188,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ac90374d4a5a0370741032b",
@@ -66,7 +88,7 @@
       "title": "Security engineer, US",
       "url": "https://jobright.ai/jobs/info/6ae29a261f9d9308370b34ab",
       "location": "United States",
-      "datePosted": 1795322381,
+      "datePosted": 1795322412,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -171,6 +193,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a1ee503c5277c00c64813d4",
+      "company": "Qualcomm",
+      "title": "Entry level & Senior Software Engineer, Core AI Software (Onsite)",
+      "url": "https://jobright.ai/jobs/info/6a1ee503c5277c00c64813d4",
+      "location": "San Diego, CA",
+      "datePosted": 1795316912,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a86439b2f4f0014cae29323",
       "company": "TikTok USDS Joint Venture",
       "title": "Machine Learning Engineer Intern (Agentic Platform) - 2027 summer",
@@ -193,34 +226,12 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a50abf0ddd293054ccab570",
-      "company": "Qualcomm",
-      "title": "Entry level & Senior Software Engineer, Core AI Software (Onsite)",
-      "url": "https://jobright.ai/jobs/info/6a50abf0ddd293054ccab570",
-      "location": "San Diego, CA",
-      "datePosted": 1795315495,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b02c6f4f4f339a8f62b3533",
       "company": "TikTok",
       "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer",
       "url": "https://jobright.ai/jobs/info/6b02c6f4f4f339a8f62b3533",
       "location": "Seattle, WA",
       "datePosted": 1795315316,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac931e8fe8f33a85d502be4",
-      "company": "Rivian",
-      "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
-      "url": "https://jobright.ai/jobs/info/6ac931e8fe8f33a85d502be4",
-      "location": "Atlanta, GA; Irvine, CA; Normal, IL; Palo Alto, CA; Plymouth, MI",
-      "datePosted": 1795314895,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -641,7 +652,7 @@
       "datePosted": 1795264354,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b01cad20ae14188d58c4b5b",
@@ -650,17 +661,6 @@
       "url": "https://jobright.ai/jobs/info/6b01cad20ae14188d58c4b5b",
       "location": "Chicago, IL",
       "datePosted": 1795259781,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b01cac4f6ef85c61a50feb8",
-      "company": "Chicago Cubs",
-      "title": "Assistant Data Engineer, Baseball Systems",
-      "url": "https://jobright.ai/jobs/info/6b01cac4f6ef85c61a50feb8",
-      "location": "Chicago, IL",
-      "datePosted": 1795259779,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
