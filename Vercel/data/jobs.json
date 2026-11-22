@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-22T16:40:14Z",
-  "totalOpen": 1558,
-  "totalNewgrad": 261,
+  "generatedAt": "2026-11-22T16:50:17Z",
+  "totalOpen": 1561,
+  "totalNewgrad": 264,
   "totalOther": 1297,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a4298496faf756060967309",
+      "company": "Palantir",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobright.ai/jobs/info/6a4298496faf756060967309",
+      "location": "Washington, DC",
+      "datePosted": 1795334454,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac95420af788e6ad3b5b12e",
+      "company": "SageSure",
+      "title": "Software Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6ac95420af788e6ad3b5b12e",
+      "location": "Chicago, IL; Jersey City, NJ; Mountain View, CA",
+      "datePosted": 1795333274,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aac8191636cddf7396f4523",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6aac8191636cddf7396f4523",
+      "location": "Detroit, MI; Madison, WI; Boston, MA; Austin, TX; Nashville, TN; Seattle, WA; Arlington, VA; Denver, CO; Minneapolis, MN; Phoenix, AZ; Tempe, AZ; Berkeley, CA; Culver City, CA; Cupertino, CA; East Palo Alto, CA; Hawthorne, CA; Irvine, CA; Los Gatos, CA; Los Angeles, CA; Manhattan Beach, CA; Mountain View, CA; Palo Alto, CA; Pasadena, CA; San Diego, CA; San Francisco, CA; San Jose, CA; San Luis Obispo, CA; Santa Barbara, CA; Santa Clara, CA; Santa Cruz, CA; Santa Monica, CA; Sunnyvale, CA; Boulder, CO; Atlanta, GA; Kennesaw, GA; Chicago, IL; Cambridge, MA; Hudson, MA; North Reading, MA; Westborough, MA; Annapolis Junction, MD; Baltimore, MD; Raleigh, NC; Jersey City, NJ; Newark, NJ; New York, NY; Portland, OR; Philadelphia, PA; Pittsburgh, PA; Carrollton, TX; Dallas, TX; Irving, TX; Herndon, VA; Bellevue, WA; Redmond, WA",
+      "datePosted": 1795333209,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ab700bf3a2ec87116e24f90",
       "company": "Pacific Life",
@@ -94,17 +127,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac95420af788e6ad3b5b12e",
-      "company": "SageSure",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac95420af788e6ad3b5b12e",
-      "location": "Chicago, IL; Jersey City, NJ; Mountain View, CA",
-      "datePosted": 1795325539,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af781983ba46d7b6c167870",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
@@ -138,15 +160,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aada1316956574eac8b6cb8",
+      "id": "newgrad-jobs:6aad966c0ebc8fb2313ea745",
       "company": "Gemini",
       "title": "Software Engineering Intern (Winter 2027)",
-      "url": "https://jobright.ai/jobs/info/6aada1316956574eac8b6cb8",
+      "url": "https://jobright.ai/jobs/info/6aad966c0ebc8fb2313ea745",
       "location": "New York, NY",
-      "datePosted": 1795323479,
+      "datePosted": 1795323502,
       "source": "newgrad-jobs",
       "season": "Winter 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a7487e7bb6ca93ae560a772",
@@ -320,6 +342,17 @@
       "url": "https://jobright.ai/jobs/info/6b02c6f4f4f339a8f62b3533",
       "location": "Seattle, WA",
       "datePosted": 1795315316,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac931e8fe8f33a85d502be4",
+      "company": "Rivian",
+      "title": "Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
+      "url": "https://jobright.ai/jobs/info/6ac931e8fe8f33a85d502be4",
+      "location": "Atlanta, GA; Irvine, CA; Normal, IL; Palo Alto, CA; Plymouth, MI",
+      "datePosted": 1795314895,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -630,39 +663,6 @@
       "datePosted": 1795272240,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6dfaf8ff3fb9b3bc8f747",
-      "company": "Amazon",
-      "title": "Data Engineer Internship - 2027 (US)",
-      "url": "https://jobright.ai/jobs/info/6ac6dfaf8ff3fb9b3bc8f747",
-      "location": "Seattle, WA",
-      "datePosted": 1795272240,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b00e74f0ae14188d58c2433",
-      "company": "Tesla",
-      "title": "Internship, Data Engineer, Data Engineering & Business Intelligence (Winter/Spring2027)",
-      "url": "https://jobright.ai/jobs/info/6b00e74f0ae14188d58c2433",
-      "location": "Fremont, CA",
-      "datePosted": 1795272240,
-      "source": "newgrad-jobs",
-      "season": "Winter",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6a8218ff3fb9b3bc8e65f",
-      "company": "Deloitte",
-      "title": "Consultant II, Backend Software Engineering - Tax Transformation",
-      "url": "https://jobright.ai/jobs/info/6ac6a8218ff3fb9b3bc8e65f",
-      "location": "New Orleans, LA",
-      "datePosted": 1795271540,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
