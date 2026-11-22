@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-22T18:40:16Z",
+  "generatedAt": "2026-11-22T18:50:18Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "newgrad-jobs:6ab57b3fb3db59402d0fce0d",
+      "company": "BAE Systems",
+      "title": "Entry Level Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ab57b3fb3db59402d0fce0d",
+      "location": "Hudson, NH; Nashua, NH; Merrimack, NH",
+      "datePosted": 1795342199,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795373418
+    },
     {
       "id": "newgrad-jobs:6b031fde4e3d6ecd7d5e4489",
       "company": "Torentify",
@@ -39370,28 +39381,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:c4dc3458-525a-41e5-a1cc-5508b08f1c45",
-      "company": "Epic Games",
-      "title": "Tools Programmer Intern - Graphics",
-      "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
-      "location": "Cary, NC",
-      "datePosted": 1792780820,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1795045216
-    },
-    {
-      "id": "simplify:35ca3748-a29a-43c1-8294-fce6c0f59192",
-      "company": "Epic Games",
-      "title": "Tools Programmer Intern, Graphics",
-      "url": "https://go.vansh.nyc/1Cz",
-      "location": "Cary, NC",
-      "datePosted": 1792780820,
-      "source": "aggregator",
-      "season": "Summer",
-      "firstSeenAt": 1795046421
     }
   ]
 }
