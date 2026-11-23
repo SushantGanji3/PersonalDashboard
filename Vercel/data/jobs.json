@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T18:40:18Z",
-  "totalOpen": 1557,
-  "totalNewgrad": 264,
+  "generatedAt": "2026-11-23T18:50:23Z",
+  "totalOpen": 1556,
+  "totalNewgrad": 263,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,72 @@
       "location": "Yorba Linda, CA",
       "datePosted": 1795447811,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b048187526905eb2bcf7a3d",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Data",
+      "url": "https://jobright.ai/jobs/info/6b048187526905eb2bcf7a3d",
+      "location": "Newark, NJ",
+      "datePosted": 1795428615,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b047f784c822a415e671501",
+      "company": "Applied Physical Sciences Corp (APS)",
+      "title": "Intern \u2013 Software Engineer (REQ 362)",
+      "url": "https://jobright.ai/jobs/info/6b047f784c822a415e671501",
+      "location": "Arlington, VA; Groton, CT; Stonington, CT; Concord, MA",
+      "datePosted": 1795428088,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b044f61a72582cade08c5cd",
+      "company": "Benchling",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b044f61a72582cade08c5cd",
+      "location": "San Francisco, CA",
+      "datePosted": 1795427565,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b047c0ac8533c23e3c363cf",
+      "company": "Allergan Aesthetics, an AbbVie Company",
+      "title": "AI Engineer",
+      "url": "https://jobright.ai/jobs/info/6b047c0ac8533c23e3c363cf",
+      "location": "North Chicago, IL",
+      "datePosted": 1795427210,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b047bcb526905eb2bcf76d5",
+      "company": "Roblox",
+      "title": "Software Engineer, Data Tooling",
+      "url": "https://jobright.ai/jobs/info/6b047bcb526905eb2bcf76d5",
+      "location": "San Mateo, CA",
+      "datePosted": 1795427147,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b043a4f4c822a415e66f423",
+      "company": "Liberty Mutual Insurance",
+      "title": "Software Engineer, Investments Technology",
+      "url": "https://jobright.ai/jobs/info/6b043a4f4c822a415e66f423",
+      "location": "Boston, MA",
+      "datePosted": 1795427091,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -50,10 +116,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a992af2138838706058c9ae",
+      "id": "newgrad-jobs:6a99ea6c13883870605915ef",
       "company": "Hermeus",
       "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6a992af2138838706058c9ae",
+      "url": "https://jobright.ai/jobs/info/6a99ea6c13883870605915ef",
       "location": "Atlanta, GA",
       "datePosted": 1795426274,
       "source": "newgrad-jobs",
@@ -193,6 +259,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a93639ec12c90443efcc07d",
+      "company": "Jacobs",
+      "title": "Junior Software Developer",
+      "url": "https://jobright.ai/jobs/info/6a93639ec12c90443efcc07d",
+      "location": "Chantilly, VA",
+      "datePosted": 1795419877,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6b045d20566251ad7b8611e4",
       "company": "Serco",
       "title": "Software Engineering Intern",
@@ -210,17 +287,6 @@
       "url": "https://jobright.ai/jobs/info/6b045d1aa72582cade08cb89",
       "location": "Middletown, RI; Newport, RI; Warwick, RI",
       "datePosted": 1795419290,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf9f2dc5c64fa3d9cbdb51",
-      "company": "Jacobs",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6adf9f2dc5c64fa3d9cbdb51",
-      "location": "Chantilly, VA",
-      "datePosted": 1795418799,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -256,17 +322,6 @@
       "datePosted": 1795416104,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b044f61a72582cade08c5cd",
-      "company": "Benchling",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6b044f61a72582cade08c5cd",
-      "location": "San Francisco, CA",
-      "datePosted": 1795415776,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -320,17 +375,6 @@
       "url": "https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
       "location": "New York, NY",
       "datePosted": 1795410819,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b043a4f4c822a415e66f423",
-      "company": "Liberty Mutual Insurance",
-      "title": "Software Engineer, Investments Technology",
-      "url": "https://jobright.ai/jobs/info/6b043a4f4c822a415e66f423",
-      "location": "Boston, MA",
-      "datePosted": 1795410383,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -650,50 +694,6 @@
       "url": "https://jobright.ai/jobs/info/6b038a01ba759e898387aa48",
       "location": "Palo Alto, CA",
       "datePosted": 1795365249,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0389feba759e898387aa44",
-      "company": "Tesla",
-      "title": "Internship, Embedded Software Engineer, Vehicle Suspension (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6b0389feba759e898387aa44",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795365246,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0389f5adf53adef40e039a",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Automated Diagnostics Intern (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6b0389f5adf53adef40e039a",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795365237,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0389f45da88988c83fce7f",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Maps & Navigation Validation (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6b0389f45da88988c83fce7f",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795365236,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0389f0754c32e575312005",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer Opticaster, Energy Engineering (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6b0389f0754c32e575312005",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795365232,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
