@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T20:40:17Z",
-  "totalOpen": 1555,
-  "totalNewgrad": 258,
+  "generatedAt": "2026-11-23T20:50:15Z",
+  "totalOpen": 1552,
+  "totalNewgrad": 255,
   "totalOther": 1297,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -28,6 +28,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b049a9eb4933fb9f435f5cc",
+      "company": "Pendo.io",
+      "title": "Associate Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6b049a9eb4933fb9f435f5cc",
+      "location": "Raleigh, NC",
+      "datePosted": 1795435038,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b049a5c7bec27df08f925fd",
+      "company": "Intellian Technologies",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6b049a5c7bec27df08f925fd",
+      "location": "Rockville, MD",
+      "datePosted": 1795434972,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6adf999c0a4cc7090f980f7e",
       "company": "Gelber Group LLC",
       "title": "(Associate) Software Engineer- Trading Integrations Team",
@@ -47,17 +69,6 @@
       "datePosted": 1795432842,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04904e13646880439e2fda",
-      "company": "StoneApp by Stone Grid",
-      "title": "Software Engineer, Full Stack (AI) (Customer-Facing)",
-      "url": "https://jobright.ai/jobs/info/6b04904e13646880439e2fda",
-      "location": "United States",
-      "datePosted": 1795432398,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -105,17 +116,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0489f22d88b678f1177044",
-      "company": "Zscaler",
-      "title": "Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6b0489f22d88b678f1177044",
-      "location": "Santa Clara, CA",
-      "datePosted": 1795430770,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b045d20566251ad7b8611e4",
       "company": "Serco",
       "title": "Software Engineering Intern",
@@ -149,10 +149,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1795429440,
       "source": "newgrad-jobs",
@@ -223,7 +223,7 @@
       "datePosted": 1795428066,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b044f61a72582cade08c5cd",
