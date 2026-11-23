@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-23T15:10:19Z",
-  "totalOpen": 1557,
+  "generatedAt": "2026-11-23T15:20:16Z",
+  "totalOpen": 1558,
   "totalNewgrad": 263,
-  "totalOther": 1294,
+  "totalOther": 1295,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d7d8a9eb-0551-4558-b3e1-2102044cadcc",
+      "company": "Benchling",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1GP",
+      "location": "San Francisco, CA",
+      "datePosted": 1795444593,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6b044bdfc8533c23e3c348a1",
       "company": "Wyetech, LLC",
@@ -36,7 +47,7 @@
       "datePosted": 1795413950,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b04470aa72582cade08c2d5",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794514007,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:d195e49a-0c54-46a9-aba8-414e38f7ec6d",
-      "company": "SpaceX",
-      "title": "Aerospace Software Engineer New Grad - Aerospace Software",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8939697002",
-      "location": "Hawthorne, CA",
-      "datePosted": 1794506168,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
