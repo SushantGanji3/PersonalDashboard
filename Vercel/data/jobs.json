@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-23T16:00:30Z",
-  "totalOpen": 1559,
+  "generatedAt": "2026-11-23T16:10:17Z",
+  "totalOpen": 1560,
   "totalNewgrad": 264,
-  "totalOther": 1295,
+  "totalOther": 1296,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:3574f73e-f7bb-48db-9405-472749c30a29",
+      "company": "L3Harris",
+      "title": "Associate \u2013 Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineering-CA-92887/1452910400/?ats=successfactors",
+      "location": "Yorba Linda, CA",
+      "datePosted": 1795447811,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6af73dbbe3d8d612bf421470",
       "company": "TikTok",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794524947,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:c7e6a21c-950d-4911-9d30-2d9677d32f46",
-      "company": "General Dynamics",
-      "title": "Professional Programmer Intern",
-      "url": "https://go.vansh.nyc/1xx",
-      "location": "Raleigh, NC",
-      "datePosted": 1794514007,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
