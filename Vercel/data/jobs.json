@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T23:10:22Z",
-  "totalOpen": 1538,
-  "totalNewgrad": 246,
-  "totalOther": 1292,
+  "generatedAt": "2026-11-23T23:20:17Z",
+  "totalOpen": 1535,
+  "totalNewgrad": 245,
+  "totalOther": 1290,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -36,6 +36,39 @@
       "datePosted": 1795444307,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b04bc617bec27df08f93da1",
+      "company": "Indeed",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b04bc617bec27df08f93da1",
+      "location": "Austin, TX",
+      "datePosted": 1795443681,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b04bb7458147eafa2995989",
+      "company": "Sorenson Communications",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6b04bb7458147eafa2995989",
+      "location": "United States",
+      "datePosted": 1795443444,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b04b8757bec27df08f93ae7",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - Early Career",
+      "url": "https://jobright.ai/jobs/info/6b04b8757bec27df08f93ae7",
+      "location": "King of Prussia, PA",
+      "datePosted": 1795442677,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -47,7 +80,7 @@
       "datePosted": 1795442644,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b04a6cb2d88b678f11786db",
@@ -567,17 +600,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b04760621f0a1e0c849b2eb",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6b04760621f0a1e0c849b2eb",
-      "location": "Owego, NY",
-      "datePosted": 1795425670,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b0475aa4c822a415e670fb5",
       "company": "General Dynamics",
       "title": "CWL Systems Engineer Entry Level",
@@ -661,28 +683,6 @@
       "url": "https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
       "location": "Redmond, WA",
       "datePosted": 1795421713,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a93cbf73603630099199105",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer, Employee Experience",
-      "url": "https://jobright.ai/jobs/info/6a93cbf73603630099199105",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795420692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a93639ec12c90443efcc07d",
-      "company": "Jacobs",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6a93639ec12c90443efcc07d",
-      "location": "Chantilly, VA",
-      "datePosted": 1795419877,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1238,17 +1238,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:a73403c0-30ce-4961-9980-73cb517b313f",
-      "company": "RTX",
-      "title": "Software Engineering Co-op",
-      "url": "https://go.vansh.nyc/1zb",
-      "location": "Richardson, TX",
-      "datePosted": 1794604797,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
       "id": "simplify:cd005cb7-0e40-441a-85ae-e2b0df158686",
       "company": "Strava",
       "title": "Software Engineering Intern, Server, Comms",
@@ -1321,6 +1310,17 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
       "location": "Remote in USA",
       "datePosted": 1794525354,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:9e6e9b0f-64c3-4f37-b21f-900c2adf61bd",
+      "company": "Oracle",
+      "title": "New Grad 2027: Site Reliability Engineer, OCI",
+      "url": "https://go.vansh.nyc/1yT",
+      "location": "Nashville, TN",
+      "datePosted": 1794524947,
       "source": "aggregator",
       "season": null,
       "isNew": false
