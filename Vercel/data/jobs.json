@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-23T23:30:18Z",
+  "generatedAt": "2026-11-23T23:40:16Z",
   "totalOpen": 1534,
-  "totalNewgrad": 245,
-  "totalOther": 1289,
+  "totalNewgrad": 243,
+  "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:a6e7484a-77b3-4267-ac3d-8200ef4a75c1",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Artificial General Intelligence",
+      "url": "https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+      "location": "Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA",
+      "datePosted": 1795475472,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:702ca102-d18c-4331-b692-8cade110162c",
       "company": "Oscar Health",
@@ -798,6 +809,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:bb4df03f-cdf9-493c-8743-3f139dc83df3",
+      "company": "Zscaler",
+      "title": "Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795196320,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:0e961056-83ab-48ac-b418-5d457f9c4031",
       "company": "L3Harris",
       "title": "Associate Embedded Software Engineer",
@@ -936,17 +958,6 @@
       "url": "https://qualcomm.eightfold.ai/careers/job/446722197774",
       "location": "San Diego, CA",
       "datePosted": 1795055909,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:b4ef0d6c-f65b-48c0-b030-61b50a0eb09b",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern - Core - Infrastructure & Security",
-      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true",
-      "location": "Menlo Park, CA, Bellevue, WA",
-      "datePosted": 1795046400,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1310,17 +1321,6 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
       "location": "Remote in USA",
       "datePosted": 1794525354,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9e6e9b0f-64c3-4f37-b21f-900c2adf61bd",
-      "company": "Oracle",
-      "title": "New Grad 2027: Site Reliability Engineer, OCI",
-      "url": "https://go.vansh.nyc/1yT",
-      "location": "Nashville, TN",
-      "datePosted": 1794524947,
       "source": "aggregator",
       "season": null,
       "isNew": false
