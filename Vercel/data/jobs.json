@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T18:30:19Z",
-  "totalOpen": 1558,
+  "generatedAt": "2026-11-23T18:40:18Z",
+  "totalOpen": 1557,
   "totalNewgrad": 264,
-  "totalOther": 1294,
+  "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -787,17 +787,6 @@
       "isNew": false
     },
     {
-      "id": "simplify:bb4df03f-cdf9-493c-8743-3f139dc83df3",
-      "company": "Zscaler",
-      "title": "Software Development Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
-      "location": "Santa Clara, CA",
-      "datePosted": 1795196320,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:0e961056-83ab-48ac-b418-5d457f9c4031",
       "company": "L3Harris",
       "title": "Associate Embedded Software Engineer",
@@ -1323,6 +1312,17 @@
       "datePosted": 1794524947,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:c7e6a21c-950d-4911-9d30-2d9677d32f46",
+      "company": "General Dynamics",
+      "title": "Professional Programmer Intern",
+      "url": "https://go.vansh.nyc/1xx",
+      "location": "Raleigh, NC",
+      "datePosted": 1794514007,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
