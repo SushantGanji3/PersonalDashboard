@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T23:00:23Z",
-  "totalOpen": 1542,
-  "totalNewgrad": 249,
-  "totalOther": 1293,
+  "generatedAt": "2026-11-23T23:10:22Z",
+  "totalOpen": 1538,
+  "totalNewgrad": 246,
+  "totalOther": 1292,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -28,6 +28,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a701a25f5953013637f7272",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern (TikTok-Privacy and Security) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6a701a25f5953013637f7272",
+      "location": "San Jose, CA",
+      "datePosted": 1795444307,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af23e141aaffa49f7383028",
+      "company": "SpaceX",
+      "title": "Data Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6af23e141aaffa49f7383028",
+      "location": "Redmond, WA",
+      "datePosted": 1795442644,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b04a6cb2d88b678f11786db",
+      "company": "Los Alamos National Laboratory",
+      "title": "Graduate Student Internship - Adaptive Machine Learning for Time-Varying Dynamic Systems",
+      "url": "https://jobright.ai/jobs/info/6b04a6cb2d88b678f11786db",
+      "location": "Los Alamos, NM",
+      "datePosted": 1795442241,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6b04ab3a2d88b678f11789be",
       "company": "Lifeway Christian Resources",
       "title": "Summer Internship | Software Engineer Full Stack | Back-End",
@@ -36,17 +69,6 @@
       "datePosted": 1795439290,
       "source": "newgrad-jobs",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04a6cb2d88b678f11786db",
-      "company": "Los Alamos National Laboratory",
-      "title": "Graduate Student Internship - Adaptive Machine Learning for Time-Varying Dynamic Systems",
-      "url": "https://jobright.ai/jobs/info/6b04a6cb2d88b678f11786db",
-      "location": "Los Alamos, NM",
-      "datePosted": 1795438856,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -666,28 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae88d45061d6d7ff3d7ae76",
-      "company": "ParetoHealth",
-      "title": "Software Engineering Summer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae88d45061d6d7ff3d7ae76",
-      "location": "Philadelphia, PA",
-      "datePosted": 1795418666,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a90b5b48ffa38557e6ce863",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
-      "url": "https://jobright.ai/jobs/info/6a90b5b48ffa38557e6ce863",
-      "location": "Austin, TX; Seattle, WA; New York, NY; Cupertino, CA",
-      "datePosted": 1795417474,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:a628d336-09fd-45c3-bd3c-fcfe8c92c533",
       "company": "Benchling",
       "title": "Software Engineer Intern",
@@ -936,17 +936,6 @@
       "url": "https://qualcomm.eightfold.ai/careers/job/446722197774",
       "location": "San Diego, CA",
       "datePosted": 1795055909,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:9f29143b-2192-4ae7-b0aa-ddb9eacb3449",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern - AI / ML",
-      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true",
-      "location": "Menlo Park, CA, Bellevue, WA",
-      "datePosted": 1795046400,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1321,6 +1310,17 @@
       "url": "https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055",
       "location": "SF",
       "datePosted": 1794528000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:6aeeb00d-88c5-4ee8-871e-ff119dee63bb",
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Backend - Continuous Delivery",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+      "location": "Remote in USA",
+      "datePosted": 1794525354,
       "source": "aggregator",
       "season": null,
       "isNew": false
