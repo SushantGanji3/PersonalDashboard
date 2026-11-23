@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-23T08:20:17Z",
-  "totalOpen": 1554,
+  "generatedAt": "2026-11-23T08:30:18Z",
+  "totalOpen": 1555,
   "totalNewgrad": 260,
-  "totalOther": 1294,
+  "totalOther": 1295,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:a822f439-a24e-4a06-aa9b-384436b75d90",
+      "company": "Northrop Grumman",
+      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+      "url": "https://go.vansh.nyc/1GL",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1795392000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6b03e0265da88988c83fe313",
       "company": "TikTok",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794506168,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:a7ece1d7-457b-4996-86ff-666aa9b7490a",
-      "company": "Microsoft",
-      "title": "Data Scientist Intern, CoreAI",
-      "url": "https://go.vansh.nyc/1wj",
-      "location": "Redmond, WA",
-      "datePosted": 1794478846,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
