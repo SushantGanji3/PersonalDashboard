@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T09:30:19Z",
-  "totalOpen": 1537,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-11-24T09:40:16Z",
+  "totalOpen": 1538,
+  "totalNewgrad": 247,
   "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b054dfc7c4f49a9d2160319",
+      "company": "Unicontrol",
+      "title": "Full-Stack Cloud Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6b054dfc7c4f49a9d2160319",
+      "location": "Odense, KS",
+      "datePosted": 1795480956,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a962810c8763a3a87ffec45",
@@ -732,17 +743,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b04a69b7bec27df08f9314d",
-      "company": "KeyLogic",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b04a69b7bec27df08f9314d",
-      "location": "Oak Ridge, TN",
-      "datePosted": 1795438107,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:a628d336-09fd-45c3-bd3c-fcfe8c92c533",
       "company": "Benchling",
       "title": "Software Engineer Intern",
@@ -1029,6 +1029,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:26fa4e32-b501-44ab-87b3-253fe6adc3a1",
+      "company": "Zoox",
+      "title": "Data Scientist",
+      "url": "https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply",
+      "location": "Foster City, CA",
+      "datePosted": 1795045790,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:e529c65c-8dcb-4357-b569-f601c04b1677",
       "company": "Microsoft",
       "title": "Research Intern, Computer Vision and Deep Learning",
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1Ha",
       "location": "San Francisco, CA",
       "datePosted": 1794597955,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:8e9e6c25-851b-41cd-8881-746c993f5519",
-      "company": "Strava",
-      "title": "Software Engineering Intern, Server, User Lifecycle",
-      "url": "https://go.vansh.nyc/1H9",
-      "location": "San Francisco, CA",
-      "datePosted": 1794594102,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
