@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:30:22Z",
+  "generatedAt": "2026-11-24T17:40:17Z",
   "totalOpen": 1523,
   "totalNewgrad": 232,
   "totalOther": 1291,
@@ -13,6 +13,17 @@
       "location": "Newark, DE",
       "datePosted": 1795535544,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00be8f0f536e0ba7276dbf",
+      "company": "Render",
+      "title": "Software Engineer, Application Security (all levels)",
+      "url": "https://jobright.ai/jobs/info/6b00be8f0f536e0ba7276dbf",
+      "location": "United States; Canada",
+      "datePosted": 1795509345,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -705,17 +716,6 @@
       "url": "https://jobright.ai/jobs/info/6b04ba5813646880439e4d19",
       "location": "United States",
       "datePosted": 1795467201,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04d61d58147eafa2996904",
-      "company": "Render",
-      "title": "Software Engineer, Platform Security (All Levels)",
-      "url": "https://jobright.ai/jobs/info/6b04d61d58147eafa2996904",
-      "location": "United States",
-      "datePosted": 1795466472,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
