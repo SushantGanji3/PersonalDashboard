@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-24T16:00:22Z",
+  "generatedAt": "2026-11-24T16:10:16Z",
   "totalOpen": 1524,
-  "totalNewgrad": 234,
-  "totalOther": 1290,
+  "totalNewgrad": 233,
+  "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d78eb9fa-a618-4d48-978e-3a1aa5ea275d",
+      "company": "JPMorgan Chase",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021",
+      "location": "Newark, DE",
+      "datePosted": 1795535544,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aafe6e1de327d3e210d7215",
+      "company": "Metropolitan Transportation Authority",
+      "title": "Application Developer Levels 1 - 5",
+      "url": "https://jobright.ai/jobs/info/6aafe6e1de327d3e210d7215",
+      "location": "New York, NY",
+      "datePosted": 1795503778,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af313b080020ca3a897226a",
+      "company": "Auria Space",
+      "title": "Jr-Mid Software Engineer - Sentinel",
+      "url": "https://jobright.ai/jobs/info/6af313b080020ca3a897226a",
+      "location": "Ogden, UT",
+      "datePosted": 1795503223,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6b05a27963d280053ef837b2",
       "company": "TikTok",
@@ -15,6 +48,17 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7645caa26ccc369f8348f3",
+      "company": "Verkada",
+      "title": "Software Engineer - Data Platform",
+      "url": "https://jobright.ai/jobs/info/6a7645caa26ccc369f8348f3",
+      "location": "San Mateo, CA",
+      "datePosted": 1795499861,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ae8b5f8777c336eb6d65415",
@@ -257,6 +301,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b05ae97707ad7f3505398eb",
+      "company": "Massachusetts Executive Office of Labor and Workforce Development (LWD)",
+      "title": "Junior Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6b05ae97707ad7f3505398eb",
+      "location": "Chelsea, MA",
+      "datePosted": 1795480736,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a962810c8763a3a87ffec45",
@@ -683,50 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6b0532267c4f49a9d215fa0e",
       "location": "United States",
       "datePosted": 1795449600,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0553e442f2a3d16e7bfdcf",
-      "company": "Louisiana Economic Development",
-      "title": "UiPath Robotic Process Automation Developer",
-      "url": "https://jobright.ai/jobs/info/6b0553e442f2a3d16e7bfdcf",
-      "location": "United States",
-      "datePosted": 1795449600,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb6bb5c5917ce34b5daa3f",
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Software Engineer, Entry Level",
-      "url": "https://jobright.ai/jobs/info/6afb6bb5c5917ce34b5daa3f",
-      "location": "West Mifflin, PA; Niskayuna, NY",
-      "datePosted": 1795449544,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0479d3c8533c23e3c362f8",
-      "company": "Nordstrom",
-      "title": "Identity Security Engineer 1 - HYBRID",
-      "url": "https://jobright.ai/jobs/info/6b0479d3c8533c23e3c362f8",
-      "location": "Seattle, WA",
-      "datePosted": 1795448199,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b00d9c9a512f514bbde0fb6",
-      "company": "Brewer Science",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b00d9c9a512f514bbde0fb6",
-      "location": "United States",
-      "datePosted": 1795448102,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1Hb",
       "location": "San Francisco, CA",
       "datePosted": 1794598223,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:b6f02f38-3143-4a5c-b2c1-a4a31f9cf68d",
-      "company": "Strava",
-      "title": "Software Engineering Intern, Server, Security",
-      "url": "https://go.vansh.nyc/1Ha",
-      "location": "San Francisco, CA",
-      "datePosted": 1794597955,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
