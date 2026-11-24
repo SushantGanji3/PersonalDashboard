@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-24T18:50:18Z",
-  "totalOpen": 1528,
-  "totalNewgrad": 238,
-  "totalOther": 1290,
+  "generatedAt": "2026-11-24T19:00:30Z",
+  "totalOpen": 1520,
+  "totalNewgrad": 229,
+  "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:fbefa51b-8b58-4bd0-81c0-6eee36d64ce9",
+      "company": "PayPal",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1Io",
+      "location": "San Jose, CA, Chicago, IL, Austin, TX",
+      "datePosted": 1795546178,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:f5243bbd-b00b-42b4-8959-b3e5d483e38a",
       "company": "NVIDIA",
@@ -14,7 +25,7 @@
       "datePosted": 1795545561,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d78eb9fa-a618-4d48-978e-3a1aa5ea275d",
@@ -36,7 +47,7 @@
       "datePosted": 1795514909,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b05ce9d2cb8a4d8561c6f0a",
@@ -47,7 +58,7 @@
       "datePosted": 1795513885,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aed790ec3da5933b8137341",
@@ -58,7 +69,7 @@
       "datePosted": 1795513610,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
@@ -69,7 +80,7 @@
       "datePosted": 1795512537,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b05c6082cb8a4d8561c6a9f",
@@ -78,6 +89,28 @@
       "url": "https://jobright.ai/jobs/info/6b05c6082cb8a4d8561c6a9f",
       "location": "Boston, MA",
       "datePosted": 1795512231,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b05bf950a025d0ca4ff5029",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b05bf950a025d0ca4ff5029",
+      "location": "Fort Wayne, IN",
+      "datePosted": 1795512022,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b049d0a13646880439e3747",
+      "company": "RTX",
+      "title": "Systems Engineer, Intern",
+      "url": "https://jobright.ai/jobs/info/6b049d0a13646880439e3747",
+      "location": "Sterling, VA",
+      "datePosted": 1795512018,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": true
@@ -292,21 +325,21 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1e39f905985ccaa406776",
+      "id": "newgrad-jobs:6af224b68cbcfef4a59d996d",
       "company": "Lockheed Martin",
       "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e39f905985ccaa406776",
-      "location": "Fort Worth, TX; Orlando, FL; Owego, NY; Salina, NY",
+      "url": "https://jobright.ai/jobs/info/6af224b68cbcfef4a59d996d",
+      "location": "Fort Worth, TX",
       "datePosted": 1795507358,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af1e3cf8cbcfef4a59d6304",
+      "id": "newgrad-jobs:6af1e3d11aaffa49f737e8d4",
       "company": "Lockheed Martin",
       "title": "Systems Engineer-Intern",
-      "url": "https://jobright.ai/jobs/info/6af1e3cf8cbcfef4a59d6304",
+      "url": "https://jobright.ai/jobs/info/6af1e3d11aaffa49f737e8d4",
       "location": "King of Prussia, PA",
       "datePosted": 1795507358,
       "source": "newgrad-jobs",
@@ -402,15 +435,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a95824bdfb52f4cf300f94c",
+      "id": "newgrad-jobs:6a8ca25725fc4e7ae3db98a8",
       "company": "Garmin",
       "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6a95824bdfb52f4cf300f94c",
-      "location": "Chandler, AZ",
+      "url": "https://jobright.ai/jobs/info/6a8ca25725fc4e7ae3db98a8",
+      "location": "Olathe, KS",
       "datePosted": 1795507282,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b05b4612835ccc63ff53e65",
@@ -674,28 +707,6 @@
       "datePosted": 1795488144,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0569fdd43f730eab593ce1",
-      "company": "TikTok",
-      "title": "Software Development Engineer Intern (Network Automation) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6b0569fdd43f730eab593ce1",
-      "location": "San Jose, CA",
-      "datePosted": 1795488125,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0569f6707ad7f3505385e6",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
-      "url": "https://jobright.ai/jobs/info/6b0569f6707ad7f3505385e6",
-      "location": "Seattle, WA",
-      "datePosted": 1795488118,
-      "source": "newgrad-jobs",
-      "season": "Fall 2027",
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1Hd",
       "location": "San Francisco, CA",
       "datePosted": 1794613280,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:be8415d2-b8d6-4b70-b9cb-df53a3680480",
-      "company": "Strava",
-      "title": "Software Engineering Intern, Server, Next Sports",
-      "url": "https://go.vansh.nyc/1Hc",
-      "location": "San Francisco, CA",
-      "datePosted": 1794608868,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
