@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T15:50:17Z",
-  "totalOpen": 1526,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-11-24T16:00:22Z",
+  "totalOpen": 1524,
+  "totalNewgrad": 234,
   "totalOther": 1290,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795502585,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae8b5f8777c336eb6d65415",
@@ -391,10 +391,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b04efe7b4933fb9f43624ad",
+      "id": "newgrad-jobs:6b051576b4933fb9f4362c68",
       "company": "KLA",
       "title": "Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6b04efe7b4933fb9f43624ad",
+      "url": "https://jobright.ai/jobs/info/6b051576b4933fb9f4362c68",
       "location": "Milpitas, CA",
       "datePosted": 1795468664,
       "source": "newgrad-jobs",
@@ -413,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b04ba5813646880439e4d19",
+      "id": "newgrad-jobs:6b0488d5566251ad7b862ee9",
       "company": "athenahealth",
       "title": "Associate Application Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6b04ba5813646880439e4d19",
+      "url": "https://jobright.ai/jobs/info/6b0488d5566251ad7b862ee9",
       "location": "United States",
       "datePosted": 1795467201,
       "source": "newgrad-jobs",
@@ -710,23 +710,23 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0002ee80dbbb90153930ad",
-      "company": "Cadence",
-      "title": "Software Engineering Intern - Circuit Simulation infrastructure",
-      "url": "https://jobright.ai/jobs/info/6b0002ee80dbbb90153930ad",
-      "location": "San Jose, CA",
-      "datePosted": 1795448989,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b0479d3c8533c23e3c362f8",
       "company": "Nordstrom",
       "title": "Identity Security Engineer 1 - HYBRID",
       "url": "https://jobright.ai/jobs/info/6b0479d3c8533c23e3c362f8",
       "location": "Seattle, WA",
       "datePosted": 1795448199,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b00d9c9a512f514bbde0fb6",
+      "company": "Brewer Science",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b00d9c9a512f514bbde0fb6",
+      "location": "United States",
+      "datePosted": 1795448102,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
