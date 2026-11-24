@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T03:10:17Z",
-  "totalOpen": 1547,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-11-24T03:20:16Z",
+  "totalOpen": 1546,
+  "totalNewgrad": 253,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795488684,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:19c9469b-4c0e-4a88-9856-8040e5e5ecb5",
@@ -50,6 +50,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b04f5ce58147eafa29972b2",
+      "company": "Matanuska Valley Federal Credit Union",
+      "title": "Enterprise Integration Developer",
+      "url": "https://jobright.ai/jobs/info/6b04f5ce58147eafa29972b2",
+      "location": "United States",
+      "datePosted": 1795458382,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:c9b6e057-a2e6-4569-82c2-9e595b27ae5b",
       "company": "Oscar Health",
       "title": "Software Engineer Intern",
@@ -57,6 +68,17 @@
       "location": "NYC",
       "datePosted": 1795458321,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b048187526905eb2bcf7a3d",
+      "company": "Amazon",
+      "title": "Software Development Engineer - Data",
+      "url": "https://jobright.ai/jobs/info/6b048187526905eb2bcf7a3d",
+      "location": "Newark, NJ",
+      "datePosted": 1795457912,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -193,17 +215,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b048187526905eb2bcf7a3d",
-      "company": "Amazon",
-      "title": "Software Development Engineer - Data",
-      "url": "https://jobright.ai/jobs/info/6b048187526905eb2bcf7a3d",
-      "location": "Newark, NJ",
-      "datePosted": 1795451126,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b04b9cc2d88b678f117913b",
       "company": "Amazon",
       "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
@@ -292,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b04c113b4933fb9f4361259",
+      "id": "newgrad-jobs:6b04a6502d88b678f1178655",
       "company": "T-Mobile",
       "title": "Summer 2027 Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6b04c113b4933fb9f4361259",
+      "url": "https://jobright.ai/jobs/info/6b04a6502d88b678f1178655",
       "location": "Atlanta, GA; Bellevue, WA",
       "datePosted": 1795447949,
       "source": "newgrad-jobs",
@@ -716,17 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6b049df47fd2e33bde09583f",
       "location": "Hanover, MD",
       "datePosted": 1795435892,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf90ecc5c64fa3d9cbd027",
-      "company": "B/CORE",
-      "title": "Junior Software Developer",
-      "url": "https://jobright.ai/jobs/info/6adf90ecc5c64fa3d9cbd027",
-      "location": "Vienna, VA; Chantilly, VA",
-      "datePosted": 1795435599,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
