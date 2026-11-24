@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:50:17Z",
+  "generatedAt": "2026-11-24T22:00:19Z",
   "windowDays": 30,
   "items": [
     {
@@ -56,6 +56,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1795557017
+    },
+    {
+      "id": "newgrad-jobs:6aff7400865dbcc3f26fc664",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6aff7400865dbcc3f26fc664",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795525123,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795557619
+    },
+    {
+      "id": "newgrad-jobs:6b05fa0b0e7eacd1ea645011",
+      "company": "Apex",
+      "title": "Software Engineer, Test Automation Internship (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b05fa0b0e7eacd1ea645011",
+      "location": "Los Angeles, CA",
+      "datePosted": 1795525003,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "firstSeenAt": 1795557619
     },
     {
       "id": "newgrad-jobs:6b05f808dbad4c4bd2503203",
@@ -42076,17 +42098,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1794597016
-    },
-    {
-      "id": "newgrad-jobs:6adedd549a8c91d5c3582d46",
-      "company": "Ada",
-      "title": "Data Engineer",
-      "url": "https://jobright.ai/jobs/info/6adedd549a8c91d5c3582d46",
-      "location": "United States",
-      "datePosted": 1792965348,
-      "source": "newgrad-jobs",
-      "season": null,
-      "firstSeenAt": 1793826020
     }
   ]
 }
