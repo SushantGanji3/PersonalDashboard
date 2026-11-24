@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T22:10:17Z",
-  "totalOpen": 1522,
-  "totalNewgrad": 239,
+  "generatedAt": "2026-11-24T22:20:17Z",
+  "totalOpen": 1518,
+  "totalNewgrad": 235,
   "totalOther": 1283,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -35,6 +35,28 @@
       "location": "Newark, DE",
       "datePosted": 1795535544,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0601db71c8f4e3660eab6c",
+      "company": "ESChat",
+      "title": "Junior Front End Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6b0601db71c8f4e3660eab6c",
+      "location": "San Luis Obispo, CA",
+      "datePosted": 1795527003,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05e46b45a65b5da366c52e",
+      "company": "Deloitte",
+      "title": "Internal Services - Associate - Software Engineering - Summer/Fall 2027",
+      "url": "https://jobright.ai/jobs/info/6b05e46b45a65b5da366c52e",
+      "location": "Nashville, TN; New York, NY",
+      "datePosted": 1795526676,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -133,17 +155,6 @@
       "url": "https://jobright.ai/jobs/info/6b05f808dbad4c4bd2503203",
       "location": "Colorado Springs, CO",
       "datePosted": 1795524488,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05f5d471c8f4e3660ea3f0",
-      "company": "CuraTech",
-      "title": "Software Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6b05f5d471c8f4e3660ea3f0",
-      "location": "United States",
-      "datePosted": 1795523924,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -265,17 +276,6 @@
       "url": "https://jobright.ai/jobs/info/6adb5aed46a8cabdc1ff27b9",
       "location": "Austin, TX; New York, NY; San Francisco, CA",
       "datePosted": 1795523507,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05e46b45a65b5da366c52e",
-      "company": "Deloitte",
-      "title": "Internal Services - Associate - Software Engineering - Summer/Fall 2027",
-      "url": "https://jobright.ai/jobs/info/6b05e46b45a65b5da366c52e",
-      "location": "New York, NY; Nashville, TN",
-      "datePosted": 1795522241,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -644,28 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
-      "location": "Littleton, CO",
-      "datePosted": 1795507358,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af224ae62fb9f5fcd8950e0",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6af224ae62fb9f5fcd8950e0",
-      "location": "Fort Worth, TX",
-      "datePosted": 1795507358,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b04b8792d88b678f1178ffd",
       "company": "Lockheed Martin",
       "title": "A/AI Machine Learning Engineering (junior career)",
@@ -694,6 +672,28 @@
       "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795507311,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a831d433eeac101cfa9d7f6",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer-IT - E2",
+      "url": "https://jobright.ai/jobs/info/6a831d433eeac101cfa9d7f6",
+      "location": "Orlando, FL",
+      "datePosted": 1795507307,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b04b86f2d88b678f1178fd2",
+      "company": "Lockheed Martin",
+      "title": "Full Stack Engineer (E1)",
+      "url": "https://jobright.ai/jobs/info/6b04b86f2d88b678f1178fd2",
+      "location": "United States",
+      "datePosted": 1795507299,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
