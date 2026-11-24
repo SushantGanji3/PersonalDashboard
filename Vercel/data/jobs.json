@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-24T23:30:18Z",
+  "generatedAt": "2026-11-24T23:50:15Z",
   "totalOpen": 1516,
   "totalNewgrad": 233,
   "totalOther": 1283,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:feab8bd7-d5d9-47f8-9192-0c9ccd70d7d5",
+      "company": "Rubrik",
+      "title": "Software Engineer - Data Protection",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795549078,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "simplify:fbefa51b-8b58-4bd0-81c0-6eee36d64ce9",
       "company": "PayPal",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794613756,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:4efd11d0-8f38-4416-8364-ceb31c9d8c29",
-      "company": "Strava",
-      "title": "Software Engineering Intern, AI/ML Data Products",
-      "url": "https://go.vansh.nyc/1Hd",
-      "location": "San Francisco, CA",
-      "datePosted": 1794613280,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
