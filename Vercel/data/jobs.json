@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T05:30:17Z",
-  "totalOpen": 1547,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-11-24T05:40:15Z",
+  "totalOpen": 1546,
+  "totalNewgrad": 253,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1795478400,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:19c9469b-4c0e-4a88-9856-8040e5e5ecb5",
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0488d5566251ad7b862ee9",
+      "company": "athenahealth",
+      "title": "Associate Application Security Engineer",
+      "url": "https://jobright.ai/jobs/info/6b0488d5566251ad7b862ee9",
+      "location": "United States",
+      "datePosted": 1795467201,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b04fcd42d88b678f117ac46",
@@ -347,10 +358,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b04c113b4933fb9f4361259",
+      "id": "newgrad-jobs:6b04a6502d88b678f1178655",
       "company": "T-Mobile",
       "title": "Summer 2027 Software Engineering Internship",
-      "url": "https://jobright.ai/jobs/info/6b04c113b4933fb9f4361259",
+      "url": "https://jobright.ai/jobs/info/6b04a6502d88b678f1178655",
       "location": "Atlanta, GA; Bellevue, WA",
       "datePosted": 1795447949,
       "source": "newgrad-jobs",
@@ -726,17 +737,6 @@
       "title": "[Remote] Machine Learning Engineer",
       "url": "https://jobright.ai/jobs/info/6ae2317f05a39c3e2c717c54",
       "location": "United States",
-      "datePosted": 1795436649,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://jobright.ai/jobs/info/6a960b44c8763a3a87ffe1bd",
-      "location": "San Jose, CA; Waltham, MA; San Francisco, CA; Austin, TX; Seattle, WA; Lehi, UT; New York, NY",
       "datePosted": 1795436649,
       "source": "newgrad-jobs",
       "season": null,
