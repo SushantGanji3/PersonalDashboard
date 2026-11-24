@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:50:17Z",
+  "generatedAt": "2026-11-24T10:00:28Z",
   "totalOpen": 1537,
   "totalNewgrad": 246,
   "totalOther": 1291,
@@ -15,6 +15,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a6b244232f9300c3a3dd1dd",
+      "company": "Peterson Technologies",
+      "title": "Junior Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a6b244232f9300c3a3dd1dd",
+      "location": "Annapolis Junction, MD",
+      "datePosted": 1795482502,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a962810c8763a3a87ffec45",
@@ -435,6 +446,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b0553e442f2a3d16e7bfdcf",
+      "company": "Louisiana Economic Development",
+      "title": "UiPath Robotic Process Automation Developer",
+      "url": "https://jobright.ai/jobs/info/6b0553e442f2a3d16e7bfdcf",
+      "location": "United States",
+      "datePosted": 1795449600,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6afb6bb5c5917ce34b5daa3f",
       "company": "Naval Nuclear Laboratory (FMP)",
       "title": "Software Engineer, Entry Level",
@@ -556,10 +578,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad8b47039284cd52427f9e7",
+      "id": "newgrad-jobs:6afb4d97317abe715a262f52",
       "company": "CCS",
       "title": "Associate Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad8b47039284cd52427f9e7",
+      "url": "https://jobright.ai/jobs/info/6afb4d97317abe715a262f52",
       "location": "Hauppauge, NY",
       "datePosted": 1795447084,
       "source": "newgrad-jobs",
@@ -716,28 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6b04b8757bec27df08f93ae7",
       "location": "King of Prussia, PA",
       "datePosted": 1795442677,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a6d23fbca1f933846602bff",
-      "company": "ITA International",
-      "title": "Junior Power Platform Developer",
-      "url": "https://jobright.ai/jobs/info/6a6d23fbca1f933846602bff",
-      "location": "United States",
-      "datePosted": 1795441173,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04a69b7bec27df08f9314d",
-      "company": "KeyLogic",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b04a69b7bec27df08f9314d",
-      "location": "Oak Ridge, TN",
-      "datePosted": 1795438107,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
