@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-24T18:40:20Z",
-  "totalOpen": 1525,
-  "totalNewgrad": 236,
-  "totalOther": 1289,
+  "generatedAt": "2026-11-24T18:50:18Z",
+  "totalOpen": 1528,
+  "totalNewgrad": 238,
+  "totalOther": 1290,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:f5243bbd-b00b-42b4-8959-b3e5d483e38a",
+      "company": "NVIDIA",
+      "title": "Developer Technology Intern, AI",
+      "url": "https://go.vansh.nyc/1Im",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795545561,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:d78eb9fa-a618-4d48-978e-3a1aa5ea275d",
       "company": "JPMorgan Chase",
@@ -17,23 +28,67 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b05d29d63d280053ef8541f",
+      "company": "Metropolitan Transportation Authority",
+      "title": "Application Developer Analyst Levels 1 - 2",
+      "url": "https://jobright.ai/jobs/info/6b05d29d63d280053ef8541f",
+      "location": "Jamaica, NY",
+      "datePosted": 1795514909,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05ce9d2cb8a4d8561c6f0a",
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6b05ce9d2cb8a4d8561c6f0a",
+      "location": "Hawthorne, CA",
+      "datePosted": 1795513885,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed790ec3da5933b8137341",
+      "company": "Vagaro",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aed790ec3da5933b8137341",
+      "location": "Pleasanton, CA",
+      "datePosted": 1795513610,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
+      "company": "Boeing",
+      "title": "Software Engineer (Associate or Experienced)",
+      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
+      "location": "Kent, WA",
+      "datePosted": 1795512537,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05c6082cb8a4d8561c6a9f",
+      "company": "Blue Cross Blue Shield of Massachusetts",
+      "title": "AI Engineer Associate",
+      "url": "https://jobright.ai/jobs/info/6b05c6082cb8a4d8561c6a9f",
+      "location": "Boston, MA",
+      "datePosted": 1795512231,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6af34f4380020ca3a89745ae",
       "company": "Axon",
       "title": "Unity Developer - Internal Tools",
       "url": "https://jobright.ai/jobs/info/6af34f4380020ca3a89745ae",
       "location": "Seattle, WA",
       "datePosted": 1795511923,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05c43f2cb8a4d8561c6a01",
-      "company": "Viasat",
-      "title": "Associate Software Engineer, Early Career",
-      "url": "https://jobright.ai/jobs/info/6b05c43f2cb8a4d8561c6a01",
-      "location": "Carlsbad, CA",
-      "datePosted": 1795511231,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -292,10 +347,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae0dc6d67c31ab34899ded3",
+      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6ae0dc6d67c31ab34899ded3",
+      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795507311,
       "source": "newgrad-jobs",
@@ -641,50 +696,6 @@
       "datePosted": 1795488118,
       "source": "newgrad-jobs",
       "season": "Fall 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0569e0d43f730eab593cc8",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global Payment - Risk & Compliance) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6b0569e0d43f730eab593cc8",
-      "location": "San Jose, CA",
-      "datePosted": 1795488096,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4182d216b14939532842f7",
-      "company": "Thatch",
-      "title": "Software Engineer: Full Stack",
-      "url": "https://jobright.ai/jobs/info/6a4182d216b14939532842f7",
-      "location": "United States",
-      "datePosted": 1795487067,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05b97b2cb8a4d8561c60ba",
-      "company": "General Dynamics",
-      "title": "Systems Engineer \u2013 Entry Level - Supporting Future Combatants and Mission Systems",
-      "url": "https://jobright.ai/jobs/info/6b05b97b2cb8a4d8561c60ba",
-      "location": "Pittsfield, MA",
-      "datePosted": 1795485540,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae89eac6c51033758f40fdb",
-      "company": "Entrust",
-      "title": "AI Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6ae89eac6c51033758f40fdb",
-      "location": "Shakopee, MN",
-      "datePosted": 1795482271,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1Hc",
       "location": "San Francisco, CA",
       "datePosted": 1794608868,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:cd005cb7-0e40-441a-85ae-e2b0df158686",
-      "company": "Strava",
-      "title": "Software Engineering Intern, Server, Comms",
-      "url": "https://go.vansh.nyc/1Hb",
-      "location": "San Francisco, CA",
-      "datePosted": 1794598223,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
