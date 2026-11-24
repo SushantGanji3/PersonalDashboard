@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T19:00:30Z",
+  "generatedAt": "2026-11-24T19:10:16Z",
   "totalOpen": 1520,
   "totalNewgrad": 229,
   "totalOther": 1291,
@@ -14,7 +14,7 @@
       "datePosted": 1795546178,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:f5243bbd-b00b-42b4-8959-b3e5d483e38a",
@@ -37,6 +37,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b05d7372cb8a4d8561c7326",
+      "company": "Intelligence Security Laboratories",
+      "title": "Infrastructure Engineer",
+      "url": "https://jobright.ai/jobs/info/6b05d7372cb8a4d8561c7326",
+      "location": "Washington, DC",
+      "datePosted": 1795516087,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05d6cc2cb8a4d8561c729c",
+      "company": "Capital Blue Cross",
+      "title": "Software Engineer I (Entry Level/ Early Careers)",
+      "url": "https://jobright.ai/jobs/info/6b05d6cc2cb8a4d8561c729c",
+      "location": "United States",
+      "datePosted": 1795515980,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b05d29d63d280053ef8541f",
@@ -72,10 +94,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
+      "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
+      "url": "https://jobright.ai/jobs/info/6af63621a4a5218a07e8458e",
       "location": "Kent, WA",
       "datePosted": 1795512537,
       "source": "newgrad-jobs",
@@ -102,7 +124,7 @@
       "datePosted": 1795512022,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b049d0a13646880439e3747",
@@ -113,7 +135,7 @@
       "datePosted": 1795512018,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af34f4380020ca3a89745ae",
@@ -380,15 +402,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
+      "id": "newgrad-jobs:6adf90d95dc7953215a404f8",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
+      "url": "https://jobright.ai/jobs/info/6adf90d95dc7953215a404f8",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795507311,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6a831d433eeac101cfa9d7f6",
@@ -443,7 +465,7 @@
       "datePosted": 1795507282,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b05b4612835ccc63ff53e65",
@@ -644,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae36101d7424a2a828df37a",
-      "company": "CACI International Inc",
-      "title": "Front End Software Developer",
-      "url": "https://jobright.ai/jobs/info/6ae36101d7424a2a828df37a",
-      "location": "Sterling, VA; Denver, CO; Aurora, CO",
-      "datePosted": 1795490099,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6ab1bdb1d43eb922ca0c0e59",
       "company": "Rivian",
       "title": "Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)",
@@ -696,17 +707,6 @@
       "datePosted": 1795488144,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b056a1063d280053ef8299d",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
-      "url": "https://jobright.ai/jobs/info/6b056a1063d280053ef8299d",
-      "location": "San Jose, CA",
-      "datePosted": 1795488144,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
