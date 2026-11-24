@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:40:17Z",
+  "generatedAt": "2026-11-24T16:50:16Z",
   "totalOpen": 1527,
   "totalNewgrad": 236,
   "totalOther": 1291,
@@ -15,17 +15,6 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05b4612835ccc63ff53e65",
-      "company": "Clearline Capital LP",
-      "title": "Winter Intern \u2013 Software Engineering Intern (Full-Stack & Data)| Clearline Real Estate (NYC)",
-      "url": "https://jobright.ai/jobs/info/6b05b4612835ccc63ff53e65",
-      "location": "New York, NY",
-      "datePosted": 1795507169,
-      "source": "newgrad-jobs",
-      "season": "Winter",
-      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aafe6e1de327d3e210d7215",
@@ -729,6 +718,17 @@
       "datePosted": 1795451737,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b04b9cc2d88b678f117913b",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b04b9cc2d88b678f117913b",
+      "location": "Boston, MA; Sunnyvale, CA; Bellevue, WA; Seattle, WA",
+      "datePosted": 1795451106,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
