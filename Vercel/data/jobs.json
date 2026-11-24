@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-24T03:00:20Z",
-  "totalOpen": 1548,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-11-24T03:10:17Z",
+  "totalOpen": 1547,
+  "totalNewgrad": 254,
   "totalOther": 1293,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
+      "company": "Microsoft",
+      "title": "Software Engineer-Securing AI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+      "location": "Redmond, WA",
+      "datePosted": 1795488684,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:19c9469b-4c0e-4a88-9856-8040e5e5ecb5",
       "company": "L3Harris",
@@ -837,17 +848,6 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
       "location": "SF",
       "datePosted": 1795198770,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:bb4df03f-cdf9-493c-8743-3f139dc83df3",
-      "company": "Zscaler",
-      "title": "Software Development Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
-      "location": "Santa Clara, CA",
-      "datePosted": 1795196320,
       "source": "aggregator",
       "season": null,
       "isNew": false
