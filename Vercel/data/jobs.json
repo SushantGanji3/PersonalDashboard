@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T16:50:16Z",
-  "totalOpen": 1527,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-11-24T17:00:25Z",
+  "totalOpen": 1521,
+  "totalNewgrad": 230,
   "totalOther": 1291,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -13,6 +13,39 @@
       "location": "Newark, DE",
       "datePosted": 1795535544,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b05b704707ad7f350539d16",
+      "company": "Amazon",
+      "title": "Data Engineer, Flex Analytics",
+      "url": "https://jobright.ai/jobs/info/6b05b704707ad7f350539d16",
+      "location": "Bellevue, WA",
+      "datePosted": 1795507844,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05b4612835ccc63ff53e65",
+      "company": "Clearline Capital LP",
+      "title": "Winter Intern \u2013 Software Engineering Intern (Full-Stack & Data)| Clearline Real Estate (NYC)",
+      "url": "https://jobright.ai/jobs/info/6b05b4612835ccc63ff53e65",
+      "location": "New York, NY",
+      "datePosted": 1795507169,
+      "source": "newgrad-jobs",
+      "season": "Winter",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af2ed9e7666e3c5fb716164",
+      "company": "ION",
+      "title": "Developer",
+      "url": "https://jobright.ai/jobs/info/6af2ed9e7666e3c5fb716164",
+      "location": "Jersey City, NJ",
+      "datePosted": 1795506740,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -501,10 +534,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0488d5566251ad7b862ee9",
+      "id": "newgrad-jobs:6b04ba5813646880439e4d19",
       "company": "athenahealth",
       "title": "Associate Application Security Engineer",
-      "url": "https://jobright.ai/jobs/info/6b0488d5566251ad7b862ee9",
+      "url": "https://jobright.ai/jobs/info/6b04ba5813646880439e4d19",
       "location": "United States",
       "datePosted": 1795467201,
       "source": "newgrad-jobs",
@@ -705,39 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6b04a6cb2d88b678f11786db",
       "location": "Los Alamos, NM",
       "datePosted": 1795451971,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04dbd97bec27df08f94f40",
-      "company": "Eaton",
-      "title": "Network Systems Engineer - Pittsfield, MA",
-      "url": "https://jobright.ai/jobs/info/6b04dbd97bec27df08f94f40",
-      "location": "Pittsfield, MA",
-      "datePosted": 1795451737,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04b9cc2d88b678f117913b",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6b04b9cc2d88b678f117913b",
-      "location": "Boston, MA; Sunnyvale, CA; Bellevue, WA; Seattle, WA",
-      "datePosted": 1795451106,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04d6f77bec27df08f94cd7",
-      "company": "Samsung Semiconductor",
-      "title": "Data Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6b04d6f77bec27df08f94cd7",
-      "location": "Plano, TX",
-      "datePosted": 1795450810,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
