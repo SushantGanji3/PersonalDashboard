@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T01:40:15Z",
-  "totalOpen": 1515,
-  "totalNewgrad": 229,
+  "generatedAt": "2026-11-25T01:50:18Z",
+  "totalOpen": 1520,
+  "totalNewgrad": 234,
   "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795569665,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:2565567e-75a7-4ed1-9ff8-0a0d63006997",
@@ -72,12 +72,111 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b06302ddbad4c4bd2504ff6",
+      "company": "Vybe Health",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6b06302ddbad4c4bd2504ff6",
+      "location": "Raleigh, NC",
+      "datePosted": 1795538861,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab40c50ef911c35dffa2ff3",
+      "company": "Qumulo",
+      "title": "Software Development Engineer (Seattle) - Internship 2027",
+      "url": "https://jobright.ai/jobs/info/6ab40c50ef911c35dffa2ff3",
+      "location": "Seattle, WA",
+      "datePosted": 1795538549,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae0f748829a3bada15f921f",
+      "company": "Steely",
+      "title": "Software Engineer -Entry-Level (Network Focus)",
+      "url": "https://jobright.ai/jobs/info/6ae0f748829a3bada15f921f",
+      "location": "Reston, VA",
+      "datePosted": 1795538165,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b062d2d0e7eacd1ea646a75",
+      "company": "Tesla",
+      "title": "Internship, Fullstack Software Engineer, Fleetnet (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6b062d2d0e7eacd1ea646a75",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795538093,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b062cf745a65b5da366ee4c",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Autonomy Systems Foundations (Winter/Spring 2027)",
+      "url": "https://jobright.ai/jobs/info/6b062cf745a65b5da366ee4c",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795538039,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05fb9b0e7eacd1ea6450d9",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Junior Full Stack Software Engineer - 31266",
+      "url": "https://jobright.ai/jobs/info/6b05fb9b0e7eacd1ea6450d9",
+      "location": "Bourne, MA",
+      "datePosted": 1795538034,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6a8295ae9b859b227766a80b",
+      "company": "Peraton",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6a8295ae9b859b227766a80b",
+      "location": "King of Prussia, PA",
+      "datePosted": 1795537903,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b062a300e7eacd1ea646971",
+      "company": "York Space Systems",
+      "title": "Ground Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6b062a300e7eacd1ea646971",
+      "location": "Greenwood Village, CO",
+      "datePosted": 1795537657,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6b062413dbad4c4bd2504af9",
       "company": "PatientPoint\u00ae",
       "title": "Data Engineer Intern",
       "url": "https://jobright.ai/jobs/info/6b062413dbad4c4bd2504af9",
       "location": "Cincinnati, OH",
       "datePosted": 1795535763,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0617753e56157448ed3625",
+      "company": "Beyond New Horizons",
+      "title": "Entry-Level ID&C Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6b0617753e56157448ed3625",
+      "location": "Tullahoma, TN",
+      "datePosted": 1795535744,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -639,105 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6b05bec30a025d0ca4ff4f53",
       "location": "Princeton, NJ",
       "datePosted": 1795513910,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05bea1d43f730eab595a10",
-      "company": "Siemens Healthineers",
-      "title": "Research Intern - Computer Vision and Robotics for Interventional AI",
-      "url": "https://jobright.ai/jobs/info/6b05bea1d43f730eab595a10",
-      "location": "Princeton, NJ",
-      "datePosted": 1795513910,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05a3820a025d0ca4ff4044",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Embedded Software Developer - Entry",
-      "url": "https://jobright.ai/jobs/info/6b05a3820a025d0ca4ff4044",
-      "location": "Chippewa Falls, WI; Fort Collins, CO; Spring, TX",
-      "datePosted": 1795513720,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed790ec3da5933b8137341",
-      "company": "Vagaro",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aed790ec3da5933b8137341",
-      "location": "Pleasanton, CA",
-      "datePosted": 1795513610,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
-      "company": "Boeing",
-      "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6af63621a4a5218a07e8458e",
-      "location": "Kent, WA",
-      "datePosted": 1795512537,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05c6082cb8a4d8561c6a9f",
-      "company": "Blue Cross Blue Shield of Massachusetts",
-      "title": "AI Engineer Associate",
-      "url": "https://jobright.ai/jobs/info/6b05c6082cb8a4d8561c6a9f",
-      "location": "Boston, MA",
-      "datePosted": 1795512231,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af34f4380020ca3a89745ae",
-      "company": "Axon",
-      "title": "Unity Developer - Internal Tools",
-      "url": "https://jobright.ai/jobs/info/6af34f4380020ca3a89745ae",
-      "location": "Seattle, WA",
-      "datePosted": 1795511923,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0617753e56157448ed3625",
-      "company": "Beyond New Horizons",
-      "title": "Entry-Level ID&C Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6b0617753e56157448ed3625",
-      "location": "Tullahoma, TN",
-      "datePosted": 1795510680,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05bea263d280053ef847c1",
-      "company": "TikTok",
-      "title": "Software Engineer (Multiple Positions)",
-      "url": "https://jobright.ai/jobs/info/6b05bea263d280053ef847c1",
-      "location": "San Jose, CA",
-      "datePosted": 1795509794,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
-      "datePosted": 1795509550,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
