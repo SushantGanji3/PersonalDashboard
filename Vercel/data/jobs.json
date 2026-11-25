@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-25T18:20:17Z",
-  "totalOpen": 1530,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-11-25T18:30:23Z",
+  "totalOpen": 1522,
+  "totalNewgrad": 238,
   "totalOther": 1284,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6b071cfe08b131a5c6577d4b",
+      "company": "Baltimore County Public Schools",
+      "title": "Enterprise Resource Planning, Business Systems Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6b071cfe08b131a5c6577d4b",
+      "location": "Towson, MD",
+      "datePosted": 1795599486,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6b071cef6c5083822fdc6e4a",
       "company": "Microsoft",
@@ -14,7 +25,7 @@
       "datePosted": 1795599471,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aea9b6c440b469a1c0af37e",
@@ -25,7 +36,18 @@
       "datePosted": 1795598563,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0701a86c5083822fdc5ec1",
+      "company": "Arcfield",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b0701a86c5083822fdc5ec1",
+      "location": "Rome, NY",
+      "datePosted": 1795598542,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b0718902c2b1d2eebe12065",
@@ -36,7 +58,51 @@
       "datePosted": 1795598352,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abc3a1ba9a644f96568b039",
+      "company": "Gen II Fund Services",
+      "title": "Jr Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6abc3a1ba9a644f96568b039",
+      "location": "New York, NY",
+      "datePosted": 1795598245,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a950e359864261ccd2a4dd6",
+      "company": "SpaceX",
+      "title": "Software Engineer, Tracking (Starshield)",
+      "url": "https://jobright.ai/jobs/info/6a950e359864261ccd2a4dd6",
+      "location": "Hawthorne, CA",
+      "datePosted": 1795597642,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b07150808b131a5c6577915",
+      "company": "ifm",
+      "title": "BPM / Robotics Process Automation - Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6b07150808b131a5c6577915",
+      "location": "Malvern, PA",
+      "datePosted": 1795597448,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
+      "location": "San Jose, CA",
+      "datePosted": 1795597442,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b0714a2fbcb892eea5e028e",
@@ -59,6 +125,17 @@
       "source": "newgrad-jobs",
       "season": "Winter",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
+      "company": "Arcfield",
+      "title": "Models Based Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6af60f5a80054650a5e7ba8f",
+      "location": "Chantilly, VA",
+      "datePosted": 1795596507,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aea278dfc85f3a394330d1c",
@@ -147,6 +224,83 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4b4503a9a26aee709fd4b",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - Early Career",
+      "url": "https://jobright.ai/jobs/info/6af4b4503a9a26aee709fd4b",
+      "location": "Marietta, GA",
+      "datePosted": 1795595631,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb64fd7f9ead6668ea1df7",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - Early Career",
+      "url": "https://jobright.ai/jobs/info/6afb64fd7f9ead6668ea1df7",
+      "location": "Littleton, CO",
+      "datePosted": 1795595631,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b05badf707ad7f350539f75",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Asc - E1",
+      "url": "https://jobright.ai/jobs/info/6b05badf707ad7f350539f75",
+      "location": "Orlando, FL",
+      "datePosted": 1795595622,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b04b86f58147eafa2995722",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6b04b86f58147eafa2995722",
+      "location": "Owego, NY",
+      "datePosted": 1795595621,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
+      "location": "Littleton, CO",
+      "datePosted": 1795595620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b06154b3e56157448ed34e1",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer - Intern",
+      "url": "https://jobright.ai/jobs/info/6b06154b3e56157448ed34e1",
+      "location": "Fort Worth, TX; Orlando, FL; Owego, NY; Salina, NY",
+      "datePosted": 1795595620,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b05c40e0a025d0ca4ff5465",
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6b05c40e0a025d0ca4ff5465",
+      "location": "King of Prussia, PA",
+      "datePosted": 1795595620,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab156b4d43eb922ca0be235",
@@ -259,65 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b05badf707ad7f350539f75",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Asc - E1",
-      "url": "https://jobright.ai/jobs/info/6b05badf707ad7f350539f75",
-      "location": "Orlando, FL",
-      "datePosted": 1795593725,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05fda20e7eacd1ea64520f",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer Asc - Early Career",
-      "url": "https://jobright.ai/jobs/info/6b05fda20e7eacd1ea64520f",
-      "location": "Orlando, FL",
-      "datePosted": 1795593696,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05c4232835ccc63ff54b12",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6b05c4232835ccc63ff54b12",
-      "location": "King of Prussia, PA",
-      "datePosted": 1795593695,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb64fd7f9ead6668ea1df7",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Early Career",
-      "url": "https://jobright.ai/jobs/info/6afb64fd7f9ead6668ea1df7",
-      "location": "Littleton, CO",
-      "datePosted": 1795593692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b04b86f58147eafa2995722",
-      "company": "Lockheed Martin",
-      "title": "Software Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6b04b86f58147eafa2995722",
-      "location": "Owego, NY",
-      "datePosted": 1795593692,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af62f40323c531f31e30c9c",
+      "id": "newgrad-jobs:6af62f2b8cc703bba47b0c27",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineering Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6af62f40323c531f31e30c9c",
+      "url": "https://jobright.ai/jobs/info/6af62f2b8cc703bba47b0c27",
       "location": "Highlands Ranch, CO",
       "datePosted": 1795593692,
       "source": "newgrad-jobs",
@@ -331,28 +430,6 @@
       "url": "https://jobright.ai/jobs/info/6b05c4122835ccc63ff54b05",
       "location": "King of Prussia, PA; Boulder, CO",
       "datePosted": 1795593689,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afca5eee0cdcfc91142e5c7",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6afca5eee0cdcfc91142e5c7",
-      "location": "Littleton, CO",
-      "datePosted": 1795593688,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b06154b3e56157448ed34e1",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer - Intern",
-      "url": "https://jobright.ai/jobs/info/6b06154b3e56157448ed34e1",
-      "location": "Fort Worth, TX; Orlando, FL; Owego, NY; Salina, NY",
-      "datePosted": 1795593688,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -388,17 +465,6 @@
       "datePosted": 1795593141,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0701a86c5083822fdc5ec1",
-      "company": "Arcfield",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b0701a86c5083822fdc5ec1",
-      "location": "Rome, NY",
-      "datePosted": 1795592488,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -454,17 +520,6 @@
       "datePosted": 1795590287,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
-      "location": "San Jose, CA",
-      "datePosted": 1795590087,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -630,61 +685,6 @@
       "datePosted": 1795581772,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6acdb44809635d4ede00aafe",
-      "company": "Siemens Digital Industries Software",
-      "title": "Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6acdb44809635d4ede00aafe",
-      "location": "State College, PA",
-      "datePosted": 1795581688,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05f808dbad4c4bd2503203",
-      "company": "U.S. Anti-Doping Agency",
-      "title": "Jr Data Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6b05f808dbad4c4bd2503203",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795581329,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b06da2ec739c3ea3097d19e",
-      "company": "Visa",
-      "title": "Associate Data Engineer, AI Studio",
-      "url": "https://jobright.ai/jobs/info/6b06da2ec739c3ea3097d19e",
-      "location": "Austin, TX",
-      "datePosted": 1795580749,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ae9e96332411b3e5a2e2b4e",
-      "company": "Trusted Concepts, Inc.",
-      "title": "Summer Research Intern",
-      "url": "https://jobright.ai/jobs/info/6ae9e96332411b3e5a2e2b4e",
-      "location": "Arlington, VA",
-      "datePosted": 1795580437,
-      "source": "newgrad-jobs",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace9c3870e50ec1b37f0ee2",
-      "company": "KLA",
-      "title": "Software Engineer ( Embedded Software/Firmware Development | Embedded Image Processing )",
-      "url": "https://jobright.ai/jobs/info/6ace9c3870e50ec1b37f0ee2",
-      "location": "Ann Arbor, MI",
-      "datePosted": 1795580183,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
