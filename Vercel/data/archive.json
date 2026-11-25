@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:40:16Z",
+  "generatedAt": "2026-11-25T22:50:16Z",
   "windowDays": 30,
   "items": [
     {
@@ -45,6 +45,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1795636216
+    },
+    {
+      "id": "newgrad-jobs:6b075a332c2b1d2eebe1437a",
+      "company": "EarthScope Consortium",
+      "title": "Cloud Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b075a332c2b1d2eebe1437a",
+      "location": "United States",
+      "datePosted": 1795615155,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795647016
     },
     {
       "id": "newgrad-jobs:6b0751bc08b131a5c65799ff",
@@ -43594,17 +43605,6 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1794046215
-    },
-    {
-      "id": "simplify:add2af69-d211-451e-87a2-8feb56317943",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557025694",
-      "location": "Redmond, WA, Reston, VA",
-      "datePosted": 1793054508,
-      "source": "aggregator",
-      "season": null,
-      "firstSeenAt": 1794960615
     }
   ]
 }
