@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-25T16:00:22Z",
+  "generatedAt": "2026-11-25T16:30:19Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "newgrad-jobs:6b06ff5f2c2b1d2eebe1123f",
+      "company": "STC, an Arcfield Company",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b06ff5f2c2b1d2eebe1123f",
+      "location": "Rome, NY",
+      "datePosted": 1795591903,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795624219
+    },
     {
       "id": "simplify:b4da1054-8bb0-4994-ab28-a7d8190f5116",
       "company": "TikTok",
@@ -12,6 +23,39 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1795592416
+    },
+    {
+      "id": "newgrad-jobs:6b06fad46c5083822fdc5bd2",
+      "company": "Noblis",
+      "title": "Spring 2027 Internship - AI/ML Research Intern",
+      "url": "https://jobright.ai/jobs/info/6b06fad46c5083822fdc5bd2",
+      "location": "United States",
+      "datePosted": 1795590740,
+      "source": "newgrad-jobs",
+      "season": "Spring 2027",
+      "firstSeenAt": 1795623620
+    },
+    {
+      "id": "newgrad-jobs:6acd5c5fa56e5406e57c10d0",
+      "company": "Arc Institute",
+      "title": "Software Engineer, Lab Platform",
+      "url": "https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795590287,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795624219
+    },
+    {
+      "id": "newgrad-jobs:6aea3e27913589212b1f4ee6",
+      "company": "Trilogy Health Services",
+      "title": "Information Systems Developer of AI Intern",
+      "url": "https://jobright.ai/jobs/info/6aea3e27913589212b1f4ee6",
+      "location": "Louisville, KY",
+      "datePosted": 1795589234,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795623620
     },
     {
       "id": "newgrad-jobs:6b06f442ee0b2dc8c36a0097",
@@ -43000,28 +43044,6 @@
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "firstSeenAt": 1793835016
-    },
-    {
-      "id": "simplify:1cc7f966-3969-44a6-b1f3-2fd0dfa0fafe",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern, Simulation & Robotics",
-      "url": "https://go.vansh.nyc/Si",
-      "location": "San Mateo, CA",
-      "datePosted": 1793031859,
-      "source": "aggregator",
-      "season": "Summer",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "simplify:62eba377-6395-4c21-82a8-c2238c2155e2",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
-      "url": "https://go.vansh.nyc/Sj",
-      "location": "San Mateo, CA",
-      "datePosted": 1793031859,
-      "source": "aggregator",
-      "season": "Summer",
-      "firstSeenAt": 1793826020
     }
   ]
 }
