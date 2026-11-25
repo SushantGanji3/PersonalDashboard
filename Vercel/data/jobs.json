@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T22:20:16Z",
-  "totalOpen": 1522,
-  "totalNewgrad": 236,
+  "generatedAt": "2026-11-25T22:30:22Z",
+  "totalOpen": 1524,
+  "totalNewgrad": 238,
   "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -48,6 +48,28 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0751bc08b131a5c65799ff",
+      "company": "IXL Learning",
+      "title": "Software Engineer, Intern",
+      "url": "https://jobright.ai/jobs/info/6b0751bc08b131a5c65799ff",
+      "location": "San Mateo, CA",
+      "datePosted": 1795612988,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af4d0ba9144106c56a21980",
+      "company": "Edmentum",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6af4d0ba9144106c56a21980",
+      "location": "United States",
+      "datePosted": 1795612728,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af4cc569144106c56a21700",
@@ -380,10 +402,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2c76f1508734c1530be1d",
+      "id": "newgrad-jobs:6ab2f17d30340229a323081d",
       "company": "Tencent",
       "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ab2c76f1508734c1530be1d",
+      "url": "https://jobright.ai/jobs/info/6ab2f17d30340229a323081d",
       "location": "Palo Alto, CA",
       "datePosted": 1795604948,
       "source": "newgrad-jobs",
@@ -391,15 +413,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6adfac209e3e874dbfbaefa7",
+      "id": "newgrad-jobs:6acd296ba56e5406e57c0012",
       "company": "Cboe Global Markets",
       "title": "Software Engineer Intern (C++)",
-      "url": "https://jobright.ai/jobs/info/6adfac209e3e874dbfbaefa7",
+      "url": "https://jobright.ai/jobs/info/6acd296ba56e5406e57c0012",
       "location": "Kansas City, MO",
       "datePosted": 1795604925,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af781983ba46d7b6c167870",
@@ -683,28 +705,6 @@
       "url": "https://jobright.ai/jobs/info/6b0714a2fbcb892eea5e028e",
       "location": "United States",
       "datePosted": 1795597346,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af60f5a80054650a5e7ba8f",
-      "company": "Arcfield",
-      "title": "Models Based Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6af60f5a80054650a5e7ba8f",
-      "location": "Chantilly, VA",
-      "datePosted": 1795596507,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea278dfc85f3a394330d1c",
-      "company": "SpaceX",
-      "title": "Software Engineer, Full Stack (Data & Video Analysis)",
-      "url": "https://jobright.ai/jobs/info/6aea278dfc85f3a394330d1c",
-      "location": "Hawthorne, CA",
-      "datePosted": 1795596351,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
