@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-25T01:30:18Z",
-  "totalOpen": 1514,
-  "totalNewgrad": 230,
-  "totalOther": 1284,
+  "generatedAt": "2026-11-25T01:40:15Z",
+  "totalOpen": 1515,
+  "totalNewgrad": 229,
+  "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:dcfd7381-287a-4da3-80dd-921874660ecc",
+      "company": "Oracle",
+      "title": "Systems Engineer 1",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415",
+      "location": "Kansas City, MO",
+      "datePosted": 1795569665,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:2565567e-75a7-4ed1-9ff8-0a0d63006997",
       "company": "Dell",
@@ -89,17 +100,6 @@
       "url": "https://jobright.ai/jobs/info/6b06233271c8f4e3660ebdc5",
       "location": "United States",
       "datePosted": 1795535538,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05fca3460ce5352ae3d482",
-      "company": "Oracle",
-      "title": "Systems Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6b05fca3460ce5352ae3d482",
-      "location": "Kansas City, MO",
-      "datePosted": 1795535352,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -732,6 +732,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a4323d438fa630841050552",
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
+      "location": "Redmond, WA",
+      "datePosted": 1795509550,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
       "company": "Microsoft",
       "title": "Software Engineer-Securing AI",
@@ -925,6 +936,17 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
       "location": "SF",
       "datePosted": 1795198770,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:bb4df03f-cdf9-493c-8743-3f139dc83df3",
+      "company": "Zscaler",
+      "title": "Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795196320,
       "source": "aggregator",
       "season": null,
       "isNew": false
@@ -1301,28 +1323,6 @@
       "datePosted": 1794704678,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:07af461e-da0d-4062-b7f9-8b0eafd5795f",
-      "company": "NVIDIA",
-      "title": "Deep Learning Framework Communications Engineer New Grad",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
-      "location": "United States",
-      "datePosted": 1794614400,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:14900f74-a166-430a-bb87-52f381445e86",
-      "company": "Strava",
-      "title": "Software Engineering Intern, Android, Subscriptions",
-      "url": "https://go.vansh.nyc/1He",
-      "location": "San Francisco, CA",
-      "datePosted": 1794613927,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
