@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-25T23:30:16Z",
-  "totalOpen": 1530,
+  "generatedAt": "2026-11-25T23:40:17Z",
+  "totalOpen": 1532,
   "totalNewgrad": 243,
-  "totalOther": 1287,
+  "totalOther": 1289,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:e3e053b8-8e7b-4690-9875-c136637ed047",
+      "company": "Tesla",
+      "title": "Robotics Audio DSP Engineer Intern",
+      "url": "https://www.tesla.com/careers/search/job/291227",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795648797,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:e4843efd-7da9-4f50-bcc0-09645323705d",
+      "company": "Two Sigma",
+      "title": "Quantitative Trader",
+      "url": "https://twosigma.avature.net/careers/JobDetail/14440",
+      "location": "NYC",
+      "datePosted": 1795647999,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:d6abf234-b2e2-450a-8b84-12ca9b938ae1",
       "company": "Coinbase",
@@ -58,7 +80,7 @@
       "datePosted": 1795616480,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b075cea08b131a5c6579d63",
@@ -69,7 +91,7 @@
       "datePosted": 1795615850,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b075c70fbcb892eea5e277b",
@@ -80,7 +102,7 @@
       "datePosted": 1795615728,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b075a332c2b1d2eebe1437a",
@@ -102,7 +124,7 @@
       "datePosted": 1795615150,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b0751bc08b131a5c65799ff",
@@ -773,7 +795,7 @@
       "datePosted": 1795564800,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
@@ -1301,28 +1323,6 @@
       "datePosted": 1794957750,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:02939f60-613d-484c-89e0-8418680bc77a",
-      "company": "Virtu Financial",
-      "title": "Hardware Platform Engineer",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8469926002",
-      "location": "Austin, TX",
-      "datePosted": 1794956595,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:00b1c762-9ca4-4c23-afff-d070ee8279e6",
-      "company": "Anduril",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007",
-      "location": "Santa Ana, CA",
-      "datePosted": 1794943065,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
