@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T23:40:17Z",
-  "totalOpen": 1532,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-11-25T23:50:20Z",
+  "totalOpen": 1534,
+  "totalNewgrad": 245,
   "totalOther": 1289,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795648797,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:e4843efd-7da9-4f50-bcc0-09645323705d",
@@ -25,7 +25,7 @@
       "datePosted": 1795647999,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:d6abf234-b2e2-450a-8b84-12ca9b938ae1",
@@ -70,6 +70,50 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b0767cf2c2b1d2eebe14b74",
+      "company": "Xnurta",
+      "title": "Full-Stack Software Engineer (Level I / Level II)",
+      "url": "https://jobright.ai/jobs/info/6b0767cf2c2b1d2eebe14b74",
+      "location": "Campbell, CA",
+      "datePosted": 1795618639,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b07669820135524ca72c636",
+      "company": "Mercury Insurance",
+      "title": "Software Engineer I Test",
+      "url": "https://jobright.ai/jobs/info/6b07669820135524ca72c636",
+      "location": "United States",
+      "datePosted": 1795618328,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b0765d7b624dcc57de79f66",
+      "company": "General Atomics",
+      "title": "Software Developer I",
+      "url": "https://jobright.ai/jobs/info/6b0765d7b624dcc57de79f66",
+      "location": "Poway, CA",
+      "datePosted": 1795618135,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af6c3cfc7349029d7091027",
+      "company": "Formulary Financial",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6af6c3cfc7349029d7091027",
+      "location": "New York, NY",
+      "datePosted": 1795616979,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b075f6020135524ca72c0e2",
@@ -479,10 +523,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab2c76f1508734c1530be1d",
+      "id": "newgrad-jobs:6ab2f17d30340229a323081d",
       "company": "Tencent",
       "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
-      "url": "https://jobright.ai/jobs/info/6ab2c76f1508734c1530be1d",
+      "url": "https://jobright.ai/jobs/info/6ab2f17d30340229a323081d",
       "location": "Palo Alto, CA",
       "datePosted": 1795604948,
       "source": "newgrad-jobs",
@@ -683,50 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6b07315a6c5083822fdc799c",
       "location": "United States",
       "datePosted": 1795600806,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b07219008b131a5c6577f37",
-      "company": "SambaNova",
-      "title": "Cloud Platform Engineer Intern (San Jose)",
-      "url": "https://jobright.ai/jobs/info/6b07219008b131a5c6577f37",
-      "location": "San Jose, CA",
-      "datePosted": 1795600656,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac304b20e027c0f3b3a5c48",
-      "company": "Capgemini",
-      "title": "JOB ID 12239: Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac304b20e027c0f3b3a5c48",
-      "location": "Ashburn, VA",
-      "datePosted": 1795600265,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b071cfe08b131a5c6577d4b",
-      "company": "Baltimore County Public Schools",
-      "title": "Enterprise Resource Planning, Business Systems Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6b071cfe08b131a5c6577d4b",
-      "location": "Towson, MD",
-      "datePosted": 1795599486,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b071cef6c5083822fdc6e4a",
-      "company": "Microsoft",
-      "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-      "url": "https://jobright.ai/jobs/info/6b071cef6c5083822fdc6e4a",
-      "location": "Redmond, WA",
-      "datePosted": 1795599471,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
