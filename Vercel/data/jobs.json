@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-25T07:30:18Z",
+  "generatedAt": "2026-11-25T07:40:16Z",
   "totalOpen": 1543,
-  "totalNewgrad": 256,
-  "totalOther": 1287,
+  "totalNewgrad": 255,
+  "totalOther": 1288,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:b4da1054-8bb0-4994-ab28-a7d8190f5116",
+      "company": "TikTok",
+      "title": "Backend Software Engineer - Data Lifecycle Management",
+      "url": "https://lifeattiktok.com/search/7710030288165996805",
+      "location": "San Jose, CA",
+      "datePosted": 1795590887,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:2560b5f3-bf69-4114-a0b4-236f61cbd4e8",
       "company": "NVIDIA",
@@ -14,7 +25,7 @@
       "datePosted": 1795583465,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:b83dd5ca-0ff8-4558-a2ff-f5535e54b006",
@@ -179,17 +190,6 @@
       "datePosted": 1795552901,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b066524780d96a5ccba55af",
-      "company": "TikTok",
-      "title": "Backend Software Engineer - Data Lifecycle Management",
-      "url": "https://jobright.ai/jobs/info/6b066524780d96a5ccba55af",
-      "location": "San Jose, CA",
-      "datePosted": 1795552420,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
@@ -765,6 +765,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b060db545a65b5da366dd5d",
+      "company": "Ryzoe",
+      "title": "Trainee (Intern) Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6b060db545a65b5da366dd5d",
+      "location": "United States",
+      "datePosted": 1795530037,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
       "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
       "company": "Microsoft",
       "title": "Software Engineer-Securing AI",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794871037,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:894a0678-d486-4483-aa2a-5d69969e1df2",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1A3",
-      "location": "El Segundo, CA",
-      "datePosted": 1794807624,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
