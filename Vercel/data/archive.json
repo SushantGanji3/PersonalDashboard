@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:10:23Z",
+  "generatedAt": "2026-11-25T12:20:17Z",
   "windowDays": 30,
   "items": [
     {
@@ -23,6 +23,17 @@
       "source": "aggregator",
       "season": "Summer",
       "firstSeenAt": 1795591818
+    },
+    {
+      "id": "newgrad-jobs:6aeab18d913589212b1f8803",
+      "company": "Nooks",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeab18d913589212b1f8803",
+      "location": "San Francisco, CA; Seattle, WA",
+      "datePosted": 1795578206,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795609217
     },
     {
       "id": "newgrad-jobs:6b06bd88f28a3ee0a545cc0a",

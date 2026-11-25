@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T12:10:23Z",
-  "totalOpen": 1538,
-  "totalNewgrad": 252,
+  "generatedAt": "2026-11-25T12:20:17Z",
+  "totalOpen": 1534,
+  "totalNewgrad": 248,
   "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -26,6 +26,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6aeab18d913589212b1f8803",
+      "company": "Nooks",
+      "title": "Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6aeab18d913589212b1f8803",
+      "location": "San Francisco, CA; Seattle, WA",
+      "datePosted": 1795578206,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6af344ba7c81de7a524bdb6a",
@@ -78,17 +89,6 @@
       "url": "https://jobright.ai/jobs/info/6b06bbc68113626fcf3d58c7",
       "location": "San Jose, CA",
       "datePosted": 1795574598,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b06bb98264069a49fcac77a",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6b06bb98264069a49fcac77a",
-      "location": "San Jose, CA",
-      "datePosted": 1795574552,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
       "isNew": false
@@ -578,10 +578,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b063cdedbad4c4bd2505413",
+      "id": "newgrad-jobs:6b063cd645a65b5da366f402",
       "company": "Bandwidth Inc.",
       "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6b063cdedbad4c4bd2505413",
+      "url": "https://jobright.ai/jobs/info/6b063cd645a65b5da366f402",
       "location": "Raleigh, NC",
       "datePosted": 1795546107,
       "source": "newgrad-jobs",
