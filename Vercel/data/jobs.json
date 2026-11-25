@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T15:30:23Z",
-  "totalOpen": 1531,
-  "totalNewgrad": 246,
+  "generatedAt": "2026-11-25T15:40:18Z",
+  "totalOpen": 1530,
+  "totalNewgrad": 245,
   "totalOther": 1285,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,7 +47,7 @@
       "datePosted": 1795588679,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae45a93d45dc30fb7d2f92a",
@@ -69,7 +69,7 @@
       "datePosted": 1795587661,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae220ef6679108488c47cb6",
@@ -78,17 +78,6 @@
       "url": "https://jobright.ai/jobs/info/6ae220ef6679108488c47cb6",
       "location": "Dallas, TX",
       "datePosted": 1795587322,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6b06e967f29eaaf8773f3f19",
-      "company": "Wyetech, LLC",
-      "title": "CNO Analyst/Programmer 0",
-      "url": "https://jobright.ai/jobs/info/6b06e967f29eaaf8773f3f19",
-      "location": "Hanover, MD",
-      "datePosted": 1795586279,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -226,10 +215,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeab18d913589212b1f8803",
+      "id": "newgrad-jobs:6a56243d53b3962b910ae587",
       "company": "Nooks",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aeab18d913589212b1f8803",
+      "url": "https://jobright.ai/jobs/info/6a56243d53b3962b910ae587",
       "location": "San Francisco, CA; Seattle, WA",
       "datePosted": 1795578206,
       "source": "newgrad-jobs",
@@ -762,6 +751,17 @@
       "datePosted": 1795545561,
       "source": "aggregator",
       "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b064319dbad4c4bd2505548",
+      "company": "B4Corp",
+      "title": "812328 Systems Engineer $300,000.00",
+      "url": "https://jobright.ai/jobs/info/6b064319dbad4c4bd2505548",
+      "location": "Dulles, VA; McLean, VA",
+      "datePosted": 1795543705,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": false
     },
     {
