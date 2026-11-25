@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-25T01:00:19Z",
-  "totalOpen": 1516,
-  "totalNewgrad": 233,
-  "totalOther": 1283,
+  "generatedAt": "2026-11-25T01:10:17Z",
+  "totalOpen": 1514,
+  "totalNewgrad": 230,
+  "totalOther": 1284,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:2565567e-75a7-4ed1-9ff8-0a0d63006997",
+      "company": "Dell",
+      "title": "Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement",
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999",
+      "location": "Hopkinton, MA",
+      "datePosted": 1795567731,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
       "company": "Meta AI",
@@ -50,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b062413dbad4c4bd2504af9",
+      "company": "PatientPoint\u00ae",
+      "title": "Data Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6b062413dbad4c4bd2504af9",
+      "location": "Cincinnati, OH",
+      "datePosted": 1795535763,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:d78eb9fa-a618-4d48-978e-3a1aa5ea275d",
       "company": "JPMorgan Chase",
       "title": "Software Engineer 1 - Multiple Teams",
@@ -61,6 +83,39 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b06233271c8f4e3660ebdc5",
+      "company": "MANTECH",
+      "title": "Junior ServiceNow Developer",
+      "url": "https://jobright.ai/jobs/info/6b06233271c8f4e3660ebdc5",
+      "location": "United States",
+      "datePosted": 1795535538,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05fca3460ce5352ae3d482",
+      "company": "Oracle",
+      "title": "Systems Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6b05fca3460ce5352ae3d482",
+      "location": "Kansas City, MO",
+      "datePosted": 1795535352,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05f3ce3e56157448ed21d0",
+      "company": "Ameren",
+      "title": "Intern (Robotics, AI, OT, Software development)",
+      "url": "https://jobright.ai/jobs/info/6b05f3ce3e56157448ed21d0",
+      "location": "St. Louis, MO",
+      "datePosted": 1795535087,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6a836c871081a745e970f16f",
       "company": "Xantium",
       "title": "Quantitative Developer Intern",
@@ -70,6 +125,39 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad90a3a950ef68d5184d6e4",
+      "company": "Ascend Analytics",
+      "title": "Junior Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6ad90a3a950ef68d5184d6e4",
+      "location": "Boulder, CO; Raleigh, NC",
+      "datePosted": 1795534629,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afc85983786d28f21459c37",
+      "company": "John Deere",
+      "title": "Software Engineer Job Details | John Deere",
+      "url": "https://jobright.ai/jobs/info/6afc85983786d28f21459c37",
+      "location": "Moline, IL",
+      "datePosted": 1795534384,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b05f771460ce5352ae3d13b",
+      "company": "RTX",
+      "title": "Software Engineer I (E2DNY-P1-1)",
+      "url": "https://jobright.ai/jobs/info/6b05f771460ce5352ae3d13b",
+      "location": "Binghamton, NY",
+      "datePosted": 1795533594,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b06199445a65b5da366e5a6",
@@ -567,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b03ad99754c32e575312dbf",
+      "id": "newgrad-jobs:6b05a3820a025d0ca4ff4044",
       "company": "Hewlett Packard Enterprise",
       "title": "Embedded Software Developer - Entry",
-      "url": "https://jobright.ai/jobs/info/6b03ad99754c32e575312dbf",
+      "url": "https://jobright.ai/jobs/info/6b05a3820a025d0ca4ff4044",
       "location": "Chippewa Falls, WI; Fort Collins, CO; Spring, TX",
       "datePosted": 1795513720,
       "source": "newgrad-jobs",
@@ -611,28 +699,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b05bf950a025d0ca4ff5029",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6b05bf950a025d0ca4ff5029",
-      "location": "Fort Wayne, IN",
-      "datePosted": 1795512022,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b049d0a13646880439e3747",
-      "company": "RTX",
-      "title": "Systems Engineer, Intern",
-      "url": "https://jobright.ai/jobs/info/6b049d0a13646880439e3747",
-      "location": "Sterling, VA",
-      "datePosted": 1795512018,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af34f4380020ca3a89745ae",
       "company": "Axon",
       "title": "Unity Developer - Internal Tools",
@@ -661,61 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6b05bea263d280053ef847c1",
       "location": "San Jose, CA",
       "datePosted": 1795509794,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a4323d438fa630841050552",
-      "company": "SpaceX",
-      "title": "Software Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
-      "location": "Redmond, WA",
-      "datePosted": 1795509550,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b00be8f0f536e0ba7276dbf",
-      "company": "Render",
-      "title": "Software Engineer, Application Security (all levels)",
-      "url": "https://jobright.ai/jobs/info/6b00be8f0f536e0ba7276dbf",
-      "location": "United States; Canada",
-      "datePosted": 1795509345,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6adf89c59a8c91d5c3586643",
-      "company": "Seerist",
-      "title": "Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6adf89c59a8c91d5c3586643",
-      "location": "Washington, DC; Reston, VA",
-      "datePosted": 1795508724,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac69a680e027c0f3b3b363a",
-      "company": "Sigma Defense Systems LLC",
-      "title": "1776 - Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6ac69a680e027c0f3b3b363a",
-      "location": "Fairmont, WV",
-      "datePosted": 1795508504,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af79df9d0eefb7d11b8e7a3",
-      "company": "Valiant Solutions",
-      "title": "Associate Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6af79df9d0eefb7d11b8e7a3",
-      "location": "United States",
-      "datePosted": 1795508406,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1794613927,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:d064d6a0-7525-406b-8cfc-490eca3f6d09",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Materials Architecture & Device Integration",
-      "url": "https://www.metacareers.com/jobs/1674297360998408",
-      "location": "Redmond, WA",
-      "datePosted": 1794613756,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
