@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T09:30:20Z",
+  "generatedAt": "2026-11-25T09:40:17Z",
   "totalOpen": 1544,
-  "totalNewgrad": 256,
-  "totalOther": 1288,
+  "totalNewgrad": 257,
+  "totalOther": 1287,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -57,6 +57,17 @@
       "location": "Hopkinton, MA",
       "datePosted": 1795567731,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af2ed9e7666e3c5fb716164",
+      "company": "ION",
+      "title": "Developer",
+      "url": "https://jobright.ai/jobs/info/6af2ed9e7666e3c5fb716164",
+      "location": "Jersey City, NJ",
+      "datePosted": 1795566603,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -765,28 +776,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b060db545a65b5da366dd5d",
-      "company": "Ryzoe",
-      "title": "Trainee (Intern) Full Stack Developer",
-      "url": "https://jobright.ai/jobs/info/6b060db545a65b5da366dd5d",
-      "location": "United States",
-      "datePosted": 1795530037,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
-      "company": "Microsoft",
-      "title": "Software Engineer-Securing AI",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
-      "location": "Redmond, WA",
-      "datePosted": 1795488684,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:cc12a432-2919-4efb-b67c-4f7271c2852a",
       "company": "Shield AI",
       "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
@@ -1323,6 +1312,17 @@
       "datePosted": 1794871037,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:894a0678-d486-4483-aa2a-5d69969e1df2",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1A3",
+      "location": "El Segundo, CA",
+      "datePosted": 1794807624,
+      "source": "aggregator",
+      "season": "Summer",
       "isNew": false
     }
   ]
