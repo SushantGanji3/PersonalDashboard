@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T15:20:19Z",
-  "totalOpen": 1528,
-  "totalNewgrad": 243,
+  "generatedAt": "2026-11-25T15:30:23Z",
+  "totalOpen": 1531,
+  "totalNewgrad": 246,
   "totalOther": 1285,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -25,7 +25,7 @@
       "datePosted": 1795589058,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b06f4230cb1362925cf1636",
@@ -36,6 +36,17 @@
       "datePosted": 1795589027,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a95fbc4cabc9f6703e1b604",
+      "company": "Amazon",
+      "title": "Robotics - Embedded Software Development Engineer",
+      "url": "https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
+      "location": "North Reading, MA; Westborough, MA",
+      "datePosted": 1795588679,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -48,6 +59,28 @@
       "source": "newgrad-jobs",
       "season": "Spring 2027",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6acd4d283c831dc4086c1a6e",
+      "company": "Oceaneering",
+      "title": "Software Engineer I",
+      "url": "https://jobright.ai/jobs/info/6acd4d283c831dc4086c1a6e",
+      "location": "Hanover, MD",
+      "datePosted": 1795587661,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ae220ef6679108488c47cb6",
+      "company": "Blue Yonder",
+      "title": "Software Engineer (Java backend)",
+      "url": "https://jobright.ai/jobs/info/6ae220ef6679108488c47cb6",
+      "location": "Dallas, TX",
+      "datePosted": 1795587322,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b06e967f29eaaf8773f3f19",
@@ -729,39 +762,6 @@
       "datePosted": 1795545561,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b064319dbad4c4bd2505548",
-      "company": "B4Corp",
-      "title": "812328 Systems Engineer $300,000.00",
-      "url": "https://jobright.ai/jobs/info/6b064319dbad4c4bd2505548",
-      "location": "Dulles, VA; McLean, VA",
-      "datePosted": 1795543705,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0642e9dbad4c4bd2505516",
-      "company": "B4Corp",
-      "title": "812329 Systems Engineer $300,000.00",
-      "url": "https://jobright.ai/jobs/info/6b0642e9dbad4c4bd2505516",
-      "location": "Herndon, VA",
-      "datePosted": 1795543657,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0642e90e7eacd1ea647129",
-      "company": "B4Corp",
-      "title": "812323 Software Engineer $240,000.00",
-      "url": "https://jobright.ai/jobs/info/6b0642e90e7eacd1ea647129",
-      "location": "McLean, VA",
-      "datePosted": 1795543657,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
