@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T05:30:17Z",
-  "totalOpen": 1533,
-  "totalNewgrad": 247,
+  "generatedAt": "2026-11-25T05:40:14Z",
+  "totalOpen": 1534,
+  "totalNewgrad": 248,
   "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -48,6 +48,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ae4384aeab1f96730979cf1",
+      "company": "CGI",
+      "title": "AI Full Stack Developer",
+      "url": "https://jobright.ai/jobs/info/6ae4384aeab1f96730979cf1",
+      "location": "Lebanon, VA; Knoxville, TN; Arlington, VA",
+      "datePosted": 1795553691,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b066524780d96a5ccba55af",
@@ -738,17 +749,6 @@
       "url": "https://jobright.ai/jobs/info/6b05f808dbad4c4bd2503203",
       "location": "Colorado Springs, CO",
       "datePosted": 1795524488,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac6a8218ff3fb9b3bc8e65f",
-      "company": "Deloitte",
-      "title": "Consultant II, Backend Software Engineering - Tax Transformation",
-      "url": "https://jobright.ai/jobs/info/6ac6a8218ff3fb9b3bc8e65f",
-      "location": "New Orleans, LA",
-      "datePosted": 1795523833,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
