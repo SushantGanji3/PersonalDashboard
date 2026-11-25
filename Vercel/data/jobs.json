@@ -1,10 +1,120 @@
 {
-  "generatedAt": "2026-11-25T19:40:17Z",
-  "totalOpen": 1516,
-  "totalNewgrad": 233,
-  "totalOther": 1283,
+  "generatedAt": "2026-11-25T19:50:16Z",
+  "totalOpen": 1520,
+  "totalNewgrad": 234,
+  "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:ed108e2d-5ad5-4fcd-bf0f-530ea7ecfb11",
+      "company": "SambaNova",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1Jr",
+      "location": "Austin, TX, San Jose, CA",
+      "datePosted": 1795631053,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:7c6345a2-26e3-4ef5-91d4-0f6f11bf066a",
+      "company": "SambaNova",
+      "title": "Cloud Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/1Jq",
+      "location": "San Jose, CA",
+      "datePosted": 1795629069,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:f4af434d-68ab-4024-abe9-a11ba7c4f082",
+      "company": "SambaNova",
+      "title": "ML Infrastructure Engineer Intern",
+      "url": "https://go.vansh.nyc/1Jp",
+      "location": "Austin, TX, San Jose, CA",
+      "datePosted": 1795626243,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ab2c76f1508734c1530be1d",
+      "company": "Tencent",
+      "title": "Site Reliability Engineer (SRE) Intern \u2014 AI Infrastructure",
+      "url": "https://jobright.ai/jobs/info/6ab2c76f1508734c1530be1d",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795604948,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
+      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
+      "location": "San Jose, CA",
+      "datePosted": 1795604481,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b072f62b624dcc57de782b3",
+      "company": "CACI International Inc",
+      "title": "Junior Pega Application Developer",
+      "url": "https://jobright.ai/jobs/info/6b072f62b624dcc57de782b3",
+      "location": "Washington, DC",
+      "datePosted": 1795604194,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ac3dc52064da25272e0fd20",
+      "company": "Amentum",
+      "title": "Systems Engineer",
+      "url": "https://jobright.ai/jobs/info/6ac3dc52064da25272e0fd20",
+      "location": "Houston, TX",
+      "datePosted": 1795603604,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b070e4008b131a5c6577366",
+      "company": "Alutiiq, LLC",
+      "title": "Jr Programmer Draftsman",
+      "url": "https://jobright.ai/jobs/info/6b070e4008b131a5c6577366",
+      "location": "Colorado Springs, CO",
+      "datePosted": 1795603026,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b072a4cfbcb892eea5e0dab",
+      "company": "MANTECH",
+      "title": "C++ Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6b072a4cfbcb892eea5e0dab",
+      "location": "Lexington Park, MD",
+      "datePosted": 1795602892,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6afcd91bd1637502949278df",
+      "company": "State Street",
+      "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)",
+      "url": "https://jobright.ai/jobs/info/6afcd91bd1637502949278df",
+      "location": "Quincy, MA",
+      "datePosted": 1795602534,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6b07266908b131a5c6578256",
       "company": "Dematic",
@@ -14,28 +124,6 @@
       "datePosted": 1795602046,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6b070e4008b131a5c6577366",
-      "company": "Alutiiq, LLC",
-      "title": "Jr Programmer Draftsman",
-      "url": "https://jobright.ai/jobs/info/6b070e4008b131a5c6577366",
-      "location": "Colorado Springs, CO",
-      "datePosted": 1795602031,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6af781983ba46d7b6c167870",
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
-      "url": "https://jobright.ai/jobs/info/6af781983ba46d7b6c167870",
-      "location": "San Jose, CA",
-      "datePosted": 1795600972,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -48,6 +136,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a4733e08204a812e98cb25a",
+      "company": "Capgemini",
+      "title": "JOB ID 12239: Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a4733e08204a812e98cb25a",
+      "location": "Ashburn, VA",
+      "datePosted": 1795600265,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b071cfe08b131a5c6577d4b",
@@ -100,17 +199,6 @@
       "url": "https://jobright.ai/jobs/info/6b0701a86c5083822fdc5ec1",
       "location": "Rome, NY",
       "datePosted": 1795598542,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0718902c2b1d2eebe12065",
-      "company": "SambaNova",
-      "title": "ML Infrastructure Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6b0718902c2b1d2eebe12065",
-      "location": "Austin, TX; San Jose, CA; Bengaluru, KA",
-      "datePosted": 1795598352,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -221,17 +309,6 @@
       "url": "https://jobright.ai/jobs/info/6b0709ee2c2b1d2eebe11699",
       "location": "United States",
       "datePosted": 1795596136,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b070ee520135524ca729481",
-      "company": "CACI International Inc",
-      "title": "Junior Pega Application Developer",
-      "url": "https://jobright.ai/jobs/info/6b070ee520135524ca729481",
-      "location": "Washington, DC",
-      "datePosted": 1795595877,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -479,10 +556,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6abbf7653217d1d13329c30c",
+      "id": "newgrad-jobs:6ae0dc6d67c31ab34899ded3",
       "company": "Lockheed Martin",
       "title": "Software Engineer - E2",
-      "url": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
+      "url": "https://jobright.ai/jobs/info/6ae0dc6d67c31ab34899ded3",
       "location": "Fort Worth, TX; Marietta, GA",
       "datePosted": 1795593665,
       "source": "newgrad-jobs",
@@ -611,28 +688,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ae45a93d45dc30fb7d2f92a",
-      "company": "Firefly Aerospace",
-      "title": "Internship - Software Engineering - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ae45a93d45dc30fb7d2f92a",
-      "location": "Cedar Park, TX; Leander, TX",
-      "datePosted": 1795588424,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace8babba99f15ef41259ae",
-      "company": "Greystone",
-      "title": "Salesforce Developer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6ace8babba99f15ef41259ae",
-      "location": "New York, NY",
-      "datePosted": 1795588329,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6acd4d283c831dc4086c1a6e",
       "company": "Oceaneering",
       "title": "Software Engineer I",
@@ -655,17 +710,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b06e5aaf29eaaf8773f3e76",
-      "company": "Torentify",
-      "title": "Full Stack Engineer - Remote",
-      "url": "https://jobright.ai/jobs/info/6b06e5aaf29eaaf8773f3e76",
-      "location": "United States",
-      "datePosted": 1795585322,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:2560b5f3-bf69-4114-a0b4-236f61cbd4e8",
       "company": "NVIDIA",
       "title": "Software Engineering Intern, Simulation Technology",
@@ -674,17 +718,6 @@
       "datePosted": 1795583465,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab197da23005eee3545b68a",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - Digital Product: Software Engineering",
-      "url": "https://jobright.ai/jobs/info/6ab197da23005eee3545b68a",
-      "location": "Warren, MI; Seattle, WA; Austin, TX; Milford Charter Township, MI; Mountain View, CA",
-      "datePosted": 1795582959,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1288,39 +1321,6 @@
       "url": "https://www.metacareers.com/jobs/1500136678656794",
       "location": "Sunnyvale, CA",
       "datePosted": 1794871038,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:8ce107ef-76f8-4eb0-8088-c8fbdc876812",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Intelligent Camera Systems",
-      "url": "https://www.metacareers.com/jobs/971210335715482",
-      "location": "Redmond, WA",
-      "datePosted": 1794871037,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:894a0678-d486-4483-aa2a-5d69969e1df2",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1A3",
-      "location": "El Segundo, CA",
-      "datePosted": 1794807624,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:f74568a9-19a0-4465-b8c9-13309d11b990",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer (Starlink)",
-      "url": "https://go.vansh.nyc/1zZ",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794711583,
       "source": "aggregator",
       "season": null,
       "isNew": false
