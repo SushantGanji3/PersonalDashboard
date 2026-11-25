@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-25T21:20:17Z",
-  "totalOpen": 1527,
-  "totalNewgrad": 241,
-  "totalOther": 1286,
+  "generatedAt": "2026-11-25T21:30:17Z",
+  "totalOpen": 1523,
+  "totalNewgrad": 236,
+  "totalOther": 1287,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:d6abf234-b2e2-450a-8b84-12ca9b938ae1",
+      "company": "Coinbase",
+      "title": "Security Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ju",
+      "location": "New York, NY",
+      "datePosted": 1795638677,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:ed108e2d-5ad5-4fcd-bf0f-530ea7ecfb11",
       "company": "SambaNova",
@@ -47,7 +58,7 @@
       "datePosted": 1795610221,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b0746d6fbcb892eea5e1f37",
@@ -58,6 +69,17 @@
       "datePosted": 1795610198,
       "source": "newgrad-jobs",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b074444b624dcc57de78ee9",
+      "company": "Best Egg",
+      "title": "Software Engineering Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6b074444b624dcc57de78ee9",
+      "location": "Wilmington, DE",
+      "datePosted": 1795609540,
+      "source": "newgrad-jobs",
+      "season": "Summer",
       "isNew": true
     },
     {
@@ -105,6 +127,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6aede36dbd2f33eea72d4c7d",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
+      "url": "https://jobright.ai/jobs/info/6aede36dbd2f33eea72d4c7d",
+      "location": "San Francisco, CA",
+      "datePosted": 1795609343,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6ab41a91ef911c35dffa35d6",
       "company": "Commure",
       "title": "Software Engineer, Scribe AI",
@@ -113,7 +146,7 @@
       "datePosted": 1795609219,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a960b44c8763a3a87ffe1bd",
@@ -303,6 +336,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6af82d3f42ae65e2c8f3b57e",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Software Engineer Intern (Multiple Levels) - 30069",
+      "url": "https://jobright.ai/jobs/info/6af82d3f42ae65e2c8f3b57e",
+      "location": "Columbia, MD",
+      "datePosted": 1795605962,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6b0735c0fbcb892eea5e15df",
       "company": "Vestwell",
       "title": "Associate, Software Engineer",
@@ -424,17 +468,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b07266908b131a5c6578256",
-      "company": "Dematic",
-      "title": "AI Engineer",
-      "url": "https://jobright.ai/jobs/info/6b07266908b131a5c6578256",
-      "location": "Grand Rapids, MI",
-      "datePosted": 1795603105,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b070e4008b131a5c6577366",
       "company": "Alutiiq, LLC",
       "title": "Jr Programmer Draftsman",
@@ -446,10 +479,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aff245572b9be368528ebee",
+      "id": "newgrad-jobs:6afde0cef3e7976cc61098b0",
       "company": "Vibrantz Technologies Inc.",
       "title": "Applied AI & Automation Intern",
-      "url": "https://jobright.ai/jobs/info/6aff245572b9be368528ebee",
+      "url": "https://jobright.ai/jobs/info/6afde0cef3e7976cc61098b0",
       "location": "Houston, TX",
       "datePosted": 1795602917,
       "source": "newgrad-jobs",
@@ -461,6 +494,17 @@
       "company": "Symbotic",
       "title": "Intern- Data Engineer",
       "url": "https://jobright.ai/jobs/info/6ab2c39930340229a322f8fe",
+      "location": "Wilmington, MA",
+      "datePosted": 1795602907,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afb72c6c2bd7db01b881a9b",
+      "company": "Symbotic",
+      "title": "Intern- Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6afb72c6c2bd7db01b881a9b",
       "location": "Wilmington, MA",
       "datePosted": 1795602907,
       "source": "newgrad-jobs",
@@ -652,39 +696,6 @@
       "datePosted": 1795596185,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0709ee2c2b1d2eebe11699",
-      "company": "Waters Corporation",
-      "title": "IT Intern - Software Development Platform Engineer",
-      "url": "https://jobright.ai/jobs/info/6b0709ee2c2b1d2eebe11699",
-      "location": "United States",
-      "datePosted": 1795596136,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afb613304af1c9f075c7654",
-      "company": "Quest Analytics\u00ae,LLC",
-      "title": "Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City",
-      "url": "https://jobright.ai/jobs/info/6afb613304af1c9f075c7654",
-      "location": "Overland Park, KS",
-      "datePosted": 1795595720,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b070e2008b131a5c657735a",
-      "company": "Apex",
-      "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6b070e2008b131a5c657735a",
-      "location": "Los Angeles, CA",
-      "datePosted": 1795595680,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -1310,17 +1321,6 @@
       "url": "https://go.vansh.nyc/1C3",
       "location": "Boise, ID",
       "datePosted": 1794885475,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:589a7388-e840-4761-93bd-fd0c1df06b38",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Perception - Displays and Graphics",
-      "url": "https://www.metacareers.com/jobs/1500136678656794",
-      "location": "Sunnyvale, CA",
-      "datePosted": 1794871038,
       "source": "aggregator",
       "season": null,
       "isNew": false
