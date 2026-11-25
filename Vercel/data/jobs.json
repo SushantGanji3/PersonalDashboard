@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-25T07:20:16Z",
-  "totalOpen": 1542,
+  "generatedAt": "2026-11-25T07:30:18Z",
+  "totalOpen": 1543,
   "totalNewgrad": 256,
-  "totalOther": 1286,
+  "totalOther": 1287,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:2560b5f3-bf69-4114-a0b4-236f61cbd4e8",
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, Simulation Technology",
+      "url": "https://go.vansh.nyc/1J0",
+      "location": "Santa Clara, CA",
+      "datePosted": 1795583465,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
     {
       "id": "simplify:b83dd5ca-0ff8-4558-a2ff-f5535e54b006",
       "company": "Bandwidth",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794807624,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:f74568a9-19a0-4465-b8c9-13309d11b990",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer (Starlink)",
-      "url": "https://go.vansh.nyc/1zZ",
-      "location": "Palo Alto, CA",
-      "datePosted": 1794711583,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
