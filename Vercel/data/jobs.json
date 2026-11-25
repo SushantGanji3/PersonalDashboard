@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T02:10:14Z",
-  "totalOpen": 1520,
-  "totalNewgrad": 234,
+  "generatedAt": "2026-11-25T02:20:16Z",
+  "totalOpen": 1521,
+  "totalNewgrad": 235,
   "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -70,6 +70,17 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b063ce0460ce5352ae3f343",
+      "company": "Bandwidth Inc.",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6b063ce0460ce5352ae3f343",
+      "location": "Raleigh, NC",
+      "datePosted": 1795542112,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b06302ddbad4c4bd2504ff6",
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6b05d29d63d280053ef8541f",
       "location": "Jamaica, NY",
       "datePosted": 1795514909,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b05bec30a025d0ca4ff4f53",
-      "company": "Siemens Healthineers",
-      "title": "Research Intern - Multimodal Perception, VLA Models, and Autonomous Robotics",
-      "url": "https://jobright.ai/jobs/info/6b05bec30a025d0ca4ff4f53",
-      "location": "Princeton, NJ",
-      "datePosted": 1795513910,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
