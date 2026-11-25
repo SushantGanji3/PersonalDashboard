@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-25T00:00:21Z",
+  "generatedAt": "2026-11-25T00:10:19Z",
   "totalOpen": 1517,
-  "totalNewgrad": 234,
-  "totalOther": 1283,
+  "totalNewgrad": 233,
+  "totalOther": 1284,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
+      "company": "Meta AI",
+      "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+      "url": "https://www.metacareers.com/jobs/1482835147112669",
+      "location": "Redmond, WA",
+      "datePosted": 1795563381,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:feab8bd7-d5d9-47f8-9192-0c9ccd70d7d5",
       "company": "Rubrik",
@@ -50,6 +61,17 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6a836c871081a745e970f16f",
+      "company": "Xantium",
+      "title": "Quantitative Developer Intern",
+      "url": "https://jobright.ai/jobs/info/6a836c871081a745e970f16f",
+      "location": "New York, NY; London, England",
+      "datePosted": 1795534776,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6b06199445a65b5da366e5a6",
       "company": "Callan Family Office",
       "title": "Associate Software Engineer",
@@ -58,7 +80,7 @@
       "datePosted": 1795533076,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6af399394ac248020e8d2c24",
@@ -69,7 +91,18 @@
       "datePosted": 1795533000,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ac7b8340e573df8adc73ce9",
+      "company": "Amentum",
+      "title": "Software Engineer 1",
+      "url": "https://jobright.ai/jobs/info/6ac7b8340e573df8adc73ce9",
+      "location": "Hanover, MD",
+      "datePosted": 1795532978,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b0618770e7eacd1ea646069",
@@ -80,7 +113,7 @@
       "datePosted": 1795532791,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ae15bd3de23f466ec8be5e9",
@@ -91,7 +124,7 @@
       "datePosted": 1795532761,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b06154b3e56157448ed34e1",
@@ -102,18 +135,7 @@
       "datePosted": 1795531979,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
-    },
-    {
-      "id": "newgrad-jobs:6ac7b8340e573df8adc73ce9",
-      "company": "Amentum",
-      "title": "Software Engineer 1",
-      "url": "https://jobright.ai/jobs/info/6ac7b8340e573df8adc73ce9",
-      "location": "Hanover, MD",
-      "datePosted": 1795531816,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6ad261cb5290d4375c452b14",
@@ -157,7 +179,7 @@
       "datePosted": 1795530991,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b05a0492835ccc63ff53491",
@@ -223,7 +245,7 @@
       "datePosted": 1795529351,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b0601db71c8f4e3660eab6c",
@@ -545,10 +567,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b03c3d45da88988c83fde75",
+      "id": "newgrad-jobs:6b03b5c9adf53adef40e1276",
       "company": "Hewlett Packard Enterprise",
       "title": "Embedded Software Developer - Entry",
-      "url": "https://jobright.ai/jobs/info/6b03c3d45da88988c83fde75",
+      "url": "https://jobright.ai/jobs/info/6b03b5c9adf53adef40e1276",
       "location": "Chippewa Falls, WI; Fort Collins, CO; Spring, TX",
       "datePosted": 1795513720,
       "source": "newgrad-jobs",
@@ -567,10 +589,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6af6465c79862a378dcf2a30",
+      "id": "newgrad-jobs:6af63621a4a5218a07e8458e",
       "company": "Boeing",
       "title": "Software Engineer (Associate or Experienced)",
-      "url": "https://jobright.ai/jobs/info/6af6465c79862a378dcf2a30",
+      "url": "https://jobright.ai/jobs/info/6af63621a4a5218a07e8458e",
       "location": "Kent, WA",
       "datePosted": 1795512537,
       "source": "newgrad-jobs",
@@ -622,17 +644,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b05c4232835ccc63ff54b12",
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6b05c4232835ccc63ff54b12",
-      "location": "King of Prussia, PA",
-      "datePosted": 1795511203,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b0617753e56157448ed3625",
       "company": "Beyond New Horizons",
       "title": "Entry-Level ID&C Software Engineer",
@@ -641,7 +652,7 @@
       "datePosted": 1795510680,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b05bea263d280053ef847c1",
@@ -1308,17 +1319,6 @@
       "company": "Meta AI",
       "title": "Research Scientist Intern - Materials Architecture & Device Integration",
       "url": "https://www.metacareers.com/jobs/1674297360998408",
-      "location": "Redmond, WA",
-      "datePosted": 1794613756,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:1c21b84c-49d3-4c76-93cb-4433ffa3743c",
-      "company": "Meta AI",
-      "title": "Research Scientist Intern - Diffractive Optics",
-      "url": "https://www.metacareers.com/jobs/1158829233342350",
       "location": "Redmond, WA",
       "datePosted": 1794613756,
       "source": "aggregator",
