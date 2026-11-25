@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T03:10:16Z",
-  "totalOpen": 1528,
-  "totalNewgrad": 242,
+  "generatedAt": "2026-11-25T03:20:16Z",
+  "totalOpen": 1529,
+  "totalNewgrad": 243,
   "totalOther": 1286,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795570721,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:dcfd7381-287a-4da3-80dd-921874660ecc",
@@ -70,6 +70,39 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b063cd23e56157448ed46a7",
+      "company": "Bandwidth Inc.",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6b063cd23e56157448ed46a7",
+      "location": "Raleigh, NC",
+      "datePosted": 1795546107,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b064afe460ce5352ae3f6ac",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
+      "url": "https://jobright.ai/jobs/info/6b064afe460ce5352ae3f6ac",
+      "location": "San Jose, CA",
+      "datePosted": 1795545726,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6ace9d5a4f3229123da3d39a",
+      "company": "ServiceNow",
+      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
+      "url": "https://jobright.ai/jobs/info/6ace9d5a4f3229123da3d39a",
+      "location": "Santa Clara, CA; San Diego, CA; Kirkland, WA; West Palm Beach, FL",
+      "datePosted": 1795545704,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
     },
     {
       "id": "simplify:f5243bbd-b00b-42b4-8959-b3e5d483e38a",
@@ -157,17 +190,6 @@
       "datePosted": 1795543637,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b063f2f3e56157448ed4700",
-      "company": "Bandwidth Inc.",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6b063f2f3e56157448ed4700",
-      "location": "Raleigh, NC",
-      "datePosted": 1795542703,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -729,28 +751,6 @@
       "datePosted": 1795523507,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b049e107fd2e33bde095860",
-      "company": "Visa",
-      "title": "Software Engineer, Agentic Developer",
-      "url": "https://jobright.ai/jobs/info/6b049e107fd2e33bde095860",
-      "location": "Denver, CO",
-      "datePosted": 1795523507,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aa83600654b2a9424cfb529",
-      "company": "Figma",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6aa83600654b2a9424cfb529",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1795523507,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
