@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T02:20:15Z",
-  "totalOpen": 1542,
-  "totalNewgrad": 255,
+  "generatedAt": "2026-11-26T02:30:18Z",
+  "totalOpen": 1541,
+  "totalNewgrad": 254,
   "totalOther": 1287,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -59,6 +59,28 @@
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af50669cbd2ee75d155f30a",
+      "company": "Comcast",
+      "title": "Software Engineering Internships \u2013 Summer 2027",
+      "url": "https://jobright.ai/jobs/info/6af50669cbd2ee75d155f30a",
+      "location": "Universal City, CA",
+      "datePosted": 1795628462,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6abd72f48ff3fb9b3bc70a89",
+      "company": "Schr\u00f6dinger",
+      "title": "Scientific Machine Learning Engineer",
+      "url": "https://jobright.ai/jobs/info/6abd72f48ff3fb9b3bc70a89",
+      "location": "New York, NY",
+      "datePosted": 1795628454,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:83aad2e6-dfbe-4f3a-9bb9-d31cbb28d460",
@@ -133,6 +155,17 @@
       "url": "https://jobright.ai/jobs/info/6b0739346c5083822fdc7f68",
       "location": "Burlingame, CA",
       "datePosted": 1795624902,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afc85983786d28f21459c37",
+      "company": "John Deere",
+      "title": "Software Engineer Job Details | John Deere",
+      "url": "https://jobright.ai/jobs/info/6afc85983786d28f21459c37",
+      "location": "Moline, IL",
+      "datePosted": 1795624899,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -325,15 +358,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b068648b525890abb165f66",
+      "id": "newgrad-jobs:6b04d88c2d88b678f117a23e",
       "company": "T-Mobile",
       "title": "Summer 2027 Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6b068648b525890abb165f66",
+      "url": "https://jobright.ai/jobs/info/6b04d88c2d88b678f117a23e",
       "location": "Bellevue, WA; Overland Park, KS",
       "datePosted": 1795622408,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b0735c0fbcb892eea5e15df",
@@ -694,39 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6ae4ec5777c09cb3bd4b0363",
       "location": "Redmond, WA",
       "datePosted": 1795608805,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b06da2ec739c3ea3097d19e",
-      "company": "Visa",
-      "title": "Associate Data Engineer, AI Studio",
-      "url": "https://jobright.ai/jobs/info/6b06da2ec739c3ea3097d19e",
-      "location": "Austin, TX",
-      "datePosted": 1795608621,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac3cfae8ff3fb9b3bc824a7",
-      "company": "Atlassian",
-      "title": "Data Engineer Intern, 2027 Summer U.S.",
-      "url": "https://jobright.ai/jobs/info/6ac3cfae8ff3fb9b3bc824a7",
-      "location": "Seattle, WA",
-      "datePosted": 1795608621,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b073fbe6c5083822fdc8222",
-      "company": "Eaton",
-      "title": "Systems Engineer Entry Level - Pittsfield, MA",
-      "url": "https://jobright.ai/jobs/info/6b073fbe6c5083822fdc8222",
-      "location": "Pittsfield, MA",
-      "datePosted": 1795608382,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
