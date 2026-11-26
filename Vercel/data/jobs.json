@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-26T01:00:21Z",
-  "totalOpen": 1536,
+  "generatedAt": "2026-11-26T01:10:20Z",
+  "totalOpen": 1537,
   "totalNewgrad": 247,
-  "totalOther": 1289,
+  "totalOther": 1290,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -941,6 +941,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:eb6c7eef-df83-46b0-a229-541b0fc0f578",
+      "company": "Visa",
+      "title": "Software Engineer - Agentic Developer",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W",
+      "location": "Denver, CO",
+      "datePosted": 1795392000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:a822f439-a24e-4a06-aa9b-384436b75d90",
       "company": "Northrop Grumman",
       "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
@@ -1312,17 +1323,6 @@
       "datePosted": 1794958205,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7716e502-00f2-4ecc-bf91-d3549bbd0b4e",
-      "company": "Microsoft",
-      "title": "Research Intern, Firmware Security",
-      "url": "https://go.vansh.nyc/1BR",
-      "location": "Redmond, WA",
-      "datePosted": 1794957750,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
