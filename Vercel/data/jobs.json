@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T05:40:15Z",
-  "totalOpen": 1538,
-  "totalNewgrad": 253,
+  "generatedAt": "2026-11-26T05:50:16Z",
+  "totalOpen": 1535,
+  "totalNewgrad": 250,
   "totalOther": 1285,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -24,6 +24,28 @@
       "location": "NYC",
       "datePosted": 1795647999,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b07704a2c2b1d2eebe15021",
+      "company": "Duly Health and Care",
+      "title": "AI Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b07704a2c2b1d2eebe15021",
+      "location": "Downers Grove, IL",
+      "datePosted": 1795640364,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b076cdb6c5083822fdc99bb",
+      "company": "Innoflight",
+      "title": "Systems Engineer I",
+      "url": "https://jobright.ai/jobs/info/6b076cdb6c5083822fdc99bb",
+      "location": "San Diego, CA",
+      "datePosted": 1795640219,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
@@ -215,10 +237,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a3488f1ce501060b5cf1b5a",
+      "id": "newgrad-jobs:6a331b32ce501060b5cec46f",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer",
-      "url": "https://jobright.ai/jobs/info/6a3488f1ce501060b5cf1b5a",
+      "url": "https://jobright.ai/jobs/info/6a331b32ce501060b5cec46f",
       "location": "Arlington, VA; Austin, TX; Bellevue, WA; North Reading, MA; Seattle, WA; Westborough, MA",
       "datePosted": 1795624636,
       "source": "newgrad-jobs",
@@ -441,17 +463,6 @@
       "url": "https://jobright.ai/jobs/info/6b076e496c5083822fdc9a38",
       "location": "Kent, WA",
       "datePosted": 1795620297,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b076cdb6c5083822fdc99bb",
-      "company": "Innoflight",
-      "title": "Systems Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b076cdb6c5083822fdc99bb",
-      "location": "San Diego, CA",
-      "datePosted": 1795619931,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -718,17 +729,6 @@
       "datePosted": 1795609343,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab41a91ef911c35dffa35d6",
-      "company": "Commure",
-      "title": "Software Engineer, Scribe AI",
-      "url": "https://jobright.ai/jobs/info/6ab41a91ef911c35dffa35d6",
-      "location": "Mountain View, CA",
-      "datePosted": 1795609219,
-      "source": "newgrad-jobs",
-      "season": null,
       "isNew": false
     },
     {
