@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-26T16:50:19Z",
-  "totalOpen": 1531,
-  "totalNewgrad": 248,
+  "generatedAt": "2026-11-26T17:00:25Z",
+  "totalOpen": 1526,
+  "totalNewgrad": 243,
   "totalOther": 1283,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6aac8191636cddf7396f4523",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+      "url": "https://jobright.ai/jobs/info/6aac8191636cddf7396f4523",
+      "location": "Detroit, MI; Madison, WI; Boston, MA; Austin, TX; Nashville, TN; Seattle, WA; Arlington, VA; Denver, CO; Minneapolis, MN; Phoenix, AZ; Tempe, AZ; Berkeley, CA; Culver City, CA; Cupertino, CA; East Palo Alto, CA; Hawthorne, CA; Irvine, CA; Los Gatos, CA; Los Angeles, CA; Manhattan Beach, CA; Mountain View, CA; Palo Alto, CA; Pasadena, CA; San Diego, CA; San Francisco, CA; San Jose, CA; San Luis Obispo, CA; Santa Barbara, CA; Santa Clara, CA; Santa Cruz, CA; Santa Monica, CA; Sunnyvale, CA; Boulder, CO; Atlanta, GA; Kennesaw, GA; Chicago, IL; Cambridge, MA; Hudson, MA; North Reading, MA; Westborough, MA; Annapolis Junction, MD; Baltimore, MD; Raleigh, NC; Jersey City, NJ; Newark, NJ; New York, NY; Portland, OR; Philadelphia, PA; Pittsburgh, PA; Carrollton, TX; Dallas, TX; Irving, TX; Herndon, VA; Bellevue, WA; Redmond, WA",
+      "datePosted": 1795680123,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
     {
       "id": "simplify:f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
       "company": "Cisco",
@@ -25,7 +36,7 @@
       "datePosted": 1795677322,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6b08454e0bd5d5fe945f409c",
@@ -171,17 +182,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aac8191636cddf7396f4523",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Summer 2027 (USA)",
-      "url": "https://jobright.ai/jobs/info/6aac8191636cddf7396f4523",
-      "location": "Detroit, MI; Madison, WI; Boston, MA; Austin, TX; Nashville, TN; Seattle, WA; Arlington, VA; Denver, CO; Minneapolis, MN; Phoenix, AZ; Tempe, AZ; Berkeley, CA; Culver City, CA; Cupertino, CA; East Palo Alto, CA; Hawthorne, CA; Irvine, CA; Los Gatos, CA; Los Angeles, CA; Manhattan Beach, CA; Mountain View, CA; Palo Alto, CA; Pasadena, CA; San Diego, CA; San Francisco, CA; San Jose, CA; San Luis Obispo, CA; Santa Barbara, CA; Santa Clara, CA; Santa Cruz, CA; Santa Monica, CA; Sunnyvale, CA; Boulder, CO; Atlanta, GA; Kennesaw, GA; Chicago, IL; Cambridge, MA; Hudson, MA; North Reading, MA; Westborough, MA; Annapolis Junction, MD; Baltimore, MD; Raleigh, NC; Jersey City, NJ; Newark, NJ; New York, NY; Portland, OR; Philadelphia, PA; Pittsburgh, PA; Carrollton, TX; Dallas, TX; Irving, TX; Herndon, VA; Bellevue, WA; Redmond, WA",
-      "datePosted": 1795671521,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6a974550e4e60e4b8da5d4fc",
       "company": "Genuine Parts Company",
       "title": "Software Developer Intern",
@@ -259,10 +259,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ab35e3916511e254891bf5e",
+      "id": "newgrad-jobs:6ab35a2d5d482753f3e68b5b",
       "company": "KLA",
       "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "url": "https://jobright.ai/jobs/info/6ab35e3916511e254891bf5e",
+      "url": "https://jobright.ai/jobs/info/6ab35a2d5d482753f3e68b5b",
       "location": "Milpitas, CA",
       "datePosted": 1795666590,
       "source": "newgrad-jobs",
@@ -303,10 +303,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a56243d53b3962b910ae587",
+      "id": "newgrad-jobs:6aeab18d913589212b1f8803",
       "company": "Nooks",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a56243d53b3962b910ae587",
+      "url": "https://jobright.ai/jobs/info/6aeab18d913589212b1f8803",
       "location": "San Francisco, CA; Seattle, WA",
       "datePosted": 1795664851,
       "source": "newgrad-jobs",
@@ -655,17 +655,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0775c520135524ca72cd13",
-      "company": "OpenSesame",
-      "title": "Software Engineering Internship - Summer 2027",
-      "url": "https://jobright.ai/jobs/info/6b0775c520135524ca72cd13",
-      "location": "United States",
-      "datePosted": 1795640655,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b076cdb6c5083822fdc99bb",
       "company": "Innoflight",
       "title": "Systems Engineer I",
@@ -717,6 +706,17 @@
       "location": "Austin, TX, San Jose, CA",
       "datePosted": 1795631053,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6af4c91b1b2c5dcbbcd6415e",
+      "company": "Self Financial, Inc.",
+      "title": "Associate Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6af4c91b1b2c5dcbbcd6415e",
+      "location": "Austin, TX",
+      "datePosted": 1795630544,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
