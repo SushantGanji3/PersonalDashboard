@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-26T08:00:25Z",
+  "generatedAt": "2026-11-26T08:10:18Z",
   "totalOpen": 1536,
-  "totalNewgrad": 253,
-  "totalOther": 1283,
+  "totalNewgrad": 252,
+  "totalOther": 1284,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "simplify:f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
+      "company": "Cisco",
+      "title": "Software Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2030715",
+      "location": "Research Triangle Park, Durham, NC",
+      "datePosted": 1795679710,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "simplify:e3e053b8-8e7b-4690-9875-c136637ed047",
       "company": "Tesla",
@@ -468,17 +479,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b07d62beb234df35222461d",
-      "company": "Cisco",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6b07d62beb234df35222461d",
-      "location": "Durham, NC",
-      "datePosted": 1795622400,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b07d6920bb3d71a62319020",
       "company": "Vituity",
       "title": "Software Engineer I - Remote - Nationwide",
@@ -727,6 +727,17 @@
       "url": "https://jobright.ai/jobs/info/6b052b9913646880439e722b",
       "location": "San Jose, CA",
       "datePosted": 1795609442,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a7360498dc3d52d8ed9ef94",
+      "company": "Roblox",
+      "title": "[2027] Software Engineer, Early Career",
+      "url": "https://jobright.ai/jobs/info/6a7360498dc3d52d8ed9ef94",
+      "location": "San Mateo, CA",
+      "datePosted": 1795609343,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -1312,17 +1323,6 @@
       "datePosted": 1794958205,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:7716e502-00f2-4ecc-bf91-d3549bbd0b4e",
-      "company": "Microsoft",
-      "title": "Research Intern, Firmware Security",
-      "url": "https://go.vansh.nyc/1BR",
-      "location": "Redmond, WA",
-      "datePosted": 1794957750,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
