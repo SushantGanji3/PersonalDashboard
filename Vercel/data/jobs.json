@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T12:00:24Z",
-  "totalOpen": 1538,
-  "totalNewgrad": 254,
+  "generatedAt": "2026-11-26T12:10:16Z",
+  "totalOpen": 1539,
+  "totalNewgrad": 255,
   "totalOther": 1284,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,6 +14,28 @@
       "datePosted": 1795679710,
       "source": "aggregator",
       "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab3578216511e254891be93",
+      "company": "KLA",
+      "title": "Software Engineering Intern (C++, Unix)",
+      "url": "https://jobright.ai/jobs/info/6ab3578216511e254891be93",
+      "location": "Milpitas, CA",
+      "datePosted": 1795662948,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b076cce2c2b1d2eebe14ed8",
+      "company": "Veeva Systems",
+      "title": "Intern Software Engineer (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b076cce2c2b1d2eebe14ed8",
+      "location": "Pleasanton, CA",
+      "datePosted": 1795662327,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -61,15 +83,15 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ac55e324ac55253f5d76505",
+      "id": "newgrad-jobs:6a7a7e3967a1ad0bc53d3979",
       "company": "Medpace",
       "title": "Data Engineer Intern - Spring 2027",
-      "url": "https://jobright.ai/jobs/info/6ac55e324ac55253f5d76505",
+      "url": "https://jobright.ai/jobs/info/6a7a7e3967a1ad0bc53d3979",
       "location": "Cincinnati, OH",
       "datePosted": 1795658604,
       "source": "newgrad-jobs",
       "season": "Spring 2027",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6ab1bda832552369083e4195",
@@ -699,17 +721,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b076cce2c2b1d2eebe14ed8",
-      "company": "Veeva Systems",
-      "title": "Intern Software Engineer (Summer 2027)",
-      "url": "https://jobright.ai/jobs/info/6b076cce2c2b1d2eebe14ed8",
-      "location": "Pleasanton, CA",
-      "datePosted": 1795619918,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6b07373a2c2b1d2eebe13297",
       "company": "Cisco",
       "title": "Security Engineer I (Intern) - United States",
@@ -727,17 +738,6 @@
       "url": "https://jobright.ai/jobs/info/6b07219008b131a5c6577f37",
       "location": "San Jose, CA",
       "datePosted": 1795619216,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b07669820135524ca72c636",
-      "company": "Mercury Insurance",
-      "title": "Software Engineer I Test",
-      "url": "https://jobright.ai/jobs/info/6b07669820135524ca72c636",
-      "location": "United States",
-      "datePosted": 1795618673,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
