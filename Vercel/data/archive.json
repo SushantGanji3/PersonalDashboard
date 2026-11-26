@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:10:16Z",
+  "generatedAt": "2026-11-26T14:20:14Z",
   "windowDays": 30,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source": "aggregator",
       "season": null,
       "firstSeenAt": 1795680618
+    },
+    {
+      "id": "newgrad-jobs:6b083213aa59d5ea1da50d34",
+      "company": "Casey's",
+      "title": "Associate Data Engineer",
+      "url": "https://jobright.ai/jobs/info/6b083213aa59d5ea1da50d34",
+      "location": "Ankeny, IA",
+      "datePosted": 1795670419,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795702814
     },
     {
       "id": "newgrad-jobs:6b0829c10bd5d5fe945f3b43",
@@ -573,6 +584,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "firstSeenAt": 1795652415
+    },
+    {
+      "id": "newgrad-jobs:6b0831a70bb3d71a6231a55f",
+      "company": "J&T",
+      "title": "Software Engineer (Active TS/SCI with Full Scope Polygraph)",
+      "url": "https://jobright.ai/jobs/info/6b0831a70bb3d71a6231a55f",
+      "location": "Fort Meade, MD",
+      "datePosted": 1795619831,
+      "source": "newgrad-jobs",
+      "season": null,
+      "firstSeenAt": 1795702814
     },
     {
       "id": "newgrad-jobs:6b0767cf2c2b1d2eebe14b74",
@@ -44033,17 +44055,6 @@
       "datePosted": 1793114319,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "firstSeenAt": 1793826020
-    },
-    {
-      "id": "newgrad-jobs:6ae113841f9d9308370a776b",
-      "company": "AL FARAH CONTRACTING & GENERAL TRANSPORT COMPANY -L.L.C - O.P.C",
-      "title": "Software Engineer -Entry-Level (Network Focus)",
-      "url": "https://jobright.ai/jobs/info/6ae113841f9d9308370a776b",
-      "location": "Reston, VA",
-      "datePosted": 1793110292,
-      "source": "newgrad-jobs",
-      "season": null,
       "firstSeenAt": 1793826020
     }
   ]
