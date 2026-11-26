@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T00:10:16Z",
-  "totalOpen": 1534,
-  "totalNewgrad": 245,
+  "generatedAt": "2026-11-26T00:20:15Z",
+  "totalOpen": 1540,
+  "totalNewgrad": 251,
   "totalOther": 1289,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -47,7 +47,7 @@
       "datePosted": 1795631053,
       "source": "aggregator",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:7c6345a2-26e3-4ef5-91d4-0f6f11bf066a",
@@ -68,6 +68,39 @@
       "location": "Austin, TX, San Jose, CA",
       "datePosted": 1795626243,
       "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b076e496c5083822fdc9a38",
+      "company": "Digital Control Incorporated",
+      "title": "Software Engineering Intern",
+      "url": "https://jobright.ai/jobs/info/6b076e496c5083822fdc9a38",
+      "location": "Kent, WA",
+      "datePosted": 1795620297,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b076cce2c2b1d2eebe14ed8",
+      "company": "Veeva Systems",
+      "title": "Intern Software Engineer (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b076cce2c2b1d2eebe14ed8",
+      "location": "Pleasanton, CA",
+      "datePosted": 1795619918,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6b07373a2c2b1d2eebe13297",
+      "company": "Cisco",
+      "title": "Security Engineer I (Intern) - United States",
+      "url": "https://jobright.ai/jobs/info/6b07373a2c2b1d2eebe13297",
+      "location": "Durham, NC",
+      "datePosted": 1795619895,
+      "source": "newgrad-jobs",
       "season": null,
       "isNew": true
     },
@@ -105,6 +138,28 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6b07094520135524ca729214",
+      "company": "Apex",
+      "title": "Flight Software Engineering Internship (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b07094520135524ca729214",
+      "location": "Los Angeles, CA",
+      "datePosted": 1795617816,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b070a2420135524ca729297",
+      "company": "Apex",
+      "title": "Software Engineering, Operating Systems Internship (Summer 2027)",
+      "url": "https://jobright.ai/jobs/info/6b070a2420135524ca729297",
+      "location": "Los Angeles, CA",
+      "datePosted": 1795617104,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": false
+    },
+    {
       "id": "newgrad-jobs:6af6c3cfc7349029d7091027",
       "company": "Formulary Financial",
       "title": "Software Engineering Intern",
@@ -114,6 +169,28 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b074444b624dcc57de78ee9",
+      "company": "Best Egg",
+      "title": "Software Engineering Summer Intern",
+      "url": "https://jobright.ai/jobs/info/6b074444b624dcc57de78ee9",
+      "location": "Wilmington, DE",
+      "datePosted": 1795616938,
+      "source": "newgrad-jobs",
+      "season": "Summer",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6b075bf620135524ca72bf7f",
+      "company": "Signet Jewelers",
+      "title": "Software Engineering Intern- Digital Commerce",
+      "url": "https://jobright.ai/jobs/info/6b075bf620135524ca72bf7f",
+      "location": "Irving, TX",
+      "datePosted": 1795616685,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6b075f6020135524ca72c0e2",
@@ -223,17 +300,6 @@
       "datePosted": 1795610198,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b074444b624dcc57de78ee9",
-      "company": "Best Egg",
-      "title": "Software Engineering Summer Intern",
-      "url": "https://jobright.ai/jobs/info/6b074444b624dcc57de78ee9",
-      "location": "Wilmington, DE",
-      "datePosted": 1795609540,
-      "source": "newgrad-jobs",
-      "season": "Summer",
       "isNew": false
     },
     {
@@ -534,10 +600,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6acd296ba56e5406e57c0012",
+      "id": "newgrad-jobs:6adfac209e3e874dbfbaefa7",
       "company": "Cboe Global Markets",
       "title": "Software Engineer Intern (C++)",
-      "url": "https://jobright.ai/jobs/info/6acd296ba56e5406e57c0012",
+      "url": "https://jobright.ai/jobs/info/6adfac209e3e874dbfbaefa7",
       "location": "Kansas City, MO",
       "datePosted": 1795604925,
       "source": "newgrad-jobs",
@@ -661,72 +727,6 @@
       "url": "https://jobright.ai/jobs/info/6afb72c6c2bd7db01b881a9b",
       "location": "Wilmington, MA",
       "datePosted": 1795602907,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b072a4cfbcb892eea5e0dab",
-      "company": "MANTECH",
-      "title": "C++ Developer Intern",
-      "url": "https://jobright.ai/jobs/info/6b072a4cfbcb892eea5e0dab",
-      "location": "Lexington Park, MD",
-      "datePosted": 1795602892,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6afcd91bd1637502949278df",
-      "company": "State Street",
-      "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)",
-      "url": "https://jobright.ai/jobs/info/6afcd91bd1637502949278df",
-      "location": "Quincy, MA",
-      "datePosted": 1795602534,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ace3e89ba99f15ef4123a8a",
-      "company": "Cryptic Vector",
-      "title": "Summer 2027 Full Stack Developer Internship",
-      "url": "https://jobright.ai/jobs/info/6ace3e89ba99f15ef4123a8a",
-      "location": "Liberty Township, OH, United States",
-      "datePosted": 1795602143,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aea64c0897466e69e31ea78",
-      "company": "RoboForce",
-      "title": "Machine Learning Engineer Intern, AI & Robotics",
-      "url": "https://jobright.ai/jobs/info/6aea64c0897466e69e31ea78",
-      "location": "Milpitas, CA",
-      "datePosted": 1795601820,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0701a86c5083822fdc5ec1",
-      "company": "Arcfield",
-      "title": "Software Engineer I",
-      "url": "https://jobright.ai/jobs/info/6b0701a86c5083822fdc5ec1",
-      "location": "Rome, NY",
-      "datePosted": 1795601671,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b07315a6c5083822fdc799c",
-      "company": "dentsu",
-      "title": "Messaging Developer",
-      "url": "https://jobright.ai/jobs/info/6b07315a6c5083822fdc799c",
-      "location": "United States",
-      "datePosted": 1795600806,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
