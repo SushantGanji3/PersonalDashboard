@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-27T14:20:15Z",
-  "totalOpen": 1500,
-  "totalNewgrad": 227,
-  "totalOther": 1273,
+  "generatedAt": "2026-11-27T14:30:18Z",
+  "totalOpen": 1498,
+  "totalNewgrad": 226,
+  "totalOther": 1272,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -26,6 +26,17 @@
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6a9882b2af954907d6573b9f",
+      "company": "Watchfire",
+      "title": "Intern Software Engineering",
+      "url": "https://jobright.ai/jobs/info/6a9882b2af954907d6573b9f",
+      "location": "Danville, IL",
+      "datePosted": 1795754294,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "newgrad-jobs:6aeceeb2ab48a7079381fe01",
@@ -655,17 +666,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b0714a2fbcb892eea5e028e",
-      "company": "Lockheed Martin",
-      "title": "A/AI Machine Learning Engineering (junior career)",
-      "url": "https://jobright.ai/jobs/info/6b0714a2fbcb892eea5e028e",
-      "location": "United States",
-      "datePosted": 1795680144,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
       "id": "simplify:f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
       "company": "Cisco",
       "title": "Software Engineer",
@@ -760,17 +760,6 @@
       "url": "https://go.vansh.nyc/1J0",
       "location": "Santa Clara, CA",
       "datePosted": 1795583465,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:a35e10a0-e126-4aa8-8637-5dd5fcb11c64",
-      "company": "Northrop Grumman",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1KU",
-      "location": "United States",
-      "datePosted": 1795576287,
       "source": "aggregator",
       "season": "Summer",
       "isNew": false
@@ -1321,6 +1310,17 @@
       "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
       "location": "SF",
       "datePosted": 1794978014,
+      "source": "aggregator",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "simplify:372dccd9-1f30-4e08-89c6-71ef714dfb33",
+      "company": "Qualcomm",
+      "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722177119",
+      "location": "Austin, TX, Raleigh, NC, NYC, San Diego, CA",
+      "datePosted": 1794958802,
       "source": "aggregator",
       "season": null,
       "isNew": false
