@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T12:20:16Z",
-  "totalOpen": 1499,
-  "totalNewgrad": 226,
+  "generatedAt": "2026-11-27T12:30:19Z",
+  "totalOpen": 1500,
+  "totalNewgrad": 227,
   "totalOther": 1273,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
@@ -14,7 +14,7 @@
       "datePosted": 1795749750,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aed15bd465e3d23713845ee",
@@ -25,7 +25,7 @@
       "datePosted": 1795748774,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6aed15bc465e3d23713845ec",
@@ -36,7 +36,7 @@
       "datePosted": 1795748474,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a98478d11f73b6462c8d988",
@@ -47,6 +47,17 @@
       "datePosted": 1795748311,
       "source": "newgrad-jobs",
       "season": "Summer 2027",
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab3016a1e4847ddae917c7f",
+      "company": "MatX",
+      "title": "Infrastructure Engineer, AI Tooling",
+      "url": "https://jobright.ai/jobs/info/6ab3016a1e4847ddae917c7f",
+      "location": "United States",
+      "datePosted": 1795747485,
+      "source": "newgrad-jobs",
+      "season": null,
       "isNew": true
     },
     {
@@ -143,7 +154,7 @@
       "title": "Software Engineer I, Fullstack (Search)",
       "url": "https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
       "location": "United States",
-      "datePosted": 1795746248,
+      "datePosted": 1795746414,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -391,10 +402,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b077c4d6c5083822fdc9dc5",
+      "id": "newgrad-jobs:6b077bf420135524ca72ce47",
       "company": "SpaceX",
-      "title": "Software Engineer, High Performance Computing (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6b077c4d6c5083822fdc9dc5",
+      "title": "Software Engineer, Low Latency Computing (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6b077bf420135524ca72ce47",
       "location": "Palo Alto, CA; Redmond, WA",
       "datePosted": 1795704234,
       "source": "newgrad-jobs",
@@ -402,10 +413,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b077bf420135524ca72ce47",
+      "id": "newgrad-jobs:6b077c0920135524ca72ce4d",
       "company": "SpaceX",
-      "title": "Software Engineer, Low Latency Computing (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6b077bf420135524ca72ce47",
+      "title": "Software Engineer, High Performance Computing (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6b077c0920135524ca72ce4d",
       "location": "Palo Alto, CA; Redmond, WA",
       "datePosted": 1795704234,
       "source": "newgrad-jobs",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6ab1b366d2a93d5a97ebc814",
       "location": "United States",
       "datePosted": 1795672684,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
-      "company": "Figma",
-      "title": "Data Engineer Intern (2027)",
-      "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
-      "location": "San Francisco, CA; New York, NY",
-      "datePosted": 1795671968,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
