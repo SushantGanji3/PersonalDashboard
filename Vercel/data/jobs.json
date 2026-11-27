@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-27T16:20:17Z",
-  "totalOpen": 1501,
-  "totalNewgrad": 229,
+  "generatedAt": "2026-11-27T16:30:20Z",
+  "totalOpen": 1502,
+  "totalNewgrad": 230,
   "totalOther": 1272,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6b099f10b80cc2b409d850da",
+      "company": "Propopia",
+      "title": "AI Engineer Intern",
+      "url": "https://jobright.ai/jobs/info/6b099f10b80cc2b409d850da",
+      "location": "United States",
+      "datePosted": 1795763856,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6ad1451ae2d41540d4a6f943",
       "company": "Kensho Technologies",
@@ -12,6 +23,61 @@
       "url": "https://jobright.ai/jobs/info/6ad1451ae2d41540d4a6f943",
       "location": "United States",
       "datePosted": 1795763043,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ab47b2964816213f2d99494",
+      "company": "Roblox",
+      "title": "Software Engineer, Data Access",
+      "url": "https://jobright.ai/jobs/info/6ab47b2964816213f2d99494",
+      "location": "San Mateo, CA",
+      "datePosted": 1795762363,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6ad3bd97ebd52f378af8c381",
+      "company": "Expedition Technology",
+      "title": "Summer 2027 Internship in Digital Signal Processing and Machine Learning - R148",
+      "url": "https://jobright.ai/jobs/info/6ad3bd97ebd52f378af8c381",
+      "location": "Herndon, VA",
+      "datePosted": 1795761614,
+      "source": "newgrad-jobs",
+      "season": "Summer 2027",
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed0fbf3a3fa7f03ea8bbf6",
+      "company": "General Atomics",
+      "title": "Machine Learning Engineer I",
+      "url": "https://jobright.ai/jobs/info/6aed0fbf3a3fa7f03ea8bbf6",
+      "location": "Poway, CA",
+      "datePosted": 1795761484,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
+    {
+      "id": "newgrad-jobs:6afcdb792ac165125e4cd8a4",
+      "company": "Early Warning",
+      "title": "Software Engineer - Java, Paze",
+      "url": "https://jobright.ai/jobs/info/6afcdb792ac165125e4cd8a4",
+      "location": "Scottsdale, AZ; Chicago, IL; San Francisco, CA",
+      "datePosted": 1795761072,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "newgrad-jobs:6aed1432a9ea762a04094bbc",
+      "company": "SpaceX",
+      "title": "Site Reliability Engineer (Starlink)",
+      "url": "https://jobright.ai/jobs/info/6aed1432a9ea762a04094bbc",
+      "location": "Palo Alto, CA",
+      "datePosted": 1795760487,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -28,23 +94,23 @@
       "isNew": false
     },
     {
+      "id": "newgrad-jobs:6ab471a20e0ae54eeea488b9",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, Frontend",
+      "url": "https://jobright.ai/jobs/info/6ab471a20e0ae54eeea488b9",
+      "location": "New York, NY",
+      "datePosted": 1795760198,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "newgrad-jobs:6ab42a3c64816213f2d97a3a",
       "company": "Figma",
       "title": "Data Engineer Intern (2027)",
       "url": "https://jobright.ai/jobs/info/6ab42a3c64816213f2d97a3a",
       "location": "San Francisco, CA; New York, NY",
       "datePosted": 1795759682,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6aed1432a9ea762a04094bbc",
-      "company": "SpaceX",
-      "title": "Site Reliability Engineer (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6aed1432a9ea762a04094bbc",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795759602,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -545,39 +611,6 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b08d4310bb3d71a6231c1dd",
-      "company": "Tesla",
-      "title": "Internship, Backend Engineer, Infrastructure Engineering (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6b08d4310bb3d71a6231c1dd",
-      "location": "Fremont, CA",
-      "datePosted": 1795711921,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b08d4200bd5d5fe945f59cf",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Data Platforms (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6b08d4200bd5d5fe945f59cf",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795711904,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b08d41d58da992a6cc0d7e0",
-      "company": "Tesla",
-      "title": "Internship, Vehicle Software Engineer, Diagnostic User Interface (Winter/Spring 2027)",
-      "url": "https://jobright.ai/jobs/info/6b08d41d58da992a6cc0d7e0",
-      "location": "Palo Alto, CA",
-      "datePosted": 1795711901,
-      "source": "newgrad-jobs",
-      "season": "Spring 2027",
-      "isNew": false
-    },
-    {
       "id": "newgrad-jobs:6af639d6323c531f31e311b2",
       "company": "Andrew Morgan",
       "title": "Federal OneStream Developer",
@@ -586,17 +619,6 @@
       "datePosted": 1795710012,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b08854e0bd5d5fe945f4cbe",
-      "company": "Atoms",
-      "title": "Software Engineering Intern - 2027 Summer Term",
-      "url": "https://jobright.ai/jobs/info/6b08854e0bd5d5fe945f4cbe",
-      "location": "Los Angeles, CA; Mountain View, CA; New York, NY; San Francisco, CA; Seattle, WA",
-      "datePosted": 1795709949,
-      "source": "newgrad-jobs",
-      "season": "Summer 2027",
       "isNew": false
     },
     {
@@ -638,28 +660,6 @@
       "title": "Software Engineer, C++ (Starlink)",
       "url": "https://jobright.ai/jobs/info/6b077be808b131a5c657abf5",
       "location": "Palo Alto, CA",
-      "datePosted": 1795704234,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b077c4d6c5083822fdc9dc5",
-      "company": "SpaceX",
-      "title": "Software Engineer, High Performance Computing (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6b077c4d6c5083822fdc9dc5",
-      "location": "Palo Alto, CA; Redmond, WA",
-      "datePosted": 1795704234,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b077bf420135524ca72ce47",
-      "company": "SpaceX",
-      "title": "Software Engineer, Low Latency Computing (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6b077bf420135524ca72ce47",
-      "location": "Palo Alto, CA; Redmond, WA",
       "datePosted": 1795704234,
       "source": "newgrad-jobs",
       "season": null,
