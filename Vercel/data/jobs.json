@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-27T13:30:19Z",
+  "generatedAt": "2026-11-27T13:40:18Z",
   "totalOpen": 1501,
   "totalNewgrad": 228,
   "totalOther": 1273,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6ad13539a4f99fef81942b0c",
+      "company": "S&P Global",
+      "title": "Machine Learning Operations Engineer I",
+      "url": "https://jobright.ai/jobs/info/6ad13539a4f99fef81942b0c",
+      "location": "United States",
+      "datePosted": 1795755112,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6aeceeb2ab48a7079381fe01",
       "company": "Nooks",
@@ -25,7 +36,7 @@
       "datePosted": 1795750297,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6acfc7fafe7a9bd5a6b99f33",
@@ -446,10 +457,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b077c4d6c5083822fdc9dc5",
+      "id": "newgrad-jobs:6b077c0920135524ca72ce4d",
       "company": "SpaceX",
       "title": "Software Engineer, High Performance Computing (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6b077c4d6c5083822fdc9dc5",
+      "url": "https://jobright.ai/jobs/info/6b077c0920135524ca72ce4d",
       "location": "Palo Alto, CA; Redmond, WA",
       "datePosted": 1795704234,
       "source": "newgrad-jobs",
@@ -662,17 +673,6 @@
       "location": "Research Triangle Park, Durham, NC",
       "datePosted": 1795679710,
       "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6ac560d5372c01f6cd7396f6",
-      "company": "Vantor",
-      "title": "AI Engineer Intern",
-      "url": "https://jobright.ai/jobs/info/6ac560d5372c01f6cd7396f6",
-      "location": "United States",
-      "datePosted": 1795677322,
-      "source": "newgrad-jobs",
       "season": null,
       "isNew": false
     },
