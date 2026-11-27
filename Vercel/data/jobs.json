@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-27T07:40:18Z",
+  "generatedAt": "2026-11-27T07:50:16Z",
   "totalOpen": 1510,
   "totalNewgrad": 237,
   "totalOther": 1273,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6a874f3ad34f700f87fc4b78",
+      "company": "Impulse Space",
+      "title": "Embedded Software Engineer",
+      "url": "https://jobright.ai/jobs/info/6a874f3ad34f700f87fc4b78",
+      "location": "Redondo Beach, CA",
+      "datePosted": 1795734083,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": true
+    },
     {
       "id": "newgrad-jobs:6b0929fe700f378d6486761c",
       "company": "Vigilon Cyber",
@@ -14,7 +25,7 @@
       "datePosted": 1795733886,
       "source": "newgrad-jobs",
       "season": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "newgrad-jobs:6a49a575971cd25b06f95bbc",
@@ -171,10 +182,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b077c12b624dcc57de7a79e",
+      "id": "newgrad-jobs:6b077bf420135524ca72ce47",
       "company": "SpaceX",
       "title": "Software Engineer, Low Latency Computing (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6b077c12b624dcc57de7a79e",
+      "url": "https://jobright.ai/jobs/info/6b077bf420135524ca72ce47",
       "location": "Palo Alto, CA; Redmond, WA",
       "datePosted": 1795704234,
       "source": "newgrad-jobs",
@@ -661,17 +672,6 @@
       "url": "https://jobright.ai/jobs/info/6b077db2fbcb892eea5e372c",
       "location": "United States",
       "datePosted": 1795662843,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6a56c164e9b77f668bd65a9e",
-      "company": "Ascend",
-      "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6a56c164e9b77f668bd65a9e",
-      "location": "San Francisco, CA",
-      "datePosted": 1795662778,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
