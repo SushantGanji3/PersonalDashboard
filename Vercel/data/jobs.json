@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-27T03:30:18Z",
-  "totalOpen": 1510,
-  "totalNewgrad": 233,
-  "totalOther": 1277,
+  "generatedAt": "2026-11-27T03:40:14Z",
+  "totalOpen": 1514,
+  "totalNewgrad": 235,
+  "totalOther": 1279,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -127,10 +127,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6b077c4d6c5083822fdc9dc5",
+      "id": "newgrad-jobs:6b077c0920135524ca72ce4d",
       "company": "SpaceX",
       "title": "Software Engineer, High Performance Computing (Starlink)",
-      "url": "https://jobright.ai/jobs/info/6b077c4d6c5083822fdc9dc5",
+      "url": "https://jobright.ai/jobs/info/6b077c0920135524ca72ce4d",
       "location": "Palo Alto, CA; Redmond, WA",
       "datePosted": 1795704234,
       "source": "newgrad-jobs",
@@ -611,10 +611,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6aeab18d913589212b1f8803",
+      "id": "newgrad-jobs:6a56243d53b3962b910ae587",
       "company": "Nooks",
       "title": "Software Engineer",
-      "url": "https://jobright.ai/jobs/info/6aeab18d913589212b1f8803",
+      "url": "https://jobright.ai/jobs/info/6a56243d53b3962b910ae587",
       "location": "San Francisco, CA; Seattle, WA",
       "datePosted": 1795664851,
       "source": "newgrad-jobs",
@@ -655,10 +655,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6ad8b47039284cd52427f9e7",
+      "id": "newgrad-jobs:6afb4d97317abe715a262f52",
       "company": "CCS",
       "title": "Associate Systems Engineer",
-      "url": "https://jobright.ai/jobs/info/6ad8b47039284cd52427f9e7",
+      "url": "https://jobright.ai/jobs/info/6afb4d97317abe715a262f52",
       "location": "Hauppauge, NY",
       "datePosted": 1795661052,
       "source": "newgrad-jobs",
@@ -765,6 +765,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:a35e10a0-e126-4aa8-8637-5dd5fcb11c64",
+      "company": "Northrop Grumman",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1KU",
+      "location": "United States",
+      "datePosted": 1795576287,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:b83dd5ca-0ff8-4558-a2ff-f5535e54b006",
       "company": "Bandwidth",
       "title": "Software Engineer Intern",
@@ -862,6 +873,28 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:20e09034-0cdd-4dac-8eeb-0b213e0c58ba",
+      "company": "Samsung Research",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/1L4",
+      "location": "Mountain View, CA",
+      "datePosted": 1795526081,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
+      "id": "simplify:0a5422dd-b665-4a40-b3b3-4d5bce84cd2e",
+      "company": "Samsung Research",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/1L3",
+      "location": "Plano, TX",
+      "datePosted": 1795525886,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
     },
     {
       "id": "simplify:cc12a432-2919-4efb-b67c-4f7271c2852a",
@@ -1288,39 +1321,6 @@
       "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
       "location": "SF",
       "datePosted": 1794978014,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:372dccd9-1f30-4e08-89c6-71ef714dfb33",
-      "company": "Qualcomm",
-      "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446722177119",
-      "location": "Austin, TX, Raleigh, NC, NYC, San Diego, CA",
-      "datePosted": 1794958802,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:ce603d9a-9797-4514-9528-325bb2c3b5ba",
-      "company": "Amazon",
-      "title": "Robotics \u2013 Hardware Development Engineer",
-      "url": "https://amazon.jobs/en/jobs/10607546/robotics-hardware-development-engineer",
-      "location": "North Reading, MA, Westborough, MA",
-      "datePosted": 1794958774,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:fb343e07-172a-4524-9c6c-df8e4b48c5a2",
-      "company": "Relativity Space",
-      "title": "Software Engineer I, Factory Platform",
-      "url": "https://go.vansh.nyc/1BH",
-      "location": "Long Beach, CA",
-      "datePosted": 1794958247,
       "source": "aggregator",
       "season": null,
       "isNew": false
