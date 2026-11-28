@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-28T01:20:17Z",
-  "totalOpen": 1499,
-  "totalNewgrad": 223,
-  "totalOther": 1276,
+  "generatedAt": "2026-11-28T01:30:19Z",
+  "totalOpen": 1495,
+  "totalNewgrad": 224,
+  "totalOther": 1271,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -842,6 +842,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:33327e9b-9970-4f52-8e0e-05fd8e7af73a",
+      "company": "NVIDIA",
+      "title": "Software Engineer Intern, Simulation Technology",
+      "url": "https://go.vansh.nyc/1LG",
+      "location": "Santa Clara, CA, Canada, United States",
+      "datePosted": 1795564800,
+      "source": "aggregator",
+      "season": "Summer",
+      "isNew": true
+    },
+    {
       "id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
       "company": "Meta AI",
       "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
@@ -1312,17 +1323,6 @@
       "datePosted": 1795040940,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:6054bb8d-d1b9-4d18-9704-df7278e18f08",
-      "company": "RTX",
-      "title": "Software Engineer I",
-      "url": "https://go.vansh.nyc/1Cf",
-      "location": "Cedar Rapids, IA",
-      "datePosted": 1795021455,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
