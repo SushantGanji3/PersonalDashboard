@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-28T02:00:20Z",
-  "totalOpen": 1496,
+  "generatedAt": "2026-11-28T02:10:15Z",
+  "totalOpen": 1500,
   "totalNewgrad": 224,
-  "totalOther": 1272,
+  "totalOther": 1276,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -160,10 +160,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a989dff83fc633357632945",
+      "id": "newgrad-jobs:6a9a5221fe45b8490f603859",
       "company": "Shure",
       "title": "Cloud Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a989dff83fc633357632945",
+      "url": "https://jobright.ai/jobs/info/6a9a5221fe45b8490f603859",
       "location": "Niles, IL",
       "datePosted": 1795774981,
       "source": "newgrad-jobs",
@@ -941,6 +941,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:8e244c2a-10fd-404a-89ce-22136a00bce1",
+      "company": "RTX",
+      "title": "Systems Engineer Co-op - Summer/Fall 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op--Summer-Fall-2027-_01890127",
+      "location": "Cedar Rapids, IA",
+      "datePosted": 1795478400,
+      "source": "aggregator",
+      "season": "Fall 2027",
+      "isNew": true
+    },
+    {
       "id": "simplify:cc12a432-2919-4efb-b67c-4f7271c2852a",
       "company": "Shield AI",
       "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
@@ -1027,6 +1038,17 @@
       "source": "aggregator",
       "season": null,
       "isNew": false
+    },
+    {
+      "id": "simplify:24f84daf-027b-4476-8fdf-6e284260b7fa",
+      "company": "RTX",
+      "title": "Embedded Systems Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950",
+      "location": "Windsor Locks, CT",
+      "datePosted": 1795392000,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
     },
     {
       "id": "simplify:eb6c7eef-df83-46b0-a229-541b0fc0f578",
@@ -1301,28 +1323,6 @@
       "datePosted": 1795046400,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
-      "company": "Zoox",
-      "title": "Contract Student Worker - Software Engineer - 40hrs/wk",
-      "url": "https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29/apply",
-      "location": "Foster City, CA",
-      "datePosted": 1795045791,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:26fa4e32-b501-44ab-87b3-253fe6adc3a1",
-      "company": "Zoox",
-      "title": "Data Scientist",
-      "url": "https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply",
-      "location": "Foster City, CA",
-      "datePosted": 1795045790,
-      "source": "aggregator",
-      "season": null,
       "isNew": false
     }
   ]
