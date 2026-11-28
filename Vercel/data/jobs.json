@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-28T01:00:24Z",
-  "totalOpen": 1496,
-  "totalNewgrad": 225,
-  "totalOther": 1271,
+  "generatedAt": "2026-11-28T01:10:16Z",
+  "totalOpen": 1499,
+  "totalNewgrad": 223,
+  "totalOther": 1276,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
+    {
+      "id": "newgrad-jobs:6b0a07470dcf7f64923b6171",
+      "company": "ALLETE",
+      "title": "Programmer Analyst I",
+      "url": "https://jobright.ai/jobs/info/6b0a07470dcf7f64923b6171",
+      "location": "Annapolis, MD; Roseville, MN",
+      "datePosted": 1795794430,
+      "source": "newgrad-jobs",
+      "season": null,
+      "isNew": false
+    },
     {
       "id": "newgrad-jobs:6ad258adf04335fc70ed4f8b",
       "company": "Impulse Space",
@@ -34,17 +45,6 @@
       "url": "https://jobright.ai/jobs/info/6abde2d84ac55253f5d5f16f",
       "location": "San Francisco, CA",
       "datePosted": 1795790604,
-      "source": "newgrad-jobs",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "newgrad-jobs:6b0a07470dcf7f64923b6171",
-      "company": "ALLETE",
-      "title": "Programmer Analyst I",
-      "url": "https://jobright.ai/jobs/info/6b0a07470dcf7f64923b6171",
-      "location": "Annapolis, MD; Roseville, MN",
-      "datePosted": 1795790535,
       "source": "newgrad-jobs",
       "season": null,
       "isNew": false
@@ -138,10 +138,10 @@
       "isNew": false
     },
     {
-      "id": "newgrad-jobs:6a9a5221fe45b8490f603859",
+      "id": "newgrad-jobs:6a989dff83fc633357632945",
       "company": "Shure",
       "title": "Cloud Software Engineering Intern",
-      "url": "https://jobright.ai/jobs/info/6a9a5221fe45b8490f603859",
+      "url": "https://jobright.ai/jobs/info/6a989dff83fc633357632945",
       "location": "Niles, IL",
       "datePosted": 1795774981,
       "source": "newgrad-jobs",
@@ -798,6 +798,39 @@
       "isNew": false
     },
     {
+      "id": "simplify:7bf38ba6-b6d7-419e-9045-6bc3cf1391d4",
+      "company": "NVIDIA",
+      "title": "Finance AI Engineer Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+      "location": "Canada, Santa Clara, CA, United States",
+      "datePosted": 1795564800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:ad11f524-0929-491f-9aaa-55d13ed77160",
+      "company": "NVIDIA",
+      "title": "Software Engineer Intern - Simulation Technology",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+      "location": "Canada, Santa Clara, CA, United States",
+      "datePosted": 1795564800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
+      "id": "simplify:667e7720-4bff-494a-8eb7-6e2041fc3195",
+      "company": "NVIDIA",
+      "title": "Developer Technology Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
+      "location": "Canada, Santa Clara, CA, United States",
+      "datePosted": 1795564800,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:c2a12afb-39bf-40f2-bee7-0f807d7d875b",
       "company": "Cisco",
       "title": "Security Engineer I Intern",
@@ -1288,39 +1321,6 @@
       "url": "https://go.vansh.nyc/1Cf",
       "location": "Cedar Rapids, IA",
       "datePosted": 1795021455,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:3966d53c-f47c-411d-add7-e02180c0f986",
-      "company": "Anduril",
-      "title": "Business Systems Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007",
-      "location": "Costa Mesa, CA",
-      "datePosted": 1795020329,
-      "source": "aggregator",
-      "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:73863aac-542c-4b1b-a529-014e8b839a56",
-      "company": "Airbnb",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1C6",
-      "location": "San Francisco, CA",
-      "datePosted": 1794978623,
-      "source": "aggregator",
-      "season": "Summer",
-      "isNew": false
-    },
-    {
-      "id": "simplify:27c63eb2-f606-4f11-bf9a-3392a2d765f1",
-      "company": "Airbnb",
-      "title": "Software Engineer Intern",
-      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
-      "location": "SF",
-      "datePosted": 1794978014,
       "source": "aggregator",
       "season": null,
       "isNew": false
