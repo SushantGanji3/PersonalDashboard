@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-28T01:30:19Z",
-  "totalOpen": 1495,
+  "generatedAt": "2026-11-28T01:40:15Z",
+  "totalOpen": 1496,
   "totalNewgrad": 224,
-  "totalOther": 1271,
+  "totalOther": 1272,
   "source": "job-alerts (SimplifyJobs / vanshb03) + newgrad-jobs.com",
   "items": [
     {
@@ -850,7 +850,7 @@
       "datePosted": 1795564800,
       "source": "aggregator",
       "season": "Summer",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
@@ -1282,6 +1282,17 @@
       "isNew": false
     },
     {
+      "id": "simplify:f3ce032f-3da7-469e-99e8-99c6b50ddb73",
+      "company": "Northrop Grumman",
+      "title": "Artificial Intelligence/Machine Learning Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1",
+      "location": "Morrisville, NC",
+      "datePosted": 1795046400,
+      "source": "aggregator",
+      "season": null,
+      "isNew": true
+    },
+    {
       "id": "simplify:d7fcce10-ad3b-469a-86e4-8cbb5df3a52a",
       "company": "Lucid Motors",
       "title": "Software Engineer Intern, SDET",
@@ -1312,17 +1323,6 @@
       "datePosted": 1795045790,
       "source": "aggregator",
       "season": null,
-      "isNew": false
-    },
-    {
-      "id": "simplify:e529c65c-8dcb-4357-b569-f601c04b1677",
-      "company": "Microsoft",
-      "title": "Research Intern, Computer Vision and Deep Learning",
-      "url": "https://go.vansh.nyc/1Cv",
-      "location": "Redmond, WA",
-      "datePosted": 1795040940,
-      "source": "aggregator",
-      "season": "Summer",
       "isNew": false
     }
   ]
